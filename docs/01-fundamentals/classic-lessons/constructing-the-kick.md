@@ -4,8 +4,7 @@
 
 In my first article on the kick serve, I broke down the kick motion into
 its important technical elements\--the \"building materials\" so to
-speak. ([Click
-Here](http://www.tennisplayer.net/members/classiclessons/chris_lewit/keys_to_the_kick/keys_to_the_kick_page1.html).)
+speak. ([link](http://www.tennisplayer.net/members/classiclessons/chris_lewit/keys_to_the_kick/keys_to_the_kick_page1.html).)
 Now comes the exciting part: the actual construction project! In this
 second article, I will describe how to take the materials and engineer a
 beautiful, mechanically sound kick serve\--like building a house\--step
@@ -126,8 +125,7 @@ previously attained the various elements I outlined in the first
 article. These elements include touching the chin with the tossing arm,
 good tossing technique, keeping the head still, the back arch, the
 shoulder tilt with hip into the court, the hip drag, the body extension,
-and so on. (Again, [Click
-Here](http://www.tennisplayer.net/members/classiclessons/chris_lewit/keys_to_the_kick/keys_to_the_kick_page1.html)
+and so on. (Again, [link](http://www.tennisplayer.net/members/classiclessons/chris_lewit/keys_to_the_kick/keys_to_the_kick_page1.html)
 for the first article.)
 
 If any of these critical elements are missing, I will work on them in a
@@ -212,8 +210,7 @@ clearance and to drop the ball in.**
 
 The High String Treatment is an additional, great supplemental drill for
 Stage 1. I use the Airzone device because it is a helpful aid to
-learning the kick serve. ([Click
-Here.](http://www.oncourtoffcourt.com/p-123-airzone-system.aspx)) I have
+learning the kick serve. ([link](http://www.oncourtoffcourt.com/p-123-airzone-system.aspx)) I have
 no affiliation with the company, and I usually hate gimmicks, but this
 tool works well as a visual aid for the player. I want my student
 hitting kick serves that are clearing the net by at least 3 feet with
@@ -443,8 +440,7 @@ Again, I outlined the three variations in the first article. These are
 what I call the Slice Topspin, the Twist, and the True Topspin. Learning
 the hand and wrist nuances of the slice topspin, twist, and true topspin
 serve is one of the final steps in truly developing the kick serve into
-a versatile, flexible weapon. ([Click
-Here](http://www.tennisplayer.net/members/biomechanics/brian_gordon/upward_swing_part_1/upward_swing_part_1.html)
+a versatile, flexible weapon. ([link](http://www.tennisplayer.net/members/biomechanics/brian_gordon/upward_swing_part_1/upward_swing_part_1.html)
 to read about the differences in the upward swing to produce the
 variations.)
 

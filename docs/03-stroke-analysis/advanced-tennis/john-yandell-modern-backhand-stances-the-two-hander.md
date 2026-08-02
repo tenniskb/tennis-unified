@@ -133,8 +133,7 @@ Put another way, if you were standing on the baseline, some
 groundstrokes hit in the pro game would bounce over your shoulder. This
 point isn't understood\--especially by television commentators who
 played before poly strings and the evolution of modern technique changed
-the game. (For more on the effect of poly string, [Click
-Here](https://www.tennisplayer.net/members/physics_of_tennis/josh_speakman/copolystrings_how_do_they_work/).)
+the game. (For more on the effect of poly string, [link](https://www.tennisplayer.net/members/physics_of_tennis/josh_speakman/copolystrings_how_do_they_work/).)
 
 But of the two open stances, why the semi open? The answer is greater
 coiling in the preparation, and therefore the additional forward body
@@ -163,8 +162,7 @@ swing.
 
 Let's see this by comparing the angle of the shoulder turn for Andy
 Murray who tends to hit more fully open forehands to Novak Djokovic who
-uses the semi-open stance more predominantly. ([Click
-Here](https://www.tennisplayer.net/members/avancedtennis/john_yandell/building%20_the_modern%20_forehand/andy_murray_open_stance_forehand/)
+uses the semi-open stance more predominantly. ([link](https://www.tennisplayer.net/members/avancedtennis/john_yandell/building%20_the_modern%20_forehand/andy_murray_open_stance_forehand/)
 for more analysis of Andy's forehand.)
 
 Look at the angle of the torso at the furthest point in the turn. Andy
@@ -250,8 +248,7 @@ one-hander\--about 45 degrees to the net. And that is basically the same
 regardless of stances.
 
 This is what Rick Macci and Brian Gordon call a pull push swing
-combination. ([Click
-Here](https://www.tennisplayer.net/members/high_performance/rick_macci/develop_atp_backhand_2/).)
+combination. ([link](https://www.tennisplayer.net/members/high_performance/rick_macci/develop_atp_backhand_2/).)
 There is no rotational increase or advantage with the open stance on the
 two hander, because the shoulders finish parallel to the net.
 Understanding this is critical to understanding the predominance of
@@ -265,8 +262,7 @@ backhand grip with the bottom hand.
 
 Typically this is what can be describes as a mild to a strong
 continental. In Tennisplayer grip terminology that could be a 2 / 1 with
-the index knuckle on bevel 2 and the heel pad on bevel 1. ([Click
-Here](The%20One%20Handed%20Topspin%20Backhand.docx).)
+the index knuckle on bevel 2 and the heel pad on bevel 1. ([link](The%20One%20Handed%20Topspin%20Backhand.docx).)
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -277,8 +273,7 @@ confidence](media_john-yandell-modern-backhand-stances-the-two-hander/media/imag
 This can be paired with either an eastern or a mild semi western grip
 with the top hand. In the same terminology that would be a 3 / 3 with
 the heel pad and the index knuckle both square behind the handle. Or a 4
-/ 3 with the index knuckle shifted one bevel down. ([Click
-Here](Common%20Elements%20Across%20the%20Grip%20Styles.docx).)
+/ 3 with the index knuckle shifted one bevel down. ([link](Common%20Elements%20Across%20the%20Grip%20Styles.docx).)
 
 When we get to the women we will see that there are other variations
 with the bottom hand that involve less of a grip shift, and that for
@@ -320,7 +315,7 @@ awesome achievement, but in the supercharged world of high velocity pro
 groundstrokes, the top players have found a way to turn further.
 
 **[Semi-open forehand. Closed stance backhand. The effect is the same. A
-significant increase in the coiling in the upper body.]{.mark}**
+significant increase in the coiling in the upper body.]**
 
 But that's not all. Note with the diagonal step into the closed stance
 two hander how wide the players' base becomes. Look also at the legs.
@@ -352,8 +347,7 @@ The next question to ask however is whether the closed stance is
 suitable in your game. The answer is possibly. **[A common problem for
 club players is the tendency to chase the ball with the front foot and
 to pivot wildly through the shot with the back leg swinging around too
-soon.]{.mark}** ([Click
-Here](https://www.tennisplayer.net/members/teaching_systems/kerry_mitchell/the_lesson_process_backhand/).)
+soon.]** ([link](https://www.tennisplayer.net/members/teaching_systems/kerry_mitchell/the_lesson_process_backhand/).)
 
 Watch the back leg on these high level two handers. Watch how it stays
 behind the player, well behind the front foot.
@@ -366,7 +360,7 @@ swing around to the players left side to start the recovery. In fact it
 is still in a closed stance alignment or something close.
 
 **[Controlling the rotation and the timing of the recovery steps is
-critical for the stroke to function effectively.]{.mark}** Talented
+critical for the stroke to function effectively.]** Talented
 junior players can often move directly into extreme closed stance and
 still do this, but as a club player, develop control of the sequence of
 the motion first.

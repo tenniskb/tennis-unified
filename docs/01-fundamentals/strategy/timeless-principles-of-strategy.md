@@ -5,7 +5,7 @@
 ------------------------------------------------------------------------
 
   ------------------------------------------------------------------------------------------------------------------------------------------
-   ![](media_timeless-principles-of-strategy/media/image1.png)
+   ![link](media_timeless-principles-of-strategy/media/image1.png)
   ------------------------------------------------------------------------------------------------------------------------------------------
                                         **Click Photo. What are the advantages of all court tennis?**
 
@@ -266,10 +266,10 @@ court.**
 
 **[[At the net, your goal is to intercept as many balls as possible and
 volley them to the opening between your opponents in the middle of the
-court for winners.]{.mark} [As you become confident at the net, you
+court for winners.] [As you become confident at the net, you
 increase your range of movement - moving further toward the middle or
 even your partner's side to pick off weak
-returns.]{.mark}]{.underline}**
+returns.]]**
 
 **As you play better and better doubles, you will want to get to the
 net as quickly as possible. This means coming in on cross court rallies
@@ -324,7 +324,7 @@ again, get help from your partner poaching on your good returns. The
 keys are obvious - consistency and help.
 
   ------------------------------------------------------------------------------------------------------------------------------------------
-   ![](media_timeless-principles-of-strategy/media/image1.png)
+   ![link](media_timeless-principles-of-strategy/media/image1.png)
   ------------------------------------------------------------------------------------------------------------------------------------------
                                  **Click Photo to hear 4 final points about winning in singles and doubles.**
 

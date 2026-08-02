@@ -12,8 +12,7 @@ As a player do you understand the difference between rhythm and timing?
 Most players don't, yet learning to play with timing is critical to
 taking your game to the next level.
 
-In my first article ([Click
-Here](Timing%20and%20the%20Feel%20of%20the%20Racket%20Head.docx)) we
+In my first article ([link](Timing%20and%20the%20Feel%20of%20the%20Racket%20Head.docx)) we
 looked at the first principle of good timing: \"knowing\" where your
 racket head is in relation to the ball\--most importantly at contact.
 The second principle is knowing when to release your forward swing. This
@@ -348,8 +347,7 @@ of these elements we've explored\--and attack accordingly.
 
 I hope you will try these drills out and use them to help develop your
 own sense of the racket head and timing. Go out and have some fun with
-it! And please let me know in the Forum ([Click
-Here](http://www.tennisplayer.net/bulletin/forumdisplay.php?f=1)) what
+it! And please let me know in the Forum ([link](http://www.tennisplayer.net/bulletin/forumdisplay.php?f=1)) what
 you think of the drills and how you made out.
 
 **Note:** Special thanks to Tennisplayer.net Contributing Editor Ed

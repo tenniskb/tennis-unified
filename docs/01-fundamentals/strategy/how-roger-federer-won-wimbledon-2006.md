@@ -40,8 +40,7 @@ I want him to win in Paris too. And I want Nadal to win Wimbledon.
 So what did the numbers show about how Roger won the match? And what
 were the differences between Paris and Wimbledon?
 
-In the article last month on the French ([Click
-Here](http://www.tennisplayer.net/members/strategy/john_yandell/federer_versus_nadal_french_open_2006/federer_versus_nadal_french_open_2006.html)),
+In the article last month on the French ([link](http://www.tennisplayer.net/members/strategy/john_yandell/federer_versus_nadal_french_open_2006/federer_versus_nadal_french_open_2006.html)),
 I said that the official statistics don't make sense sometimes.
 Wimbledon was one of those times. Here's what I mean. According to the
 Wimbledon website, Roger hit 43 winners, and Nadal made 29 unforced
@@ -71,8 +70,7 @@ Forced Errors\--points Roger won by creating pressure on Nadal, or vice
 versa. That's the missing statistic we need to really understand what
 is happening in pro matches, as Patrick McEnroe keeps pointing out. A
 forced error is as good as a winner, and has the same value when we
-measure the Aggressive Margin ([Click
-Here](The%20Unknown%20Statistics%20-The%20Forced%20Error.docx).)
+measure the Aggressive Margin ([link](The%20Unknown%20Statistics%20-The%20Forced%20Error.docx).)
 
 Roger created a whopping 61 Forced Errors. He actually won more points
 through Forced Errors than through Winners or Unforced Errors. His total
@@ -97,8 +95,7 @@ Federer on Forced Errors.
 
 How did Roger create them? It was in large part his phenomenal serving.
 That fluid, minimal motion that we have already looked at in technical
-detail. ([Click
-Here](http://www.tennisplayer.net/members/avancedtennis/john_yandell/federer_serve/federer_serve_part1/federer_serve_part1.html).)
+detail. ([link](http://www.tennisplayer.net/members/avancedtennis/john_yandell/federer_serve/federer_serve_part1/federer_serve_part1.html).)
 He hit 13 aces, but more importantly, almost 30 other serves that were
 unreturnable, that is, serves that were Forced Errors. So that was 43
 free points, more than twice as many points as he won outright on his
@@ -112,8 +109,7 @@ return.
 
 His serving goes a long way in accounting for the difference in his
 Aggressive Margin compared to Nadal. The Aggressive Margin is the other
-key statistic we've looked at in these articles. ([Click
-Here](The%20Aggressive%20Margin.docx).) Once again. if you add up a
+key statistic we've looked at in these articles. ([link](The%20Aggressive%20Margin.docx).) Once again. if you add up a
 player's winners and forced errors and then subtract his unforced
 errors, that gives you the Aggressive Margin. For the match, Federer was
 +65 for the match or +16/set. Nadal was +44 for the match or +11/set.
@@ -220,7 +216,7 @@ the line forehand with the court open. That got Federer to 3-3 when it
 looked like Nadal might take over the breaker. But Roger blunted the
 onslaught.
 
-![](media_how-roger-federer-won-wimbledon-2006/media/image9.webp)
+![link](media_how-roger-federer-won-wimbledon-2006/media/image9.webp)
 
 **A few clutch volleys at the right times.**
 
@@ -301,8 +297,7 @@ no one else on the court\--and he plays the same way. Image isn't
 everything, but image does reflect and influence reality.
 
 If you've read some of the articles on the great champions of the past,
-([Click
-Here](http://www.tennisplayer.net/members/champions/Ed_Atkinson/Ed_Atkinson_Bill_Tilden/Ed_Atkinson_Bill_Tilden.html))
+([link](http://www.tennisplayer.net/members/champions/Ed_Atkinson/Ed_Atkinson_Bill_Tilden/Ed_Atkinson_Bill_Tilden.html))
 you may have noticed the pictures of the original 'tennis blazers'
 that were worn by the top players all the way through the 1940s.
 

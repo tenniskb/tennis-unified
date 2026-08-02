@@ -7,13 +7,13 @@
 If you happened to see Grigor Dimitrov at Indian Wells, you saw how a
 beautiful one-handed slice still works at the highest levels. Over the
 years we have published many articles on the slice including in my
-teaching series. (Click Here.)
+teaching series. 
 
 But John Craig's perspective adds a lot. In this series he not only
 goes over the technical, he'll show the tactical for all those players
 below the pro level.
 
-![](media_the-slice-backhand-part1/media/image1.png)
+![link](media_the-slice-backhand-part1/media/image1.png)
 
 ![A person smiling for the camera](media_the-slice-backhand-part1/media/image2.jpeg)
 

@@ -10,7 +10,7 @@ confidence](media_first-strike-tennis-all-levels/media/image1.webp)
 
 **Do high school players play mainly long, tortuous points?**
 
-In the last article ([Click Here](First%20Strike%20Tennis.docx)) we saw
+In the last article ([link](First%20Strike%20Tennis.docx)) we saw
 that at the pro level the player who wins the four hit battles wins the
 match. Could that be true at all levels?
 
@@ -138,7 +138,7 @@ organize a practice session:
 Enjoying this series? Stay tuned for yet another critical insight from
 our research data---the relationship between winners and errors.
 
-![](media_first-strike-tennis-all-levels/media/image5.png)
+![link](media_first-strike-tennis-all-levels/media/image5.png)
 
 | ![A person smiling for the camera Description automatically generated with low | Craig O'Shannessy is widely recognized as |
 | --- | --- |

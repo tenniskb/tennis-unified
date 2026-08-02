@@ -40,7 +40,7 @@ generated](media_the-strategy-zone-phase-2-hurt/media/image2.webp)
 **Agassi, dominating the center of the court with change of direction.**
 
 In our previous articles we looked at the various dimensions of phase 1,
-Control. [Click Here](The%20Strategy%20Zone%20-%20Introduction.docx)
+Control. [link](The%20Strategy%20Zone%20-%20Introduction.docx)
 As we saw, there are many potential ways to establish control: deep
 drives, short angles, loops, serves wide or down the T, and also, deep
 neutral zone or angle returns.
@@ -166,7 +166,7 @@ Combinations.**
 short ball or a ball in the middle that will allow you to move on to the
 Finish stage.** **[Is this best accomplished by a
 crosscourt forehand and a down the line forehand? Or is the same pattern
-on the backhand side? Or the reverse? Or something else?]{.underline}**
+on the backhand side? Or the reverse? Or something else?]**
 
 **2-1 Combinations**
 
@@ -196,9 +196,9 @@ confidence](media_the-strategy-zone-phase-2-hurt/media/image7.webp)
 
 **[[Again, in the 2-1 Combinations, the actual diagonals can be put
 together in many different ways. Two crosscourt forehands, followed by a
-forehand down the line, or the reverse]{.underline}. Or either of these
+forehand down the line, or the reverse]. Or either of these
 combinations hit off your backhand side, or the same diagonals hit from
-the inside position.]{.mark}** **Two inside out forehands, then an
+the inside position.]** **Two inside out forehands, then an
 inside in, for example. Or the opposite, two inside ins and then the
 inside out. You get the idea.**
 
@@ -238,14 +238,14 @@ and/or backward, rather than simply side to side. This is more difficult
 to do and also involves a great distance to
 travel.**
 
-**[The second advanced variation is the [use of disguise]{.underline},
-especially in the 2-1 Combinations. If]{.mark}** **[for example you are
+**[The second advanced variation is the [use of disguise],
+especially in the 2-1 Combinations. If]** **[for example you are
 going back crosscourt on the second ball, it is easy to disguise a
-short, off speed angle to wrong foot the opponent.]{.mark}** **[[Now
+short, off speed angle to wrong foot the opponent.]** **[[Now
 your opponent becomes even more confused and more likely to
-guess.]{.mark} [All this leads to tactical and eventually mental
+guess.] [All this leads to tactical and eventually mental
 domination. And that leads to winning more matches with less
-effort.]{.mark}]{.underline}**
+effort.]]**
 
 So, that covers the basis geometric, tactically, and psychological
 components of the Hurt phase. As you work to develop your skills in

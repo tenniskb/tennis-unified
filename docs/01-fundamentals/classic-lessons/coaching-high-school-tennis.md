@@ -165,8 +165,7 @@ reasons.
                                                                                                                                                                                      the director of junior development at Carmel
                                                                                                                                                                                      Valley Ranch, where he developed high school
                                                                                                                                                                                      players who were finalists in over 20 individual
-                                                                                                                                                                                     sectional championships. [Click
-                                                                                                                                                                                     Here](mailto:rmgessford@gmail.com) to email Roy!
+                                                                                                                                                                                     sectional championships. [link](mailto:rmgessford@gmail.com) to email Roy!
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -------------------------------------------------
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

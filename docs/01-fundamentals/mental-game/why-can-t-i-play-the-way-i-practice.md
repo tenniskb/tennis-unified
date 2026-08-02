@@ -144,10 +144,9 @@ Your anticipation will improve because you will be more present. Your
 mind will be more alert and you will become aware of your opponent's
 patterns. This is hugely important for competitive success. For more on
 how this works, I highly recommend Jay Berger's two articles on
-Anticipation. ([Click
-Here.](http://www.tennisplayer.net/members/high_performance/jay_berger/anticipation/anticipation.html))
+Anticipation. ([link](http://www.tennisplayer.net/members/high_performance/jay_berger/anticipation/anticipation.html))
 
-![](media_why-can-t-i-play-the-way-i-practice/media/image5.webp)
+![link](media_why-can-t-i-play-the-way-i-practice/media/image5.webp)
 
 **Breaking through the emphasis on results requires courage.**
 
@@ -305,7 +304,7 @@ how to improve communication with players, manage players' ambivalence
 about the change process, and helping coaches teach players to apply
 their skills in competition.
 
-![](media_why-can-t-i-play-the-way-i-practice/media/image9.webp)
+![link](media_why-can-t-i-play-the-way-i-practice/media/image9.webp)
 
 **The communication gap between players and coaches affects learning.**
 
@@ -541,7 +540,7 @@ tennis of your life. See how to embrace pressure, maintain confidence,
 and increase your focus and intensity. Jim Loehr calls Jeff's book: \"a
 real contribution to the field of applied sports psychology.\"\
 \
-[Click Here to
+[ to
 Order!](http://www.amazon.com/Best-Tennis-Your-Life-Performance/dp/1558708448/ref=pd_bbs_sr_1?ie=UTF8&s=books&qid=1200341206&sr=8-1)
 
 ![A person smiling for the camera Description automatically generated
@@ -557,7 +556,7 @@ doubles in the United States.
 
 Greenwald is the author of [\"The Best Tennis of Your
 Life\"](http://www.amazon.com/Best-Tennis-Your-Life-Performance/dp/1558708448/ref=pd_bbs_sr_1?ie=UTF8&s=books&qid=1200341206&sr=8-1)
-published by Betterway. [Click Here to
+published by Betterway. [ to
 order.](http://www.amazon.com/Best-Tennis-Your-Life-Performance/dp/1558708448/ref=pd_bbs_sr_1?ie=UTF8&s=books&qid=1200341206&sr=8-1)
 Jeff has a private practice based in San Francisco and Marin County,
 California. He can be reached at 415-640-6928 or by email at

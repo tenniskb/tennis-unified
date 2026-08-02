@@ -5,15 +5,14 @@
 ------------------------------------------------------------------------
 
 Last month Jim Loehr talked about his academy and how it has redefined
-success for the players in junior tennis and in life. ([Click
-Here.](https://www.tennisplayer.net/members/mentalgame/jim_loehr/the_only_way_to_win/our_academy))
+success for the players in junior tennis and in life. ([link](https://www.tennisplayer.net/members/mentalgame/jim_loehr/the_only_way_to_win/our_academy))
 Now more. Like asking kids to go to the end of their lives and imagine
 what factors will define how they are remembered. Like video taping
 their matches and critiquing not just their tennis but how they are
 treating their opponents. Like teaching them why tennis is priceless
 gift to help them grow.
 
-![](media_the-only-way-to-win-what-our-academy-players-do/media/image1.png)
+![link](media_the-only-way-to-win-what-our-academy-players-do/media/image1.png)
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A person smiling for the camera Description automatically generated with medium                                                                                                                   Jim Loehr is a legendary pioneer in the field of

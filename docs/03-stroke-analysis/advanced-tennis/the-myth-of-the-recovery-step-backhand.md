@@ -7,8 +7,7 @@
 In the last article we saw the sequencing of the recovery step on the
 forehand in pro tennis. Contrary to some coaching theories, the outside
 foot does not swing around as part of the stroke, instead happening
-after the completion of the extension of the forward swing. ([Click
-Here](The%20myth%20of%20the%20Recovery%20Step%20-%20Forehand.docx).)
+after the completion of the extension of the forward swing. ([link](The%20myth%20of%20the%20Recovery%20Step%20-%20Forehand.docx).)
 
 Now let's look at the recovery step the pro backhand, both the
 one-hander and the two. High video shows that despite important
@@ -74,7 +73,7 @@ around.
 **[The sequence is forward swing, recovery step. And from there the
 player pushes off with the recovery step to return toward the center of
 the court. Again, forward swing, recovery step, and then movement back
-toward the center.]{.mark}**
+toward the center.]**
 
 **The Rear Foot**
 
@@ -96,10 +95,8 @@ is the outside or left foot closest to the ball.
 On high level men's backhands, however, we have seen that the preferred
 stance is closed stance, created with a large diagonal cross step.
 
-This is true for the two-hander, ([Click
-Here](https://www.tennisplayer.net/members/avancedtennis/john_yandell/modern_backhand_stances/two_hander/))
-and for the one-hander as well. ([Click
-Here](https://www.tennisplayer.net/members/avancedtennis/john_yandell/modern_backhand_stances/one_hander/).)
+This is true for the two-hander, ([link](https://www.tennisplayer.net/members/avancedtennis/john_yandell/modern_backhand_stances/two_hander/))
+and for the one-hander as well. ([link](https://www.tennisplayer.net/members/avancedtennis/john_yandell/modern_backhand_stances/one_hander/).)
 In both cases with the closed stance, the recovery foot is now the foot
 furthest from the ball, significantly behind the position of the front
 foot.

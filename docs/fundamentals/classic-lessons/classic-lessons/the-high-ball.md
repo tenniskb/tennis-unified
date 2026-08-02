@@ -147,7 +147,7 @@ ball better.
 this foot directly behind the incoming ball. That can be a good image
 but if you follow it too literally you'll end up on top of the ball.
 
-**The Stance:The reality is your left foot should position inside of where you'll actually hit the ball.The distance should be roughly the length of your non-dominant arm across the body.** ([Click Here to read my article on the role
+**The Stance:The reality is your left foot should position inside of where you'll actually hit the ball.The distance should be roughly the length of your non-dominant arm across the body.** ([ to read my article on the role
 of the non-dominant
 arm](The%20Opposite%20Arm%20-%20Ground%20strokes%20-%20Part%201.docx)).
 
@@ -201,7 +201,7 @@ balls you can deal will naturally vary with how you hold the racket.
 **Basically, the further underneath the handle you position your hand, the higher your natural contact point.**
 
 I personally use a moderate semi-western grip on my forehand, about a 3
-1/2 / 3 1/2 according to the Tennisplayer scale (Click Here) or
+1/2 / 3 1/2 according to the Tennisplayer scale  or
 somewhere between Andre Agassi and David Nalbandian. With this grip a
 ball at mid-chest level is like hitting the jackpot.
 

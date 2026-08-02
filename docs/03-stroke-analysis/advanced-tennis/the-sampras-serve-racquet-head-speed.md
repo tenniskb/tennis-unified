@@ -25,7 +25,7 @@ ever filtered down into coaching, teaching or commentating.
 
 Now the work of Brian Gordon is changing all that. We've already
 published his groundbreaking series on the biomechanics of the serve.
-([Click Here.)](../Biomechanics/Science%20of%20Biomechanics%20TOC.docx)
+([)](../Biomechanics/Science%20of%20Biomechanics%20TOC.docx)
 Now he and I are collaborating on another amazing project - the first
 ever 3 dimensional analysis of the serve of Pete Sampras - filmed in
 live competitive play.
@@ -98,12 +98,10 @@ confidence](media_the-sampras-serve-racquet-head-speed/media/image4.webp)
 To me one of the fascinating aspects will be seeing what the numbers
 tell us about the accuracy of the analyses I've done in previous
 articles on Pete's serve. These are the qualitative high speed video
-analysis I did in conjunction with our 3D filming ([[Click
-Here]{.underline}](http://www.tennisplayer.net/members/tour_strokes/john_yandell/sampras_serve/sampras_serve_part_1/sampras_serve_part_1.html)),
+analysis I did in conjunction with our 3D filming ([[]](http://www.tennisplayer.net/members/tour_strokes/john_yandell/sampras_serve/sampras_serve_part_1/sampras_serve_part_1.html)),
 and the longer series of articles on Pete's motion I did that was one
 of the seminal components when we launched Tennisplayer over 6 years
-ago. ([[Click
-Here]{.underline}](http://www.tennisplayer.net/members/avancedtennis/john_yandell/sampras_serve/sampras_new_filming_protocols/sampras_new_filming_protocols.html).)
+ago. ([[]](http://www.tennisplayer.net/members/avancedtennis/john_yandell/sampras_serve/sampras_new_filming_protocols/sampras_new_filming_protocols.html).)
 How much of all that will this new perspective confirm, and how much
 needs modification?
 
@@ -207,11 +205,11 @@ but in each phase the speed of the racket changes by different amounts
 at different rates in intervals of different lengths.
 
   ---------------------------------------------------------------------------------
-  [Phase 1]{.mark} [Speed at       [Speed at     [Gain in        [Duration
-                   Start]{.mark}   End]{.mark}   Speed]{.mark}   (Approx)]{.mark}
+  [Phase 1] [Speed at       [Speed at     [Gain in        [Duration
+                   Start]   End]   Speed]   (Approx)]
   ---------------- --------------- ------------- --------------- ------------------
-  [The Arm         [0 mph]{.mark}  [3.5          [3.5            [1/2
-  Drop]{.mark}                     mph]{.mark}   mph]{.mark}     second]{.mark}
+  [The Arm         [0 mph]  [3.5          [3.5            [1/2
+  Drop]                     mph]   mph]     second]
 
   ---------------------------------------------------------------------------------
 
@@ -446,7 +444,7 @@ the followthrough, we can see that the racket has actually lost half its
 speed at what is usually identified as the point of maximum
 \"pronation.\" This is with the racket face on inverted edge.
 
-![](media_the-sampras-serve-racquet-head-speed/media/image14.png)
+![link](media_the-sampras-serve-racquet-head-speed/media/image14.png)
 
 **Click here to study Brian's 200 frame per second video for
 yourself.**
@@ -475,7 +473,7 @@ Good questions. As we work through the data on the other aspects of the
 motion, we'll see what light may be shed. Stay tuned.
 
 **To view the complete Stroke Archives of Pete Sampras serves,
-[\]{.underline}
+[\]
 [click here.](Advanced%20Tennis%20TOC.docx)**
 
 ![A person smiling for the camera Description automatically generated

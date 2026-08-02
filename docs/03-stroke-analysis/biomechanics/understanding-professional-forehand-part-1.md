@@ -15,7 +15,7 @@ The pillars of the Type III ATP forehand are defined by the forward
 swing, independent of the backswing and followthrough.
 
 My previous article described the Four Pillars of the Type III ATP
-forehand. [Click Here](https://www.tennisplayer.net/members/biomechanics/brian_gordon/four_pillars_atp_type_iii)
+forehand. [link](https://www.tennisplayer.net/members/biomechanics/brian_gordon/four_pillars_atp_type_iii)
 
 These pillars are exclusively defined by attributes of the forward swing
 -- that is, they are independent of the backswing and follow through.
@@ -88,7 +88,7 @@ forward swing or the mechanics are mostly \"Functional.\" Functional
 means that the motion produced (primarily hand speed) is important to
 the forward swing. Positional means not.
 
-![](media_understanding-professional-forehand-part-1/media/image3.png)
+![link](media_understanding-professional-forehand-part-1/media/image3.png)
 
 Press 'play' to hear Brian discuss further discuss and demonstrate the
 diversity of backswing types.
@@ -146,7 +146,7 @@ regard. The hand speed produced by non-twisting shoulder rotation is a
 function of the velocity of that joint rotation and the distance between
 the shoulder and the hand\--a distance greater for a straighter arm.
 
-![](media_understanding-professional-forehand-part-1/media/image5.png)
+![link](media_understanding-professional-forehand-part-1/media/image5.png)
 
 Press 'play' to see Brian further explain and demonstrate the bent
 elbow forehand and how it complicates developing vertical racquet head
@@ -180,7 +180,7 @@ contribution from shoulder internal rotation completely.
 So that's it for (most) of the hard core biomechanical theory. In the
 second article, also in this issue, we will turn to the analysis of
 specific players including Federer, Nadal, Djokovic, Sock, Dominic
-Thiem, Garbine Mugurusa, and Simona Halep. [Click Here](https://www.tennisplayer.net/members/biomechanics/brian_gordon/understanding_professional_forehands/part_02)
+Thiem, Garbine Mugurusa, and Simona Halep. [link](https://www.tennisplayer.net/members/biomechanics/brian_gordon/understanding_professional_forehands/part_02)
 
 | ![A person holding a tennis racket Description automatically | Dr. Brian Gordon has changed the understanding of the |
 | --- | --- |
@@ -194,8 +194,8 @@ Thiem, Garbine Mugurusa, and Simona Halep. [Click Here](https://www.tennisplayer
 |  | knowledge across the entire range of tennis performance. |
 |  |  |
 |  | To visit his website, [**[Click |
-|  | Here!]{.underline}**](https://tennisperformanceresearch.com/) |
+|  | Here!]**](https://tennisperformanceresearch.com/) |
 |  |  |
 |  | Top contact him directly, [**[Click |
-|  | Here!]{.underline}**](mailto:gamabrian@icloud.com) |
+|  | Here!]**](mailto:gamabrian@icloud.com) |
 

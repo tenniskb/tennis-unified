@@ -15,8 +15,7 @@ match/point is a small hunt. It's in the DNA of all people. It's kill,
 raid, destroy, eat, or be eaten.
 
 The Warrior mentality is the opposite of The Disruptor mentality, well
-described in Joel Drucker's recent article. ([Click
-Here](Confessions%20of%20a%20Tennis%20Disruptor.docx).) There is a place
+described in Joel Drucker's recent article. ([link](Confessions%20of%20a%20Tennis%20Disruptor.docx).) There is a place
 for the Disruptor in the game and he can be is a challenging opponent
 for those who are unprepared.
 
@@ -175,8 +174,7 @@ pass or cause errors with short soft angles.
 
 Then he will crush the overheads. When the Disruptor tries to lob over
 is backhand side, he will demoralize him with powerful backhand
-overheads. ([Click
-Here](https://www.tennisplayer.net/members/classiclessons/geoff_williams/the_backhand_overhead/)
+overheads. ([link](https://www.tennisplayer.net/members/classiclessons/geoff_williams/the_backhand_overhead/)
 for my article on that.) All the tricks are variations are met with
 aggression.
 

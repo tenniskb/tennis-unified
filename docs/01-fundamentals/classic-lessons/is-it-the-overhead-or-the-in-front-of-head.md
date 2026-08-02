@@ -40,8 +40,7 @@ improves results in competitive matches - in fact the opposite.
 That negative experience can actually bias players against trying to
 improve technique in the long run. I feel that basic technical
 restructuring has to happen outside the competitive cycle. (For a great
-article on overhead mechanics by Kerry Mitchell, [Click
-Here](The%20Overhead.docx).)
+article on overhead mechanics by Kerry Mitchell, [link](The%20Overhead.docx).)
 
 ![A person playing tennis Description automatically
 generated](media_is-it-the-overhead-or-the-in-front-of-head/media/image2.webp)
@@ -115,7 +114,7 @@ of your head on both.
 
 **[When you can step in off the front foot to hit an offensive overhead,
 the key is finding the correct downward angle. The most common mistake
-is to overhit.]{.underline}**
+is to overhit.]**
 
 ![A person holding a tennis racket Description automatically
 generated](media_is-it-the-overhead-or-the-in-front-of-head/media/image4.webp)
@@ -178,7 +177,7 @@ it's not.**
 
 **[Establish the contact in front of the head\--not over the head. If
 you do this, you can hit very effective overheads from no man's
-land.]{.underline}**
+land.]**
 
 In baseball, the first thing outfielders do is drop back, gauge
 everything, and then go forward if they need to.

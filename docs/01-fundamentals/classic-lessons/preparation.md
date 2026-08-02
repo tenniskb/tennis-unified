@@ -2,10 +2,8 @@
 
 In the first two articles in this series, we outlined the multiple
 factors that go into deciding to hit the one-hander and what the
-advantages and disadvantages are, especially for young players. ([Click
-Here](https://www.tennisplayer.net/members/classiclessons/chris_lewit/one_handed_backhand_part_1)
-for Part 1. [Click
-Here](https://www.tennisplayer.net/members/classiclessons/chris_lewit/one_handed_backhand_part_2)
+advantages and disadvantages are, especially for young players. ([link](https://www.tennisplayer.net/members/classiclessons/chris_lewit/one_handed_backhand_part_1)
+for Part 1. [link](https://www.tennisplayer.net/members/classiclessons/chris_lewit/one_handed_backhand_part_2)
 for Part 2.)
 
 If you have made that evaluation and are excited about developing a
@@ -106,8 +104,7 @@ shoulder. The shoulder angle to the baseline can be up to 150 degrees.
 The quick deep turn should happen in the blink of an eye. With my
 students we train it religiously.
 
-Nick Saviano calls this \"pulling the shoulder\". ([Click
-Here](https://www.tennisplayer.net/members/famouscoach/nick_saviano/saviano_optimizing_your_technique_part1/saviano_optimizing_your_technique_part1.html)
+Nick Saviano calls this \"pulling the shoulder\". ([link](https://www.tennisplayer.net/members/famouscoach/nick_saviano/saviano_optimizing_your_technique_part1/saviano_optimizing_your_technique_part1.html)
 for his excellent articles on Tennisplayer.)
 
 This level of body turn will naturally result in a closed stance as the

@@ -15,7 +15,7 @@ In the first article I gave an overview of what I called the new magic
 numbers in tennis. Compiled from all the levels of tennis, these numbers
 included average rally length, the dominant role of errors in
 determining outcome, and the surprising effectiveness of net approaches.
-[Click Here](The%20New%20Magic%20Numbers.docx)
+[link](The%20New%20Magic%20Numbers.docx)
 
 This new statistical perspective is turning the way the game is
 understood and coached upside down. But now let's look at probably the

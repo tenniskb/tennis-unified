@@ -126,7 +126,7 @@ potential power one could create at the point of contact.
 Like a weight at the end of a rope, if your rotate your body a little,
 the weight will move a lot and at a much greater speed. **[The same
 centrifugal force applies in tennis, a little body rotation will
-generate much greater racquet speed]{.underline}**.
+generate much greater racquet speed]**.
 
 **The biomechanical sequence starts by pushing off the back foot,
 turning the back leg's shin, knee, and thigh towards the net creating

@@ -5,8 +5,7 @@
 **Dr. Brian Gordon**
 
 My recent articles have questioned the assertion that females can't hit
-an \"ATP Forehand\". ([Click
-Here](Have%20Tennis%20Coaches%20Failed%20female%20athletes.docx).) But
+an \"ATP Forehand\". ([link](Have%20Tennis%20Coaches%20Failed%20female%20athletes.docx).) But
 what is an ATP forehand? Good question.
 
 It is not clear when the predominant forehand style on the men's tour
@@ -46,7 +45,7 @@ in the Type III swing?**
 
 **Four Pillars**
 
-![](media_the-4-pillars-of-the-atp-type-iii-swing/media/image2.png)
+![link](media_the-4-pillars-of-the-atp-type-iii-swing/media/image2.png)
 
 **Pillar 1: the body motions to create forward racquet speed are
 separate from those creating vertical racquet
@@ -79,13 +78,13 @@ rotation and non-twisting shoulder rotation) are separate from those
 causing vertical speed (shoulder twisting rotation or internal
 rotation).
 
-![](media_the-4-pillars-of-the-atp-type-iii-swing/media/image3.png)
+![link](media_the-4-pillars-of-the-atp-type-iii-swing/media/image3.png)
 
 **Pillar II: Independent arm movement is the key to a more linear swing
 path.**
 
 **[The result is the ability to concurrently maximize speed and spin.
-There is no trade-off.]{.mark}**
+There is no trade-off.]**
 
 **The independent arm contribution is key.**
 **The separation of racquet velocity to unique sources is only truly
@@ -101,7 +100,7 @@ rotations (pelvis, torso, arm) attenuates this additional load. The Type
 III model is characterized by a very specific sequencing (timing and
 magnitude) of these body rotations.***
 
-![](media_the-4-pillars-of-the-atp-type-iii-swing/media/image4.png)
+![link](media_the-4-pillars-of-the-atp-type-iii-swing/media/image4.png)
 
 **Pillar III: The more linear path to the ball, in line with close to
 the shot line.**
@@ -121,7 +120,7 @@ proportions for each rotation throughout the
 motion.** **[This is an additional consideration in
 the sequencing of body rotations in the Type III model. Not only is
 rotation sequencing necessary to decrease the load on the shoulder it
-must also facilitate hand path linearization.]{.mark}**
+must also facilitate hand path linearization.]**
 
 **Neuromuscular Facilitation**
 
@@ -133,7 +132,7 @@ linear hand path implies a forward oriented pulling force on the grip.
 force) as the forward swing is initiated it will rotate into the dynamic
 slot (the flip in tennis speak). The racquet rotation will in turn
 rotate the arm externally prior to internal rotation that creates
-vertical racquet head speed.]{.mark}**
+vertical racquet head speed.]**
 
 **In other words, the racquet rotates the arm (externally) then the
 arm (internally) rotates the racquet to produce vertical racquet head
@@ -141,7 +140,7 @@ speed. Generated this way, the external to internal coupling engages
 certain elements of the stretch-shorten
 mechanism.**
 
-![](media_the-4-pillars-of-the-atp-type-iii-swing/media/image5.png)
+![link](media_the-4-pillars-of-the-atp-type-iii-swing/media/image5.png)
 
 **Pillar IV: The head of the racquet is outside the hand, leading to
 external then internal rotation of the arm.**
@@ -176,8 +175,8 @@ forehand options in the professional realm. Should be interesting!
 |  | knowledge across the entire range of tennis performance. |
 |  |  |
 |  | To visit his website, [**[Click |
-|  | Here!]{.underline}**](https://tennisperformanceresearch.com/) |
+|  | Here!]**](https://tennisperformanceresearch.com/) |
 |  |  |
 |  | Top contact him directly, [**[Click |
-|  | Here!]{.underline}**](mailto:gamabrian@icloud.com) |
+|  | Here!]**](mailto:gamabrian@icloud.com) |
 

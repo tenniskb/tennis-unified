@@ -47,8 +47,7 @@ This may sound like a theory spawned in the halls of academia, and that
 is certainly true. For years a handful of researchers have used various
 filming and analysis methods to try to quantify the strokes in tennis.
 But these results have been published primarily in academic journals,
-with very few exceptions. ([Click
-Here](Science%20of%20Biomechanics%20TOC.docx) to some of my previous
+with very few exceptions. ([link](Science%20of%20Biomechanics%20TOC.docx) to some of my previous
 work on the serve available on Tennisplayer.)
 
 Previously, the complexity and labor intensive nature of the process
@@ -166,7 +165,7 @@ technologies are prone to some error. It is the job of the biomechanist
 to keep this error within tolerable levels.
 
 **[The measurements for this presentation were made with magnetic sensor
-technology which records at 125 frames/second.]{.mark}** For real time
+technology which records at 125 frames/second.]** For real time
 analysis this system offers by far the best current application in terms
 of speed and ease of use.
 
@@ -180,8 +179,8 @@ advantage is the rapid generation of the analysis, a matter of hours, as
 opposed to literally months with some video or film based systems.
 
 **[After the data is captured on the court, our custom software goes
-through a detailed]{.mark}** **[processing and calculation process to
-produce the results you see on the interface.]{.mark}** Although there
+through a detailed]** **[processing and calculation process to
+produce the results you see on the interface.]** Although there
 is a tremendous wealth of possible information, the analysis interface
 presented here includes the elements that I've found to be most useful
 in stroke production assessment.
@@ -293,8 +292,8 @@ analysis. Stay Tuned.
 |  | knowledge across the entire range of tennis performance. |
 |  |  |
 |  | To visit his website, [**[Click |
-|  | Here!]{.underline}**](https://tennisperformanceresearch.com/) |
+|  | Here!]**](https://tennisperformanceresearch.com/) |
 |  |  |
 |  | Top contact him directly, [**[Click |
-|  | Here!]{.underline}**](mailto:gamabrian@icloud.com) |
+|  | Here!]**](mailto:gamabrian@icloud.com) |
 

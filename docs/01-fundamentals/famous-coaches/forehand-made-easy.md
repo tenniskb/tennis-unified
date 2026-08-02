@@ -93,7 +93,7 @@ control.
 body.** **[*But here is where the problem begins.*
 [I'm now using my arm muscles to control the angle of the face of the
 racquet head as I swing and it may become
-unstable.]{.mark}]{.underline}** **And remember, it only has to be off
+unstable.]]** **And remember, it only has to be off
 a quarter of an inch for you to lose control of the
 shot.**
 
@@ -106,14 +106,14 @@ shot.**
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **The final power source is the wrist.** ***[And
-again, this is not a terribly stable source, either.]{.mark}*** **It
+again, this is not a terribly stable source, either.]*** **It
 wiggles. If the racquet is a little open or a little closed, you'll
 make a mistake.**
 
 **The bottom line of all of this is that the best strokes are hit
 using mostly body rotation and leg drive forward for power and less
 arm.** ***[Top pros use their wrists for
-flexibility]{.mark}, but it's something that you have to play for many,
+flexibility], but it's something that you have to play for many,
 many years and be awfully good at to use.***
 
 Jimmy Connors probably executed this best - he just rotated and stepped.
@@ -132,7 +132,7 @@ the shoulders. The stroke starts when you rotate the shoulders and step
 forward.
 
   ------------------------------------------------------------------------------------------------------------------------------------
-  ![](media_forehand-made-easy/media/image5.png)\
+  ![link](media_forehand-made-easy/media/image5.png)\
   **Click Photo to see Allen Fox talk about the height of the backswing.**
   ------------------------------------------------------------------------------------------------------------------------------------
 
@@ -180,13 +180,13 @@ have consistent timing.**
 **Approach the ball with your shoulders turned toward the net, then
 rotate and drive your weight into the ball.**
 **[[Notice the body weight going forward and the shoulders rotating
-heavily.]{.mark} [The racquet goes back early, it's waiting. The
+heavily.] [The racquet goes back early, it's waiting. The
 shoulders are turned by the time the ball hits the court, then there's
-a rotation forward and a leg drive forward.]{.mark}]{.underline}**
+a rotation forward and a leg drive forward.]]**
 **[[The arm's relaxed, the shoulders turned, the arm's thrown forward
 by the shoulders and the legs and the weight goes forward nicely into
-the ball.]{.mark} [This way, you can generate a lot of power without
-much effort.]{.mark}]{.underline}** Of course, if you'd rather make
+the ball.] [This way, you can generate a lot of power without
+much effort.]]** Of course, if you'd rather make
 your life more complex by imitating the Spanish players or Gustavo
 Kuerten, that's up to you.
 
@@ -197,7 +197,7 @@ Kuerten, that's up to you.
 |  | stress, finishing matches, and developing confidence. Based on a life time of high level play and coaching success, |
 |  | it's a must for all competitive players. |
 |  |  |
-|  | [Click Here to |
+|  | [ to |
 |  | Order](http://www.amazon.com/Tennis-Winning-Mental-Allen-Fox/dp/0615407765/ref=sr_1_1?ie=UTF8&qid=1336083459&sr=8-1). |
 
 
@@ -220,7 +220,7 @@ Kuerten, that's up to you.
 |  | outline how to confront and overcome these fears in your |
 |  | life and career, even when they are initially subconscious. |
 |  | Must reading from one of the great thinkers in tennis, and |
-|  | a Renaissance Man in life. [Click Here to |
+|  | a Renaissance Man in life. [ to |
 |  | Order](http://www.tennis-warehouse.com/descpage-MIND.html). |
 |  |  |
 |  | To purchase this book you can also send a check for \$17.95 |

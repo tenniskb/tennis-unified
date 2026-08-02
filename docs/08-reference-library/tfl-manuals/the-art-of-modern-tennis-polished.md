@@ -1,6 +1,6 @@
 # The_Art_of_Modern_Tennis_Polished
 
-**[THE ART OF MODERN TENNIS]{.smallcaps}**
+**[THE ART OF MODERN TENNIS]**
 
 A Complete Reference Manual for Elite Players and Coaches
 
@@ -199,7 +199,7 @@ immediately relevant to your training or coaching. Use the Glossary
 (Appendix A) when a term is unfamiliar --- it covers every named concept
 in the manual.
 
-**[PART I --- FOUNDATIONS]{.smallcaps}**
+**[PART I --- FOUNDATIONS]**
 
 ## **Chapter 1: The Kinetic Chain & Biomechanical Foundations**
 
@@ -1268,7 +1268,7 @@ immediately to court movement patterns.
 | measurably faster court coverage within four to six weeks. |
 
 
-**[PART II --- THE STROKES]{.smallcaps}**
+**[PART II --- THE STROKES]**
 
 *Each stroke chapter follows the same architecture: Biomechanics →
 Mental Game → Patterns of Play → Drills → Elite Track → Coach Track*
@@ -3874,7 +3874,7 @@ type called at different points in the sequence.
 | the right diagnostic to use. |
 
 
-**[PART III --- THE COMPLETE GAME]{.smallcaps}**
+**[PART III --- THE COMPLETE GAME]**
 
 ## **Chapter 10: Strategy, Tactics & Data-Driven Patterns**
 
@@ -5597,7 +5597,7 @@ on.
 | assuming the issue is mental. |
 
 
-**[PART IV --- THE FUTURE]{.smallcaps}**
+**[PART IV --- THE FUTURE]**
 
 ## **Chapter 13: Tennis 2026 & Beyond**
 

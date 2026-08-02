@@ -13,10 +13,9 @@ In Part 1 of this series on the kick serve, I presented the technical
 reference points for the kick serve motion. This included explaining the
 three versions of the kick that a player needs to be a complete
 competitive server. These versions are true topspin, slice topspin, and
-twist. [Click Here](Keys%20to%20the%20Kick%20Serve.docx) Then in Part
+twist. [link](Keys%20to%20the%20Kick%20Serve.docx) Then in Part
 2, I presented the drill progressions and a training plan for developing
-the kick in all variations. ([Click
-Here](Constructing%20the%20Kick.docx).)
+the kick in all variations. ([link](Constructing%20the%20Kick.docx).)
 
 Now, in this third article, I want to further discuss some important
 questions regarding this controversial serve and outline what I see as
@@ -143,7 +142,7 @@ your insecurity.
 
 ***[There is significant disagreement in the coaching community about
 whether pros should\--or even do\--arch their backs on the kick, and if
-so how and when.]{.mark}*** I think the high-speed video shows without
+so how and when.]*** I think the high-speed video shows without
 question that many top pros do indeed arch their backs significantly on
 the kick.
 
@@ -154,7 +153,7 @@ generated](media_the-kick-serve-part-3-phylosophic-issues-common-mistakes/media/
 **The question is whether the back arch is stressful.**
 
 ***[The video shows that at some point in most kick serves there is a
-significant convex shape in the back.]{.mark}*** This seems to be
+significant convex shape in the back.]*** This seems to be
 particularly true in servers with pinpoint stances, which is a stance
 that I personally favor. The question is not does it happen; the
 question is whether the back arch is a stressful or harmful motion.
@@ -196,7 +195,7 @@ postulate.
 ***[Simply put: more back arch equals more angle (specifically serving
 to the ad court) and more sidespin on the ball, which allows a player to
 strategically pull his opponent off the court - a critical advantage in
-today's pro game.]{.mark}***
+today's pro game.]***
 
 ### Sooner is Better?
 
@@ -215,7 +214,7 @@ learning a twist with a back arch. They should focus on learning good
 topspin and topspin slice serves. But for those players with healthy
 backs, the benefits of a great twist are too important to ignore because
 of what I feel is an unfounded and exaggerated fear of
-injury.]{.mark}***
+injury.]***
 
 I would also draw a distinction between coaching recreational versus
 competitive players. In my business, all the students I work with are
@@ -251,7 +250,7 @@ prehabilitation exercises in the next article. At my academy players
 actually work on this exact move as a variation of a yoga stretch in our
 system.
 
-![](media_the-kick-serve-part-3-phylosophic-issues-common-mistakes/media/image9.webp)
+![link](media_the-kick-serve-part-3-phylosophic-issues-common-mistakes/media/image9.webp)
 
 **Another tendency is to move the contact back too far, behind the edge
 of the body.**

@@ -126,12 +126,12 @@ with any of this.**
 As a book of the 1970's, it fed nicely into the emerging cultural
 zeitgeist. **[[It was, at its heart, anti-competitive and downplayed
 establishment ideas of hard work on technique, discipline, and playing
-to win.]{.mark} [Those of us around at the time found it seductive to
+to win.] [Those of us around at the time found it seductive to
 ditch old-fashioned precepts that forced our noses to the grindstone and
 stressed us out by pushing us to achieve. We enjoyed thinking we were
 smarter than the old fogies who developed the establishment principles.
 Since winning was hard to do, we were pleased to learn that it didn't
-matter.]{.mark}]{.underline}**
+matter.]]**
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                  ![A person hitting a ball with a tennis racket Description automatically
@@ -277,7 +277,7 @@ Visit him at [www.allenfoxtennis.net](http://www.allenfoxtennis.net)
 |  | stress, finishing matches, and developing confidence. Based on a life time of high level play and coaching success, |
 |  | it's a must for all competitive players. |
 |  |  |
-|  | [Click Here to |
+|  | [ to |
 |  | Order](http://www.amazon.com/Tennis-Winning-Mental-Allen-Fox/dp/0615407765/ref=sr_1_1?ie=UTF8&qid=1336083459&sr=8-1). |
 
 
@@ -300,7 +300,7 @@ Visit him at [www.allenfoxtennis.net](http://www.allenfoxtennis.net)
 |  | outline how to confront and overcome these fears in your |
 |  | life and career, even when they are initially subconscious. |
 |  | Must reading from one of the great thinkers in tennis, and |
-|  | a Renaissance Man in life. [Click Here to |
+|  | a Renaissance Man in life. [ to |
 |  | Order](http://www.tennis-warehouse.com/descpage-MIND.html). |
 |  |  |
 |  | To purchase this book you can also send a check for \$17.95 |

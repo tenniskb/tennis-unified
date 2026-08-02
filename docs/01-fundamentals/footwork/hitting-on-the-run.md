@@ -27,7 +27,7 @@ follow through of your strokes.
 
 Natural patterns of movement will emerge when you are firing on all
 cylinders and working hard to maintain the qualities of your Athletic
-Foundation. ([Click Here](The%20Athletic%20Foundation.docx) to read more
+Foundation. ([link](The%20Athletic%20Foundation.docx) to read more
 about this fundamental concept.) These techniques provide explosiveness
 both in reaction and recovery, and keep you smooth and fluid as you
 shift between stroke and movement.
@@ -49,9 +49,9 @@ in the Czech system from the beginning.
 The more I thought about it, the more it made sense. **[[The Czechs are
 teaching their players how to hit on the move from the very beginning,
 unlike American coaching who mostly teaches kids how to hit standing
-still.]{.mark} [The end result is American kids can handle balls fed
+still.] [The end result is American kids can handle balls fed
 right to them but in the heat of battle, their strokes can break down
-under the forces of movement.]{.mark}]{.underline}**
+under the forces of movement.]]**
 
 Now at the Academy we look specifically at the patterns of footwork
 players use on the run, and how they also relate to the ability to
@@ -250,9 +250,9 @@ generated](media_hitting-on-the-run/media/image10.webp)
 crossover steps or shuffle steps.**
 
 **[[Whatever the braking mechanism, proper body alignment is the key to
-the recovery movement back toward the middle.]{.mark} [Your shoulder
+the recovery movement back toward the middle.] [Your shoulder
 should remain facing the net. This is the key to protecting against your
-opponent hitting behind you.]{.mark}]{.underline}**
+opponent hitting behind you.]]**
 
 **This is the opposite of reaction and movement out to the ball, where
 your shoulders face in the direction you are

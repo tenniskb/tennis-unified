@@ -11,8 +11,7 @@ confidence](media_lateral-and-forward-movement/media/image1.webp)
 As we saw in Part 2, establishing upper body momentum in the direction
 of movement is an essential part of an explosive first step reaction.
 When your center of gravity is low it is much more natural to establish
-upper body momentum in your reaction and movement technique. ([Click
-Here](Advanced%20Reaction%20Steps.docx).)
+upper body momentum in your reaction and movement technique. ([link](Advanced%20Reaction%20Steps.docx).)
 
 **Lateral Movement**
 
@@ -179,8 +178,7 @@ The problem is that they are very slow and sluggish at getting up to
 speed. The end result is similar to starting a bike race in tenth gear
 rather than first, what I refer to as \"10th gear\" footwork. This is
 another benefit of training with the A.P. Belt. It effectively corrects
-the over-striding habit through resistance feedback. ([Click
-Here](http://www.active.com/event_detail.cfm?event_id=1175099)).
+the over-striding habit through resistance feedback. ([link](http://www.active.com/event_detail.cfm?event_id=1175099)).
 
 ![A person playing tennis Description automatically
 generated](media_lateral-and-forward-movement/media/image7.webp)
@@ -268,8 +266,8 @@ into the neutral.** **This has to do with the
 amount of body rotation players use with the more under the handle
 semi-western grips.** **[[It also has to do with
 the contact heights in the pro game which can reach shoulder level or
-even higher.]{.mark} [It also has to do with
-time]{.mark}]{.underline}**. **In situations where you are under
+even higher.] [It also has to do with
+time]]**. **In situations where you are under
 pressure with very little time to set up, the open stance is your best
 option.** The open stance also facilitates a
 quicker recovery after the hit. **To hit the open stance effectively,
@@ -293,9 +291,9 @@ foot nearest to the ball so that the heel of that foot naturally
 elevates slightly off the ground.** **[[In a
 neutral stance, your want your athletic foundation and body weight
 loaded into the back foot and prepared to transfer forward into the
-stroke with the step into the shot.]{.mark} [This happens as well in the
+stroke with the step into the shot.] [This happens as well in the
 closed stance though possibly for a briefer period before the cross
-step.]{.mark}]{.underline}**
+step.]]**
 
 **Recovery**
 
@@ -315,10 +313,10 @@ generated](media_lateral-and-forward-movement/media/image12.webp)\
 shuffle step.**
 
 **[[This combination of crossover and shuffle footwork patterns enables
-you to cover ground better.]{.mark} [The initial cross step brings you
+you to cover ground better.] [The initial cross step brings you
 back toward the middle quicker, and shuffling allows you to neutralize
 your body momentum and flow seamlessly into the split step footwork
-base.]{.mark}]{.underline}** **Too many players use shuffle footwork
+base.]]** **Too many players use shuffle footwork
 in situations where they should also be incorporating crossover
 footwork. For instance, from a wide position in the court, they try to
 shuffle the whole way back on recovery, which is too slow to be
@@ -338,10 +336,10 @@ foot nearest to the direction of movement. This pattern is not used as
 commonly as the crossover. But the cross-behind step is a very versatile
 technique used in more situations than you might think. **[[You'll see
 the cross-behind step used to move laterally in the runaround
-forehand.]{.mark} [This technique is also commonly used for the purpose
+forehand.] [This technique is also commonly used for the purpose
 of maintaining sideways alignment to the net when moving back to cover
 deep balls and on the follow-through when moving forward through slice
-approach shots.]{.mark}]{.underline}**
+approach shots.]]**
 
 **Forward Sprint Footwork**
 

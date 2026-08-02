@@ -13,7 +13,7 @@ elite players. Having just returned from the 2014 Easter Bowl\--the
 elite American junior tournament\--the luxury SUV's in the parking lot
 make it hard to argue.
 
-![](media_the-only-way-to-win-american-junior-development/media/image1.png)
+![link](media_the-only-way-to-win-american-junior-development/media/image1.png)
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A person smiling for the camera Description automatically generated with medium                                                                                                                   Jim Loehr is a legendary pioneer in the field of

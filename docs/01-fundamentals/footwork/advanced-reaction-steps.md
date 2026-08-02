@@ -108,7 +108,7 @@ quickly.**
 **[Learning to manage a consistently low center of gravity throughout
 play creates the fluid, smooth and agile look of a pro. It is the
 prerequisite for explosive movement with either of the two advanced
-first moves, the Pivot Step or the Drop Step.]{.underline}**
+first moves, the Pivot Step or the Drop Step.]**
 
 With a base of 2 to 3 shoulder widths, you can go from rest into motion
 faster, generate more power in your stroke production, and reverse
@@ -195,8 +195,8 @@ toe in the direction of movement.**
 **The outside foot essentially drives the body weight until it is
 positioned over the inside foot.** **[[This creates
 momentum with the shoulders leading in the direction of
-movement.]{.mark} With the body weight over the inside foot, the inside
-foot can drive hard and achieve maximum traction.]{.underline}** You see
+movement.] With the body weight over the inside foot, the inside
+foot can drive hard and achieve maximum traction.]** You see
 Federer use this technique to load his weight on the pivot foot,
 especially on his returns.
 

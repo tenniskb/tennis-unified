@@ -9,8 +9,7 @@ use to describe the forehand grips is inadequate for the complexity of
 the modern game. It's commonly believed that most top players use a
 \"semi-western\" grip. Actually there are at least six distinct grip
 structures in the men's game, and 3 of these are some version of a
-\"semi-western.\" In the first article ([Click
-Here](Modern%20Forehand%20Grip%20Variations%20Part%201.docx)), we looked
+\"semi-western.\" In the first article ([link](Modern%20Forehand%20Grip%20Variations%20Part%201.docx)), we looked
 at the 3 more conservative pro grips, the eastern, the modified eastern,
 and the mild semi-western. Now in part 2 we'll turn our attention to
 the 3 more extreme modern grips.
@@ -109,15 +108,13 @@ The 4 / 3 1/2 grip represents a technical divide in the modern game. For
 players who shift this far underneath, it's no longer natural or
 comfortable to step into the ball with a square stance. The torso
 rotation pattern, as we have seen, is generally greater than the less
-extreme grips. ([Click
-Here](http://www.tennisplayer.net/members/avancedtennis/john_yandell/building%20_the_modern%20_forehand/key_differences_grip_styles/key_differences_grip_styles_page3.html).)
+extreme grips. ([link](http://www.tennisplayer.net/members/avancedtennis/john_yandell/building%20_the_modern%20_forehand/key_differences_grip_styles/key_differences_grip_styles_page3.html).)
 4 / 3 1/2 players usually finish with the rear shoulder pointing
 partially or even all the way forward toward the net.
 
 There is no way to do that when you step into the ball unless the front
 foot twists out of the way in the middle of the swing, as we saw in the
-stances article ([Click
-Here](http://www.tennisplayer.net/members/avancedtennis/john_yandell/building%20_the_modern%20_forehand/stances_modern_forehand/stances_modern_forehand.html).)
+stances article ([link](http://www.tennisplayer.net/members/avancedtennis/john_yandell/building%20_the_modern%20_forehand/stances_modern_forehand/stances_modern_forehand.html).)
 So the neutral stance isn't natural with this grip. As a result, you
 don't see these players play like Agassi\--standing up on the baseline
 and stepping into the ball. Some 4 / 3 1/2 players, like David
@@ -165,8 +162,7 @@ The 4 / 3 1/2 grip is a watershed grip for a second reason that is
 related to all of the above factors The swings patterns with this grip
 tend to have more hand and arm rotation. Typically we see the players
 with this grip turn their hands around 180 degrees on most balls.
-([Click
-Here](http://www.tennisplayer.net/members/avancedtennis/john_yandell/building%20_the_modern%20_forehand/key_differences_grip_styles/key_differences_grip_styles_page4.html)
+([link](http://www.tennisplayer.net/members/avancedtennis/john_yandell/building%20_the_modern%20_forehand/key_differences_grip_styles/key_differences_grip_styles_page4.html)
 for more on Hand and Arm Rotation.) You will see some of these players
 like Hewitt or Nalbandian, or even Kuerten, come through with the racket
 more on edge on some balls, but more typically the hand rotates as part
@@ -208,8 +204,7 @@ comfortable hitting balls at shoulder height or even a little above.
 The extreme semi-western also promotes another increment of hand and arm
 rotation in the basic swing. 4 / 4 players can extend the swing through
 the line of the shot to what we've called the universal finish points,
-as we've seen. ([Click
-Here](http://www.tennisplayer.net/members/avancedtennis/john_yandell/building%20_the_modern%20_forehand/building_modern_forehand_pg1/building_modern_forehand_pg1.html).)
+as we've seen. ([link](http://www.tennisplayer.net/members/avancedtennis/john_yandell/building%20_the_modern%20_forehand/building_modern_forehand_pg1/building_modern_forehand_pg1.html).)
 But with this grip it becomes virtually impossible for the racket to
 come through on edge. You see these players rotate the hand 180 degrees
 or more on literally every ball. Are they swinging fast? It certainly
@@ -335,8 +330,7 @@ Nadal's reverse finish incorporates extreme hand rotation.
 
 It's been over 4 years since we began this journey and this series of
 over a dozen articles, dedicated to understanding the modern forehand
-through the analysis of our groundbreaking video resources. ([Click
-Here](Advanced%20Tennis%20TOC.docx).) Most efforts along those lines
+through the analysis of our groundbreaking video resources. ([link](Advanced%20Tennis%20TOC.docx).) Most efforts along those lines
 start with the grips. For us, this was the final piece of the puzzle
 after all our work teasing apart the complex and widely varied elements
 of the forehand swings in live professional tournaments. We've taken

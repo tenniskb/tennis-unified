@@ -9,7 +9,7 @@ and Snap on the Modern Forehand. Is there really a lag? And is there
 really a snap? Find out here, and learn what you should do to maximize
 the power, control and topspin on your forehand stroke!
 
-![](media_modern-forehand-lag-and-snap-or-lag-and-stroke/media/image1.wmf)
+![link](media_modern-forehand-lag-and-snap-or-lag-and-stroke/media/image1.wmf)
 
 ![A person smiling for the camera Description automatically generated
 with medium

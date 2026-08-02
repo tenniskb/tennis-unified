@@ -25,8 +25,7 @@ And this has some important implications for players and coaches.
 
 The study was a collaboration between Japanese researcher Prof. Shinji
 Sakurai, and two Australian researchers, Dr. Machar Reid, and Prof.
-Bruce Elliott. ([Click
-Here](../Biomechanics/The%20Power%20Serve%20-%20Part%201.docx) to read
+Bruce Elliott. ([link](../Biomechanics/The%20Power%20Serve%20-%20Part%201.docx) to read
 Bruce's articles on the Power Serve.) This article is an effort to
 translate this important academic work into language any tennis player
 can understand, written by John Yandell, Bruce Elliott, and Bruce's
@@ -120,8 +119,7 @@ phenomenal \"kick,\" or a high topspin component. Rusedski is viewed as
 having one of the great \"slice\" serves of all time. Yet the study
 showed relatively small differences in the spin axis as the ball spun
 off the strings, analogous to the results of the quantitative study
-summarized here. ([Click
-Here](http://www.tennisplayer.net/members/mystheavyball/john_yandell/speed_and_spin/speed_and_spin.html)
+summarized here. ([link](http://www.tennisplayer.net/members/mystheavyball/john_yandell/speed_and_spin/speed_and_spin.html)
 to see that article on Sampras and Rusedski.)
 
 ![A picture containing text, clipart Description automatically

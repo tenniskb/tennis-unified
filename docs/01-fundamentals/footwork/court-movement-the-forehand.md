@@ -94,7 +94,7 @@ players at all levels should develop as well.**
 
 **Common Movement Errors**
 
-[ ]{.underline}![A person playing tennis Description automatically
+[ ]![A person playing tennis Description automatically
 generated with medium
 confidence](media_court-movement-the-forehand/media/image5.webp)
 

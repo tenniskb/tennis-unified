@@ -149,9 +149,9 @@ groundstrokes.**
 
 **Hard-hitting teams typically seek to overpower their
 opponents.** **[[They rely on big first serves
-and/or power groundstrokes.]{.mark} [Both partners are frequently at the
+and/or power groundstrokes.] [Both partners are frequently at the
 baseline on the returns, with the server staying back to initiate the
-point with powerful groundstrokes.]{.mark}]{.underline}** This tactic of
+point with powerful groundstrokes.]]** This tactic of
 staying back is sometimes less a preferred tactic than an indication of
 the server's lack of confidence in the serve and volley.
 
@@ -383,7 +383,7 @@ you can work together to maximize the team performance.
                                                                                                                                                                            Tennis Canada, and the former Canadian Davis Cup captain and Olympic Coach.
                                                                                                                                                                            Louis is the author of the highly regarded book written for the International
                                                                                                                                                                            Tennis Federation, Doubles Tennis Tactics, and the companion DVD/video,
-                                                                                                                                                                           published by Human Kinetics. [Click Here to
+                                                                                                                                                                           published by Human Kinetics. [ to
                                                                                                                                                                            order.](http://www.humankinetics.com/products/showproduct.cfm?isbn=0736040072)
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ --------------------------------------------------------------------------------
 

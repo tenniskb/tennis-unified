@@ -2533,7 +2533,7 @@ Rotation
 — 
 Transition
 <TD approximately
-MWC —<$ams + §—1() inches
+MWC —<$ams + §—1 inches
 > 
 (15-25 cm)
 Contact point

@@ -3,11 +3,9 @@
 # John Yandell
 
 So in the first two articles we looked at the unique combination of grip
-and court position in Djokovic's forehand ([Click
-Here](John%20Yandell-Novak%20Djokovic's%20Forehand-A%20new%20Synthesis.docx)),
+and court position in Djokovic's forehand ([link](John%20Yandell-Novak%20Djokovic's%20Forehand-A%20new%20Synthesis.docx)),
 and the start of the preparation with the unit turn and the step
-combinations that initiate it ([Click
-Here](John%20Yandell-Novak%20Djokovic's%20Forehand-Start%20of%20the%20Preparation.docx)).
+combinations that initiate it ([link](John%20Yandell-Novak%20Djokovic's%20Forehand-Start%20of%20the%20Preparation.docx)).
 
 Now in this third article let's took a close look at the completion of
 the preparation, the backswing, and the set up of the hitting arm
@@ -55,8 +53,7 @@ When the left arm detaches, it then starts to straighten out and point
 toward the sideline to the player's right. The preparation or the full
 turn is complete when the left arm reaches maximum stretch and the
 shoulders reach maximum turn. This is a core position we have seen many
-times, a fundamental of good forehands at all levels. ([Click
-Here](John%20Yandell-Your%20forehand%20and%20the%20modern%20forehand.docx).)
+times, a fundamental of good forehands at all levels. ([link](John%20Yandell-Your%20forehand%20and%20the%20modern%20forehand.docx).)
 
 At the completion of the turn, the shoulders have reached an angle of at
 least 90 degrees to the baseline, and usually a little more, especially
@@ -76,7 +73,7 @@ the sideline.**
 A key point to notice\--and a required checkpoint for any player trying
 to develop the forehand\--is the timing of the turn. ***[Notice that the
 full turn and the arm stretch overlaps with the bounce of the ball on
-the court.]{.mark}***
+the court.]***
 
 This can vary somewhat, and for the pros is sometimes slightly after the
 actual bounce. But for the average player, timing the turn to the bounce
@@ -102,7 +99,7 @@ generated](media_john-yandell-novak-djokovic-s-forehand-the-full-turn-and-backsw
 hips less, probably about 45 to 60 degrees.**
 
 ***[The key is to get the hips rotating correctly at the start of the
-unit turn,]{.mark}*** a big problem for the average player as we saw in
+unit turn,]*** a big problem for the average player as we saw in
 the second article. As the preparation progresses, if the shoulders turn
 as far as is natural, if the left arm stretches, and if the alignment of
 the feet is also correct, the angle of the hips at the full turn will
@@ -193,14 +190,14 @@ height.**
 
 ***[Because in high level tennis the contact points tend to be above
 waist level\--and sometimes at shoulder level or higher\--most pros will
-hit semi-open.]{.mark}*** But, as noted, ***[when the ball is lower they
-will also step in and hit with a neutral or square stance.]{.mark}***
+hit semi-open.]*** But, as noted, ***[when the ball is lower they
+will also step in and hit with a neutral or square stance.]***
 
 **In the neutral stance, the player steps forward with the front foot
 and a line drawn across the tips of the toes of both feet tends to be
 parallel with the target line. *[This is different
 and not to be confused with the closed stance in which the player steps
-across this line.]{.mark}*** You do actually see closed stance
+across this line.]*** You do actually see closed stance
 occasionally on the forehand, but it is relatively rare in the pro game.
 
 The neutral or square stance is somewhat problematic in the pro game
@@ -262,8 +259,7 @@ the keys to power in the modern game, this does not seem to be the case.
 Rather, players use semi-open stance whenever possible because it allows
 them to coil the body more fully or at least more easily.
 
-As I wrote in the second article ([Click
-Here](John%20Yandell-Novak%20Djokovic's%20Forehand-Start%20of%20the%20Preparation.docx)),
+As I wrote in the second article ([link](John%20Yandell-Novak%20Djokovic's%20Forehand-Start%20of%20the%20Preparation.docx)),
 one of the most common problems for lower level players is that the left
 side and the left leg don't turn sufficiently. This restricts the
 entire turn. It also limits the choice of stances and tends to force
@@ -272,7 +268,7 @@ players to hit more radically open than is appropriate on most balls.
 **[For the average player the fully open stance just makes these
 problems worse and is the most difficult to master, because of the
 increased difficulty of turning fully. So it has even less applicability
-at the club level.]{.mark}**
+at the club level.]**
 
 **Backswing**
 
@@ -360,7 +356,7 @@ ways.
 
 Is the height of the backswing dependent on the height of the hand, or
 is it the height of the racket tip? The two heights are very different
-across a wide range of pro players. ([Click Here for more on the
+across a wide range of pro players. ([ for more on the
 backswing](John%20Yandell-Your%20forehand%20and%20the%20modern%20forehand.docx).)
 
 ![A person playing tennis Description automatically
@@ -413,8 +409,7 @@ So there is a huge range of backswing options all combined in different
 ways but different players---how far the hand goes up, how far the hand
 goes out to the player's right, how far it goes back behind him, how
 high the hand reaches, where the racket tip points, etc, to name a few.
-([Click
-Here](John%20Yandell-Your%20forehand%20and%20the%20modern%20forehand.docx)
+([link](John%20Yandell-Your%20forehand%20and%20the%20modern%20forehand.docx)
 for another backswing article.)
 
 It may be that one or another factor or a combination of factors has
@@ -433,8 +428,7 @@ differences between Nadal and Federer.**
 Nick Saviano, said it years ago, and I think he still may be right.
 There are fundamentals. Then there is flair. Something like the unit
 turn falls into the fundamental category. The backswing, at least if it
-stays within certain limits, is more a matter of flair. ([Click
-Here](https://www.tennisplayer.net/members/famouscoach/nick_saviano/saviano_optimizing_your_technique_part1/saviano_optimizing_your_technique_part1.html)
+stays within certain limits, is more a matter of flair. ([link](https://www.tennisplayer.net/members/famouscoach/nick_saviano/saviano_optimizing_your_technique_part1/saviano_optimizing_your_technique_part1.html)
 to read more from Nick.)
 
 If there are any relative advantages to certain backswings, one thing is
@@ -547,8 +541,7 @@ At the other end of the spectrum a player like Nadal can have the face
 closed 60 degrees or more, again as function of his grip. This is about
 the same for Novak, who as we saw has a surprisingly extreme grip, as
 extreme as Nadal or maybe even a little more underneath. (If you want to
-understand more about how and why this happens, [Click
-Here](John%20Yandell-Your%20forehand%20and%20the%20modern%20forehand.docx).)
+understand more about how and why this happens, [link](John%20Yandell-Your%20forehand%20and%20the%20modern%20forehand.docx).)
 
 Watch how Djokovic's racket face moves from the full dog pat position
 to the start of the forward swing. The face starts almost closed to the
@@ -594,14 +587,12 @@ But one thing we do know for sure, using the double bend configuration,
 Novak has been able to compete with them, defeat them, and reach their
 same level at the top of the world. My personal view for several reasons
 is that this configuration is simpler to master, equally powerful, and
-certainly more consistent for the vast majority of players. ([Click
-Here](John%20Yandell-Your%20forehand%20and%20the%20modern%20forehand.docx)
+certainly more consistent for the vast majority of players. ([link](John%20Yandell-Your%20forehand%20and%20the%20modern%20forehand.docx)
 for more on the double bend.)
 
 Not everyone will agree with that, of course, but for an interesting
 similar perspective, check out the article in this issue from noted
-Marin County California tennis coach Paul Cohen. ([Click
-Here](https://www.tennisplayer.net/members/http:/www.tennisplayer.net/members/tour_strokes/paul_cohen/commentary_locked/index.html).)
+Marin County California tennis coach Paul Cohen. ([link](https://www.tennisplayer.net/members/http:/www.tennisplayer.net/members/tour_strokes/paul_cohen/commentary_locked/index.html).)
 And we'll see more about how this hitting arm position works for Novak
 in the forward swing next.
 

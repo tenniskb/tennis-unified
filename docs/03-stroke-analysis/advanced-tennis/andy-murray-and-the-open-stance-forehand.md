@@ -57,7 +57,7 @@ So is there any reason why his forehand isn't quite as big? When we
 look at his stance preferences, we see a possible answer. It's
 definitely true in the modern game that the vast majority of all
 forehands are hit with some version of an open stance. (For more on why
-that is, [Click Here](Forehand%20Stances.docx).) But what too many
+that is, [link](Forehand%20Stances.docx).) But what too many
 analysts and coaches overlook is that there are two major open stance
 variations.
 
@@ -114,7 +114,7 @@ when the hips don't turn as far, the shoulder turn is somewhat
 restricted as well. This affects shot velocity and weight. This is
 because both the hips and the shoulders contribute directly to racket
 head speed as well as setting up the contribution of the hitting
-arm.]{.mark}**
+arm.]**
 
 You can see how the stance affects the turn in the high speed video of
 Andy's forehand. Watch as he prepares on a basic forehand near the
@@ -125,26 +125,26 @@ however he prefers, and he chooses the full open stance.
 parallel to the back foot, offset slightly toward the net. Now look at
 the hips. We don't have a way to measure the angle exactly in the
 video, but it looks like Andy's hips are turning about 30 degrees away
-from the net or maybe a little more.]{.mark}**
+from the net or maybe a little more.]**
 
 **[Now let's compare that to a semi-open stance set up by Novak
 Djokovic on a similar ball. Look at the difference in the position of
-the left or front foot.]{.mark}**
+the left or front foot.]**
 
 **[The offset is much greater. A line drawn across the tips of his feet
 looks like it would be at a 30 degree angle to the baseline at least, if
-not more.]{.mark}**
+not more.]**
 
 ![A person playing tennis Description automatically
 generated](media_andy-murray-and-the-open-stance-forehand/media/image5.webp)
 
 **[A semi-open stance is associated with greater torso turn in both the
-hips and shoulders.]{.mark}**
+hips and shoulders.]**
 
 **[This difference in the stance has a direct impact on the amount of
 hip turn. Again we can't make an actual measurement, but Novak's hips
 are clearly more turned, probably something like 60 degrees away from
-the net or further, maybe twice as much as Andy's.]{.mark}**
+the net or further, maybe twice as much as Andy's.]**
 
 ***The stance also effects the angle of the shoulder turn, as we can
 again see in the differences between Andy and Novak. Andy's shoulders
@@ -172,7 +172,7 @@ medium
 confidence](media_andy-murray-and-the-open-stance-forehand/media/image6.webp)
 
 **[From the semi-open stance Novak rotates further to contact than
-Andy.]{.mark}**
+Andy.]**
 
 We see that there is slightly more shoulder rotation as well. The result
 has got to be more energy released in the shot, translating to more
@@ -183,7 +183,7 @@ forehand is the so-called \"X\" factor. This is the displacement or the
 difference in the amount of turn of the hips compared to the amount of
 turn in the shoulders at the completion of the preparation. The greater
 this displacement, the greater the energy when the hips and shoulders
-release in the forward swing.]{.underline}***
+release in the forward swing.]***
 
 And I am sure that is true\--but I suspect only within certain
 parameters. My belief is that certain minimal levels of body turn are
@@ -215,11 +215,11 @@ And that's the point. What is the norm for Andy is the exception for
 the other top players. And vice versa.
 
 ***[All top player use all the stances, including a percentage
-that]{.mark}*** ***are neutral or square
+that]*** ***are neutral or square
 stance.*** ***[This stance selection is partially
 situational, depending on depth, height, and ball speed. But it is also
 a matter of preference, or possibly training, or some combination of
-both.]{.mark}***
+both.]***
 
 If we look at the percentages, we see that Andy hits about 60% of his
 forehands fully open. That's three times higher than Djokovic who hits
@@ -246,7 +246,7 @@ semi-open.**
 ***[One further related issue here may be the use of neutral stance.
 Although the vast majority of forehands hit by players in pro tennis use
 some version of open stance, all players use neutral stance at
-times.]{.mark}***
+times.]***
 
 Interestingly, Andy uses neutral stances the least of the top four, much
 less often that Novak or Roger or even Rafa. In our footage, Roger steps
@@ -288,8 +288,7 @@ few players are preparing fully with the upper body. And ironically, the
 full turn, as we have discussed many times, is one of the easiest
 elements for players at any level to copy from pro players, and one of
 the very view that is universally applicable to the club
-game.*** ([Click
-Here](John%20Yandell-Your%20forehand%20and%20the%20modern%20forehand-Preparation.docx).)
+game.*** ([link](John%20Yandell-Your%20forehand%20and%20the%20modern%20forehand-Preparation.docx).)
 
 The emphasis on the open stance only makes this problem worse in my
 opinion. ***If a player doesn't understand the turn and is taught to

@@ -32,11 +32,11 @@ kinesthetic.
 Visual imagery means creating pictures in your mind, using your mind's
 mental camera. This can be done from two perspectives. The first is
 internal. The second is external. [Internal visual imagery means you
-imagine being inside your own body.]{.mark} [You are seeing images as
-through your own eyes.]{.mark} You see the ball leave the opponents
+imagine being inside your own body.] [You are seeing images as
+through your own eyes.] You see the ball leave the opponents
 racket and coming toward you. You visualize what you actually see when
 you play points[. **[This is called first person
-perspective.]{.underline}**]{.mark}
+perspective.]**]
 
 ![A picture containing text, vector graphics, businesscard Description
 automatically
@@ -46,11 +46,11 @@ generated](media_understanding-mental-imagery-part-1/media/image2.jpg)
 tennis?**
 
 [External visual imagery is viewing yourself from the perspective of an
-observer]{.mark}, as if you were watching television or video of
+observer], as if you were watching television or video of
 yourself. **This is third person perspective.**
 
 **[Kinesthetic imagery is when you imagine the feeling of playing in
-your own body.]{.mark}** You feel your body is performing the movement.
+your own body.]** You feel your body is performing the movement.
 You feel your legs as you run toward the ball. You feel your body and
 arms as you hit the stroke. You feel the contact with the ball in the
 sweet spot of the racket.
@@ -113,8 +113,8 @@ The duplication of the physical and the mental reinforces and adds to
 your muscle memory. It adds an element that is separate and apart from
 your usual physical practice. There are many, many studies that document
 this and I believe it is a fact. In the first two articles we discussed
-actual muscle memory practice. (Click Here for [Part
-1](Understanding%20Muscle%20Memory%20-%20Part%201.docx). Click Here for
+actual muscle memory practice. ( for [Part
+1](Understanding%20Muscle%20Memory%20-%20Part%201.docx).  for
 [Part 2](Understanding%20Muscle%20Memory%20-%20Part%202.docx).) There is
 a correlation on a neurophysiological level between physical muscle
 memory practice and the use of imagery.
@@ -175,8 +175,7 @@ helped John McEnroe use imagery to recreate the shape of his service
 motion in 1991, using film of himself from 1984 when he had the best
 serve in the world. This result was that John recovered 15mph or more
 that he had lost in ball speed and his serving percentages went back up
-to the mid 60s, having been stuck in the 40s. ([Click
-Here](https://www.tennisplayer.net/members/teaching_systems/john_yandell/VisualTennis_Part2/Yandell_VTP2_McEnroe_Case_Study.html).)
+to the mid 60s, having been stuck in the 40s. ([link](https://www.tennisplayer.net/members/teaching_systems/john_yandell/VisualTennis_Part2/Yandell_VTP2_McEnroe_Case_Study.html).)
 
 In an interview Billie Jean King did with John, she explained that she
 discovered that she was spontaneously visualizing shots in matches and
@@ -188,7 +187,7 @@ whatever your level, imagery can help every aspect of your game, your
 strokes, your motivation, your confidence, your tactics, and your
 performance outcomes. More on how to do that in the next article.
 
-| ![](media_understanding-mental-imagery-part-1/media/image6.jpeg) | Archie Dan Smith, MD is a retired |
+| ![link](media_understanding-mental-imagery-part-1/media/image6.jpeg) | Archie Dan Smith, MD is a retired |
 | --- | --- |
 |  | physician living in Austin, Texas. Here is |
 |  | how he describes his tennis journey, |

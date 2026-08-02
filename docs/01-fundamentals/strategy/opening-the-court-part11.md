@@ -9,7 +9,7 @@ a forehand angle off the court. This is followed by an inside out
 forehand and a close for an angled volley. I feel my tactical skill
 increasing just watching this one over and over!
 
-![](media_opening-the-court-part11/media/image1.wmf)
+![link](media_opening-the-court-part11/media/image1.wmf)
 
   --
 

@@ -8,7 +8,7 @@ The 9th pattern in George's comprehensive new series is working the
 corners. Driving the ball deep to the opposite corners will eventually
 force a short ball to take the other way and attack the open court!
 
-![](media_opening-the-court-part-9/media/image1.png)
+![link](media_opening-the-court-part-9/media/image1.png)
 
   --
 

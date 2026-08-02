@@ -9,8 +9,7 @@ confidence](media_john-yandell-federer-serve-locations-1st-serve-ad-court/media/
 corner?**
 
 In the last article we looked at the complex factors in the upward swing
-of the serve of Roger Federer. ([Click
-Here](John%20Yandell-Roger%20Federer%20Serve%20-The%20Upward%20Swing.docx).)
+of the serve of Roger Federer. ([link](John%20Yandell-Roger%20Federer%20Serve%20-The%20Upward%20Swing.docx).)
 The next logical question to ask is how does Federer (or any other top
 player) vary these factors to control the direction of the shot?
 
@@ -32,8 +31,7 @@ Let's start by reviewing the 5 factors in the upward swing from the
 first article. That requires acknowledging the pioneering work of Brian
 Gordon in identifying these factors so clearly with his revolutionary 3D
 measurement technology. (To check out Brian's series on the serve based
-on this research, [Click
-Here](../Biomechanics/Science%20of%20Biomechanics%20TOC.docx).)
+on this research, [link](../Biomechanics/Science%20of%20Biomechanics%20TOC.docx).)
 
 | **The 5 Factors in the Upward Swing:** |
 | --- |
@@ -73,7 +71,7 @@ full extension at contact.
 
 [**Internal Shoulder Rotation:** This is the forward rotation of the
 upper arm in the shoulder joint. It turns out this factor is probably
-the key in understanding location.]{.mark}
+the key in understanding location.]
 
 **Ulnar Deviation:** Hold your arm out in front of you with the palm in
 line with your forearm. Now flex your wrist to the right. Even with high
@@ -102,7 +100,7 @@ This is because even in the high speed video the differences on the wide
 versus the T serves are very slight. But one factor we can see clearly
 enough to say that it is different as location changes.
 
-***[This is the internal rotation of the upper arm.]{.mark}*** We can
+***[This is the internal rotation of the upper arm.]*** We can
 see this effect of the changes in internal rotation in the way the
 racket, hand and arm move on the way to contact and then in the
 followthrough. Basically it's a difference in how much and when the
@@ -132,7 +130,7 @@ actually refers to something more limited, which is simply the rotation
 of the forearm at the elbow joint. Hold your arm straight out in front
 of you. Now stabilize the upper arm with your other hand. Rotate your
 hand and forearm left and right. Technically, that's
-pronation.]{.mark}**
+pronation.]**
 
 Now, I don't think it's a problem to use the term in the way it's
 more widely understood, especially because that has become part of the
@@ -155,7 +153,7 @@ rotation starts.
 So what does this mean? ***[To hit a first serve wide in the ad court,
 Federer rotates his upper arm sooner before the hit and also rotates it
 further in the followthrough.. Serving down the T, the rotation appears
-to start slightly later and to be less extreme after contact.]{.mark}***
+to start slightly later and to be less extreme after contact.]***
 
 ![A person hitting a ball with a tennis racket Description automatically
 generated](media_john-yandell-federer-serve-locations-1st-serve-ad-court/media/image5.webp)
@@ -278,7 +276,7 @@ appear so small.
 
 ***[So if you've wondered why it's so hard to hit the corners, you can
 stop blaming yourself. It's tough! It requires extremely precise racket
-control.]{.mark}***
+control.]***
 
 This analysis should make us all respect Federer or any of the other
 super accurate servers in the history of the game. But if we at least

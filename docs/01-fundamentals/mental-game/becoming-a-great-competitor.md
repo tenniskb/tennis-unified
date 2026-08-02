@@ -77,7 +77,7 @@ It's the same for all the other top players. So don't do it. It goes
 directly against Rule Number One.
 
   -----------------------------------------------------------------------------------------------------------------------------------------
-   ![](media_becoming-a-great-competitor/media/image4.wmf)
+   ![link](media_becoming-a-great-competitor/media/image4.wmf)
   -----------------------------------------------------------------------------------------------------------------------------------------
                                      **Click Photo to learn about the importance of individual points.**
 
@@ -96,8 +96,7 @@ that take into account your strengths, your weaknesses, and your
 opponent's strengths and weaknesses. A game plan gives you a specific
 order of play so that you know exactly what you're going to do when you
 get out there. I've outlined how to do this in some of my other
-articles on Tennisplayer. ([Click
-Here](http://www.tennisplayer.net/members/strategy/strategy_and_statistics.html).)
+articles on Tennisplayer. ([link](http://www.tennisplayer.net/members/strategy/strategy_and_statistics.html).)
 
 ![A picture containing athletic game, sport, tennis Description
 automatically
@@ -184,8 +183,7 @@ To choke, to tank, to get angry, to make bad tactical decisions, etc.
 And the answer is hidden fear. You rarely if ever hear players or
 coaches talk about the role of hidden fear in the mental game, but for
 most players it's a critical factor, and dealing with it is critical to
-competitive success. (What is it? [Click
-Here](Be%20Wary%20of%20Hidden%20Fear.docx) to read my article on Hidden
+competitive success. (What is it? [link](Be%20Wary%20of%20Hidden%20Fear.docx) to read my article on Hidden
 Fear.)
 
 All competition involves a conflict, a conflict of desire to win versus
@@ -245,8 +243,7 @@ ends.**
 
 Like Loehr, I believe there is a sequence of four things that should be
 done between points to set up your optimum emotional state. But I have a
-little different take on what exactly these stages should be. ([Click
-Here](http://www.tennisplayer.net/members/mentalgame/mentalgame.html) to
+little different take on what exactly these stages should be. ([link](http://www.tennisplayer.net/members/mentalgame/mentalgame.html) to
 see Jim's articles.) What I am going to suggest is a strategy of
 emotional control.
 
@@ -365,7 +362,7 @@ ended.\
 Stage Two \-- relax as you prepare for the next point.\
 Stage Three \-- psych up using imagery of your best tennis.\
 Stage Four \-- focus on your game plan and your personal
-keys.]{.mark}]{.underline}**
+keys.]]**
 
 ![A person swinging a tennis racket Description automatically
 generated](media_becoming-a-great-competitor/media/image16.webp)**Master these techniques and your on your
@@ -401,7 +398,7 @@ Visit him at [www.allenfoxtennis.net](http://www.allenfoxtennis.net)
 |  | stress, finishing matches, and developing confidence. Based on a life time of high level play and coaching success, |
 |  | it's a must for all competitive players. |
 |  |  |
-|  | [Click Here to |
+|  | [ to |
 |  | Order](http://www.amazon.com/Tennis-Winning-Mental-Allen-Fox/dp/0615407765/ref=sr_1_1?ie=UTF8&qid=1336083459&sr=8-1). |
 
 
@@ -424,7 +421,7 @@ Visit him at [www.allenfoxtennis.net](http://www.allenfoxtennis.net)
 |  | outline how to confront and overcome these fears in your |
 |  | life and career, even when they are initially subconscious. |
 |  | Must reading from one of the great thinkers in tennis, and |
-|  | a Renaissance Man in life. [Click Here to |
+|  | a Renaissance Man in life. [ to |
 |  | Order](http://www.tennis-warehouse.com/descpage-MIND.html). |
 |  |  |
 |  | To purchase this book you can also send a check for \$17.95 |

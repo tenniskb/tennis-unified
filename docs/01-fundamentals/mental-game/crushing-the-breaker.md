@@ -27,16 +27,16 @@ highest possible percentage of the tie breakers you play.
 
 **[Mental toughness is the foundation of tie breaker success. You need
 to enjoy the experience of playing them. You have to look forward to
-tiebreakers and see them as opportunities.]{.underline}**
+tiebreakers and see them as opportunities.]**
 
 You need to believe that you are better prepared to play the breaker
 than your opponent. You must approach each breaker believing that you
 know how to win it and expecting to do so.
 
 **[[You play breakers to win instead of playing not to lose.
-There]{.mark} [is a big difference in those two mindsets. So, learn to
+There] [is a big difference in those two mindsets. So, learn to
 visualize the win. Anything less than this mental approach gives your
-opponent the advantage.]{.mark}]{.underline}**
+opponent the advantage.]]**
 
 **Strategy**
 

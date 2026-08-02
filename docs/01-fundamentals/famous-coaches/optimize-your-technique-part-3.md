@@ -325,9 +325,9 @@ the next wave of champions."\
 \
 **[[I immediately had everyone's attention. I explained that
 high-performance coaches should not focus on hitting style but on the
-true mechanical fundamentals of technique.]{.mark} [The true
+true mechanical fundamentals of technique.] [The true
 fundamentals are generally the commonalities in technique and movement
-that virtually all great players execute.]{.mark}]{.underline}**\
+that virtually all great players execute.]]**\
 \
 In addition, during practice, the (coaches) must simulate the demands
 their players will encounter at the world-class level. This will allow
@@ -360,8 +360,7 @@ the champions of today.**
                                                                                                                                                                                          the concepts any player can learn\--and every coach can teach\--to help you reach your
                                                                                                                                                                                          full potential and enhance your love of the game.\
                                                                                                                                                                                          \
-                                                                                                                                                                                         [Click
-                                                                                                                                                                                         Here](https://www.amazon.com/Maximum-Tennis-Unleashing-Court-Potential/dp/0736042008)
+                                                                                                                                                                                         [link](https://www.amazon.com/Maximum-Tennis-Unleashing-Court-Potential/dp/0736042008)
                                                                                                                                                                                          to Order!
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ---------------------------------------------------------------------------------------
 
@@ -384,7 +383,7 @@ the champions of today.**
 |  | Potential\" is a best selling instructional |
 |  | title. |
 |  |  |
-|  | [Click Here](http://www.savianotennis.com/) for |
+|  | [link](http://www.savianotennis.com/) for |
 |  | more information on training with Nick Saviano. |
 
 

@@ -18,8 +18,7 @@ confidence](media_rafael-nadal-s-forehand/media/image1.webp)
 of the modern forehand.**
 
 We've already examined Federer's forehand in detail in two previous
-articles. ([Click
-Here](http://www.tennisplayer.net/members/avancedtennis/john_yandell/evolution_modern_forehand/evolution_modern_forehand_part1/roger_federer_evolution_modern_forehand_part1.html).)
+articles. ([link](http://www.tennisplayer.net/members/avancedtennis/john_yandell/evolution_modern_forehand/evolution_modern_forehand_part1/roger_federer_evolution_modern_forehand_part1.html).)
 So now let's take a look at Nadal in the same way using the high speed
 video footage developed by Advanced Tennis. In many ways the high speed
 footage confirms the obvious: when we look closely at the swings of
@@ -40,8 +39,7 @@ All our previous work on the forehand really pays off when we start to
 analyze Nadal. Since we have looked closely at so many components in the
 forehand, we have a framework for evaluating how Nadal does or doesn't
 use them. This is based on the articles in the Advanced Tennis section
-on the commonalities and differences across the grip styles. ([Click
-Here](Advanced%20Tennis%20TOC.docx))
+on the commonalities and differences across the grip styles. ([link](Advanced%20Tennis%20TOC.docx))
 
 **Grip**
 
@@ -62,7 +60,7 @@ all of the top players. And Nadal probably has the most extreme.
 ***[As we've discussed before, the common grip
 terminology\--\"eastern,\" \"semi-western,\" \"western\"\--is too vague
 and virtually useless in describing the grip differences in the modern
-pro game.]{.mark}*** For example, there are at least a half dozen pro
+pro game.]*** For example, there are at least a half dozen pro
 grip variations that could be called \"semi-western.\" A clearer way to
 look at the grips is to examine how the hand is positioned on the bevels
 of the racket handle. As we have seen, there are 8 bevels counting
@@ -107,8 +105,7 @@ capacity to generate spin. But we found that Federer challenges that
 belief. Despite his nearly classical grip we found Federer has an
 incredible ability to create spin levels of 4000rpm or more, much higher
 than other players with similar grips like Sampras or Agassi or Tim
-Henman. ([Click
-Here](http://www.tennisplayer.net/members/mystheavyball/john_yandell/Spintest/spin_test.html)
+Henman. ([link](http://www.tennisplayer.net/members/mystheavyball/john_yandell/Spintest/spin_test.html)
 for more spin data.) Our high speed filming determined that the average
 spin on Roger's forehand was 2700rpm. This is virtually identical to
 Andy Roddick who also averaged about 2700rpm. This ability to create and
@@ -141,8 +138,7 @@ Let's go through and examine his forehand, starting with the
 preparation. The fundamentals of preparation appear to be one of the few
 constants we can still trace across the whole range of players, grips,
 and shot variations. We've identified the elements several times before
-([Click
-Here](http://www.tennisplayer.net/members/avancedtennis/john_yandell/building%20_the_modern%20_forehand/building_modern_forehand_pg1/building_modern_forehand_pg1.html).)
+([link](http://www.tennisplayer.net/members/avancedtennis/john_yandell/building%20_the_modern%20_forehand/building_modern_forehand_pg1/building_modern_forehand_pg1.html).)
 And for Nadal they are no different than the other top players. The
 preparation starts with a unit turn\--the feet and the torso turning
 sideways as a unit. This is what initiates the racket preparation, not
@@ -157,7 +153,7 @@ generated](media_rafael-nadal-s-forehand/media/image10.webp)
 minority view in teaching. How many times have you heard this? \"Take
 your racket back early.\" The preparation does not start with the
 racket! It starts with the unit turn with the body. [Initially the
-racket is just going along for the ride.]{.underline}]{.mark}***
+racket is just going along for the ride.]]***
 
 If you watch the video carefully you'll see that the position of the
 racket changes slightly as he initiates the motion. Rafael relaxes his
@@ -180,7 +176,7 @@ generated](media_rafael-nadal-s-forehand/media/image11.webp)
 ***[Now watch what happens when Nadal starts to separate his hands. His
 right arm immediately begins to straighten out, stretching across his
 body. This is the second characteristic preparation element, also
-something we've identified in virtually every top player.]{.mark}***
+something we've identified in virtually every top player.]***
 The opposite arm straightens out so that it points directly at the
 sideline. From the front we can see the stretch in his arm clearly. Now
 look at the angle of his shoulders. They are turned somewhat past 90
@@ -192,8 +188,7 @@ which the upper body is fully coiled.
 Nadal has an inverted backswing motion as we found with many top
 players, meaning that he turns the top edge of the racket upside down as
 the hands start up. This keeps the racket in closer to the body similar
-to Federer's motion. In our analysis of pro backswings ([Click
-Here](http://www.tennisplayer.net/members/avancedtennis/john_yandell/building%20_the_modern%20_forehand/building_modern_forehand_backswing_page1/building_modern_forehand_backswing_page1.html))
+to Federer's motion. In our analysis of pro backswings ([link](http://www.tennisplayer.net/members/avancedtennis/john_yandell/building%20_the_modern%20_forehand/building_modern_forehand_backswing_page1/building_modern_forehand_backswing_page1.html))
 we found that there were actually two measures of the backswing size.
 One was the height of the tip of the racket. The other is the height of
 the hand. The movement of the hand is a better indicator of the actual
@@ -275,8 +270,7 @@ bend position.
 
 On the other third, Federer keeps the arm completely straight through
 the contact and well out into the followthrough, again, something we've
-discussed in previous articles. ([Click
-Here](http://www.tennisplayer.net/members/avancedtennis/john_yandell/evolution_modern_forehand/evolution_modern_forehand_part1/roger_federer_evolution_modern_forehand_part2.html).)
+discussed in previous articles. ([link](http://www.tennisplayer.net/members/avancedtennis/john_yandell/evolution_modern_forehand/evolution_modern_forehand_part1/roger_federer_evolution_modern_forehand_part2.html).)
 With Federer we found that the straight hitting arm is associated with
 his ability to keep his swing closer to the line of the shot longer,
 typically or inside balls.
@@ -316,11 +310,9 @@ His most common finish is the one that has attracted the most attention
 from television commentators and other observers. This is what Robert
 Lansdorp calls the reverse finish, with the racket moving sharply upward
 after contact, traveling over his head, then moving backwards, and
-finishing on the left side of the body. ([Click
-Here](http://www.tennisplayer.net/members/famouscoach/robert_lansdorp/lansdorp_reverse_forehand_images/lansdorp_reverse_forehand.html).)
+finishing on the left side of the body. ([link](http://www.tennisplayer.net/members/famouscoach/robert_lansdorp/lansdorp_reverse_forehand_images/lansdorp_reverse_forehand.html).)
 Brett Hobden calls this same followthrough the vertical finish, because
-the swing plane is more vertical or straight up and down ([Click
-Here](http://www.tennisplayer.net/members/famouscoach/brett_hobden/seven_modern_topspin_forehands/seven_modern_topspin_forehands.html).)
+the swing plane is more vertical or straight up and down ([link](http://www.tennisplayer.net/members/famouscoach/brett_hobden/seven_modern_topspin_forehands/seven_modern_topspin_forehands.html).)
 Whatever you want to call it, Nadal uses this finish on over half his
 forehands.
 
@@ -400,8 +392,7 @@ rotation. This is how the hand and racket turn over as a unit as they
 move through the swing. It accounts for the differences in the look of
 the finishes in the modern game, as we have seen. With the more
 underneath grips the players have to turn the hand and racket over to a
-certain degree just to get the racket through the motion. ([Click
-Here](http://www.tennisplayer.net/members/avancedtennis/john_yandell/building%20_the_modern%20_forehand/key_differences_grip_styles/key_differences_grip_styles_page4.html)).
+certain degree just to get the racket through the motion. ([link](http://www.tennisplayer.net/members/avancedtennis/john_yandell/building%20_the_modern%20_forehand/key_differences_grip_styles/key_differences_grip_styles_page4.html)).
 But players also vary the amount of rotation depending on the ball, and
 the amount of spin they want to hit. This is particularly true with a
 player like Federer who uses every possible increment of hand rotation
@@ -445,8 +436,7 @@ the reverse finish.**
 **Torso Rotation**
 
 **[A final factor we've looked at across the grip styles is the amount
-of torso rotation in the forward swing]{.mark}**. ([Click
-Here](Building%20the%20Modern%20Forehand-Differences%20Across%20the%20Grip%20Styles.docx).)
+of torso rotation in the forward swing]**. ([link](Building%20the%20Modern%20Forehand-Differences%20Across%20the%20Grip%20Styles.docx).)
 Originally we found that there was a correlation between grip style and
 the amount of torso rotation. A classical player like Pete Sampras had
 about 90 degrees of forward rotation. A more extreme player like Roddick

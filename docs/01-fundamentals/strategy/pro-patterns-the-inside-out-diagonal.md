@@ -25,7 +25,7 @@ archive. Even players like Agassi or David Nalbandian who play more from
 the center of the court still hit 20% or more of their forehands from
 the inside position.
 
-![](media_pro-patterns-the-inside-out-diagonal/media/image2.webp)\
+![link](media_pro-patterns-the-inside-out-diagonal/media/image2.webp)\
 **Even if they tend to play from the center, top players like Agassi
 still hit 20% of their forehands from an inside position.**
 
@@ -95,7 +95,7 @@ is an illusion. Few players can hit accurately or consistently enough to
 hurt their opponent with a backhand down the line. When they try, they
 often hit short or too much to the middle. This can actually set you up
 to really take charge of the point. You do this by hitting crosscourt in
-the open court or hitting a short forehand for a winner.]{.underline}**
+the open court or hitting a short forehand for a winner.]**
 
 At the pro level, something similar happens, with players turning an
 apparent vulnerability into an offensive opportunity. Often pro players

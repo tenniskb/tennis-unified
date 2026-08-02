@@ -31,7 +31,7 @@ gồm: chuẩn bị (Preparation), lấy đà (Take Back), và điểm chạm (C
 Phân tích chuỗi động học và vector lực được thể hiện qua ba biến thể:
 Slice Serve, Kick Serve và Flat Serve.
 
-![](media_ky-thuat-giao-bong/media/2f75d43b9897df5e039789ee468de3903353b641.png)
+![link](media_ky-thuat-giao-bong/media/2f75d43b9897df5e039789ee468de3903353b641.png)
 
 *Hình 1. Ba loại giao bóng --- Biomechanics & Phase Analysis*
 

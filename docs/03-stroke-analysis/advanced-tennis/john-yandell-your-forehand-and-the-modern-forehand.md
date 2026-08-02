@@ -4,28 +4,28 @@
 Your Forehand and the Modern Forehand**
 
 [[Your Forehand and the Modern Forehand: A
-Summary]{.underline}](https://www.tennisplayer.net/members/avancedtennis/john_yandell/your_forehand_and_the_modern_forehand/summary/index.html)\
+Summary]](https://www.tennisplayer.net/members/avancedtennis/john_yandell/your_forehand_and_the_modern_forehand/summary/index.html)\
 [[The Contact
-Point]{.underline}](https://www.tennisplayer.net/members/avancedtennis/john_yandell/your_forehand_and_the_modern_forehand/the_contact_point/the_contact_point.html)\
+Point]](https://www.tennisplayer.net/members/avancedtennis/john_yandell/your_forehand_and_the_modern_forehand/the_contact_point/the_contact_point.html)\
 [[Shoulder
-Rotation]{.underline}](https://www.tennisplayer.net/members/avancedtennis/john_yandell/your_forehand_and_the_modern_forehand/shoulder_rotation/shoulder_rotation.html)\
+Rotation]](https://www.tennisplayer.net/members/avancedtennis/john_yandell/your_forehand_and_the_modern_forehand/shoulder_rotation/shoulder_rotation.html)\
 [[The Reverse
-Forehand]{.underline}](https://www.tennisplayer.net/members/avancedtennis/john_yandell/your_forehand_and_the_modern_forehand/reverse_forehand/reverse_forehand.html)\
+Forehand]](https://www.tennisplayer.net/members/avancedtennis/john_yandell/your_forehand_and_the_modern_forehand/reverse_forehand/reverse_forehand.html)\
 [[The Forward Swing Part 2: Hand and Arm
-Rotation]{.underline}](https://www.tennisplayer.net/members/avancedtennis/john_yandell/your_forehand_and_the_modern_forehand/hand_arm_rotation/hand_arm_rotation.html)\
+Rotation]](https://www.tennisplayer.net/members/avancedtennis/john_yandell/your_forehand_and_the_modern_forehand/hand_arm_rotation/hand_arm_rotation.html)\
 [[The Forward Swing Part 1:
-Extension]{.underline}](https://www.tennisplayer.net/members/avancedtennis/john_yandell/your_forehand_and_the_modern_forehand/the_forward_swing/the_forward_swing.html)\
+Extension]](https://www.tennisplayer.net/members/avancedtennis/john_yandell/your_forehand_and_the_modern_forehand/the_forward_swing/the_forward_swing.html)\
 [[Hitting Arm Positions: The Straight Elbow Hitting Arm
-Position]{.underline}](https://www.tennisplayer.net/members/avancedtennis/john_yandell/your_forehand_and_the_modern_forehand/hitting_arm_positions/your_forehand_and_the_modern_forehand_straight_elbow_arm_position.html)\
+Position]](https://www.tennisplayer.net/members/avancedtennis/john_yandell/your_forehand_and_the_modern_forehand/hitting_arm_positions/your_forehand_and_the_modern_forehand_straight_elbow_arm_position.html)\
 [[Hitting Arm Positions: The Double
-Bend]{.underline}](https://www.tennisplayer.net/members/avancedtennis/john_yandell/your_forehand_and_the_modern_forehand/hitting_arm_positions/your_forehand_and_the_modern_forehand_hitting_arm_positions.html)\
+Bend]](https://www.tennisplayer.net/members/avancedtennis/john_yandell/your_forehand_and_the_modern_forehand/hitting_arm_positions/your_forehand_and_the_modern_forehand_hitting_arm_positions.html)\
 [[Backswing: Part
-2]{.underline}](https://www.tennisplayer.net/members/avancedtennis/john_yandell/your_forehand_and_the_modern_forehand/backswing_part2/your_forehand_and_the_modern_forehand_backswing_part2.html)\
+2]](https://www.tennisplayer.net/members/avancedtennis/john_yandell/your_forehand_and_the_modern_forehand/backswing_part2/your_forehand_and_the_modern_forehand_backswing_part2.html)\
 [[Backswing: Part
-1]{.underline}](https://www.tennisplayer.net/members/avancedtennis/john_yandell/your_forehand_and_the_modern_forehand/backswing/your_forehand_and_the_modern_forehand_backswing.html)\
+1]](https://www.tennisplayer.net/members/avancedtennis/john_yandell/your_forehand_and_the_modern_forehand/backswing/your_forehand_and_the_modern_forehand_backswing.html)\
 [[Grip and Contact
-Height]{.underline}](https://www.tennisplayer.net/members/avancedtennis/john_yandell/your_forehand_and_the_modern_forehand/grip/your_forehand_and_the_modern_forehand_grip.html)\
-[[Preparation]{.underline}](https://www.tennisplayer.net/members/avancedtennis/john_yandell/your_forehand_and_the_modern_forehand/preparation/your_forehand_and_the_modern_forehand_preparation.html)
+Height]](https://www.tennisplayer.net/members/avancedtennis/john_yandell/your_forehand_and_the_modern_forehand/grip/your_forehand_and_the_modern_forehand_grip.html)\
+[[Preparation]](https://www.tennisplayer.net/members/avancedtennis/john_yandell/your_forehand_and_the_modern_forehand/preparation/your_forehand_and_the_modern_forehand_preparation.html)
 
 # Preparation
 
@@ -33,8 +33,7 @@ Over the past 4 years we've used the high speed footage from Advanced
 Tennis to explore the modern forehand in pro tennis in virtually every
 aspect. Currently there are over a dozen detailed articles in the
 Advanced Tennis section on the modern forehand. These cover the
-commonalities and the differences among the top pro players. ([Click
-Here](https://www.tennisplayer.net/members/avancedtennis/advtennis.html).)
+commonalities and the differences among the top pro players. ([link](https://www.tennisplayer.net/members/avancedtennis/advtennis.html).)
 
 Last month we started a new series called \"Your Forehand and the Modern
 Forehand.\" The idea is to apply everything we've learned to your game
@@ -48,8 +47,7 @@ stated repeatedly that my was just to try to understand the pro
 forehand, a challenging goal to say the least. But now it's time to get
 specific and see what pro elements you can incorporate to take your game
 to the next level. In the first article, we started with an analysis of
-Grip and Contact Height. ([Click
-Here](https://www.tennisplayer.net/members/avancedtennis/john_yandell/your_forehand_and_the_modern_forehand/grip/your_forehand_and_the_modern_forehand_grip.html).)
+Grip and Contact Height. ([link](https://www.tennisplayer.net/members/avancedtennis/john_yandell/your_forehand_and_the_modern_forehand/grip/your_forehand_and_the_modern_forehand_grip.html).)
 
 This month we'll continue with Part 2 \"Preparation.\" It's a subject
 that is widely misunderstood. I think this article is the best analysis
@@ -64,7 +62,7 @@ generated](media_john-yandell-your-forehand-and-the-modern-forehand/media/image1
 **What are the secrets to great preparation and why is it so
 misundertood?**
 
-![](media_john-yandell-your-forehand-and-the-modern-forehand/media/image2.png)**[.]{.underline}**
+![link](media_john-yandell-your-forehand-and-the-modern-forehand/media/image2.png)****
 
 # Grip and contact height
 
@@ -72,8 +70,7 @@ Over the past 4 years we've used the high speed footage from Advanced
 Tennis to explore the modern forehand in pro tennis in virtually every
 aspect. Currently there are over a dozen detailed articles in the
 Advanced Tennis section on the modern forehand. These cover the
-commonalities and the differences among the top pro players. ([Click
-Here](http://www.tennisplayer.net/members/avancedtennis/john_yandell/building%20_the_modern%20_forehand/building_modern_forehand_pg1/building_modern_forehand_pg1.html).)
+commonalities and the differences among the top pro players. ([link](http://www.tennisplayer.net/members/avancedtennis/john_yandell/building%20_the_modern%20_forehand/building_modern_forehand_pg1/building_modern_forehand_pg1.html).)
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -112,7 +109,7 @@ the player you most admire? Or, what about the critical and usually
 unrecognized factor of Contact Height?
 
 **Click on the image and see my analysis!**
-![](media_john-yandell-your-forehand-and-the-modern-forehand/media/image4.png)
+![link](media_john-yandell-your-forehand-and-the-modern-forehand/media/image4.png)
 
 # The Backswing: Part 1 
 
@@ -124,7 +121,7 @@ tennis.
 
 AND let us know what you think by posting a comment in the Forum!
 
-![](media_john-yandell-your-forehand-and-the-modern-forehand/media/image5.png)
+![link](media_john-yandell-your-forehand-and-the-modern-forehand/media/image5.png)
 
 # The Backswing: Part 2
 
@@ -137,7 +134,7 @@ own game? That's what this article is all about.
 
 AND let us know what you think by posting a comment in the Forum!
 
-![](media_john-yandell-your-forehand-and-the-modern-forehand/media/image6.png)
+![link](media_john-yandell-your-forehand-and-the-modern-forehand/media/image6.png)
 
 # 
 
@@ -149,7 +146,7 @@ elbow and at the wrist. This month we look at the rare, more
 controversial hitting arm structure - the straight elbow hitting arm
 position - that a select few pro players use.
 
-![](media_john-yandell-your-forehand-and-the-modern-forehand/media/image7.png)
+![link](media_john-yandell-your-forehand-and-the-modern-forehand/media/image7.png)
 
   --------------------------------------------------
 
@@ -172,7 +169,7 @@ up next month. Also, check out the classic lesson which adds additional
 info on these two confusing and critical elements in developing a great
 forehand of your own.
 
-![](media_john-yandell-your-forehand-and-the-modern-forehand/media/image8.png)
+![link](media_john-yandell-your-forehand-and-the-modern-forehand/media/image8.png)
 
 # The Forward Swing Hand and Arm Extension
 
@@ -182,7 +179,7 @@ forehand of your own.
 
 # This month we'll start to look at the forward swing, possibly the most complex and dynamic element in tennis. We'll try to understand what really happens and why there is so much diversity among top players, by breaking the forward swing into two components. This article will focus on Extension, with Rotation coming up next month. Also, check out the classic lesson which adds additional info on these two confusing and critical elements in developing a great forehand of your own.
 
-# ![](media_john-yandell-your-forehand-and-the-modern-forehand/media/image9.png)
+# ![link](media_john-yandell-your-forehand-and-the-modern-forehand/media/image9.png)
 
 # 
 
@@ -201,7 +198,7 @@ confidence](media_john-yandell-your-forehand-and-the-modern-forehand/media/image
 
 **How should you incorporate hand and arm rotation into your forehand?**
 
-![](media_john-yandell-your-forehand-and-the-modern-forehand/media/image11.png)
+![link](media_john-yandell-your-forehand-and-the-modern-forehand/media/image11.png)
 
 # The Reverse Forehand
 
@@ -220,7 +217,7 @@ game?
 medium
 confidence](media_john-yandell-your-forehand-and-the-modern-forehand/media/image12.webp)
 
-![](media_john-yandell-your-forehand-and-the-modern-forehand/media/image13.png)
+![link](media_john-yandell-your-forehand-and-the-modern-forehand/media/image13.png)
 
 # Shoulder Rotation
 
@@ -236,7 +233,7 @@ generated](media_john-yandell-your-forehand-and-the-modern-forehand/media/image1
 Shoulder rotation has become extreme in pro tennis, but how does this
 apply to you?
 
-![](media_john-yandell-your-forehand-and-the-modern-forehand/media/image15.png)
+![link](media_john-yandell-your-forehand-and-the-modern-forehand/media/image15.png)
 
 # The Contact Point
 
@@ -251,7 +248,7 @@ confidence](media_john-yandell-your-forehand-and-the-modern-forehand/media/image
 Contact is the key moment, but what are the characteristics of great
 contact and how are they achieved?
 
-![](media_john-yandell-your-forehand-and-the-modern-forehand/media/image17.png)
+![link](media_john-yandell-your-forehand-and-the-modern-forehand/media/image17.png)
 
 # A Summary
 
@@ -266,8 +263,7 @@ Over the past 4 years we've used the high speed footage from Advanced
 Tennis to explore the modern forehand in pro tennis in virtually every
 aspect. Currently there are over a dozen detailed articles in the
 Advanced Tennis section on the modern forehand. These cover the
-commonalities and the differences among the top pro players.( [Click
-Here.](https://www.tennisplayer.net/members/avancedtennis/advtennis.html))
+commonalities and the differences among the top pro players.( [link](https://www.tennisplayer.net/members/avancedtennis/advtennis.html))
 
 In this new series called \"Your Forehand and the Modern Forehand,\"
 we've applied everything we've learned to your game and see what pro
@@ -280,7 +276,7 @@ everything from grip to preparation to hittting arm positions, finishes,
 wipers and more. Now in this last article, we try to summarize all the
 components and see what we've learned.
 
-![](media_john-yandell-your-forehand-and-the-modern-forehand/media/image19.png)
+![link](media_john-yandell-your-forehand-and-the-modern-forehand/media/image19.png)
 
 ![A person smiling for the camera Description automatically generated
 with medium

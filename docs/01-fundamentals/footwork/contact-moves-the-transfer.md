@@ -15,8 +15,7 @@ also, recovery steps.
 
 Contact Moves can be divided into 3 general categories. Offensive,
 Neutral, and Defensive. In the first article we looked at the first
-Offensive Contact Move, what we called the Step Down. ([Click
-Here](Contact%20Moves%20-%20The%20Step%20Down.docx).)
+Offensive Contact Move, what we called the Step Down. ([link](Contact%20Moves%20-%20The%20Step%20Down.docx).)
 
 Now let's introduce a second aggressive contact move, what I call the
 Transfer Move. The Transfer Move is a contact move in which the weight
@@ -25,8 +24,7 @@ is transferred from the back foot to the front foot during the swing.
 Top players use the Transfer Move when they hit aggressive open stance
 forehands and to a lesser extent on the backhand as well. This sequence
 is what Dave Porter refers to as \"Load, Explode, and Land\" in his
-current article on Components of the Forehand. ([Click
-Here](../../Stroke%20Analysis/Tour%20strokes/Components%20of%20the%20Modern%20Forehand.docx).)
+current article on Components of the Forehand. ([link](../../Stroke%20Analysis/Tour%20strokes/Components%20of%20the%20Modern%20Forehand.docx).)
 
 On the return, top players routinely use Transfer footwork on both the
 forehand and backhand sides. This is true for both one-handed and
@@ -149,7 +147,7 @@ front foot, landing in a closed stance.** **This
 is in contrast to forehand groundstroke transfers, where the players
 remain in an open stance during the landing.**
 
-![](media_contact-moves-the-transfer/media/image5.jpeg)
+![link](media_contact-moves-the-transfer/media/image5.jpeg)
 
 David Bailey is a native Australian who has spent 15 years studying
 tennis at the professional level. He has developed a new language for
@@ -161,8 +159,6 @@ the Bailey Method, has become a regular part of the coaching curriculum
 at the Nick Bollettierri Tennis Academy, where it is personally endorsed
 by Nick
 
-Visit David's Website! [**[Click
-Here!]{.underline}**](http://www.baileytennisfootwork.com/)
+Visit David's Website! [**[!]**](http://www.baileytennisfootwork.com/)
 
-To Contact David directly [**[Click
-Here!]{.underline}**](mailto:david@baileytennisfootwork.com)
+To Contact David directly [**[!]**](mailto:david@baileytennisfootwork.com)

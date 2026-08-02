@@ -16,7 +16,7 @@ stances are associated with the Push and which with the Pull?
 
 Find out why the Push Serve is highly preferable.
 
-![](media_the-push-serve-and-pull-serve/media/image1.png)
+![link](media_the-push-serve-and-pull-serve/media/image1.png)
 
 ![A person smiling for the camera Description automatically generated
 with low

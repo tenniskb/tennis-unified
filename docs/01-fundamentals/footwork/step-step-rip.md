@@ -150,7 +150,7 @@ this step can also be made in place to maintain your rhythm.
 left foot virtually flat on the court. The landing is heel first and
 then toe. This step triggers the rotation of the right knee towards the
 left knee and the hips, torso and shoulders follow in the kinetic
-chain.]{.underline}**
+chain.]**
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                       ![A person playing tennis Description automatically

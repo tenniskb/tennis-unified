@@ -15,6 +15,5 @@ Tennisplayer interview. Included are his views on two of his players'
 notable strokes. First the Ernests Gulbis \"swim\" forehand. ([Click
 here](http://www.tennisplayer.net/bulletin/showthread.php?t=2318) to
 check that out.) Second Dominic Thiem's gorgeous one-handed backhand.
-([Click
-Here](http://www.tennisplayer.net/bulletin/showthread.php?t=2626) to see
+([link](http://www.tennisplayer.net/bulletin/showthread.php?t=2626) to see
 that one!)

@@ -14,7 +14,7 @@ permanently changed the modern professional game.
 True enough. But what isn't talked about is another equally profound
 change. This is the corresponding increase in the spin rates in the
 modern slice backhands. **[The slice backhand is actually the fastest
-spinning groundstroke in the modern game.]{.mark}**
+spinning groundstroke in the modern game.]**
 
 Hard to believe? Read on.
 
@@ -59,18 +59,15 @@ article with the actual spin levels.
 With the modern forehand, much has been made of the incredible levels of
 spin. This insight is possible due in part to the research pioneered by
 Tennisplayer and also the Advanced Tennis research foundation and the
-pioneering studies they have done using high speed video. ([Click
-Here](Ball%20Spin%20in%20Pro%20Tennis.docx) for more info on the work of
+pioneering studies they have done using high speed video. ([link](Ball%20Spin%20in%20Pro%20Tennis.docx) for more info on the work of
 Advanced Tennis.)
 
-Nadal may be the king of forehand spin at an average of 3200rpm ([Click
-Here](https://www.tennisplayer.net/members/avancedtennis/john_yandell/building%20_the_modern%20_forehand/rafael_nadals_forehand/rafael_nadals_forehand.html)),
+Nadal may be the king of forehand spin at an average of 3200rpm ([link](https://www.tennisplayer.net/members/avancedtennis/john_yandell/building%20_the_modern%20_forehand/rafael_nadals_forehand/rafael_nadals_forehand.html)),
 but even the so-called \"flatter\" hitters are generating 50 percent
 more spin on their forehands than the great players of the 1980s such as
 Sampras and Agassi. Federer and Djokovic, for example, are averaging
 2700rpm plus on their forehands, compared to around 1800rpm for Pete and
-Andre in 1997. ([Click
-Here](https://www.tennisplayer.net/members/mystheavyball/john_yandell/Spintest/spin_test.html).)
+Andre in 1997. ([link](https://www.tennisplayer.net/members/mystheavyball/john_yandell/Spintest/spin_test.html).)
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -140,8 +137,7 @@ including one that measured an amazing 5300rpm.
 
 Comtemplate that for a minute. That is as many total revolutions as any
 shot we've measured over the last 15 years. It's the equivalent of the
-heaviest spinning second serves hit by Pete Sampras. ([Click
-Here](https://www.tennisplayer.net/members/mystheavyball/john_yandell/Spintest/spin_test.html).)
+heaviest spinning second serves hit by Pete Sampras. ([link](https://www.tennisplayer.net/members/mystheavyball/john_yandell/Spintest/spin_test.html).)
 And this was a slice groundstroke.
 
 ![A person playing tennis Description automatically generated with

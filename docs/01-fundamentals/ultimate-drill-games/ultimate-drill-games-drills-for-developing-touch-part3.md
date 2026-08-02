@@ -6,10 +6,8 @@ Part 3**
 **Dave Hagler**
 
 This month in Part 3 of this series I am adding 4 new, more advanced
-drills for developing touch. [Click
-Here](https://www.tennisplayer.net/members/ultimate_drillgames/dave_hagler/drills_for_developing_touch/part_01/)
-for Part 1 and [Click
-Here](https://www.tennisplayer.net/members/ultimate_drillgames/dave_hagler/drills_for_developing_touch/part_02/)
+drills for developing touch. [link](https://www.tennisplayer.net/members/ultimate_drillgames/dave_hagler/drills_for_developing_touch/part_01/)
+for Part 1 and [link](https://www.tennisplayer.net/members/ultimate_drillgames/dave_hagler/drills_for_developing_touch/part_02/)
 for Part 2.
 
 |  | **Emperor's Volley** |
@@ -86,6 +84,6 @@ More drills to come! Stay Tuned!
 |  | Share Your Thoughts with our Subscribers and Authors!\ |  |  |
 |  | \ |  |  |
 |  | [[Click |  |  |
-|  | Here]{.underline}](https://www.tennisplayer.net/bulletin/forum/tennisplayer/93622-drills-for-developing-touch-part-1?view=stream)** |  |  |
+|  | Here]](https://www.tennisplayer.net/bulletin/forum/tennisplayer/93622-drills-for-developing-touch-part-1?view=stream)** |  |  |
 | +=====================================================================================================================================+===============================================================================================================================================================================================================+ |  |  |  |
 

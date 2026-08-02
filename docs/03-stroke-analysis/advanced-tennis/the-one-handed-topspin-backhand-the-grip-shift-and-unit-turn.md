@@ -9,8 +9,7 @@
 In Part 1 of this new series on the one-handed backhand we looked at the
 two major grip variations, the Classic grip and the Extreme grip, and
 showed how the players construct their grips by the way they connect the
-hand to the racket. ([Click
-Here.)](The%20One%20Handed%20Topspin%20Backhand-Introduction.docx)
+hand to the racket. ([)](The%20One%20Handed%20Topspin%20Backhand-Introduction.docx)
 
 Now let's start to work our way through the stroke itself, including
 the commonalities and the variations between the grip styles. In this
@@ -62,7 +61,7 @@ heel pad on bevel 2.
 
 ***[What this means is that the players are shifting their grip on both
 groundstrokes, not just to hit the backhand, but to hit the forehand as
-well.]{.mark}*** From this neutral starting position, they are rotating
+well.]*** From this neutral starting position, they are rotating
 the hand downward toward the bottom of the frame for the forehand, or
 are rotating the hand upward, toward the top of the frame to hit the
 backhand. Instead of rotating 3 or 4 bevels, the shift is more like one
@@ -79,8 +78,7 @@ The shift is even less in the case of a player like Roger Federer. We
 know that Federer's forehand grip is one of the most conservative in
 the pro game, with most of his hand directly behind the handle and the
 index knuckle shifted slightly downward, what we have labeled a 3 and
-1/2 / 3. ([Click
-Here](John%20Yandell-Modern%20Tennis%20Forehand-Where%20Are%20We%20Now-Part1.docx).)
+1/2 / 3. ([link](John%20Yandell-Modern%20Tennis%20Forehand-Where%20Are%20We%20Now-Part1.docx).)
 
 Federer's backhand grip is also classical, as we saw in part one of
 this series, with his index knuckle and most of his heel pad directly on
@@ -146,8 +144,7 @@ preparation.
 Which brings us to the next aspect of the preparation. \"Take your
 racket back early!\" It's the universal teaching mantra in private
 lessons across the planet. We spent quite a bit of time investigating
-why this phrase was bad advice on the forehand. ([Click
-Here](http://www.tennisplayer.net/members/avancedtennis/john_yandell/building%20_the_modern%20_forehand/building_modern_forehand_pg1/building_modern_forehand_pg1.html).)
+why this phrase was bad advice on the forehand. ([link](http://www.tennisplayer.net/members/avancedtennis/john_yandell/building%20_the_modern%20_forehand/building_modern_forehand_pg1/building_modern_forehand_pg1.html).)
 And it's the same on the one-handed backhand.
 
 It's not that you don't want to initiate the preparation immediately
@@ -155,7 +152,7 @@ upon recognizing the shot. You do and that's critical. The failure to
 prepare is probably the most basic problem in teaching. Late preparation
 is shockingly universal in club tennis. **[But the point is that the
 racket doesn't \"prepare\" independently of the rest of the
-body.]{.mark}**
+body.]**
 
 ![A person playing tennis Description automatically
 generated](media_the-one-handed-topspin-backhand-the-grip-shift-and-unit-turn/media/image6.webp)
@@ -164,7 +161,7 @@ generated](media_the-one-handed-topspin-backhand-the-grip-shift-and-unit-turn/me
 torso.**
 
 ***[The racket preparation happens as part of a larger pattern of body
-movement that involves the feet and the torso.]{.mark}*** ***This
+movement that involves the feet and the torso.]*** ***This
 movement is the Unit Turn.*** ***It's the
 fundamental, critical move that all good one-handers share, at all
 levels of play. In this first phase of the preparation, the racket
@@ -189,19 +186,18 @@ unit turn vary depending on circumstances.**
 
 ***[The antidote is understanding and executing the Unit Turn. It has
 two interrelated components. [First, the feet turn
-sideways.]{.underline} Players initiate this with any one of a number of
+sideways.] Players initiate this with any one of a number of
 possible step combinations: pivot steps, smaller or larger sideways
 steps, sideways steps combined with shuffle steps, or drop steps, for
 example. The player turns with the foot closest to the ball, but the
-opposite foot naturally turns sideways as well.]{.mark}***
+opposite foot naturally turns sideways as well.]***
 
 ***[Which step pattern a player uses to initiate the motion depends on
 where he is on the court, how he is moving, where the ball is that he is
-moving toward, and how much time he has to execute.]{.mark}***
+moving toward, and how much time he has to execute.]***
 
 These footwork options have been described in several great articles in
-the footwork section ([Click
-Here](http://www.tennisplayer.net/members/footwork/footwork.html)), from
+the footwork section ([link](http://www.tennisplayer.net/members/footwork/footwork.html)), from
 Michael Friedman, Bob Hansen, and Pat Dougherty. We also have a new
 series on court movement coming soon from Australian coach David Bailey
 that will go into even more comprehensive detail about the entire range
@@ -214,7 +210,7 @@ confidence](media_the-one-handed-topspin-backhand-the-grip-shift-and-unit-turn/m
 **Gaudio: pure unitary rotation of the shoulders, arms and racket.**
 
 ***[[The second component of the initial move is the shoulder or torso
-turn.]{.underline} The step and the body turn begin at the same time. If
+turn.] The step and the body turn begin at the same time. If
 you look closely at the movement of the shoulders, the arms and the
 racket, they turn seamlessly, usually with minimal independent movement.
 Everything rotates as a unit until the shoulders are about 45 degrees to
@@ -222,7 +218,7 @@ the net. The angle is universal in pro tennis at the completion of the
 unit turn on the one-hander. Depending on the factors outlined above,
 the feet can be in wide variety of positions and alignments when the
 shoulders reach the 45 degree angle, but the point is that the feet and
-the shoulders are working together to initiate turn.]{.mark}***
+the shoulders are working together to initiate turn.]***
 
 The Gaston Gaudio animation is a great example of this pure, minimal
 unit turn in the upper body. After the grip shift, the hands, arms and

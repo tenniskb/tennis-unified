@@ -70,8 +70,7 @@ confidence](media_a-new-teaching-system-high-speed-video-analysis-inexpensive-an
 
 In my own coaching work I have seen the magic of video with junior
 players, college players, and tour players, including players such as
-Justine Henin, Taylor Dent and John McEnroe. ([Click
-Here](https://www.tennisplayer.net/members/teaching_systems/john_yandell/VisualTennis_Part2/Yandell_VTP2_McEnroe_Case_Study.html)
+Justine Henin, Taylor Dent and John McEnroe. ([link](https://www.tennisplayer.net/members/teaching_systems/john_yandell/VisualTennis_Part2/Yandell_VTP2_McEnroe_Case_Study.html)
 to read the story of my work with Mac.) I have also seen how it can
 reshape the games of club players of all ages and abilities, even
 players with severe, long standing problems.
@@ -93,8 +92,7 @@ verbal tips. Over and over again, hour after lesson hour. A lot of
 effort and good intention is expended on both sides of the net, but
 sometimes players' games look exactly the same after years.
 
-(For my article on the Myth of the Tennis Tip, [Click
-Here](https://www.tennisplayer.net/members/avancedtennis/john_yandell/the_myth/the_myth_of_the_tennis_tip_images/the_myth_of_the_tennis_tip.html).)
+(For my article on the Myth of the Tennis Tip, [link](https://www.tennisplayer.net/members/avancedtennis/john_yandell/the_myth/the_myth_of_the_tennis_tip_images/the_myth_of_the_tennis_tip.html).)
 
 Video shifts the experience into a new dimension. Hundreds of times
 I've heard players say something like \"Oh, is that what I am really
@@ -106,8 +104,7 @@ the exact same problem to them for years.
 The first high speed filming we ever did was literally filming-movie
 film running through cameras at up to 240 frames a second. It was an
 instructional video with John McEnroe and Ivan Lendl. Check out the
-music videos that were the heart of that project. ([Click
-Here](https://www.tennisplayer.net/members/music_videos/mac_lendl_walking/mac_lendl_walking_large.html).)
+music videos that were the heart of that project. ([link](https://www.tennisplayer.net/members/music_videos/mac_lendl_walking/mac_lendl_walking_large.html).)
 
 ![A white camera with a green light Description automatically generated
 with low
@@ -158,8 +155,7 @@ confidence](media_a-new-teaching-system-high-speed-video-analysis-inexpensive-an
 
 The Casios can do both-film at a high frame rate with a high speed
 shutter. The EX-ZR200 is the starting point in the line, and it costs
-about \$300 on a site like Amazon. ([Click
-Here](http://www.amazon.com/Casio-Exilim-Ex-zr200-Digital-Ex-zr200we/dp/B006596OUA/ref=sr_1_3?ie=UTF8&qid=1370386404&sr=8-3&keywords=casio+zr200).)
+about \$300 on a site like Amazon. ([link](http://www.amazon.com/Casio-Exilim-Ex-zr200-Digital-Ex-zr200we/dp/B006596OUA/ref=sr_1_3?ie=UTF8&qid=1370386404&sr=8-3&keywords=casio+zr200).)
 
 With this particular camera you pick the frame rate. 240 frames is
 preferable, but even 120 frames a second will give you great
@@ -273,8 +269,7 @@ size of the backswings, I may also film from the rear.
 On the serve, however, the rear view is without doubt the place to
 start. No matter what the other issues or problems, I want to see the
 racket drop and how it starts to the ball. You can see more about how to
-use this approach in my new serve series. ([Click
-Here](https://www.tennisplayer.net/members/teaching_systems/john_yandell/serve2/).)
+use this approach in my new serve series. ([link](https://www.tennisplayer.net/members/teaching_systems/john_yandell/serve2/).)
 
 **Viewing**
 
@@ -295,7 +290,7 @@ generated](media_a-new-teaching-system-high-speed-video-analysis-inexpensive-and
 Now you are ready to look. Click on a file it'll open in Quick Time. If
 you are a Tennisplayer subscriber you already have Quick Time on your
 computer, but if you don't for any reason you can download it for free.
-[Click Here](http://www.apple.com/quicktime/download/)
+[link](http://www.apple.com/quicktime/download/)
 
 Why Quick Time? Because it is the only player that allows you to easily
 pause and advance frame by frame.
@@ -368,7 +363,7 @@ under pressure.
 
 Which brings us to the other critical component. What are the model
 positions and the corresponding mental images for creating world class
-technique? (Click Here for that article.)
+technique? ( for that article.)
 
 Next, let's see how to do side by side analysis of Your Strokes with
 the pros! Stay tuned!

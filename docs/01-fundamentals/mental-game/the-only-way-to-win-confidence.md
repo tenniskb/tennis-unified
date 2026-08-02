@@ -10,7 +10,7 @@ sense of control. But the expectation that you can control the outcome
 leads to choking. See what Jim has to say about control, confidence, and
 how it relates to the story you tell yourself as a player.
 
-![](media_the-only-way-to-win-confidence/media/image1.png)
+![link](media_the-only-way-to-win-confidence/media/image1.png)
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A person smiling for the camera Description automatically generated with medium                                                                                                  Jim Loehr is a legendary pioneer in the field of

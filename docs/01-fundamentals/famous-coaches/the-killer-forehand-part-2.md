@@ -6,7 +6,7 @@
 
 ### ![A person swinging a baseball bat Description automatically generated](media_the-killer-forehand-part-2/media/image1.webp)
 
-### In the batter's box with the [open stance]{.underline} Killer Forehand.
+### In the batter's box with the [open stance] Killer Forehand.
 
 ### Hitting Stances
 
@@ -15,7 +15,7 @@ Forehand without a good hitting stance.
 
 **The hitting stances provide power, balance and disguise for your
 strokes. [When you arrive at the ball, you need to be in a stance that
-allows you all shot possibilities.]{.underline}**
+allows you all shot possibilities.]**
 
 **The two desirable hitting stances are an open stance and a neutral
 stance.**
@@ -28,7 +28,7 @@ thrown and then had to enter the box as the pitcher throws the ball.
 confidence](media_the-killer-forehand-part-2/media/image2.webp)
 
 **To master the Killer Forehand you must also hit from [a neutral
-stance]{.underline}.**
+stance].**
 
 The batter went into the box with his back foot. In tennis, that's
 called the open stance forehand.
@@ -44,20 +44,20 @@ drive your weight into the ball and is commonly used when coming forward
 and often when the ball's hit down the center.
 
 **[A common error made many players is using the closed hitting stance.
-That]{.mark}** **[would be the same as the batter entering the batter's
-box with their front foot first.]{.mark}**
+That]** **[would be the same as the batter entering the batter's
+box with their front foot first.]**
 
 ![A person running on a tennis court Description automatically generated
 with medium
 confidence](media_the-killer-forehand-part-2/media/image3.webp)
 
-**A [closed stance]{.underline} is firing the Killer Forehand from a
+**A [closed stance] is firing the Killer Forehand from a
 canoe.**
 
 **[In the closed stance, everything changes. When you're forced to hit
 from a close stance, you have to reach to make contact while also snap
 your wrist. [This turns your contact zone into a contact
-point.]{.mark}]{.underline}**
+point.]]**
 
 The closed stance forehand, no balance, no power, no consistency, no
 control. This is firing a canon from a canoe. No balance, no power, no
@@ -66,7 +66,7 @@ killer forehand.
 ###  The Hitting Zone
 
 What creates the correct hitting stance? ***[Early and correct racket
-preparation. Your hitting hand and feet must work together.]{.mark}***
+preparation. Your hitting hand and feet must work together.]***
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -108,7 +108,7 @@ foundation, early first reaction, good footwork, technique moving to the
 ball and early and correct preparation has you in a killer forehand
 hitting stance. Now you're ready to fire forward.
 
-![](media_the-killer-forehand-part-2/media/image6.webp)
+![link](media_the-killer-forehand-part-2/media/image6.webp)
 
 **Pulling a towel out of your partner's hand simulates the stroke.**
 
@@ -185,8 +185,8 @@ accuracy.** When you're forced wide in the court, your opposite arm can
 serve as a counterbalance keeping your shoulders level through the
 stroke.
 
-**[By separating your arms early,]{.mark} [this technique anchors down
-your swing]{.underline}, providing balance and a stronger pulling
+**[By separating your arms early,] [this technique anchors down
+your swing], providing balance and a stronger pulling
 action.**
 
 Practice hitting with a small weight in your hand. This simulates the
@@ -216,8 +216,8 @@ muscles.**
 
 **[The opposite arm can anchor down the stroke on the wide shots and
 lengthen the lever with a sweeping action to give you more power on your
-killer forehand.]{.mark}** **[Either way, it's always serving as a
-counterbalance to the stroke.]{.underline}** Check and see how your
+killer forehand.]** **[Either way, it's always serving as a
+counterbalance to the stroke.]** Check and see how your
 stroke matches up to the pocket killer forehand.
 
 Another characteristic of the killer forehand that makes it so explosive
@@ -234,7 +234,7 @@ generated](media_the-killer-forehand-part-2/media/image12.webp)
 
 **[\
 [Try to keep your weight centered on your backfoot throughout the
-stroke]{.mark}]{.underline}**. This will give you a good feel for it.
+stroke]]**. This will give you a good feel for it.
 **Focus on how the body winds up and coils like a spring from the hips
 up to the shoulders and sinks down into the back of the
 stance.**

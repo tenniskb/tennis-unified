@@ -11,7 +11,7 @@ generated](media_ultimate-drill-games-drills-for-developing-touch-part1/media/im
 You need touch and feel to hit great dropshots.
 
 In my last article we looked at the effectiveness of drop shots in pro
-tennis and at all levels. [Click Here](https://www.tennisplayer.net/members/teaching_systems/dave_hagler/two_kinds_of_drop_shots/)
+tennis and at all levels. [link](https://www.tennisplayer.net/members/teaching_systems/dave_hagler/two_kinds_of_drop_shots/)
 it's devastating and underused shot, particularly in junior and club
 tennis.
 
@@ -91,6 +91,6 @@ Lots more drills to come! Stay Tuned.
 |  | Share Your Thoughts with our Subscribers and Authors!\ |  |  |
 |  | \ |  |  |
 |  | [[Click |  |  |
-|  | Here]{.underline}](https://www.tennisplayer.net/bulletin/forum/tennisplayer/93622-drills-for-developing-touch-part-1?view=stream)** |  |  |
+|  | Here]](https://www.tennisplayer.net/bulletin/forum/tennisplayer/93622-drills-for-developing-touch-part-1?view=stream)** |  |  |
 | +=====================================================================================================================================+===============================================================================================================================================================================================================+ |  |  |  |
 

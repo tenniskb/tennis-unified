@@ -16,8 +16,7 @@ It seemed like a stretch and it didn't happen, Federer versus Nadal in
 a third Slam final in a row in 2006. We tracked the numbers in their
 first two matches on clay and on grass, and saw how some relatively
 small differences translated into opposite outcomes at the French and at
-Wimbledon. ([Click
-Here](http://www.tennisplayer.net/members/strategy/strategy_and_statistics.html).)
+Wimbledon. ([link](http://www.tennisplayer.net/members/strategy/strategy_and_statistics.html).)
 So that's why I would have been so interested to chart a third match on
 hard courts.
 
@@ -57,8 +56,7 @@ didn't even play that well, ending up with an Aggressive Margin of only
 worse, ending with an Aggressive Margin of -2. He had 5 backhand
 unforced errors, no backhand winners or forced errors, and only hit 5
 aces or unreturnable serves. We talked about the Agressive Margin in
-detail in this series, how to calculate it and what it means. ([Click
-Here](The%20Aggressive%20Margin.docx).) But briefly it's a player's
+detail in this series, how to calculate it and what it means. ([link](The%20Aggressive%20Margin.docx).) But briefly it's a player's
 winners and forced errors less unforced errors, and the player who has
 the highest Aggressive Margin is the winner at any level.
 
@@ -136,8 +134,7 @@ Well, it sure worked for Jimmy, but then he didn't have the same kind
 of technical problems Andy does. As I've said, Andy could hit you or me
 or virtually anyone in the world off the court with his backhand, but
 not Roger Federer, or most of the other top players. We've looked at
-the reasons why in a detailed article already ([Click
-Here](http://www.tennisplayer.net/members/avancedtennis/john_yandell/two_handed_backhand/2hd_bh_roddick/2hd_bh_roddick.html)),
+the reasons why in a detailed article already ([link](http://www.tennisplayer.net/members/avancedtennis/john_yandell/two_handed_backhand/2hd_bh_roddick/2hd_bh_roddick.html)),
 but if you look at the position of Andy's hands and compare them to
 Jimmy at the start of the motion, it pretty much says it all. As my
 friend Don Brousseau said in a recent post in the Forum, groundstrokes

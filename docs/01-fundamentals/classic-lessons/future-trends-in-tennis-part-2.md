@@ -25,13 +25,11 @@ laterality also relates to the dominance of the left or right eye.
 
 Coaches and trainers are currently exploring the effects laterality has
 on motor performance and technical development. In tennis, Paul
-Dorochenko has been a leader in this field of study. [[Click
-Here]{.underline}](https://www.youtube.com/watch?v=AqvqWwaeSTg) to see
+Dorochenko has been a leader in this field of study. [[]](https://www.youtube.com/watch?v=AqvqWwaeSTg) to see
 him training with a young Roger Federer.
 
 Others like the Spanish coach Jofre Porta are using laterality to inform
-their developmental work with players. ([[Click
-Here]{.underline}](https://www.tennisplayer.net/members/classiclessons/chris_lewit/maverick_genius_of_mallorca/)
+their developmental work with players. ([[]](https://www.tennisplayer.net/members/classiclessons/chris_lewit/maverick_genius_of_mallorca/)
 to see my previous profile of him on Tennisplayer.) Future coaches may
 be able train and enhance eye dominance from a young age to improve
 technical development and overall sports performance.
@@ -64,7 +62,7 @@ It would be very interesting to test Gene for eye dominance and
 laterality as he is still actively playing and teaching. And John
 Yandell has offered to put us in touch. You can see more of his
 two-handed game in the Archives by [[Clicking
-Here]{.underline}](https://www.tennisplayer.net/members/high_speed_archive/phantom/Gene_Mayer_HD_HS/index.html?dir=Backhand/GM_BH_Wide&stroke=GM%20BH%20Wide%20ClosedStance%20Front3%20120fps.mp4&new=).
+Here]](https://www.tennisplayer.net/members/high_speed_archive/phantom/Gene_Mayer_HD_HS/index.html?dir=Backhand/GM_BH_Wide&stroke=GM%20BH%20Wide%20ClosedStance%20Front3%20120fps.mp4&new=).
 
 **Dual Forehand Players**
 
@@ -140,7 +138,7 @@ continental grip?**
 
 Players, parents, and coaches interested in discussing participation in
 the Team Symmetry Project are welcome to get in touch with me directly.
-([[chrislewit@gmail.com]{.underline}](mailto:chrislewit@gmail.com).)
+([[chrislewit@gmail.com]](mailto:chrislewit@gmail.com).)
 
 These are radical ideas, but I believe they are viable. We simply
 haven't explored this type of systematic training yet. Remember the
@@ -162,8 +160,7 @@ common on tour.
 The predictions in this article are meant to provoke thought and
 discussion. I look forward to getting feedback and other ideas from the
 Tennisplayer community at large. Please share your own predictions in
-the Forum. ([[Click
-Here]{.underline}](https://www.tennisplayer.net/bulletin/forum/tennisplayer/79288-future-trends-in-tennis-part-2?view=stream).)
+the Forum. ([[]](https://www.tennisplayer.net/bulletin/forum/tennisplayer/79288-future-trends-in-tennis-part-2?view=stream).)
 
 ![A person hitting a ball with a tennis racket Description automatically
 generated](media_future-trends-in-tennis-part-2/media/image7.jpeg)

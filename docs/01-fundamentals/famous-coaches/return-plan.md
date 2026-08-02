@@ -9,7 +9,7 @@ generated](media_return-plan/media/image1.webp)
 **The return battle begins with rituals\--and strategies.**
 
 **[The battle between the server and the returner begins [long before
-the serve is ever hit.]{.underline}]{.mark}** As the players take their
+the serve is ever hit.]]** As the players take their
 positions, both players begin their rituals and plan their strategy. The
 server establishes his starting stance, usually bounces the ball several
 times, then takes one last look at the returner before sending the toss
@@ -21,8 +21,8 @@ forward and then backwards like the great Andre Agassi.
 
 But I'm here to tell you, you need a lot more than rituals to develop a
 successful return game. We've looked at the right mental attitude.
-[Click Here](The%20Return%20Mentality.docx) We've looked at the
-fundamentals of technique. [Click Here](Return%20Technique.docx) Now
+[link](The%20Return%20Mentality.docx) We've looked at the
+fundamentals of technique. [link](Return%20Technique.docx) Now
 let's look at the third part of developing a great return game: your
 return plan.
 
@@ -47,17 +47,17 @@ point to decide exactly what you are going to do.**
 Great returners have many factors to consider as part of their pre-point
 routine.
 
-- **[Will I block, chip or drive the return?]{.mark}**
+- **[Will I block, chip or drive the return?]**
 
-- **[Is it a first or a second serve?]{.mark}**
+- **[Is it a first or a second serve?]**
 
-- **[Do I anticipate the serve and volley?]{.mark}**
+- **[Do I anticipate the serve and volley?]**
 
-- **[What direction will I hit?]{.mark}**
+- **[What direction will I hit?]**
 
-- **[Will I stay back or attack?]{.mark}**
+- **[Will I stay back or attack?]**
 
-- **[Will I try to influence or pressure the serve selection?]{.mark}**
+- **[Will I try to influence or pressure the serve selection?]**
 
 It may seem unrealistic to have this type of long mental checklist
 before every return, but with experience the right questions will begin
@@ -87,10 +87,10 @@ overwhelming power, block and chip returns are the most effective tools
 for your counter attack.**
 
 - **[Hitting flatter drive returns on the rise requires great
-  timing.]{.mark}**
+  timing.]**
 
 - **[Top spin drives take longer to execute but can be very effective in
-  the right circumstances.]{.mark}**
+  the right circumstances.]**
 
 **You should decide what type of return you want to hit in advance of
 the serve.** This is largely determined by factors
@@ -115,7 +115,7 @@ defense.**
 
 **You must adjust your return swings to become more like volleys than
 ground strokes, as we explained in the technique
-article** [Click Here](Return%20Technique.docx).
+article** [link](Return%20Technique.docx).
 Yes Andre Agassi often steps in and absolutely cleans these serves on
 the rise. That's an advanced strategy and there is one way to know if
 it is effective for you. Can you execute it consistently?
@@ -144,8 +144,8 @@ trying to take the ball earlier makes more sense.**
 
 **Another option is to attack the net off the
 return.** **[[Change your position; move forward;
-chip and charge.]{.mark} [Or get around the ball the way so many top
-players now do and hit that inside-out forehand.]{.mark}]{.underline}**
+chip and charge.] [Or get around the ball the way so many top
+players now do and hit that inside-out forehand.]]**
 This part comes back to attitude. When you get the chance, I want you to
 send a message to the server.
 
@@ -200,8 +200,8 @@ want.**
 What direction will I hit? Whether the serve is to your forehand or
 backhand side, know what direction you intend to hit the ball and stick
 to that decision. Against to **[a serve and volleyer, [going down to the
-feet is the primary target,]{.underline} [hitting either down the
-line]{.underline} or the [cross court angle.]{.underline}]{.mark}**
+feet is the primary target,] [hitting either down the
+line] or the [cross court angle.]]**
 
 **Playing baseliners, the direction of your return should be designed
 to set up your preferred cross court rally
@@ -320,9 +320,9 @@ confidence](media_return-plan/media/image11.webp)
 
 **[[A similar point applies if you are looking to run around your
 backhand and hit an inside forehand return, wait until the server's
-eyes look up with the toss before you make your move.]{.mark} [Once the
+eyes look up with the toss before you make your move.] [Once the
 server's looking up, they are more focused on executing the serve and
-are unable to see you make your move.]{.mark}]{.underline}**
+are unable to see you make your move.]]**
 
 **Your court position depth can also be used as one of the most
 effective tools to break down the serve and volley attack. If you always
@@ -378,7 +378,7 @@ confidence](media_return-plan/media/image13.webp)
 
 **The return: mental, technical, tactical.**
 
-**[The Big Picture]{.underline}**
+**[The Big Picture]**
 
 So there we have it. We've covered the technique, but we've covered
 the equally important mental and strategic aspects of the return.
@@ -386,8 +386,7 @@ the equally important mental and strategic aspects of the return.
 difficult to win matches.** Too many players never
 consider how the returns differ from the groundstrokes or work
 systematically on developing them. Follow my advice in this article and
-the two other return on Tennisplayer ([Click
-Here](Famous%20Coaches%20TOC.docx)) and you'll have a huge advantage
+the two other return on Tennisplayer ([link](Famous%20Coaches%20TOC.docx)) and you'll have a huge advantage
 over most of your opponents.
 
 ![A person wearing sunglasses Description automatically generated with

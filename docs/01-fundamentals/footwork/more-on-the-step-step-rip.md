@@ -157,16 +157,16 @@ split step, his first step is with the foot closest to the ball. This
 step is the positioning step. [This is his right foot on the forehand
 and his left foot on the backhand. The load from his first step drives
 the second step into the volley, which put him in rhythm with the
-contact.]{.mark} [The step-in and the hit are synchronized as part of a
-continous flow.]{.mark}]{.underline}**
+contact.] [The step-in and the hit are synchronized as part of a
+continous flow.]]**
 
 If Tim only stepped across with his left foot, his timing would be off.
 **[[Once you allow yourself to step with the right foot first and get
 correct position to the ball then, you can then step in with the left.
-Again, there are two steps creating the step, step rhythm.]{.mark}
+Again, there are two steps creating the step, step rhythm.]
 \<Read this article for more details on how to get correct position to
-the ball]{.underline}
-[HERE](Court%20Movement%20-%20The%20Volley.docx)[\>]{.underline}**
+the ball]
+[HERE](Court%20Movement%20-%20The%20Volley.docx)[\>]**
 
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                   ![A person playing tennis Description automatically generated with medium

@@ -81,8 +81,7 @@ gentleman named Bruce S. Old and his work after World War II. Old, an
 avid player and scientist, would bring huge notebooks to tennis matches
 and chart every shot of every point to figure out the best way to play,
 eventually teaming up with Bill Talbert to write books on singles and
-doubles tactics. ([Click
-Here](https://www.amazon.com/Tennis-Singles-Doubles-Production-3/dp/B009QHXGJK/ref=sr_1_1?dchild=1&keywords=William+Talbert+Bruce+Old&qid=1602974497&sr=8-1).)
+doubles tactics. ([link](https://www.amazon.com/Tennis-Singles-Doubles-Production-3/dp/B009QHXGJK/ref=sr_1_1?dchild=1&keywords=William+Talbert+Bruce+Old&qid=1602974497&sr=8-1).)
 
 Old was meticulous about keeping track of shots and after the match,
 dove into the statistics that those lines on paper produced. He was
@@ -154,8 +153,7 @@ In a series of Tennisplayer articles, Yandell showed how the forced
 error was the key to understanding several historic finals played
 between Roger Federer and Rafael Nadal.
 
-To give one example: the 2006 Wimbledon final. ([Click
-Here](https://www.tennisplayer.net/members/strategy/john_yandell/how_roger_federer_won_wimbledon_2006/how_roger_federer_won_wimbledon_2006.html).)
+To give one example: the 2006 Wimbledon final. ([link](https://www.tennisplayer.net/members/strategy/john_yandell/how_roger_federer_won_wimbledon_2006/how_roger_federer_won_wimbledon_2006.html).)
 This match was won by Federer in 4 sets. What did the statistics show?
 Federer had 43 winners. Nadal made 29 unforced errors. That accounts for
 72 points Federer won.
@@ -189,24 +187,20 @@ statistics can be incomplete and puzzling.
 
 To this day, television statistics don't reflect forced errors. Craig
 O'Shannessy recently published a piece on Tennisplayer about the
-importance of this overlooked statistic. ([Click
-Here](https://www.tennisplayer.net/members/strategy/craig_o_shannessy/forced_error/).)
+importance of this overlooked statistic. ([link](https://www.tennisplayer.net/members/strategy/craig_o_shannessy/forced_error/).)
 
 That compliments the article by John published several years previously.
-([Click
-Here](https://www.tennisplayer.net/members/strategy/john_yandell/understanding_statistics/Yandell_Statistics_Forced_Error_images/Yandell_Statistics_Forced_Error.html).)
+([link](https://www.tennisplayer.net/members/strategy/john_yandell/understanding_statistics/Yandell_Statistics_Forced_Error_images/Yandell_Statistics_Forced_Error.html).)
 Another article by John breaks down the Aggressive Margin stroke by
 stroke in the classic 2001 U.S. Open final between Pete Sampras and
-Andre Agassi. ([Click
-Here](https://www.tennisplayer.net/members/strategy/john_yandell/understanding_statistics/Yandell_Aggressive_Margin_images/Yandell_Aggressive_Margin.html).)
+Andre Agassi. ([link](https://www.tennisplayer.net/members/strategy/john_yandell/understanding_statistics/Yandell_Aggressive_Margin_images/Yandell_Aggressive_Margin.html).)
 
 But the Aggressive Margin isn't just a statistic that's relevant in
 pro matches. It's as important, if not more important at all lower
 levels, where players are often clueless about how they win and lose
 points. In a final article in his series on statistics, John showed this
 by breaking down matches won and lost for a top player on his high
-school team in San Francisco. ([Click
-Here](https://www.tennisplayer.net/members/strategy/john_yandell/understanding_statistics/Yandell_Going_Insiede_Matches_images/Yandell_Going_Insiede_Matches.html).)
+school team in San Francisco. ([link](https://www.tennisplayer.net/members/strategy/john_yandell/understanding_statistics/Yandell_Going_Insiede_Matches_images/Yandell_Going_Insiede_Matches.html).)
 
 **CompuTennis Continued**
 
@@ -248,8 +242,7 @@ the game.
 The inspiration for my work is to carry on the revolution Bill Jacobson
 started and to help players at all levels benefit from the same
 information used by the world's best players. To do this I have created
-an app called RacketStats, with both a free and a paid version. ([Click
-Here](https://racketstats.com/).)
+an app called RacketStats, with both a free and a paid version. ([link](https://racketstats.com/).)
 
 To show how RacketStats works, next month I will present and analyze the
 statistics from the recent French Open women's final between Sofia

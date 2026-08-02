@@ -11,8 +11,7 @@ Trumpster's eyes.**
 
 After her first big money win at Donald Trump's Florida resort, it was
 kind of funny how Monique's stock went up in his eyes and how mine went
-up too. ([Click
-Here](The%20Strange%20Saga%20of%20Monique%20and%20the%20Donald%20-%20Part%201.docx)
+up too. ([link](The%20Strange%20Saga%20of%20Monique%20and%20the%20Donald%20-%20Part%201.docx)
 for Part 1 in this saga.) Whenever anyone was around, the Trumpster
 would start saying, \"Rick's the best. Rick's the best.\" At least I
 lost the \"hey pal\" label.

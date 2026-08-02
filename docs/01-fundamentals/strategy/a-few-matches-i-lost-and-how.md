@@ -10,8 +10,7 @@ confidence](media_a-few-matches-i-lost-and-how/media/image1.jpg)
 
 **Winning 52% of your total points makes you number one.**
 
-In the last article ([Click
-Here](Adapting%20Your%20Game%20to%20Win%20Matches.docx)) I talked about
+In the last article ([link](Adapting%20Your%20Game%20to%20Win%20Matches.docx)) I talked about
 how I adapted my game to win matches in NTRP and seniors tournaments.
 Although I was successful, won a couple of tournaments, and was ranked
 in several divisions in Norcal, there were plenty of players I couldn't
@@ -68,8 +67,7 @@ It's a cliché but true that you have to play one ball at a time. I once
 saw Jimmy Connors say in a press conference that the ball doesn't know
 when it's set point. Later when I worked with Jim Loehr and he wrote
 \"From Negative to Positive\" for Tennisplayer, I understood better what
-had happened to me. ([Click
-Here](https://www.tennisplayer.net/members/mentalgame/jim_loehr/jim_loehr_from_negative_to_positive_images/jim_loehr_from_negative_to_positive.html).)
+had happened to me. ([link](https://www.tennisplayer.net/members/mentalgame/jim_loehr/jim_loehr_from_negative_to_positive_images/jim_loehr_from_negative_to_positive.html).)
 
 **Rusty**
 

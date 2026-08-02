@@ -201,7 +201,7 @@ confidence](media_bridging-the-technical-and-mental-divide-implementing-technica
 I'm in the finals of the National 40 Hardcourts in La Jolla. I am
 playing three time champion and USC men's varsity tennis coach Peter
 Smith, an accomplished player and also himself a Tennisplayer
-contributor. (Click Here to read Peter's article.)
+contributor. ( to read Peter's article.)
 
 I walk from the back court up to the basellne to serve. My eye catches a
 spectator to my right. Slowly and methodically, I line up my front foot
@@ -363,8 +363,7 @@ We were conditioned to run from our predators or fight them for
 survival. The fear center in our brains, known as the amygdala, is still
 very prominent factor in influencing our behavior. Tennis can bring out
 a primal response in many of us, which means that we need tools to
-manage these high-arousal moments. ([Click
-Here](https://www.tennisplayer.net/members/mentalgame/jeff_greenwald/mindfulness_can_you_actually_change_your_brain/mindfulness_can_you_actually_change_your_brain.html)
+manage these high-arousal moments. ([link](https://www.tennisplayer.net/members/mentalgame/jeff_greenwald/mindfulness_can_you_actually_change_your_brain/mindfulness_can_you_actually_change_your_brain.html)
 for more on tennis and the brain.)
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -468,7 +467,7 @@ tennis of your life. See how to embrace pressure, maintain confidence,
 and increase your focus and intensity. Jim Loehr calls Jeff's book: \"a
 real contribution to the field of applied sports psychology.\"\
 \
-[Click Here to
+[ to
 Order!](http://www.amazon.com/Best-Tennis-Your-Life-Performance/dp/1558708448/ref=pd_bbs_sr_1?ie=UTF8&s=books&qid=1200341206&sr=8-1)
 
 ![A person smiling for the camera Description automatically generated
@@ -484,7 +483,7 @@ doubles in the United States.
 
 Greenwald is the author of [\"The Best Tennis of Your
 Life\"](http://www.amazon.com/Best-Tennis-Your-Life-Performance/dp/1558708448/ref=pd_bbs_sr_1?ie=UTF8&s=books&qid=1200341206&sr=8-1)
-published by Betterway. [Click Here to
+published by Betterway. [ to
 order.](http://www.amazon.com/Best-Tennis-Your-Life-Performance/dp/1558708448/ref=pd_bbs_sr_1?ie=UTF8&s=books&qid=1200341206&sr=8-1)
 Jeff has a private practice based in San Francisco and Marin County,
 California. He can be reached at 415-640-6928 or by email at

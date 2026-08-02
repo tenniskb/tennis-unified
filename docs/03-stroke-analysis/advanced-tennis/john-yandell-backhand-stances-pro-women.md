@@ -10,10 +10,8 @@ men?**
 
 In the last two articles we've looked at the surprising predominance of
 closed stances on the men's pro backhand, both for the two hander
-([Click
-Here](John%20Yandell-Modern%20Backhand%20Stances-%20The%20Two%20Hander.docx))
-and for the one hander ([Click
-Here](John%20Yandell-The%20Extreme%20Closed%20Stance-Pro%20One%20Handed%20Backhand.docx)).
+([link](John%20Yandell-Modern%20Backhand%20Stances-%20The%20Two%20Hander.docx))
+and for the one hander ([link](John%20Yandell-The%20Extreme%20Closed%20Stance-Pro%20One%20Handed%20Backhand.docx)).
 But what about the women?
 
 Unlike the men, almost all of the top women hit with two-hands. So are
@@ -22,8 +20,7 @@ stances are actually different and more varied. Open stance is the most
 common choice for most women players, or to be accurate, semi open
 stance, similar to the dominant stance on the forehand. This means the
 front foot is closer to the net than the rear and offset at about a 30
-to 45 degree angle from the rear foot. ([Click
-Here.](https://www.tennisplayer.net/members/avancedtennis/john_yandell/building%20_the_modern%20_forehand/stances_modern_forehand/stances_modern_forehand.html))
+to 45 degree angle from the rear foot. ([link](https://www.tennisplayer.net/members/avancedtennis/john_yandell/building%20_the_modern%20_forehand/stances_modern_forehand/stances_modern_forehand.html))
 
 Some players use the semi-open more predominantly or even exclusively.
 Venus Williams for example hits virtually all her backhands semi-open
@@ -66,8 +63,7 @@ confidence](media_john-yandell-backhand-stances-pro-women/media/image3.webp)
 
 When it comes to the grip, virtually all men shift to some version of a
 continental grip with the bottom hand. The basic flaw in Andy Roddick's
-backhand was that he did not. ([Click
-Here](https://www.tennisplayer.net/members/avancedtennis/john_yandell/two_handed_backhand/2hd_bh_roddick/2hd_bh_roddick.html).)
+backhand was that he did not. ([link](https://www.tennisplayer.net/members/avancedtennis/john_yandell/two_handed_backhand/2hd_bh_roddick/2hd_bh_roddick.html).)
 Most of the women do something similar.
 
 **Why?**
@@ -88,8 +84,7 @@ the index knuckle and the heel pad predominantly on bevel two.
 What about the grip with the top hand? For both Venus and Serena, the
 top hand is in a mild semi-western . The heel pad is basically behind
 the handle and the index knuckle is shifted down one bevel. This
-corresponds to a 4/3 grip in Tennisplayer terminology. ([Click
-Here.](https://www.tennisplayer.net/members/avancedtennis/john_yandell/grips/modern_forehand_grip_variations_part1/modern_forehand_grip_variations_part1.html))
+corresponds to a 4/3 grip in Tennisplayer terminology. ([link](https://www.tennisplayer.net/members/avancedtennis/john_yandell/grips/modern_forehand_grip_variations_part1/modern_forehand_grip_variations_part1.html))
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -139,11 +134,11 @@ our second key factor: the hitting arms.
 
 **[For the men the most common hitting arm structure is with the bottom
 arm bent and the top arm straight. Virtually all the women hit with a
-double bend.]{.mark}**
+double bend.]**
 
 **[This means the elbow is bent and pointed in toward the body, and the
 wrist is laid back. As the swing starts forward, this structure is
-maintained at the contact and out into the followthrough.]{.mark}**
+maintained at the contact and out into the followthrough.]**
 
 For Venus and Serena there is less pull at the start of the stroke with
 the front arm due to the weaker bottom hand grip. This also means the
@@ -172,12 +167,12 @@ fully open stance.**
 However the double bend structure also has an impact on the women who
 change the grip more than Serena or Venus. **[When the men straighten
 out the rear arm they push the contact point slightly further to their
-sides and probably slightly more in front as well.]{.mark}**
+sides and probably slightly more in front as well.]**
 
 **[This contact point is probably more conducive to the large diagonal
 cross step with the bigger turn and deeper knee bend that is associated
 with the men's closed stance. But this also may be a strength issue for
-women players.]{.mark}**
+women players.]**
 
 In any case, the spacing of the double bend structure makes the open
 stance more natural for the women. It also restricts the ability of

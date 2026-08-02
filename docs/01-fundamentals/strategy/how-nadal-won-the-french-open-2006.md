@@ -43,8 +43,7 @@ in 1984. Mac never got another shot. Hopefully that won't be the same
 for Roger.
 
 So, what really happened? We've had some great commentary in the Forum
-about the match from Craig Cignarelli and others. ([Click
-Here](http://www.tennisplayer.net/bulletin/showthread.php?t=529).)
+about the match from Craig Cignarelli and others. ([link](http://www.tennisplayer.net/bulletin/showthread.php?t=529).)
 Federer played one of the most tactical oriented matches I've ever seen
 and Craig put his finger on what happened in the exchanges. You just
 don't see top pro players do what Roger did, hitting the patterns he
@@ -78,8 +77,7 @@ courts compared to grass or hardcourts.
 I've written quite a bit about the Aggressive Margin in the past, but
 not recently, so if you want to learn more you can check out the series
 of articles that give a more detailed explanation and show how it
-explains pro matches and matches at all levels. ([Click
-Here](The%20Aggressive%20Margin.docx).)
+explains pro matches and matches at all levels. ([link](The%20Aggressive%20Margin.docx).)
 
 One big problem in studying pro matches is that you can't calculate the
 Aggressive Margin based on TV or even tournament website statistics. The
@@ -174,8 +172,7 @@ wasn't one of the highest quality French finals, that's for sure.
 As you might expect, the Aggressive Margin in clay court matches is
 usually substantially lower than on hard courts or grass, where the
 winner is usually +15/set or higher. (For a look at the highest quality
-statistical match I ever charted, [Click
-Here](http://www.tennisplayer.net/members/strategy/john_yandell/understanding_statistics/Yandell_Statistics_Aggressive_Margin_images/Yandell_Statistics_Aggressive_Margin.html)
+statistical match I ever charted, [link](http://www.tennisplayer.net/members/strategy/john_yandell/understanding_statistics/Yandell_Statistics_Aggressive_Margin_images/Yandell_Statistics_Aggressive_Margin.html)
 to see the amazing number for Pete Sampras and Andre Agassi in the
 quarters of the 2001 U.S. Open where both players graded out at over
 +20/set.)

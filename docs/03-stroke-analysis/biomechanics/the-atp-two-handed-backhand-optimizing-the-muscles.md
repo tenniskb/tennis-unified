@@ -10,8 +10,7 @@ In the first article I identified the three general types of the
 two-handed backhand and asserted that there was an optimum type, the
 type used by top men's pros such as Novak Djokovic. I also argued that
 this so-called ATP backhand generated more racket speed with less motion
-and could be taught to players at all levels and of all ages ([Click
-Here](The%20ATP%20Two%20Handed%20Backhand%20-%20The%203%20General%20Types.docx)).
+and could be taught to players at all levels and of all ages ([link](The%20ATP%20Two%20Handed%20Backhand%20-%20The%203%20General%20Types.docx)).
 
 ![A person playing tennis Description automatically
 generated](media_the-atp-two-handed-backhand-optimizing-the-muscles/media/image1.webp)
@@ -33,7 +32,7 @@ the actual two handed back model.
 **The Default Choice**
 
 **[How is it possible that a shorter swing could produce greater racket
-speed? That goes against one long standing theory in teaching.]{.mark}**
+speed? That goes against one long standing theory in teaching.]**
 **Players \"build\" racket speed over the course of looping
 backswings, and larger loops create more speed.**
 
@@ -50,7 +49,7 @@ generate endpoint (racquet) velocity.
 **[Translated to tennis this means if you want to generate a lot of
 swing speed, you want to make as a big swing path as you possibly can.
 That gives as many joints as possible as much range of motion as
-possible, with which to generate racquet speed.]{.mark}**
+possible, with which to generate racquet speed.]**
 
 So that seems to be the mechanism of choice for developing players. Give
 a racquet to a young kid and you say hit the ball hard, and you'll see
@@ -87,7 +86,7 @@ strength as it optimizing the neuromuscular
 performance.** **[That is, its not how much muscle
 strength you have necessarily, it is the conditions under which the
 muscles perform that is critical -- conditions controllable through
-technique.]{.mark}**
+technique.]**
 
 We have developed techniques and tools that allow players to use their
 muscles more efficiently. We believe that any player at any level,
@@ -109,8 +108,7 @@ time. The goal is to minimize unproductive motion while positioning the
 joints of the body such that their rotations uniquely contribute to the
 desired direction of racquet head speed.***
 
-This concept was discussed at length in the forehand series. ([Click
-Here](Science%20of%20Biomechanics%20TOC.docx).) A notable example was
+This concept was discussed at length in the forehand series. ([link](Science%20of%20Biomechanics%20TOC.docx).) A notable example was
 the forward orientation of the upper arm around contact.
 
 The ability to position the upper arm in this way allows internal
@@ -133,7 +131,7 @@ the variables is the rate of shortening of the muscle.**
 
 **[If the muscle is shortening during a contraction very quickly, the
 muscle cannot generate nearly as much force as it could if it were
-shortening more slowly.]{.underline}** So our stroke models are
+shortening more slowly.]** So our stroke models are
 constructed to decrease the contraction velocity of key muscles through
 segmental sequencing at key points in the chain of joint rotations.
 
@@ -153,7 +151,7 @@ axis and the force on the vertical axis. ***[When a muscle contracts it
 attempts to shorten its length. If it succeeds in shortening it is
 called a concentric contraction. This is shown as the green portion of
 the curve -- note that as the velocity of shortening increases (to
-right) the force the muscle produces decreases.]{.mark}***
+right) the force the muscle produces decreases.]***
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -165,7 +163,7 @@ confidence](media_the-atp-two-handed-backhand-optimizing-the-muscles/media/image
 external force -- that is, the muscle is trying to shorten but is being
 forced to lengthen. This is known as an eccentric contraction and is the
 highest force state for a muscle (shown by red portion of the
-curve).]{.mark}**
+curve).]**
 
 **Figures A & B in the force-velocity curve above illustrate a simple
 example of how segmental sequencing can optimize muscular performance.
@@ -196,15 +194,13 @@ generated](media_the-atp-two-handed-backhand-optimizing-the-muscles/media/image7
 muscle involvement.**
 
 An example of how technique can be used to create this very beneficial
-effect was discussed in the serve series. ([Click
-Here](Science%20of%20Biomechanics%20TOC.docx).) By establishing
+effect was discussed in the serve series. ([link](Science%20of%20Biomechanics%20TOC.docx).) By establishing
 necessary rotational speed of the upper arm through sequenced torso and
 shoulder action, the elbow joint in some servers was extended
 (straightened) not by muscles crossing the joint, but rather due the
 force applied to the forearm from motions of the upper arm.
 
-More recently, in my forehand article series ([Click
-Here](Science%20of%20Biomechanics%20TOC.docx)), the motion of the wrist
+More recently, in my forehand article series ([link](Science%20of%20Biomechanics%20TOC.docx)), the motion of the wrist
 joint near contact on the forehand was attributed to a motion-dependent
 torque for those using the ATP style mechanics. The benefits of
 accomplishing joint rotations through motion-dependent effects are often
@@ -252,10 +248,10 @@ contraction.** In this high tension state the
 muscle would already be fully activated, or pre-tensed, when allowed to
 concentrically shorten. **[*[Since a muscle normally needs a ramp up
 time to reach full force, the pre-tension eliminates the time lag
-allowing full force output immediately.]{.underline}* \<\<To make this
+allowing full force output immediately.]* \<\<To make this
 on any shot, do the same pre-tension with the non-hitting arm behind the
 body and the non-hitting hand keeping the racket on the
-throat\>\>]{.mark}**
+throat\>\>]**
 
 While this is likely the biggest factor in stroke production and the one
 that can be inferred with 3D measurement and analysis in some muscle
@@ -295,8 +291,8 @@ stretch-shorten cycle when it is released.**
 |  | knowledge across the entire range of tennis performance. |
 |  |  |
 |  | To visit his website, [**[Click |
-|  | Here!]{.underline}**](https://tennisperformanceresearch.com/) |
+|  | Here!]**](https://tennisperformanceresearch.com/) |
 |  |  |
 |  | Top contact him directly, [**[Click |
-|  | Here!]{.underline}**](mailto:gamabrian@icloud.com) |
+|  | Here!]**](mailto:gamabrian@icloud.com) |
 

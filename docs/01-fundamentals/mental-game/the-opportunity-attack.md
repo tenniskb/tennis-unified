@@ -174,13 +174,12 @@ the right things at the right time to produce our best tennis.
 
 I produced Fearless Tennis, an audio cd on how to accomplish this, and
 more recently, I wrote about the same topics in my book: The Best Tennis
-of Your Life. ([Click Here for more
+of Your Life. ([ for more
 info](http://www.amazon.com/Best-Tennis-Your-Life-Performance/dp/1558708448/ref=pd_bbs_sr_1?ie=UTF8&s=books&qid=1200341206&sr=8-1).)
 
 I wasn't afraid of technical stroke change either. When I had problems
 with my serve, I asked John Yandell to video my motion, and altered my
-stance and my landing with greatly improved results. ([Click
-Here](https://www.tennisplayer.net/members/mentalgame/jeff_greenwald/change_under_pressure/).)
+stance and my landing with greatly improved results. ([link](https://www.tennisplayer.net/members/mentalgame/jeff_greenwald/change_under_pressure/).)
 
 But none of this work included the concept of transitioning to an
 alternative style of play. As I reflected on this I realized that
@@ -365,7 +364,7 @@ tennis of your life. See how to embrace pressure, maintain confidence,
 and increase your focus and intensity. Jim Loehr calls Jeff's book: \"a
 real contribution to the field of applied sports psychology.\"\
 \
-[Click Here to
+[ to
 Order!](http://www.amazon.com/Best-Tennis-Your-Life-Performance/dp/1558708448/ref=pd_bbs_sr_1?ie=UTF8&s=books&qid=1200341206&sr=8-1)
 
 ![A person smiling for the camera Description automatically generated
@@ -381,7 +380,7 @@ doubles in the United States.
 
 Greenwald is the author of [\"The Best Tennis of Your
 Life\"](http://www.amazon.com/Best-Tennis-Your-Life-Performance/dp/1558708448/ref=pd_bbs_sr_1?ie=UTF8&s=books&qid=1200341206&sr=8-1)
-published by Betterway. [Click Here to
+published by Betterway. [ to
 order.](http://www.amazon.com/Best-Tennis-Your-Life-Performance/dp/1558708448/ref=pd_bbs_sr_1?ie=UTF8&s=books&qid=1200341206&sr=8-1)
 Jeff has a private practice based in San Francisco and Marin County,
 California. He can be reached at 415-640-6928 or by email at

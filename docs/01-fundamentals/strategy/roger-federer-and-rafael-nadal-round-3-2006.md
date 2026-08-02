@@ -214,7 +214,7 @@ There were plenty of winners in the Shanghai match, but also a lot of
 extraordinary exchanges that ended with unforced errors. An explanation
 for this comes from another new article in the December issue of
 Tennisplayer. It's by former pro player and coach Elliot Teltscher, on
-a concept he calls \"Shot Tolerance.\" (Click Here.) Federer and Nadal
+a concept he calls \"Shot Tolerance.\"  Federer and Nadal
 traded one high speed shot after another and stretched the geometric
 boundaries of the court. Both played amazing defense, and because of
 that the points where frequently 10 hits or more. The last game of the
@@ -230,11 +230,11 @@ errors.**
 **So, why did more of those types of points end with
 errors?** **[[According to Elliot all players have
 a personal limit to the number of quality shots they can hit in any
-given point.]{.mark} [He calls this their \"Shot Tolerance.\" And when a
+given point.] [He calls this their \"Shot Tolerance.\" And when a
 player hits his limit, even if it's Federer or Nadal, the points is
 going to end one way or another on the next ball. And if it's not with
 a winner or a forcing shot, then it will be with an
-error.]{.mark}]{.underline}**
+error.]]**
 
 So, the longer the stand off went on in those amazing baseline
 exchanges, the closer both players got to the end of their shot
@@ -250,7 +250,7 @@ somewhat anti-climatically.
 
 It might also apply to their match at the French, where Roger made a
 series of unforced backhand errors that seemed incongruous with the
-quality rest of the match. (Click Here.) Elliot thinks that this is how
+quality rest of the match.  Elliot thinks that this is how
 Nadal got under Federer's skin mentally earlier in the year, something
 most observers could just sense. After those tough clay court matches,
 Roger may have started to feel that Nadal had a higher shot tolerance,
@@ -308,7 +308,7 @@ completely reversed the mental advantage Nadal had seemed to have in
 their rivalry. But the sense you get is that at least in his own mind he
 has, which is probably where it matters most. You could feel this in the
 relaxed, confident tone of Roger's interview after Shanghai. But I
-swear it started with that blazer at Wimbledon. (Click Here.)
+swear it started with that blazer at Wimbledon. 
 
 I also think the shot exchanges between these two players\--and they
 have the most contrast in playing styles since Borg and

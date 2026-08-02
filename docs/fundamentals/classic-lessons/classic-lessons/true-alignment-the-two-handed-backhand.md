@@ -10,8 +10,7 @@
 
 The concept of true alignment refers to the angles between the legs and
 the hips in relation to the line of the shot. In a previous article I
-looked at True Alignment on the forehand. ([Click
-Here](True%20Alignment.docx).) Now let's do the same for the two-handed
+looked at True Alignment on the forehand. ([link](True%20Alignment.docx).) Now let's do the same for the two-handed
 backhand.
 
 The combinations of movements that creates true alignment has changed my

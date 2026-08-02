@@ -14,18 +14,18 @@ all sports events." -- John Newcombe, in* World Tennis *magazine
 
 *"You need to be a more capable tennis player to be great at doubles."
 --* [***[Martina
-Navratilova,]{.underline}***](https://sportstar.thehindu.com/newstag/Martina_Navratilova?utm=bodytag)
+Navratilova,]***](https://sportstar.thehindu.com/newstag/Martina_Navratilova?utm=bodytag)
 *in* Tennis *magazine (2004).*
 
 Unless you love doubles and follow all-time greats Bob and [**[Mike
-Bryan,]{.underline}**](https://sportstar.thehindu.com/newstag/mike_bryan?utm=bodytag)
+Bryan,]**](https://sportstar.thehindu.com/newstag/mike_bryan?utm=bodytag)
 you may not have heard of David Macpherson. This upbeat Australian
 deserves far more recognition. Since 2005, he's guided the famous Bryan
 twins to 15 of their 16 Grand Slam titles, an Olympic gold medal, 39
 Masters crowns and 10 year-end world No. 1 rankings.
 
 In 2014, Macpherson coached Switzerland's [**[Roger
-Federer]{.underline}**](https://sportstar.thehindu.com/newstag/tennis-players-roger-federer?utm=bodytag)
+Federer]**](https://sportstar.thehindu.com/newstag/tennis-players-roger-federer?utm=bodytag)
 and Stanislas Wawrinka to the Davis Cup title and was named Coach of the
 Year by World TeamTennis.
 
@@ -76,7 +76,7 @@ psychological savvy.
 
 "Macca played against us on tour and thus was able to bring an
 opponent's perspective to our coaching camp," [**[Bob
-Bryan]{.underline}**](https://sportstar.thehindu.com/newstag/bob_bryan?utm=bodytag)
+Bryan]**](https://sportstar.thehindu.com/newstag/bob_bryan?utm=bodytag)
 told me. "He knew our strengths but more importantly could communicate
 to us areas of our games that he viewed as weaknesses and needed
 improvement.
@@ -747,7 +747,7 @@ close to the net.
 **What about clever, versatile doubles players in the women's game?**
 
 [**[Martina
-Hingis]{.underline}**](https://sportstar.thehindu.com/newstag/Martina_Hingis?utm=bodytag)
+Hingis]**](https://sportstar.thehindu.com/newstag/Martina_Hingis?utm=bodytag)
 was a marvel. She was an absolute genius. She was a great example of
 someone with the ultimate shot variety. She could return the ball
 anywhere. She was especially deadly off the backhand. Her forehand was

@@ -11,7 +11,7 @@ Opening the Court. A wide serve in the deuce court. An inside out
 forehand. And then the drop to the open court. One more way of being
 aggressive in the all court game.
 
-![](media_opening-the-court-part13/media/image1.png)
+![link](media_opening-the-court-part13/media/image1.png)
 
   --
 

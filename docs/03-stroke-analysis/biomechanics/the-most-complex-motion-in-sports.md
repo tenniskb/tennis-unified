@@ -26,15 +26,14 @@ generated](media_the-most-complex-motion-in-sports/media/image1.webp)
 
 For a high-level server the racquet head speed can be increased by 70
 mph in 1/10 of a second during the upward swing. (To see an analysis of
-this on the Sampras serve, [Click
-Here.)](../Advanced%20Tennis/The%20Sampras%20Serve-Racquet%20Head%20Speed.docx)
+this on the Sampras serve, [)](../Advanced%20Tennis/The%20Sampras%20Serve-Racquet%20Head%20Speed.docx)
 
 **To accomplish this that server will utilize at least nine unique
 body rotations, many in sequence. And at the end of the upward swing
 these joint rotations must position the racquet into a precise
 orientation with very little margin for error.**
 
-![](media_the-most-complex-motion-in-sports/media/image2.webp)
+![link](media_the-most-complex-motion-in-sports/media/image2.webp)
 
 **A side view composite of the upward swing.**
 
@@ -50,10 +49,10 @@ your average child of 10 years -- good luck.
 motions that produce the racquet speed in the upward
 swing.** **[*[This understanding in turn leads to
 understanding the body actions that occur in earlier parts of the motion
-to facilitate the upward swing mechanics.]{.underline}* This reverse
+to facilitate the upward swing mechanics.]* This reverse
 engineered approach, assessing the ends to understand the means, is a
 historical microcosm of how I developed my research of serve mechanics
-over three decades.]{.mark}**
+over three decades.]**
 
 So\...in this serve article let's start at the beginning (the end of
 the serve) as a first step to understand all aspects of the entire serve
@@ -106,7 +105,7 @@ interval. As adduction contribution wanes, elbow extension becomes the
 largest contributor to the speed of the racquet. This contribution
 continues until the elbow angle approaches 180 degrees (straight).
 Concurrent with elbow extension, but to a lesser extent, wrist ulnar
-deviation contributes to the vertical motion of the racquet.]{.mark}**
+deviation contributes to the vertical motion of the racquet.]**
 
 ### Mid Upward Swing Contributors
 
@@ -168,7 +167,7 @@ body motions early in the serve are used to facilitate the rotations in
 the upward swing\--they do not create the racquet speed directly. These
 relationships are important and will be explored in future articles.
 
-![](media_the-most-complex-motion-in-sports/media/image5.wmf)
+![link](media_the-most-complex-motion-in-sports/media/image5.wmf)
 
 **Click 'Play' to hear Brian's video explanation of the upward
 swing.**
@@ -180,7 +179,7 @@ mechanics coaches in tennis\--a formally trained sport scientist with a
 PhD in biomechanics and a high performance coach dedicated to the
 construction of stroke mechanics solutions for all players.
 
-[Click Here](https://tennisperformanceresearch.com/virtual-training/)
+[link](https://tennisperformanceresearch.com/virtual-training/)
 for More Information!
 
 ![A picture containing logo Description automatically
@@ -198,8 +197,8 @@ generated](media_the-most-complex-motion-in-sports/media/image6.png)
 |  | knowledge across the entire range of tennis performance. |
 |  |  |
 |  | To visit his website, [**[Click |
-|  | Here!]{.underline}**](https://tennisperformanceresearch.com/) |
+|  | Here!]**](https://tennisperformanceresearch.com/) |
 |  |  |
 |  | Top contact him directly, [**[Click |
-|  | Here!]{.underline}**](mailto:gamabrian@icloud.com) |
+|  | Here!]**](mailto:gamabrian@icloud.com) |
 

@@ -23,14 +23,14 @@ serve, maybe especially.
 We first filmed Pete Sampras in high speed video in 1997. Since then
 we've have filmed several dozen of the world's best servers \-- Greg
 Rusedski, Andy Roddick, Roger Federer, John Isner, and many more. It's
-all there in the archives. ([Click Here](https://www.tennisplayer.net/bulletin/forum/tennisplayer/63935-interactive-forum-june-2017-nick-krygios-first-serve),
+all there in the archives. ([link](https://www.tennisplayer.net/bulletin/forum/tennisplayer/63935-interactive-forum-june-2017-nick-krygios-first-serve),
 for example, to see Nick Krygios's serve this month in the Interactive
 Forum.)
 
 At each stage of this ongoing, evolving work I have continued to improve
 my understanding. I feel that my contributions on understanding the
-racket path ([Click Here](https://www.tennisplayer.net/members/teaching_systems/john_yandell/serve2/))
-the contact position ([Click Here](https://www.tennisplayer.net/members/teaching_systems/john_yandell/toss/)),
+racket path ([link](https://www.tennisplayer.net/members/teaching_systems/john_yandell/serve2/))
+the contact position ([link](https://www.tennisplayer.net/members/teaching_systems/john_yandell/toss/)),
 as well as other technical factors, have advanced the understanding and
 teaching for a lot of players and coaches---for all the strokes.
 
@@ -64,13 +64,13 @@ But in the past few months I have further clarified several complex,
 interrelated issues. These clarifications\--or evolutions really\--are
 based on talking in detail with Brian Gordon recently when I saw him in
 Florida during the Miami Open, and also talking with Dr. Ben Kilber when
-I saw him at the PTR convention in South Carolina. ([Click Here](https://www.tennisplayer.net/members/biomechanics/ben_kibler/the_push_serve_pull_serve/) for
+I saw him at the PTR convention in South Carolina. ([link](https://www.tennisplayer.net/members/biomechanics/ben_kibler/the_push_serve_pull_serve/) for
 the first article in Ben's new series on the serve.)
 
 After listening to and talking to those guys, I then went back to our
 incredible high speed footage to verify for myself what I thought I had
 learned. Interestingly some of that serendipitously dovetailed with John
-Craig's article this month on the Perfect Toss. [Click Here](https://www.tennisplayer.net/members/classiclessons/john_craig/perfect_toss)
+Craig's article this month on the Perfect Toss. [link](https://www.tennisplayer.net/members/classiclessons/john_craig/perfect_toss)
 
 To me this is exactly what Tennisplayer is about and always has been.
 Improving understanding through the flow, exchange, discussion, and
@@ -101,7 +101,7 @@ In one of the great, original Tennisplayer articles going back 12 years,
 Dr. Bruce Elliott makes this statement: \"The key to one of the great,
 original Tennisplayer articles going back 12 years, Dr. Bruce Elliott
 makes this statement: \"The key to a good service action is that you
-rotate shoulder over shoulder.\" [Click Here](https://www.tennisplayer.net/members/biomechanics/bruce_elliot/BE_Power_Serve_P1/BE_Power_Serve_Part1.pg2.html)
+rotate shoulder over shoulder.\" [link](https://www.tennisplayer.net/members/biomechanics/bruce_elliot/BE_Power_Serve_P1/BE_Power_Serve_Part1.pg2.html)
 
 So what is that precisely---shoulder over shoulder rotation? The
 simplest way to explain it is to look at, when the tossing arm reaches
@@ -167,7 +167,7 @@ back shoulder forward, yet his serve was coming apart.
 
 So what's the actual way this happens in high level serving? Here is
 where my talk with Ben Kibler clarified the critical role of the back
-leg in all this. [Click Here](https://www.tennisplayer.net/members/biomechanics/ben_kibler/the_serving_nodes/)
+leg in all this. [link](https://www.tennisplayer.net/members/biomechanics/ben_kibler/the_serving_nodes/)
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -193,7 +193,7 @@ Is this like Roger Federer? Correct, just like Roger Federer.
 
 This is one of the great points John Craig makes as it relates to the
 toss---keep the body quiet at the waist so the tossing motion can be
-slow, smooth and rhythmic and involve only the arm. (Again [Click Here](https://www.tennisplayer.net/members/classiclessons/john_craig/perfect_toss) for
+slow, smooth and rhythmic and involve only the arm. (Again [link](https://www.tennisplayer.net/members/classiclessons/john_craig/perfect_toss) for
 his article.)
 
 But why is this equal distribution so important? Because it maximizes
@@ -226,7 +226,7 @@ confidence](media_further-thoughts/media/image6.webp)
 
 Definitely, definitely no. Don't do it! I've written in the past about
 the Myth of the Archer's Bow. ([**[Click
-here]{.underline}**](https://www.tennisplayer.net/members/avancedtennis/john_yandell/the_myth/the_myth_of_the_archers_bow/).)
+here]**](https://www.tennisplayer.net/members/avancedtennis/john_yandell/the_myth/the_myth_of_the_archers_bow/).)
 Despite the traction the idea has with some coaches---and yes you can
 find that on youTube---this is a terrible idea. You can clearly see the
 negative effects when players serve. Later contact. Less leg thrust. A
@@ -247,7 +247,7 @@ This results in what Ben calls the \"pull\" serve, in which the player
 uses his abdominals to pull the body back to upright and then through
 the motion. This contrasts with the \"Push\" serve in which the
 explosion of the back leg upward of the court creates the maximum
-contribution to energy in the bio mechanical chain. [Click Here](https://www.tennisplayer.net/members/biomechanics/ben_kibler/the_push_serve_pull_serve/)
+contribution to energy in the bio mechanical chain. [link](https://www.tennisplayer.net/members/biomechanics/ben_kibler/the_push_serve_pull_serve/)
 
 ![A picture containing outdoor, automaton Description automatically
 generated](media_further-thoughts/media/image7.jpg)
@@ -298,7 +298,7 @@ racket is driven backward and down.
 This backward rotation is what in turn maximizes the upward forward
 motion of the arm and racket to contact, another major contributor to
 racket speed. If you want more background on how these rotations
-work, [Click Here](https://www.tennisplayer.net/members/biomechanics/chas_stumpfel/internal_shoulder_rotation/).
+work, [link](https://www.tennisplayer.net/members/biomechanics/chas_stumpfel/internal_shoulder_rotation/).
 
 But to maximize this effect from the time this leg drive begins, the
 racket needs to reach a specific place in the windup at a specific
@@ -362,7 +362,7 @@ Andy Roddick or John Isner.
 
 In another groundbreaking article that goes back to the beginning of
 Tennisplayer, Rick Macci stated that Roddick was the fastest player in
-and out of the racket drop ever. [Click Here](https://www.tennisplayer.net/members/tour_strokes/rick_macci/rick_macci_andy_roddick_serve_images/rick_macci_andy_roddick_serve.html)
+and out of the racket drop ever. [link](https://www.tennisplayer.net/members/tour_strokes/rick_macci/rick_macci_andy_roddick_serve_images/rick_macci_andy_roddick_serve.html)
 And in the current generation, Isner is probably right there with Andy.
 
 At the moment when the racket is supposed to be in the traditional
@@ -392,7 +392,7 @@ speed coming upward and forward to the ball.
 But copying this kind of mutant extreme is a disaster for the average
 player. It tends to reduce the depth of the racket drop and minimize the
 effect of the leg drive. And I have seen that damage done even for world
-class players. [Click Here](https://www.tennisplayer.net/members/your_strokes/2006/paul_goldstein_serve_4_01_06/paul_goldstein_serve_4_01_06.html)
+class players. [link](https://www.tennisplayer.net/members/your_strokes/2006/paul_goldstein_serve_4_01_06/paul_goldstein_serve_4_01_06.html)
 
 But what about a less extreme alternative? Say like Roger Federer? I've
 always noted that Federer's racket wasn't exactly in the trophy
@@ -442,11 +442,11 @@ somewhat wrong and if so I hope to learn from that as well.
 
 For now I am sticking to my statement in my teaching series on the
 serve, that the motion of Roger Federer, within a range of reasonable
-possible modifications, is still the best model. [Click Here](https://www.tennisplayer.net/members/teaching_systems/john_yandell/serve)
+possible modifications, is still the best model. [link](https://www.tennisplayer.net/members/teaching_systems/john_yandell/serve)
 But I plan to keep further thoughts coming as long as I continue to
 study this amazing game. And keep writing about them here.
 
-![](media_further-thoughts/media/image13.jpeg)
+![link](media_further-thoughts/media/image13.jpeg)
 
 John Yandell is widely acknowledged as one of the leading videographers
 and students of the modern game of professional tennis. His high speed

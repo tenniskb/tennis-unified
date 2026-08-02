@@ -9,8 +9,7 @@ confidence](media_john-yandell-the-extreme-closed-stance-pro-one-handed-backhand
 **Why is the closed stance preferred by top players on the one-hander?**
 
 In the last article we looked at the surprising dominance of the closed
-stance on the pro two-handed backhand. ([Click
-Here](John%20Yandell-Modern%20Backhand%20Stances-%20The%20Two%20Hander.docx).)
+stance on the pro two-handed backhand. ([link](John%20Yandell-Modern%20Backhand%20Stances-%20The%20Two%20Hander.docx).)
 We found that the clear preference of the top two-handed men's players
 was to hit closed by taking a large diagonal cross step to the ball. We
 also saw that there were clear biomechanical advantages in doing so.
@@ -41,17 +40,17 @@ confidence](media_john-yandell-the-extreme-closed-stance-pro-one-handed-backhand
 By closed stance I mean the players take a dramatic step across the body
 at an angle of about 45 degrees. At times the size of the step is
 huge\--as much as twice shoulder width. The angle of the step can also
-be even more dramatic, verging on directly **[sideways.]{.mark}**
+be even more dramatic, verging on directly **[sideways.]**
 
 **[Why? The same two factors as on the two-hander. First, the closed
 stance results in greater use of the torso in the swing. The players
 turn their hips and shoulders further in the preparation, and this
 naturally results in greater levels of hip and shoulder rotation in the
-forward swing.]{.mark}**
+forward swing.]**
 
 **[Second, the larger step increases knee bend. This means greater
 coiling in the legs in the preparation, and therefore greater uncoiling
-in the forward swing.]{.mark}**
+in the forward swing.]**
 
 This means that the top players find the advantages of increased
 leverage from the body and legs outweighs the alleged advantage of a
@@ -90,9 +89,8 @@ already tend to be more open at contact even with neutral stances.
 
 So should the classic model be taught first? Possibly for many players,
 but not necessarily. Just look at Chris Lewit's wonderful series on the
-one hander. ([Click Here](The%20One%20Handed%20Topspin%20Backhand.docx)
-for the current article and [Click
-Here](https://www.tennisplayer.net/members/music_videos/chris_lewit_one_hander/)
+one hander. ([link](The%20One%20Handed%20Topspin%20Backhand.docx)
+for the current article and [link](https://www.tennisplayer.net/members/music_videos/chris_lewit_one_hander/)
 for the music video of his actual students.)
 
 ![A person playing tennis Description automatically
@@ -136,8 +134,7 @@ bend 45 degrees and even further, sometimes approaching 90 degrees.
 
 This is only possible with a wider base provided by the larger diagonal
 cross step. Interestingly, this is a point Nick Bollettieri has made for
-years in describing Tommy Haas's amazing one-hander. ([Click
-Here](https://www.tennisplayer.net/members/tour_strokes/nick_bollettieri/nick_bollet_haas_backhand_images/nick_bollet_haas_backhand.html).)
+years in describing Tommy Haas's amazing one-hander. ([link](https://www.tennisplayer.net/members/tour_strokes/nick_bollettieri/nick_bollet_haas_backhand_images/nick_bollet_haas_backhand.html).)
 
 It's no different for Federer or Wawrinka or for Richard Gasquet, or
 Nicholas Almagro, or Grigor Dimitrov. Again we find that great players
@@ -147,7 +144,7 @@ conventional coaching wisdom may say.
 **[From the closed stance, the key elements in the forward are very
 similar to the more classical model. For example: a straight hitting arm
 before contact, a still head, great extension outward in the swing, and
-limited (if slightly increased) body rotation.]{.mark}** The core
+limited (if slightly increased) body rotation.]** The core
 mechanics are maintained and in fact enhanced by the extra coiling in
 the body and legs that come with the closed stance.
 
@@ -181,7 +178,7 @@ with the study of high speed video.
 
 Watch the great one handers. ***[The back foot doesn't come around
 until the players have extended the swing all the way forward and
-outward.]{.mark}***
+outward.]***
 
 **In fact, the back foot typically stays well to the right of the
 front foot with the sole of the shoe sometimes actually facing the side
@@ -198,10 +195,10 @@ step.**
 
 Why? Try it for yourself. **[The positioning of the back leg controls
 the torso rotation. This allows the rotation to unfold with the right
-timing, and keeps it from becoming too extreme.]{.mark}**
+timing, and keeps it from becoming too extreme.]**
 
 ***[We know the shoulders need to stay relatively sideways during the
-contact and followthrough, regardless of stance.]{.mark}*** That's
+contact and followthrough, regardless of stance.]*** That's
 impossible if you are trying to intentionally throw your back foot
 around.
 
@@ -226,8 +223,7 @@ Lower level players will often simply charge through the shot with the
 front foot, swing the back foot out and around and end up hitting with
 the torso far too open. Kerry Mitchell calls this tendency \"chasing\"
 the ball in his excellent article on teaching the backhand to club
-players. ([Click
-Here](https://www.tennisplayer.net/members/teaching_systems/kerry_mitchell/the_lesson_process_backhand/).)
+players. ([link](https://www.tennisplayer.net/members/teaching_systems/kerry_mitchell/the_lesson_process_backhand/).)
 
 ![A person playing tennis Description automatically generated with
 medium

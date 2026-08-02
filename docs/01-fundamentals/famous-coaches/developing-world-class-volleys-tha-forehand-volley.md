@@ -40,7 +40,7 @@ fallacies I see that are still widely believed. We'll start this month
 with the forehand volley and then move on to the backhand in the next
 article.
 
-![](media_developing-world-class-volleys-tha-forehand-volley/media/image2.webp)
+![link](media_developing-world-class-volleys-tha-forehand-volley/media/image2.webp)
 
 **With the wood rackets you absolutely had to hit through the volley.**
 
@@ -54,9 +54,9 @@ shot.**
 
 One day I was watching a classic match between Rod Laver and Ken
 Rosewall in black and white, from about the time I was born. **[I just
-noticed these guys were [taking a full swing at the volley,]{.underline}
+noticed these guys were [taking a full swing at the volley,]
 not so much with the backswing, but [on the forward
-motion]{.underline}.]{.mark}**
+motion].]**
 
 **They hit through the ball almost completely flat with a little
 underspin.** That is a key point that still totally
@@ -99,7 +99,7 @@ volley.**
 One of the first fallacies about the volley is that you should \"punch\"
 the ball, straightening out your arm like a jab in boxing. That isn't
 what really happens. **[There isn't much movement in the arm and wrist
-per se. They need to [stay firm.]{.underline}]{.mark}**
+per se. They need to [stay firm.]]**
 
 **Although there is far less rotation that on the modern groundstrokes,
 your shoulders and hips still rotate to drive the
@@ -121,7 +121,7 @@ generated](media_developing-world-class-volleys-tha-forehand-volley/media/image5
 **The left hand stays at chest height as a counterbalance.**
 
 **[The left hand position allows you hit through, rather than swinging
-down and rotating around.]{.mark}** It's almost like a slice
+down and rotating around.]** It's almost like a slice
 groundstroke with quite a big follow-through compared to what people
 would normally think of as a volley. This is even more true on the first
 volley, which is a very difficult shot in the modern game.
@@ -129,8 +129,8 @@ volley, which is a very difficult shot in the modern game.
 **Trajectory**
 
 Another point that is misunderstood: **[[the trajectory on the volley
-has to be quite low.]{.underline} If you hit it too high above the net,
-it'll definitely go out, especially today.]{.mark}**
+has to be quite low.] If you hit it too high above the net,
+it'll definitely go out, especially today.]**
 
 The great volleyers, Stefan Edberg, John McEnroe, Patrick Rafter
 consistently hit the ball an inch or two, maybe three, four inches over
@@ -140,7 +140,7 @@ When you are hitting a low volley you're aiming only about an inch or
 two over the net. You've got to hit that one quite hard, and from that
 position, if you hit it too high and it has any power, it's just going
 to float out. **[So you really do need to hit through the ball with just
-a slight underspin.]{.mark}**
+a slight underspin.]**
 
 ![A tennis racket on a tennis court Description automatically generated
 with medium
@@ -179,8 +179,7 @@ quite upright. He looks like he's always got time, and he recovers his
 position on the court so well. He does have freakish control with his
 hands, of course, **but when the ball is low he uses the racket face
 rather than trying to radically lower his whole
-body**. ([Click
-Here](https://www.tennisplayer.net/members/strokearchive/modern_legends/johnmcenroe/mac_volleys_overheads/mac_fhv/mac_fhv.html?MacFHVRear.pct)
+body**. ([link](https://www.tennisplayer.net/members/strokearchive/modern_legends/johnmcenroe/mac_volleys_overheads/mac_fhv/mac_fhv.html?MacFHVRear.pct)
 to study his forehand volley in the Stroke Archive.)
 
 **Open Stance**
@@ -197,7 +196,7 @@ with the outside foot, the right foot on the forehand.
 medium
 confidence](media_developing-world-class-volleys-tha-forehand-volley/media/image8.webp)
 
-**Open stance volleying, [getting behind the ball]{.mark} with the
+**Open stance volleying, [getting behind the ball] with the
 right foot.**
 
 At almost all costs I **try not to step across these
@@ -226,12 +225,9 @@ generated](media_developing-world-class-volleys-tha-forehand-volley/media/image9
 
 **Contact on the forehand volley is only a few inches in front.**
 
-The good volleyers in recent years, like Pat Rafter ([Click
-Here](https://www.tennisplayer.net/members/strokearchive/pro_men/pat_rafter/index.html?dir=pr_volleys_and_overhead/pr_Forehand_Volley)),
-Tim Henman ([Click
-Here](https://www.tennisplayer.net/members/strokearchive/pro_men/tim_henman/index.html?dir=th_volleys_and_overhead/TH_Forehand_Volley)),
-or Pete Sampras ([Click
-Here](https://www.tennisplayer.net/members/strokearchive/pro_men/pete_sampras/index.html?dir=ps_volleys_and_overhead/PS_Forehand_Volley)),
+The good volleyers in recent years, like Pat Rafter ([link](https://www.tennisplayer.net/members/strokearchive/pro_men/pat_rafter/index.html?dir=pr_volleys_and_overhead/pr_Forehand_Volley)),
+Tim Henman ([link](https://www.tennisplayer.net/members/strokearchive/pro_men/tim_henman/index.html?dir=th_volleys_and_overhead/TH_Forehand_Volley)),
+or Pete Sampras ([link](https://www.tennisplayer.net/members/strokearchive/pro_men/pete_sampras/index.html?dir=ps_volleys_and_overhead/PS_Forehand_Volley)),
 you'll see that they actually contact the ball quite late on the
 forehand volley.
 

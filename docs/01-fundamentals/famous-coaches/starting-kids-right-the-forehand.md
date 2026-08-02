@@ -29,8 +29,7 @@ Tennis development isn't a sprint, it's a marathon.  That's why we call
 it Junior Development, not Junior Final Destination. 
 
 In the first article in this series we took a look at the first building
-block\--attitude.  ([Click
-Here.](Starting%20Your%20Kids%20-%20The%20First%20Fundamental%20Is%20Attitude.docx)) 
+block\--attitude.  ([link](Starting%20Your%20Kids%20-%20The%20First%20Fundamental%20Is%20Attitude.docx)) 
 
 **Attitude underlies the whole process. **
 
@@ -79,7 +78,7 @@ confidence](media_starting-kids-right-the-forehand/media/image3.webp)
 **Connecting with the Ball**
 
 **[I believe that players need to be learning certain
-fundamentals.]{.mark}** 
+fundamentals.]** 
 
 **Fundamentals that will eventually lead to the development of
 weapons.** At an early age, the goal of these
@@ -87,7 +86,7 @@ fundamentals is simple. To help young players develop the feeling of
 connecting with the tennis ball. 
 
 **[[Once that is established, their games can evolve technically in many
-different ways.]{.mark} ]{.underline}** But without these fundamentals I
+different ways.] ]** But without these fundamentals I
 feel players won't ever have the chance of reaching their potential. 
 
 As with the attitude part, the basic technical fundamentals don't apply
@@ -134,7 +133,7 @@ their back foot. They induce way too much spin. They break off the
 follow-through too soon. I could go on and on with the litany of
 problems that I see.  **[[The bottom line is that if you want to develop
 a forehand that is going to be a weapon, you can't let the kids get away
-with these crazy grips.]{.mark} ]{.underline}**
+with these crazy grips.] ]**
 
 Almost all the young kids I work with, I change them to an eastern or
 semi-western. Whether the player is a boy or a girl is a big factor
@@ -185,7 +184,7 @@ fine too.
 young kid is the point of contact.** **Second I
 am trying to teach them to find the middle of a racket.  You want them
 to understand how to use the racket.**  ***[The
-racket has to be their best friend.]{.underline}*** **The conservative
+racket has to be their best friend.]*** **The conservative
 grips give them the feeling of controlling the racket head with the
 hand. This is how they find the strike zone.**
 
@@ -216,7 +215,7 @@ forehand?
 **Preparation**
 
 **[After the grip, the next key is obviously the ready
-position.]{.mark}** You want them to focus on having good balance. You
+position.]** You want them to focus on having good balance. You
 want the hands in front, knees bent, good handshake grip. 
 
 **And then the preparation.** What we want is for
@@ -230,20 +229,20 @@ should start immediately.**
 medium
 confidence](media_starting-kids-right-the-forehand/media/image7.webp)
 
-**[Preparation begins with the shoulders.]{.mark}**
+**[Preparation begins with the shoulders.]**
 
 **This is a game of time.** ***[So preparation is
 the name of the game. But to establish this with youngsters you've got
-to be repetitive.]{.mark}*** **[[Tennis is a repetitive
-sport.]{.underline} You've got to say the same thing over and over
+to be repetitive.]*** **[[Tennis is a repetitive
+sport.] You've got to say the same thing over and over
 again.  \"Turn the shoulder, turn the shoulders.\" If you say it enough
-it will become automatic.]{.mark} **
+it will become automatic.] **
 
 **Footwork**
 
 **[I think at the beginning stage with a young child, it's also about a
 rhythm and a flow. And this is related to another critical part, which
-is the footwork.]{.mark}**
+is the footwork.]**
 
 I'd say that 90% of the kids that come to me have real problems with
 their point of contact that are related to footwork. This is because
@@ -272,15 +271,15 @@ the ball instead of the ball playing them, but there's a time and place
 to develop that.
 
 **[[So letting the ball drop into the strike zone and learning to hit it
-with the right grip is critical.]{.mark} ]{.underline}**It will expedite
+with the right grip is critical.] ]**It will expedite
 the learning curve and I've seen that over and over. Most players back
 up because they're afraid. I want kids to back up but for the right
 reason. 
 
 **[The kid needs to learn to think, "I've got to let the ball drop into
 the strike zone."  When kids learn to work this way, [positioning to
-find the contact point]{.underline} becomes second nature. The brain is
-saying, "My feet have to move."]{.mark}**
+find the contact point] becomes second nature. The brain is
+saying, "My feet have to move."]**
 
 So we work on backing up, letting the ball drop, getting a rhythm,
 finding the contact. Like everything I do, it's all based on my
@@ -290,7 +289,7 @@ theory or what someone taught me or something that I read. It's based
 on the pure hard facts of this experiment I am conducting on the court
 everyday.
 
-![](media_starting-kids-right-the-forehand/media/image8.webp)
+![link](media_starting-kids-right-the-forehand/media/image8.webp)
 
 **Kids need to feel what it's really like to hit through the ball.**
 
@@ -303,20 +302,20 @@ got to get in position to hit the ball, instead of here comes the ball,
 hit it. 
 
 **[I want young players to be able to [hit the ball in front
-comfortably.]{.underline}]{.mark}** **[[To find the ball in the middle
+comfortably.]]** **[[To find the ball in the middle
 of the racket, I just want the kids to feel what it's like to really
 hit through the ball instead of coming off of it too
-soon.]{.mark} [Because I think once you do that, you learn how to hit
+soon.] [Because I think once you do that, you learn how to hit
 through the ball, you learn extension, you learn
-follow-through.]{.mark} ]{.underline}**
+follow-through.] ]**
 
 What I try to stress to the kids is less is more. Keep the backswing
 smaller. Don't take the racket hand back so far you break the plane of
 the shoulder. Let the racket drop into the hit to start the forward
 swing.
 
-[**[Learn to push on the ground.]{.underline}** **[Learn to hit the ball
-with your legs.]{.underline}**]{.mark} 
+[**[Learn to push on the ground.]** **[Learn to hit the ball
+with your legs.]**] 
 
 That point right there is a million-dollar lesson. **Most young kids,
 no matter what grip they have, play mostly with the arm. The racket
@@ -343,7 +342,7 @@ you say, "Play these." And then it changes.**
 
 **[[When the kids are young you want fluidity. You want more power with
 less effort. That's what you should be looking for. We're looking for
-the youngster to be able to hit a cleaner shot.]{.mark} ]{.underline}**
+the youngster to be able to hit a cleaner shot.] ]**
 
 I'm not looking for her to win the 8 and under or the 10 and
 under. Believe me, that can't happen if she has other factors.  **But

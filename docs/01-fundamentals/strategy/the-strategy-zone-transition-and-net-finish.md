@@ -41,8 +41,7 @@ title.**
 At Wimbledon in 2007, Roger Federer defeated Rafael Nadal in 5 sets. He
 won a total of 7 additional points in the entire match. That's a 7
 point advantage in 5 sets! What role did the net play? Of his 7 point
-margin, 5 were points he won at the net! ([Click
-Here](http://www.tennisplayer.net/members/notes_on_tour/john_yandell/wimby_2007/wimby_2007.html)
+margin, 5 were points he won at the net! ([link](http://www.tennisplayer.net/members/notes_on_tour/john_yandell/wimby_2007/wimby_2007.html)
 to read John Yandell's statistical breakdown of that incredible match.)
 
 **So being able to take advantage of transition opportunities is huge
@@ -219,8 +218,7 @@ based attacks. There are two types of patterns. The first type relies on
 hitting one shot that opens the court. This is followed by the
 transition shot, or approach, into the open court. We call these 1-1
 Combinations. It's the same concept we used in discussing finishing
-shots from the baseline. ([Click
-Here.](The%20Strategy%20Zone%20-%20Phase%202%20Hurt.docx))
+shots from the baseline. ([link](The%20Strategy%20Zone%20-%20Phase%202%20Hurt.docx))
 
 ![A picture containing text, athletic game, sport, tennis Description
 automatically

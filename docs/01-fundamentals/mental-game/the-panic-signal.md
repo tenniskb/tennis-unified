@@ -320,8 +320,7 @@ potential under tournament pressure.
                                                                                                                                                                        amateur, Olympic, and professional athletes in a variety of
                                                                                                                                                                        sports. He is the author of Worthy to Win: Emerging from
                                                                                                                                                                        Fear and Self Doubt. Want to learn more about Joey's Worthy
-                                                                                                                                                                       to Win training and consulting programs? [Click
-                                                                                                                                                                       Here!](http://www.worthytowin.com/Worthy_to_Win/Book.html)
+                                                                                                                                                                       to Win training and consulting programs? [!](http://www.worthytowin.com/Worthy_to_Win/Book.html)
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -334,8 +333,7 @@ potential under tournament pressure.
                                                                                                                                                                         lead to the breakthroughs and big wins you dream about.
                                                                                                                                                                         Learn to tap into the power of pressure, ride the
                                                                                                                                                                         performance wave, and much more. For more information and to
-                                                                                                                                                                        order, [Click
-                                                                                                                                                                        Here!](http://www.worthytowin.com/Worthy_to_Win/Home.html)
+                                                                                                                                                                        order, [!](http://www.worthytowin.com/Worthy_to_Win/Home.html)
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

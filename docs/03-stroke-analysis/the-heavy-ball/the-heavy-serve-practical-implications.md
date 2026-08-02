@@ -22,7 +22,7 @@ relative amounts of slice and topspin in the balls. Pete had a higher
 topspin component and this was the difference in the amount of topspin
 after the bounce and the height of the bounce. Interestingly our data
 was consistent with first hand accounts of what it was actually like to
-face the serve of both players. [Click Here](Speed%20and%20Spin.docx)
+face the serve of both players. [link](Speed%20and%20Spin.docx)
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -127,8 +127,7 @@ confidence](media_the-heavy-serve-practical-implications/media/image6.webp)
 copy.**
 
 If you have read through the site, you may have encountered the series
-of articles I wrote on Pete's serve. ([Click
-Here](../Tour%20strokes/Tour%20strokes%20TOC.docx).) It's a very
+of articles I wrote on Pete's serve. ([link](../Tour%20strokes/Tour%20strokes%20TOC.docx).) It's a very
 detailed look at every aspect of his motion. But like a lot of what I
 write on this site, I developed that series motivated by mainly by the
 desire to figure out exactly what was happening in his motion. My
@@ -148,8 +147,8 @@ player create more topspin.** **The question
 though is will this make a given serve
 \"heavier\"?** **[[It may make it bounce higher,
 but how does it affect the other key component which is the
-velocity?]{.mark} [A heavy ball is fast with heavy spin.]{.mark} [You
-need them both.]{.mark}]{.underline}** But \"fast\" and \"heavy spin\"
+velocity?] [A heavy ball is fast with heavy spin.] [You
+need them both.]]** But \"fast\" and \"heavy spin\"
 differ by level. What might be \"heavy\" in the juniors won't
 necessarily be \"heavy\" in college or in the pros. The same will apply
 across the vast range of levels in NTRP and club tennis.

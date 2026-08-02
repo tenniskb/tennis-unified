@@ -601,7 +601,7 @@ Additionally, the elbow position is very important. The elbow should be
 as high as possible and held away from the ribs, ideally even with the
 line across the shoulders. Many players drop the elbow toward the ribs
 and this will ruin a kick serve. **[The elbow must be high and away from
-the body to promote the proper racket drop.]{.mark}**
+the body to promote the proper racket drop.]**
 
 In addition, the elbow of the hitting arm should be stretched back
 behind the body. This position is sometimes overlooked, but it creates
@@ -609,7 +609,7 @@ the optimal hitting position for a kick, and particularly a twist serve.
 
 The shoulder coil helps to place the elbow behind the body**[. If the
 elbow drifts to the right\--as often happens if the hips and shoulder
-are too open\--the serve will slice rather than kick or twist.]{.mark}**
+are too open\--the serve will slice rather than kick or twist.]**
 Often, if a player cannot get the requisite twist, the root cause is the
 poor position of the elbow at the power position and during the upward
 triceps extension.
@@ -710,7 +710,7 @@ twist\--is that it helps lower the racket even deeper into the
 buttscratch, creating more runway and thus more potential racket speed.
 I also believe that the activation of the core muscles and the snapping
 of the arched back add a small amount of extra energy to the
-motion.]{.mark}**
+motion.]**
 
 Look for the convex shape of the back if you are teaching or learning
 the twist. The back arch also helps to get the hand and racket further
@@ -894,7 +894,7 @@ confidence](media_keys-to-the-kick-serve/media/image32.webp)
 contact.**
 
 **[If the hips and shoulders open too soon, the serve will lose
-twist]{.mark}**. But at the same time there are subtle differences in
+twist]**. But at the same time there are subtle differences in
 the amount of hip drag depending on placement. If the player is trying
 to hit a slice topspin, for example, the hips and shoulders will open
 slightly more.

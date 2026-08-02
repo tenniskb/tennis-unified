@@ -18,9 +18,9 @@ sophistication to teaching footwork that Tennisplayer has pioneered with
 stroke production. It's a critical piece in player development. And this
 is the only place to see it in fabulous detail.
 
-![](media_the-golden-move-12-the-power-move/media/image1.png)
+![link](media_the-golden-move-12-the-power-move/media/image1.png)
 
-![](media_the-golden-move-12-the-power-move/media/image2.jpeg)
+![link](media_the-golden-move-12-the-power-move/media/image2.jpeg)
 
 David Bailey is a native Australian who has spent 15 years studying
 tennis at the professional level. He has developed a new language for
@@ -32,8 +32,6 @@ the Bailey Method, has become a regular part of the coaching curriculum
 at the Nick Bollettierri Tennis Academy, where it is personally endorsed
 by Nick
 
-Visit David's Website! [**[Click
-Here!]{.underline}**](http://www.baileytennisfootwork.com/)
+Visit David's Website! [**[!]**](http://www.baileytennisfootwork.com/)
 
-To Contact David directly [**[Click
-Here!]{.underline}**](mailto:david@baileytennisfootwork.com)
+To Contact David directly [**[!]**](mailto:david@baileytennisfootwork.com)

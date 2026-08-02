@@ -51,7 +51,7 @@ Here's an example of how you can make best use of this time based on
 some of the drills and practices already covered in this series.
 
 Start with no more than 3-4 minutes of hitting. Then move onto \"down
-the line live\" game we outlined in a previous article. (Click Here.)
+the line live\" game we outlined in a previous article. 
 You may only get to play first to 5 points on each cross-court pattern,
 but it will be invaluable.
 
@@ -73,8 +73,7 @@ option to put easy balls away to the other half.
 Your practice time is precious and often limited, so only spend a minute
 or so warming up your volleys before starting your chosen drill. Once
 volleys are done, it's time for some specific serve and return practice
-also detailed in a previous article. ([Click
-Here](Return%20of%20Serve%20Points.docx).)
+also detailed in a previous article. ([link](Return%20of%20Serve%20Points.docx).)
 
 Hit only a handful of warm-up serves, and then set yourself up to
 practice serves and first split step on either the singles or doubles
@@ -133,8 +132,7 @@ Picture the environment in your mind, and imagine yourself in it and
 feeling comfortable.
 
 Take visualisation techniques a step further if you wish, they are a
-great way to prepare for a tennis match. ([Click
-Here](https://www.tennisplayer.net/members/teaching_systems/john_yandell/off_court_visualizations/)
+great way to prepare for a tennis match. ([link](https://www.tennisplayer.net/members/teaching_systems/john_yandell/off_court_visualizations/)
 for John Yandell's article on that.) If travelling is involved, plan
 ahead to arrive 15-20 minutes early at least, and take away any
 unnecessary stress involved with running late, or unexpected traffic

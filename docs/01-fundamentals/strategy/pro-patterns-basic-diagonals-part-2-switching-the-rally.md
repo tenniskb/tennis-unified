@@ -26,8 +26,7 @@ want to win in the pros or any other level.**
 
 The first article looked at the multiple variations in baseline
 exchanges, and how pro players use their most favorable diagonal to
-construct points and hit winners. [(Click
-Here.)](Pro%20Patterns%20-%20Basic%20Diagonals.docx) The most basic
+construct points and hit winners. [link](Pro%20Patterns%20-%20Basic%20Diagonals.docx) The most basic
 patterns are the three crosscourt diagonals: forehand to forehand,
 backhand to backhand, and inside out forehand to backhand. But this is
 far from the whole story.

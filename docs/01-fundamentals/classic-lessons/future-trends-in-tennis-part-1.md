@@ -66,8 +66,7 @@ revolutionized tennis and that Jimmy Arias deserves credit for
 initiating the power game.\"
 
 To see Jimmy Arias hit that forehand tell his version of the story,
-exclusively on Tennisplayer, [[Click
-Here]{.underline}](https://www.tennisplayer.net/members/tour_strokes/jimmy_arias/modern_forehand/).
+exclusively on Tennisplayer, [[]](https://www.tennisplayer.net/members/tour_strokes/jimmy_arias/modern_forehand/).
 
 **Spain**
 
@@ -144,8 +143,7 @@ imbalance in the body, which can lead to injuries.
 While reach is slightly limited with two hands, players can overcome
 this by learning one handed shots when on the run. \"Ambi-players\" may
 also innovate by choosing or demanding new racquet designs such as the
-natural line of rackets, ([[Click
-Here]{.underline}](http://www.naturaltennis.com)) or other new designs
+natural line of rackets, ([[]](http://www.naturaltennis.com)) or other new designs
 yet to be invented, that enhance their games.
 
 While there will likely always be some athletes whose laterality

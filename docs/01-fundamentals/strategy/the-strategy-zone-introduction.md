@@ -95,8 +95,8 @@ matches.**
 **Phase 1: Control the Court**
 
 **[Control is your ability to [take control of the
-rally]{.underline}.]{.mark}** **[Control is your ability to [stretch
-your opponent and knock them off balance]{.underline}.]{.mark} It's
+rally].]** **[Control is your ability to [stretch
+your opponent and knock them off balance].] It's
 about stretching out the court.** In the Control
 Phase, you exercise a dominating influence over your opponent.
 
@@ -142,10 +142,10 @@ control.**
 **The sharp angled return of serve, particularly on the second serve,
 can take your opponent wide out of the court and put them on the
 defensive.** **[[The goal is to take him inside the
-baseline, and outside the singles sideline.]{.mark} [Don't think only
+baseline, and outside the singles sideline.] [Don't think only
 of returning north and south on the second ball. This angled return can
 also put mental pressure on the server and make him more tentative in
-his delivery.]{.mark}]{.underline}** Agassi and Monica Seles were
+his delivery.]]** Agassi and Monica Seles were
 masters of this return, as is Serena Williams.
 
 **Control from a Neutral Exchange**
@@ -209,9 +209,9 @@ gained control, now keep it that way.** **You're
 not necessarily trying to hit a winner. You are trying to work a pattern
 that may set up a winner.** **[[If you control the
 patterns, eventually your opponent will give you a ball that will allow
-you to move on to Phase 3.]{.mark} [As players learn to master Phase 2,
+you to move on to Phase 3.] [As players learn to master Phase 2,
 to relax and hit combinations instead of rushing to finish, they make
-huge jumps in their results.]{.mark}]{.underline}**
+huge jumps in their results.]]**
 
 **One strategy for hurting your opponent is learning to move him side
 to side with drives to the corners.** **This will
@@ -275,7 +275,7 @@ explore.**
 
 **[The first finish is the Groundstroke Finish, and here there are many
 variations depending on the shot combination patterns who have executed
-in Phase 2.]{.underline}**
+in Phase 2.]**
 
 **You must learn when you can spin the ball in the open court, and
 when it is necessary to flatten the shot out
@@ -303,13 +303,13 @@ standard.**
 
 **The third finish is the Transition and Net
 Finish.** [**Look at Roger Federer or Tim
-Henman**.]{.underline} **A fluid transition is imperative. Especially
+Henman**.] **A fluid transition is imperative. Especially
 in the modern game you must have a weak shot to
 attack.** **[[You must be able to pressure your
-opponent so that he attempts his passing shot on the run.]{.mark} [But
+opponent so that he attempts his passing shot on the run.] [But
 you should vary the transition shot, coming in off both sides and
 occasionally hitting behind your opponent to keep him
-guessing.]{.mark}]{.underline}** **The all-around game is the key to
+guessing.]]** **The all-around game is the key to
 success today.**
 
 **The fourth finish is the Serve and Volley
@@ -332,9 +332,9 @@ and Hurt.** **To be effective, the serve and
 volley must begin with a well-placed serve. But the placement of the
 first volley is critical.** **[[You must know when
 to volley to the open court and when to hit back behind the
-opponent.]{.mark} [As with the approach a volley you must put your
+opponent.] [As with the approach a volley you must put your
 opponent in the position of trying a difficult
-pass.]{.mark}]{.underline}**
+pass.]]**
 
 The most effective serve and volleyers have the courage to commit to
 this play. Pete Sampras, Boris Becker, and our own Max Mirni from the
@@ -363,10 +363,10 @@ ball really hard to the open court. You winners will look easier and
 will be easier to execute.**
 
 **Again, forget about those highlight winners.**
-**[[They will come on their own. You cannot force them to occur.]{.mark}
+**[[They will come on their own. You cannot force them to occur.]
 [Your best days are when you control and stretch your opponents, exhaust
 them, and then, almost mercifully, finish them\--the culmination of the
-Strategy Zone process.]{.mark}]{.underline}**
+Strategy Zone process.]]**
 
 In the future articles we'll be showing you how to build all these
 varied components of a winning game. So stay tuned. It's time for you

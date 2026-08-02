@@ -5,12 +5,10 @@
 In the first two articles in this series we looked at six components in
 developing a great return. In the first article we looked at consistency
 combined with accuracy, the position of the racquet head, and watching
-the ball properly. ([Click
-Here](Return%20of%20Serve%20-%20The%20First%203%20Principles.docx).)
+the ball properly. ([link](Return%20of%20Serve%20-%20The%20First%203%20Principles.docx).)
 
 In the second article we examined flexibility, shot selection and the
-split step ([Click
-Here](Return%20of%20Serve%20-%20Flexibility,%20Shot%20Selection,%20Split%20Step.docx).)
+split step ([link](Return%20of%20Serve%20-%20Flexibility,%20Shot%20Selection,%20Split%20Step.docx).)
 **Now let's look at the actual path of the racket, including both the backswing and the forward swing.**
 
 ![A person holding a tennis racket](media_return-of-serve-the-return-swing/media/image1.webp)

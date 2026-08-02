@@ -10,7 +10,7 @@ pattern often draws forehand errors, especially against players with
 extreme grips. Depending on the response it can also leave the backhand
 side open for attack.
 
-![](media_opening-the-court-part-4/media/image1.png)
+![link](media_opening-the-court-part-4/media/image1.png)
 
   --
 

@@ -132,7 +132,7 @@ If you've hurt an opponent with a system of play, keep attacking that
 wound relentlessly. In boxing, this is called \"stop the bleeding and
 cause more bleeding\".
 
-![](media_the-art-of-winning/media/image5.wmf)
+![link](media_the-art-of-winning/media/image5.wmf)
 
 **Revisit winning patterns on game points.**
 
@@ -180,8 +180,7 @@ dozens of inappropriate shot selection choices.
 
 Basic examples include consistently creating exchanges where your
 opponent has the advantage. (For more on understanding the basic
-patterns of groundstroke exchanges, [Click
-Here](https://www.tennisplayer.net/members/strategy/allen_fox/winning_matches/Fox_Winning_Baseline_Exchanges_images/Fox_Winning_Baseline_Exchanges.html).)
+patterns of groundstroke exchanges, [link](https://www.tennisplayer.net/members/strategy/allen_fox/winning_matches/Fox_Winning_Baseline_Exchanges_images/Fox_Winning_Baseline_Exchanges.html).)
 Another is losing a point because you served a weak second serve to the
 opponent's stronger forehand.
 
@@ -292,8 +291,7 @@ teams strategize and run plays. High performance tennis\--and successful
 tennis at any level\--is no exception.
 
 3\) Applying pre-designed serve and return relaxation rituals. As Jim
-Loehr first pointed out, ([Click
-Here](https://www.tennisplayer.net/members/jim_loehr/jim_loehr_16_second_cure_prt1_images/jim_loehr_16_second_cure_prt1.html))
+Loehr first pointed out, ([link](https://www.tennisplayer.net/members/jim_loehr/jim_loehr_16_second_cure_prt1_images/jim_loehr_16_second_cure_prt1.html))
 individual players create these personal rituals for themselves and use
 them to create feelings of confidence and control.
 

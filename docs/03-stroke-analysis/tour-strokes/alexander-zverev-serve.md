@@ -33,8 +33,7 @@ that makes his motion different from other elite players.
 So what is going on and what specifically could Zverev do to improve his
 technique, assuming he actually had any interest? The problems are not
 dissimilar to those of another young Russian player whose serve we have
-analyzed, Andrei Rublev ([Click
-Here](https://www.tennisplayer.net/members/tour_strokes/john_yandell/andrei_rublev_serve).)
+analyzed, Andrei Rublev ([link](https://www.tennisplayer.net/members/tour_strokes/john_yandell/andrei_rublev_serve).)
 
 There are two related technical issues. First, Zverev has very little
 body turn away from the ball in his windup. Second he is over rotating
@@ -63,8 +62,7 @@ The next thing Zverev does is bring his back foot up, not as far as
 Rublev, but still slightly to the right of his front foot. His push off
 from this point stance appears good in one sense. The feet leave the
 ground at the same time, a key positive point in Dr. Ben Kibler's
-analysis of the role of the legs in elite serving. ([Click
-Here](https://www.tennisplayer.net/members/biomechanics/ben_kibler/the_push_serve_pull_serve/).)
+analysis of the role of the legs in elite serving. ([link](https://www.tennisplayer.net/members/biomechanics/ben_kibler/the_push_serve_pull_serve/).)
 
 But look at his shoulders as he starts the motion. They are open to the
 net at an angle of about 45 degrees.
@@ -94,8 +92,7 @@ tends to make players try to do more with the hand and arm.
 **What's the Model?**
 
 We've seen Roger Federer as the model in how to use the legs and torso
-together in, for example, the analysis I did with Tyler Zink. ([Click
-Here](https://www.tennisplayer.net/members/your_strokes/2020/tyler_zink_serve).)
+together in, for example, the analysis I did with Tyler Zink. ([link](https://www.tennisplayer.net/members/your_strokes/2020/tyler_zink_serve).)
 I also suggested this in the article on Rublev.
 
 Shoulders square at the start of the motion. 45 degree turn away from
@@ -117,8 +114,7 @@ pinpoint servers?**
 
 Interestingly we see a perfect example of how that would work in our
 film of Ugo Humbert in the Interactive Forum from a couple of months
-ago. ([Click
-Here](https://www.tennisplayer.net/bulletin/forum/tennisplayer/88995-interactive-forum-june-2020-ugo-humbert-serve).)
+ago. ([link](https://www.tennisplayer.net/bulletin/forum/tennisplayer/88995-interactive-forum-june-2020-ugo-humbert-serve).)
 
 His pinpoint stance is even wider than Zverev's. But unlike Alexander,
 he starts with his shoulders square to the baseline.
@@ -149,8 +145,7 @@ confidence](media_alexander-zverev-serve/media/image5.webp)
 ball and back into contact in a sequence similar to Federer.**
 
 Zverev is a classic example. It's the same for Milos Raonic's
-two-handed backhand. ([Click
-Here](https://www.tennisplayer.net/members/tour_strokes/john_yandell/techincal_flaws_in_pro_two_handers/raonic/).)
+two-handed backhand. ([link](https://www.tennisplayer.net/members/tour_strokes/john_yandell/techincal_flaws_in_pro_two_handers/raonic/).)
 
 Is this a lack of understanding on the part of coaches? That's part of
 the story. Most tour players that become tour coaches aren't really
@@ -185,13 +180,11 @@ to win Grand Slams.**
 
 He had a phenomenal result, using video of his own motion in 1984 to
 recover his serving effectiveness in his last tour run and generously
-wrote a forward for one of my books. ([Click
-Here](https://www.tennisplayer.net/members/teaching_systems/john_yandell/VisualTennis_Part2/Yandell_VTP2_McEnroe_Case_Study.html).)
+wrote a forward for one of my books. ([link](https://www.tennisplayer.net/members/teaching_systems/john_yandell/VisualTennis_Part2/Yandell_VTP2_McEnroe_Case_Study.html).)
 
 Carlos Rodriguez used our high speed footage of Agassi's forehand and
 Sampras's serve to reshape Justine Henin's technical game before she
-started winning Slams, including moving to a platform stance. ([Click
-Here](https://www.tennisplayer.net/members/tour_strokes/john_yandell/justine_henin_serve).)
+started winning Slams, including moving to a platform stance. ([link](https://www.tennisplayer.net/members/tour_strokes/john_yandell/justine_henin_serve).)
 
 Todd Martin did the same thing for Novak Djokovic, using Tennisplayer
 footage to recreate his original motion after a failed attempt to

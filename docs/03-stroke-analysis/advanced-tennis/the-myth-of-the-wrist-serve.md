@@ -142,7 +142,7 @@ servers.
 **[The first is the position of the racquet at the completion of the
 racquet drop. The second the triceps extension that straightens out the
 arm as it moves upward to contact. The third is the internal rotation of
-the hitting arm.]{.mark}**
+the hitting arm.]**
 
 Let's take a close look at the actual pattern of the swing on the serve
 and see the role of all of these elements, including what actually

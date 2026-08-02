@@ -10,12 +10,9 @@ confidence](media_john-yandell-novak-djokovic-s-forehand-the-forward-swing/media
 1/10th of a second.**
 
 OK now it's money time. We've looked in detail at the general
-characteristics of Novak Djokovic's amazing forehand ([Click
-Here](John%20Yandell-Novak%20Djokovic's%20Forehand-A%20new%20Synthesis.docx)),
-then how he begins ([Click
-Here](John%20Yandell-Novak%20Djokovic's%20Forehand-Start%20of%20the%20Preparation.docx))
-and how he completes the preparation. ([Click
-Here](John%20Yandell-Novak%20Djokovic's%20Forehand-The%20Full%20Turn%20and%20Backswing.docx).)
+characteristics of Novak Djokovic's amazing forehand ([link](John%20Yandell-Novak%20Djokovic's%20Forehand-A%20new%20Synthesis.docx)),
+then how he begins ([link](John%20Yandell-Novak%20Djokovic's%20Forehand-Start%20of%20the%20Preparation.docx))
+and how he completes the preparation. ([link](John%20Yandell-Novak%20Djokovic's%20Forehand-The%20Full%20Turn%20and%20Backswing.docx).)
 
 Now let's look at the forward swing. It's a blur that takes about
 1/10th of a second and sends the ball hurtling toward his opponent at 90
@@ -34,10 +31,8 @@ It continues to stun me as I study technique in the pro game how much
 variety there really is, and how hard it is to make broad
 generalizations about the top players. Looking at Djokovic, his forehand
 is just as unique as Federer's or Nadal's\--just in it's own way.
-([Click
-Here](https://www.tennisplayer.net/members/avancedtennis/john_yandell/evolution_modern_forehand/evolution_modern_forehand_part1/roger_federer_evolution_modern_forehand_part1.html)
-for more on Roger's forehand and [Click
-Here](https://www.tennisplayer.net/members/avancedtennis/john_yandell/building%20_the_modern%20_forehand/rafael_nadals_forehand/rafael_nadals_forehand.html)
+([link](https://www.tennisplayer.net/members/avancedtennis/john_yandell/evolution_modern_forehand/evolution_modern_forehand_part1/roger_federer_evolution_modern_forehand_part1.html)
+for more on Roger's forehand and [link](https://www.tennisplayer.net/members/avancedtennis/john_yandell/building%20_the_modern%20_forehand/rafael_nadals_forehand/rafael_nadals_forehand.html)
 for more on Nadal's.)
 
 ![A person playing tennis Description automatically generated with
@@ -144,8 +139,7 @@ generated](media_john-yandell-novak-djokovic-s-forehand-the-forward-swing/media/
 and shortly thereafter.**
 
 What effect might the head position have on the actual contact? That's
-something we can actually examine, based on a previous article. ([Click
-Here](https://www.tennisplayer.net/members/avancedtennis/john_yandell/string_bed_and_pro_contact_point/).)
+something we can actually examine, based on a previous article. ([link](https://www.tennisplayer.net/members/avancedtennis/john_yandell/string_bed_and_pro_contact_point/).)
 
 In that article we looked at the actual point of contact on the string
 bed and compared these same three players. We saw that Novak was
@@ -206,8 +200,7 @@ and shortly thereafter.**
 
 The interesting thing about the double bend in Djokovic's forward swing
 is how it works in combination with his extreme grip which we analyzed
-in the first article. ([Click
-Here](https://www.tennisplayer.net/members/avancedtennis/john_yandell/djokovic_forehand/part_01.html).)
+in the first article. ([link](https://www.tennisplayer.net/members/avancedtennis/john_yandell/djokovic_forehand/part_01.html).)
 When we did our first high speed studies of the wrist position on the
 forehand years ago, the footage showed that for the top players we
 studied, the wrist stayed laid back before, during and after the
@@ -287,8 +280,7 @@ associate with great former players such at Andre Agassi.
 
 That finish is generally associated with flatter hitting. We know from
 our studies of spin levels that players like Agassi and Pete Sampras
-averaged slightly under 2000 rpms on their forehands. ([Click
-Here](https://www.tennisplayer.net/members/mystheavyball/john_yandell/Spintest/spin_test.html).)
+averaged slightly under 2000 rpms on their forehands. ([link](https://www.tennisplayer.net/members/mystheavyball/john_yandell/Spintest/spin_test.html).)
 
 On the other hand Federer and Nadal, with more \"modern\" finishes have
 spin rates that are averaging 25% to 50% higher than that or more, in
@@ -428,8 +420,7 @@ The over the shoulder wrap, happens after he reaches this extension, and
 is the natural deceleration phase in the motion. As we discovered long
 ago, trying to force the racket over the shoulder too soon truncates the
 motion and reduces the player's ability to reach the extension point.
-([Click
-Here](https://www.tennisplayer.net/members/avancedtennis/john_yandell/the_myth/the_myth_of_the_wrap_images/the_myth_of_the_wrap.html).)
+([link](https://www.tennisplayer.net/members/avancedtennis/john_yandell/the_myth/the_myth_of_the_wrap_images/the_myth_of_the_wrap.html).)
 
 **Reviewing**
 

@@ -103,7 +103,7 @@ before volleys when approaching the net.
 
 ![A person playing tennis](media_shot-to-shot-readiness/media/image5.webp)
 
-**The start of the split step, at the start of the opponent's forward swing.To do the split, you hop an inch or so off the ground onto the balls of your feet, with your feet about shoulder width apart. Simultaneously, your hips will drop, your knees will bend slightly and your back will remain straight creating what my fellow contributor Pat Dougherty calls a strong \"athletic foundation.\"** (**Click Here**(https://www.tennisplayer.net/members/footwork/pat_dougherty/the_athletic_foundation/the_athletic_foundation.html).)
+**The start of the split step, at the start of the opponent's forward swing.To do the split, you hop an inch or so off the ground onto the balls of your feet, with your feet about shoulder width apart. Simultaneously, your hips will drop, your knees will bend slightly and your back will remain straight creating what my fellow contributor Pat Dougherty calls a strong \"athletic foundation.\"** (**link**(https://www.tennisplayer.net/members/footwork/pat_dougherty/the_athletic_foundation/the_athletic_foundation.html).)
 **As you split, you will land in a wider base, about one and a half times shoulder width. Your legs become coiled springs as their muscles contract. From there you push off the court and explode to the ball.To explode properly you need to correctly time your split step, and I've found this is the most misunderstood and therefore discouraging part of the process for the uninitiated. The split step actually starts before your opponent hits the ball, at about the moment you see him or her start his forward swing.Timed properly, you'll be in the air when the ball comes off the opponent's racket. This means you actually have the opportunity to see the direction of his shot before you land.**
 
 ![A person playing tennis](media_shot-to-shot-readiness/media/image6.webp)
@@ -126,7 +126,7 @@ of the split and the preparation happens naturally for you. As you
 progress, you can also consciously experiment with starting the motion
 to the ball with the outside foot sooner. For a great presentation of
 this advanced motion, see Bob Hansen's article on footwork on the
-volley. (**Click Here**(https://www.tennisplayer.net/members/footwork/bob_hansen/Hansen_Court_Movement_Volleys/Hansen_Court_Movement_Volleys.html).)
+volley. (**link**(https://www.tennisplayer.net/members/footwork/bob_hansen/Hansen_Court_Movement_Volleys/Hansen_Court_Movement_Volleys.html).)
 
 ![A person playing tennis](media_shot-to-shot-readiness/media/image7.webp)
 
@@ -141,7 +141,7 @@ consistently.
 
 Joe Dinoffer, the renowned master professional and international
 clinician, has a great suggestion to help these players transition to
-split stepping. (**Click Here**(https://www.tennisplayer.net/members/teaching_systems/teaching_systems.html) for
+split stepping. (**link**(https://www.tennisplayer.net/members/teaching_systems/teaching_systems.html) for
 Joe's articles on Tennisplayer.) **Instead of doing one split step, you do two. Bounce once, then bounce twice.This simple exercise creates a \"feel\" for making an immediate split step that will carry over into your practice and play. After a series of shots hit with two split steps, your perception will be that you have much more time to execute your shot. Try it and see if you don't agree!**
 
 ### Body Turn
@@ -161,7 +161,7 @@ forehand or backhand side.
 This is very different from the idea of the arm and racket somehow
 moving back independently of the body. Any Tennisplayer subscriber knows
 that the old idea of \"getting your racket back\" rarely leads to a full
-turn. (**Click Here**(http://www.tennisplayer.net/members/avancedtennis/john_yandell/your_forehand_and_the_modern_forehand/preparation/your_forehand_and_the_modern_forehand_preparation.html) to
+turn. (**link**(http://www.tennisplayer.net/members/avancedtennis/john_yandell/your_forehand_and_the_modern_forehand/preparation/your_forehand_and_the_modern_forehand_preparation.html) to
 read John Yandell's recent article.)
 
 But the problem is still at epidemic proportions out there in the larger
@@ -200,7 +200,7 @@ foot into a neutral or square stance.
 ### Home Plate
 
 To determine the spacing for the contact on the one-handed backhand, I
-like Welby Van Horn's use of the baseball home plate. (**Click Here**(https://www.tennisplayer.net/members/teaching_systems/teaching_systems.html) to
+like Welby Van Horn's use of the baseball home plate. (**link**(https://www.tennisplayer.net/members/teaching_systems/teaching_systems.html) to
 see Welby's articles on Tennisplayer!) In baseball, when you stand at
 the correct distance from the plate and the pitch is over the middle,
 you get the \"fat\" part of the bat on the ball. As with baseball, for
@@ -325,7 +325,7 @@ split step and move to the volley. The actual motion begins with a body
 turn, and there is little independent arm movement. From the correct
 ready position this turn will swing your racket into the correct
 position naturally and automatically. (For a detailed description of
-volley mechanics, see John Yandell recent articles, **Click Here**(http://www.tennisplayer.net/members/avancedtennis/advtennis.html).)
+volley mechanics, see John Yandell recent articles, **link**(http://www.tennisplayer.net/members/avancedtennis/advtennis.html).)
 
 After the volley, you need to immediately resume the ready position and
 shadow the ball. This will generally be no more than one full slide

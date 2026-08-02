@@ -14,7 +14,7 @@ vehicle\--for working on the development of human character. And yes
 when you focus on that process, you will win tennis matches, but that is
 a by product of the real goal.
 
-![](media_the-only-way-to-win-our-academy/media/image1.png)
+![link](media_the-only-way-to-win-our-academy/media/image1.png)
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A person smiling for the camera Description automatically generated with medium                                                                                                   Jim Loehr is a legendary pioneer in the field of

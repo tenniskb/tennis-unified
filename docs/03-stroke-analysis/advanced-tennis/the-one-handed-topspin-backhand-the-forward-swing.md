@@ -14,13 +14,11 @@ And now, hopefully it's time for the payoff in terms of what actually
 happens at contact and beyond.
 
 We've seen how players across the grip styles all start the preparation
-with a unit turn. ([Click
-Here](The%20One%20Handed%20Topspin%20Backhand-The%20Grip%20Shift%20and%20Unit%20Turn.docx).)
+with a unit turn. ([link](The%20One%20Handed%20Topspin%20Backhand-The%20Grip%20Shift%20and%20Unit%20Turn.docx).)
 We've seen that there is a lot of variety in the backswings, and that
 although some of the extreme players have the biggest take backs, others
 are quite compact, and that there isn't any simple correlation between
-backswing and grip style. ([Click
-Here](The%20One%20Handed%20Topspin%20Backhand-The%20Backswing(s).docx).)
+backswing and grip style. ([link](The%20One%20Handed%20Topspin%20Backhand-The%20Backswing(s).docx).)
 
 We also found that all the top players reach a common position with the
 hand in relatively tight to the body at the bottom of the backswing, and
@@ -44,11 +42,11 @@ confidence](media_the-one-handed-topspin-backhand-the-forward-swing/media/image2
 **Hitting Arm Position**
 
 ***[On all the strokes, one essential component in the forward swing is
-the hitting arm position.]{.mark}*** This is as true, if not more true,
+the hitting arm position.]*** This is as true, if not more true,
 on the one-handed backhand. For the one-hander it's minimalistic:
 ***[the hitting arm is straight at the start of the forward swing and
 stays that way all the way out through the extension of the
-stroke.]{.mark}***
+stroke.]***
 
 This basic point can get lost when we get wrapped up in the study of the
 backswing. When we look at the pro players we see many of them take the
@@ -60,7 +58,7 @@ aren't fundamental either.
 
 **[We've noted many times the phenomenon of lower level players copying
 these extreme and idiosyncratic aspects of pro tennis, rather than the
-structural building blocks.]{.mark}** This is also common on the
+structural building blocks.]** This is also common on the
 one-handed backhand.
 
 Ironically, copying the larger backswings with the most bend at the
@@ -113,13 +111,12 @@ elbow, forming a straight line all the way up to the shoulder.
 
 **Why is the straight arm hitting position so important\--and so
 different from the double bend structure we've seen and studied on the
-forehand**? ([Click
-Here](http://www.tennisplayer.net/members/tour_strokes/jeff_counts/forehand_a_spring_event/forehand_a_spring_event%20.html)
+forehand**? ([link](http://www.tennisplayer.net/members/tour_strokes/jeff_counts/forehand_a_spring_event/forehand_a_spring_event%20.html)
 to read Jeff Counts article on the Double Bend Forehand.) ***The
 reason is the position of the hitting shoulder.***
 **[On the forehand, the right shoulder has to rotate forward toward the
 plane of the contact. On the one-handed backhand, the front right
-shoulder is already there at the completion of the turn.]{.mark}**
+shoulder is already there at the completion of the turn.]**
 
 Although it isn't quite this simple, a good analogy for understanding
 the forward swing on the one-hander is to think of the arm and the
@@ -240,7 +237,7 @@ on the one-hander, because where the contact falls on that continuum of
 the swing differs significantly as we move from the more classical to
 the more extreme players.
 
-![](media_the-one-handed-topspin-backhand-the-forward-swing/media/image27.webp)
+![link](media_the-one-handed-topspin-backhand-the-forward-swing/media/image27.webp)
 
 **How the change from classic to extreme effects contact.**
 
@@ -351,7 +348,7 @@ But grip is not the only factor controlling torso rotation. The role of
 the left arm also has a major impact on how much the players rotate.
 This turns out to be another one of those factors that is apparently
 independent of grip style. (For a great discussion of the role opposite
-arm in all the strokes Click Here to read Scott Murphy's article.)
+arm in all the strokes  to read Scott Murphy's article.)
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -439,7 +436,7 @@ on some balls, and lower and more bent on others.
 left arm appears to be a variable that isn't dependent on classical or
 extreme grip styles. It seems clear however that the movement of the
 opposite arm plays an important role in the stroke for most all the
-players.]{.mark}***
+players.]***
 
 ![A person playing tennis Description automatically generated with
 medium

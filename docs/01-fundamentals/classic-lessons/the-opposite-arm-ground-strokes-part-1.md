@@ -82,18 +82,18 @@ I've always likened this to a \"pace car and race car\" situation. The
 left arm is the pace car, and the hitting arm is the race car. The left
 arm starts the right arm on its way and then says, \"Follow me!\"
 **[[It's important to note the route and the shape of the non-racket
-arm.]{.mark} [Typically, the angle of the arm will drop somewhat at the
+arm.] [Typically, the angle of the arm will drop somewhat at the
 start of the forward swing. It will then start forward and across the
 body, tracing the arc that the racket hand will
-follow.]{.mark}]{.underline}**
+follow.]]**
 
 **As the opposite arm moves, the elbow will start to bend inwards
 toward the torso, eventually reaching a right angle, or something
 close.** **[[Now the whole opposite arm will start
 to rise. In the classic finish, the upper arm will move upwards until it
-is about parallel to the shoulder.]{.mark} [At the same time the forearm
+is about parallel to the shoulder.] [At the same time the forearm
 will rotate upwards until it is pointing more or less straight up and
-down.]{.mark}]{.underline}**
+down.]]**
 
 ![A person playing tennis Description automatically generated with
 medium

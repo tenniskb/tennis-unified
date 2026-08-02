@@ -17,7 +17,7 @@ generated](media_john-yandell-your-forehand-and-the-modern-forehand-shoulder-rot
 Shoulder rotation has become extreme in pro tennis, but how does this
 apply to you?
 
-![](media_john-yandell-your-forehand-and-the-modern-forehand-shoulder-rotation/media/image2.png)
+![link](media_john-yandell-your-forehand-and-the-modern-forehand-shoulder-rotation/media/image2.png)
 
 ![A person smiling for the camera Description automatically generated
 with medium

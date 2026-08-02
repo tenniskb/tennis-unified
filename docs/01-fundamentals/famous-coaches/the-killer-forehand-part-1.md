@@ -107,7 +107,7 @@ your standing height.** That means that if your
 normal standing height is six feet, your ideal athletic height would be
 around five feet.
 
-**[Your hips are dropped down to]{.underline} a low center of
+**[Your hips are dropped down to] a low center of
 gravity and a wide base to
 allow you to react and move to various positions
 on the court.**
@@ -131,8 +131,7 @@ gravity as you practice, building into habit the correct body position
 and footwork. It makes you keep your body down and utilize the legs. It
 allows you to develop all the qualities needed like a good, strong
 posture and back position. For more info on the trainer, developed by
-Pat Dougherty at the Academy, [Click
-Here.](../Footwork/The%20Athletic%20Foundation.docx)
+Pat Dougherty at the Academy, [link](../Footwork/The%20Athletic%20Foundation.docx)
 
 Adjusted specifically to your height the bungee cord will resist and
 remind you when you were using incorrect technique. In match play, you
@@ -162,8 +161,8 @@ prove quickest on all types of surfaces for getting to difficult
 balls.**
 
 **By shifting your weight off the outside foot**
-**[[and tucking the driving foot under your torso,]{.mark} [your body
-weight provides traction,]{.mark}]{.underline}** **much like a front
+**[[and tucking the driving foot under your torso,] [your body
+weight provides traction,]]** **much like a front
 wheel drive car in the snow, using the weight of the engine to give the
 tires traction.**
 
@@ -204,7 +203,7 @@ quick feet. You have to spring on that ball like a tiger.
 
 |  |
 | --- |
-| ![](media_the-killer-forehand-part-1/media/image10.webp) |
+| ![link](media_the-killer-forehand-part-1/media/image10.webp) |
 |  |
 | **If your heels are touching, you're in 10th gear.** |
 

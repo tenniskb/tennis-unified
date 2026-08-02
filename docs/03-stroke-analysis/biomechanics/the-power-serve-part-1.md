@@ -34,11 +34,11 @@ the loading on those areas, while still developing the power serve.
 **[It's very important to understand that, if you want to serve at a
 high speed, you've got to prepare your body physically. You cannot just
 learn the power serve without a strength base. So let's see what a
-strength base entails.]{.mark}**
+strength base entails.]**
 
 **[First, you must have core stability. To be good at tennis, you
 definitely need core stability. Basically, that's stability across the
-pelvis, or the lower abdominal area.]{.mark}**
+pelvis, or the lower abdominal area.]**
 
  ![A person playing tennis Description automatically generated with
 medium
@@ -50,7 +50,7 @@ injury.**
 ***[The other thing you need is shoulder stability. You can't just go
 out and rotate your arm as quickly as you possibly can, without having a
 stable shoulder. You need core stability and you need shoulder
-stability, before you start to introduce high speed serves.]{.mark}***
+stability, before you start to introduce high speed serves.]***
 
 So that's the cautionary tale, but what about the serve itself?
 
@@ -90,7 +90,7 @@ to my first point, and have a motion that is fluent.**
 is the distance that the racquet moves, so that you can build up speed.
 To use a technical term, you've got to increase displacement. You've
 got to increase the distance that the racquet can move so it has a
-greater opportunity to build speed.]{.mark}***
+greater opportunity to build speed.]***
 
 ![A tennis player about to hit a ball Description automatically
 generated with low
@@ -105,17 +105,17 @@ There are two types of foot action that you can use in the serve. What I
 would call the foot up and what I would call the foot back.
 
 **[The foot back technique places the feet apart. The foot up technique
-places the back foot up near the front foot.]{.mark}** And obviously,
+places the back foot up near the front foot.]** And obviously,
 you can have the foot anywhere in between, so it's not just one or the
 other. It can be the whole range in between.
 
 **[Our research studies show that if you use the foot up technique, you
 get better height on your drive. You usually impact the ball
-higher.]{.mark}**
+higher.]**
 
 **[If you use the foot back technique, it's better for driving your
 body forward. So if you want to get into the net very quickly, quite
-often people will use that foot back technique.]{.mark}**
+often people will use that foot back technique.]**
 
 **Now does that mean one technique is better than the other?
 Absolutely not. If the player uses the foot back technique, he is
@@ -156,7 +156,7 @@ work with today's modern serve.
 
 **[Trunk rotation also positions the racquet further away from the back.
 It should be down near the backside. That will give you an idea as to
-whether they've got a good leg (and trunk) drive or not.]{.mark}**
+whether they've got a good leg (and trunk) drive or not.]**
 
 **And the third thing, I can tell you from work that we have done
 recently, you'll get less loading on the shoulder and elbow - the two
@@ -165,7 +165,7 @@ areas most susceptible to injury that I mentioned above.**
 **[To achieve these three bonuses, you've got to come out of that knee
 bend or flexion with as much drive as you can possibly muster. Remember,
 you do not jump off the ground under any circumstances. [You drive
-yourself off the ground.]{.underline}]{.mark}**
+yourself off the ground.]]**
 
 **The Trunk**
 
@@ -223,7 +223,7 @@ the shoulders and the hips.***
 actually serve, you are better to start more open. They then can rotate
 backwards, and they can put some stretch between the line of the
 shoulders and the line of the hips. That is, you can rotate the
-shoulders beyond the hips.]{.mark}**
+shoulders beyond the hips.]**
 
 If that doesn't make sense on a serve, think of a forehand. Think when
 you're hitting a groundstroke. You always rotate your shoulders further
@@ -242,7 +242,7 @@ shoulder rotate over the top of my front shoulder.
 
 **[Let me go through that again. I can rotate forward. I can twist
 backwards, then forwards. And I can have the back shoulder rotate over
-the top of the front shoulder, as in a cartwheel.]{.mark}**
+the top of the front shoulder, as in a cartwheel.]**
 
 ![A person holding a microphone Description automatically generated with
 low
@@ -328,7 +328,7 @@ males and females, the average amount of rotation was about 170 degrees
 **[So you need to rotate that arm all the way back, or as far as you
 can. And the only way to get that you get it to rotate back is to drive
 with your legs, and to drive with your shoulder. This is what drives the
-racquet away from the back.]{.mark}**
+racquet away from the back.]**
 
 ![A person holding a tennis racket Description automatically generated
 with medium

@@ -1248,10 +1248,7 @@ edge).**
 \| Continenta \| Heel of palm on **Beve \| Best for** Slice\*\*,
 volleys, a \|
 
-\| l **{#cont \| l 2** {#heel-of-palm-o \| nd serves.
-{#best-for-slice-vo \|
-
-\| inental .u \| n-bevel-2 .unnumbered} \| lleys-and-serves.
+\| l ** \| lleys-and-serves.
 .unnumbered} \|
 
 \| nnumbered} \| \| \|
@@ -1260,13 +1257,7 @@ volleys, a \|
 
 \| \### \*\*Ea \| \### Palm \| \### A classic \"f \|
 
-\| stern **{# \| on the side (**Bevel \| lat\" hitting grip; versatile
-\|
-
-\| eastern .u \| 3\*\*) {#palm-on-the-sid \| and easy to learn.
-{#a-classic \|
-
-\| nnumbered} \| e-bevel-3 .unnumbered} \|
+\| stern ** \| e-bevel-3 .unnumbered} \|
 -flat-hitting-grip-versatile-a \|
 
 \| \| \| nd-easy-to-learn. .unnumbered} \|
@@ -1278,26 +1269,14 @@ volleys, a \|
 \| mi-Western \| ed toward the bottom ( \| ern Standard\"\*\*; balances
 pow \|
 
-\| **{#semi- \|** Bevel 4\*\*) {#palm-sh \| er and heavy topspin.
-{#the-mo \|
-
-\| western .u \| ifted-toward-the-botto \|
-dern-standard-balances-power-a \|
-
-\| nnumbered} \| m-bevel-4 .unnumbered} \| nd-heavy-topspin.
+\| ** \| m-bevel-4 .unnumbered} \| nd-heavy-topspin.
 .unnumbered} \|
 
 +\-\-\-\-\-\-\-\-\-\-\--+\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--+\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--+
 
 \| \### **We \| \### Palm fully und \| \### Maximum** Topspin\*\*; id \|
 
-\| stern **{# \| erneath (**Bevel 5\*\*) \| eal for high-bouncing balls.
-{ \|
-
-\| western .u \| {#palm-fully-underneat \|
-#maximum-topspin-ideal-for-hig \|
-
-\| nnumbered} \| h-bevel-5 .unnumbered} \| h-bouncing-balls.
+\| stern ** \| h-bevel-5 .unnumbered} \| h-bouncing-balls.
 .unnumbered} \|
 
 +\-\-\-\-\-\-\-\-\-\-\--+\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--+\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--+
@@ -2496,10 +2475,7 @@ Mastery\]\](https://docs.google.com/document/d/1kX3nL6o5nZiAr_tw0M3FASUhq-IjwfBR
 
 \| \### **\| \###** Du \| \## \|
 
-\| System **{#syst \| ration of Eff \| \#** Primary Role in Tennis\*\*
-{#pr \|
-
-\| em .unnumbered} \| ort\*\* \|
+\| System ** \| ort\*\* \|
 
 \| \| ion-of-effort \| \|
 
@@ -2508,13 +2484,7 @@ Mastery\]\](https://docs.google.com/document/d/1kX3nL6o5nZiAr_tw0M3FASUhq-IjwfBR
 
 \| \### \*\* \| \# \| \### Explosive ser \|
 
-\| ATP-PC\*\* {#atp- \| \## 0\--10 Seco \| ves, first steps, and power
-winne \|
-
-\| pc .unnumbered} \| nds {#seconds \| rs. {#explosive-serves-first-step
-\|
-
-\| \| .unnumbered} \| s-and-power-winners. .unnumbered} \|
+\| ATP-PC\*\* \| nds \| s-and-power-winners. .unnumbered} \|
 
 +\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--+\-\-\-\-\-\-\-\-\-\-\-\-\-\--+\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--+
 
@@ -2523,10 +2493,7 @@ winne \|
 \| \*\*Anaerobic Gly \| 10\--60 Second \| ies and extended defensive
 scramb \|
 
-\| colytic\*\* {#ana \| s {#seconds-1 \| les.
-{#long-rallies-and-extended- \|
-
-\| erobic-glycolyt \| .unnumbered} \| defensive-scrambles. .unnumbered}
+\| colytic\*\* \| defensive-scrambles. .unnumbered}
 \|
 
 \| ic .unnumbered} \| \| \|
@@ -2535,13 +2502,7 @@ scramb \|
 
 \| \### \*\*Ae \| \# \| \### Recov \|
 
-\| robic\*\* {#aerob \| \## 60+ Second \| ery between points and match
-endu \|
-
-\| ic .unnumbered} \| s {#seconds-2 \| rance. {#recovery-between-points-
-\|
-
-\| \| .unnumbered} \| and-match-endurance. .unnumbered} \|
+\| robic\*\* \| s \| and-match-endurance. .unnumbered} \|
 
 +\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--+\-\-\-\-\-\-\-\-\-\-\-\-\-\--+\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--+
 
@@ -2811,11 +2772,7 @@ force is the key to injury resilience and power.
 
 \| \# \*\*Phas \| anical Actio \| \|
 
-\| e **{#ph \| n** {#mechan \| \|
-
-\| ase .unn \| ical-action \| \|
-
-\| umbered} \| .unnumbered} \| \|
+\| e ** \| .unnumbered} \| \|
 
 
 \| \## \| \## Mu \| \## **Explosive Power:** The dr \|
@@ -2823,10 +2780,7 @@ force is the key to injury resilience and power.
 \| \*\*Concen \| scle Shorten \| ive in the serve, the push-off in a
 sprin \|
 
-\| tric\*\* { \| ing {#muscle \| t.
-{#explosive-power-the-drive-in-the-ser \|
-
-\| #concent \| -shortening \| ve-the-push-off-in-a-sprint. .unnumbered}
+\| tric\*\*
 \|
 
 \| ric .unn \| .unnumbered} \| \|
@@ -2840,13 +2794,7 @@ sprin \|
 \| \# **Ecce \| le Lengtheni \| ety:** The braking after a wide ball,
 slo \|
 
-\| ntric\*\* \| ng {#muscle- \| wing the arm after a serve.
-{#deceleratio \|
-
-\| {#eccent \| lengthening \| n-safety-the-braking-after-a-wide-ball-sl
-\|
-
-\| ric .unn \| .unnumbered} \| owing-the-arm-after-a-serve. .unnumbered}
+\| ntric\*\* \| ng \| owing-the-arm-after-a-serve. .unnumbered}
 \|
 
 \| umbered} \| \| \|

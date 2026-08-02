@@ -195,8 +195,7 @@ generated](media_john-yandell-classic-and-modern-tennis-modern-tennis-your-tenni
 The other huge factor is poly string, which is now virtually universal
 on the tour and is becoming more and more prevalent at all levels. Poly
 string increases spin levels 25% or more, again, virtually
-automatically. ([Click
-Here](https://www.tennisplayer.net/members/physics_of_tennis/josh_speakman/strings_and_spins/)
+automatically. ([link](https://www.tennisplayer.net/members/physics_of_tennis/josh_speakman/strings_and_spins/)
 for more info on the nature and effect of poly.)
 
 And poly has a synergistic effect on velocity and technique. With
@@ -317,8 +316,7 @@ But since the graphite/poly/court surface revolution the grips of more
 and more players have moved more and more under the handle. This, as we
 will see in more detail in the second article, has led to more use of
 open stances and more use of windshield wiper action, or hand and arm
-rotation on the follow-throughs. ([Click
-Here](https://www.tennisplayer.net/members/avancedtennis/john_yandell/your_forehand_and_the_modern_forehand/hand_arm_rotation/hand_arm_rotation.html)
+rotation on the follow-throughs. ([link](https://www.tennisplayer.net/members/avancedtennis/john_yandell/your_forehand_and_the_modern_forehand/hand_arm_rotation/hand_arm_rotation.html)
 for more on the wiper.)
 
 Still it is important to understand that even the radical forehand
@@ -347,8 +345,7 @@ on the right side of the body, just as we do with Pete Sampras or Sam
 Stosur.
 
 It was the golden era of classical, compact volleys. (For a great recent
-Tennisplayer article by Paul Cohen on the classic forehand volley [Click
-Here](https://www.tennisplayer.net/members/classiclessons/paul_cohen/classic_forehand_volley/index.html).)
+Tennisplayer article by Paul Cohen on the classic forehand volley [link](https://www.tennisplayer.net/members/classiclessons/paul_cohen/classic_forehand_volley/index.html).)
 
 But Fred Perry hit swinging volleys in the 1930's, as did other players.
 All the top players used a mixture of neutral and open stances, even
@@ -465,8 +462,7 @@ topspin on the one-handed backhand.
 A third important impact has been the reduced prevalence and
 effectiveness of the slice backhand, and changes in slice technique to
 adapt to higher contact height and increased spin. (For more on the
-evolution of the slice backand, [Click
-Here](https://www.tennisplayer.net/members/avancedtennis/john_yandell/classical_tennis_and_modern_tennis/modern_pro_slice_2/).)
+evolution of the slice backand, [link](https://www.tennisplayer.net/members/avancedtennis/john_yandell/classical_tennis_and_modern_tennis/modern_pro_slice_2/).)
 
 ![A person playing tennis Description automatically
 generated](media_john-yandell-classic-and-modern-tennis-modern-tennis-your-tennis/media/image18.webp)
@@ -526,8 +522,7 @@ beautiful, and courageous players of all times, Pete was probably the
 last great classical champion. Pete played with a relatively small
 headed graphite frame and ultra thin gauge natural gut. He had a classic
 eastern grip forehand, with a gorgeous classical finish taught to him by
-the great Robert Lansdorp ([Click
-Here](https://www.tennisplayer.net/members/famouscoach/robert_lansdorp/lansdorp_forehand_images/lansdorp_forehand.html).)
+the great Robert Lansdorp ([link](https://www.tennisplayer.net/members/famouscoach/robert_lansdorp/lansdorp_forehand_images/lansdorp_forehand.html).)
 
 He had a one-handed eastern backhand that he could drive, come over with
 heavy spin, or slice. And, obviously, he was one of the greatest serve

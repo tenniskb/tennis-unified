@@ -23,8 +23,7 @@ sideline.**
 **View From Above**
 
 In the last year we've added a section to our High Speed Stroke
-Archives filmed from almost directly above the court ([Click
-Here](../../High%20Speed%20Achieve).) It was at a challenger event at
+Archives filmed from almost directly above the court ([link](../../High%20Speed%20Achieve).) It was at a challenger event at
 the San Francisco Tennis Club and includes some high level players such
 as Francis Tiafoe, Reilly Opelka and Vasek Pospisil. The footage gives a
 new perspective on the path of the racket. Filmed at 240 frames per
@@ -33,8 +32,7 @@ of the racket head in the critical milliseconds before, during, and
 after contact. The forward swing on a 3D curve, inside out, upward,
 outward, and back across.
 
-As we have seen in our previous studies ([Click
-Here](https://www.tennisplayer.net/members/avancedtennis/john_yandell/modern_tennis/what_have_we_learned_part_2/)),
+As we have seen in our previous studies ([link](https://www.tennisplayer.net/members/avancedtennis/john_yandell/modern_tennis/what_have_we_learned_part_2/)),
 a key point---among many\-- is that the path of the swing is on a three
 dimensional curve. It moves from the inside of the body outward toward
 the contact. At the same time it is moving upward and outward toward the
@@ -173,7 +171,7 @@ the forward swing.
 
 **[As we know the actual swing will only be closely aligned with the
 shot path at the critical moment of contact. The imagery is an over
-compensation in that sense.]{.mark}**
+compensation in that sense.]**
 
 ![A picture containing athletic game, tennis, sport, table Description
 automatically

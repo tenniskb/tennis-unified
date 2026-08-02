@@ -74,7 +74,7 @@ other stroke, such as good preparation and balance. But the single most
 important factor is the exact position of the racket head at the moment
 of impact in relation to the path of the incoming ball.
 
-![](media_return-of-serve-the-first-3-principles/media/image3.jpg)
+![link](media_return-of-serve-the-first-3-principles/media/image3.jpg)
 
 **As demonstrated by Roger Federer, pros are masters at placing their racket in the correct position at the point of contact even with both feet in the air and lunging on the return.**
 
@@ -122,8 +122,8 @@ critical element in ensuring solid contact. Three of the greatest
 players in tennis history, Federer, Bjorn Borg and Chris Evert, were/are
 masters at watching the ball and keeping their head still at contact.
 
-![](media_return-of-serve-the-first-3-principles/media/image4.jpg) 
-![](media_return-of-serve-the-first-3-principles/media/image5.jpg) ![A couple of people play tennis](media_return-of-serve-the-first-3-principles/media/image6.jpg) 
+![link](media_return-of-serve-the-first-3-principles/media/image4.jpg) 
+![link](media_return-of-serve-the-first-3-principles/media/image5.jpg) ![A couple of people play tennis](media_return-of-serve-the-first-3-principles/media/image6.jpg) 
 
 **Roger Federer demonstrates the three key times to focus on the ball: (1) when the server makes contact, (2) the moment the ball bounces in your service box and (3) the moment of contact on your return.Starting the Process**
 

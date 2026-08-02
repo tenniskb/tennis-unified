@@ -39,106 +39,106 @@ body{font-family:'Crimson Pro',serif;background:var(--bg);color:var(--ink);overf
 @keyframes fadeUp{from{opacity:0;transform:translateY(22px)}to{opacity:1;transform:translateY(0)}}
 @keyframes fadeIn{from{opacity:0}to{opacity:1}}
 @keyframes drawLine{from{stroke-dashoffset:400}to{stroke-dashoffset:0}}
-@keyframes shimmer{0%,100%{opacity:1}50%{opacity:.55}}
+@keyframes shimmer{0%,100%{opacity:1}50%}
 @keyframes rotateSlow{from{transform:rotate(0deg)}to{transform:rotate(360deg)}}
 @keyframes slideRight{from{transform:scaleX(0)}to{transform:scaleX(1)}}
-.anim-up{animation:fadeUp .55s cubic-bezier(.22,1,.36,1) both}
-.anim-in{animation:fadeIn .4s ease both}
-[data-delay="1"]{animation-delay:.1s}
-[data-delay="2"]{animation-delay:.2s}
-[data-delay="3"]{animation-delay:.3s}
-[data-delay="4"]{animation-delay:.4s}
-[data-delay="5"]{animation-delay:.5s}
-[data-delay="6"]{animation-delay:.6s}
-[data-delay="7"]{animation-delay:.7s}
+.anim-up
+.anim-in
+[data-delay="1"]
+[data-delay="2"]
+[data-delay="3"]
+[data-delay="4"]
+[data-delay="5"]
+[data-delay="6"]
+[data-delay="7"]
 
 /* ── NAV ── */
 #site-nav{position:sticky;top:0;z-index:100;background:var(--forest-dark);border-bottom:2px solid var(--gold);display:flex;align-items:center;gap:0;padding:0 20px;height:54px;overflow-x:auto;overflow-y:hidden}
 #site-nav::-webkit-scrollbar{height:0}
-.nav-logo{font-family:'Playfair Display',serif;font-size:15px;font-weight:700;color:var(--gold);white-space:nowrap;margin-right:18px;letter-spacing:-.01em;flex-shrink:0}
+.nav-logo
 .nav-links{display:flex;gap:2px;flex:1;overflow-x:auto}
 .nav-links::-webkit-scrollbar{height:0}
-.nav-btn{background:none;border:none;cursor:pointer;padding:5px 10px;font-family:'Crimson Pro',serif;font-size:13px;color:rgba(245,240,232,.65);border-radius:5px;transition:all .2s;white-space:nowrap;letter-spacing:.02em}
-.nav-btn:hover{color:var(--cream);background:rgba(255,255,255,.07)}
+.nav-btn
+.nav-btn:hover
 .nav-btn.active{background:var(--gold);color:var(--forest-dark);font-weight:600}
-.lang-toggle{display:flex;gap:0;border:1px solid rgba(200,151,58,.4);border-radius:6px;overflow:hidden;flex-shrink:0;margin-left:10px}
-.lang-btn{background:none;border:none;cursor:pointer;padding:5px 12px;font-family:'DM Mono',monospace;font-size:11px;color:rgba(245,240,232,.6);transition:all .2s;letter-spacing:.05em}
+.lang-toggle
+.lang-btn
 .lang-btn.active{background:var(--gold);color:var(--forest-dark);font-weight:500}
 
 /* ── HERO ── */
 #hero{min-height:100vh;background:var(--forest-dark);display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;padding:60px 24px;position:relative;overflow:hidden}
 .hero-bg{position:absolute;inset:0;pointer-events:none}
-.hero-ring{position:absolute;border-radius:50%;border:1px solid rgba(200,151,58,.12)}
-.hero-eyebrow{font-family:'DM Mono',monospace;font-size:11px;letter-spacing:.22em;color:var(--gold);text-transform:uppercase;margin-bottom:24px}
-.hero-title{font-family:'Playfair Display',serif;font-size:clamp(32px,6vw,72px);font-weight:900;color:var(--cream);line-height:1.08;margin-bottom:8px;letter-spacing:-.02em}
+.hero-ring
+.hero-eyebrow
+.hero-title
 .hero-sub{font-family:'Playfair Display',serif;font-size:clamp(14px,2vw,20px);font-weight:400;font-style:italic;color:var(--gold-light);margin-bottom:28px}
-.hero-desc{font-size:clamp(15px,1.8vw,19px);color:rgba(245,240,232,.72);max-width:620px;line-height:1.75;margin-bottom:40px}
-.hero-axiom{display:inline-block;border:1px solid rgba(200,151,58,.35);border-radius:8px;padding:18px 28px;font-family:'Playfair Display',serif;font-size:clamp(14px,1.8vw,18px);font-weight:600;color:var(--gold);font-style:italic;max-width:580px;line-height:1.5}
-.hero-cta{display:inline-flex;align-items:center;gap:8px;background:var(--gold);color:var(--forest-dark);font-family:'Crimson Pro',serif;font-size:16px;font-weight:600;padding:12px 28px;border-radius:8px;border:none;cursor:pointer;margin-top:32px;text-decoration:none;transition:all .2s;letter-spacing:.03em}
+.hero-desc
+.hero-axiom
+.hero-cta
 .hero-cta:hover{background:var(--gold-light);transform:translateY(-2px)}
 .hero-stats{display:flex;gap:40px;margin-top:48px;flex-wrap:wrap;justify-content:center}
 .hero-stat{text-align:center}
 .hero-stat-n{font-family:'Playfair Display',serif;font-size:36px;font-weight:700;color:var(--gold);line-height:1}
-.hero-stat-l{font-family:'Crimson Pro',serif;font-size:13px;color:rgba(245,240,232,.55);margin-top:4px;letter-spacing:.06em}
+.hero-stat-l
 
 /* ── MAIN LAYOUT ── */
 #main{display:flex;min-height:100vh}
-#sidebar{width:240px;flex-shrink:0;background:var(--forest-dark);border-right:1px solid rgba(200,151,58,.2);position:sticky;top:54px;height:calc(100vh - 54px);overflow-y:auto;padding:20px 0}
+#sidebar
 #sidebar::-webkit-scrollbar{width:3px}
-.sb-section{padding:6px 16px;font-family:'DM Mono',monospace;font-size:10px;letter-spacing:.16em;color:rgba(200,151,58,.55);text-transform:uppercase;margin-top:14px}
-.sb-btn{display:flex;align-items:center;gap:10px;width:100%;background:none;border:none;cursor:pointer;padding:8px 20px;text-align:left;transition:all .2s;border-left:2px solid transparent}
-.sb-btn:hover{background:rgba(255,255,255,.04);border-left-color:rgba(200,151,58,.4)}
-.sb-btn.active{background:rgba(200,151,58,.1);border-left-color:var(--gold)}
+.sb-section
+.sb-btn
+.sb-btn:hover
+.sb-btn.active
 .sb-num{width:22px;height:22px;border-radius:50%;background:var(--forest);display:flex;align-items:center;justify-content:center;font-family:'Playfair Display',serif;font-size:11px;font-weight:700;color:var(--gold);flex-shrink:0}
 .sb-btn.active .sb-num{background:var(--gold);color:var(--forest-dark)}
-.sb-label{font-family:'Crimson Pro',serif;font-size:13px;color:rgba(245,240,232,.65);line-height:1.3}
+.sb-label
 .sb-btn.active .sb-label{color:var(--cream)}
 #content{flex:1;min-width:0;padding:32px 36px 80px;max-width:820px}
-.section-page{display:none;animation:fadeUp .4s ease both}
+.section-page
 .section-page.visible{display:block}
 
 /* ── TYPOGRAPHY ── */
 .section-badge{display:flex;align-items:center;gap:12px;margin-bottom:10px}
 .badge-num{width:38px;height:38px;border-radius:50%;background:var(--forest);color:var(--gold);display:flex;align-items:center;justify-content:center;font-family:'Playfair Display',serif;font-size:17px;font-weight:700;flex-shrink:0}
-.badge-label{font-family:'DM Mono',monospace;font-size:10px;letter-spacing:.18em;text-transform:uppercase;color:var(--forest);font-weight:500}
-.section-title{font-family:'Playfair Display',serif;font-size:clamp(20px,3vw,28px);font-weight:700;color:var(--ink);border-bottom:2px solid var(--gold);padding-bottom:8px;margin-bottom:16px;line-height:1.25}
+.badge-label
+.section-title
 .subtitle{font-family:'Playfair Display',serif;font-size:18px;font-weight:600;color:var(--forest);margin:22px 0 7px}
-.body-text{font-size:17px;line-height:1.82;color:var(--ink-light);margin-bottom:14px}
+.body-text
 .body-text strong{color:var(--ink);font-weight:600}
 .body-text em{font-style:italic;color:var(--forest-light)}
 .fig-cap{font-family:'Crimson Pro',serif;font-size:12px;font-style:italic;color:var(--muted);text-align:center;margin-top:6px}
 
 /* ── CALLOUTS ── */
-.callout{border-left:4px solid var(--gold);background:#FDF6E8;border-radius:0 8px 8px 0;padding:13px 18px;margin:16px 0;font-size:16px;line-height:1.72;color:var(--gold-dark)}
+.callout
 .callout.green{border-left-color:var(--forest);background:#EDF5EF;color:var(--forest-dark)}
 .callout.red{border-left-color:var(--red);background:#F5EAEA;color:var(--red)}
 .callout.blue{border-left-color:var(--blue);background:#EAF0F8;color:var(--blue)}
 .callout strong{font-weight:700}
 
 /* ── TABLES ── */
-.table-wrap{overflow-x:auto;margin:14px 0;border-radius:8px;box-shadow:0 1px 3px rgba(0,0,0,.06)}
+.table-wrap
 table{width:100%;border-collapse:collapse;font-size:14px}
 th{background:var(--forest);color:var(--cream);padding:9px 13px;text-align:left;font-family:'Crimson Pro',serif;font-weight:600;font-size:13px}
 th:first-child{border-radius:8px 0 0 0}
 th:last-child{border-radius:0 8px 0 0}
-td{padding:8px 13px;border-bottom:1px solid var(--cream-dark);color:var(--ink-light);vertical-align:top;font-size:14px;line-height:1.55}
+td
 tr:nth-child(even) td{background:var(--cream)}
 tr:last-child td{border-bottom:none}
 
 /* ── AXIOM CARD ── */
 .axiom-card{background:var(--forest-dark);border-radius:12px;padding:22px 26px;margin:18px 0;border-top:3px solid var(--gold)}
-.axiom-eyebrow{font-family:'DM Mono',monospace;font-size:10px;letter-spacing:.18em;color:var(--gold);margin-bottom:10px;text-transform:uppercase}
-.axiom-text{font-family:'Playfair Display',serif;font-size:17px;font-weight:700;color:var(--cream);line-height:1.55;font-style:italic}
-.axiom-sub{font-family:'Crimson Pro',serif;font-size:13px;color:rgba(245,240,232,.45);margin-top:8px;font-style:italic}
+.axiom-eyebrow
+.axiom-text
+.axiom-sub
 
 /* ── DUAL CARD ── */
 .dual-cards{display:grid;grid-template-columns:1fr 1fr;gap:14px;margin:16px 0}
 .param-card{background:var(--forest-dark);border-radius:10px;padding:18px 20px}
-.param-eyebrow{font-family:'DM Mono',monospace;font-size:10px;letter-spacing:.15em;color:var(--gold);margin-bottom:8px;text-transform:uppercase}
+.param-eyebrow
 .param-title{font-family:'Playfair Display',serif;font-size:16px;color:var(--cream);font-weight:700;margin-bottom:6px}
-.param-body{font-family:'Crimson Pro',serif;font-size:14px;color:rgba(245,240,232,.72);line-height:1.65}
+.param-body
 .param-body strong{color:var(--gold-light)}
-@media(max-width:600px){.dual-cards{grid-template-columns:1fr}}
+@media(max-width:600px)}
 
 /* ── PRINCIPLE ITEMS ── */
 .principle-item{display:flex;gap:14px;align-items:flex-start;margin-bottom:18px}
@@ -148,23 +148,23 @@ tr:last-child td{border-bottom:none}
 
 /* ── STEP LIST ── */
 .steps-list{list-style:none;padding:0;margin:12px 0}
-.steps-list li{display:flex;gap:12px;align-items:flex-start;padding:10px 0;border-bottom:1px solid var(--cream-dark);font-size:16px;line-height:1.7;color:var(--ink-light)}
+.steps-list li
 .steps-list li:last-child{border-bottom:none}
 .step-n{width:28px;height:28px;border-radius:50%;background:var(--forest);color:var(--gold);display:flex;align-items:center;justify-content:center;font-family:'Playfair Display',serif;font-size:13px;font-weight:700;flex-shrink:0;margin-top:2px}
 
 /* ── BULLET LIST ── */
 .bullet-list{padding-left:20px;margin:10px 0}
-.bullet-list li{font-size:16px;line-height:1.8;color:var(--ink-light);margin-bottom:3px}
+.bullet-list li
 
 /* ── STEP SEQUENCE (operational) ── */
 .op-steps{display:flex;flex-direction:column;gap:0;margin:16px 0}
 .op-step{display:flex;gap:14px;position:relative}
-.op-step::before{content:'';position:absolute;left:17px;top:42px;bottom:-12px;width:2px;background:rgba(200,151,58,.25)}
+.op-step::before
 .op-step:last-child::before{display:none}
 .op-dot{width:36px;height:36px;border-radius:50%;display:flex;align-items:center;justify-content:center;font-family:'Playfair Display',serif;font-size:15px;font-weight:700;color:var(--cream);flex-shrink:0;z-index:1}
 .op-body{flex:1;padding-bottom:24px}
-.op-title{font-family:'Playfair Display',serif;font-size:14px;font-weight:700;letter-spacing:.04em;text-transform:uppercase;margin-bottom:3px}
-.op-desc{font-size:15px;color:var(--ink-light);line-height:1.65}
+.op-title
+.op-desc
 
 /* ── FIG BOX ── */
 .fig-box{margin:16px 0;border:1px solid var(--cream-dark);border-radius:10px;overflow:hidden;background:var(--cream);padding:10px 6px 6px}
@@ -172,7 +172,7 @@ tr:last-child td{border-bottom:none}
 /* ── FOOTER ── */
 #site-footer{background:var(--forest-dark);border-top:2px solid var(--gold);padding:32px 36px;text-align:center}
 .footer-title{font-family:'Playfair Display',serif;font-size:17px;font-weight:700;color:var(--gold);margin-bottom:6px}
-.footer-sub{font-family:'Crimson Pro',serif;font-size:13px;color:rgba(245,240,232,.45);font-style:italic}
+.footer-sub
 
 /* ── MOBILE ── */
 @media(max-width:768px){
@@ -259,93 +259,22 @@ tr:last-child td{border-bottom:none}
 // ─────────────────────────────────────────────
 // DATA
 // ─────────────────────────────────────────────
-const LANG = {
-  en: {
-    navBtns: ["Intro","2 Params","Grips","5 Lenses","Serve","Forehand","Axes","Process","6 Principles"],
-    sbSections: ["Foundation","Mechanics","Analysis","Corollaries"],
-    sbLabels: [
-      ["Intro","Core Principle"],
-      ["Two Parameters","Grip & Body"],
-      ["Grip Styles","Face Angles"],
-      ["Five Lenses","Analytical Framework"],
-      ["The Serve","Continental Chop"],
-      ["Forehand","Semi-Western Brush"],
-      ["Mechanical Axes","Stroke Identity"],
-      ["Operational Sequence","Diagnostic Process"],
-      ["Six Corollaries","Universal Laws"],
-    ],
-    heroEyebrow: "Professional Tennis Training Manual",
-    heroTitle: "Contact Point<br>Architecture",
-    heroSub: "The Complete Framework for Stroke Analysis",
-    heroDesc: "Every tennis stroke is a contact point engineering problem. Two parameters — grip angle and body configuration — determine whether that contact is clean. This manual shows exactly how.",
-    heroAxiom: '"The grip selects the axis. The body organises behind it. Everything else is delivery."',
-    heroCta: "Begin the Manual",
-    hs: ["Critical Parameters","Analytical Lenses","Universal Corollaries","Complete Sections"],
-    footerTitle: "Contact Point Architecture Framework",
-    footerSub: "The Art of Modern Tennis · The Neurological Edge · Professional Coaching Manual v1.0",
-  },
-  vi: {
-    navBtns: ["Giới Thiệu","2 Tham Số","Grip","5 Lăng Kính","Giao Bóng","Forehand","Trục","Quy Trình","6 Nguyên Lý"],
-    sbLabels: [
-      ["Giới Thiệu","Nguyên Lý Cốt Lõi"],
-      ["Hai Tham Số","Grip & Cơ Thể"],
-      ["Kiểu Grip","Góc Mặt Vợt"],
-      ["Năm Lăng Kính","Framework Phân Tích"],
-      ["Giao Bóng","Cơ Chế Chặt"],
-      ["Forehand","Semi-Western Chải"],
-      ["Trục Cơ Học","Danh Tính Cú Đánh"],
-      ["Quy Trình","Chẩn Đoán"],
-      ["Sáu Nguyên Lý","Hệ Quả Toàn Diện"],
-    ],
-    heroEyebrow: "Cẩm Nang Huấn Luyện Tennis Chuyên Nghiệp",
-    heroTitle: "Kiến Trúc<br>Điểm Tiếp Xúc",
-    heroSub: "Framework Toàn Diện Phân Tích Cú Đánh",
-    heroDesc: "Mỗi cú đánh trong tennis là một bài toán kỹ thuật về điểm tiếp xúc. Hai tham số — góc mặt vợt và cấu hình cơ thể — quyết định liệu điểm tiếp xúc có sạch hay không.",
-    heroAxiom: '"Grip xác định trục. Cơ thể tổ chức đằng sau nó. Mọi thứ còn lại là cách thực hiện."',
-    heroCta: "Bắt Đầu",
-    hs: ["Tham Số Cốt Lõi","Lăng Kính Phân Tích","Nguyên Lý Hệ Quả","Phần Nội Dung"],
-    footerTitle: "Framework Kiến Trúc Điểm Tiếp Xúc",
-    footerSub: "The Art of Modern Tennis · The Neurological Edge · Cẩm Nang Chuyên Nghiệp v1.0",
-  }
+const LANG =,
+  vi:
 };
 
 // ─────────────────────────────────────────────
 // SVG ILLUSTRATIONS (shared, language-agnostic labels stored separately)
 // ─────────────────────────────────────────────
 
-function svgContactPoint() {
-  return `<svg viewBox="0 0 640 220" style="width:100%;display:block">
-  <defs><marker id="arr" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M2 1L8 5L2 9" fill="none" stroke="context-stroke" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></marker></defs>
-  <circle cx="320" cy="110" r="46" fill="#1B4D35"/>
-  <circle cx="320" cy="110" r="46" fill="none" stroke="#C8973A" stroke-width="2.5"/>
-  <text x="320" y="102" text-anchor="middle" font-family="Playfair Display,serif" font-size="13" fill="#F5F0E8" font-weight="700" id="cp-label1">Contact</text>
-  <text x="320" y="118" text-anchor="middle" font-family="Playfair Display,serif" font-size="13" fill="#F5F0E8" font-weight="700" id="cp-label2">Point</text>
-  <text x="320" y="134" text-anchor="middle" font-family="Crimson Pro,serif" font-size="10" fill="#C8973A" id="cp-label3">Invariant Target</text>
-  ${[
-    [60,28,"Grip","Face angle"],[60,140,"Stance","Body platform"],
-    [522,28,"Arm Config","Spatial position"],[522,140,"Footwork","Court movement"],
-    [210,188,"Rotation","Hip/shoulder"],[412,188,"Swing Path","Trajectory"],
-  ].map(([x,y,a,b])=>`
-  <rect x="${x-52}" y="${y-22}" width="104" height="44" rx="8" fill="#F5F0E8" stroke="#EAE4D8" stroke-width="0.8"/>
+function svgContactPoint" y="${y-22}" width="104" height="44" rx="8" fill="#F5F0E8" stroke="#EAE4D8" stroke-width="0.8"/>
   <text x="${x}" y="${y-4}" text-anchor="middle" font-family="Playfair Display,serif" font-size="12" fill="#1A1812" font-weight="600">${a}</text>
   <text x="${x}" y="${y+11}" text-anchor="middle" font-family="Crimson Pro,serif" font-size="10" fill="#7A7060">${b}</text>`).join('')}
-  ${[[112,50,278,86],[112,140,278,118],[470,50,362,86],[470,140,362,118],[262,176,302,150],[412,176,338,150]]
-    .map(([x1,y1,x2,y2])=>`<line x1="${x1}" y1="${y1}" x2="${x2}" y2="${y2}" stroke="#C8973A" stroke-width="1.2" marker-end="url(#arr)"/>`).join('')}
+  $" y1="${y1}" x2="${x2}" y2="${y2}" stroke="#C8973A" stroke-width="1.2" marker-end="url(#arr)"/>`).join('')}
   </svg>`;
 }
 
-function svgKinematicChain() {
-  const segs=[
-    ["Ground","",20,"#888"],["Legs","Chân",34,"#1B4D35"],["Hips","Hông",50,"#2D6B4A"],
-    ["Torso","Thân",66,"#1B4D35"],["Shoulder","Vai",82,"#0F2E1F"],
-    ["Elbow","Khuỷu",98,"#9A7020"],["Wrist","Cổ tay",112,"#C8973A"],["Racket Head","Đầu vợt",130,"#8B2020"],
-  ];
-  const bw=62,sp=76,baseY=180;
-  let out=`<svg viewBox="0 0 640 205" style="width:100%;display:block">
-  <text x="320" y="14" text-anchor="middle" font-family="Crimson Pro,serif" font-size="11" fill="#7A7060">Velocity increases distally — Whip Effect</text>`;
-  segs.forEach(([en,vi,h,col],i)=>{
-    const x=8+i*sp;
-    out+=`<rect x="${x}" y="${baseY-h}" width="${bw}" height="${h}" rx="5" fill="${col}" opacity="${.82+i*.02}"/>
+function svgKinematicChain" y="${baseY-h}" width="${bw}" height="${h}" rx="5" fill="${col}" opacity="$"/>
     <text x="${x+bw/2}" y="${baseY-h-7}" text-anchor="middle" font-family="Playfair Display,serif" font-size="10" fill="#1A1812" font-weight="600">${en}</text>
     <text x="${x+bw/2}" y="${baseY+13}" text-anchor="middle" font-family="Crimson Pro,serif" font-size="9" fill="#7A7060">${vi}</text>`;
     if(i<segs.length-1) out+=`<text x="${x+bw+4}" y="${baseY-h/2}" font-family="Crimson Pro,serif" font-size="14" fill="#C8973A">→</text>`;
@@ -354,43 +283,17 @@ function svgKinematicChain() {
   return out;
 }
 
-function svgGrips() {
-  const grips=[
-    ["Continental","Versatile",0,"#1B4D35",false],
-    ["Eastern FH","Flat","-10","#1A3D6B",false],
-    ["Semi-Western","Topspin ★","-22","#C8973A",true],
-    ["Western","Heavy TS","-35","#8B2020",false],
-    ["Eastern BH","Backhand","8","#3D1A6B",false],
-  ];
-  let out=`<svg viewBox="0 0 640 185" style="width:100%;display:block">`;
-  grips.forEach(([name,sub,angle,col,feat],i)=>{
-    const cx=64+i*118;
-    const rad=parseFloat(angle)*Math.PI/180;
-    const len=42;
-    const x2=cx+Math.sin(rad)*len, y2=120-Math.cos(rad)*len;
-    out+=`<rect x="${cx-52}" y="18" width="104" height="${feat?158:148}" rx="10" fill="${feat?'#1B4D35':'#F5F0E8'}" stroke="${feat?'#C8973A':col}" stroke-width="${feat?2:.8}"/>
+function svgGrips" y="18" width="104" height="${feat?158:148}" rx="10" fill="${feat?'#1B4D35':'#F5F0E8'}" stroke="${feat?'#C8973A':col}" stroke-width="$"/>
     <text x="${cx}" y="40" text-anchor="middle" font-family="Playfair Display,serif" font-size="${feat?12:11}" fill="${feat?'#F5F0E8':'#1A1812'}" font-weight="700">${name}</text>
     <text x="${cx}" y="56" text-anchor="middle" font-family="Crimson Pro,serif" font-size="10" fill="${feat?'#C8973A':'#7A7060'}">${sub}</text>
     <line x1="${cx}" y1="122" x2="${x2}" y2="${y2}" stroke="${feat?'#C8973A':col}" stroke-width="3" stroke-linecap="round"/>
     <circle cx="${cx}" cy="122" r="4" fill="${feat?'#C8973A':col}"/>
-    <text x="${cx}" y="${feat?166:156}" text-anchor="middle" font-family="Crimson Pro,serif" font-size="9" fill="${feat?'#C8973A':'#7A7060'}">${angle===0?'90° neutral':`${Math.abs(angle)}° ${parseFloat(angle)<0?'closed':'open'}`}</text>`;
+    <text x="${cx}" y="${feat?166:156}" text-anchor="middle" font-family="Crimson Pro,serif" font-size="9" fill="${feat?'#C8973A':'#7A7060'}">$° ${parseFloat(angle)<0?'closed':'open'}`}</text>`;
   });
   return out+`</svg>`;
 }
 
-function svgFiveLenses() {
-  const lenses=[
-    ["①","Contact Geometry","Height · distance · depth","#1B4D35"],
-    ["②","Grip Compatibility","Does grip match contact height?","#1A3D6B"],
-    ["③","Kinematic Chain","Check for energy leaks","#3D1A6B"],
-    ["④","Swing Path","Topspin · slice · flat","#9A7020"],
-    ["⑤","Margin Architecture","Net clearance · depth · timing","#8B2020"],
-  ];
-  let out=`<svg viewBox="0 0 640 295" style="width:100%;display:block">
-  <defs><marker id="arr4" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M2 1L8 5L2 9" fill="none" stroke="context-stroke" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></marker></defs>`;
-  lenses.slice(0,3).forEach(([n,t,s,c],i)=>{
-    const x=16+i*208;
-    out+=`<rect x="${x}" y="14" width="192" height="72" rx="10" fill="${c}"/>
+function svgFiveLenses" y="14" width="192" height="72" rx="10" fill="${c}"/>
     <text x="${x+96}" y="38" text-anchor="middle" font-family="Playfair Display,serif" font-size="22" fill="#F5F0E8" font-weight="700">${n}</text>
     <text x="${x+96}" y="56" text-anchor="middle" font-family="Playfair Display,serif" font-size="11" fill="#F5F0E8" font-weight="700">${t}</text>
     <text x="${x+96}" y="72" text-anchor="middle" font-family="Crimson Pro,serif" font-size="10" fill="rgba(245,240,232,.7)">${s}</text>`;
@@ -415,26 +318,7 @@ function svgFiveLenses() {
   return out;
 }
 
-function svgServe() {
-  return `<svg viewBox="0 0 640 260" style="width:100%;display:block">
-  <defs><marker id="arr2" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M2 1L8 5L2 9" fill="none" stroke="context-stroke" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></marker></defs>
-  <circle cx="320" cy="120" r="36" fill="#F5F0E8" stroke="#C8973A" stroke-width="2"/>
-  <text x="320" y="114" text-anchor="middle" font-family="Playfair Display,serif" font-size="13" fill="#C8973A" font-weight="700">BALL</text>
-  <text x="320" y="130" text-anchor="middle" font-family="Crimson Pro,serif" font-size="9" fill="#7A7060">Bóng</text>
-  <line x1="162" y1="40" x2="290" y2="91" stroke="#1B4D35" stroke-width="3" stroke-linecap="round" marker-end="url(#arr2)"/>
-  <rect x="42" y="16" width="158" height="42" rx="8" fill="#1B4D35" stroke="#C8973A" stroke-width="1"/>
-  <text x="121" y="32" text-anchor="middle" font-family="Playfair Display,serif" font-size="12" fill="#F5F0E8" font-weight="700">Hand Chops Down</text>
-  <text x="121" y="48" text-anchor="middle" font-family="Crimson Pro,serif" font-size="10" fill="#C8973A">Tay chặt xuống</text>
-  <line x1="352" y1="92" x2="486" y2="46" stroke="#C8973A" stroke-width="3" stroke-linecap="round" marker-end="url(#arr2)"/>
-  <rect x="448" y="18" width="176" height="42" rx="8" fill="#9A7020" stroke="#C8973A" stroke-width="1"/>
-  <text x="536" y="34" text-anchor="middle" font-family="Playfair Display,serif" font-size="12" fill="#F5F0E8" font-weight="700">Racket Head Up &amp; Through</text>
-  <text x="536" y="50" text-anchor="middle" font-family="Crimson Pro,serif" font-size="10" fill="#E8B85A">Đầu vợt lên &amp; qua</text>
-  ${[
-    [40,"Flat Serve","Toss: slightly in front","Contact: back-centre","Result: pace, low spin","#1A3D6B"],
-    [238,"Slice Serve","Toss: to the right","Contact: back-right","Result: sidespin, wide curve","#1B4D35"],
-    [436,"Kick Serve","Toss: behind head","Contact: back-left","Result: topspin + sidespin","#8B2020"],
-  ].map(([x,t,l1,l2,l3,c])=>`
-  <rect x="${x}" y="172" width="178" height="80" rx="8" fill="#F5F0E8" stroke="${c}" stroke-width="1.5"/>
+function svgServe" y="172" width="178" height="80" rx="8" fill="#F5F0E8" stroke="${c}" stroke-width="1.5"/>
   <text x="${x+89}" y="191" text-anchor="middle" font-family="Playfair Display,serif" font-size="12" fill="${c}" font-weight="700">${t}</text>
   <text x="${x+89}" y="207" text-anchor="middle" font-family="Crimson Pro,serif" font-size="10" fill="#7A7060">${l1}</text>
   <text x="${x+89}" y="221" text-anchor="middle" font-family="Crimson Pro,serif" font-size="10" fill="#7A7060">${l2}</text>
@@ -443,43 +327,12 @@ function svgServe() {
   </svg>`;
 }
 
-function svgForehand() {
-  return `<svg viewBox="0 0 640 250" style="width:100%;display:block">
-  <defs><marker id="arr3" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M2 1L8 5L2 9" fill="none" stroke="context-stroke" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></marker></defs>
-  <circle cx="320" cy="128" r="36" fill="#F5F0E8" stroke="#C8973A" stroke-width="2"/>
-  <text x="320" y="122" text-anchor="middle" font-family="Playfair Display,serif" font-size="13" fill="#C8973A" font-weight="700">BALL</text>
-  <text x="320" y="138" text-anchor="middle" font-family="Crimson Pro,serif" font-size="9" fill="#7A7060">Bóng</text>
-  <line x1="168" y1="208" x2="290" y2="155" stroke="#1B4D35" stroke-width="3" stroke-linecap="round" marker-end="url(#arr3)"/>
-  <rect x="28" y="192" width="174" height="42" rx="8" fill="#1B4D35" stroke="#2D6B4A" stroke-width="1"/>
-  <text x="115" y="208" text-anchor="middle" font-family="Playfair Display,serif" font-size="12" fill="#F5F0E8" font-weight="700">Hand from Behind-Low</text>
-  <text x="115" y="224" text-anchor="middle" font-family="Crimson Pro,serif" font-size="10" fill="#C8973A">Tay từ sau-thấp</text>
-  <line x1="350" y1="100" x2="480" y2="54" stroke="#1A3D6B" stroke-width="3" stroke-linecap="round" marker-end="url(#arr3)"/>
-  <rect x="442" y="28" width="188" height="42" rx="8" fill="#1A3D6B" stroke="#2A5D9A" stroke-width="1"/>
-  <text x="536" y="44" text-anchor="middle" font-family="Playfair Display,serif" font-size="12" fill="#F5F0E8" font-weight="700">Racket Brushes Up &amp; Through</text>
-  <text x="536" y="60" text-anchor="middle" font-family="Crimson Pro,serif" font-size="10" fill="#A0C8F0">Vợt chải lên &amp; qua</text>
-  <rect x="28" y="28" width="230" height="108" rx="8" fill="#F5F0E8" stroke="#C8973A" stroke-width="1.5"/>
-  <text x="143" y="52" text-anchor="middle" font-family="Playfair Display,serif" font-size="12" fill="#1B4D35" font-weight="700">Optimal Contact Zone</text>
-  <text x="143" y="70" text-anchor="middle" font-family="Crimson Pro,serif" font-size="10" fill="#7A7060">Ceiling: above shoulder → grip breaks</text>
-  <text x="143" y="87" text-anchor="middle" font-family="Playfair Display,serif" font-size="11" fill="#1B4D35" font-weight="600">★ Waist → shoulder = optimal</text>
-  <text x="143" y="104" text-anchor="middle" font-family="Crimson Pro,serif" font-size="10" fill="#7A7060">Floor: below knee → angle stressed</text>
-  <text x="143" y="122" text-anchor="middle" font-family="Crimson Pro,serif" font-size="10" fill="#1A3D6B" font-weight="500">Semi-Western makes topspin inevitable</text>
-  </svg>`;
-}
+function svgForehand
 
-function svgAxes() {
-  const axes=[
-    ["Serve","Chop ↓","Continental","#1B4D35"],
-    ["Forehand TS","Brush ↑","Semi-Western","#1A3D6B"],
-    ["BH Slice","↘ Down-fwd","Continental","#3D1A6B"],
-    ["Volley","■ Block","Continental","#8B2020"],
-  ];
-  let out=`<svg viewBox="0 0 640 195" style="width:100%;display:block">`;
-  axes.forEach(([label,dir,grip,col],i)=>{
-    const cx=16+i*156;
-    out+=`<rect x="${cx}" y="14" width="144" height="172" rx="10" fill="#F5F0E8" stroke="${col}" stroke-width="2"/>
+function svgAxes" y="14" width="144" height="172" rx="10" fill="#F5F0E8" stroke="${col}" stroke-width="2"/>
     <text x="${cx+72}" y="38" text-anchor="middle" font-family="Playfair Display,serif" font-size="12" fill="#1A1812" font-weight="700">${label}</text>
     <circle cx="${cx+72}" cy="92" r="22" fill="none" stroke="#C8973A" stroke-width="1.5"/>
-    <text x="${cx+72}" y="99" text-anchor="middle" font-family="Playfair Display,serif" font-size="20" fill="${col}" font-weight="700">${dir.slice(-1)}</text>
+    <text x="${cx+72}" y="99" text-anchor="middle" font-family="Playfair Display,serif" font-size="20" fill="${col}" font-weight="700">$</text>
     <text x="${cx+72}" y="130" text-anchor="middle" font-family="Crimson Pro,serif" font-size="11" fill="${col}" font-weight="600">${dir}</text>
     <text x="${cx+72}" y="148" text-anchor="middle" font-family="Crimson Pro,serif" font-size="10" fill="#7A7060">Grip:</text>
     <text x="${cx+72}" y="163" text-anchor="middle" font-family="Playfair Display,serif" font-size="11" fill="${col}" font-weight="700">${grip}</text>`;
@@ -487,46 +340,18 @@ function svgAxes() {
   return out+`</svg>`;
 }
 
-function svgOpSequence() {
-  const steps=[
-    ["1","DEFINE","Target contact geometry","Height · distance · depth","#1B4D35"],
-    ["2","SELECT","Grip matching the geometry","Grip-geometry must match","#1A3D6B"],
-    ["3","BUILD","Stance and body configuration","Scaffolding for the arm","#3D1A6B"],
-    ["4","SEQUENCE","Kinematic chain order","No energy leaks","#9A7020"],
-    ["5","DETERMINE","Swing path and spin intent","Topspin · slice · flat","#8B2020"],
-    ["6","EVALUATE","Margin architecture","Net · depth · timing window","#0F2E1F"],
-  ];
-  let out=`<svg viewBox="0 0 640 332" style="width:100%;display:block">
-  <defs><marker id="arr5" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M2 1L8 5L2 9" fill="none" stroke="context-stroke" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></marker></defs>`;
-  steps.forEach(([n,verb,desc,sub,col],i)=>{
-    const y=10+i*52;
-    out+=`<circle cx="42" cy="${y+24}" r="18" fill="${col}"/>
+function svgOpSequence" r="18" fill="${col}"/>
     <text x="42" y="${y+29}" text-anchor="middle" font-family="Playfair Display,serif" font-size="14" fill="#F5F0E8" font-weight="700">${n}</text>
-    <rect x="70" y="${y}" width="556" height="46" rx="8" fill="${i===0?col:'#F5F0E8'}" stroke="${col}" stroke-width="${i===0?0:1.5}"/>
+    <rect x="70" y="${y}" width="556" height="46" rx="8" fill="${i===0?col:'#F5F0E8'}" stroke="${col}" stroke-width="$"/>
     <text x="86" y="${y+16}" font-family="DM Mono,monospace" font-size="11" fill="${i===0?'#F5F0E8':col}" font-weight="500">${verb}</text>
     <text x="86" y="${y+31}" font-family="Playfair Display,serif" font-size="13" fill="${i===0?'#C8973A':'#1A1812'}" font-weight="600">${desc}</text>
-    <text x="430" y="${y+16}" font-family="Crimson Pro,serif" font-size="10" fill="${i===0?'rgba(245,240,232,.65)':'#7A7060'}">${sub}</text>`;
+    <text x="430" y="${y+16}" font-family="Crimson Pro,serif" font-size="10" fill="$">${sub}</text>`;
     if(i<5) out+=`<line x1="42" y1="${y+42}" x2="42" y2="${y+52}" stroke="#C8973A" stroke-width="1.5" marker-end="url(#arr5)"/>`;
   });
   return out+`</svg>`;
 }
 
-function svgSixPrinciples() {
-  const ps=[
-    ["①","Grip is a Constraint","Not a style preference","#1B4D35"],
-    ["②","Body is the Scaffold","Stance/rotation place the arm","#1A3D6B"],
-    ["③","Compensation Has Cost","Reduces timing window, reliability","#8B2020"],
-    ["④","Contact Point is Invariant","The fixed target everything serves","#9A7020"],
-    ["⑤","Grip Defines Ball Surface","Which quadrant is naturally accessible","#3D1A6B"],
-    ["⑥","Every Stroke Has an Axis","Axis = stroke's mechanical identity","#0F2E1F"],
-  ];
-  let out=`<svg viewBox="0 0 640 288" style="width:100%;display:block">
-  <rect x="20" y="8" width="600" height="36" rx="8" fill="#1B4D35"/>
-  <text x="320" y="26" text-anchor="middle" font-family="Playfair Display,serif" font-size="13" fill="#F5F0E8" font-weight="700">Six Universal Corollaries — Sáu Nguyên Lý Hệ Quả</text>`;
-  ps.forEach(([n,t,s,c],i)=>{
-    const col=i%2,row=Math.floor(i/2);
-    const x=20+col*310,y=58+row*76;
-    out+=`<rect x="${x}" y="${y}" width="294" height="64" rx="8" fill="#F5F0E8" stroke="${c}" stroke-width="1.5"/>
+function svgSixPrinciples" y="${y}" width="294" height="64" rx="8" fill="#F5F0E8" stroke="${c}" stroke-width="1.5"/>
     <text x="${x+18}" y="${y+22}" font-family="Playfair Display,serif" font-size="18" fill="${c}" font-weight="700">${n}</text>
     <text x="${x+44}" y="${y+22}" font-family="Playfair Display,serif" font-size="12" fill="#1A1812" font-weight="700" dominant-baseline="central">${t}</text>
     <text x="${x+12}" y="${y+42}" font-family="Crimson Pro,serif" font-size="11" fill="#7A7060">${s}</text>`;
@@ -539,39 +364,14 @@ function svgSixPrinciples() {
 // BILINGUAL CONTENT
 // ─────────────────────────────────────────────
 
-const CONTENT = {
-  en: {
-    s0: {
-      badge: ["0","Introduction — Core Principle"],
-      title: "Every Stroke Is a Contact Point Engineering Problem",
-      body: [
-        `<p class="body-text">Every tennis stroke, at its most fundamental level, is a <strong>contact point engineering problem</strong>. The entire kinematic chain — from stance to swing path — exists to deliver the racket face to a precise location in space, at a precise angle, with precise velocity.</p>`,
-        `<div class="axiom-card"><div class="axiom-eyebrow">Core Principle</div><div class="axiom-text">"The grip selects the axis. The body organises behind it. Everything else is delivery."</div><div class="axiom-sub">Kiến trúc điểm tiếp xúc — Contact Point Architecture</div></div>`,
-        `<div class="fig-box">${svgContactPoint()}<p class="fig-cap">Fig. 1 — The contact point is the invariant target; all technical elements serve it</p></div>`,
+const CONTENT =<p class="fig-cap">Fig. 1 — The contact point is the invariant target; all technical elements serve it</p></div>`,
         `<p class="body-text">While swing paths, grips, stances, and spin patterns vary between players and situations, the contact point — for a given stroke in a given situation — is the <em>fixed target</em> that everything else serves. This is why two players with radically different techniques can produce functionally equivalent strokes: they've built different roads to the same destination.</p>`,
         `<div class="callout green"><strong>Why is this the foundation?</strong> Once you accept that the contact point is the invariant, every other technical decision becomes <em>derivative</em> — a means to that end. Grip choice, stance, swing path, body rotation all become engineering choices in service of contact geometry.</div>`,
         `<h3 class="subtitle">Manual Structure</h3>`,
-        `<ol class="steps-list">${[
-          ["I","Two Critical Parameters — The only two things that matter at contact"],
-          ["II","Grip Styles — How grip determines accessible contact geometry"],
-          ["III","Five Analytical Lenses — The diagnostic framework"],
-          ["IV","The Serve — Continental's downward chop mechanism"],
-          ["V","The Forehand — Semi-Western's upward brush mechanism"],
-          ["VI","Mechanical Axes — Unified architecture across all strokes"],
-          ["VII","Operational Sequence — 6-step analysis and diagnosis"],
-          ["VIII","Six Universal Corollaries — Laws true for every stroke"],
-        ].map(([n,t])=>`<li><div class="step-n">${n}</div><div>${t}</div></li>`).join('')}</ol>`,
+        `<ol class="steps-list">$</div><div>${t}</div></li>`).join('')}</ol>`,
       ]
     },
-    s1: {
-      badge: ["I","Two Critical Parameters"],
-      title: "Two Parameters Determine Every Contact",
-      body: [
-        `<p class="body-text">Two parameters — and only two — determine whether a contact point is clean and sound. They are not independent: they interact, and that interaction is the heart of every technical analysis in tennis.</p>`,
-        `<div class="dual-cards"><div class="param-card"><div class="param-eyebrow">Parameter 1</div><div class="param-title">Racket Face Angle</div><div class="param-body">Determined by <strong>grip</strong>. Establishes the resting relationship between palm/wrist and string bed. This is the foundation that cannot be overridden mid-swing without compensation.</div></div><div class="param-card"><div class="param-eyebrow">Parameter 2</div><div class="param-title">Racket Position in Space</div><div class="param-body">Determined by <strong>arm and body configuration</strong>. Controls height, distance, and depth of contact simultaneously.</div></div></div>`,
-        `<h3 class="subtitle">The Kinematic Chain</h3>`,
-        `<p class="body-text">The three spatial parameters (height, distance, depth) are controlled by a layered hierarchy. Each proximal joint constrains what is possible at the joints downstream:</p>`,
-        `<div class="fig-box">${svgKinematicChain()}<p class="fig-cap">Fig. 2 — Whip effect: racket head reaches maximum velocity because the body has completed its work</p></div>`,
+    s1:<p class="fig-cap">Fig. 2 — Whip effect: racket head reaches maximum velocity because the body has completed its work</p></div>`,
         `<h3 class="subtitle">The Three Spatial Parameters</h3>`,
         `<div class="table-wrap"><table><thead><tr><th>Parameter</th><th>Definition</th><th>Controlled By</th></tr></thead><tbody>
           <tr><td><strong>Height</strong></td><td>Where in the strike zone — from below knee to above shoulder</td><td>Stance, hip rotation, arm extension</td></tr>
@@ -581,12 +381,7 @@ const CONTENT = {
         `<div class="callout red"><strong>Critical insight:</strong> The two parameters are not independent — they interact. Grip selects the mechanical axis; the body organises behind that axis. Every technical compensation in tennis originates from a mismatch between these two parameters.</div>`,
       ]
     },
-    s2: {
-      badge: ["II","Grip Styles"],
-      title: "Grip Is a Constraint, Not a Style Preference",
-      body: [
-        `<p class="body-text">Grip doesn't merely influence the stroke — it <em>determines</em> which contact geometries are physically accessible without compensation. Coaching must match grip to the contact geometry the player's game actually requires.</p>`,
-        `<div class="fig-box">${svgGrips()}<p class="fig-cap">Fig. 3 — Five main grip styles and their natural face angles (★ Semi-Western = modern topspin standard)</p></div>`,
+    s2:<p class="fig-cap">Fig. 3 — Five main grip styles and their natural face angles (★ Semi-Western = modern topspin standard)</p></div>`,
         `<div class="table-wrap"><table><thead><tr><th>Grip</th><th>Natural Face Angle</th><th>Optimal Contact Height</th><th>Wrist Freedom</th><th>Primary Use</th></tr></thead><tbody>
           <tr><td><strong>Continental</strong></td><td>Perpendicular / slightly open</td><td>Variable — highly versatile</td><td>Maximum</td><td>Serve, volley, slice, overhead</td></tr>
           <tr><td>Eastern FH</td><td>Slightly closed</td><td>Hip to shoulder</td><td>Moderate</td><td>Flat forehand, low topspin</td></tr>
@@ -600,12 +395,7 @@ const CONTENT = {
         `<div class="callout"><strong>The key coaching implication:</strong> This is why Continental is the only grip for serving — not convention, but mechanical necessity. It is the only grip geometry in which the hand's natural chopping drive maps to the full mechanical requirements of an overhead strike.</div>`,
       ]
     },
-    s3: {
-      badge: ["III","Five Analytical Lenses"],
-      title: "The Framework for Analysing Any Stroke",
-      body: [
-        `<p class="body-text">When diagnosing or designing any stroke, move through these five lenses in order. Working backward through the sequence is equally powerful for error diagnosis.</p>`,
-        `<div class="fig-box">${svgFiveLenses()}<p class="fig-cap">Fig. 4 — Five analytical lenses converging on complete diagnosis</p></div>`,
+    s3:<p class="fig-cap">Fig. 4 — Five analytical lenses converging on complete diagnosis</p></div>`,
         ...[
           ["①","Contact Point Geometry","#1B4D35","Define the target contact zone in three axes: Height (below knee / knee / hip / waist / shoulder / above shoulder), Distance (compressed / neutral / extended), Depth (behind / inline / in front of lead foot). This is the diagnostic anchor. When a stroke breaks down, map backward from a geometry failure at contact."],
           ["②","Grip–Contact Compatibility","#1A3D6B","The critical question: Does this grip naturally produce the correct face angle at the target contact geometry? Does the player need wrist compensation to correct the angle — and is that reliable under match pressure? This is where most beginner errors originate."],
@@ -617,13 +407,7 @@ const CONTENT = {
         ]),
       ]
     },
-    s4: {
-      badge: ["IV","The Serve — Continental Chop"],
-      title: "Continental Grip: The Downward Chopping Mechanism",
-      body: [
-        `<p class="body-text">Most coaching descriptions of the serve focus on <em>pronation</em> as the dominant action. But pronation is actually the <strong>consequence</strong> of a prior structural reality that the Continental grip creates.</p>`,
-        `<div class="callout green"><strong>Core insight:</strong> Continental places the hand above and behind the handle — the natural downward-and-forward drive of the hand through the hitting zone is a <strong>chopping action</strong> onto the back of the ball. The racket face is driven through the ball from high behind to low in front.</div>`,
-        `<div class="fig-box">${svgServe()}<p class="fig-cap">Fig. 5 — Continental's chopping mechanism produces all three serve variants from one movement</p></div>`,
+    s4:<p class="fig-cap">Fig. 5 — Continental's chopping mechanism produces all three serve variants from one movement</p></div>`,
         `<h3 class="subtitle">Why No Other Grip Works</h3>`,
         `<p class="body-text">In a hammer grip (Eastern/Western), the hand is beside or under the handle. The natural drive pushes the racket face flatly into the ball — correct for groundstrokes but structurally wrong for serving because:</p>`,
         `<ul class="bullet-list"><li>The ball is <strong>above</strong> the striker</li><li>The racket must travel <strong>upward and forward</strong> then <strong>down and through</strong></li><li>Spin requires the edge to <strong>lead into contact</strong> before the face opens</li></ul>`,
@@ -638,13 +422,7 @@ const CONTENT = {
         `<div class="callout red"><strong>The most common coaching error:</strong> Teaching pronation as a deliberate act produces a "cast" — players rotate the forearm prematurely, losing edge-leading geometry and spin control. The chop produces pronation; pronation does not produce the chop.</div>`,
       ]
     },
-    s5: {
-      badge: ["V","The Forehand — Semi-Western Brush"],
-      title: "Semi-Western: The Upward Brushing Mechanism",
-      body: [
-        `<p class="body-text">The serve and the forehand are not different animals — they are <strong>the same chopping/brushing principle applied to different spatial orientations</strong>.</p>`,
-        `<div class="axiom-card"><div class="axiom-eyebrow">The Unifying Geometry</div><div class="axiom-text">Serve: hand above/behind → chops <em>DOWN</em> through ball<br>Forehand: hand above/behind → brushes <em>UP</em> through ball</div><div class="axiom-sub">Same hand-behind-handle relationship — different spatial axis</div></div>`,
-        `<div class="fig-box">${svgForehand()}<p class="fig-cap">Fig. 6 — Semi-Western brushes from low-behind to high-in-front, making topspin the path of least resistance</p></div>`,
+    s5:<p class="fig-cap">Fig. 6 — Semi-Western brushes from low-behind to high-in-front, making topspin the path of least resistance</p></div>`,
         `<h3 class="subtitle">Why Semi-Western Makes Topspin Natural</h3>`,
         `<p class="body-text">In Semi-Western grip, the base knuckle sits on bevel 4, placing the palm <strong>above and behind</strong> the handle at waist-to-shoulder contact height. The natural upward drive brushes the back-top quadrant of the ball. This is not a deliberate wrist action — it is a <em>structurally inevitable outcome</em> of grip geometry meeting the upward swing path. Topspin becomes the path of least resistance.</p>`,
         `<h3 class="subtitle">The Body-Behind Principle</h3>`,
@@ -664,12 +442,7 @@ const CONTENT = {
         `<div class="callout blue"><strong>Why elite forehands generate disproportionate power with minimal visible effort:</strong> The effort happened upstream in the kinematic chain. The hand-behind geometry converts it efficiently at contact. When both elements are present, the result exceeds the sum of the parts.</div>`,
       ]
     },
-    s6: {
-      badge: ["VI","Mechanical Axes"],
-      title: "Unified Architecture Across All Strokes",
-      body: [
-        `<p class="body-text">Every stroke has a <strong>primary mechanical axis</strong>: the direction in which the hand-behind-handle relationship drives the racket through the ball. Identifying this axis for any stroke immediately reveals the correct grip, natural contact height range, swing plane, and spin produced.</p>`,
-        `<div class="fig-box">${svgAxes()}<p class="fig-cap">Fig. 7 — Mechanical axis defines each stroke's identity: grip, height, plane and spin</p></div>`,
+    s6:<p class="fig-cap">Fig. 7 — Mechanical axis defines each stroke's identity: grip, height, plane and spin</p></div>`,
         `<div class="table-wrap"><table><thead><tr><th>Stroke</th><th>Primary Mechanical Axis</th><th>Natural Grip</th><th>Optimal Height</th><th>Spin Produced</th></tr></thead><tbody>
           <tr><td><strong>Serve</strong></td><td>Downward chop</td><td>Continental</td><td>Full extension overhead</td><td>Variable: flat/slice/kick</td></tr>
           <tr><td><strong>Forehand topspin</strong></td><td>Upward brush</td><td>Semi-Western</td><td>Waist to shoulder</td><td>Topspin — structurally inevitable</td></tr>
@@ -683,12 +456,7 @@ const CONTENT = {
         `<div class="dual-cards"><div class="param-card"><div class="param-eyebrow">Serve</div><div class="param-title">Ball above → Chop ↓</div><div class="param-body">Ball is overhead → chop downward is needed → Continental places hand <strong>above</strong> handle → natural chop</div></div><div class="param-card"><div class="param-eyebrow">Forehand</div><div class="param-title">Ball in front → Brush ↑</div><div class="param-body">Ball is in front at waist → brush upward needed → Semi-Western places hand <strong>above</strong> handle → natural brush</div></div></div>`,
       ]
     },
-    s7: {
-      badge: ["VII","Operational Sequence"],
-      title: "The 6-Step Analysis and Diagnostic Process",
-      body: [
-        `<p class="body-text">When diagnosing or designing any stroke, move through this sequence. Working backward is equally powerful for identifying the root cause of errors.</p>`,
-        `<div class="fig-box">${svgOpSequence()}<p class="fig-cap">Fig. 8 — Six-step operational sequence for stroke analysis and design</p></div>`,
+    s7:<p class="fig-cap">Fig. 8 — Six-step operational sequence for stroke analysis and design</p></div>`,
         `<h3 class="subtitle">Compensation Matrix — The Cost of Mismatched Technique</h3>`,
         `<div class="table-wrap"><table><thead><tr><th>Technical Error</th><th>Compensation Created</th><th>Cost / Trade-off</th></tr></thead><tbody>
           <tr><td>Grip-geometry mismatch</td><td>Compensatory wrist roll</td><td>Narrower timing window, unreliable under pressure</td></tr>
@@ -709,12 +477,7 @@ const CONTENT = {
         `<div class="callout green"><strong>From aesthetic judgment to mechanical diagnosis:</strong> This framework converts "that looks off" into "the grip-geometry mismatch is forcing a late pronation compensation that collapses under wide balls" — a diagnosis you can act on immediately in practice.</div>`,
       ]
     },
-    s8: {
-      badge: ["VIII","Six Universal Corollaries"],
-      title: "Laws True for Every Stroke in Tennis",
-      body: [
-        `<p class="body-text">These six corollaries hold across every stroke — groundstrokes, volleys, serves, overheads, and specialty shots — and form the complete conceptual foundation of the framework.</p>`,
-        `<div class="fig-box">${svgSixPrinciples()}<p class="fig-cap">Fig. 9 — Six universal corollaries of the Contact Point Architecture Framework</p></div>`,
+    s8:<p class="fig-cap">Fig. 9 — Six universal corollaries of the Contact Point Architecture Framework</p></div>`,
         ...[
           ["①","#1B4D35","Grip Is a Constraint, Not a Style Preference","Grip doesn't just influence the stroke — it determines which contact geometries are physically accessible without compensation. Coaching must match grip to the contact geometry the player's game actually requires. This is mechanical necessity, not convention."],
           ["②","#1A3D6B","The Body Is the Scaffold for the Arm","The arm doesn't place itself in space — the body places the arm. Footwork, stance, and rotation are the engineering infrastructure that determines where in space the arm <em>can</em> be at contact. No good body scaffold, no good contact position."],
@@ -729,38 +492,14 @@ const CONTENT = {
       ]
     },
   },
-  vi: {
-    s0: {
-      badge: ["0","Giới Thiệu — Nguyên Lý Cốt Lõi"],
-      title: "Mọi Cú Đánh Là Một Bài Toán Kỹ Thuật Điểm Tiếp Xúc",
-      body: [
-        `<p class="body-text">Mỗi cú đánh trong tennis, ở cấp độ căn bản nhất, là một <strong>bài toán kỹ thuật về điểm tiếp xúc</strong>. Toàn bộ chuỗi động học — từ tư thế đứng đến quỹ đạo vung vợt — tồn tại với một mục đích duy nhất: đưa mặt vợt đến một vị trí chính xác trong không gian, ở một góc chính xác, với vận tốc chính xác.</p>`,
-        `<div class="axiom-card"><div class="axiom-eyebrow">Nguyên Lý Cốt Lõi</div><div class="axiom-text">"Grip xác định trục. Cơ thể tổ chức đằng sau nó. Mọi thứ còn lại là cách thực hiện."</div><div class="axiom-sub">"The grip selects the axis. The body organises behind it. Everything else is delivery."</div></div>`,
-        `<div class="fig-box">${svgContactPoint()}<p class="fig-cap">Hình 1 — Điểm tiếp xúc là đích bất biến; mọi yếu tố kỹ thuật phục vụ nó</p></div>`,
+  vi:<p class="fig-cap">Hình 1 — Điểm tiếp xúc là đích bất biến; mọi yếu tố kỹ thuật phục vụ nó</p></div>`,
         `<p class="body-text">Trong khi quỹ đạo vung vợt, grip, tư thế và biên dạng xoáy đều biến đổi giữa các vận động viên, điểm tiếp xúc — đối với một cú đánh cụ thể trong tình huống cụ thể — là <em>đích cố định</em> mà mọi yếu tố kỹ thuật phục vụ. Đây là lý do tại sao hai vận động viên với kỹ thuật hoàn toàn khác nhau có thể tạo ra cú đánh có hiệu quả tương đương.</p>`,
         `<div class="callout green"><strong>Tại sao đây là nền tảng?</strong> Khi bạn chấp nhận rằng điểm tiếp xúc là bất biến, mọi quyết định kỹ thuật khác trở thành <em>phái sinh</em> — một phương tiện để đạt mục đích đó. Grip, tư thế, quỹ đạo vung vợt, xoay cơ thể đều trở thành lựa chọn kỹ thuật phục vụ hình học tiếp xúc.</div>`,
         `<h3 class="subtitle">Cấu Trúc Cẩm Nang</h3>`,
-        `<ol class="steps-list">${[
-          ["I","Hai Tham Số — Hai điều duy nhất quan trọng tại điểm tiếp xúc"],
-          ["II","Kiểu Grip — Grip xác định hình học tiếp xúc có thể tiếp cận"],
-          ["III","Năm Lăng Kính — Framework chẩn đoán"],
-          ["IV","Giao Bóng — Cơ chế chặt xuống của Continental"],
-          ["V","Forehand — Cơ chế chải lên của Semi-Western"],
-          ["VI","Trục Cơ Học — Kiến trúc thống nhất xuyên suốt cú đánh"],
-          ["VII","Quy Trình Vận Hành — Phân tích và chẩn đoán 6 bước"],
-          ["VIII","Sáu Nguyên Lý Hệ Quả — Đúng cho mọi cú đánh"],
-        ].map(([n,t])=>`<li><div class="step-n">${n}</div><div>${t}</div></li>`).join('')}</ol>`,
+        `<ol class="steps-list">$</div><div>${t}</div></li>`).join('')}</ol>`,
       ]
     },
-    s1: {
-      badge: ["I","Hai Tham Số Quyết Định"],
-      title: "Hai Tham Số Quyết Định Mọi Tiếp Xúc",
-      body: [
-        `<p class="body-text">Hai tham số — và chỉ hai — quyết định liệu điểm tiếp xúc có sạch và vững hay không. Chúng không độc lập: chúng tương tác, và sự tương tác đó là trái tim của mọi phân tích kỹ thuật tennis.</p>`,
-        `<div class="dual-cards"><div class="param-card"><div class="param-eyebrow">Tham Số 1</div><div class="param-title">Góc Mặt Vợt</div><div class="param-body">Được xác định bởi <strong>grip</strong>. Xác lập mối quan hệ nghỉ giữa lòng bàn tay và mặt vợt — nền tảng không thể bị thay thế giữa chừng mà không cần bù trừ.</div></div><div class="param-card"><div class="param-eyebrow">Tham Số 2</div><div class="param-title">Vị Trí Vợt Trong Không Gian</div><div class="param-body">Được xác định bởi <strong>cấu hình cánh tay và cơ thể</strong>. Kiểm soát chiều cao, khoảng cách và chiều sâu của tiếp xúc đồng thời.</div></div></div>`,
-        `<h3 class="subtitle">Chuỗi Phân Cấp Động Học</h3>`,
-        `<p class="body-text">Ba tham số không gian (chiều cao, khoảng cách, chiều sâu) được kiểm soát bởi một hệ phân cấp. Mỗi khớp phía trên ràng buộc những gì có thể xảy ra ở khớp dưới:</p>`,
-        `<div class="fig-box">${svgKinematicChain()}<p class="fig-cap">Hình 2 — Hiệu ứng roi da: đầu vợt đạt tốc độ tối đa khi cơ thể đã hoàn thành công việc</p></div>`,
+    s1:<p class="fig-cap">Hình 2 — Hiệu ứng roi da: đầu vợt đạt tốc độ tối đa khi cơ thể đã hoàn thành công việc</p></div>`,
         `<h3 class="subtitle">Ba Tham Số Không Gian</h3>`,
         `<div class="table-wrap"><table><thead><tr><th>Tham Số</th><th>Định Nghĩa</th><th>Kiểm Soát Bởi</th></tr></thead><tbody>
           <tr><td><strong>Chiều cao</strong></td><td>Vị trí trong vùng đánh — từ dưới đầu gối đến trên vai</td><td>Tư thế, xoay hông, duỗi tay</td></tr>
@@ -770,12 +509,7 @@ const CONTENT = {
         `<div class="callout red"><strong>Nguyên lý quan trọng:</strong> Hai tham số không độc lập — chúng tương tác. Grip chọn trục cơ học; cơ thể tổ chức đằng sau trục đó. Mọi sự bù trừ kỹ thuật bắt nguồn từ sự không khớp giữa hai tham số này.</div>`,
       ]
     },
-    s2: {
-      badge: ["II","Các Kiểu Grip"],
-      title: "Grip Là Ràng Buộc, Không Phải Sở Thích Phong Cách",
-      body: [
-        `<p class="body-text">Grip không chỉ ảnh hưởng đến cú đánh — nó <em>xác định</em> những hình học tiếp xúc nào có thể tiếp cận mà không cần bù trừ. Huấn luyện phải khớp grip với hình học tiếp xúc mà trò chơi của vận động viên thực sự yêu cầu.</p>`,
-        `<div class="fig-box">${svgGrips()}<p class="fig-cap">Hình 3 — Năm kiểu grip chính và góc mặt vợt tự nhiên (★ Semi-Western = tiêu chuẩn topspin hiện đại)</p></div>`,
+    s2:<p class="fig-cap">Hình 3 — Năm kiểu grip chính và góc mặt vợt tự nhiên (★ Semi-Western = tiêu chuẩn topspin hiện đại)</p></div>`,
         `<div class="table-wrap"><table><thead><tr><th>Kiểu Grip</th><th>Góc Mặt Vợt Tự Nhiên</th><th>Chiều Cao Tối Ưu</th><th>Tự Do Cổ Tay</th><th>Ứng Dụng Chính</th></tr></thead><tbody>
           <tr><td><strong>Continental</strong></td><td>Vuông góc / hơi mở</td><td>Linh hoạt — đa dụng</td><td>Tối đa</td><td>Giao bóng, volley, slice, overhead</td></tr>
           <tr><td>Eastern FH</td><td>Hơi đóng nhẹ</td><td>Ngang hông đến vai</td><td>Trung bình</td><td>Forehand phẳng, ít topspin</td></tr>
@@ -789,12 +523,7 @@ const CONTENT = {
         `<div class="callout"><strong>Hàm ý huấn luyện:</strong> Đây là lý do tại sao Continental là grip duy nhất cho giao bóng — không phải vì truyền thống, mà vì <em>tất yếu cơ học</em>. Đây là kiểu grip duy nhất mà chuyển động tự nhiên của bàn tay ánh xạ đến toàn bộ yêu cầu cơ học của cú đánh trên đầu.</div>`,
       ]
     },
-    s3: {
-      badge: ["III","Năm Lăng Kính Phân Tích"],
-      title: "Framework Phân Tích Bất Kỳ Cú Đánh",
-      body: [
-        `<p class="body-text">Khi chẩn đoán hay thiết kế bất kỳ cú đánh nào, áp dụng năm lăng kính theo thứ tự từ trên xuống. Hoạt động ngược lại cũng có sức mạnh tương đương để chẩn đoán lỗi.</p>`,
-        `<div class="fig-box">${svgFiveLenses()}<p class="fig-cap">Hình 4 — Năm lăng kính phân tích phân tầng hướng đến chẩn đoán hoàn chỉnh</p></div>`,
+    s3:<p class="fig-cap">Hình 4 — Năm lăng kính phân tích phân tầng hướng đến chẩn đoán hoàn chỉnh</p></div>`,
         ...[
           ["①","Hình Học Điểm Tiếp Xúc","#1B4D35","Xác định vùng tiếp xúc mục tiêu theo ba trục: Chiều cao (dưới đầu gối / đầu gối / hông / ngang eo / vai / trên vai), Khoảng cách (co vào / trung lập / duỗi ra), Chiều sâu (phía sau / ngang hàng / phía trước chân trước). Đây là mỏ neo chẩn đoán — khi cú đánh sụp đổ, hãy truy ngược từ lỗi hình học."],
           ["②","Tương Thích Grip–Tiếp Xúc","#1A3D6B","Câu hỏi then chốt: Grip này có tự nhiên tạo ra góc mặt vợt chính xác tại hình học tiếp xúc mục tiêu không? Người chơi có cần bù trừ cổ tay không — và điều đó có đáng tin cậy dưới áp lực thi đấu không? Đây là nơi hầu hết lỗi của người mới phát sinh."],
@@ -806,13 +535,7 @@ const CONTENT = {
         ]),
       ]
     },
-    s4: {
-      badge: ["IV","Giao Bóng — Cơ Chế Chặt"],
-      title: "Continental Grip: Cơ Chế Chặt Hướng Xuống",
-      body: [
-        `<p class="body-text">Hầu hết mô tả kỹ thuật giao bóng tập trung vào <em>pronation</em> như hành động chủ đạo. Nhưng pronation thực ra là <strong>hệ quả</strong> của một thực tế cơ học trước đó mà Continental grip tạo ra.</p>`,
-        `<div class="callout green"><strong>Insight cốt lõi:</strong> Continental đặt bàn tay phía trên và sau cán vợt — chuyển động tự nhiên xuống-và-ra trước của bàn tay qua vùng đánh là một <strong>hành động chặt</strong> vào mặt sau của bóng. Mặt vợt được dẫn động từ phía cao sau xuống thấp trước.</div>`,
-        `<div class="fig-box">${svgServe()}<p class="fig-cap">Hình 5 — Cơ chế chặt của Continental tạo ra ba biến thể giao bóng từ một chuyển động</p></div>`,
+    s4:<p class="fig-cap">Hình 5 — Cơ chế chặt của Continental tạo ra ba biến thể giao bóng từ một chuyển động</p></div>`,
         `<h3 class="subtitle">Tại Sao Không Grip Nào Khác Hoạt Động</h3>`,
         `<p class="body-text">Trong grip kiểu búa (Eastern/Western), bàn tay ở bên cạnh hoặc dưới cán. Chuyển động tự nhiên đẩy mặt vợt phẳng vào bóng — đúng cho groundstroke nhưng sai cơ học cho giao bóng vì:</p>`,
         `<ul class="bullet-list"><li>Bóng ở <strong>phía trên</strong> người đánh</li><li>Vợt phải di chuyển <strong>lên và ra trước</strong> rồi <strong>xuống và qua</strong></li><li>Xoáy yêu cầu cạnh vợt dẫn <strong>trước khi</strong> mặt mở ra</li></ul>`,
@@ -827,13 +550,7 @@ const CONTENT = {
         `<div class="callout red"><strong>Lỗi huấn luyện phổ biến nhất:</strong> Dạy pronation như hành động cố ý tạo ra "cast" — người chơi xoay cẳng tay sớm, mất hình học cạnh-dẫn và kiểm soát xoáy. Hành động chặt tạo ra pronation; pronation không tạo ra hành động chặt.</div>`,
       ]
     },
-    s5: {
-      badge: ["V","Forehand — Semi-Western Chải"],
-      title: "Semi-Western: Cơ Chế Chải Hướng Lên",
-      body: [
-        `<p class="body-text">Giao bóng và forehand không phải là hai sinh vật khác nhau — chúng là <strong>cùng nguyên tắc chặt/chải áp dụng cho các hướng không gian khác nhau</strong>.</p>`,
-        `<div class="axiom-card"><div class="axiom-eyebrow">Hình Học Thống Nhất</div><div class="axiom-text">Giao bóng: tay trên/sau → chặt <em>XUỐNG</em> qua bóng<br>Forehand: tay trên/sau → chải <em>LÊN</em> qua bóng</div><div class="axiom-sub">Cùng mối quan hệ tay-sau-cán — trục không gian khác nhau</div></div>`,
-        `<div class="fig-box">${svgForehand()}<p class="fig-cap">Hình 6 — Semi-Western chải từ thấp-sau lên cao-trước, topspin là con đường tự nhiên</p></div>`,
+    s5:<p class="fig-cap">Hình 6 — Semi-Western chải từ thấp-sau lên cao-trước, topspin là con đường tự nhiên</p></div>`,
         `<h3 class="subtitle">Tại Sao Semi-Western Làm Topspin Tự Nhiên</h3>`,
         `<p class="body-text">Trong Semi-Western, gốc khớp ngón trỏ ở mặt 4, đặt lòng bàn tay <strong>phía trên và sau</strong> cán vợt tại chiều cao tiếp xúc eo-vai. Chuyển động lên tự nhiên chải phần tư sau-trên của bóng. Đây không phải hành động cổ tay cố ý — đây là <em>kết quả tất yếu về cơ học</em> của hình học grip gặp quỹ đạo lên. Topspin trở thành con đường ít cản trở nhất.</p>`,
         `<h3 class="subtitle">Nguyên Lý Cơ Thể Đằng Sau Cú Đánh</h3>`,
@@ -853,12 +570,7 @@ const CONTENT = {
         `<div class="callout blue"><strong>Tại sao forehand đỉnh cao dường như tạo sức mạnh không tương xứng:</strong> Công sức đã xảy ra ở thượng nguồn trong chuỗi động học, và hình học tay-đằng-sau chuyển đổi nó hiệu quả tại tiếp xúc. Khi cả hai yếu tố cùng có mặt, kết quả vượt xa tổng các thành phần.</div>`,
       ]
     },
-    s6: {
-      badge: ["VI","Trục Cơ Học"],
-      title: "Sự Thống Nhất Kiến Trúc Xuyên Suốt Các Cú Đánh",
-      body: [
-        `<p class="body-text">Mỗi cú đánh có một <strong>trục cơ học chính</strong>: hướng trong đó mối quan hệ tay-đằng-sau-cán dẫn động vợt qua bóng. Xác định trục này cho bất kỳ cú đánh nào ngay lập tức cho biết grip đúng, chiều cao tự nhiên, mặt phẳng vung và xoáy được tạo ra.</p>`,
-        `<div class="fig-box">${svgAxes()}<p class="fig-cap">Hình 7 — Trục cơ học xác định danh tính mỗi cú đánh: grip, chiều cao, mặt phẳng và xoáy</p></div>`,
+    s6:<p class="fig-cap">Hình 7 — Trục cơ học xác định danh tính mỗi cú đánh: grip, chiều cao, mặt phẳng và xoáy</p></div>`,
         `<div class="table-wrap"><table><thead><tr><th>Cú Đánh</th><th>Trục Cơ Học Chính</th><th>Grip Tự Nhiên</th><th>Chiều Cao Tối Ưu</th><th>Xoáy Tạo Ra</th></tr></thead><tbody>
           <tr><td><strong>Giao bóng</strong></td><td>Chặt xuống</td><td>Continental</td><td>Đỉnh duỗi tay</td><td>Biến đổi: flat/slice/kick</td></tr>
           <tr><td><strong>Forehand topspin</strong></td><td>Chải lên</td><td>Semi-Western</td><td>Eo đến vai</td><td>Topspin — tất yếu cơ học</td></tr>
@@ -872,12 +584,7 @@ const CONTENT = {
         `<div class="dual-cards"><div class="param-card"><div class="param-eyebrow">Giao Bóng</div><div class="param-title">Bóng trên → Chặt ↓</div><div class="param-body">Bóng ở trên đầu → cần chặt xuống → Continental đặt tay <strong>trên</strong> cán → chặt tự nhiên</div></div><div class="param-card"><div class="param-eyebrow">Forehand</div><div class="param-title">Bóng phía trước → Chải ↑</div><div class="param-body">Bóng ở trước tại ngang eo → cần chải lên → Semi-W đặt tay <strong>trên</strong> cán → chải tự nhiên</div></div></div>`,
       ]
     },
-    s7: {
-      badge: ["VII","Quy Trình Vận Hành"],
-      title: "Quy Trình Phân Tích và Chẩn Đoán 6 Bước",
-      body: [
-        `<p class="body-text">Khi chẩn đoán hoặc thiết kế bất kỳ cú đánh nào, di chuyển qua chuỗi 6 bước. Hoạt động ngược lại cũng có sức mạnh tương đương để xác định nguyên nhân gốc rễ của lỗi.</p>`,
-        `<div class="fig-box">${svgOpSequence()}<p class="fig-cap">Hình 8 — Sáu bước phân tích và thiết kế cú đánh theo thứ tự vận hành</p></div>`,
+    s7:<p class="fig-cap">Hình 8 — Sáu bước phân tích và thiết kế cú đánh theo thứ tự vận hành</p></div>`,
         `<h3 class="subtitle">Ma Trận Bù Trừ — Chi Phí Kỹ Thuật Không Khớp</h3>`,
         `<div class="table-wrap"><table><thead><tr><th>Lỗi Kỹ Thuật</th><th>Bù Trừ Được Tạo Ra</th><th>Chi Phí Đánh Đổi</th></tr></thead><tbody>
           <tr><td>Grip-hình học không khớp</td><td>Lăn cổ tay bù trừ</td><td>Cửa sổ timing hẹp, không ổn định dưới áp lực</td></tr>
@@ -898,12 +605,7 @@ const CONTENT = {
         `<div class="callout green"><strong>Từ phán xét thẩm mỹ đến chẩn đoán cơ học:</strong> Framework này chuyển đổi từ "trông có vẻ sai" thành "sự không khớp grip-hình học đang buộc bù trừ pronation muộn sụp đổ dưới bóng rộng" — chẩn đoán có thể hành động ngay trong buổi luyện tập.</div>`,
       ]
     },
-    s8: {
-      badge: ["VIII","Sáu Nguyên Lý Hệ Quả"],
-      title: "Sáu Nguyên Lý Đúng Cho Mọi Cú Đánh",
-      body: [
-        `<p class="body-text">Sáu nguyên lý này đúng cho mọi cú đánh trong tennis — groundstroke, volley, giao bóng, overhead và cú đặc biệt — và tạo thành nền tảng khái niệm hoàn chỉnh của framework.</p>`,
-        `<div class="fig-box">${svgSixPrinciples()}<p class="fig-cap">Hình 9 — Sáu nguyên lý hệ quả toàn diện của framework kiến trúc điểm tiếp xúc</p></div>`,
+    s8:<p class="fig-cap">Hình 9 — Sáu nguyên lý hệ quả toàn diện của framework kiến trúc điểm tiếp xúc</p></div>`,
         ...[
           ["①","#1B4D35","Grip Là Ràng Buộc, Không Phải Sở Thích Phong Cách","Grip không chỉ ảnh hưởng — nó xác định những hình học tiếp xúc nào có thể tiếp cận mà không cần bù trừ. Huấn luyện phải khớp grip với hình học tiếp xúc mà trò chơi của vận động viên thực sự yêu cầu. Đây là tất yếu cơ học, không phải quy ước."],
           ["②","#1A3D6B","Cơ Thể Là Giàn Giáo Cho Cánh Tay","Cánh tay không tự đặt mình vào không gian — cơ thể đặt cánh tay. Bước chân, tư thế và xoay là cơ sở hạ tầng kỹ thuật xác định cánh tay CÓ THỂ ở đâu tại điểm tiếp xúc. Không có giàn giáo tốt, không có vị trí tiếp xúc tốt."],
@@ -927,69 +629,42 @@ let currentLang = 'en';
 let currentSection = 's0';
 const sectionIds = ['s0','s1','s2','s3','s4','s5','s6','s7','s8'];
 
-function renderNav() {
-  const L = LANG[currentLang];
-  // Top nav
-  const navLinks = document.getElementById('nav-links');
-  navLinks.innerHTML = sectionIds.map((id,i)=>
-    `<button class="nav-btn${id===currentSection?' active':''}" onclick="showSection('${id}')">${L.navBtns[i]}</button>`
+function renderNav" onclick="showSection('${id}')">$</button>`
   ).join('');
   // Sidebar
   const sb = document.getElementById('sidebar-nav');
-  sb.innerHTML = sectionIds.map((id,i)=>{
-    const [main,sub] = L.sbLabels[i];
-    return `<button class="sb-btn${id===currentSection?' active':''}" onclick="showSection('${id}')">
+  sb.innerHTML = sectionIds.map((id,i)=>" onclick="showSection('${id}')">
       <div class="sb-num">${i===0?'0':['I','II','III','IV','V','VI','VII','VIII'][i-1]}</div>
       <div class="sb-label"><div style="font-weight:600;font-size:13px">${main}</div><div style="font-size:11px;opacity:.65">${sub}</div></div>
     </button>`;
   }).join('');
 }
 
-function renderSection(id) {
-  const data = CONTENT[currentLang][id];
-  if(!data) return;
-  const el = document.getElementById(`section-${id}`);
-  const badgeHtml = `<div class="section-badge"><div class="badge-num">${data.badge[0]}</div><div class="badge-label">${data.badge[1]}</div></div>`;
-  const titleHtml = `<h1 class="section-title">${data.title}</h1>`;
+function renderSection(id)`);
+  const badgeHtml = `<div class="section-badge"><div class="badge-num">$</div><div class="badge-label">$</div></div>`;
+  const titleHtml = `<h1 class="section-title">$</h1>`;
   el.innerHTML = badgeHtml + titleHtml + data.body.join('');
 }
 
-function showSection(id) {
-  document.querySelectorAll('.section-page').forEach(el=>el.classList.remove('visible'));
-  const target = document.getElementById(`section-${id}`);
-  if(target){target.classList.add('visible');}
+function showSection(id)`);
+  if(target)
   currentSection = id;
-  renderNav();
-  window.scrollTo({top: document.getElementById('main-content').offsetTop - 60, behavior:'smooth'});
+  renderNav;
+  window.scrollTo;
 }
 
-function setLang(lang) {
-  currentLang = lang;
-  document.getElementById('lang-en').classList.toggle('active', lang==='en');
-  document.getElementById('lang-vi').classList.toggle('active', lang==='vi');
-  const L = LANG[lang];
-  // Hero
-  document.getElementById('hero-eyebrow').textContent = L.heroEyebrow;
-  document.getElementById('hero-title').innerHTML = L.heroTitle;
-  document.getElementById('hero-sub').textContent = L.heroSub;
-  document.getElementById('hero-desc').textContent = L.heroDesc;
-  document.getElementById('hero-axiom').textContent = L.heroAxiom;
-  document.getElementById('hero-cta-text').textContent = L.heroCta;
-  L.hs.forEach((t,i)=>{ const el=document.getElementById(`hs${i+1}`); if(el)el.textContent=t; });
+function setLang(lang)`); if(el)el.textContent=t; });
   // Footer
   document.getElementById('footer-title').textContent = L.footerTitle;
   document.getElementById('footer-sub').textContent = L.footerSub;
   // Re-render all sections
   sectionIds.forEach(id=>renderSection(id));
-  renderNav();
+  renderNav;
   document.documentElement.lang = lang;
 }
 
 // Init
-window.addEventListener('DOMContentLoaded', ()=>{
-  sectionIds.forEach(id=>renderSection(id));
-  renderNav();
-});
+window.addEventListener('DOMContentLoaded', =>);
 </script>
 </body>
 </html>

@@ -58,7 +58,7 @@ confidence](media_world-class-movement/media/image2.webp)
 **Roger Federer demonstrates the 5 Components that Complete the Circle
 in world class movement.**
 
-**[The 5R's are:]{.underline}**
+**[The 5R's are:]**
 
   ---------------------------------------------------------------------------
   1\.   **Ready.** Being ready means have your weight up, on the toes and the
@@ -144,7 +144,7 @@ Long time subscribers of Tennisplayer may remember my previous multiple
 part articles identifying the Contact Moves and their characteristics
 with video examples of elite pro players. That material is available in
 the footwork section of the site in a series of detailed articles.
-[Click Here](https://www.tennisplayer.net/members/footwork/david_bailey/%20footwork.html)
+[link](https://www.tennisplayer.net/members/footwork/david_bailey/%20footwork.html)
 But in the next article I will attempt to briefly summarize them as
 well.
 
@@ -155,7 +155,7 @@ yourself.
 
 Stay tuned.
 
-![](media_world-class-movement/media/image5.jpeg)
+![link](media_world-class-movement/media/image5.jpeg)
 
 David Bailey is a native Australian who has spent 15 years studying
 tennis at the professional level. He has developed a new language for
@@ -167,8 +167,6 @@ the Bailey Method, has become a regular part of the coaching curriculum
 at the Nick Bollettierri Tennis Academy, where it is personally endorsed
 by Nick
 
-Visit David's Website! [**[Click
-Here!]{.underline}**](http://www.baileytennisfootwork.com/)
+Visit David's Website! [**[!]**](http://www.baileytennisfootwork.com/)
 
-To Contact David directly [**[Click
-Here!]{.underline}**](mailto:david@baileytennisfootwork.com)
+To Contact David directly [**[!]**](mailto:david@baileytennisfootwork.com)

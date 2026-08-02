@@ -18,9 +18,9 @@ patterns demonstrated by David and skilled players he has worked with
 and learn how to improve your court coverage and the speed of your
 movement going wide.
 
-![](media_the-golden-move-11-the-mogul-move/media/image1.png)
+![link](media_the-golden-move-11-the-mogul-move/media/image1.png)
 
-![](media_the-golden-move-11-the-mogul-move/media/image2.jpeg)
+![link](media_the-golden-move-11-the-mogul-move/media/image2.jpeg)
 
 David Bailey is a native Australian who has spent 15 years studying
 tennis at the professional level. He has developed a new language for
@@ -32,8 +32,6 @@ the Bailey Method, has become a regular part of the coaching curriculum
 at the Nick Bollettierri Tennis Academy, where it is personally endorsed
 by Nick
 
-Visit David's Website! [**[Click
-Here!]{.underline}**](http://www.baileytennisfootwork.com/)
+Visit David's Website! [**[!]**](http://www.baileytennisfootwork.com/)
 
-To Contact David directly [**[Click
-Here!]{.underline}**](mailto:david@baileytennisfootwork.com)
+To Contact David directly [**[!]**](mailto:david@baileytennisfootwork.com)

@@ -9,25 +9,21 @@ confidence](media_the-sampras-serve-the-mystery-of-the-high-elbow/media/image1.w
 **Is there an explanation for Pete Sampras's high elbow bend? Yes.**
 
 Last month we posted over a hundred high speed videos of the serve of
-the great Pete Sampras---maybe the greatest serve of all time. ([Click
-Here](https://www.tennisplayer.net/members/high_speed_archive/phantom/Pete_Sampras_HD_HS/).)
+the great Pete Sampras---maybe the greatest serve of all time. ([link](https://www.tennisplayer.net/members/high_speed_archive/phantom/Pete_Sampras_HD_HS/).)
 Over the years on Tennisplayer we've published more articles on his
 motion than any other stroke in tennis history, with the possible
 exception of Roger Federer's forehand.
 
 There was my initial 8 part series on Pete's serve, beginning with our
-inaugural issue 13 years ago. ([Click
-Here](https://www.tennisplayer.net/members/mystheavyball/john_yandell/speed_and_spin/speed_and_spin.html).)
+inaugural issue 13 years ago. ([link](https://www.tennisplayer.net/members/mystheavyball/john_yandell/speed_and_spin/speed_and_spin.html).)
 Then the 3 part series I did with Brian Gordon based on the only
-quantitative analysis ever of this incredible motion. ([Click
-Here](https://www.tennisplayer.net/members/avancedtennis/john_yandell/sampras_serve/sampras_serve_racket_head_speed/sampras_serve_racket_head_speed.html).)
+quantitative analysis ever of this incredible motion. ([link](https://www.tennisplayer.net/members/avancedtennis/john_yandell/sampras_serve/sampras_serve_racket_head_speed/sampras_serve_racket_head_speed.html).)
 
 There is also the groundbreaking article I did on the amazing
 combination of speed and spin in Pete's serve, compared specifically to
 the speed/spin combinations of another great server, Greg Rusedski. Not
 to mention in the original Stroke Archive, a detailed portrait of over a
-hundred more stroke files. ([Click
-Here](https://www.tennisplayer.net/members/strokearchive/pro_men/petesampras/petesampras_strokecat.html).)
+hundred more stroke files. ([link](https://www.tennisplayer.net/members/strokearchive/pro_men/petesampras/petesampras_strokecat.html).)
 
 ### Ducking the High Elbow
 
@@ -70,8 +66,7 @@ Research has shown that the rotation of the hand, arm and racket in the
 upward and outward swing is one of the major contributors to racket head
 speed. The best servers turn the racket over on edge after contact. For
 the clearest explanation of that ever, look at the article by Chas
-Stumpfel in the Biomechanics section. ([Click
-Here](https://www.tennisplayer.net/members/biomechanics/chas_stumpfel/internal_shoulder_rotation/).)
+Stumpfel in the Biomechanics section. ([link](https://www.tennisplayer.net/members/biomechanics/chas_stumpfel/internal_shoulder_rotation/).)
 
 The common term for that rotation is \"pronation,\" which is good enough
 to identify what we are talking about, but is actually technically
@@ -121,8 +116,7 @@ his ball to bounce several inches higher than other players.
 
 Higher than a great server like Rusedski who matched Pete's overall
 spin, but had less topspin and more slice in his delivery. As Scoop
-Malinowski's article on Facing Sampras shows ([Click
-Here](https://www.tennisplayer.net/members/notes_on_tour/scoop_malinowski/facing_sampras/))
+Malinowski's article on Facing Sampras shows ([link](https://www.tennisplayer.net/members/notes_on_tour/scoop_malinowski/facing_sampras/))
 that serve weight---combined with his incredible accuracy\-- made
 players feel that his serve was almost impossible to return.
 
@@ -210,8 +204,7 @@ rotation.
 That's something that many pro players don't do. And the reason they
 aren't maximizing racket head speed. But I've proven on court that
 it's entirely possible with players at all levels. See for example the
-huge impact it made on an elite women's college player. ([Click
-Here](https://www.tennisplayer.net/members/your_strokes/2017/ingrid_neel_serve/).)
+huge impact it made on an elite women's college player. ([link](https://www.tennisplayer.net/members/your_strokes/2017/ingrid_neel_serve/).)
 
 And yes, if you can naturally complete that rotation sooner, that will
 maximize its effect. And yes, if you want a higher topspin component you
@@ -223,7 +216,7 @@ There is only one Pete Sampras. After 20 years, I am still learning from
 studying his incredible motion.
 
 **To view the complete Stroke Archives of Pete Sampras serves,
-[\]{.underline}
+[\]
 [click
 here.](file:///C:\Users\moosh\OneDrive\Documents\tennisplayer.net\Stroke%20Analysis\Advanced%20Tennis\Advanced%20Tennis%20TOC.docx)**
 

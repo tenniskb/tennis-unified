@@ -63,8 +63,7 @@ generated](media_increasing-confidence/media/image3.jpg)
 **Safin was able to win Slams without believing he could.**
 
 That can be debilitating. And we saw with Marat Safin in the first
-article, you can still win without it. ([Click
-Here](Self%20Belief.docx).)
+article, you can still win without it. ([link](Self%20Belief.docx).)
 
 Since there is nothing special you can do to conjure up self-belief,
 your best option is to put the issue entirely aside. All anyone really
@@ -165,7 +164,7 @@ Visit him at [www.allenfoxtennis.net](http://www.allenfoxtennis.net)
 |  | stress, finishing matches, and developing confidence. Based on a life time of high level play and coaching success, |
 |  | it's a must for all competitive players. |
 |  |  |
-|  | [Click Here to |
+|  | [ to |
 |  | Order](http://www.amazon.com/Tennis-Winning-Mental-Allen-Fox/dp/0615407765/ref=sr_1_1?ie=UTF8&qid=1336083459&sr=8-1). |
 
 
@@ -188,7 +187,7 @@ Visit him at [www.allenfoxtennis.net](http://www.allenfoxtennis.net)
 |  | outline how to confront and overcome these fears in your |
 |  | life and career, even when they are initially subconscious. |
 |  | Must reading from one of the great thinkers in tennis, and |
-|  | a Renaissance Man in life. [Click Here to |
+|  | a Renaissance Man in life. [ to |
 |  | Order](http://www.tennis-warehouse.com/descpage-MIND.html). |
 |  |  |
 |  | To purchase this book you can also send a check for \$17.95 |

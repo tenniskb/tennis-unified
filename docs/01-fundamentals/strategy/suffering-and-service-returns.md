@@ -156,7 +156,7 @@ Nadal had only 6 break points - less than a third of Novak's total
 These differences are critical in understanding the difference in the
 match.
 
-![](media_suffering-and-service-returns/media/image7.png)
+![link](media_suffering-and-service-returns/media/image7.png)
 
 **Djokovic's down the middle returns put him in charge.**
 

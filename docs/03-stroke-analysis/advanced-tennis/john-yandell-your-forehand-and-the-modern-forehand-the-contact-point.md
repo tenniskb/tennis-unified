@@ -16,7 +16,7 @@ confidence](media_john-yandell-your-forehand-and-the-modern-forehand-the-contact
 Contact is the key moment, but what are the characteristics of great
 contact and how are they achieved?
 
-![](media_john-yandell-your-forehand-and-the-modern-forehand-the-contact-point/media/image2.png)
+![link](media_john-yandell-your-forehand-and-the-modern-forehand-the-contact-point/media/image2.png)
 
 ![A person smiling for the camera Description automatically generated
 with medium

@@ -8,8 +8,7 @@
 
 In the last article we looked at the technical elements the players
 share on the one-handed forward swing, and also, some of the differences
-between the classical and extreme players. ([Click
-Here](The%20One%20Handed%20Topspin%20Backhand-The%20Forward%20Swing.docx).)
+between the classical and extreme players. ([link](The%20One%20Handed%20Topspin%20Backhand-The%20Forward%20Swing.docx).)
 
 Now let's take a look at another complex issue: the hitting stances.
 When we look at the footage it's quite surprising. The footage, as we
@@ -22,7 +21,7 @@ generated](media_the-one-handed-topspin-backhand-hitting-stances/media/image1.we
 **Closed stance dominates on the pro one-handed backhand, but why?**
 
 **[But what's surprising is that the predominant stance by far is the
-closed stance, and quite often an extreme version]{.mark}**. It's
+closed stance, and quite often an extreme version]**. It's
 similar to what we found with the two-handed backhand, only more so. The
 players sometimes close the stance by stepping across their bodies a
 distance of up to 4 or more feet.
@@ -44,7 +43,7 @@ question is why? On the forehand, the closed stance is a major taboo,
 because it blocks the use of the shoulders and legs. But what the
 footage shows is that on the one-hander it's the exact opposite.
 ***[The closed stance actually increases the role of both the shoulders
-and the legs.]{.mark}***
+and the legs.]***
 
 That may seem counterintuitive, so let's look closely at all the
 stances. Then let's focus on the relationship between the stance, the
@@ -67,7 +66,7 @@ examples of all the players hitting both neutral and open stance
 one-handers in various situations.
 
 ***[One-handed players use the neutral stance, or at least a more
-neutral stance, around the middle of the court.]{.mark}*** This is most
+neutral stance, around the middle of the court.]*** This is most
 true when they begin the unit turn with a reverse pivot, or a step back
 and away from the ball.
 
@@ -113,7 +112,7 @@ difference is that the coiling and knee bend are in the back or outside
 leg, as opposed to the neutral and closed stances where there is usually
 significant front knee bend. This ability to position to the ball with
 the rear foot is actually critical for most players to learn alignment
-and balance, as we'll also see below.]{.mark}**
+and balance, as we'll also see below.]**
 
 ![A person playing tennis Description automatically
 generated](media_the-one-handed-topspin-backhand-hitting-stances/media/image5.webp)
@@ -279,7 +278,7 @@ of the turn and at the step to the ball? Can you establish the straight
 hitting arm position and hit through the ball consistently and on time
 with moderate topspin? How is your extension and can you control your
 torso rotation? And lastly, can you set up and hit naturally and
-effectively from an open stance?]{.mark}***
+effectively from an open stance?]***
 
 It may seem strange to say this but there is a direct relationship
 between this last point, your ability to set up in the open stance, and
@@ -287,8 +286,7 @@ your ability to widen the stance and test some of the advanced
 techniques we've just analyzed.
 
 Why? As some of our other writers, especially Kerry Mitchell, have
-pointed out ([Click
-Here](http://www.tennisplayer.net/members/classiclessons/kerry_mitchell/Mitchell_openstance/Mitchell_Openstance.html))
+pointed out ([link](http://www.tennisplayer.net/members/classiclessons/kerry_mitchell/Mitchell_openstance/Mitchell_Openstance.html))
 one of the nearly universal flaws in club tennis is the tendency to
 chase the ball with the front foot.
 
@@ -323,7 +321,7 @@ stance.
 ball and get coiled, balanced and aligned. The top players achieve this
 same position whether they step in, step across or hit open. But most
 lower level players don't. Hitting open stance forces them to develop
-it.]{.mark}***
+it.]***
 
 ***Most club players reach the ball on the front foot without
 gathering themselves and establishing this critical position. Usually
@@ -350,8 +348,7 @@ one-hander is my old friend, Bob Hansen, coach of the Division 3
 powerhouse, the University of Santa Cruz Banana Slugs. He deeply
 influenced my teaching and also how I hit my own one-hander. His article
 in our lesson archive is a compact jewel on the subject and highly
-recommended. ([Click
-Here](http://www.tennisplayer.net/members/footwork/bob_hansen/Hansen_Court_Movement_BH/Hansen_Court_Movement_BH.html).)
+recommended. ([link](http://www.tennisplayer.net/members/footwork/bob_hansen/Hansen_Court_Movement_BH/Hansen_Court_Movement_BH.html).)
 
 So assuming you add the open stance set up, what's the best model
 stroke to emulate? How about Roger Federer hitting a classic, neutral

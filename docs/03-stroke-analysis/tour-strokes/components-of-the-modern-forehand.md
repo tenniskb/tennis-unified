@@ -112,9 +112,9 @@ air.**
 **It's important to understand that this is not really a jump. It's
 the natural result of the summation of forces as the energy passes
 upward through the kinetic chain**. **[[It's
-energy that you derive using the ground as the base for support.]{.mark}
+energy that you derive using the ground as the base for support.]
 [The forces modern players are generating are now literally pulling them
-off the ground and into the air.]{.mark}]{.underline}**
+off the ground and into the air.]]**
 
 ![A person swinging a bat Description automatically generated with
 medium

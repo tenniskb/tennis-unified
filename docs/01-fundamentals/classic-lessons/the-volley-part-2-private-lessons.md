@@ -228,7 +228,7 @@ practically guarantee you'll overswing to compensate for the lack of
 weight transfer.**
 
 **[It's important to note [that this step starts before the racquet
-begins its forward motion to the ball.]{.underline}]{.mark}**
+begins its forward motion to the ball.]]**
 
 Picture standing on the base of an equidistant triangle, making a ready
 hop and then stepping to the top of the triangle before ready hopping
@@ -253,10 +253,10 @@ to \"close.\" This means to move forward, taking however many steps are
 required to put you in an offensive volley position.
 
 One last thought about your movement at the net. **[As the ball
-approaches think to [prepare your racquet first]{.underline} and [let
-your feet move accordingly]{.underline}. If you don't line the racquet
+approaches think to [prepare your racquet first] and [let
+your feet move accordingly]. If you don't line the racquet
 up early enough, you risk being out of position and unprepared to volley
-in time.]{.mark}**
+in time.]**
 
 Stay tuned for part three where amongst other things I'll discuss how
 to play a variety of volleys and the best way to practice

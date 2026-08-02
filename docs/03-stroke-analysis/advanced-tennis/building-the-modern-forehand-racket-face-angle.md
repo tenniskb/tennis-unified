@@ -44,14 +44,14 @@ exact same angle for all the players as the racket starts forward.
 **[Some players have the racket on edge, others have the face closed
 slightly, others have it more closed still. This is the first critical
 difference in the grip styles. The more extreme the grip, the more
-closed the face at the start of the forward swing.]{.mark}**
+closed the face at the start of the forward swing.]**
 
 This position needs to be carefully distinguished from what happens to
 the racket face over the course of the backswing. Players with very
 different grip styles may or may not close the face at some point in the
 backswing phase. ***[But the face is completely closed when the racket
 reaches the end of the backswing and starts forward to the
-ball.]{.mark}***
+ball.]***
 
 ![A person playing tennis Description automatically
 generated](media_building-the-modern-forehand-racket-face-angle/media/image4.webp)
@@ -107,8 +107,8 @@ Agassi.
 | ![A hand holding a red pen Description automatically generated with medium |  |  |
 | --- | --- | --- |
 | confidence](media_building-the-modern-forehand-racket-face-angle/media/image6.jpg) |  |  |
-| ![](media_building-the-modern-forehand-racket-face-angle/media/image7.jpg) |  |  |
-| ![](media_building-the-modern-forehand-racket-face-angle/media/image8.jpg) |  |  |
+| ![link](media_building-the-modern-forehand-racket-face-angle/media/image7.jpg) |  |  |
+| ![link](media_building-the-modern-forehand-racket-face-angle/media/image8.jpg) |  |  |
 | **The hitting arm position stays the same, but as the racket rotates the grip becomes more extreme and the angle of the racket face naturally closes.** |  |  |
 
 

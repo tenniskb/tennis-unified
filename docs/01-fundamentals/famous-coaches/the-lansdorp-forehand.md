@@ -51,7 +51,7 @@ when it is hit hard and is skidding.
                                             ![A picture containing tennis, racket, athletic game, sport Description automatically                                            ![A picture containing tennis, athletic game, racket, sport Description automatically
    generated](media_the-lansdorp-forehand/media/image2.jpg)
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                         ![A person holding a tennis racket Description automatically                                                        **[Eastern or Classic:]{.mark}**\
+                                                         ![A person holding a tennis racket Description automatically                                                        **[Eastern or Classic:]**\
    generated](media_the-lansdorp-forehand/media/image4.jpg)                                                                             **The classic eastern grip shown with the hand closed and open. With the hand open, you can see how the grip places most of the palm behind the handle. The classic
                                                                                                                                                                              follow-through with this grip insures the player hits through the ball. This is the foundation for building the forehand**
 

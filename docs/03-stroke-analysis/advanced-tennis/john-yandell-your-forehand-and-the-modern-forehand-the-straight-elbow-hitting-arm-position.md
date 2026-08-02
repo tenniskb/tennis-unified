@@ -20,7 +20,7 @@ up next month. Also, check out the classic lesson which adds additional
 info on these two confusing and critical elements in developing a great
 forehand of your own.
 
-![](media_john-yandell-your-forehand-and-the-modern-forehand-the-straight-elbow-hitting-arm-position/media/image1.png)
+![link](media_john-yandell-your-forehand-and-the-modern-forehand-the-straight-elbow-hitting-arm-position/media/image1.png)
 
 ![A person smiling for the camera Description automatically generated
 with medium

@@ -83,8 +83,7 @@ excited about this article, and the corresponding addition we are making
 to the High Speed Archive. With this issue, we're starting an entirely
 new data base of high speed footage strictly of the volleys of the top
 players, all filmed by Advanced Tennis Research in live pro matches
-([Click
-Here](http://www.tennisplayer.net/members/high_speed_archive/volleys/forehand_volley/forehand_volley_high_speed.html?TimHenmanFHVWarmUpFront-001-0001_Tennisplayer440.pct).)
+([link](http://www.tennisplayer.net/members/high_speed_archive/volleys/forehand_volley/forehand_volley_high_speed.html?TimHenmanFHVWarmUpFront-001-0001_Tennisplayer440.pct).)
 
 This footage was shot at 250 frames a second. That's eight times more
 information than regular video. Together with this series of articles I
@@ -92,8 +91,7 @@ think this data base will go a long way in helping us understand what
 really happens at the net and how any player can develop superior
 technical volleys for themselves. And remember these clips are all
 downloadable with an online upgrade to Quick Time Pro as we discussed in
-the article on using the resources of the site. ([Click
-Here](http://www.tennisplayer.net/members/teaching_systems/john_yandell/using_tennisplayer/using_tennisplayer.html).)
+the article on using the resources of the site. ([link](http://www.tennisplayer.net/members/teaching_systems/john_yandell/using_tennisplayer/using_tennisplayer.html).)
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -109,7 +107,7 @@ traditional teaching.
 
 **[The two most common volley tips are \"Punch the Volley,\" and \"Keep
 a Firm Wrist.\" Neither is an accurate description of the actual volley
-motions.]{.mark}**
+motions.]**
 
 Now if hearing one of those phrases makes you volley like Tim Henman, I
 say great, stick with it. My point is that these common tips don't
@@ -124,7 +122,7 @@ A detailed study of the high speed footage reveals is that there is a
 secret to understanding and executing the forehand volley that has gone
 largely unrecognized in coaching and teaching.
 
-**[This secret is the positioning of the hitting arm.]{.mark}** The
+**[This secret is the positioning of the hitting arm.]** The
 positioning in the preparation, and especially, in the forward motion to
 the contact. Let's use the footage to identify how this works for the
 top players and how to develop it yourself. But before we do, we have to
@@ -216,7 +214,7 @@ developing the core elements in the forehand volley. So let's address
 the basic issues for now, and think about subtle, advanced grip shifts
 later on.
 
-| ![A person playing tennis Description automatically generated with medium | ![](media_the-forehand-volley/media/image12.jpg) |
+| ![A person playing tennis Description automatically generated with medium | ![link](media_the-forehand-volley/media/image12.jpg) |
 | --- | --- |
 | **The Open 'U\" hitting arm shape\--secret to the forehand volley.** |  |
 
@@ -232,11 +230,10 @@ makes a great forehand volley possible at virtually any level.
 What do I mean by **[hitting arm position? I mean the shape of the
 hitting arm and racket at the completion of the shoulder turn, and also,
 how they then move forward together to the contact. I call this hitting
-arm shape the Open \"U.\"]{.mark}**
+arm shape the Open \"U.\"]**
 
 This positioning begins at the start of the forehand volley motion. As
-we saw with the groundstrokes ([Click
-Here](Common%20Elements%20Across%20the%20Grip%20Styles.docx)), **the
+we saw with the groundstrokes ([link](Common%20Elements%20Across%20the%20Grip%20Styles.docx)), **the
 key to the preparation is to start the motion with the feet and the
 shoulders.**
 
@@ -249,10 +246,10 @@ Open \"U.\"***
 **The forearm forms the bottom or base of the
 \"U.\"** ***[The upper arm and the racket form the
 legs of the U. The \"legs\" are both at about a 45 degree angle to the
-forearm or base.]{.underline}***
+forearm or base.]***
 
 **[This \"U\" shape, is the core hitting arm
-configuration.]{.underline}** It is probably easiest to recognize when
+configuration.]** It is probably easiest to recognize when
 the forearm is horizontal, or parallel to the court surface, but as
 we'll see when we explore all the variations, the \"U\" can turn and
 move in different directions and at many different angles.
@@ -280,7 +277,7 @@ points across the body at a similar angle.
 If you've read the articles on preparation on the forehand in the
 Advanced Tennis section, you'll realize that this is basically a
 segment of the same unitary preparation as on the forehand groundstroke.
-[Click Here](Common%20Elements%20Across%20the%20Grip%20Styles.docx)
+[link](Common%20Elements%20Across%20the%20Grip%20Styles.docx)
 Rather than the shoulders and feet turning 90 degrees plus, they turn
 roughly half as far.
 
@@ -319,7 +316,7 @@ Watch how the rear shoulder drives the motion to the contact. **The
 hand, arm and racket rotate forward through the motion as a
 unit.** ***In essence the palm of the hand and the
 shoulder are pushing the racket face to the contact.*** **[The critical
-point is that the hitting arm shape stays constant.]{.underline}**
+point is that the hitting arm shape stays constant.]**
 
 There is a lot of discussion about players and coaches about \"early
 contact\" on the volley. If a player really understands how to use the
@@ -350,9 +347,9 @@ Now watch again what happens. As the hand, hitting arm, and shoulder
 rotate forward as a unit, the racket is pushed forward to the contact by
 the palm of the hand.
 
-**[The hitting arm shape has remained in tact,]{.mark}** as we saw with
+**[The hitting arm shape has remained in tact,]** as we saw with
 the Henman volley. [Note how simple, minimal and compact this forward
-motion truly is.]{.mark}
+motion truly is.]
 
 Now look at the angle of the wrist. It has remained laid back so the
 palm can push the racket head forward. Again, this places the contact
@@ -389,7 +386,7 @@ of the motion. Look at the butt of the racket and note how it butt
 points just past or in front of the edge of the front leg. This forms
 the final checkpoint to master in developing the core motion.
 
-**[THE 3 KEY POSITIONS FROM 3 DIFFERENT VIEWS]{.underline}**
+**[THE 3 KEY POSITIONS FROM 3 DIFFERENT VIEWS]**
 
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                                        Turn                                                                                                                                                                         Contact                                                                                                                                                                         Finish
@@ -436,7 +433,7 @@ slightly in front with the racket face more or less square to the
 ball.**
 
 **[Without this laid back wrist position, the ball will get past the
-front edge of the body and the contact will be late.]{.mark}** If that
+front edge of the body and the contact will be late.]** If that
 happens, yes, you better keep your wrist firm\--really firm. You'll
 need to be quite tense to compensate for the flaws in your motion and in
 your timing that created the late contact.
@@ -484,8 +481,7 @@ As I said at the beginning, there is probably more variation in the
 actual swing shapes in the volley than in any other shot. Bill Mountford
 has already written an excellent article for Tennisplayer that outlines
 many of these specific differences used situationally by all the top
-players. ([Click
-Here](http://www.tennisplayer.net/members/tour_strokes/bill_mountford/modern_volley/modern_volley.html).)
+players. ([link](http://www.tennisplayer.net/members/tour_strokes/bill_mountford/modern_volley/modern_volley.html).)
 
 These complexities and variations are what we are going to look at
 closely in the upcoming articles. We'll see how the hitting arm

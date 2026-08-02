@@ -12,8 +12,7 @@ confidence](media_increasing-your-chances-of-winning-points-on-serve/media/image
 critical marginal gains in service points won?**
 
 Now you have comprehensively developed your understanding of your own
-game ([Click
-Here](Marginal%20Gains%20-%20Top%20Shots%20and%20Set%20Up%20Shots.docx)),
+game ([link](Marginal%20Gains%20-%20Top%20Shots%20and%20Set%20Up%20Shots.docx)),
 based on a good understanding of the game as a whole, it's time to get
 stuck into those marginal gains, and learn how to boost your chances a
 crucial few percent in all the main scenarios you will face during
@@ -120,8 +119,7 @@ the opponent on the run with his next shot.
 If you can anticipate the return, you can then tailor this to what shot
 you would like as your first shot after hitting a first serve. If the
 previous articles we gave you a series of tests to determine your
-favourite shots and top shot ([Click
-Here](Marginal%20Gains%20-%20Top%20Shots%20and%20Set%20Up%20Shots.docx)).
+favourite shots and top shot ([link](Marginal%20Gains%20-%20Top%20Shots%20and%20Set%20Up%20Shots.docx)).
 
 Now you can bring this into play and set up the pattern that favours
 your strengths as a player off first serve. For example, let's say you
@@ -165,7 +163,7 @@ forehand.**
 generated](media_increasing-your-chances-of-winning-points-on-serve/media/image6.webp)
 
 **[A body serve forces the returner to move and may force a weak
-return.]{.underline}**
+return.]**
 
 If you serve down the T from the ad side, you need to protect your
 forehand side a little more, as the returner's choices are not so

@@ -25,8 +25,7 @@ strokes, but the idea of a single truth is probably an illusion.
 
 For me the final push over that edge came studying Novak Djokovic and
 the fascinating similarities and differences in his forehand compared
-with Roger Federer and Rafael Nadal. ([Click
-Here](https://www.tennisplayer.net/members/avancedtennis/john_yandell/djokovic_forehand/part_01.html).)
+with Roger Federer and Rafael Nadal. ([link](https://www.tennisplayer.net/members/avancedtennis/john_yandell/djokovic_forehand/part_01.html).)
 
 This premise of relative truth is - to make an understatement - is far
 from universally accepted in tennis. In fact the opposite is probably
@@ -50,7 +49,7 @@ from different pros and hearing contradictory advice and theories - or
 maybe the same experience with a dozen pros. The fact is that teaching
 pros are fiercely independent people, and fiercely devoted to their own
 versions of the truth. The same can often be said about serious
-players.]{.mark}***
+players.]***
 
 **Truth From The Top**
 
@@ -171,8 +170,7 @@ were perceived as the opposite ends of the spectrum.
 
 But as we saw in the previous series on his forehand, Novak breaks this
 paradigm. By combining elements from the two extremes into a new style
-of baseline play. ([Click
-Here](https://www.tennisplayer.net/members/avancedtennis/john_yandell/djokovic_forehand/part_01.html).)
+of baseline play. ([link](https://www.tennisplayer.net/members/avancedtennis/john_yandell/djokovic_forehand/part_01.html).)
 He stands in as close to the baseline as Federer, but his grip is as far
 under the handle as Nadal.
 
@@ -196,8 +194,7 @@ With his incredible athleticism, balance, and timing, he is almost
 impossible to hit through. And with his court position and early timing
 capable of turning defense into offense counterattack in one ball - a
 point made by television commentator Robbie Koenig his insightful
-comments on Djokovic in this month's interview. ([Click
-Here](https://www.tennisplayer.net/members/famouscoach/robbie_koenig/secrets_to_novaks_success).)
+comments on Djokovic in this month's interview. ([link](https://www.tennisplayer.net/members/famouscoach/robbie_koenig/secrets_to_novaks_success).)
 
 Furthermore, compared to either Federer or Nadal, Djokovic hits with
 more depth and has shown the consistent ability to paint the lines and
@@ -207,9 +204,9 @@ top of the baseline, a key component in his ability to neutralize
 Nadal's forehand and successfully attack his backhand.
 
   -------------------------------------------------------------------------------------------------------------------------------------------
-   ![](media_what-is-true-in-tennis/media/image7.wmf)
+   ![link](media_what-is-true-in-tennis/media/image7.wmf)
   -------------------------------------------------------------------------------------------------------------------------------------------
-                        **Click Here to watch a typically point in which Novak exploits and attacks Rafa's backhand.**
+                        ** to watch a typically point in which Novak exploits and attacks Rafa's backhand.**
 
   -------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -240,17 +237,16 @@ generated](media_what-is-true-in-tennis/media/image8.webp)
 **A body turn with a variety of initial step patterns.**
 
 ***[Great preparation at all levels starts with a unit turn involving
-the feet and the torso, starting to turn the body sideways.]{.mark}***
+the feet and the torso, starting to turn the body sideways.]***
 As we have seen, players will use a wide variety in the number of steps
 and of step sizes and patterns, but the purpose is still the same.
-([Click
-Here](https://www.tennisplayer.net/members/avancedtennis/john_yandell/djokovic_forehand/part_02.html).)
+([link](https://www.tennisplayer.net/members/avancedtennis/john_yandell/djokovic_forehand/part_02.html).)
 
 ***[As the turn continues, the players keep both hands on the racket to
 varying degrees, [eventually releasing the opposite hand which then
 moves to the side across the body, straightens, and points at the
 sideline, usually also roughly parallel to the
-baseline.]{.underline}]{.mark}***
+baseline.]]***
 
 What is most interesting here though is how Djokovic's backswing varies
 from either Federer or Nadal after the completion of the turn. Much has
@@ -267,11 +263,11 @@ than either Federer or Nadal.
 generated](media_what-is-true-in-tennis/media/image9.webp)
 
 **[Compared to Roger, Novak's arm goes behind his body and his racket
-face turns backward.]{.mark}**
+face turns backward.]**
 
 ***[Is this some unknown advantage - a technical advance that only he
 has developed? Or is it a liability that he overcomes in some other way?
-Or is it simply idiosyncratic and/or irrelevant?]{.mark}***
+Or is it simply idiosyncratic and/or irrelevant?]***
 
 The point is that it is significantly different from the more compact
 versions of Federer or even Nadal. And at the moment his forehand is
@@ -298,10 +294,8 @@ forehand.**
 
 This was in contrast to the double bend with the elbow in and the wrist
 back of the majority of the previous top players. (For more on the
-Double Bend, [Click
-Here](https://www.tennisplayer.net/members/avancedtennis/john_yandell/your_forehand_and_the_modern_forehand/hitting_arm_positions/your_forehand_and_the_modern_forehand_hitting_arm_positions.html).
-For more on the Straight Arm, [Click
-Here](https://www.tennisplayer.net/members/avancedtennis/john_yandell/your_forehand_and_the_modern_forehand/hitting_arm_positions/your_forehand_and_the_modern_forehand_straight_elbow_arm_position.html).)
+Double Bend, [link](https://www.tennisplayer.net/members/avancedtennis/john_yandell/your_forehand_and_the_modern_forehand/hitting_arm_positions/your_forehand_and_the_modern_forehand_hitting_arm_positions.html).
+For more on the Straight Arm, [link](https://www.tennisplayer.net/members/avancedtennis/john_yandell/your_forehand_and_the_modern_forehand/hitting_arm_positions/your_forehand_and_the_modern_forehand_straight_elbow_arm_position.html).)
 
 Many coaches then hailed the straight arm as a magic component and began
 preaching it as a superior, more advanced hitting arm structure. They
@@ -318,23 +312,23 @@ but remained in the classic double bend.
 ***[And again on the internet message boards, there was a rush to follow
 Roger and Rafa by players at the 3.0 level and up, and reports of
 wondrous improvement. Hard to believe but then absolute truth brooks no
-doubt.]{.mark}***
+doubt.]***
 
 ![A person hitting a ball with a tennis racket Description automatically
 generated](media_what-is-true-in-tennis/media/image11.webp)
 
 **[Elbow bent and tucked in toward the body and the wrist back: the
-allegedly obsolete double bend hitting arm.]{.mark}**
+allegedly obsolete double bend hitting arm.]**
 
 ***[Then came the double reverse. Novak Djokovic emerged hitting
 arguably the best forehands on the tour with the old style, the
 allegedly extinct, double bend hitting arm position. After he completes
 that unique backswing, we see his arm drop into the elbow bent, wrist
-back position.]{.mark}*** The same as players of the previous
+back position.]*** The same as players of the previous
 generation: Agassi, Kuerten, Safin, Roddick, Sampras. ***[So to ask a
 slightly different version of the same question, is it the hitting arm
 that makes the player, or the player who makes the hitting
-arm?]{.mark}***
+arm?]***
 
 **Finish**
 
@@ -353,7 +347,7 @@ finishing back on the same side of the body where the swing started.
 generated](media_what-is-true-in-tennis/media/image12.webp)
 
 **[Novak: a finish over the shoulder like a bunch of bald, retired
-guys.]{.mark}**
+guys.]**
 
 Why would anyone, therefore, want to finish over the shoulder like those
 bald retired guys? Absolute truth now directly challenged with emergence
@@ -375,10 +369,10 @@ truth is about to become reborn.
 When it comes to the amount of torso rotation, Novak turns the
 categories upside down one more time. ***[Both Roger and Rafa rotate the
 front shoulder forward far past parallel with the net on many
-balls.]{.mark}*** **[Sometimes they approach or achieve 180 degrees of
+balls.]*** **[Sometimes they approach or achieve 180 degrees of
 forward rotation from the turn position, finishing with the front
 shoulder facing the opponent, combining this with the more exotic wrap
-and reverse finishes.]{.mark}**
+and reverse finishes.]**
 
 In contrast, the older classic style over the shoulder finishes were
 generally associated with much less torso rotation. Players like Agassi
@@ -390,11 +384,11 @@ the baseline than perpendicular to the net.
 generated](media_what-is-true-in-tennis/media/image13.webp)
 
 **[Djokovic rotates the front shoulder further and more often, up to 180
-degrees plus in the foreward swing.]{.mark}**
+degrees plus in the foreward swing.]**
 
 Again, Novak breaks the paradigm. ***[On average he rotates the
 shoulders forward more than either Federer or Nadal, but combines this
-with the over the shoulder finish.]{.mark}*** So here we have a blend of
+with the over the shoulder finish.]*** So here we have a blend of
 classical and extreme modern - yet another new version of \"truth\" for
 coaches and players to contemplate.
 
@@ -402,7 +396,7 @@ coaches and players to contemplate.
 
 ***[So is truth really absolute or is it actually a matter of belief?
 Are there immutable principles about how to teach a forehand? Or is the
-reality messier and more uncertain?]{.mark}***
+reality messier and more uncertain?]***
 
 ***\"Tennis teaching,\" Allen Fox once told me with a dry smile, \"is
 a black art.\"*** Coaches, he continued, are often
@@ -426,8 +420,7 @@ elements and how effective these combinations could be.
 To give one example, after years of believing that the two-handed
 backhand was basically a left-handed forehand, I was shocked to discover
 how different the hitting arm structures could be among the top players,
-ranging from having both arms straight to both arms bent. ([Click
-Here](https://www.tennisplayer.net/members/avancedtennis/john_yandell/two_handed_backhand/2hd_bh_simplest_complex/2hd_bh_simplest_complex.html)
+ranging from having both arms straight to both arms bent. ([link](https://www.tennisplayer.net/members/avancedtennis/john_yandell/two_handed_backhand/2hd_bh_simplest_complex/2hd_bh_simplest_complex.html)
 for more on the arm positions on the two-hander.)
 
 This is the same problem we encounter when we try to find absolute
@@ -466,7 +459,7 @@ structures.**
 
 **[I have found that as a player and a coach that when you start to
 examine the available footage in detail, you will have three
-experiences.]{.underline}**
+experiences.]**
 
 **First, many of the things you believe will be confirmed, and in fact
 reinforced. You will actually become much more confident because you are
@@ -482,7 +475,7 @@ again brings added clarity and confidence.**
 the right way. That's when the video shows that something you believed,
 and possibly believed feverently, is not accurate and needs to be
 modified. Or that there appear to multiple solutions to problems where
-previously you had only seen one]{.underline}**.]{.mark}
+previously you had only seen one]**.]
 
 And here we come back to the differences in the forehands we've been
 talking about in this article. The more you know, the more complex and

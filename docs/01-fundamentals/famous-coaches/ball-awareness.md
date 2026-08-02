@@ -13,79 +13,79 @@ This video series opens the path to more detailed information and
 instruction that would improve your fundamentals in the game of tennis.
 
 - [[BA \| V1: Introduction to Ball
-  Awareness]{.underline}](https://tennis.pro/2020/04/09/ball-awareness-v1-introduction-to-ball-awareness/)
+  Awareness]](https://tennis.pro/2020/04/09/ball-awareness-v1-introduction-to-ball-awareness/)
 
 - [[BA \| V2: Introduction to Height
-  Recognition]{.underline}](https://tennis.pro/2020/04/10/v2-introduction-to-height-recognition/)
+  Recognition]](https://tennis.pro/2020/04/10/v2-introduction-to-height-recognition/)
 
 - [[BA \| V3: Height Recognition Zone 5 with
-  Player]{.underline}](https://tennis.pro/2020/04/10/ball-awareness-v3-height-recognition-zone-5-with-player/)
+  Player]](https://tennis.pro/2020/04/10/ball-awareness-v3-height-recognition-zone-5-with-player/)
 
 - [[BA \| V4: Height Recognition Zone 4 with
-  Player]{.underline}](https://tennis.pro/2020/04/10/ball-awareness-v4-height-recognition-zone-4-with-player/)
+  Player]](https://tennis.pro/2020/04/10/ball-awareness-v4-height-recognition-zone-4-with-player/)
 
 - [[BA \| V5: Height Recognition Zone 3 with
-  Player]{.underline}](https://tennis.pro/2020/04/10/ball-awareness-v5-height-recognition-zone-3-with-player/)
+  Player]](https://tennis.pro/2020/04/10/ball-awareness-v5-height-recognition-zone-3-with-player/)
 
 - [[BA \| V6: Height Recognition Zones 2 + 1 with
-  Player]{.underline}](https://tennis.pro/2020/04/10/ball-awareness-v6-height-recognition-zones-2-1-with-player/)
+  Player]](https://tennis.pro/2020/04/10/ball-awareness-v6-height-recognition-zones-2-1-with-player/)
 
 - [[BA \| V7: Height Recognition -- Combined
-  Zones]{.underline}](https://tennis.pro/2020/04/13/ball-awareness-v7-height-recognition-combined-zones/)
+  Zones]](https://tennis.pro/2020/04/13/ball-awareness-v7-height-recognition-combined-zones/)
 
 - [[BA \| V8: Height Execution in Zone 5 with
-  Player]{.underline}](https://tennis.pro/2020/05/20/ball-awareness-v8-height-execution-in-zone-5-with-player/)
+  Player]](https://tennis.pro/2020/05/20/ball-awareness-v8-height-execution-in-zone-5-with-player/)
 
 - [[BA \| V9: Height Execution in Zone 4 with
-  Player]{.underline}](https://tennis.pro/2020/05/20/ball-awareness-v9-height-execution-in-zone-4-with-player/)
+  Player]](https://tennis.pro/2020/05/20/ball-awareness-v9-height-execution-in-zone-4-with-player/)
 
 - [[BA \| V10: Height Execution in Zone 3 with
-  Player]{.underline}](https://tennis.pro/2020/05/20/ball-awareness-v10-height-execution-in-zone-3-with-player/)
+  Player]](https://tennis.pro/2020/05/20/ball-awareness-v10-height-execution-in-zone-3-with-player/)
 
 - [[BA \| V11: Height Execution in Zone 2 with
-  Player]{.underline}](https://tennis.pro/2020/05/20/ball-awareness-v11-height-execution-in-zone-2-with-player/)
+  Player]](https://tennis.pro/2020/05/20/ball-awareness-v11-height-execution-in-zone-2-with-player/)
 
 - [[BA \| V12: Height Execution -- Combined
-  Zones]{.underline}](https://tennis.pro/2020/05/20/ball-awareness-v12-height-execution-combined-zones/)
+  Zones]](https://tennis.pro/2020/05/20/ball-awareness-v12-height-execution-combined-zones/)
 
 - [[BA \| V13: Introduction to Direction
-  Recognition]{.underline}](https://tennis.pro/2020/05/20/ball-awareness-v13-introduction-to-direction-recognition/)
+  Recognition]](https://tennis.pro/2020/05/20/ball-awareness-v13-introduction-to-direction-recognition/)
 
 - [[BA \| V14: Direction Recognition Runway A with
-  Player]{.underline}](https://tennis.pro/2020/05/20/ball-awareness-v14-direction-recognition-runway-a-with-player/)
+  Player]](https://tennis.pro/2020/05/20/ball-awareness-v14-direction-recognition-runway-a-with-player/)
 
 - [[BA \| V15: Direction Recognition Runway B with
-  Player]{.underline}](https://tennis.pro/2020/05/20/ball-awareness-v15-direction-recognition-runway-b-with-player/)
+  Player]](https://tennis.pro/2020/05/20/ball-awareness-v15-direction-recognition-runway-b-with-player/)
 
 - [[BA \| V16: Direction Recognition Runway C with
-  Player]{.underline}](https://tennis.pro/2020/05/14/ball-awareness-v16-direction-recognition-runway-c-with-player/)
+  Player]](https://tennis.pro/2020/05/14/ball-awareness-v16-direction-recognition-runway-c-with-player/)
 
 - [[BA \| V17: Introduction to Speed
-  Recognition]{.underline}](https://tennis.pro/2020/05/21/ball-awareness-v17-introduction-to-speed-recognition/)
+  Recognition]](https://tennis.pro/2020/05/21/ball-awareness-v17-introduction-to-speed-recognition/)
 
 - [[BA \| V18: Speed Recognition with
-  Player]{.underline}](https://tennis.pro/2020/05/14/ball-awareness-v18-speed-recognition-with-player/)
+  Player]](https://tennis.pro/2020/05/14/ball-awareness-v18-speed-recognition-with-player/)
 
 - [[BA \| V19: Introduction to Spin
-  Recognition]{.underline}](https://tennis.pro/2020/05/21/ball-awareness-v19-introduction-to-spin-recognition/)
+  Recognition]](https://tennis.pro/2020/05/21/ball-awareness-v19-introduction-to-spin-recognition/)
 
 - [[BA \| V20: Spin Recognition with
-  Player]{.underline}](https://tennis.pro/2020/05/21/ball-awareness-v20-spin-recognition-with-player/)
+  Player]](https://tennis.pro/2020/05/21/ball-awareness-v20-spin-recognition-with-player/)
 
 - [[BA \| V21: Introduction to the 5
-  Responses]{.underline}](https://tennis.pro/2020/05/21/ball-awareness-v21-introduction-to-the-5-responses/)
+  Responses]](https://tennis.pro/2020/05/21/ball-awareness-v21-introduction-to-the-5-responses/)
 
 - [[BA \| V22: Placement
-  Execution]{.underline}](https://tennis.pro/2020/05/21/ball-awareness-v22-placement-execution/)
+  Execution]](https://tennis.pro/2020/05/21/ball-awareness-v22-placement-execution/)
 
 - [[BA \| V23: Speed
-  Execution]{.underline}](https://tennis.pro/2020/05/21/ball-awareness-v23-speed-execution/)
+  Execution]](https://tennis.pro/2020/05/21/ball-awareness-v23-speed-execution/)
 
 - [[BA \| V24: Spin
-  Execution]{.underline}](https://tennis.pro/2020/05/21/ball-awareness-v24-spin-execution/)
+  Execution]](https://tennis.pro/2020/05/21/ball-awareness-v24-spin-execution/)
 
 - [[BA \| V25: On the Rise
-  Execution]{.underline}](https://tennis.pro/2020/05/21/ball-awareness-v25-on-the-rise-execution/)
+  Execution]](https://tennis.pro/2020/05/21/ball-awareness-v25-on-the-rise-execution/)
 
 **Ball Awareness \| V1: Introduction to Ball Awareness**
 

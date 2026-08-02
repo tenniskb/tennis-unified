@@ -20,13 +20,11 @@ laterality also relates to the dominance of the left or right eye.
 
 Coaches and trainers are currently exploring the effects laterality has
 on motor performance and technical development. In tennis, Paul
-Dorochenko has been a leader in this field of study. [[Click
-Here](https://www.youtube.com/watch?v=AqvqWwaeSTg) to see
+Dorochenko has been a leader in this field of study. [[link](https://www.youtube.com/watch?v=AqvqWwaeSTg) to see
 him training with a young Roger Federer.
 
 Others like the Spanish coach Jofre Porta are using laterality to inform
-their developmental work with players. ([[Click
-Here](https://www.tennisplayer.net/members/classiclessons/chris_lewit/maverick_genius_of_mallorca/)
+their developmental work with players. ([[link](https://www.tennisplayer.net/members/classiclessons/chris_lewit/maverick_genius_of_mallorca/)
 to see my previous profile of him on Tennisplayer.) Future coaches may
 be able train and enhance eye dominance from a young age to improve
 technical development and overall sports performance.
@@ -144,7 +142,6 @@ common on tour.
 The predictions in this article are meant to provoke thought and
 discussion. I look forward to getting feedback and other ideas from the
 Tennisplayer community at large. Please share your own predictions in
-the Forum. ([[Click
-Here](https://www.tennisplayer.net/bulletin/forum/tennisplayer/79288-future-trends-in-tennis-part-2?view=stream).)
+the Forum. ([[link](https://www.tennisplayer.net/bulletin/forum/tennisplayer/79288-future-trends-in-tennis-part-2?view=stream).)
 
 ![A person hitting a ball with a tennis racket](media_future-trends-in-tennis-part-2/media/image7.jpeg)

@@ -10,10 +10,9 @@ In Part 1 of this series on the kick serve, I presented the technical
 reference points for the kick serve motion. This included explaining the
 three versions of the kick that a player needs to be a complete
 competitive server. These versions are true topspin, slice topspin, and
-twist. [Click Here](Keys%20to%20the%20Kick%20Serve.docx) Then in Part
+twist. [link](Keys%20to%20the%20Kick%20Serve.docx) Then in Part
 2, I presented the drill progressions and a training plan for developing
-the kick in all variations. ([Click
-Here](Constructing%20the%20Kick.docx).)
+the kick in all variations. ([link](Constructing%20the%20Kick.docx).)
 
 Now, in this third article, I want to further discuss some important
 questions regarding this controversial serve and outline what I see as
@@ -206,7 +205,7 @@ prehabilitation exercises in the next article. At my academy players
 actually work on this exact move as a variation of a yoga stretch in our
 system.
 
-![](media_the-kick-serve-part-3-phylosophic-issues-common-mistakes/media/image9.webp)
+![link](media_the-kick-serve-part-3-phylosophic-issues-common-mistakes/media/image9.webp)
 
 **Another tendency is to move the contact back too far, behind the edge of the body.**
 

@@ -19,8 +19,7 @@ you don't necessarily. You just need to find a way to win more points.
 
 We've looked at many approaches to strategy in articles over the years.
 Both Allen's and Craig Cignarelli's patterns analysis. Ground-breaking
-research from Craig O'Shannessey on point duration. ([Click
-Here](https://www.tennisplayer.net/members/strategy/).)
+research from Craig O'Shannessey on point duration. ([link](https://www.tennisplayer.net/members/strategy/).)
 
 This article is different---a personal account of playing and winning
 matches in the real world. Starting in the early 1980's, over a 15-year
@@ -70,7 +69,7 @@ I didn't make many errors. He was just on fire. I said no way I am
 going to lose to this guy. So starting with the second set, I just
 matched pace with every ball he hit. This is the concept of the rhythm
 rally Kerry Mitchell and I developed teaching together in San Francisco.
-([Click Here](../Classic%20Lessons/Rhythm%20and%20Rally%20Speed.docx)
+([link](../Classic%20Lessons/Rhythm%20and%20Rally%20Speed.docx)
 for Kerry's article.)
 
 It took a while but we split. At the start of the third, he looked
@@ -400,8 +399,7 @@ generated](media_adapting-your-game-to-win-matches/media/image10.jpg)
 
 I was so glad I had taken the time to show up and witness it, or I would
 have been blind-sided. I decided to use the "mirror\" strategy I wrote
-about in an article on how to beat pushers. ([Click
-Here](https://www.tennisplayer.net/members/strategy/john_yandell/three_secrets_for_destroying_pushers/))
+about in an article on how to beat pushers. ([link](https://www.tennisplayer.net/members/strategy/john_yandell/three_secrets_for_destroying_pushers/))
 I told myself that even if it took me 6 hours, I was not going to lose
 to Victor making errors off his moonballs, and that I would wait 10 or
 20 balls if necessary to try to attack.

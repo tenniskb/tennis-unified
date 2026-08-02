@@ -15,7 +15,7 @@ worlds and can undermine the very core of our integrity and values.
 The president of a famous college said: ***["Its hard to teach integrity
 in pursuit of knowledge or how to live a life of purpose and service
 when an institution's own integrity is compromised in pursuit of victory
-on the playing fields".]{.mark}*** This is true not just for large
+on the playing fields".]*** This is true not just for large
 institutions, but also for ourselves.
 
 The Western approach to sports has given rise to questionable ethical

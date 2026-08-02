@@ -24,8 +24,7 @@ speed video of Pete and the talks I did about his motion at coaching
 conventions were phenomenally popular. I also did dozens of side by side
 filming comparisons using Pete as a model for competitive junior and
 club players. The impact of his unbelievable clutch serving and his
-gorgeous, fluid motion lingered well after his retirement. ([Click
-Here](http://www.tennisplayer.net/public/tour_strokes/tour_strokes_sample.html)
+gorgeous, fluid motion lingered well after his retirement. ([link](http://www.tennisplayer.net/public/tour_strokes/tour_strokes_sample.html)
 to see the series on his Sampras motion.)
 
 ![A person playing tennis Description automatically generated with
@@ -49,8 +48,7 @@ Roddick was going to tear up his shoulder and ruin his career.
 
 One exception was Rick Macci, a coach who actually worked with Andy.
 Rick helped him develop his serving fundamentals when he was around 11
-years old. ([Click
-Here](http://www.tennisplayer.net/members/tour_strokes/rick_macci/rick_macci_andy_roddick_serve_images/rick_macci_andy_roddick_serve.html)
+years old. ([link](http://www.tennisplayer.net/members/tour_strokes/rick_macci/rick_macci_andy_roddick_serve_images/rick_macci_andy_roddick_serve.html)
 to read his analysis of Roddick's serve development.) In his article,
 Rick turns the argument about Roddick's \"dangerous\" motion on its
 head. He believes that the problem was never with Andy's serve.
@@ -117,7 +115,7 @@ who served with as much spin or more spin. But we didn't find many
 players serving as fast as Pete with as much spin. His first serve
 averaged about 118mph with total spin of about 2500rpm. You can see the
 detailed results of that study in the new article about the heavy ball
-in this issue. (Click Here.)
+in this issue. 
 
 Then Andy came along. Last year at Indian Wells we had the opportunity
 to do high speed filming of his spin rates. This allowed us to compare
@@ -259,12 +257,10 @@ to be Maria Sharapova.)
 There has been a lot of discussion, in tennis coaching and also in the
 Forum on Tennisplayer, about the role of the stance in creating leg
 drive. Check out Bruce Elliot's great article on the Power Serve
-([Click
-Here](http://www.tennisplayer.net/members/biomechanics/bruce_elliot/BE_Power_Serve_P1/BE_Power_Serve_Part1.pg1.html)),
+([link](http://www.tennisplayer.net/members/biomechanics/bruce_elliot/BE_Power_Serve_P1/BE_Power_Serve_Part1.pg1.html)),
 in which he finds pluses and minuses to both stances. You can also
 compare it to my article in the Advanced Tennis section for an argument
-that the platform stance is superior.([Click
-Here](http://www.tennisplayer.net/members/tour_strokes/john_yandell/sampras_serve/sampras_serve_footwork_images/sampras_serve_footwork.html)).
+that the platform stance is superior.([link](http://www.tennisplayer.net/members/tour_strokes/john_yandell/sampras_serve/sampras_serve_footwork_images/sampras_serve_footwork.html)).
 
 ![A tennis player is swinging his racket Description automatically
 generated with low
@@ -309,7 +305,7 @@ foot first with the front foot still down. What really happens is that
 the back foot gets pulled along by the action of the front foot and the
 front leg.(See the Myth of the Pinpoint Stance
 
-[Click Here](http://www.tennisplayer.net/members/avancedtennis/john_yandell/the_myth/the_myth_of_the_pinpoint_stance_images/the_myth_of_the_pinpoint_stance.html)
+[link](http://www.tennisplayer.net/members/avancedtennis/john_yandell/the_myth/the_myth_of_the_pinpoint_stance_images/the_myth_of_the_pinpoint_stance.html)
 
 The leg drive for both the platform and the traditional pinpoint players
 comes mainly from the front foot. But Roddick appears to be the
@@ -368,8 +364,7 @@ stance makes it impossible. Sampras and Federer are probably the two
 players with the greatest amount of body rotation. They both start with
 much more of an offset between the back and the front foot, and then
 turn away from the ball on the line of this stance. (To see my Sampras
-stance article, [Click
-Here](http://www.tennisplayer.net/members/tour_strokes/john_yandell/sampras_serve/sampras_serve_footwork_images/sampras_serve_footwork.html).)
+stance article, [link](http://www.tennisplayer.net/members/tour_strokes/john_yandell/sampras_serve/sampras_serve_footwork_images/sampras_serve_footwork.html).)
 This gives them both more rotation forward into the hit.
 
 ![A person playing tennis Description automatically

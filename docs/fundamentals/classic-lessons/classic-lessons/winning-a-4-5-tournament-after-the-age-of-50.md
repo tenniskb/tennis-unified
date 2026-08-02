@@ -304,11 +304,9 @@ and beat up on a dolphin.
 
 I take things to keep on going, such as fish oil, Juvenon, acetyl
 carnitine, vitamin D, cla, green tea, alpha lipoic acid, quinine (some
-are allergic) also stops cramps, and even golden pickle juice. ([Click
-Here](http://www.goldenpicklejuice.com/?pjsid=3).)
+are allergic) also stops cramps, and even golden pickle juice. ([link](http://www.goldenpicklejuice.com/?pjsid=3).)
 
-I tried fluid recovery powder. ([Click
-Here](http://www.weightloss-hq.biz/recovery-drinks-and-bars/fluid-recovery-drink-review.html)).
+I tried fluid recovery powder. ([link](http://www.weightloss-hq.biz/recovery-drinks-and-bars/fluid-recovery-drink-review.html)).
 I also found that chocolate milk, has the same portions of
 carbohydrate/protein 4/1 that a lot of the expensive drinks have, as a
 recovery drink, but it's a lot cheaper.
@@ -362,7 +360,7 @@ the back fence, to take time in between points, and recover, and wipe
 off blinding sweat. (Bugs the crap out of the young dumb guys who want
 to rush you.)
 
-![](media_winning-a-4-5-tournament-after-the-age-of-50/media/image10.jpg)
+![link](media_winning-a-4-5-tournament-after-the-age-of-50/media/image10.jpg)
 
 **Global Gut in a hybrid with Alu Power Lux, glowing in the spring light.Tactics**
 

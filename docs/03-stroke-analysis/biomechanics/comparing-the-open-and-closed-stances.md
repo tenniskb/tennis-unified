@@ -198,7 +198,7 @@ the data once again suggested the opposite.
 **[For the variables examined, Knudson concluded that similarities
 between open and closed stance forehand techniques may be greater than
 the potential differences hypothesized by instructional
-experts.]{.mark}** There were consistent, but non-significant trends of
+experts.]** There were consistent, but non-significant trends of
 greater trunk angular velocity and racquet resultant velocity at impact
 at the classic square stance technique compared to the open stance. This
 provided some, tentative, support to the view that the square stance

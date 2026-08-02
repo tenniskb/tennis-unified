@@ -16,8 +16,7 @@ It's been argued that the return of serve is as important or possibly
 more important than the serve itself, since without the ability to break
 every set ends in a tiebreaker. Clearly we saw the role the return could
 play in Novak Djokovic's titanic Australian victory over Rafael Nadal.
-([[Click
-Here]{.underline}](https://www.tennisplayer.net/members/strategy/craig_o_shannessy/suffering_and_service_returns/)
+([[]](https://www.tennisplayer.net/members/strategy/craig_o_shannessy/suffering_and_service_returns/)
 to read Craig O'Shannessey's article about that.)
 
 But when we say \"return of serve,\" what do we mean? There is no one
@@ -74,8 +73,7 @@ The foundation of this type of return for Federer is the grip. Federer
 returns with by far the most conservative grip of the top players,
 basically a modern eastern forehand. This is essentially the same grip
 Pete Sampras and Tim Henman used on their forehand groundstrokes.
-([[Click
-Here]{.underline}](https://www.tennisplayer.net/members/avancedtennis/john_yandell/grips/modern_forehand_grip_variations_part1/modern_forehand_grip_variations_part1.html)
+([[]](https://www.tennisplayer.net/members/avancedtennis/john_yandell/grips/modern_forehand_grip_variations_part1/modern_forehand_grip_variations_part1.html)
 for more on grips and grip terminology.)
 
 ![A person playing tennis Description automatically generated with
@@ -104,8 +102,7 @@ it below shoulder level, which is critical with his conservative grip.
 The result is that he takes time away from other players. This also
 means he hits his forehand returns very flat by modern standards. In our
 original spin studies we found that in general the returns were hit with
-less spin that the groundstrokes. ([[Click
-Here]{.underline}](https://www.tennisplayer.net/members/mystheavyball/john_yandell/spintest_part2/spintest_part2.html).)
+less spin that the groundstrokes. ([[]](https://www.tennisplayer.net/members/mystheavyball/john_yandell/spintest_part2/spintest_part2.html).)
 This is true for the top current players and especially for Federer.
 
 Whereas Roger averages about 2700rpm on his forehand groundstrokes, his
@@ -167,13 +164,11 @@ This is a big difference from the groundstrokes which often start with a
 step out in the direction of the ball, with a player picking up the
 outside foot. Or a groundstroke can start with a drop step in which the
 player moves the outside foot back underneath his body. (For more on the
-first step footwork options on the groundstrokes, [[Click
-Here]{.underline}](https://www.tennisplayer.net/members/avancedtennis/john_yandell/djokovic_forehand/part_02.html).)
+first step footwork options on the groundstrokes, [[]](https://www.tennisplayer.net/members/avancedtennis/john_yandell/djokovic_forehand/part_02.html).)
 
 A second difference is the stance. In most pro groundstrokes players set
 up in a semi-open stance at the end of the turn with the left foot
-significantly closer to the net ([[Click
-Here]{.underline}](https://www.tennisplayer.net/members/avancedtennis/john_yandell/building%20_the_modern%20_forehand/stances_modern_forehand/stances_modern_forehand.html)
+significantly closer to the net ([[]](https://www.tennisplayer.net/members/avancedtennis/john_yandell/building%20_the_modern%20_forehand/stances_modern_forehand/stances_modern_forehand.html)
 for more on that). But on most forehand returns it's different.
 
 Rather than stepping upward, the left foot (the foot further from the
@@ -216,8 +211,7 @@ probably somewhere in between.
 The left arm stretch also tends to be less extreme. It definitely comes
 across the body, but sometimes it never fully straightens out, and it
 rarely points directly at the sideline, as it does routinely on
-groundstrokes. (For more on the groundstroke turn, [[Click
-Here]{.underline}](https://www.tennisplayer.net/members/avancedtennis/john_yandell/your_forehand_and_the_modern_forehand/preparation/your_forehand_and_the_modern_forehand_preparation.html).)
+groundstrokes. (For more on the groundstroke turn, [[]](https://www.tennisplayer.net/members/avancedtennis/john_yandell/your_forehand_and_the_modern_forehand/preparation/your_forehand_and_the_modern_forehand_preparation.html).)
 
 This all makes sense. On the return, players us a quicker, more compact
 version of the groundstroke turn because of the time factor. Remember
@@ -302,8 +296,7 @@ similar to what happens on some running forehands which end with a cross
 step that lands after the hit.
 
 This return cross step is part of what footwork master David Bailey
-calls a \"Transfer Move.\" ([[Click
-Here]{.underline}](https://www.tennisplayer.net/members/footwork/david_bailey/contact_moves_return/aggressive_return/).)
+calls a \"Transfer Move.\" ([[]](https://www.tennisplayer.net/members/footwork/david_bailey/contact_moves_return/aggressive_return/).)
 As Bailey explains it, the returner, in this case Roger, is using the
 cross step to transfer his weight forward and move into the shot and hit
 a more aggressive return.
@@ -348,8 +341,7 @@ generated](media_the-pro-return-of-serve-ohbh/media/image10.webp)
 style eastern forehand.**
 
 That on edge swing is also similar to a classic eastern forehand, pretty
-close to what Robert Lansdorp taught Pete Sampras at age 8. ([[Click
-Here]{.underline}](https://www.tennisplayer.net/members/famouscoach/robert_lansdorp/lansdorp_forehand_images/lansdorp_forehand.html).)
+close to what Robert Lansdorp taught Pete Sampras at age 8. ([[]](https://www.tennisplayer.net/members/famouscoach/robert_lansdorp/lansdorp_forehand_images/lansdorp_forehand.html).)
 In fact Roger's forehand return---with maybe slightly more
 backswing\--could be used as a model forehand groundstroke for a vast of
 club players.
@@ -371,8 +363,7 @@ The wrap, or the deceleration phase, finishes higher than the
 groundstroke and often directly backwards over the shoulder. Again this
 is very different from Roger's normal forehand which typically hase
 massive wiper action and can finish wrapped around the upper torso. (For
-more on the wiper and what it means, [[Click
-Here]{.underline}](https://www.tennisplayer.net/members/avancedtennis/john_yandell/your_forehand_and_the_modern_forehand/hand_arm_rotation/hand_arm_rotation.html).)
+more on the wiper and what it means, [[]](https://www.tennisplayer.net/members/avancedtennis/john_yandell/your_forehand_and_the_modern_forehand/hand_arm_rotation/hand_arm_rotation.html).)
 
 **Hitting Arm**
 
@@ -383,8 +374,7 @@ generated](media_the-pro-return-of-serve-ohbh/media/image11.webp)
 on some balls.**
 
 As we have seen, Federer hits most (but not all) of his forehand
-groundstrokes with a straight hitting arm configuration. ([[Click
-Here]{.underline}](https://www.tennisplayer.net/members/avancedtennis/john_yandell/your_forehand_and_the_modern_forehand/hitting_arm_positions/your_forehand_and_the_modern_forehand_straight_elbow_arm_position.html).)
+groundstrokes with a straight hitting arm configuration. ([[]](https://www.tennisplayer.net/members/avancedtennis/john_yandell/your_forehand_and_the_modern_forehand/hitting_arm_positions/your_forehand_and_the_modern_forehand_straight_elbow_arm_position.html).)
 And this is true of most of his returns as well. As he starts forward
 the arm and elbow are already straight and this pushes the contact quite
 far out. On some balls however, he will default to the more conservative
@@ -485,8 +475,7 @@ generated](media_the-pro-return-of-serve-ohbh/media/image14.webp)
 their forehand groundstrokes.**
 
 In the first article in this series we looked at the compact, classical
-return patterns hit by Roger Federer. ([[Click
-Here]{.underline}](https://www.tennisplayer.net/members/avancedtennis/john_yandell/pro_returns/part_1_compact_classical/).)
+return patterns hit by Roger Federer. ([[]](https://www.tennisplayer.net/members/avancedtennis/john_yandell/pro_returns/part_1_compact_classical/).)
 Now let's look at pro returns hit with more extreme grips by Novak
 Djokovic and Rafael Nadal and the similarities and the differences with
 Federer.
@@ -495,8 +484,7 @@ Federer hits his forehand returns with a very conservative grip by
 modern standards. Compared to his regular forehand grip he shifts his
 hand slightly toward the top of the frame to what we have called a
 modern eastern, the same grip used on the forehand drive by Pete Sampras
-and Tim Henman. ([[Click
-Here]{.underline}](https://www.tennisplayer.net/members/avancedtennis/john_yandell/your_forehand_and_the_modern_forehand/grip/your_forehand_and_the_modern_forehand_grip.html)
+and Tim Henman. ([[]](https://www.tennisplayer.net/members/avancedtennis/john_yandell/your_forehand_and_the_modern_forehand/grip/your_forehand_and_the_modern_forehand_grip.html)
 for more grip info.)
 
 We know that on the groundstrokes that both Novak Djokovic and Rafael
@@ -526,13 +514,11 @@ confidence](media_the-pro-return-of-serve-ohbh/media/image15.webp)
 Let's start by defining the grips more clearly. What do I mean by an
 extreme semi-western grip? For Djokovic, the heel pad is on the fourth
 bevel down from the top, or maybe slightly further underneath. His index
-knuckle is on the edge between bevel 4 and bevel 5. ([[Click
-Here]{.underline}](https://www.tennisplayer.net/members/avancedtennis/john_yandell/djokovic_forehand/part_01.html).)
+knuckle is on the edge between bevel 4 and bevel 5. ([[]](https://www.tennisplayer.net/members/avancedtennis/john_yandell/djokovic_forehand/part_01.html).)
 
 Nadal has his index knuckle on bevel 4, probably a little higher than
 Djokovic, but his heel pad is a little lower, on the edge between 4 and
-5. ([[Click
-Here]{.underline}](https://www.tennisplayer.net/members/avancedtennis/john_yandell/building%20_the_modern%20_forehand/rafael_nadals_forehand/rafael_nadals_forehand.html).)
+5. ([[]](https://www.tennisplayer.net/members/avancedtennis/john_yandell/building%20_the_modern%20_forehand/rafael_nadals_forehand/rafael_nadals_forehand.html).)
 
 Neither grip is fully \"western\" because neither player slides his hand
 completely under the handle. But these are still the most extreme grips
@@ -546,8 +532,7 @@ One major difference we should note, however, between Novak and Rafa is
 the grips they hold in the ready position. Djokovic is in between his
 forehand and backhand. He appears to have his index knuckle on the
 center of bevel 3---the bevel directly aligned with the string bed, with
-the heel pad the same or possibly somewhat lower. ([[Click
-Here]{.underline}](https://www.tennisplayer.net/members/avancedtennis/john_yandell/grips/modern_forehand_grip_variations_part1/modern_forehand_grip_variations_part1.html)
+the heel pad the same or possibly somewhat lower. ([[]](https://www.tennisplayer.net/members/avancedtennis/john_yandell/grips/modern_forehand_grip_variations_part1/modern_forehand_grip_variations_part1.html)
 for even more on grips and grip terminology.)
 
 ![A person playing tennis Description automatically
@@ -570,8 +555,7 @@ essentially the same grip as their groundstrokes. So what are the
 implications here for the rest of the technical stroke? They aren't
 necessarily what you might assume.
 
-Let's start with spin. We know from our previous studies ([[Click
-Here]{.underline}](https://www.tennisplayer.net/members/mystheavyball/john_yandell/spintest_part2/spintest_part2.html))
+Let's start with spin. We know from our previous studies ([[]](https://www.tennisplayer.net/members/mystheavyball/john_yandell/spintest_part2/spintest_part2.html))
 that in general the returns are hit with much less spin than the
 groundstrokes.
 
@@ -579,8 +563,7 @@ But you might assume that with his even more conservative return grip
 Federer would have lower spin values on the returns than the other two
 players, especially considering the more over the shoulder style finish
 he tends to use on his returns---varying from his lower windshield wiper
-groundstroke finishes. ([[Click
-Here]{.underline}](https://www.tennisplayer.net/members/avancedtennis/john_yandell/pro_returns/part_1_compact_classical/)
+groundstroke finishes. ([[]](https://www.tennisplayer.net/members/avancedtennis/john_yandell/pro_returns/part_1_compact_classical/)
 for more on Federer's return.)
 
 ![A person playing tennis Description automatically
@@ -771,8 +754,7 @@ landing, but as we saw, can also begin while the player is in the air.
 
 As the pivot happens, the turn also starts with the upper body. This
 motion is similar to the turn on the groundstrokes, something we have
-seen many times. ([[Click
-Here]{.underline}](https://www.tennisplayer.net/members/avancedtennis/john_yandell/your_forehand_and_the_modern_forehand/preparation/your_forehand_and_the_modern_forehand_preparation.html).)
+seen many times. ([[]](https://www.tennisplayer.net/members/avancedtennis/john_yandell/your_forehand_and_the_modern_forehand/preparation/your_forehand_and_the_modern_forehand_preparation.html).)
 
 The idea is not to \"get the racket back.\" The arm and the racket have
 no independent or very limited independent movement as the unit turn
@@ -799,8 +781,7 @@ opposite arm across the body.**
 The opposite arm stretch across the body also tends to be less.
 Typically it doesn't fully straighten out and point directly at the
 sideline, as it virtually always does on the groundstrokes. (For more on
-the groundstroke turn, [[Click
-Here]{.underline}](https://www.tennisplayer.net/members/avancedtennis/john_yandell/building%20_the_modern%20_forehand/building_modern_forehand_pg1/building_modern_forehand_pg1.html).)
+the groundstroke turn, [[]](https://www.tennisplayer.net/members/avancedtennis/john_yandell/building%20_the_modern%20_forehand/building_modern_forehand_pg1/building_modern_forehand_pg1.html).)
 
 This all makes sense. On the return, players have to use a quicker, more
 compact preparation because of the time factor. This is due to the fact
@@ -928,8 +909,7 @@ step that lands after the hit. Or the lunge step on the volley, where
 the hit happens before the front foot hits the court in most cases.
 
 David Bailey calls this cross step on the return a \"Transfer Move.\"
-([[Click
-Here]{.underline}](https://www.tennisplayer.net/members/footwork/david_bailey/contact_moves_return/aggressive_return/).)
+([[]](https://www.tennisplayer.net/members/footwork/david_bailey/contact_moves_return/aggressive_return/).)
 The player uses the cross step to transfer his weight forward and move
 into the shot and hit a more aggressive return.
 
@@ -973,8 +953,7 @@ generated](media_the-pro-return-of-serve-ohbh/media/image30.webp)
 But the rotation of the shoulders is also restricted in the
 followthrough. On the forehand groundstroke, the players often rotate
 the rear shoulder around until it is facing the net, with the plane of
-the torso at a right angle to the baseline. ([[Click
-Here]{.underline}](https://www.tennisplayer.net/members/avancedtennis/john_yandell/your_forehand_and_the_modern_forehand/shoulder_rotation/shoulder_rotation.html).)
+the torso at a right angle to the baseline. ([[]](https://www.tennisplayer.net/members/avancedtennis/john_yandell/your_forehand_and_the_modern_forehand/shoulder_rotation/shoulder_rotation.html).)
 
 But on the forehand return Djokovic and Nadal---as with
 Federer\--typically rotate the torso far less after contact, typically
@@ -992,8 +971,7 @@ reduces the number of wiper finishes he uses so predominantly on his
 groundstrokes, and hits higher, more over the shoulder finishes instead.
 
 But Novak is the reverse! He exchanges his usual over the shoulder
-finish for the wiper! ([[Click
-Here]{.underline}](https://www.tennisplayer.net/members/avancedtennis/john_yandell/djokovic_forehand/part_04.html).)
+finish for the wiper! ([[]](https://www.tennisplayer.net/members/avancedtennis/john_yandell/djokovic_forehand/part_04.html).)
 Compared to his groundstroke he normally finishes much lower, with his
 racket and hand wrapping around the shoulder or even the torso.
 
@@ -1014,8 +992,7 @@ returns and generate similar spin levels.
 Not sure I can figure out what all that means---or that I even want to
 try. But I guess one point that we've made many times before can't
 really be debated---top players combine the complex elements in the
-swing patterns in a wide variety of ways. ([[Click
-Here]{.underline}](https://www.tennisplayer.net/members/avancedtennis/john_yandell/what_is_true_in_tennis_forehands/).)
+swing patterns in a wide variety of ways. ([[]](https://www.tennisplayer.net/members/avancedtennis/john_yandell/what_is_true_in_tennis_forehands/).)
 
 And maybe exactly how they do all that is something that, at some point,
 you just have to feel as a player, and something that can't be worked
@@ -1171,10 +1148,8 @@ a basic constellation of elements that one-handed players should
 understand and develop first in building great returns for themselves.
 
 In the first two articles in this series, we looked first at pro
-forehand returns, first the classical drives ([[Click
-Here]{.underline}](https://www.tennisplayer.net/members/avancedtennis/john_yandell/pro_returns/part_1_compact_classical/index.html))
-and returns with more extreme grips. ([[Click
-Here]{.underline}](https://www.tennisplayer.net/members/avancedtennis/john_yandell/grips/modern_forehand_grip_variations_part1/modern_forehand_grip_variations_part1.html).)
+forehand returns, first the classical drives ([[]](https://www.tennisplayer.net/members/avancedtennis/john_yandell/pro_returns/part_1_compact_classical/index.html))
+and returns with more extreme grips. ([[]](https://www.tennisplayer.net/members/avancedtennis/john_yandell/grips/modern_forehand_grip_variations_part1/modern_forehand_grip_variations_part1.html).)
 
 Now we'll shift to the backhands. In this first article we'll look at
 Federer and his classical one-handed drive returns. Then we'll move on
@@ -1196,12 +1171,10 @@ whether the return is a forehand or a backhand.
 
 With this in between grip, his index knuckle appears to be on bevel 2,
 one down from the top. (For more on the bevels and grip terminology,
-[[Click
-Here]{.underline}](https://www.tennisplayer.net/members/avancedtennis/john_yandell/grips/modern_forehand_grip_variations_part1/modern_forehand_grip_variations_part1.html).)
+[[]](https://www.tennisplayer.net/members/avancedtennis/john_yandell/grips/modern_forehand_grip_variations_part1/modern_forehand_grip_variations_part1.html).)
 
 His heel pad is probably on the edge between bevels 2 and 3. For the
-forehand return, as we saw ([[Click
-Here]{.underline}](https://www.tennisplayer.net/members/avancedtennis/john_yandell/pro_returns/part_1_compact_classical/index.html)),
+forehand return, as we saw ([[]](https://www.tennisplayer.net/members/avancedtennis/john_yandell/pro_returns/part_1_compact_classical/index.html)),
 he shifts the hand down to a classic eastern, what we have called a 3 /
 3, with both the index knuckle and the heel pad on the third bevel down
 from the top and aligned behind the racket head.
@@ -1252,8 +1225,7 @@ spin. On the other hand, his second serve returns, usually with longer
 swings, averaged slightly over 2000rpm.
 
 And, interestingly, this is the same pattern---and in fact virtually the
-same spin rates\--we saw on his forehand returns. ([[Click
-Here]{.underline}](https://www.tennisplayer.net/members/avancedtennis/john_yandell/pro_returns/part_1_compact_classical/index.html).)
+same spin rates\--we saw on his forehand returns. ([[]](https://www.tennisplayer.net/members/avancedtennis/john_yandell/pro_returns/part_1_compact_classical/index.html).)
 
 ![A person playing tennis Description automatically
 generated](media_the-pro-return-of-serve-ohbh/media/image38.webp)

@@ -222,12 +222,12 @@ foot.** I hear a number of coaches advocate putting
 this foot directly behind the incoming ball. That can be a good image
 but if you follow it too literally you'll end up on top of the ball.
 
-**[The Stance:]{.underline}**
+**[The Stance:]**
 
 **The reality is your left foot should position inside of where
 you'll actually hit the ball.** **The distance
 should be roughly the length of your non-dominant arm across the
-body.** ([Click Here to read my article on the role
+body.** ([ to read my article on the role
 of the non-dominant
 arm](The%20Opposite%20Arm%20-%20Ground%20strokes%20-%20Part%201.docx)).
 
@@ -258,7 +258,7 @@ your right or forward with your right foot, this
 only occurs after you have fully extended your
 swing.**
 
-**[The Swing:]{.underline}**
+**[The Swing:]**
 
 Now let's talk about the swing itself. Often, I see is players change
 the shape of their normal swing patterns. They start the racquet hand
@@ -321,12 +321,12 @@ gone it will flex forward naturally as a part of the
 finish.**
 
 **In addition, at the moment of contact [[your non dominant arm
-and]{.underline} [hand position]{.underline}]{.mark} should provide [[a
-breaking action]{.mark} [to]{.mark}]{.underline} prevent excessive
+and] [hand position]] should provide [[a
+breaking action] [to]] prevent excessive
 rotation of the dominant side.** T**[[he opposite
-arm should be bent and the opposite hand should be high.]{.mark} [Both
+arm should be bent and the opposite hand should be high.] [Both
 should be in front of the body, not haphazardly rotated past the left
-side.]{.mark}]{.underline}**
+side.]]**
 
 **With all the elements in place, nail it!**
 
@@ -348,7 +348,7 @@ balls you can deal will naturally vary with how you hold the racket.
 the higher your natural contact point.**
 
 I personally use a moderate semi-western grip on my forehand, about a 3
-1/2 / 3 1/2 according to the Tennisplayer scale (Click Here) or
+1/2 / 3 1/2 according to the Tennisplayer scale  or
 somewhere between Andre Agassi and David Nalbandian. With this grip a
 ball at mid-chest level is like hitting the jackpot.
 
@@ -384,8 +384,8 @@ point for an extreme grip.** It takes tremendous
 racquet head speed to generate enough pace and spin to keep your shots
 from landing short where they are attackable. **[[And the extreme grips
 make it much tougher to play low balls or to flatten out the
-ball.]{.mark} [The grip change for the volleys is also a horrendous
-adjustment.]{.mark}]{.underline}**
+ball.] [The grip change for the volleys is also a horrendous
+adjustment.]]**
 
 **High Slice**
 
@@ -409,9 +409,9 @@ confidence](media_the-high-ball/media/image13.webp)
 **Use a volley oriented high slice to neutralize and buy time.**
 
 **[[Prior to the forward swing you should set the racquet head a little
-above or equal to the height at which you'll strike the ball.]{.mark}
+above or equal to the height at which you'll strike the ball.]
 [Make sure to finish with the racquet head above your
-hand.]{.mark}]{.underline}** **If you get a really high ball hit it as
+hand.]]** **If you get a really high ball hit it as
 though your hand and racquet were running straight along a table
 top.** **Because you're hitting what amounts to
 a high half volley from the back of the court you usually have more

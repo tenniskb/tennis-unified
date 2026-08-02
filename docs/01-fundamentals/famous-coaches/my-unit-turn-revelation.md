@@ -61,8 +61,7 @@ Notice I said ready position and unit turn---but I left out the split
 step into the ready position. This is because most beginners and
 intermediates are not strong enough to push with authority out of a
 split. There are even wide disparities in the timing and power of the
-split amongst the pros. (For more on the Split Step, [Click
-Here](The%20Split%20Step%20%20Ready%20Position.docx).) A great split
+split amongst the pros. (For more on the Split Step, [link](The%20Split%20Step%20%20Ready%20Position.docx).) A great split
 step is a key in reaching your potential. But players can work on
 improving the split step later. The unit turn and grip change are
 different.
@@ -81,7 +80,7 @@ torso.**
 **[So how does the unit turn begin? The player lands the split (or what
 passes for one depending on ability and level) into the ready position.
 If the ready position is correct, the posture should be good, and there
-is space between arms and torso.]{.mark}**
+is space between arms and torso.]**
 
 In most cases when players land, the feet are facing forward toward the
 net although advanced players sometimes begin turning the feet in the
@@ -90,10 +89,10 @@ air.
 **Goals**
 
 **[After the split the first goal is to turn the body, feet, waist and
-shoulders towards the direction the player must move.]{.mark}** **[The
+shoulders towards the direction the player must move.]** **[The
 second goal is to put the racquet in the best possible position to hit
 any incoming shot and enable (not hinder) movement to the
-ball.]{.mark}** All this needs to be done before the players takes one
+ball.]** All this needs to be done before the players takes one
 full step towards the shot.
 
 The vast majority of shots require that the player does this right away
@@ -112,8 +111,7 @@ generated](media_my-unit-turn-revelation/media/image4.webp)
 
 **The unit turn, before the player takes a step toward the ball.**
 
-If you recall from my first article in this series ([Click
-Here](The%20Framework%20-%20A%20New%20Paradigm%20for%20Technique%20and%20Movement.docx)),
+If you recall from my first article in this series ([link](The%20Framework%20-%20A%20New%20Paradigm%20for%20Technique%20and%20Movement.docx)),
 rule number #4 of the Framework is that **players should strive for
 continuous, smooth acceleration/ deceleration of movement and
 swings.** Many players at the club level are very
@@ -152,7 +150,7 @@ opponent and rotates the grip immediately at the start of the turn.**
 **Racquet positioning is critical.** **[For
 topspin groundstrokes the hitting side of the racquet head should face
 away from the player toward the opponent and parallel roughly to the
-baseline.]{.mark}** If a grip change is needed then the non-dominant
+baseline.]** If a grip change is needed then the non-dominant
 hand helps gently guide the racquet to the correct grip.
 
 **For a player with a one-handed backhand the non-dominant hand rests
@@ -217,10 +215,10 @@ generated](media_my-unit-turn-revelation/media/image7.webp)
 **Novak's outside foot rotates like a greased hinge.**
 
 **Why are the level arms so important?**
-***[Because [the arms and racquet have]{.underline} [real mass and
-weight]{.underline}. If players have poor arm position, that mass holds
+***[Because [the arms and racquet have] [real mass and
+weight]. If players have poor arm position, that mass holds
 the player back. Literally players can throw themselves in the wrong
-direction.]{.mark}***
+direction.]***
 
 Want to prove it to yourself? Try this experiment. Hold a bag of
 groceries then turn and run like you are going to a forehand or a
@@ -345,15 +343,15 @@ spring to the shot.
 **And Full Circle**
 
 **[Which brings us back to the split step. [A great split step is like
-an earthquake]{.underline}. It creates great additional energy, but
+an earthquake]. It creates great additional energy, but
 before using that energy in springing to the shot a player must be
 stable, loose, and relaxed above the waist player when landing. That's
-what a great split step allows.]{.mark}**
+what a great split step allows.]**
 
 **Like an earthquake safe building, the player absorbs waves of
 energy, keeping extra movement in the torso and racquet to a
 minimum.** **[This absorption allows the arm and
-racquet to stay stable, reducing variables.]{.mark}**
+racquet to stay stable, reducing variables.]**
 
 If done properly a great split then sets the stage for a smooth even
 more powerful unit turn and maximum push and acceleration to the shot.

@@ -10,15 +10,13 @@ conventional wisdom.
 
 The leg push naturally and automatically generates the backwards,
 external rotation of the arm, maximizing the effect of the complex
-motions in the upward swing Brian has previously identified. ([Click
-Here.)](Rotations%20in%20the%20Upward%20Swing.docx) See how the timing
-of the knee bend and leg drive relates to the Hesitation Point ([Click
-Here](The%20Hesitation%20Point.docx)).
+motions in the upward swing Brian has previously identified. ([)](Rotations%20in%20the%20Upward%20Swing.docx) See how the timing
+of the knee bend and leg drive relates to the Hesitation Point ([link](The%20Hesitation%20Point.docx)).
 
 This is most important concept in serve development---synchronizing the
 legs with the upper body.
 
-![](media_synchronizing-the-legs/media/image1.png)
+![link](media_synchronizing-the-legs/media/image1.png)
 
 | ![A person holding a tennis racket Description automatically | Dr. Brian Gordon has changed the understanding of the |
 | --- | --- |
@@ -32,8 +30,8 @@ legs with the upper body.
 |  | knowledge across the entire range of tennis performance. |
 |  |  |
 |  | To visit his website, [**[Click |
-|  | Here!]{.underline}**](https://tennisperformanceresearch.com/) |
+|  | Here!]**](https://tennisperformanceresearch.com/) |
 |  |  |
 |  | Top contact him directly, [**[Click |
-|  | Here!]{.underline}**](mailto:gamabrian@icloud.com) |
+|  | Here!]**](mailto:gamabrian@icloud.com) |
 

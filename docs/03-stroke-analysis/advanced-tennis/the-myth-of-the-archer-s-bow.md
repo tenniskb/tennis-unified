@@ -6,7 +6,7 @@ What is the \"Archer's Bow\" and is it a vital component in high level
 serving? Should players at all levels be trying to develop it?
 
 **[The term Archer's Bow refers to the curve along the edge the torso
-and arms at the extension of the tossing motion]{.mark}**. Allegedly
+and arms at the extension of the tossing motion]**. Allegedly
 this curve is in the shape of a bow, with the tossing arm over the head,
 the torso leaning back and the front hip jutting out into the court.
 
@@ -48,12 +48,12 @@ and the right shoulder rises with the right shoulder now above the left
 at about the same incline.***
 
 **[The research shows this \"shoulder over shoulder\" motion is an
-important element in creating racket speed.]{.mark}** But how is it
+important element in creating racket speed.]** But how is it
 developed?
 
 Not by the Archer's Bow. **[The reality is that the shoulder tilt is a
 natural consequence of other factors, the tossing arm motion and also
-the knee bend.]{.mark}**
+the knee bend.]**
 
 So let's look at the motion of some top servers and see how they create
 shoulder tilt. Then let's examine what component's of the archer's
@@ -88,18 +88,18 @@ characteristic of great serving.
 
 However the entire Archer's Bow is supposed to include more than the
 curve of the arm. ***[It is supposed to also include \"hip thrust\" out
-over the court. Could that be the real key?]{.mark}***
+over the court. Could that be the real key?]***
 
 ***[To achieve this position, players are encouraged to lean back at the
 waist and \"jut\" their front hip forward. But the reality is this just
-doesn't happen in good serving to any significant extent.]{.mark}***
+doesn't happen in good serving to any significant extent.]***
 
 **The torso as a whole is angled back, this is true. But this is the
 natural consequence of the knee bend. The deeper the knee bend the more
 pronounced the angle.**
 
 ***[But there is no additional leaning back from the waist. In fact the
-hips and the torso stay aligned.]{.mark}***
+hips and the torso stay aligned.]***
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -196,8 +196,7 @@ to your models, you won't develop problems like the Archer's Bow and
 in all likelihood can develop a superior technical serve. If that idea
 interests you, I suggest you check out my new serve article series
 designed to help you do just that. It's been getting some pretty great
-reviews. ([Click
-Here](../../Fundamentals/Teaching%20Systems/Teaching%20SystemsTOC.docx).)
+reviews. ([link](../../Fundamentals/Teaching%20Systems/Teaching%20SystemsTOC.docx).)
 
 ![A person smiling for the camera Description automatically generated
 with medium

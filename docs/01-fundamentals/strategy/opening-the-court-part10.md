@@ -11,7 +11,7 @@ changes in spin. Two crosscourt slices to the backhand. Then a run
 around inside in forehand to force a short ball, and finally an
 attacking ball to the open court.
 
-![](media_opening-the-court-part10/media/image1.png)
+![link](media_opening-the-court-part10/media/image1.png)
 
   --
 

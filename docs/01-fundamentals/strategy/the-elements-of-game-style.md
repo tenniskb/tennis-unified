@@ -5,11 +5,9 @@
 ------------------------------------------------------------------------
 
 In the first two articles we looked at identifying your preferred shots
-([Click
-Here](Marginal%20Gains%20-%20Top%20Shots%20and%20Set%20Up%20Shots.docx))
+([link](Marginal%20Gains%20-%20Top%20Shots%20and%20Set%20Up%20Shots.docx))
 and how to do a simple test based on this to determine if you are a
-right side or left side player ([Click
-Here](Are%20You%20a%20Right%20Side%20or%20Left%20Side%20Player.docx).)
+right side or left side player ([link](Are%20You%20a%20Right%20Side%20or%20Left%20Side%20Player.docx).)
 
 So, if you have been following these articles, you now know your top
 shot, your set up shot, your other fav shots, your secondary shot, your

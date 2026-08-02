@@ -77,8 +77,7 @@ We call this side of your behavior your performer self. What kind of
 performer skills do you have? Because those performer skills are exactly
 what are necessary to lock into your ideal performance state, the state
 of mental and physical and emotional harmony where you best performances
-naturally flow. ([[Click
-Here]{.underline}](http://www.tennisplayer.net/members/mentalgame/jim_loehr/jim_loehr_ideal_performance_state_images/jim_loehr_ideal_performance_state.html).)
+naturally flow. ([[]](http://www.tennisplayer.net/members/mentalgame/jim_loehr/jim_loehr_ideal_performance_state_images/jim_loehr_ideal_performance_state.html).)
 
 Performer skills often require that you move away from how you really
 feel. Maybe you have no confidence. You really feel tired. You've got a

@@ -76,14 +76,12 @@ endorsement money for 27 years, a feat unmatched by any other pro
 athlete in history!
 
 Wilson made over 10 million Kramer frames, with many versions. They were
-hand made. There were 42 steps followed by a single craftsman. ([Click
-Here](https://www.tennisplayer.net/members/classiclessons/geoff_williams/the_jack_kramer_autograph/steps.html)
+hand made. There were 42 steps followed by a single craftsman. ([link](https://www.tennisplayer.net/members/classiclessons/geoff_williams/the_jack_kramer_autograph/steps.html)
 to see all 42 of them described in the first person by the craftsman
 himself.)
 
 Then compare that to fascinating video how Wilson designs and molds
-completely new prototypes in days. ([Click
-Here](http://www.youtube.com/watch?v=QbA39s0dznQ)) We all owe a debt of
+completely new prototypes in days. ([link](http://www.youtube.com/watch?v=QbA39s0dznQ)) We all owe a debt of
 gratitude to racquet manufacturers, who often don't make much money,
 for their exacting work. It's their work which provides us hope.
 

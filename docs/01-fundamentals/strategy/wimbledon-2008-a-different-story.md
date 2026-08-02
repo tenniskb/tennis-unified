@@ -96,8 +96,7 @@ And that's the Forced Error.
 Forced errors are what explain the discrepancies. A forced error is a
 shot hit by either player that creates enough pressure to draw a mistake
 from the opponent. This is different than an unforced error on a routine
-ball. ([Click
-Here](The%20Unknown%20Statistics%20-The%20Forced%20Error.docx).)
+ball. ([link](The%20Unknown%20Statistics%20-The%20Forced%20Error.docx).)
 
 Forced Errors, unfortunately, aren't in the Wimbledon stat sheets, or
 any tour stat sheets. But forced errors accounted for 149 points in the
@@ -238,8 +237,7 @@ confrontations between these very different players, you know that Nadal
 has continually used subtle (or sometimes not so subtle) gamesmanship to
 try to intimidate Roger. You also know that I think that at times it
 appears to have worked, but at other times Roger seems to have
-successfully countered it with his own psychological strategies. ([Click
-Here](http://www.tennisplayer.net/members/notes_on_tour/john_yandell/wimby_2007/wimby_2007.html).)
+successfully countered it with his own psychological strategies. ([link](http://www.tennisplayer.net/members/notes_on_tour/john_yandell/wimby_2007/wimby_2007.html).)
 Part of this back and forth is stuff that happens before the matches
 start.
 
@@ -433,7 +431,7 @@ on a second serve and hit a forehand return Rafa couldn't handle. Now
 for the first time you really thought Roger was going to win the third
 set.
 
-![](media_wimbledon-2008-a-different-story/media/image14.webp)
+![link](media_wimbledon-2008-a-different-story/media/image14.webp)
 
 **An amazing inside out winner while moving the other way.**
 
@@ -454,7 +452,7 @@ when Roger got down 0-30 serving at 4-5. But a great serve, two big
 forehands and a rare Nadal unforced error got him out of it. And they
 stayed on serve all the way to 6 all.
 
-![](media_wimbledon-2008-a-different-story/media/image15.webp)
+![link](media_wimbledon-2008-a-different-story/media/image15.webp)
 
 **The slice backhand reappeared with mixed results.**
 
@@ -485,11 +483,11 @@ get back up over the net.
 
 What did it all mean? **[[Obviously, the results were mixed. The slice
 points that worked\--as in the case of the one hard slice drive, he hit
-in the second set\--looked really, really good.]{.mark} [As in good
+in the second set\--looked really, really good.] [As in good
 enough to be the difference. The one's that didn't work looked almost
 equally bad. Could he perfect that tactic? Maybe. And maybe the final
 outcome of this historic match will make him think about it\--or
-not.]{.mark}]{.underline}**
+not.]]**
 
 More on all this below, because that discussion is getting ahead of the
 story, and the fourth set tiebreaker was about as tense as it can get in
@@ -771,15 +769,14 @@ Once you have the Forced Errors, you can compute the big picture.
   Rafael Nadal                 +14    +18    +23    +22    +29     +21.2
   -------------------------------------------------------------------------
 
-![](media_wimbledon-2008-a-different-story/media/image24.webp)
+![link](media_wimbledon-2008-a-different-story/media/image24.webp)
 
 **Was it the greatest\--and what does that mean?**
 
 This is the \"Aggressive Margin.\" You add up a player's winners and
 forced errors, and then subtract his unforced errors. That gives you a
 hard measure of how aggressive each player was, and how successful.
-([Click
-Here](http://www.tennisplayer.net/members/strategy/john_yandell/understanding_statistics/Yandell_Aggressive_Margin_images/Yandell_Aggressive_Margin.html).)
+([link](http://www.tennisplayer.net/members/strategy/john_yandell/understanding_statistics/Yandell_Aggressive_Margin_images/Yandell_Aggressive_Margin.html).)
 
 Last year at Wimbledon in the final, Roger averaged an Aggressive Margin
 of +10.8 per set. Nadal averaged +8.6. This year both players' numbers
@@ -804,7 +801,7 @@ all the other confrontations between them in the last few years? I said
 it last year and I'll say it again. How fantastic if the next rematch
 was in the U.S. Open final.
 
-![](media_wimbledon-2008-a-different-story/media/image25.jpeg)
+![link](media_wimbledon-2008-a-different-story/media/image25.jpeg)
 
 John Yandell is widely acknowledged as one of the leading videographers
 and students of the modern game of professional tennis. His high speed

@@ -47,14 +47,14 @@ to use them to help you win tennis matches.**
 Consider one: **[[a person's attitude about himself - or his
 \"self-image.\" On or off the tennis court, our self-images are largely
 determined by feedback and information given to us by other
-people.]{.mark} [Others constantly react to us and, thereby, tell us
+people.] [Others constantly react to us and, thereby, tell us
 what they think of us. These \"evaluations\" are, by and large,
 transmitted to us without words, and relate to our every ability and
 trait, both mental and physical. They are noted and weigh heavily in our
-own evaluations of ourselves.]{.mark} [We like to think that we have the
+own evaluations of ourselves.] [We like to think that we have the
 strength of character to resist being buffeted emotionally in the stormy
 seas of other's opinions of us but reality is far from
-it.]{.mark}]{.underline}**
+it.]]**
 
 **Attitudes of Others**
 
@@ -225,7 +225,7 @@ Visit him at [www.allenfoxtennis.net](http://www.allenfoxtennis.net)
 |  | stress, finishing matches, and developing confidence. Based on a life time of high level play and coaching success, |
 |  | it's a must for all competitive players. |
 |  |  |
-|  | [Click Here to |
+|  | [ to |
 |  | Order](http://www.amazon.com/Tennis-Winning-Mental-Allen-Fox/dp/0615407765/ref=sr_1_1?ie=UTF8&qid=1336083459&sr=8-1). |
 
 
@@ -248,7 +248,7 @@ Visit him at [www.allenfoxtennis.net](http://www.allenfoxtennis.net)
 |  | outline how to confront and overcome these fears in your |
 |  | life and career, even when they are initially subconscious. |
 |  | Must reading from one of the great thinkers in tennis, and |
-|  | a Renaissance Man in life. [Click Here to |
+|  | a Renaissance Man in life. [ to |
 |  | Order](http://www.tennis-warehouse.com/descpage-MIND.html). |
 |  |  |
 |  | To purchase this book you can also send a check for \$17.95 |

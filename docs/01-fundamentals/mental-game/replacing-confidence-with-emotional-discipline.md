@@ -11,11 +11,10 @@ generated](media_replacing-confidence-with-emotional-discipline/media/image1.jpg
 **Confidence is a key to reaching your potential.**
 
 In the last article we looked at some ways to increase confidence
-([Click Here](Increasing%20Confidence.docx)). Increasing your confidence
+([link](Increasing%20Confidence.docx)). Increasing your confidence
 over time should be a part of developing your potential as a tennis
 player. The idea is to change how you feel about your game and create
-more self-belief when you are on the court. ([Click
-Here](Self%20Belief.docx).)
+more self-belief when you are on the court. ([link](Self%20Belief.docx).)
 
 But in this article I want to outline another approach for winning
 matches when your confidence is reduced. This is to replace confidence
@@ -53,7 +52,7 @@ Grind more than you normally would.**
 
 **[All this takes tremendous mental effort. You can't relax your
 concentration even for a moment. But you can do it if you are
-sufficiently determined.]{.mark}**
+sufficiently determined.]**
 
 Getting the first win with this approach may require some assistance
 from your opponent in the form a few extra mistakes. But the fact is
@@ -166,7 +165,7 @@ short break from competition. You can, for a week or so, lay off tennis
 entirely or just hit and work on your strokes.
 
 When you return to competition, start out against weaker opponents, a
-tactic I have previously suggested. [Click Here](Self%20Belief.docx)
+tactic I have previously suggested. [link](Self%20Belief.docx)
 This way you can gradually rebuild your confidence as a prelude to
 pitting yourself against your tougher opponents.
 
@@ -192,7 +191,7 @@ Visit him at [www.allenfoxtennis.net](http://www.allenfoxtennis.net)
 |  | stress, finishing matches, and developing confidence. Based on a life time of high level play and coaching success, |
 |  | it's a must for all competitive players. |
 |  |  |
-|  | [Click Here to |
+|  | [ to |
 |  | Order](http://www.amazon.com/Tennis-Winning-Mental-Allen-Fox/dp/0615407765/ref=sr_1_1?ie=UTF8&qid=1336083459&sr=8-1). |
 
 
@@ -215,7 +214,7 @@ Visit him at [www.allenfoxtennis.net](http://www.allenfoxtennis.net)
 |  | outline how to confront and overcome these fears in your |
 |  | life and career, even when they are initially subconscious. |
 |  | Must reading from one of the great thinkers in tennis, and |
-|  | a Renaissance Man in life. [Click Here to |
+|  | a Renaissance Man in life. [ to |
 |  | Order](http://www.tennis-warehouse.com/descpage-MIND.html). |
 |  |  |
 |  | To purchase this book you can also send a check for \$17.95 |

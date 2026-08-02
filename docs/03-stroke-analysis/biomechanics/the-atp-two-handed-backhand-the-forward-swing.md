@@ -8,8 +8,7 @@
 
 In the last article we looked at the preparation in what I call the ATP
 style, or Type 3, two-handed backhand. We focused on the take back and
-then the creation of the dynamic slot. ([Click
-Here](The%20ATP%20Two%20Handed%20Backhand%20-The%20Take%20Back%20and%20Dynamic%20Slot.docx).)
+then the creation of the dynamic slot. ([link](The%20ATP%20Two%20Handed%20Backhand%20-The%20Take%20Back%20and%20Dynamic%20Slot.docx).)
 
 Now let's turn to the forward swing mechanics, beginning with some
 history and important background. To do this let's revisit some key
@@ -125,7 +124,7 @@ nature.**
 **[As the rotation of the racquet starts after the transition point, it
 adds racquet head speed in a very short period of time. This increase in
 racquet head speed occurs in two primary directions, horizontally and
-vertically]{.mark}**.
+vertically]**.
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -204,8 +203,7 @@ coupled with the pull of the slowing bottom hand.
 **Very Different**
 
 This is very different that the way the racket rotation is created in
-the ATP or Type 3 forehand. As we saw, ([Click
-Here](Developing%20an%20ATP%20Forehand%20-%20Part2.docx)) one of the
+the ATP or Type 3 forehand. As we saw, ([link](Developing%20an%20ATP%20Forehand%20-%20Part2.docx)) one of the
 most interesting observations was that the centripetal component of the
 force on the racquet from the hand caused the angular acceleration
 responsible for forward racquet head speed.
@@ -223,8 +221,7 @@ confidence](media_the-atp-two-handed-backhand-the-forward-swing/media/image8.web
 
 John Yandell describes this Type 3 arm set up as \"bent-straight.\" He
 also describes two other configurations. One is \"bent-bent\" which is
-common on the women's tour and the rarer \"straight-straight.\" ([Click
-Here](https://www.tennisplayer.net/members/avancedtennis/john_yandell/two_handed_backhand/2hd_bh_simplest_complex/2hd_bh_simplest_complex.html).)
+common on the women's tour and the rarer \"straight-straight.\" ([link](https://www.tennisplayer.net/members/avancedtennis/john_yandell/two_handed_backhand/2hd_bh_simplest_complex/2hd_bh_simplest_complex.html).)
 These other two configurations tend to utilize the centripetal component
 of the hand force for angular acceleration similar to the forehand.
 
@@ -232,8 +229,7 @@ of the hand force for angular acceleration similar to the forehand.
 
 Compare the Type 3 mechanics to the Type 1 swing used by many of the top
 women and junior players. Their swings come from behind the body
-laterally and they tend to be bent-bent. ([Click
-Here](The%20ATP%20Two%20Handed%20Backhand%20-%20The%203%20General%20Types.docx)
+laterally and they tend to be bent-bent. ([link](The%20ATP%20Two%20Handed%20Backhand%20-%20The%203%20General%20Types.docx)
 for my first article that describes the 3 Types.)
 
 The bent-bent structure allows some players to use a version of a
@@ -328,8 +324,8 @@ for yourself. Stay Tuned!
 |  | knowledge across the entire range of tennis performance. |
 |  |  |
 |  | To visit his website, [**[Click |
-|  | Here!]{.underline}**](https://tennisperformanceresearch.com/) |
+|  | Here!]**](https://tennisperformanceresearch.com/) |
 |  |  |
 |  | Top contact him directly, [**[Click |
-|  | Here!]{.underline}**](mailto:gamabrian@icloud.com) |
+|  | Here!]**](mailto:gamabrian@icloud.com) |
 

@@ -135,7 +135,7 @@ position is poor.
 
 ###  Completion Phase
 
-### ![](media_the-slice-or-underspin-backhand/media/image5.jpg)
+### ![link](media_the-slice-or-underspin-backhand/media/image5.jpg)
 
 **Your hitting arm should bend at about 45 degrees on the turn. The
 racket face is open, the edges close to even.**
@@ -152,11 +152,11 @@ underspin.**
 the shot, but if you're forced to step more across your body that's
 usually ok.*** **[This is because you can still hit
 the slice well with a somewhat later contact point than on the other
-groundstrokes.]{.underline}**
+groundstrokes.]**
 
 **[With this later contact point, you're able to carry the ball longer
 because it allows for maximum extension of the arm into the
-shot.]{.underline}** ***Hitting a slice backhand too early can
+shot.]** ***Hitting a slice backhand too early can
 actually result in a weak, \"floaty\" shot or a ball that lands in the
 net.***
 

@@ -22,7 +22,7 @@ people continental grip on the serve because they're 8 years old is
 incorrect.
 
 **[Because what it really comes down to is the ability level of the kid.
-It depends on the physicality of the person.]{.mark}** So I think we've
+It depends on the physicality of the person.]** So I think we've
 got to be really careful how we approach each kid. I believe that
 recognizing what to do with a particular kid and when to do it is in the
 eye of the beholder.
@@ -132,7 +132,7 @@ serve isn't really so fast. I'm constantly finding a way to work on
 their mind to teach them to keep a positive attitude. It's a habit of
 thinking that goes way beyond tennis. **[Attitude is the fundamental
 thing because tennis is about solving problems. Tennis is about
-believing in yourself.]{.mark}**
+believing in yourself.]**
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                       ![A person smiling and holding a golf club Description automatically generated with low

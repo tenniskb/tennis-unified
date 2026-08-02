@@ -1,12 +1,9 @@
 # Building A World Class One-Handed Backhand: The Forward Swing
 
 In the first two parts of this series we discussed the applicability of
-the one-hander for players at all levels ([Click
-Here](https://www.tennisplayer.net/members/classiclessons/chris_lewit/one_handed_backhand_part_1/))
-and then the factors in deciding to develop it. ([Click
-Here](https://www.tennisplayer.net/members/classiclessons/chris_lewit/one_handed_backhand_part_2/).)
-Last month we look at the preparation and the backswings. ([Click
-Here](https://www.tennisplayer.net/members/classiclessons/chris_lewit/one_handed_backhand_part_3/).)
+the one-hander for players at all levels ([link](https://www.tennisplayer.net/members/classiclessons/chris_lewit/one_handed_backhand_part_1/))
+and then the factors in deciding to develop it. ([link](https://www.tennisplayer.net/members/classiclessons/chris_lewit/one_handed_backhand_part_2/).)
+Last month we look at the preparation and the backswings. ([link](https://www.tennisplayer.net/members/classiclessons/chris_lewit/one_handed_backhand_part_3/).)
 
 Now it's time for the pay off\--producing the forward swing. Let's
 look at the positioning of the hands and arms, the role of the wrist,
@@ -144,7 +141,7 @@ The feet come up on the toes indicating an excellent push from the
 quads. At times the legs may straighten out completely, depending on the
 player's height and the height of the ball.
 
-![](media_forward-swing/media/image5.webp)
+![link](media_forward-swing/media/image5.webp)
 
 **The legs straighten for power and spin, sometimes propelling the player off the court surface.**
 
@@ -212,8 +209,7 @@ be on the shot.
 
 Interestingly, in world class one-handers, there is some hip and
 shoulder rotation before the contact, as John Yandell has shown in an
-article in this same issue. ([Click
-Here](https://www.tennisplayer.net/members/avancedtennis/john_yandell/modern_backhand_stances/one_hander/).)
+article in this same issue. ([link](https://www.tennisplayer.net/members/avancedtennis/john_yandell/modern_backhand_stances/one_hander/).)
 This is related to the use of closed stance, which naturally increases
 the body turn in the preparation. So there are definitely some
 rotational forces at work on the professional level single-handed shot.

@@ -7,8 +7,7 @@
 ### Scott Murphy
 
 In the first article, we looked at the use of the opposite arm in the
-groundstrokes. ([Click
-Here](The%20Opposite%20Arm%20-%20Ground%20strokes%20-%20Part%201.docx).)
+groundstrokes. ([link](The%20Opposite%20Arm%20-%20Ground%20strokes%20-%20Part%201.docx).)
 Now I'll discuss what I feel is the correct usage of the opposite arm
 on the serve, overhead, the return of serve, and the volley. As in part
 one, all the descriptions will be for right-handers. Let's start with
@@ -92,8 +91,7 @@ cause the ball will go over your shoulder and behind you.
 **Release between the shoulder and the top of the head.Releasing the ball somewhere between the shoulder and the top of the head means the ball has a relatively shorter distance to travel to the contact point.The lift of the arm just naturally lifts the ball.All the player has to do is open and spread his fingers. This release point also insures that the tossing arm will follow through to a position of full extension.**
 
 The angle of the tossing arm to the baseline is very important, as John
-has pointed out in the Roger Federer serve articles. ([Click
-Here](../../Stroke%20Analysis/Advanced%20Tennis/John%20Yandell-Roger%20Federer%20Serve%20-%20Part1.docx).)
+has pointed out in the Roger Federer serve articles. ([link](../../Stroke%20Analysis/Advanced%20Tennis/John%20Yandell-Roger%20Federer%20Serve%20-%20Part1.docx).)
 From the bottom of the drop the arm comes up pointing at an angle across
 the baseline. It doesn't point straight at the net as is so commonly
 taught. For some players like Sampras it can point almost directly at
@@ -168,7 +166,7 @@ Some two-handers will struggle with this move, and since it is more
 complex, don't be afraid to wait with both hands together in the
 two-handed grip if that works better for you.
 
-![](media_the-opposite-arm-other-strokes-part2/media/image10.webp)
+![link](media_the-opposite-arm-other-strokes-part2/media/image10.webp)
 
 **The hand stays on the racket and the left arm goes across.**
 
@@ -186,7 +184,7 @@ movement across the body in all these returns. **After the preparation, the oppo
 On second serves that are moving substantially slower, the non racket
 arm can extend further. This is particularly true if you decide to move
 back as many pros now do and take a fuller swing. (See Nick's Return
-article in this issue. Click Here.) If, however, you chose to move up
+article in this issue. ) If, however, you chose to move up
 and attack the second serve, the left arm pattern will again be more
 compact, due to the lack of time and the abbreviated backswing.
 
@@ -215,7 +213,7 @@ correctly for the movement of the stroke motion. Using the left hand
 will also be very helpful if you're a player who changes grips. (Yikes!
 Work on the continental grip, please!)
 
-![](media_the-opposite-arm-other-strokes-part2/media/image12.webp)
+![link](media_the-opposite-arm-other-strokes-part2/media/image12.webp)
 
 **The unit turn is subtle, but critical.On the forehand volley, as noted, the extent to which the left hand stays on the racket is minimal compared to the groundstroke. But it is critical that the hands don't separate too soon. The brief unit turn gets the shoulders into the shot and can keep you from arming the ball with a huge swing.Turning with both hands briefly on the racket is a subtle move, and one that is sadly lacking in the volleys of too many players.**
 

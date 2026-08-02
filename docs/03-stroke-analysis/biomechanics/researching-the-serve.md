@@ -17,14 +17,14 @@ confidence](media_researching-the-serve/media/image1.webp)
 
 **[First, the serve is probably the most important stroke in tennis. It
 begins every point and is the only stroke in which the player has
-complete control.]{.mark}**
+complete control.]**
 
 ***[The second reason is that the serve is much easier to film and
 therefore to analyze. This is because the players serve from set
 positions on the court. filming for three-dimensional analysis is
 generally done with fixed cameras that can't pan or zoom to follow the
 players. The wide range of court movement in groundstrokes and net play
-makes the other strokes far more difficult to study.]{.mark}***
+makes the other strokes far more difficult to study.]***
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -39,7 +39,7 @@ results to date show that the motions of elite servers are extremely
 complex\--an opinion certainly shared by most working coaches. **[The
 performer must coordinate the motion of multiple body segments very
 precisely to produce a high racquet velocity and an optimal swing path
-as well orient the racket head at ball impact.]{.mark}**
+as well orient the racket head at ball impact.]**
 
 In this article we'll take a look at the scientific literature to date,
 reviewing and summarizing what is currently known. To do this we will
@@ -57,7 +57,7 @@ well.
 
 | **[The 5 Phases of the Serve |
 | --- |
-| are:]{.underline}** |
+| are:]** |
 |  |
 | 1.  **The Tossing Phase** |
 |  |
@@ -123,7 +123,7 @@ Rusedski or Goran Ivanisevic.
 **[An increase in drop height increases the velocity of the ball at
 impact. This increases the margin of error in striking the ball on the
 racquet's sweet spot. It also increases the amount of topspin that will
-be imparted on the ball with all other aspects being equal.]{.mark}**
+be imparted on the ball with all other aspects being equal.]**
 
 Only one study has identified the characteristics of the actual tossing
 arm motion of elite players. The professional players sampled all tossed
@@ -148,13 +148,13 @@ coaching myth.**
 
 **[Another factor is the path of the ball after it leaves the tossing
 hand. On the first serve, all participants tossed the ball from the
-right to the left.]{.mark}**
+right to the left.]**
 
 ***[In fact, the research shows that the tosses of professional players
-could move up to three feet to the left, after the release.]{.mark}***
+could move up to three feet to the left, after the release.]***
 **[In addition, top players also tossed the ball in front of their
 bodies, again up to three feet forward of the point at which the toss
-was released.]{.mark}**
+was released.]**
 
 This finding contradicts a coaching myth that has promoted a straight up
 and down toss or a toss that is to the right of the body of a right
@@ -170,7 +170,7 @@ may also be related to the amount and type of spin produced.
 
 **[The next phase of the serve is the backswing phase. This phase
 overlaps with the tossing phase, with the player positioning the racquet
-at the same time he is executing the toss.]{.mark}**
+at the same time he is executing the toss.]**
 
 The Backswing Phase ends when the racquet tip reaches its maximum
 vertical distance from the ground or the court.
@@ -187,7 +187,7 @@ identified the end of this phase as the so-called \"checkmark\"
 position, where the tossing arm, shoulder segment and upper arm are in
 line at approximately 45 degrees with the dominant elbow flexed. Both
 qualitative and quantitative studies have shown that elite technique
-varies minimally at this position.]{.mark}**
+varies minimally at this position.]**
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -208,7 +208,7 @@ away from the ground.***
 tossing arm reaches its maximal position creating the \"checkmark\".
 This backswing pattern, considered to be classic or old school by most
 coaches, is characteristic of players such as John McEnroe or Mark
-Philippoussis.]{.mark}**
+Philippoussis.]**
 
 **The other backswing technique that has been identified is the
 abbreviated backswing. In the abbreviated backswing, the player keeps
@@ -219,11 +219,11 @@ backswing.**
 movements. The first is \"abduction\" in which the shoulder moves away
 from the body. The second is external rotation. This is the rotation of
 the upper arm backwards in the shoulder joint until the checkmark
-position is achieved.]{.mark}**
+position is achieved.]**
 
 **[Players with versions of the abbreviated backswing include Pete
 Sampras, who has a mildly abbreviated backswing, and Andy Roddick, who
-is known for the most extreme version of this variation.]{.mark}**
+is known for the most extreme version of this variation.]**
 
 ![A picture containing text, tennis, athletic game, sport Description
 automatically
@@ -242,7 +242,7 @@ movement of the weight between the legs.
 **[The common characteristic in elite servers is that the center of
 gravity moves forward as the arms rise. As the center of gravity shifts
 forward both knees flex. But the flex varies in magnitude between
-performers.]{.mark}**
+performers.]**
 
 Two techniques have been identified in positioning the feet, the
 \"foot-back\" and \"foot-up\" methods. In the foot-back technique the
@@ -309,7 +309,7 @@ more space to accelerate the racket.**
 force.\" The ground reaction force is generated when the player
 \"pushes\" down against the ground with his feet through the knee bend.
 The ground in turn \"pushes\" back, generating the force that propels
-the player upward and forward into the air toward the ball.]{.mark}***
+the player upward and forward into the air toward the ball.]***
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                          ![A picture containing person, feet Description automatically
@@ -324,15 +324,15 @@ upwards (or vertical), forward (or horizontal), and sideways (or
 lateral).**
 
 **[*[The vertical component is the highest, with a force equal to about
-twice the player's body weight.]{.underline}* The horizontal component
+twice the player's body weight.]* The horizontal component
 is also significant, generating a force that is two thirds to three
 fourths of the body weight, while the lateral component is
-minimal.]{.mark}**
+minimal.]**
 
 **[The ground reaction forces starts the transfer of energy upward
 through what is called the kinetic chain. In this way the force is
 \"summed\" through the body segments so that a high racket head velocity
-can occur at ball contact.]{.mark}**
+can occur at ball contact.]**
 
 The extension of the knees propels the body toward the ball. This in
 turn aids in the loading of the shoulder, and also increases range of
@@ -343,7 +343,7 @@ an opposite force being produced at the shoulder joint due to the
 influence of gravity on the weight of the arm and racquet complex. [This
 is what is called an \"eccentric force\" which increases the external
 rotation of the shoulder and flexion, or bend at the
-elbow.]{.underline}]{.mark}**
+elbow.]]**
 
 At this point in the serve the shoulder joint reaches maximum external
 rotation, typically having rotated backwards about 170 degrees. The
@@ -395,9 +395,9 @@ eventually transferred into the racquet head and finally to the
 ball.***
 
 **[Research has demonstrated that this movement is initiated by the
-heavier, slower central body segments.]{.mark}** ***[Then, as energy
+heavier, slower central body segments.]** ***[Then, as energy
 increases, the motion proceeds outward to the smaller, lighter and
-faster segments.]{.mark}***
+faster segments.]***
 
 This transfer of energy has been identified in the tennis serve by
 numerous researchers. Their work has determined that the sequence of the
@@ -422,7 +422,7 @@ technical names that we will explain below.
 
 | **[The 7 components of arm |
 | --- |
-| movement:]{.underline}** |
+| movement:]** |
 |  |
 | 1.  **horizontal flexion** |
 |  |
@@ -517,7 +517,7 @@ maximizes the loading as that muscle group is placed on stretch.
 
 ***[Each of the movements in the sequence prior to ball impact has this
 same action and reaction combination. This is what maximizes force in
-the kinetic chain and therefore ball velocity.]{.mark}***
+the kinetic chain and therefore ball velocity.]***
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                   ![A person doing a handstand Description automatically generated with medium

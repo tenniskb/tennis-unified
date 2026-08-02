@@ -13,7 +13,7 @@ opponent who can't cover it. It's effective at all levels, but can be
 particularly valuable in lower level play when movement of the opponent
 is a weakness.
 
-![](media_opening-the-court-part14/media/image1.png)
+![link](media_opening-the-court-part14/media/image1.png)
 
   --
 

@@ -4,7 +4,7 @@
 
 ------------------------------------------------------------------------
 
-![](media_first-strike-tennis/media/image1.webp)
+![link](media_first-strike-tennis/media/image1.webp)
 
 **A serve and a forehand---a winning first strike point?**
 

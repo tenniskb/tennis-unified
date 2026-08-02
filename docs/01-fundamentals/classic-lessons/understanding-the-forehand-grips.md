@@ -90,7 +90,7 @@ practice swing, either with their hand or with the racquet, emphasizing
 the closed position of the racquet face (or palm) in the contact zone.
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                                  ![A picture containing text Description automatically                                                                   ![](media_understanding-the-forehand-grips/media/image6.jpg)                                                                                    
+                                                                  ![A picture containing text Description automatically                                                                   ![link](media_understanding-the-forehand-grips/media/image6.jpg)                                                                                    
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                **The Western grip so common in junior tennis with the hand mostly underneath the handle.**                                                                                          **The less extreme or Semi-Western. Part of the hand is behind and part is underneath.**
 
@@ -172,10 +172,10 @@ fly and also to fade to the right.
 allow for a complete swing**. **[*[This is because
 the contact point is further back in the stance (nearer the back foot)
 than other grip positions, making trunk rotation impossible with a
-closed stance.]{.mark}* [Open stance positions make hitting the ball
+closed stance.]* [Open stance positions make hitting the ball
 \"late\" in the stance possible for every grip position. This is one of
 the major reasons why open stance hitting is so popular
-today.]{.mark}]{.underline}**
+today.]]**
 
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                ![A person holding a tennis racket Description automatically

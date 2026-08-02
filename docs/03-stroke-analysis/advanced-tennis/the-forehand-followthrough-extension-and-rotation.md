@@ -36,8 +36,7 @@ generated](media_the-forehand-followthrough-extension-and-rotation/media/image2.
 between.**
 
 Why is the forehand so complex? For starters, the grips. As I outlined
-in the grip articles ([Click
-Here](http://www.tennisplayer.net/members/avancedtennis/john_yandell/grips/modern_forehand_grip_variations_part1/modern_forehand_grip_variations_part1.html))
+in the grip articles ([link](http://www.tennisplayer.net/members/avancedtennis/john_yandell/grips/modern_forehand_grip_variations_part1/modern_forehand_grip_variations_part1.html))
 there are a minimum of 6 distinct forehand grips now used on the pro
 tour. Ponder that for a second. Six different ways to create the basic
 connection between the hand and the racket.
@@ -58,7 +57,7 @@ swing still begins from a stationary position.
 on the player's part. Players can move to the ball, set up, and have
 their feet quite still in a square stance. They can hit from a range of
 open stances, or they can hit on a dead sprint\--and every possible
-combination in between.]{.mark}***
+combination in between.]***
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -84,8 +83,7 @@ selection are at the root of a lot of confusion about how top players
 hit their forehands. Given the almost infinite possible combinations of
 all these factors, it's no wonder that we see so much variety in the
 shapes of the forehand swing. (For more on the types of shots top
-players hit check out Brett Hobden's great article on [Click
-Here](http://www.tennisplayer.net/members/famouscoach/brett_hobden/seven_modern_topspin_forehands/seven_modern_topspin_forehands.html).)
+players hit check out Brett Hobden's great article on [link](http://www.tennisplayer.net/members/famouscoach/brett_hobden/seven_modern_topspin_forehands/seven_modern_topspin_forehands.html).)
 
 Don't get me wrong, there are definite commonalities across the grip
 styles and the various shots players hit. These generally have to do
@@ -142,15 +140,14 @@ mean the movement of the hand and racket forward and upward towards the
 opponent or opposite side of the court. The point of maximum extension
 is the last point in which the racket is traveling either outward or
 upward away from the player. This is before the racket starts to move
-backward, and/or downward.]{.mark}***
+backward, and/or downward.]***
 
 ***[After the forward extension, the racket starts to move backward
 and/or downward, what is usually called the \"wrap.\" The relationship
 between the extension and the wrap has been a source of controversy in
 coaching, and something I've written about in detail
-previously.]{.underline}*** (To check out my article the Myth of the
-Wrap, [Click
-Here](http://www.tennisplayer.net/members/avancedtennis/john_yandell/the_myth/the_myth_of_the_wrap_images/the_myth_of_the_wrap.html).)
+previously.]*** (To check out my article the Myth of the
+Wrap, [link](http://www.tennisplayer.net/members/avancedtennis/john_yandell/the_myth/the_myth_of_the_wrap_images/the_myth_of_the_wrap.html).)
 
 Like the forward swing, the wrap can follow a number of different paths.
 It can be primarily upward and backward over the shoulder. It can also
@@ -166,7 +163,7 @@ confidence](media_the-forehand-followthrough-extension-and-rotation/media/image6
 extension.**
 
 ***[The function of the wrap is to finish the deceleration of the
-swing.]{.mark}*** At the completion of the wrap, the racket is traveling
+swing.]*** At the completion of the wrap, the racket is traveling
 at the slowest speed of any part on the motion. Yet much \"modern\"
 coaching focuses on teaching players to mechanically create this
 position. \"Show me the butt of the racket.\" ***The problem is that
@@ -223,8 +220,7 @@ ball, but you see top players approximate them time and time again.
 Some coaches associate this with \"old style\" eastern forehands\--and
 by this attempt to give it a negative connotation. It's similar to how
 Robert Lansdorp has trained his players, and still very much a part of
-how he teaches the forehand ([Click
-Here](http://www.tennisplayer.net/members/famouscoach/robert_lansdorp/lansdorp_three_forhand_finishes/lansdorp_three_forhand_finishes.html).)
+how he teaches the forehand ([link](http://www.tennisplayer.net/members/famouscoach/robert_lansdorp/lansdorp_three_forhand_finishes/lansdorp_three_forhand_finishes.html).)
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -243,7 +239,7 @@ Even in high profile modern players, players such as Andy Roddick, David
 Nalbandian, and Roger Federer for example, the finish can at times be
 relatively simple***[. On certain balls, all three players come through
 with the racket on edge or nearly on edge, something that is allegedly
-an artifact of the \"antiquated\" classical style.]{.mark}***
+an artifact of the \"antiquated\" classical style.]***
 
 Take a look at the animations. The forehands of these three players may
 appear very different to the naked eye, but compare the checkpoints at
@@ -287,8 +283,7 @@ some additional bending of the elbow, and if the wrist is relaxed, as it
 should be, then it may also release forward to some degree. But
 primarily, it's turning the hand, arm and racket over as a unit. (I've
 written about this factor in the past as well and you can check that
-article out, [Click
-Here](http://www.tennisplayer.net/members/avancedtennis/john_yandell/building%20_the_modern%20_forehand/key_differences_grip_styles/key_differences_grip_styles_page4.html).)
+article out, [link](http://www.tennisplayer.net/members/avancedtennis/john_yandell/building%20_the_modern%20_forehand/key_differences_grip_styles/key_differences_grip_styles_page4.html).)
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -316,7 +311,7 @@ rotation in different ways.
 ***[Why do the players use this ultra wiper? How does it function? It's
 used to generate additional spin. We think of topspin coming from the
 \"brushing\" of the racket face up the backside of the ball. This type
-of increased wiper action increases this effect.]{.mark}***
+of increased wiper action increases this effect.]***
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -342,7 +337,7 @@ more balls.
 lower. It's true they that when players really extend and finish higher
 they sometimes rotate less. But rotation and extension are not mutually
 exclusive. In fact the opposite. In reality, players mix extension and
-rotation together in a blinding myriad of combinations.]{.mark}***
+rotation together in a blinding myriad of combinations.]***
 
 Players may extend less and rotate more. They may extend more and rotate
 less. And they also routinely combine great extension and great
@@ -362,8 +357,7 @@ confidence](media_the-forehand-followthrough-extension-and-rotation/media/image1
 But what about at the other end of the grip spectrum? That brings us to
 Roger Federer. As we've noted in the articles on his forehand, he is
 the most striking example in modern tennis of how these factors can be
-combined. ([Click
-Here.](http://www.tennisplayer.net/members/avancedtennis/john_yandell/evolution_modern_forehand/evolution_modern_forehand_part1/roger_federer_evolution_modern_forehand_part1.html))
+combined. ([link](http://www.tennisplayer.net/members/avancedtennis/john_yandell/evolution_modern_forehand/evolution_modern_forehand_part1/roger_federer_evolution_modern_forehand_part1.html))
 Look at the animation of the inside in winner. You'll see him maximize
 both elements, hitting with full extension AND maximum rotation.
 
@@ -455,7 +449,7 @@ I've seen hundreds of lower level players who seem obsessed with spin
 and heavy wiper finishes, when it isn't necessary or even effective for
 the majority of balls they actually hit. (For more on this and how it
 relates to other critical factors like grip, contact height and stance,
-[Click Here](John%20Yandell-The%20Osmosis%20Forehand%20.docx) to see the
+[link](John%20Yandell-The%20Osmosis%20Forehand%20.docx) to see the
 Osmosis Forehand article.)
 
 ***I think players need to pick a grip style that is appropriate to
@@ -481,7 +475,7 @@ on many balls that all players face at least at times. It's critical
 for hitting spin on lower balls, for carving short angles, hitting
 passing shots, and for dealing with fast, heavy, high bouncing
 drives\--if you actually have to deal those kinds of balls in your
-matches.]{.underline}***
+matches.]***
 
 We'll look at this in more detail in the next article, when we actually
 correlate what great players do when they hit certain shots and

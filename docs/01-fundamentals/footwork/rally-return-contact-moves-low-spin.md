@@ -13,7 +13,7 @@ confidence](media_rally-return-contact-moves-low-spin/media/image1.webp)
 shoulders.**
 
 In the last article, we looked at the Contact Move for the first type of
-rally return, what I call the Two Foot Pivot. [Click Here](https://www.tennisplayer.net/members/footwork/david_bailey/contact_moves_return/the_two_foot_pivot)
+rally return, what I call the Two Foot Pivot. [link](https://www.tennisplayer.net/members/footwork/david_bailey/contact_moves_return/the_two_foot_pivot)
 Now let's look at the other type: the Low Spin.
 
 By rally return I mean a return in which the player is trying to
@@ -194,7 +194,7 @@ them a middle option. Pay attention to the contact move patterns you use
 on your returns, and make sure they correlate with the type of strategic
 return you are hitting.
 
-![](media_rally-return-contact-moves-low-spin/media/image6.jpeg)
+![link](media_rally-return-contact-moves-low-spin/media/image6.jpeg)
 
 David Bailey is a native Australian who has spent 15 years studying
 tennis at the professional level. He has developed a new language for
@@ -206,8 +206,6 @@ the Bailey Method, has become a regular part of the coaching curriculum
 at the Nick Bollettierri Tennis Academy, where it is personally endorsed
 by Nick
 
-Visit David's Website! [**[Click
-Here!]{.underline}**](http://www.baileytennisfootwork.com/)
+Visit David's Website! [**[!]**](http://www.baileytennisfootwork.com/)
 
-To Contact David directly [**[Click
-Here!]{.underline}**](mailto:david@baileytennisfootwork.com)
+To Contact David directly [**[!]**](mailto:david@baileytennisfootwork.com)

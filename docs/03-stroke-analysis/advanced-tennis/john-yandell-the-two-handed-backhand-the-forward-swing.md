@@ -49,8 +49,7 @@ we look at them in relation to the hitting arm structure. We have seen
 in a previous article how the hands and arms can rotate backward and/or
 forward as a unit as part of the overall swing pattern, but again, when
 players add this rotation they keep the basic hitting arm configuration
-in tact. ([Click
-Here](John%20Yandell-The%20Two%20Handed%20Backhand%20-%20Hand%20and%20Arm%20Rotation.docx).)
+in tact. ([link](John%20Yandell-The%20Two%20Handed%20Backhand%20-%20Hand%20and%20Arm%20Rotation.docx).)
 
  **Contact**
 
@@ -135,8 +134,7 @@ right arm is bent but the back arm is straight. It's probably the most
 common variation among the pro men. Lleyton Hewitt, David Nalbandian,
 and Nicholas Kiefer are some of the examples we can see in the footage.
 
-Watching the backswings can be deceiving, because as we saw ([Click
-Here](John%20Yandell-The%20Two%20Handed%20Backhand%20-%20Preparation%20and%20Backswing.docx)),
+Watching the backswings can be deceiving, because as we saw ([link](John%20Yandell-The%20Two%20Handed%20Backhand%20-%20Preparation%20and%20Backswing.docx)),
 the shapes can vary tremendously and bear no necessary relationship to
 the position of the hitting arms at contact. Again watch the sequence.
 Regardless of the shape of the backswing, the players drop into the
@@ -280,8 +278,7 @@ combinations of arm positions players are actually using at the hit.
 
 **What is the Finish?**
 
-As we did with the forehand ([Click
-Here](Building%20the%20Modern%20Forehand-Hand%20and%20Arm%20Rotation.docx))
+As we did with the forehand ([link](Building%20the%20Modern%20Forehand-Hand%20and%20Arm%20Rotation.docx))
 we are defining the finish point or the end of the followthrough as the
 last point in which the racket is moving either outward or upward,
 before it starts to move backwards and down in the opposite direction of
@@ -309,8 +306,7 @@ to that of Pete Sampras.
 
 The key point is not to over emphasize the wrap so much that players
 don't reach the finish. We saw that this was unfortunately quite common
-on the forehand in junior tennis ([Click
-Here](Building%20the%20Modern%20Forehand-Shot%20Variations.docx).) It's
+on the forehand in junior tennis ([link](Building%20the%20Modern%20Forehand-Shot%20Variations.docx).) It's
 the same issue on the two-handed backhand, and like the forehand, not
 just a problem for junior players. You can usually tell players who have
 been taught to finish the stroke by \"wrapping.\" They look awkward and

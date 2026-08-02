@@ -9,7 +9,7 @@ the entire court to create openings. High to the backhand. 2 crosscourt
 angles. Attack the open. It's about running a specific pattern, but
 also about developing control to all areas.
 
-![](media_opening-the-court-part-3/media/image1.png)
+![link](media_opening-the-court-part-3/media/image1.png)
 
   --
 

@@ -108,7 +108,7 @@ generated](media_the-swing-volley/media/image4.webp)
 **[Fifth, contact. You need to make sure you accelerate the racket
 aggressively forward and keep the point of contact as far in front, and
 often even further in front of you, than on your forehand
-groundstroke.]{.underline}**
+groundstroke.]**
 
 And sixth, for the reasons mentioned above, the wiper finish. Watch how
 my hand, arm and racket turn over roughly 180 degrees between the
@@ -167,8 +167,7 @@ compact than your groundstroke.
 
 **[[The footwork moving forward after the actual swinging volley is also
 very important. As is often the case with a regular approach shot, you
-want to hop forward on the front foot]{.mark}.]{.underline}** ([**Click
-Here**](https://www.tennisplayer.net/members/footwork/david_bailey/contact_move/front_foot_hop/front_foot_hop.html) to
+want to hop forward on the front foot].]** ([**link**](https://www.tennisplayer.net/members/footwork/david_bailey/contact_move/front_foot_hop/front_foot_hop.html) to
 see David Bailey break down this move.)
 
 ![A person playing tennis Description automatically generated with

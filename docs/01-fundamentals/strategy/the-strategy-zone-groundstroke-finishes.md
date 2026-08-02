@@ -27,8 +27,7 @@ know when to and how do they execute\> Those are the key questions.
 In previous articles we've looked at how to establish the first two
 components of winning strategy \"Control\" and \"Hurt.\" You can learn
 to create Control with your groundstrokes, with your return, and with
-your serve. ([Click
-Here](The%20Strategy%20Zone%20-%20Introduction.docx).)
+your serve. ([link](The%20Strategy%20Zone%20-%20Introduction.docx).)
 
 Control leads directly to Hurt. Hurt means learning how to hit various
 shot combinations once you are in control of the point, shot
@@ -66,10 +65,10 @@ confidence](media_the-strategy-zone-groundstroke-finishes/media/image3.webp)
 **Federer hits a wide serve, then moves forward to finish.**
 
 **[[Top players hit a high percentages of winners, and/or shots that
-force errors. When]{.mark} [these shots are totaled, they substantially
-exceed the number of unforced errors.]{.mark} [They can do this because
+force errors. When] [these shots are totaled, they substantially
+exceed the number of unforced errors.] [They can do this because
 they know how to work patterns based on their own
-capabilities.]{.mark}]{.underline}**
+capabilities.]]**
 
 Roger Federer for example, hits a wide serve and then moves quickly
 forward to hit the finish shot into the open court. Andre Agassi hurts
@@ -111,7 +110,7 @@ their sense of what is about to happen.**
 A second factor in finishing points is footwork. Tenniplayer contributor
 David Bailey has done a brilliant job in analyzing for the first timeall
 the various combinations of aggressive footwork used by pro players.
-[Click Here](../Footwork/Footwork%20TOC.docx) You can get more
+[link](../Footwork/Footwork%20TOC.docx) You can get more
 details on the specific patterns in his articles.
 
 ![A person playing tennis Description automatically generated with
@@ -148,9 +147,9 @@ Great players sense this and hit with more pace and less spin in order
 to make sure the winner really gets past the
 opponent.**
 
-**[[But the main point for players at lower levels is this]{.underline}.
+**[[But the main point for players at lower levels is this].
 [If you are effective in the first two phases, you don't necessarily
-have to hit the ball hard to finish.]{.underline}]{.mark}** **The
+have to hit the ball hard to finish.]]** **The
 first two phases are designed to illicit a weak reply so that we can hit
 the Finish shot into a large target area when possible. Placement is
 actually much more important than power.**

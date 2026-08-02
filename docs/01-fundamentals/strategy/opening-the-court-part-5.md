@@ -12,7 +12,7 @@ hitting one after another, this pattern follows the inside out with a
 short crosscourt angle. That combination can open the backhand side
 quite widely facilitating an attacking finish.
 
-![](media_opening-the-court-part-5/media/image1.png)
+![link](media_opening-the-court-part-5/media/image1.png)
 
   --
 

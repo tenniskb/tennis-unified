@@ -95,10 +95,10 @@ sometimes getting the food and sometimes the shock.
 **As a result, the dog became increasingly agitated and disturbed,
 entering a state of what the experimenters termed \"experimental
 neurosis.\"** **[[It yelped and squirmed to avoid
-being put into the harness. Of]{.mark} [course, it had only to stop
+being put into the harness. Of] [course, it had only to stop
 pressing the bar regardless of what it saw on the screen to avoid the
 shocks, but the dog kept trying to solve an impossible
-problem.]{.mark}]{.underline}**
+problem.]]**
 
 **So it got randomly rewarded and punished attempting to control an
 outcome that was uncontrollable.** **As a result,
@@ -148,9 +148,9 @@ confidence](media_why-emotions-can-be-counter-productive/media/image5.webp)
 **When players elect to forget about winning in favor of making
 excuses, becoming blindly angry, or deciding that further efforts to win
 are hopeless,** they are employing what Sigmond
-Freud called **[[\"defense mechanisms.\"]{.mark} [These are unconscious
+Freud called **[[\"defense mechanisms.\"] [These are unconscious
 distortions of perception and interpretation that protect us from
-unpalatable realities, and they are quite normal.]{.mark}]{.underline}**
+unpalatable realities, and they are quite normal.]]**
 
 **Freud postulated that cold reality can force us to face stressful or
 frightening issues that we cannot resolve. At such times we often
@@ -308,7 +308,7 @@ skin that required acupuncture and cortisone injections. The leg was so
 painful he was virtually unable to practice between matches.
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------
-   ![](media_why-emotions-can-be-counter-productive/media/image10.png)
+   ![link](media_why-emotions-can-be-counter-productive/media/image10.png)
   -----------------------------------------------------------------------------------------------------------------------------------------------------
                                **Press play to hear Pete talk about overcoming adversity to break the Grand Slam record.**
 
@@ -350,7 +350,7 @@ Visit him at [www.allenfoxtennis.net](http://www.allenfoxtennis.net)
 |  | stress, finishing matches, and developing confidence. Based on a life time of high level play and coaching success, |
 |  | it's a must for all competitive players. |
 |  |  |
-|  | [Click Here to |
+|  | [ to |
 |  | Order](http://www.amazon.com/Tennis-Winning-Mental-Allen-Fox/dp/0615407765/ref=sr_1_1?ie=UTF8&qid=1336083459&sr=8-1). |
 
 
@@ -373,7 +373,7 @@ Visit him at [www.allenfoxtennis.net](http://www.allenfoxtennis.net)
 |  | outline how to confront and overcome these fears in your |
 |  | life and career, even when they are initially subconscious. |
 |  | Must reading from one of the great thinkers in tennis, and |
-|  | a Renaissance Man in life. [Click Here to |
+|  | a Renaissance Man in life. [ to |
 |  | Order](http://www.tennis-warehouse.com/descpage-MIND.html). |
 |  |  |
 |  | To purchase this book you can also send a check for \$17.95 |

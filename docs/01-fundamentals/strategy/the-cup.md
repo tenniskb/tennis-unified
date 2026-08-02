@@ -10,8 +10,7 @@ confidence](media_the-cup/media/image1.jpg)
 **A Davis Cup style competition.**
 
 In this series we've been looking at the process of creating marginal
-gains to win matches. ([Click
-Here](https://www.tennisplayer.net/members/strategy/).) In this article
+gains to win matches. ([link](https://www.tennisplayer.net/members/strategy/).) In this article
 I want to give an example of how this work was the difference for my
 team in the biggest interclub match of the year.
 
@@ -66,8 +65,7 @@ the first match on, and taking on the number 1 from the opposition.
 On to match day itself! There would be no opportunity to practice at the
 venue, so all our players had a scheduled 45 minute slot on our home
 courts (the same surface as the other club), to go through their
-pre-match practice routine before making their way over. ([Click
-Here](https://www.tennisplayer.net/members/strategy/nick_wheatley/marginal_gains_part_7/)
+pre-match practice routine before making their way over. ([link](https://www.tennisplayer.net/members/strategy/nick_wheatley/marginal_gains_part_7/)
 for the article on what to do in the pre-match warmup.)
 
 When they arrived, they were fully prepared, warmed-up, and knew what to

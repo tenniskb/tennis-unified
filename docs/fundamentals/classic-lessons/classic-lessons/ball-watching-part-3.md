@@ -6,8 +6,8 @@
 
 I pondered all of the information I derived from my filming of Federer
 and presented in the first two articles for weeks during my morning
-workouts. ([Click Here](Ball%20Watching%20-%20Part%201%20.docx) for
-Part 1. [Click Here](Ball%20Watching%20-%20Part%202.docx) for Part 2.)
+workouts. ([link](Ball%20Watching%20-%20Part%201%20.docx) for
+Part 1. [link](Ball%20Watching%20-%20Part%202.docx) for Part 2.)
 
 Over the next eighteen months, I tested several different methodologies
 to try to replicate what I saw in the photos. Ultimately, I came up with
@@ -116,8 +116,7 @@ awesome shot.
 
 Surprisingly, not following the ball also helps to decrease anxiety
 about what is happening with the hall and your opponent as Damien LaFont
-has pointed out ([Click
-Here](https://www.tennisplayer.net/members/classiclessons/mentalgame/damien_lafont/head_fixation/).)
+has pointed out ([link](https://www.tennisplayer.net/members/classiclessons/mentalgame/damien_lafont/head_fixation/).)
 
 **When your head turns to follow an outgoing hall, your body follows suit and can change the mechanics of the stroke.**
 Like I said, this is easier said than done, as you want to see where

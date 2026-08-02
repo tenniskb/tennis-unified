@@ -8,8 +8,7 @@
 
 In my previous forehand articles for Tennisplayer, I presented a new
 approach to understanding a forehand model similar to what you see on
-the ATP tour ([Click
-Here](Developing%20an%20ATP%20Forehand%20-%20Part1.docx)). Now in this
+the ATP tour ([link](Developing%20an%20ATP%20Forehand%20-%20Part1.docx)). Now in this
 new series, let's turn to the two-handed backhand and see what I
 consider to be the optimal ATP two-handed model, a model I believe is
 applicable for players at all levels.
@@ -94,11 +93,11 @@ the 3 Types and the differences, starting with the backswings.
 
 **[The first backhand style I call Type 1. This type has a full loop
 backswing that has significant lateral or sideways movement with the
-racket going back behind the player's body.]{.mark}**
+racket going back behind the player's body.]**
 
 ***[Our Type 2 backhand also has a full loop but the looping motion is
 primarily backward with a minimal lateral or sideways component, usually
-not breaking into what I call the lateral plane.]{.mark}***
+not breaking into what I call the lateral plane.]***
 
 **The third backhand I call Type 3. This backhand has what I call a
 half loop. The half loop sets the racket back fully at the unit turn. It
@@ -143,7 +142,7 @@ the path is different.
 
 **[But rather than going back laterally behind the body, her loop moves
 backwards. It usually doesn't break into the lateral
-plane.]{.underline}**
+plane.]**
 
 Look at the difference in the tip of the racket. Unlike Maria, her
 racket tip is pointing far more directly backwards, rather than at the
@@ -172,15 +171,14 @@ confidence](media_the-atp-two-handed-backhand-the-3-general-types/media/image6.w
 the hands.**
 
 ***[From this position there is no additional backswing
-motion.]{.mark}*** The racket has gone directly backward and slightly
+motion.]*** The racket has gone directly backward and slightly
 upward. But it has not moved behind the body like Sharapova, or looped
 as far backwards as Dementieva. The loop is much more compact and the
 left elbow is further away from the torso than in the Type 2.
 
 But the most important thing is the position of the racket relative to
 the hand. This is similar to what we saw in our analysis of the optimal
-forehand ([Click
-Here](Developing%20an%20ATP%20Forehand%20-%20Part2.docx)) The racquet
+forehand ([link](Developing%20an%20ATP%20Forehand%20-%20Part2.docx)) The racquet
 head is above the hands. It is also to the outside of the hands, though
 less to the outside than is typical on the forehand.
 
@@ -286,8 +284,8 @@ from the ground up? And if so how? Stay tuned for the answers.
 |  | knowledge across the entire range of tennis performance. |
 |  |  |
 |  | To visit his website, [**[Click |
-|  | Here!]{.underline}**](https://tennisperformanceresearch.com/) |
+|  | Here!]**](https://tennisperformanceresearch.com/) |
 |  |  |
 |  | Top contact him directly, [**[Click |
-|  | Here!]{.underline}**](mailto:gamabrian@icloud.com) |
+|  | Here!]**](mailto:gamabrian@icloud.com) |
 

@@ -169,9 +169,9 @@ between a hitter and a player and she's 14 and it's going to take
 time, but there are some endorsement opportunities here. The singing and
 the modeling are very important to her and her family, too.\"
 
-![](media_the-strange-saga-of-monique-and-the-donald-part-1/media/image6.wmf)
+![link](media_the-strange-saga-of-monique-and-the-donald-part-1/media/image6.wmf)
 
-**Click Here for Monique's story before coming to Rick.**
+** for Monique's story before coming to Rick.**
 
 He said, \"Like I said earlier, if there's anything I can do, let me
 know.\" A week passed, her dad and I talked about it. I got a hold of

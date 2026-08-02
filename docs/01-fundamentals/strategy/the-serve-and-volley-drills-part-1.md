@@ -12,8 +12,7 @@ In the soft catch drill the player has to use feel to catch and control
 the ball when moving forward after the serve.
 
 In the last four articles, we have discussed serve and volley
-inspiration, mentality, tactics, and critical shots. ([Click
-Here](The%20Serve%20and%20Volley%20Three%20Critical%20Shots.docx).) Now
+inspiration, mentality, tactics, and critical shots. ([link](The%20Serve%20and%20Volley%20Three%20Critical%20Shots.docx).) Now
 in the next two articles we'll look at a series of original drills I
 have developed to incorporate serve and volley into your own game. I
 have found them powerful, effective, and fun. See if you agree!

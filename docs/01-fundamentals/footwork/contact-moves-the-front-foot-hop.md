@@ -29,8 +29,8 @@ generated](media_contact-moves-the-front-foot-hop/media/image2.webp)
 foot.**
 
 We already looked at the first two aggressive contact moves, the Step
-Down ([Click Here](Contact%20Moves%20-%20The%20Step%20Down.docx)) and
-the Transfer ([Click Here](Contact%20Moves%20-%20The%20Transfer.docx)).
+Down ([link](Contact%20Moves%20-%20The%20Step%20Down.docx)) and
+the Transfer ([link](Contact%20Moves%20-%20The%20Transfer.docx)).
 Now in this article we'll look at the third aggressive contact move,
 what I call the Front Foot Hop. In future articles, I'll progress to
 the analysis of neutral and defensive contact moves as well.
@@ -62,9 +62,9 @@ also be used when players run around to hit forehands either inside out
 or inside in.
 
 **[[Using a Front Foot Hop, the player hits the ball with the weight on
-the front foot only and the rear foot off the court.]{.mark} [As the
+the front foot only and the rear foot off the court.] [As the
 player hits, he takes a hop forward and lands on the same foot, but in a
-spot forward from the take off point.]{.mark}]{.underline}**
+spot forward from the take off point.]]**
 
 ![A person playing tennis Description automatically
 generated](media_contact-moves-the-front-foot-hop/media/image4.webp)
@@ -117,8 +117,7 @@ The Cha Cha Cha also starts with a step out or a small drop step with
 the outside foot. This is followed by a step forward with the opposite
 foot, then a third step outward with the rear foot. Next come the
 shuffle steps or cross steps forward. We went over these 3 options in
-more detail in the first article on the Step Down ([Click
-Here.](Contact%20Moves%20-%20The%20Step%20Down.docx))
+more detail in the first article on the Step Down ([link](Contact%20Moves%20-%20The%20Step%20Down.docx))
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -147,14 +146,14 @@ and/or crossover steps to move back to the center.**
 **A Hop Not a Jump**
 
 **When you hit a Front Foot Hop, you want [to keep the angles in your
-legs through contact]{.underline}.** **You want to use the swing
+legs through contact].** **You want to use the swing
 itself to impart spin rather than raising your entire body through the
 shot with the legs.**
 
 **[[It is also very important to hit through the ball, and keep your
-legs flexed is a key to doing this.]{.mark} [You definitely do not want
+legs flexed is a key to doing this.] [You definitely do not want
 to consciously jump up on contact or lift the head and look up too
-early.]{.mark}]{.underline}**
+early.]]**
 
 **This is why we call this contact move a hop, not a
 jump.** The hop off the court is an explosive
@@ -192,14 +191,14 @@ forward to the net. In this case, after the hop the rear foot will come
 forward. The player lands on the rear foot, continues to move forward
 and then transitions into the split step. From this balanced ready
 position, he is ready to move either way to finish with a volley, or to
-move backward and finish with the overhead.]{.underline}**
+move backward and finish with the overhead.]**
 
 So, there we have it for the third aggressive contact move, the Front
 Foot Hop. Next, we'll move on the Neutral Contact Moves with some
 exotic names like The Back Foot Pivot, the Two Foot Pivot and the Spin
 Move. Stay Tuned.
 
-![](media_contact-moves-the-front-foot-hop/media/image9.jpeg)
+![link](media_contact-moves-the-front-foot-hop/media/image9.jpeg)
 
 David Bailey is a native Australian who has spent 15 years studying
 tennis at the professional level. He has developed a new language for
@@ -211,8 +210,6 @@ the Bailey Method, has become a regular part of the coaching curriculum
 at the Nick Bollettierri Tennis Academy, where it is personally endorsed
 by Nick
 
-Visit David's Website! [**[Click
-Here!]{.underline}**](http://www.baileytennisfootwork.com/)
+Visit David's Website! [**[!]**](http://www.baileytennisfootwork.com/)
 
-To Contact David directly [**[Click
-Here!]{.underline}**](mailto:david@baileytennisfootwork.com)
+To Contact David directly [**[!]**](mailto:david@baileytennisfootwork.com)

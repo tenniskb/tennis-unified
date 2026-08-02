@@ -15,7 +15,7 @@ hitting both basic and advanced variations.
 In this first article: he demonstrates the footwork patterns for the
 Advanced One-Handed Backhand.
 
-![](media_the-one-handed-backhand-advanced-footwork/media/image1.wmf)
+![link](media_the-one-handed-backhand-advanced-footwork/media/image1.wmf)
 
 **Hit 'Play' to see the basic and advanced forehand.**
 

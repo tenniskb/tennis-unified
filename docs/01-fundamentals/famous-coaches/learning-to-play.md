@@ -96,11 +96,11 @@ I'm sure everybody agrees that this game is a game of movement. 
 You've got to be able to move to play. **[[So the first step in helping
 a player learn how to play is to look at the footwork. If he doesn't
 know how to play, more than likely his footwork is not very good
-either.]{.mark} ]{.underline}**
+either.] ]**
 
 I still go by some of the terms that I grew up with in Spain that aren't
 common here**[[.  If I could say it in one word, I would say good
-players know how to "receive" the ball.]{.mark} ]{.underline}**
+players know how to "receive" the ball.] ]**
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -109,7 +109,7 @@ confidence](media_learning-to-play/media/image4.webp)
 **If you receive the ball well, then you can send it well.**
 
 **[Receiving the ball includes your movement, your balance, and your
-vision of the play.]{.mark}**  If you receive the ball well, then you
+vision of the play.]**  If you receive the ball well, then you
 can send it well.  If you don't receive the ball well, then you tend to
 be hitting emergency shots all the time. Unfortunately this is what a
 lot of our kids do.  And if you are hitting emergency shots and your
@@ -129,7 +129,7 @@ When I start working with a player I'll ask, "Do you go back when
 somebody pressures you with the ball?"  And some players will say, "No,
 I don't like to go back." And I'll say "Well, neither do I." **[[But
 there is a need to do this when you play against good players. You can't
-always just play on top of the baseline.]{.mark} ]{.underline}**\
+always just play on top of the baseline.] ]**\
  \
 That was probably what made the difference in Andre Agassi's case. He
 probably had the best hands of anyone in the word. He saw the ball
@@ -213,7 +213,7 @@ it. Overall he's not going to do it as many times as a lesser
 player. **[[When you see good players play, it looks very easy, but it
 looks easy because they do the right thing, hitting the ball with the
 right speed at the right height and to the
-location.]{.mark} ]{.underline}**
+location.] ]**
 
 Once again, if the decision is right and you lose the point, then it's
 a matter of execution. It's not a matter of your decision
@@ -271,8 +271,8 @@ player will win much more often than when they play in tournaments.
 But my friend never beat me in a tournament match. And then I discovered
 the secret. **[[This is how pressure comes into play. In practice we had
 to bet something. With something on the line, pressure came into play
-and that changed the outcome of our practice matches as well.]{.mark}
- ]{.underline}**
+and that changed the outcome of our practice matches as well.]
+ ]**
 
 In my opinion, there is way too much weight placed on the outcome of
 practice matches.  Practice basically counts for practice. It doesn't
@@ -355,6 +355,6 @@ playing the game as well as you can, isn't that the goal?
 |  | world class, the surroundings are breathtaking, |
 |  | and the sun shines 350 days a year. |
 |  |  |
-|  | [Click Here! ](http://www.higuerastennis.com/) |
+|  | [! ](http://www.higuerastennis.com/) |
 |  | To find out a |
 

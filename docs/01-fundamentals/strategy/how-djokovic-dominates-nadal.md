@@ -29,7 +29,7 @@ play between these two great champions.
 
 Over the last few years, I have charted hundreds of professional
 matches, studying the nature of the exchanges between the world's best
-players. [Click Here](http://www.thebraingame.net/) This analysis
+players. [link](http://www.thebraingame.net/) This analysis
 provides us with a new perspective on the pro game and allows us to see
 how the changes Djokovic made were the key to his success, his Grand
 Slam championships and his number one ranking.
@@ -108,7 +108,7 @@ nullifying Nadal's tactic that used to terrorize him. Djokovic simply
 refuses to let the ball get up on him - something Federer has not been
 able to consistently counter with his one-handed backhand.
 
-![](media_how-djokovic-dominates-nadal/media/image4.png)
+![link](media_how-djokovic-dominates-nadal/media/image4.png)
 
 **Djokovic: standing in and refusing to let the ball get up.**
 
@@ -144,7 +144,7 @@ has reduced his backhand errors by two thirds. In the 2009 Monte Carlo
 final, when Nadal defeated Djokovic in 3 sets, he forced Novak into 31
 backhand rally errors, an average of 10.3 per set.
 
-![](media_how-djokovic-dominates-nadal/media/image4.png)
+![link](media_how-djokovic-dominates-nadal/media/image4.png)
 
 **Novak has reduced his backhand errors and forced Rafa into many
 more.**
@@ -207,7 +207,7 @@ court and was perfect with 3/3 on second serves. He owned that position
 against Berdych, a major factor in saving all four break points he faced
 and therefore not being broken for the entire match.
 
-![](media_how-djokovic-dominates-nadal/media/image6.wmf)
+![link](media_how-djokovic-dominates-nadal/media/image6.wmf)
 
 **Djokovic is able to neutralize Nadal's serve in the ad court.**
 

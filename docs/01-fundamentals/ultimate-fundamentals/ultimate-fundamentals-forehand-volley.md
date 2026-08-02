@@ -15,7 +15,7 @@ positions you need to develop a rock solid volley---all based on our new
 incredible high speed footage of Roger Federer and other skilled
 volleyers in the pro game.
 
-![](media_ultimate-fundamentals-forehand-volley/media/image1.png)
+![link](media_ultimate-fundamentals-forehand-volley/media/image1.png)
 
 ![A person smiling for the camera Description automatically generated
 with medium

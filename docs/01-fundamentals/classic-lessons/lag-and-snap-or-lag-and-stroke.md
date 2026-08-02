@@ -14,7 +14,7 @@ John Craig takes a look at the reality of what happens on the forehand
 and why lag and snap is a myth. If you are trying to achieve lag and
 snap, stop now and listen to what John has to say!
 
-![](media_lag-and-snap-or-lag-and-stroke/media/image1.wmf)
+![link](media_lag-and-snap-or-lag-and-stroke/media/image1.wmf)
 
 ![A person smiling for the camera Description automatically generated
 with medium

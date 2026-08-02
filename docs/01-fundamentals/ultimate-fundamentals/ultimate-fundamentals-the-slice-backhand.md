@@ -17,7 +17,7 @@ Don Budge.
 But those fundamental classical elements are still the blue print for
 most players in developing a sound and effective slice backhand.
 
-![](media_ultimate-fundamentals-the-slice-backhand/media/image1.png)
+![link](media_ultimate-fundamentals-the-slice-backhand/media/image1.png)
 
 ![A person smiling for the camera Description automatically generated
 with medium

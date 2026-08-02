@@ -17,14 +17,13 @@ The debates and misunderstandings about this part of the service motion
 are understandable for many reasons. First the entire upward swing
 occurs in a mere 1/10th of a second. In that split second interval, the
 racket head speed basically triples. (To see more about the duration of
-the phases of the serve in a quantitative study of Pete Sampras, [Click
-Here](The%20Sampras%20Serve-Racquet%20Head%20Speed.docx).)
+the phases of the serve in a quantitative study of Pete Sampras, [link](The%20Sampras%20Serve-Racquet%20Head%20Speed.docx).)
 
 **[Second there is a very complex interplay of movements that creates
 that speed in that fraction of a second, movements that include the
 upper arm, the elbow, the forearm, the shoulder and the wrist. These
 body segments are all moving at the same time, and also changing shapes
-and positional relationships with each other.]{.mark}**
+and positional relationships with each other.]**
 
 ![A person playing tennis Description automatically
 generated](media_john-yandell-roger-federer-serve-the-upward-swing/media/image2.webp)
@@ -38,14 +37,10 @@ and disagreement. So yeah, passionate, knowledgeable people come to
 different conclusions.
 
 I've written about some of these debated issues before in articles on
-the movement of the wrist ([Click
-Here](https://www.tennisplayer.net/members/avancedtennis/john_yandell/the_myth/the_myth_of_the_wrist_serve_images/the_myth_of_the_wrist_serve.html)),
-and on the motions of Federer ([Click
-Here](John%20Yandell-Roger%20Federer%20Serve%20-%20Part1.docx)), Roddick
-([Click
-Here](https://www.tennisplayer.net/members/avancedtennis/john_yandell/new_serving_model/new_serving_model_part1/new_serving_model_part1.html))
-and Sampras ([Click
-Here](https://www.tennisplayer.net/members/avancedtennis/john_yandell/sampras_serve/sampras_new_filming_protocols/sampras_new_filming_protocols.html)).
+the movement of the wrist ([link](https://www.tennisplayer.net/members/avancedtennis/john_yandell/the_myth/the_myth_of_the_wrist_serve_images/the_myth_of_the_wrist_serve.html)),
+and on the motions of Federer ([link](John%20Yandell-Roger%20Federer%20Serve%20-%20Part1.docx)), Roddick
+([link](https://www.tennisplayer.net/members/avancedtennis/john_yandell/new_serving_model/new_serving_model_part1/new_serving_model_part1.html))
+and Sampras ([link](https://www.tennisplayer.net/members/avancedtennis/john_yandell/sampras_serve/sampras_new_filming_protocols/sampras_new_filming_protocols.html)).
 I've also gotten into many, shall we say, animated discussions, on
 internet message boards and at coaching conventions over what actually
 happens.
@@ -67,8 +62,7 @@ speeds up to 1/5000 of a second. It was filmed in live professional
 match play. For most players we have 4 or more different camera views.
 
 I've been bragging about how great it is and we have put samples up in
-the Interactive Forum. (Including Mardy Fish's serve this month, [Click
-Here](http://www.tennisplayer.net/bulletin/showthread.php?t=1663).) Now
+the Interactive Forum. (Including Mardy Fish's serve this month, [link](http://www.tennisplayer.net/bulletin/showthread.php?t=1663).) Now
 it's time to start using it in close analysis in articles on the site.
 
   --
@@ -96,8 +90,7 @@ our new high speed images with clear, common sense descriptions of the
 movements in the upward swing. But we'll also take the next step of
 connecting these pictures to the technical academic terms used by
 biomechanists\--terms like ulnar deviation, external rotation, and
-shoulder abduction. ([Click
-Here](https://www.tennisplayer.net/members/biomechanics/scienceofbio.html)
+shoulder abduction. ([link](https://www.tennisplayer.net/members/biomechanics/scienceofbio.html)
 for Brian's articles.)
 
 In addition we'll try to understand the difference between the common
@@ -170,14 +163,13 @@ the right side of the player's body.***
 motion, I believe it happens naturally if players move to the pro drop.
 Reaching this drop position is important because it is the starting
 point for that blinding 1/10th of a second acceleration to the
-contact.]{.mark}**
+contact.]**
 
 In my opinion it would be a mistake to try to move from the low point on
 a direct diagonal to the contact. The racket wouldn't follow the
 optimum upward swing path used by all great servers. And in fact we see
 that this is a common problem and one that can exist even at the pro
-level. ([Click
-Here](https://www.tennisplayer.net/members/your_strokes/2006/paul_goldstein_serve_4_01_06/paul_goldstein_serve_4_01_06.html)
+level. ([link](https://www.tennisplayer.net/members/your_strokes/2006/paul_goldstein_serve_4_01_06/paul_goldstein_serve_4_01_06.html)
 to see this issue in the motion of former touring pro Paul Goldstein.)
 
 ![A person playing tennis Description automatically generated with
@@ -189,7 +181,7 @@ confidence](media_john-yandell-roger-federer-serve-the-upward-swing/media/image6
 **[The key relationship to look for in establishing the pro drop
 position is a 90 degree angle between the torso and the racket face,
 with the edge of the racket aligned along the right edge of the
-torso.]{.mark}**
+torso.]**
 
 As we have seen in the articles about the various elite servers
 referenced above, the depth of this drop can vary from player to player,
@@ -209,8 +201,7 @@ As I have written in several articles in Your Strokes, I believe the
 abbreviated motions may require greater shoulder flexibility and more
 ability to rotate the upper arm backwards in the shoulder joint and for
 that reason probably make it tougher for most players to reach the pro
-drop ([Click
-Here](https://www.tennisplayer.net/members/your_strokes/2010/jonathan_ryle_serve/)).
+drop ([link](https://www.tennisplayer.net/members/your_strokes/2010/jonathan_ryle_serve/)).
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -255,7 +246,7 @@ speed.**
 
 **[Players with less flexibility in the shoulder joint who have less
 ability to externally rotate will end up with higher elbow positions at
-the drop.]{.mark}** They can also end up with the tip of the elbow
+the drop.]** They can also end up with the tip of the elbow
 pointed or angled forward with the upper arm at an angle to the plane of
 the shoulders. And that's ok.
 
@@ -278,7 +269,7 @@ that this speed alone makes his serve more effective than Federer.
 **More Checkpoints**
 
 **[The next point to look at in the pro drop is the bend in the
-elbow.]{.mark}** Notice that at the drop the angle between the upper arm
+elbow.]** Notice that at the drop the angle between the upper arm
 and the forearm is about 90 degrees or a little less. This is basically
 achieved at the power position and maintained as the external rotation
 takes the racket to the drop.
@@ -292,7 +283,7 @@ deviation.**
 
 **Next let's look at the hand and the wrist.** **[At the drop the wrist
 is laid back at an angle to the forearm that is approaching 90
-degrees.]{.mark}** The technical biomechanical term for this is wrist
+degrees.]** The technical biomechanical term for this is wrist
 extension. It appears to be a natural function of the relaxation in the
 hand and arm as the racket falls.
 
@@ -333,7 +324,7 @@ triple it's speed in the next tenth of a second.
 
 So how does this happen? According to Brian **[there are 5 complex,
 interrelated movements that combine to produce racket speed in this
-critical split second.]{.mark}** So, just to repeat myself one more
+critical split second.]** So, just to repeat myself one more
 time, no wonder people disagree about the serve.
 
 Let's try to clarify some of this confusion by explaining the move to
@@ -381,7 +372,7 @@ contact.
 **Elbow Extension**
 
 The second component is elbow extension. **[All elbow extension means is
-that you straighten out your elbow.]{.mark}** This motion begins
+that you straighten out your elbow.]** This motion begins
 immediately after the start of the shoulder abduction. One key question
 though is when the arm fully straightens. It might appear that this
 coincides with the contact. But again this is a problem in perception.
@@ -401,11 +392,10 @@ contact point! For Federer, this means the elbow reaches a completely
 extended position something like 1/100 of a second before contact. No
 wonder you can't tell this with the naked eye.
 
-**[Ulnar Deviation]{.mark}**
+**[Ulnar Deviation]**
 
 When I wrote the original article on the \"Myth of the Wrist\" almost 10
-years ago now ([Click
-Here](https://www.tennisplayer.net/members/avancedtennis/john_yandell/the_myth/the_myth_of_the_wrist_serve_images/the_myth_of_the_wrist_serve.html)),
+years ago now ([link](https://www.tennisplayer.net/members/avancedtennis/john_yandell/the_myth/the_myth_of_the_wrist_serve_images/the_myth_of_the_wrist_serve.html)),
 I had no idea how much controversy and debate it was actually going to
 stir. Amazingly, there are still coaches debating its merits today, (or
 some think lack thereof\...)
@@ -446,7 +436,7 @@ now.
 I always believed - as the high speed video demonstrated\--that **[the
 wrist came forward from the laid back position at the pro drop to the
 neutral position at contact. To me that wasn't \"wrist snap\" through
-the hit, as I had understood it.]{.mark}**
+the hit, as I had understood it.]**
 
 But what I have learned from Brian Gordon, and missed in the original
 analysis, was the far more subtle side to side movement of the wrist.
@@ -458,7 +448,7 @@ This movement is the combination of the radial deviation described
 above, and the corresponding countermove, called ulnar deviation. ***[To
 understand ulnar deviation, extend you arm the top of your hand in line
 with the forehand. Now simply flex your wrist to the right without
-breaking it forward. That's ulnar deviation.]{.mark}***
+breaking it forward. That's ulnar deviation.]***
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -472,7 +462,7 @@ way\--radial deviation. So what happens in the upward swing is this:
 **the wrist moves from being flexed to the left to being flexed to the
 right.** To use the technical terms, **[the wrist
 is radially deviated at the drop, but as the arm goes upward and reaches
-the contact ulnar deviation takes over.]{.mark}**
+the contact ulnar deviation takes over.]**
 
 It's subtle, and the flex is only a few degrees in each direction, but
 it exists. Interestingly the wrist appears to be in a neutral position,
@@ -513,20 +503,20 @@ Which finally brings us to the last two components and their
 biomechanical definitions**[: internal rotation, and wrist flexion.
 Timing wise, these two movements are the last to be initiated in the
 upper swing. As with elbow extension and ulnar deviation, they start to
-happen at roughly the same time.]{.mark}**
+happen at roughly the same time.]**
 
 **Internal Rotation**
 
 So what is internal rotation? **[It's the forward rotation of the upper
-arm in the shoulder joint.]{.mark}** Previously, we looked at the
+arm in the shoulder joint.]** Previously, we looked at the
 opposite movement, **[the backward or external rotation of the upper
-arm]{.mark}** and how it takes the racket to the drop.
+arm]** and how it takes the racket to the drop.
 
 According to Brian's work***[, the external rotation actual continues
-past the point at which the player reaches the pro drop.]{.mark}***
+past the point at which the player reaches the pro drop.]***
 **[This means that the arm is still rotating backward even as the elbow
 extension and the ulnar deviation have started, and the racket itself
-has moved substantially upward toward the contact.]{.mark}**
+has moved substantially upward toward the contact.]**
 
 Again we are talking about tiny fractions of seconds. But a good bench
 mark is that this continues for about half the duration of the upward
@@ -543,7 +533,7 @@ with medium
 confidence](media_john-yandell-roger-federer-serve-the-upward-swing/media/image16.webp)
 
 **[Internal rotation forward to the contact - the key to maximum
-speed.]{.mark}**
+speed.]**
 
 With elite servers, the tip of the racket can be angled away from the
 torso at this point, with Andy Roddick being perhaps the most extreme
@@ -556,7 +546,7 @@ You can see the complex interaction with the elbow extension and the
 flexing or ulnar deviation of the wrist.
 
 As we saw above, ***[the elbow straightens just before contact, but
-watch the rotation of the arm continue.]{.mark}*** In past articles, I
+watch the rotation of the arm continue.]*** In past articles, I
 have called this motion hand and arm rotation, because the entire
 hitting arm structure is rotating as a unit. According to Brian, the
 amount of rotation in this upper segment is what separates the good from
@@ -568,7 +558,7 @@ Which brings us to the last and possibly most controversial element in
 the motion, the upward flex of the wrist prior to contact. ***[As the
 upward motion starts, we have seen that there is some left to right move
 in the wrist, but the wrist is still predominantly laid back until the
-beginning of the upper arm rotation.]{.mark}***
+beginning of the upper arm rotation.]***
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -586,7 +576,7 @@ continue, until the wrist reaches the neutral position at contact.
 And again, if anyone wants to call that \"wrist snap\" or use that term
 as a coaching cue, be my guest. ***[The main point to understand is that
 the major driving force in the upward swing is internal driving the
-hitting arm and racket.]{.mark}***
+hitting arm and racket.]***
 
 The problem? Try modeling that wave bye bye motion and snapping forward
 at contact and see if you are still rotating the hand and arm. (Uh, no.)
@@ -610,7 +600,7 @@ confidence](media_john-yandell-roger-federer-serve-the-upward-swing/media/image1
 racket face 90 degrees to the court.**
 
 ***[The most obvious movement after contact however is the continuation
-of the hitting arm rotation.]{.mark}*** The clearest way to see this is
+of the hitting arm rotation.]*** The clearest way to see this is
 by looking at how the racket head turns over. The racket head rotates
 counter clockwise after contact, usually reaching an angle in which the
 face is basically perpendicular to the court. That means it has turned
@@ -623,7 +613,7 @@ biomechanical terms, we have yet to mention the one term that has passed
 over into the teaching and playing lexicon. That term is \"pronation.\"
 
 ***[In coaching the term pronation is used to describe this continuing
-rotation of the hand arm and racket we just described.]{.mark}*** And
+rotation of the hand arm and racket we just described.]*** And
 that really isn't a problem if everyone understands the same thing in
 that usage.
 
@@ -631,7 +621,7 @@ But as I myself had to learn, that usage is different from the technical
 biomechanical understanding of the term. In biomechanics, \"pronation\"
 has a different, more limited meaning. **[Instead of referring to the
 entire arm rotation, it refers only to the rotation of the forearm
-segment.]{.underline}**
+segment.]**
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -652,7 +642,7 @@ And this seems to be consistent with what we see in the Federer high
 speed video. If you watch the upper arm and forearm it is impossible to
 detect any significant independent movement from the elbow out. ***[The
 upper arm, forearm, hand and racket all seem to rotate as a single
-unit.]{.mark}***
+unit.]***
 
 The possible exception may be at the very start of the internal
 rotation. When the tip of the racket flairs at an angle, that may in

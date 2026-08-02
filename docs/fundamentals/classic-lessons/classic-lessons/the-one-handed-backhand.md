@@ -11,7 +11,7 @@ possible progressions to create a strong technical foundation for
 hitting both basic and advanced variations. In this article: the
 one-handed backhand.
 
-![](media_the-one-handed-backhand/media/image1.wmf)
+![link](media_the-one-handed-backhand/media/image1.wmf)
 
 **Hit 'Play' to see the basic and advanced forehand.**
 

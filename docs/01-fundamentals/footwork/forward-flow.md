@@ -35,8 +35,7 @@ ball flies, spins and lands exactly where the player intended.
 Nowhere is the power of Flow more apparent than when the players move
 forward into the court. In previous articles I've talked about the
 lateral patterns of footwork and the steps around the ball that help us
-play more efficiently, gracefully and powerfully. ([Click
-Here.](Footwork%20TOC.docx)) In this article I want to focus on The Flow
+play more efficiently, gracefully and powerfully. ([link](Footwork%20TOC.docx)) In this article I want to focus on The Flow
 in forward movement patterns. This includes running in for the short
 ball and/or the low ball, hitting high volleys and running volleys, and
 finally hitting half volleys and drop volleys. When we analyze what the
@@ -132,7 +131,7 @@ way.** **Just before contact she takes a final
 running step with her left front foot and actually strikes the ball
 before that left foot lands.** **[The flow carries
 her forward so that she lands on her left foot well in front of where
-she actually contacted the ball.]{.underline}**
+she actually contacted the ball.]**
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------
                                                       ![A person playing tennis Description automatically
@@ -149,7 +148,7 @@ three sprinting steps forward with her racket still in front of
 her.** **[She times the start of the backswing so
 that the motion with the racket is continuous, through the contact,
 beginning the swing two and a half steps before she actually hits the
-ball.]{.underline}**
+ball.]**
 
 This allows her to keep her contact about a foot in front of her body
 even though she moving rapidly forward. **This forward motion is
@@ -194,12 +193,11 @@ landing on her front foot.
 
 As we have seen, **[[when players have to cover a lot of ground running
 up for a short ball they explode out of the split step like a
-sprinter.]{.mark} [The goal is to get to the ball while it is still as
-high as possible.]{.mark}]{.underline}** Watch Coria's incredible burst
+sprinter.] [The goal is to get to the ball while it is still as
+high as possible.]]** Watch Coria's incredible burst
 forward to hit this short ball with a full swing while it is still above
 net level. Coria takes about three sprinters steps forward with his
-racket in front of him before he begins his racket preparation. ([Click
-Here](http://www.tennisplayer.net/members/teaching_systems/dave_hagler/teaching_balance/teaching_balance.html)
+racket in front of him before he begins his racket preparation. ([link](http://www.tennisplayer.net/members/teaching_systems/dave_hagler/teaching_balance/teaching_balance.html)
 to see Dave Halger's drill based on this same concept.)
 
 **To position himself to the ball he then takes two carioca steps
@@ -227,12 +225,12 @@ net. For this reason Coria uses virtually no
 backswing and only minimal follow-through.**
 
 **[He lines up his right foot and racquet face with the
-ball.]{.underline} Now he can [flow through the contact with the racquet
-relatively calm and quiet.]{.underline} As his body moves forward, the
+ball.] Now he can [flow through the contact with the racquet
+relatively calm and quiet.] As his body moves forward, the
 racket moves automatically through the shot.**
 **[[The flow itself actually provides part or even most of the
-swing.]{.mark} [Notice that Coria doesn't put on the brakes
-immediately. The flow continues through the shot.]{.mark}]{.underline}**
+swing.] [Notice that Coria doesn't put on the brakes
+immediately. The flow continues through the shot.]]**
 Again, he is moving several feet in the frames just before and after
 contact.
 
@@ -285,11 +283,11 @@ combination of steps allows him to take the ball as a forehand volley.
 **The ball is extremely high, actually above head level, but notice
 that there is no flop at contact**. **[[His racquet
 face does not come over until the ball has left his strings. This is
-because the flow moves racquet through the contact.]{.mark} [If Tim had
+because the flow moves racquet through the contact.] [If Tim had
 jammed on the brakes and stopped too soon and/or landed on his left foot
 prior to the hit, the racket would have flopped forward. That would have
 driven the ball down into the net. Instead, he lets the flow carry him
-through the shot.]{.mark}]{.underline}**
+through the shot.]]**
 
 **Half Volley**
 

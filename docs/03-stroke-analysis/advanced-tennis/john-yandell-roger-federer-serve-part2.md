@@ -12,8 +12,7 @@ In the first article on Roger Federer's serve we looked at his starting
 stance, his wind up, his racket drop, and the path of the racket upward
 to the ball. We concluded that in many aspects his serve was a better
 model than more exotic motions we've examined in the past, for example,
-Andy Roddick and Pete Sampras. ([Click
-Here](John%20Yandell-Roger%20Federer%20Serve%20-%20Part1.docx).)
+Andy Roddick and Pete Sampras. ([link](John%20Yandell-Roger%20Federer%20Serve%20-%20Part1.docx).)
 
 Let's keep going now and see what the high speed footage shows us about
 some of the other key aspects in his motion. In this second article,
@@ -59,9 +58,9 @@ generated](media_john-yandell-roger-federer-serve-part2/media/image3.webp)
 
 Take a close look at his hand and see how he holds the ball. Some
 players hold the ball on the fingertips and this is commonly taught.
-**[[But Federer cups the ball partially in the palm of his hand.]{.mark}
+**[[But Federer cups the ball partially in the palm of his hand.]
 [At the release, he simply opens his hand and the rising motion of the
-arm lifts the toss upward into the air.]{.mark}]{.underline}** This is
+arm lifts the toss upward into the air.]]** This is
 similar to Sampras, who holds the ball even more deeply in his palm.
 
 **Tossing Arm Angle**
@@ -134,8 +133,7 @@ confidence](media_john-yandell-roger-federer-serve-part2/media/image6.webp)
 
 All the top players hit the ball somewhere on the way down. No one in
 the modern game hits the ball at the top of the toss, and very few ever
-have. ([Click
-Here](http://www.tennisplayer.net/members/avancedtennis/john_yandell/the_myth/the_myth_of_the_toss_images/the_myth_of_the_toss.html)
+have. ([link](http://www.tennisplayer.net/members/avancedtennis/john_yandell/the_myth/the_myth_of_the_toss_images/the_myth_of_the_toss.html)
 to read more about this). Roscoe Tanner is commonly pointed to as an
 example of a top player who hit the ball at the top. He may be the only
 one, unless you want to count Kevin Curren, the South African who was in
@@ -143,8 +141,7 @@ the top ten in 1980's. Goran Ivanisevic is sometimes cited as a modern
 example of a player who hit the ball at the top, but that's not
 actually true. As quick as his motion was, he still hit the ball several
 inches on the way down. (Check it out for yourself in the Stroke
-Archive. [Click
-Here](http://www.tennisplayer.net/members/strokearchive/pro_men/goranivanisevic/goranivanisevic_strokecat.html).)
+Archive. [link](http://www.tennisplayer.net/members/strokearchive/pro_men/goranivanisevic/goranivanisevic_strokecat.html).)
 Among current top players, Roddick has one of the lower tosses, but it
 still drops well over a foot before the contact.
 
@@ -154,7 +151,7 @@ still drops well over a foot before the contact.
 timing and rhythm.**
 
 ***[The height of the toss determines the interval the player has to hit
-the serve]{.mark}***. **The higher the toss, the more total time. A
+the serve]***. **The higher the toss, the more total time. A
 super low toss doesn't give most players enough time to move through
 the technical positions of the motion, particularly if they have
 significant body rotation or use the legs much in their motion. Players
@@ -162,7 +159,7 @@ with slower natural rhythms and longer backswings will also tend to add
 time by raising the tossing height.**
 
 ***[For all the elements to work together and produce the most possible
-racket head speed, the motion needs to be smooth and relaxed.]{.mark}***
+racket head speed, the motion needs to be smooth and relaxed.]***
 **Every player has his own rhythm and should find the toss height that
 helps create that rhythm. The motion shouldn't feel rushed. It
 shouldn't feel like it lags at any point either. The actual rhythm can
@@ -217,8 +214,7 @@ of the shoulder. This in turn has an impact on the type of spin players
 can produce. Players with a higher topspin component in their motion,
 like Pete Sampras, tend to make contact slightly further to the
 left\--or closer to the edge of the head. Players with a larger sidespin
-component make contact further to the right. ([Click
-Here](http://www.tennisplayer.net/members/mystheavyball/john_yandell/heavy_serve_practical_implications/heavy_serve_practical_implications.html).)
+component make contact further to the right. ([link](http://www.tennisplayer.net/members/mystheavyball/john_yandell/heavy_serve_practical_implications/heavy_serve_practical_implications.html).)
 
 Where does Roger fit in? Federer's contact point on the left to right
 axis, appears to be slightly further to the right than Sampras, although
@@ -229,7 +225,7 @@ shaft of the racket between Sampras and Federer in the stills below, but
 if so it's a matter of a few degrees.
 
 **[Federer's contact point is probably directly above his shoulder or
-possibly a little to the left of that.]{.mark}** Note that at contact
+possibly a little to the left of that.]** Note that at contact
 the ball is still inside or to the left of his hand. This the same for
 Pete. So this means there is still a topspin component. You can see this
 also by looking at the angle of the shaft of the racket, titled slightly
@@ -270,8 +266,7 @@ baseline. Sampras's arm is pointing more forward, and less to the side
 or his right. Federer's arm points a little less forward more and a
 little more to the side.
 
-As we saw in our heavy ball articles ([Click
-Here](http://www.tennisplayer.net/members/mystheavyball/john_yandell/speed_and_spin/speed_and_spin.html)),
+As we saw in our heavy ball articles ([link](http://www.tennisplayer.net/members/mystheavyball/john_yandell/speed_and_spin/speed_and_spin.html)),
 the racket face travels on a diagonal across the face of the ball. What
 the video appears to show is that Pete's racket is traveling somewhat
 more forward an upward. Roger's is traveling slightly more across the
@@ -365,13 +360,13 @@ generated](media_john-yandell-roger-federer-serve-part2/media/image16.webp)
 
 When we look at Roger we can see that he has a substantial body turn.
 ***[So the more turn, the more the tossing arm is likely to point
-sideways.]{.mark}*** As we have seen previously, the amount of turn is
+sideways.]*** As we have seen previously, the amount of turn is
 also related to the stance. Players naturally turn away from the net
 along the line of the stance. Watch Roger. His shoulders start roughly
 square to the net. As his tossing arm goes up, you can see his torso
 turn away from the ball, rotating back about 60 degrees. ***[If you draw
 a diagonal line across the tips of Roger's toes, and another one across
-his shoulders, these lines will be roughly parallel.]{.mark}*** Imagine
+his shoulders, these lines will be roughly parallel.]*** Imagine
 how awkward and restricted this move would appear if Roger was trying to
 point his tossing arm straight ahead at the same time.
 
@@ -463,10 +458,8 @@ distributed.**
 
 A major commonality in the serves of good players is the use of the
 legs\--the deep knee bend and the front foot landing. This is another
-topic I've addressed in detail both in the Sampras series ([Click
-Here](http://www.tennisplayer.net/members/tour_strokes/tour_strokes.html))
-and in the articles on the great myths in instruction ([Click
-Here](http://www.tennisplayer.net/members/avancedtennis/john_yandell/the_myth/the_myth_of_the_pinpoint_stance_images/the_myth_of_the_pinpoint_stance.html).)
+topic I've addressed in detail both in the Sampras series ([link](http://www.tennisplayer.net/members/tour_strokes/tour_strokes.html))
+and in the articles on the great myths in instruction ([link](http://www.tennisplayer.net/members/avancedtennis/john_yandell/the_myth/the_myth_of_the_pinpoint_stance_images/the_myth_of_the_pinpoint_stance.html).)
 There are also examples in the Stroke Archive of virtually every top
 server showing the knee bend, the uncoiling, and the left foot landing.
 As I have argued before, I think the platform stance is ***probably
@@ -523,7 +516,7 @@ as deep as these players, but he may be making up for it partially
 through the explosiveness of his legs.
 
 **[Like virtually every top player, Federer lands on his left front
-foot.]{.mark}** Watch how he actually lands partially on the baseline,
+foot.]** Watch how he actually lands partially on the baseline,
 although on other balls he may land a few inches inside the court. More
 on this below. As he lands, his right leg kicks back in the other
 direction. The lower leg comes up until it is at about parallel to the

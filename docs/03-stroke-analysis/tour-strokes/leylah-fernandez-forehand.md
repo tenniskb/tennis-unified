@@ -8,8 +8,7 @@ generated](media_leylah-fernandez-forehand/media/image1.webp)
 **Leylah Fernandez's straight arm forehand.**
 
 Leylah Fernandez's forehand! Could it be any different from our study
-of Daniil Medvedev's last month? ([Click
-Here](https://www.tennisplayer.net/members/tour_strokes/john_yandell/daniil_medvedev_forehand).)
+of Daniil Medvedev's last month? ([link](https://www.tennisplayer.net/members/tour_strokes/john_yandell/daniil_medvedev_forehand).)
 
 You might think Medvedev looks more WTA, and Leylay more ATP. That's
 how crazy and diversified strokes can be on the tour.
@@ -18,8 +17,7 @@ When we look at Leylah's forehand the first thing that is overwhelming
 obvious is that she hits with a straight arm. Really totally straight.
 
 There are probably others but only other WTA player I have studied who
-has that straight arm is Ash Barty ([Click
-Here](https://www.tennisplayer.net/bulletin/forum/tennisplayer/84339-interactive-forum-december-2019-ash-barty-forehand).)
+has that straight arm is Ash Barty ([link](https://www.tennisplayer.net/bulletin/forum/tennisplayer/84339-interactive-forum-december-2019-ash-barty-forehand).)
 So let's go through it element by element. Leylah is a lefty, but all
 the key points apply.
 
@@ -99,8 +97,7 @@ bounce height on hard hit, heavy balls.
 **But is it Type 3?**
 
 So is it the classic pro Type 3 forehand identified by the great Dr.
-Brian Gordon and modeled so perfectly by Roger Federer? ([Click
-Here](https://www.tennisplayer.net/bulletin/forum/tennisplayer/96060-interactive-forum-december-2021-leylah-fernandez-forehand#post96060)
+Brian Gordon and modeled so perfectly by Roger Federer? ([link](https://www.tennisplayer.net/bulletin/forum/tennisplayer/96060-interactive-forum-december-2021-leylah-fernandez-forehand#post96060)
 for his introduction to Leylah's forehand in the Interactive Forum.)
 
 ![A person playing tennis Description automatically
@@ -123,8 +120,7 @@ loop. Compare this to Roger Federer.
 
 It's is compact but that still this makes it a Type 2 forehand in this
 key respect. In his brilliant introduction to the Fernandez footage in
-the Interactive Forum, Brian explains this in more detail ([Click
-Here](https://www.tennisplayer.net/bulletin/forum/tennisplayer/96060-interactive-forum-december-2021-leylah-fernandez-forehand#post96060).)
+the Interactive Forum, Brian explains this in more detail ([link](https://www.tennisplayer.net/bulletin/forum/tennisplayer/96060-interactive-forum-december-2021-leylah-fernandez-forehand#post96060).)
 
 In a true Type 3 forehand there is also a sequencing in the forward
 torso rotation with the hips rotating slightly earlier than the
@@ -151,11 +147,9 @@ could measure total spin was at about 1900rpms. That's not a high
 number at least compared to the men's game obviously.
 
 But it's about the same as Andre Agassi and Pete Sampras in the 1990s.
-And not that far off Medvedev's 2100ish rpm average. ([Click
-Here](https://www.tennisplayer.net/members/mystheavyball/john_yandell/modern_heavy_ball).)
+And not that far off Medvedev's 2100ish rpm average. ([link](https://www.tennisplayer.net/members/mystheavyball/john_yandell/modern_heavy_ball).)
 It's close to the top of the range of the women we measured in the late
-90s. ([Click
-Here](https://www.tennisplayer.net/members/mystheavyball/john_yandell/Spintest/spin_test.html).)
+90s. ([link](https://www.tennisplayer.net/members/mystheavyball/john_yandell/Spintest/spin_test.html).)
 
 So as we said at the top of this article, it's a wide technical world
 out there! And it's great to see the range of options in the women's

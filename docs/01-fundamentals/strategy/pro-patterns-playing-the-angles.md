@@ -9,8 +9,7 @@ It is often compared to chess and boxing. The first four articles dealt
 in this series dealt with basic patterns from the baseline, and also on
 serve and return. These articles showed you how to establish your most
 favorable diagonals, and how to respond when your opponent tries to
-change them and impose his own. ([Click
-Here](http://www.tennisplayer.net/members/strategy/strategy_and_statistics.html).)
+change them and impose his own. ([link](http://www.tennisplayer.net/members/strategy/strategy_and_statistics.html).)
 
 This article completes the picture by adding angle shots. It gives
 examples of several strategies related to the angle shots, and also how

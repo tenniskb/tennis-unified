@@ -4,11 +4,9 @@
 
 In the first 3 articles we looked at the three aggressive Contact Moves.
 These are Contact Moves in which players learn to attack the ball with
-their feet. They are the Step Down ([Click
-Here](Contact%20Moves%20-%20The%20Step%20Down.docx)), the Transfer
-([Click Here](Contact%20Moves%20-%20The%20Transfer.docx)), and the Front
-Foot Hop ([Click
-Here](Contact%20Moves%20-%20The%20Front%20Foot%20Hop.docx).)
+their feet. They are the Step Down ([link](Contact%20Moves%20-%20The%20Step%20Down.docx)), the Transfer
+([link](Contact%20Moves%20-%20The%20Transfer.docx)), and the Front
+Foot Hop ([link](Contact%20Moves%20-%20The%20Front%20Foot%20Hop.docx).)
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -61,10 +59,10 @@ Reverse Spin.
 
 All are all hit from either a semi-open or open stance. **[[As the
 players hit, their bodies become elevated and the torso and feet spin in
-the air.]{.mark} [The landing varies with the type of spin move and the
+the air.] [The landing varies with the type of spin move and the
 shot selection. The recovery steps pattern can be either shuffle steps,
 or a cross step followed by shuffle steps, depending on the ball and the
-court position.]{.mark}]{.underline}**
+court position.]]**
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -76,16 +74,16 @@ outside foot.**
 **Low Spin**
 
 **[Players use Low Spin typically when moving sideways along the
-baseline, or a slight diagonal backwards]{.underline}**. **Low Spin
+baseline, or a slight diagonal backwards]**. **Low Spin
 moves are usually associated with fast balls hit with topspin, but balls
 that are either relatively low bouncing or played on the
 rise.**
 
-**This makes [the contact at around hip height]{.underline}, versus the
+**This makes [the contact at around hip height], versus the
 higher contact point on the other spin moves we'll see below.** **The
-Low Spin can also be used [when the ball is hit at the body]{.underline}
-or when the player [moves around the ball to hit inside]{.underline},
-again [depending on contact height.]{.underline}**
+Low Spin can also be used [when the ball is hit at the body]
+or when the player [moves around the ball to hit inside],
+again [depending on contact height.]**
 
 To execute the Low Spin, the player sets up in a semi-open or open
 stance, with about two thirds of the weight on the outside leg, and one
@@ -120,28 +118,28 @@ the outside foot.**
 
 **The High Spin move is similar to the Low Spin but is usually employed
 from [somewhat further back in the court and [on higher
-bouncing]{.mark}]{.underline}**, **[[more heavily spun balls.]{.mark}
+bouncing]]**, **[[more heavily spun balls.]
 [The contact height is usually higher, around chest level or
-above.]{.mark}]{.underline}**
+above.]]**
 
 **As with the Low Spin, the objective in hitting the High Spin variation
 is [to not lose your position on the baseline and stay even in the
-rally]{.underline}, or [even counterattack.]{.underline}**
+rally], or [even counterattack.]**
 
 **To hit a High Spin, the player again sets up behind the ball in an
 open stance or semi open stance with two thirds of the weight on the
 outside foot.** **[[As the player swings up to the
-ball, watch how the opposite leg elevates and bends at the knee.]{.mark}
+ball, watch how the opposite leg elevates and bends at the knee.]
 [This upward leg action helps the player come up higher off the court to
-control the contact height.]{.mark}]{.underline}** **This is the
+control the contact height.]]** **This is the
 difference compared to the low Spin in which the player stays lower with
 both legs and has a lower contact point.**
 
 **[[After the hit, the hips again spin around the axis of the spine,
-with a similar rotation in the feet.]{.mark} [The player maintains his
-upright posture and lands first on the outside foot.]{.mark} [As with
+with a similar rotation in the feet.] [The player maintains his
+upright posture and lands first on the outside foot.] [As with
 the Low Spin, the toes of the outside foot usually point in the
-direction of the shot.]{.mark}]{.underline}**
+direction of the shot.]]**
 
 ![A person playing tennis Description automatically
 generated](media_contact-moves-the-spin-moves/media/image5.webp)
@@ -163,7 +161,7 @@ shot.**
 
 **There is also a pronounced balance move here, which is a side kick
 with the opposite leg. [The sole of the shoe of the
-opposite leg ends up pointing to the other side fence.]{.underline}**
+opposite leg ends up pointing to the other side fence.]**
 
 **The advantage of the reverse spin is that you can use it to hit a
 very heavy ball, even though it is a defensive shot, but it can also be
@@ -175,7 +173,7 @@ moving back toward the baseline.**
 So that's it for the Spin Moves. Stay tuned next for the Two Foot
 Pivot!
 
-![](media_contact-moves-the-spin-moves/media/image6.jpeg)
+![link](media_contact-moves-the-spin-moves/media/image6.jpeg)
 
 David Bailey is a native Australian who has spent 15 years studying
 tennis at the professional level. He has developed a new language for
@@ -187,8 +185,6 @@ the Bailey Method, has become a regular part of the coaching curriculum
 at the Nick Bollettierri Tennis Academy, where it is personally endorsed
 by Nick
 
-Visit David's Website! [**[Click
-Here!]{.underline}**](http://www.baileytennisfootwork.com/)
+Visit David's Website! [**[!]**](http://www.baileytennisfootwork.com/)
 
-To Contact David directly [**[Click
-Here!]{.underline}**](mailto:david@baileytennisfootwork.com)
+To Contact David directly [**[!]**](mailto:david@baileytennisfootwork.com)

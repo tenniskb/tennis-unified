@@ -8,9 +8,8 @@ generated](media_john-yandell-roger-federer-serve-part1/media/image1.webp)
 **Federer's serve: less extreme and a better model.**
 
 So far on Tennisplayer we have taken a detailed look at the motions of
-two of the greatest servers in the modern: Pete Sampras ([Click
-Here](../Tour%20strokes/Tour%20strokes%20TOC.docx)) and Andy Roddick.
-([Click Here](Advanced%20Tennis%20TOC.docx))
+two of the greatest servers in the modern: Pete Sampras ([link](../Tour%20strokes/Tour%20strokes%20TOC.docx)) and Andy Roddick.
+([link](Advanced%20Tennis%20TOC.docx))
 
 Now in the next two articles we'll analyze the motion of another top
 player, a player with one of the most underrated serves in the game:
@@ -29,8 +28,7 @@ are more problematic for many if not most players to model.
 For Sampras these include his starting stance, his body rotation, and
 the extreme left ball position on his toss\--all omponents that
 contribute to his heavy, high velocity ball, something we have
-quantified in terms of the spin rates. ([Click
-Here](http://www.tennisplayer.net/members/mystheavyball/john_yandell/speed_and_spin/speed_and_spin.html))
+quantified in terms of the spin rates. ([link](http://www.tennisplayer.net/members/mystheavyball/john_yandell/speed_and_spin/speed_and_spin.html))
 For Roddick the elements are more idiosyncratic: his supersonic
 abbreviated windup, his extreme suppination, and his use of both feet in
 the narrow stance. These are elements that are very difficult to model
@@ -68,7 +66,7 @@ generated](media_john-yandell-roger-federer-serve-part1/media/image3.webp)
 **Why Roger?**
 
 **[Roger Federer's motion is so smooth and effortless that it doesn't
-attract the same attention as Pete or Andy.]{.mark}** What makes Federer
+attract the same attention as Pete or Andy.]** What makes Federer
 less distinctive is probably what also makes him a better model. It's a
 simpler, more classical motion with fewer extreme elements.
 
@@ -180,8 +178,7 @@ set off that craze which has mesmerized and infatuated players, coaches
 and commentators. We saw in our Roddick articles that, at least for
 Andy, there probably is some technical advantage to it. As Rick Macci
 was the first to point out, it allows him\--or forces him\--to move in
-and out of the racket drop faster than any other player. ([Click
-Here](http://www.tennisplayer.net/members/tour_strokes/rick_macci/rick_macci_andy_roddick_serve_images/rick_macci_andy_roddick_serve.html).)
+and out of the racket drop faster than any other player. ([link](http://www.tennisplayer.net/members/tour_strokes/rick_macci/rick_macci_andy_roddick_serve_images/rick_macci_andy_roddick_serve.html).)
 And that's a beautiful and fearsome thing. The question is whether it
 is remotely realistic for the average player. And I have an answer. No.
 So far Andy is the only player I've ever filmed that has made it work.
@@ -210,12 +207,11 @@ backwards in the shoulder joint to get to the racket drop like Andy. The
 problem is that very, very few players actually can. In Your Strokes
 this month, we take a look at Paul Goldstein's serve and see how a top
 hundred player improved his racket drop significantly by moving away
-from the abbreviated windup. ([Click
-Here](http://www.tennisplayer.net/members/your_strokes/2006/paul_goldstein_serve_4_01_06/paul_goldstein_serve_4_01_06.html).)
+from the abbreviated windup. ([link](http://www.tennisplayer.net/members/your_strokes/2006/paul_goldstein_serve_4_01_06/paul_goldstein_serve_4_01_06.html).)
 
 Watch Roger's arm and racket in the wind up. **[Rather than starting
 immediately upward like Andy, his arm and racket drop downward at the
-start of the motion, pointing directly down at the court.]{.mark}** This
+start of the motion, pointing directly down at the court.]** This
 is similar to Sampras who also drops his arm and racket downward so they
 point at the court. At this point in the motion, however, Sampras begins
 to abbreviate the backswsing, bending his elbow and starting to raise
@@ -234,7 +230,7 @@ in a previous generation.
 Someone with a greater knowledge of joint structure will eventually
 explain this fully, but for whatever exact physiological reasons**[,
 [the more circular paths are much more likely to result in a good racket
-drop for the vast majority of players]{.mark}]{.underline}**[.]{.mark}
+drop for the vast majority of players]]**
 **It has to do with range of motion in the shoulder
 joint**. As we have seen, players like Sampras and
 Roddick complete the backswing mainly by rotating the upper arm
@@ -257,7 +253,7 @@ generated](media_john-yandell-roger-federer-serve-part1/media/image12.webp)
 
 You can see the difference by looking at the angle of the forearm to the
 court at the deepest point in the drop. **[Roger's forearm is basically
-parallel to the court. Sampras and Roddick go further.]{.mark}** By
+parallel to the court. Sampras and Roddick go further.]** By
 rotating the upper arm back a little further in the shoulder joint, they
 drop the hand a little further down. You can see the line of the forearm
 for these two actually drops down a little below parallel to the court.
@@ -271,7 +267,7 @@ us should be lucky enough to make the same position. But it's not quite
 as deep as Andy or Pete. Because his shoulder probably isn't quite as
 flexible, the more circular windup probably helps him maximize this
 position in his motion. And if it's true for Roger, how much more true
-is it for the average player?]{.mark}**
+is it for the average player?]**
 
 The truth is very few players can achieve the maximum racket drop with
 an elbow position that is horizontal or lower. Even many pro players.
@@ -283,7 +279,7 @@ backwards at the full drop. That could only mean more racket
 acceleration in the motion upward to the ball. And it's something you
 can probably improve by various techniques designed to increase your
 shoulder flexibility\--strength training, stretching, deep tissue
-massage, etc.]{.mark}**
+massage, etc.]**
 
 | ![A picture containing text, tennis, road, court Description automatically | ![A picture containing grass, blurry Description automatically | ![A picture containing tennis, sport, grass, athletic game Description automatically |
 | --- | --- | --- |
@@ -346,8 +342,7 @@ about the wrist?**
 If you read Brian Gordon's groundbreaking article last month on tennis
 and quantitative measurement, you no doubt were fascinated by the
 breakdown of the contribution of the segments to racket head speed.
-([Click
-Here](http://www.tennisplayer.net/members/biomechanics/brian_gordon/serve_tennis_science%20_brian_gordon/serve_tennis_science%20_brian_gordon.html).)
+([link](http://www.tennisplayer.net/members/biomechanics/brian_gordon/serve_tennis_science%20_brian_gordon/serve_tennis_science%20_brian_gordon.html).)
 A big part of that contribution comes from the wrist. (About 25%.) And
 in fact we can definitely see the motion of the wrist in the high speed
 video. It moves from a laid back position at the drop to a neutral
@@ -403,7 +398,7 @@ motion has come to be described as \"pronation\" although it's really
 just part of a continuum of the rotations that begin when the racket
 starts upward to the ball. After the contact, the arm and racket
 continue to rotate or pronate. As they do, they stay in a virtually
-straight line.]{.mark}** This means the racket face is in line with the
+straight line.]** This means the racket face is in line with the
 arm and you can draw a straight line outward from the shoulder to the
 tip of the racket. There isn't a forward break of the wrist at the
 contact or in the following part of the motion. This wrist break occurs,

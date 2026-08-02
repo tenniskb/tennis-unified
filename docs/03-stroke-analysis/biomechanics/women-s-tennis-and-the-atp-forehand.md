@@ -9,7 +9,7 @@ Brian believes that whatever the technical state of the forehand on the
 women's tour, women, and especially the juniors he trains can hit a
 more advanced technical forehand. And he has the players to prove it.
 
-![](media_women-s-tennis-and-the-atp-forehand/media/image1.png)
+![link](media_women-s-tennis-and-the-atp-forehand/media/image1.png)
 
 | ![A person holding a tennis racket Description automatically | Dr. Brian Gordon has changed the understanding of the |
 | --- | --- |
@@ -23,8 +23,8 @@ more advanced technical forehand. And he has the players to prove it.
 |  | knowledge across the entire range of tennis performance. |
 |  |  |
 |  | To visit his website, [**[Click |
-|  | Here!]{.underline}**](https://tennisperformanceresearch.com/) |
+|  | Here!]**](https://tennisperformanceresearch.com/) |
 |  |  |
 |  | Top contact him directly, [**[Click |
-|  | Here!]{.underline}**](mailto:gamabrian@icloud.com) |
+|  | Here!]**](mailto:gamabrian@icloud.com) |
 

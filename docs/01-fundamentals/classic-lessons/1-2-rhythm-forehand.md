@@ -81,9 +81,9 @@ and movement of the opposite arm. This can be personal style but it can
 also be situational.
 
 **[[The more time the player has, the longer the arm will stay parallel
-to the baseline.]{.mark} [When players are on the run, it's likely the
+to the baseline.] [When players are on the run, it's likely the
 opposite arm will have rotated forwards further up to 30-45 degrees in
-relation to the baseline.]{.mark}]{.underline}**
+relation to the baseline.]]**
 
 **Phase 2: Explosive**
 
@@ -135,10 +135,10 @@ and then learn to say the same key words to himself during match play.
 
 Every player should find the words that work for him, but here are some
 examples that I have found powerful and effective. **[The first word is
-\"Smooth.\" The second word is \"Explode.\"]{.mark}**
+\"Smooth.\" The second word is \"Explode.\"]**
 
-**[[Another combination is \"Slow\" then \"Fast.\"]{.underline} A third
-is simply \"1-2.\"]{.mark}** In all cases the first word is said slowly
+**[[Another combination is \"Slow\" then \"Fast.\"] A third
+is simply \"1-2.\"]** In all cases the first word is said slowly
 and the second quickly corresponding to the timing and the feeling of
 the actual movement.
 
@@ -163,7 +163,7 @@ video the forehand in high speed. The player needs to see actually see
 himself in the set-up phase, the execution phase, and of course see what
 is happening when part 1 ends and part 2 begins.
 
-**[Opposite Hand]{.mark}**
+**[Opposite Hand]**
 
 **A critical factor in the effectiveness of forehand 1-2 Rhythm, and
 the overall timing on the shot** **is the release
@@ -177,10 +177,10 @@ opposite hand early. Instead, they move into position with the opposite
 hand still on the racket.**
 
 Why is this crucial? **[[Because when the opposite hand releases, the
-arm and racket move back independently.]{.mark} [If the opposite hand
+arm and racket move back independently.] [If the opposite hand
 releases too early, the arm and racket may slow or even stop at the time
 that the explosive phase is beginning and this in turn means that
-natural momentum is lost.]{.mark}]{.underline}**
+natural momentum is lost.]]**
 
 **Defensive Shots**
 

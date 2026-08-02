@@ -4,7 +4,7 @@
 
 **Machar Reid, Miguel Crespo, Damian Farrow**
 
-![](media_anticipating-the-serve/media/image1.webp)
+![link](media_anticipating-the-serve/media/image1.webp)
 
 **What strategies do great returners use to anticipate a 125mph serve?**
 

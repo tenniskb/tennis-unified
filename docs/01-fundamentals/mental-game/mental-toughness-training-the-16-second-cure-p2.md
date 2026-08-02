@@ -124,7 +124,7 @@ seamlessly into your on-court behavior.
 Here are the summaries of the 4 stages and examples of how pro players
 have truly made the 16-second cure their own.
 
-**[Stage 1: Positive Physical Response.]{.underline}** By staying
+**[Stage 1: Positive Physical Response.]** By staying
 positive with your body, you facilitate the flow of positive energy and
 reduce the chance that anger, disappointment, or any other disruptive
 emotional response might interfere with the next point.
@@ -156,7 +156,7 @@ Your arms should be relaxed, your head up, and your eyes forward and
 down. No matter what the outcome of the point, your body language should
 be the same.
 
-**[Stage Two: Relaxation.]{.underline}** Allow your body to recover from
+**[Stage Two: Relaxation.]** Allow your body to recover from
 the physical and emotional stress of the point, your breathing to
 stabilize, and your arousal to return to an optimal range. Walk across
 the baseline. If necessary, walk back and forth to regain your
@@ -174,7 +174,7 @@ calm, it's OK, no problem, keep fighting, etc..\"
 
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**[Stage Three: Preparation.]{.underline}** Know what the score is,
+**[Stage Three: Preparation.]** Know what the score is,
 where you are in the match, and how you intend to play the next point.
 
 Where are you going to serve? What patterns are you going to play? Are
@@ -200,7 +200,7 @@ to win this point!\"
 
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**[Stage 4: Ritual.]{.underline}** Ritual allows you to reach the
+**[Stage 4: Ritual.]** Ritual allows you to reach the
 highest state of mental and physical readiness prior to the start of the
 point. Your personal sequence of automatic physical movements deepens
 your concentration, balances intensity and relaxation, and produces
@@ -220,7 +220,7 @@ his service points, taking three balls but then discarding one and
 keeping two.
 
   -------------------------------------------------------------------------------------------------------------------------------------------------------------
-   ![](media_mental-toughness-training-the-16-second-cure-p2/media/image8.png)
+   ![link](media_mental-toughness-training-the-16-second-cure-p2/media/image8.png)
   -------------------------------------------------------------------------------------------------------------------------------------------------------------
                             **Click Photo: Sampras has developed his own unique ritual, using one ball to start his service points.**
 
@@ -249,7 +249,7 @@ your own, you will start to feel differently both on the court and after
 your matches.
 
   -------------------------------------------------------------------------------------------------------------------------------------------------------------
-   ![](media_mental-toughness-training-the-16-second-cure-p2/media/image9.wmf)
+   ![link](media_mental-toughness-training-the-16-second-cure-p2/media/image9.wmf)
   -------------------------------------------------------------------------------------------------------------------------------------------------------------
                                    **Click Photo: Practicing the stages will lead to more fun and more competitive success.**
 

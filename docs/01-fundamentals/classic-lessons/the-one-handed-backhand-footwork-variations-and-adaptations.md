@@ -8,13 +8,13 @@
 
 Last month John Craig started his series on the one-handed backhand by
 demonstrating the basic, gliding footwork to hit a ball inside the side
-line. (Click Here.) Now he expands to the movement patterns necessary to
+line.  Now he expands to the movement patterns necessary to
 cover the whole court. Going wide beyond the sideline. Moving on a
 diagonal. What to do on a ball that comes directly at you. And how to
 move up and forward into the court. Comprehensive, and beautifully
 demonstrated!
 
-![](media_the-one-handed-backhand-footwork-variations-and-adaptations/media/image1.png)
+![link](media_the-one-handed-backhand-footwork-variations-and-adaptations/media/image1.png)
 
 ![A person smiling for the camera Description automatically generated
 with medium

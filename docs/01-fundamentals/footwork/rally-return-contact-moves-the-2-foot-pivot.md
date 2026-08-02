@@ -13,8 +13,8 @@ confidence](media_rally-return-contact-moves-the-2-foot-pivot/media/image1.webp)
 foot pivot.**
 
 In the last two articles, we looked at the Contact Moves for aggressive
-returns ([Click Here](https://www.tennisplayer.net/members/footwork/david_bailey/contact_moves_return/aggressive_return/))
-and defensive returns ([Click Here](https://www.tennisplayer.net/members/footwork/david_bailey/contact_moves_return/defensive_returns/)).
+returns ([link](https://www.tennisplayer.net/members/footwork/david_bailey/contact_moves_return/aggressive_return/))
+and defensive returns ([link](https://www.tennisplayer.net/members/footwork/david_bailey/contact_moves_return/defensive_returns/)).
 Now let's turn to what happens when you hit what I call a Rally Return.
 
 By rally return I mean a return in which the player is trying to
@@ -168,7 +168,7 @@ eliminate missed returns, and surprise opponents with solid replies to
 aggressive serves. It's a critical component of any return game. Next,
 stay tuned for the second rally return: the low spin!
 
-![](media_rally-return-contact-moves-the-2-foot-pivot/media/image6.jpeg)
+![link](media_rally-return-contact-moves-the-2-foot-pivot/media/image6.jpeg)
 
 David Bailey is a native Australian who has spent 15 years studying
 tennis at the professional level. He has developed a new language for
@@ -180,8 +180,6 @@ the Bailey Method, has become a regular part of the coaching curriculum
 at the Nick Bollettierri Tennis Academy, where it is personally endorsed
 by Nick
 
-Visit David's Website! [**[Click
-Here!]{.underline}**](http://www.baileytennisfootwork.com/)
+Visit David's Website! [**[!]**](http://www.baileytennisfootwork.com/)
 
-To Contact David directly [**[Click
-Here!]{.underline}**](mailto:david@baileytennisfootwork.com)
+To Contact David directly [**[!]**](mailto:david@baileytennisfootwork.com)

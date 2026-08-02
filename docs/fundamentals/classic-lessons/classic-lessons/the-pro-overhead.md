@@ -36,8 +36,7 @@ practicing a few essential elements. Those essential elements include:
 the unit turn, movement (footwork), and the arm swing.
 
 Before I start discussing the three elements, I want to stress again, as
-I have done in previous articles, ([Click
-Here](Understanding%20The%20Continental%20Grip.docx)) the necessity to
+I have done in previous articles, ([link](Understanding%20The%20Continental%20Grip.docx)) the necessity to
 learn and to use the continental grip around the net, on the serve, and
 on the overhead. The continental grip, along with a good unit turn as
 described next, is what allows greater racket acceleration and therefore
@@ -129,7 +128,7 @@ usually it is on a ball where they have a not of time, and/or not much
 movement either forward or back is required.
 
 They come into play on all the shots in the game at certain times.
-(Click Here to read Michael Friedman analysis of their role in the
+( to read Michael Friedman analysis of their role in the
 groundstrokes and approaches.) They are just especially critical on the
 overhead.
 

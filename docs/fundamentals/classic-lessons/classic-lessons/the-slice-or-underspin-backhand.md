@@ -121,7 +121,7 @@ position is poor.
 
 ###  Completion Phase
 
-### ![](media_the-slice-or-underspin-backhand/media/image5.jpg)
+### ![link](media_the-slice-or-underspin-backhand/media/image5.jpg)
 
 **Your hitting arm should bend at about 45 degrees on the turn. The racket face is open, the edges close to even.Just prior to the forward swing, plant your back foot (the left foot for right-handers) and transfer your weight onto the front foot as straight-ahead as possible.Be sure to bend your knees (except for very high balls), but stay as erect as possible from the waist up.Dipping the lead shoulder is a common source of errors when hitting with underspin.*Avoid hitting from an open stance. Ideally you want to step into the shot, but if you're forced to step more across your body that's usually ok.*This is because you can still hit the slice well with a somewhat later contact point than on the other groundstrokes.With this later contact point, you're able to carry the ball longer because it allows for maximum extension of the arm into the shot.*Hitting a slice backhand too early can actually result in a weak, \"floaty\" shot or a ball that lands in the net.***
 

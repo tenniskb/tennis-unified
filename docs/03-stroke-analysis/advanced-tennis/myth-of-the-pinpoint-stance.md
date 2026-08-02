@@ -45,11 +45,11 @@ kicking it back the other way as the motion uncoils?
 
 **[The theory is that by bringing the back foot up, players can actually
 push off with both legs, compared to the Platform where the push comes
-from the front leg only.]{.mark}**
+from the front leg only.]**
 
 **[In theory using both legs increases the positive benefits of the deep
 knee bend by increasing the transfer of energy as the legs
-uncoil.]{.mark}**
+uncoil.]**
 
 This is a commonly held belief in some sectors of the coaching and
 teaching community. A recent high-tech book on stroke production

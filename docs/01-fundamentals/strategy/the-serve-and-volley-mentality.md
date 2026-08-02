@@ -177,8 +177,7 @@ the net you can literally loom large.
 I often joke with my players that the best volley is the one you never
 have to hit. Serve and volley applies visual pressure than can force
 opponents into errors. Many points in serve and volley are actually won
-by returner error. As Brad Gilbert says, pressure paralyzes. ([Click
-Here](The%20Set-up%20Game.docx).)
+by returner error. As Brad Gilbert says, pressure paralyzes. ([link](The%20Set-up%20Game.docx).)
 
 As a serve and volleyer, credit your style when you get these. The
 errors are a direct result of literally getting more in the face of the

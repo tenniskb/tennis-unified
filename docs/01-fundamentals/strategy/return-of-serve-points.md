@@ -4,14 +4,13 @@
 
 ------------------------------------------------------------------------
 
-![](media_return-of-serve-points/media/image1.webp)
+![link](media_return-of-serve-points/media/image1.webp)
 
 **It's obvious\--though not to a lot of players\--move back to return a
 big first serve.**
 
 Let's now move onto the start of point scenario where you are returning
-serves. If you read the last article on serving ([Click
-Here](Increasing%20Your%20Chances%20of%20Winning%20Points%20on%20Serve.docx)),
+serves. If you read the last article on serving ([link](Increasing%20Your%20Chances%20of%20Winning%20Points%20on%20Serve.docx)),
 you have an understanding of what an intelligent server is trying to do.
 This is a great starting point for making marginal gains in return
 points.

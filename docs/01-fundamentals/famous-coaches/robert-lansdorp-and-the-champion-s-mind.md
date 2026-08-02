@@ -176,7 +176,7 @@ year. Bodo lives in New York City with his wife, Lisa, and 3 year old
 son Luke, but likes to roam the Catskill Mountains hunting and fishing
 near his farm in upstate New York.
 
-[Click Here](http://www.peterbodostennisworld.com/) to read his Blog on
+[link](http://www.peterbodostennisworld.com/) to read his Blog on
 Tennis.com, Peter Bodo's TennisWorld!
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -197,6 +197,5 @@ humor. Tremendous reading for anyone interested in not only the life and
 times of this great champion, but the evolution of the modern game of
 tennis.
 
-[Click
-Here](http://www.randomhouse.com/catalog/display.pperl/9780307383297.html)
+[link](http://www.randomhouse.com/catalog/display.pperl/9780307383297.html)
 to order.

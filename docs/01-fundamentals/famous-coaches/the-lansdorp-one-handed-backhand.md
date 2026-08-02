@@ -173,11 +173,11 @@ through it.**
 
 **[[The follow-through comes straight out, almost the same spot as on
 the forehand. This is the most critical part of the whole
-shot.]{.underline} It's the same on the all the groundstrokes: the
+shot.] It's the same on the all the groundstrokes: the
 forehand, the two-handed backhand, or the one-handed backhand. [The
 follow-through shows if you have hit through the ball. It's the key to
 developing pace and being able to hit a ball that
-moves.]{.underline}]{.mark}**
+moves.]]**
 
 That's why I have players learn to \"leave it out front.\" Then I can
 see exactly what is happening. By that I mean holding the racquet at the

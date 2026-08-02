@@ -38,8 +38,7 @@ world-class player.
 ![Chart, surface chart Description automatically
 generated](media_the-tennis-parent-blunders-and-solutions/media/image2.jpg)
 
-**This article is excerpted from the The Tennis Parents' Bible. ([Click
-Here](http://thetennisparentsbible.com/?hop=tplayer) for more
+**This article is excerpted from the The Tennis Parents' Bible. ([link](http://thetennisparentsbible.com/?hop=tplayer) for more
 information.)**
 
 **Being an Unaccountable Parent**

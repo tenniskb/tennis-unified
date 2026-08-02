@@ -7,7 +7,7 @@ Your Forehand and the Modern Forehand**
 
 # This month we'll start to look at the forward swing, possibly the most complex and dynamic element in tennis. We'll try to understand what really happens and why there is so much diversity among top players, by breaking the forward swing into two components. This article will focus on Extension, with Rotation coming up next month. Also, check out the classic lesson which adds additional info on these two confusing and critical elements in developing a great forehand of your own.
 
-# ![](media_john-yandell-your-forehand-and-the-modern-forehand-the-forward-swing-hand-and-arm-extension/media/image1.png)
+# ![link](media_john-yandell-your-forehand-and-the-modern-forehand-the-forward-swing-hand-and-arm-extension/media/image1.png)
 
 # 
 

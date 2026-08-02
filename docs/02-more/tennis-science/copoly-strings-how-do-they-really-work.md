@@ -77,7 +77,7 @@ Becker, sent the game's rules-making body, the International Tennis
 Federation, a letter expressing concern about the state of the game.
 **[\"The sport has lost something, lost some subtlety, some strategy,
 some of the nuance,\" they said, and argued for a return to smaller
-racket head sizes.]{.underline}**
+racket head sizes.]**
 
 Many former pros believe the effect of copoly strings has been just as
 profound on the state of the game. But despite the consensus in the
@@ -98,7 +98,7 @@ steeper the swing plane and the faster the swing, the more
 spin.** And at one level that really is the bottom
 line.
 
-![](media_copoly-strings-how-do-they-really-work/media/image4.webp)
+![link](media_copoly-strings-how-do-they-really-work/media/image4.webp)
 
 **The simple part: a fast steep swing creates more spin.**
 
@@ -282,7 +282,7 @@ sense,\" he adds.
 
 | Copoly Strings |  |  |
 | --- | --- | --- |
-| ![](media_copoly-strings-how-do-they-really-work/media/image16.jpg) | generated](media_copoly-strings-how-do-they-really-work/media/image17.jpg) |  |
+| ![link](media_copoly-strings-how-do-they-really-work/media/image16.jpg) | generated](media_copoly-strings-how-do-they-really-work/media/image17.jpg) |  |
 | **You can see, as with the other clips above the alignment of the strings pre contact.** | **This still shows the displacement of the strings sliding downward at contact.** | **This still shows the copoly snap back to the original position. How would a player know they even moved?** |
 
 

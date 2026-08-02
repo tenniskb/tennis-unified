@@ -1,9 +1,7 @@
 # Building A World Class One-Handed Backhand: Disguise
 
-In the last two articles we have looked at the preparation ([Click
-Here](https://www.tennisplayer.net/members/classiclessons/chris_lewit/one_handed_backhand_part_3/))
-and the forward swing ([Click
-Here](https://www.tennisplayer.net/members/classiclessons/chris_lewit/one_handed_backhand_part_4/))
+In the last two articles we have looked at the preparation ([link](https://www.tennisplayer.net/members/classiclessons/chris_lewit/one_handed_backhand_part_3/))
+and the forward swing ([link](https://www.tennisplayer.net/members/classiclessons/chris_lewit/one_handed_backhand_part_4/))
 in building a world class one-hander. But my goal in teaching the one
 handed backhand is not just to build a technical foundation.
 
@@ -39,7 +37,7 @@ medium
 confidence](media_disguise/media/image2.webp)
 
 **[The back turned to the opponent in the deep coil hides the racquet
-work.]{.mark}**
+work.]**
 
 But look how the same move disguises the shot. The deep turn of the body
 up to 150 degrees or more shows part or most of the back to the

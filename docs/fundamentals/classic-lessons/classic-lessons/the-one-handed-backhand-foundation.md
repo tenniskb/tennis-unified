@@ -16,7 +16,7 @@ Dominic Thiem are all using in the alleged dominant day of the two
 hander. Which backhand is right for you? It may not be what you think.
 But if you think it is the one-hander, this is a good place to start.
 
-![](media_the-one-handed-backhand-foundation/media/image1.png)
+![link](media_the-one-handed-backhand-foundation/media/image1.png)
 
 ![A person smiling for the camera](media_the-one-handed-backhand-foundation/media/image2.jpeg)
 

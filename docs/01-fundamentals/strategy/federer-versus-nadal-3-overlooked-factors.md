@@ -12,14 +12,13 @@ generated](media_federer-versus-nadal-3-overlooked-factors/media/image1.webp)
 final?**
 
 Much has been written about the incredible rivalry between Roger Federer
-and Rafael Nadal, and especially the 2008 Wimbledon final.  ([Click
-Here](https://www.tennisplayer.net/members/strategy/john_yandell/wimbledon_2008_a_different_story/wimbledon_2008_a_different_story.html)
+and Rafael Nadal, and especially the 2008 Wimbledon final.  ([link](https://www.tennisplayer.net/members/strategy/john_yandell/wimbledon_2008_a_different_story/wimbledon_2008_a_different_story.html)
 to see John Yandell's statistical and psychological analysis of this
 year's final.) But in this article, we'll look at three other
 interesting factors that have been overlooked in other analyzes, Factors
 that shed new light on this historic match.
 
-**[[These three factors are:]{.mark} ]{.underline}**
+**[[These three factors are:] ]**
 
 - First, the relationship between the first serve and the ability to hit
   an immediate forehand. 
@@ -83,13 +82,13 @@ the preferred forehand on the first ball. 
 **When Federer started with a backhand after his first serve, he won
 only 26% of the points.  When Nadal hits a backhand first, however, he
 won 42% of the points.**  **[This is a major key to
-understanding why Nadal won.]{.underline}**
+understanding why Nadal won.]**
 
 **[[The point difference between the 2 players over 5 sets was only 5
 points.  In this one pattern---a first serve followed by a
 backhand\--Nadal was 50% more successful than Roger.  This goes a long
 way towards explaining why Federer struggles so much to beat the
-Spaniard.]{.mark} ]{.underline}**
+Spaniard.] ]**
 
 **The point is not just that in general Rafael exploits Roger's
 backhand.  The point here is that there is a statistical difference
@@ -124,7 +123,7 @@ which we will address separately a little further on.
 
 **[[Federer hits 67% of all his groundstroke winners with his forehand
 in this zone---again anywhere from 3 front in front of to 5 feet behind
-the baseline.]{.mark} ]{.underline}**
+the baseline.] ]**
 
 **He produced 25% of all his winners with his backhand hit from the
 same zone.  Interestingly, the other 8% of his winners are forehands hit
@@ -142,12 +141,12 @@ generated](media_federer-versus-nadal-3-overlooked-factors/media/image5.webp)
 winners with his forehand from the same zone as Roger, an even higher
 percentage of all his winners coming from his forehand.  15% of all his
 winners came from backhands hit from the same
-zone.]{.mark}  ]{.underline}**
+zone.]  ]**
 
 **[[From further back, more than 5 feet behind the baseline, Nadal used
 his forehand to hit only 4% of his total winners.  Surprisingly again,
 that's slightly less than Federer on the forehand from the deeper
-zone.]{.mark} ]{.underline}**
+zone.] ]**
 
 But there is a significant difference in Nadal's favor on the backhand
 side.  From this zone 5 feet or more behind the baseline, Nadal actually
@@ -163,7 +162,7 @@ backhand side. Most of his winners on both sides are hit from closer in,
 as with Federer.  But these small differences can be the deciding
 factors in close matches.**
 
-**[\]{.underline}**
+**[\]**
 ![A picture containing text, athletic game, sport, tennis Description
 automatically
 generated](media_federer-versus-nadal-3-overlooked-factors/media/image6.webp)
@@ -175,11 +174,11 @@ generated](media_federer-versus-nadal-3-overlooked-factors/media/image6.webp)
 **[[If we look at passing shots, we can see another key aspect that
 helped determine the outcome.  Federer attacked Nadal by moving up into
 the shorter part of the court around 100 times in the course of the
-match.]{.mark} ]{.underline}**
+match.] ]**
 
 **[[Although he won many points with groundstroke winners, he won only
 10% of these attacking points by actually a volley or an
-overhead.]{.mark} ]{.underline}**
+overhead.] ]**
 
 **We can see why when we look at the numbers on Nadal's passes. When
 Federer attacked Nadal won 19% of the total points with winning passes. 
@@ -188,17 +187,17 @@ error.**
 
 **[[The bottom line is that when Nadal had any chance of hitting a
 passing shot, he generally hit it with amazing precision, and rarely
-produced an unforced error.]{.mark} [This explains why so few points
+produced an unforced error.] [This explains why so few points
 ended with volleys or overheads, especially unusual on grass.  Federer
 was forced to try for winners on his approaches because he could feel
 that Nadal's passing shots would other wise beat him consistently at the
-net.]{.mark}]{.underline}**
+net.]]**
 
 **[[The passing shots show even more spectacularly Nadal's ability to
 hit winners from 5 feet behind the baseline and more.  The highest
 number of passing shots for either player was Nadal's crosscourt
 backhand hit from 5 feet or more behind the baseline, an amazing
-statistic.]{.mark}   ]{.underline}**
+statistic.]   ]**
 
 These 3 statistics give some added insight into the one of the greatest
 matches of all time.  In the next article, we'll take a look at what our

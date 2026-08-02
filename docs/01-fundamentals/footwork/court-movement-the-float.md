@@ -4,8 +4,7 @@
 
 ------------------------------------------------------------------------
 
-Now that we've looked at the basic movement patterns, ([Click
-Here](Footwork%20TOC.docx)) let's see how we can speed up our movement
+Now that we've looked at the basic movement patterns, ([link](Footwork%20TOC.docx)) let's see how we can speed up our movement
 in certain situations using a move that I call \"The Float.\"
 
 Let's see how The Float applies in two critical areas that put pressure

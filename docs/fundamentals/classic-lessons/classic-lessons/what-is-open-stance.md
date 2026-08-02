@@ -17,8 +17,7 @@ Like many observers of the game, I just assumed that the players of the
 past stepped into every ball. But I had to examine that assumption after
 I watched a video called \"Kings of the Court,\" with some great
 historical footage, produced by my fellow Tennisplayer contributor Ed
-Atkinson. ([Click
-Here](http://www.tennis-warehouse.com/descpageYANDELL-VKINGS.html).) The
+Atkinson. ([link](http://www.tennis-warehouse.com/descpageYANDELL-VKINGS.html).) The
 video is revealing because it has so many instances of open stance
 hitting, from Bill Tilden to Rod Laver. The fact is that even before the
 start of the open era, the great players were using open stance

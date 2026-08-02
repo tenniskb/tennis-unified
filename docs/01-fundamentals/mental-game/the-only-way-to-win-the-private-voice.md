@@ -13,7 +13,7 @@ players (and persons) at his academy in Lake Nona, Florida. The topic of
 your private voice never came up in your lessons with your teaching pro?
 Maybe you need to listen to what Jim has to say!
 
-![](media_the-only-way-to-win-the-private-voice/media/image1.png)
+![link](media_the-only-way-to-win-the-private-voice/media/image1.png)
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A person smiling for the camera Description automatically generated with medium                                                                                                         Jim Loehr is a legendary pioneer in the field of

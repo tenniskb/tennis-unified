@@ -19,8 +19,7 @@ the tennis world's greatest Grand Slam winner, Rod Laver, regarding the
 nuts and bolts of the mental game. Stalking the Rocket through an
 airport terminal in the post midnight hours yielded surprising and
 disheartening revelations. The key to winning, The Rocket believed, was
-having a natural meanstreak. ([Click
-Here](https://www.tennisplayer.net/members/mentalgame/jeff_mccullough/rod_laver/).)
+having a natural meanstreak. ([link](https://www.tennisplayer.net/members/mentalgame/jeff_mccullough/rod_laver/).)
 
 But now I was excited to pose similar questions to a man at the top of
 the coaching world - who also had a Ph.D. in psychology. And frankly I
@@ -168,8 +167,7 @@ celebrities\--initially.
 met a couple of years ago in San Diego. You were there with Tracy Austin
 doing TV commentary.\"
 
-I then mentioned my book Two-Handed Tennis ([Click
-Here](https://www.tennisplayer.net/members/tour_strokes/Jeffrey_F_McCullough/two_Handed%20_forehand_past,_present,_future/two_Handed%20_forehand_past_present,_future.html)
+I then mentioned my book Two-Handed Tennis ([link](https://www.tennisplayer.net/members/tour_strokes/Jeffrey_F_McCullough/two_Handed%20_forehand_past,_present,_future/two_Handed%20_forehand_past_present,_future.html)
 to read my article on the two-handed forehand.) Two years ago Vic and I
 had discussed my work and shared thoughts on the tennis book publishing
 business.
@@ -275,8 +273,7 @@ response.
 \"I want my players to stay focused on winning\--always. I don't want
 them to ever feel satisfied when they lose.\" Loehr's name was like
 kryptonite to these old school tennis supermen like Vic and the Rocket!
-([Click
-Here](https://www.tennisplayer.net/members/mentalgame/mentalgame.html)
+([link](https://www.tennisplayer.net/members/mentalgame/mentalgame.html)
 to peruse Jim Loehr's fabulous work on Tennisplayer.)
 
 \"I want losing to make them feel so uncomfortable that they want to
@@ -302,7 +299,7 @@ We stood facing a plastic hostess stand with a sign: \"Please Wait to be
 Seated.\" Fortunately, the hostess was nowhere to be seen. I was still
 in the game.
 
-![](media_what-is-confidence/media/image9.jpg)
+![link](media_what-is-confidence/media/image9.jpg)
 
 **Vegas: pursuing spiritual truth in the land of fear and loathing.**
 

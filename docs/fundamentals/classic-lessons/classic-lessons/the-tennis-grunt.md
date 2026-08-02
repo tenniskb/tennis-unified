@@ -2,7 +2,7 @@
 
 ### By Geoff Williams
 
-![](media_the-tennis-grunt/media/image1.png)
+![link](media_the-tennis-grunt/media/image1.png)
 
 **Geoff still grunting after 30 years**
 
@@ -33,7 +33,7 @@ in my game. I had already seen grunting used in my martial arts classes
 in the same fashion, which was one of the reasons it made so much sense
 to me.
 
-![](media_the-tennis-grunt/media/image2.png)
+![link](media_the-tennis-grunt/media/image2.png)
 
 **The role of the grunt in breaking concrete!**
 
@@ -92,7 +92,7 @@ During her career, one of Heinecke's opponents went to the referee at
 Wimbledon and complained, asking that she be called for a hindrance for
 each grunt, but the request was declined.
 
-![](media_the-tennis-grunt/media/image1.png)
+![link](media_the-tennis-grunt/media/image1.png)
 
 **Monica Seles brought the grunt into public awareness.**
 
@@ -122,7 +122,7 @@ Eventually Seles's new level of grunting provoked another confrontation
 at Wimbledon, this time a far better known one with tennis legend
 Martina Navratilova in 1992.
 
-![](media_the-tennis-grunt/media/image1.png)
+![link](media_the-tennis-grunt/media/image1.png)
 
 **Was it Monica's grunt or her game that defeated Navritilova?**
 
@@ -157,7 +157,7 @@ There is a straight line from Monica to Serena and Venus Williams, Maria
 Sharapova and Victoria Azarenka. As Serena has said, \"I loved Seles
 grunt. It was a double grunt just like mine.\"
 
-![](media_the-tennis-grunt/media/image1.png)
+![link](media_the-tennis-grunt/media/image1.png)
 
 **A straight line from Seles to maximum modern grunting.The Grunt Study**
 
@@ -170,8 +170,7 @@ In the study, undergraduate students viewed videos of a tennis player
 hitting a ball to either side of a tennis court by watching video in a
 laboratory setting. Half of the shots were accompanied with a brief,
 60-decibel sound at the same time as contact, comparable in volume to
-the grunts of players such as Maria Sharapova. ([Click
-Here](http://manoa.hawaii.edu/news/article.php?aId=3898) to read about
+the grunts of players such as Maria Sharapova. ([link](http://manoa.hawaii.edu/news/article.php?aId=3898) to read about
 the study in more detail.)
 
 Participants were asked to identify the direction of the shot in each
@@ -199,7 +198,7 @@ correlation between the results of the study and the experience of
 actual tennis players who presumably could adapt to the effects of
 grunting over time.
 
-![](media_the-tennis-grunt/media/image1.png)
+![link](media_the-tennis-grunt/media/image1.png)
 
 **Does this reach 100 decibals? Does the duration of the sound continue when the ball is in the opponent's court?Nonetheless, some people have pointed to this study and concluded that grunters distract and slow down their opponents' reactions. Some have gone so far to say that the grunt is primarily a \"psyche\" job and a form of cheating.** They point out that the
 Azarenka/Sharapova type grunts are of much longer duration and now
@@ -222,7 +221,7 @@ hotter or a humid climate or at a higher altitude. At this point, I'll
 have to conclude, these questions are mainly speculation and have no
 definitive answers.
 
-![](media_the-tennis-grunt/media/image5.wmf)
+![link](media_the-tennis-grunt/media/image5.wmf)
 
 **Could grunting have a negative effect on stamina and/ lead to cramps?**
 
@@ -239,8 +238,7 @@ and neutralize any advantage held by grunting opponents?
 
 I have a feeling though that not every Tennisplayer subscriber is going
 to agree. So let me know what you think about grunting and this article
-in the Forum! ([Click
-Here](https://www.tennisplayer.net/bulletin/forum/tennisplayer/2090-the-tennis-grunt?view=stream).)
+in the Forum! ([link](https://www.tennisplayer.net/bulletin/forum/tennisplayer/2090-the-tennis-grunt?view=stream).)
 
                                                                                                                                                                           the years he went on to become a fixture on the
                                                                                                                                                                           Northern California NTRP tournament scene,

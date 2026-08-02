@@ -111,12 +111,9 @@ Error and how it fits into the overall stats picture. He started by
 charting a U.S. Open Final between Sampras and Agassi.
 
 Subsequent to that he charted the 2006 French Open final between Nadal
-and Federer ([Click
-Here](https://www.tennisplayer.net/members/strategy/john_yandell/federer_versus_nadal_french_open_2006/federer_versus_nadal_french_open_2006.html)),
-their Wimbledon final the same year ([Click
-Here](https://www.tennisplayer.net/members/strategy/john_yandell/how_roger_federer_won_wimbledon_2006/how_roger_federer_won_wimbledon_2006.html)),
-and the Wimbledon final 2 years later, among other matches. ([Click
-Here](https://www.tennisplayer.net/members/strategy/john_yandell/wimbledon_2008_a_different_story/wimbledon_2008_a_different_story.html).)
+and Federer ([link](https://www.tennisplayer.net/members/strategy/john_yandell/federer_versus_nadal_french_open_2006/federer_versus_nadal_french_open_2006.html)),
+their Wimbledon final the same year ([link](https://www.tennisplayer.net/members/strategy/john_yandell/how_roger_federer_won_wimbledon_2006/how_roger_federer_won_wimbledon_2006.html)),
+and the Wimbledon final 2 years later, among other matches. ([link](https://www.tennisplayer.net/members/strategy/john_yandell/wimbledon_2008_a_different_story/wimbledon_2008_a_different_story.html).)
 In every case the Aggressive Margin\--adding together a player's
 winners and forced errors and subtracting the unforced errors---told the
 story of the match.
@@ -131,8 +128,7 @@ The Forced Error also told the story in several Federer/Nadal matches.
 John also did an article about charting the matches of a nationally
 ranked junior he was working with at the time, putting Winners, Forced
 Errors, and Unforced Errors in context to explain the outcome of several
-matches. ([Click
-Here](https://www.tennisplayer.net/members/strategy/john_yandell/understanding_statistics/Yandell_Going_Insiede_Matches_images/Yandell_Going_Insiede_Matches.html).)
+matches. ([link](https://www.tennisplayer.net/members/strategy/john_yandell/understanding_statistics/Yandell_Going_Insiede_Matches_images/Yandell_Going_Insiede_Matches.html).)
 
 Although charting this way can be done by computer or phone, all you
 really need is a pen and a piece of paper. Below is a simple form that

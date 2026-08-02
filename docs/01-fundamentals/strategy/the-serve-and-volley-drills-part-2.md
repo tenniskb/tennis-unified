@@ -11,8 +11,7 @@ generated](media_the-serve-and-volley-drills-part-2/media/image1.webp)
 gives you a wide variety of \"returns.\"**
 
 In the last article we looked at three original drills I developed to
-incorporate serve and volley into your game ([Click
-Here](The%20Serve%20and%20Volley%20Drills%20Part%201.docx)), part of my
+incorporate serve and volley into your game ([link](The%20Serve%20and%20Volley%20Drills%20Part%201.docx)), part of my
 comprehensive new series. Now let's follow up with two more!
 
 **The Table**

@@ -207,7 +207,7 @@ is the hardest to master.**
 groundstroke, and often players are then late taking their first split
 step after the serve. [Mastering the timing of the split step is the key
 to taking advantage of weaker returns, as well as defending better
-against quality attacking returns.]{.mark}]{.underline}**
+against quality attacking returns.]]**
 
 If the server misses the first serve, he then hits a second serve. The
 returner should be encouraged to adjust their position accordingly and

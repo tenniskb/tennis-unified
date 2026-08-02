@@ -85,8 +85,7 @@ able to anticipate the ball.\"
 
 Veteran coach and founder of Modern Tennis LLC, Brett Hobden agrees
 about anticipation. He says two of the most important invisible skills
-in the game are anticipation and decision-making. ([Click
-Here](../Famous%20Coaches/The%20Seven%20Modern%20Topspin%20Forehands.docx)
+in the game are anticipation and decision-making. ([link](../Famous%20Coaches/The%20Seven%20Modern%20Topspin%20Forehands.docx)
 to read Brett's article on the 7 Topspin Forehands.)
 
 \"There are certain ingredients that go into the success or failure of a

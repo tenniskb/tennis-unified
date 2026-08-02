@@ -15,8 +15,7 @@ In my last article I outlined multiple components of the so-called
 \"Zone\" as described by top researchers and athletes in many sports.
 The article showed that there probably is no one Zone and the experience
 and the process of reaching it can be different for different performers
-([Click
-Here](https://www.tennisplayer.net/members/mentalgame/damien_lafont/does_zone_exist/)).
+([link](https://www.tennisplayer.net/members/mentalgame/damien_lafont/does_zone_exist/)).
 
 Now in this article let's narrow our focus and discuss the fundamental
 pillars of our understanding of the zone in tennis. These are the work
@@ -174,15 +173,15 @@ behavior, still widely taught and practiced today.
 **These stages are:**
 
 1.  **[maintaining a positive physical posture after every
-    point]{.mark}**
+    point]**
 
 2.  **[relaxing the mind and body through breathing and focus on the
-    strings]{.mark}**
+    strings]**
 
-3.  **[preparing strategically for the upcoming point]{.mark}**
+3.  **[preparing strategically for the upcoming point]**
 
 4.  **[creative personal physical rituals before serving or
-    returning.]{.mark}**
+    returning.]**
 
 Loehr noted that Lendl spent long hours on the practice court and
 maintained a fierce physical conditioning routine. But he also spent
@@ -216,8 +215,7 @@ off court reprogramming and positive visualizations as well.
 
 Loehr's work has been widely copied, paraphrased, and appropriated by
 dozens if not hundreds of self-styled mental gurus. But it remains the
-foundation for the field that he virtually created. ([Click
-Here](https://www.tennisplayer.net/members/mentalgame/mentalgame/mentalgame.html)
+foundation for the field that he virtually created. ([link](https://www.tennisplayer.net/members/mentalgame/mentalgame/mentalgame.html)
 for the presentation of Jim's entire system on Tennisplayer.)
 
 Taken together the work of Gallwey and Loehr, so different in approach,
@@ -231,8 +229,7 @@ generated with low
 confidence](media_titans-of-tennis-in-the-zone/media/image7.jpeg)
 
 Damien Lafont Ph.D. is a pioneer in mental, vision and movement study.
-Based in Melbourne, Australia, Damien is manager of Vida Mind ([Click
-Here](http://www.vidamind.com.au) for more info). He works with athletes
+Based in Melbourne, Australia, Damien is manager of Vida Mind ([link](http://www.vidamind.com.au) for more info). He works with athletes
 and coaches from all sports interested in developing mental skills and
 improving performance. A certified teaching pro, he holds a degree in
 sport science and training as well as a doctorate in physics.
@@ -248,5 +245,5 @@ down into its many components. Ultimately it shows us that reaching the
 Zone is more about freeing our mind from the unnecessary rather than
 learning new techniques and concepts.
 
-[Click Here to
+[ to
 Order!](http://www.amazon.com/Back-Zone-Sport-Inner-Experiences/dp/1891369997/ref=sr_1_2?s=books&ie=UTF8&qid=1409754670&sr=1-2)

@@ -145,8 +145,7 @@ league match or just a weekly encounter with your nemesis or rival.
 
 In Jim Loehr's work one of the fundamental components is learning to
 understand process, learning to love the battle, learning to focus on
-the joy of playing the game rather than the outcome. ([Click
-Here](https://www.tennisplayer.net/members/mentalgame/jim_loehr/pathway_to_performing_under_pressure/pathway_to_performing_under_pressurehtml.html).)
+the joy of playing the game rather than the outcome. ([link](https://www.tennisplayer.net/members/mentalgame/jim_loehr/pathway_to_performing_under_pressure/pathway_to_performing_under_pressurehtml.html).)
 
 The key questions to ask after a loss are: What did I do well? Where
 were my opportunities? The goal is to stay excited about improving, and
@@ -172,8 +171,7 @@ the sense that you analyze harder, deeper at times. That's where you
 learn a lot about your game, about your attitude, about your fitness.\"
 
 Think about what David Sammel explained in his article on The Ladder of
-Gain. ([Click
-Here](https://www.tennisplayer.net/members/mentalgame/david_sammel/ladder_of_gain/).)
+Gain. ([link](https://www.tennisplayer.net/members/mentalgame/david_sammel/ladder_of_gain/).)
 Losses don't mean going down. They only show you the path upward to the
 next rung.
 

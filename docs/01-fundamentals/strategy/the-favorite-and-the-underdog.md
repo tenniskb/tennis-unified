@@ -73,7 +73,7 @@ Djokovic went on to break back and then was able to win the fourth set
 and the match in the tiebreaker that followed.  
 
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------
-   ![](media_the-favorite-and-the-underdog/media/image4.jpg)
+   ![link](media_the-favorite-and-the-underdog/media/image4.jpg)
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                            Until the double faults, great positive intensity.
 
@@ -113,7 +113,7 @@ resigned as he walked over to the ad court to receive serve, and the
 curtain came down one point later.
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-   ![](media_the-favorite-and-the-underdog/media/image5.jpg)
+   ![link](media_the-favorite-and-the-underdog/media/image5.jpg)
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                           **After the double faults, resignation and defeat.**
 
@@ -141,7 +141,7 @@ just often enough to make it interesting, and upsets are emotionally
 compelling. So why does the favorite usually win?  And when upsets do
 occur why do they happen? 
 
-![](media_the-favorite-and-the-underdog/media/image6.webp)
+![link](media_the-favorite-and-the-underdog/media/image6.webp)
 
 **Favorites win in part because they have the game.**
 
@@ -191,7 +191,7 @@ The bottom line was that The Script played itself out as it usually
 does.
 
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------
-   ![](media_the-favorite-and-the-underdog/media/image7.jpg)
+   ![link](media_the-favorite-and-the-underdog/media/image7.jpg)
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                  **After a near escape, the favorite is often relieved and bolstered.**
 
@@ -236,7 +236,7 @@ a very good second serve and might have held serve by hitting it, rather
 than over hitting and trying to do more than was likely necessary to
 complete this task.
 
-![](media_the-favorite-and-the-underdog/media/image8.webp)
+![link](media_the-favorite-and-the-underdog/media/image8.webp)
 
 **How does your level of belief affect your shot tolerance?**
 
@@ -244,8 +244,7 @@ complete this task.
 
 Let's look at what happened from another, related angle.  Elliot
 Teltscher has identified a basic attribute in the games of all tennis
-players, which is their "shot tolerance."  ([[Click
-Here]{.underline}](../High%20Performance/Shot%20Tolerance.docx).)  Shot
+players, which is their "shot tolerance."  ([[]](../High%20Performance/Shot%20Tolerance.docx).)  Shot
 tolerance is the average number of balls a player is physically,
 mentally and emotionally able to hit in a given point. When players
 reach the limit of their shot tolerance they are much more likely to
@@ -285,7 +284,7 @@ common trap of thinking that the quick, simple solution lies in simply
 "trying harder."  
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                  ![](media_the-favorite-and-the-underdog/media/image9.jpg)![](media_the-favorite-and-the-underdog/media/image10.jpg)
+                  ![link](media_the-favorite-and-the-underdog/media/image9.jpg)![link](media_the-favorite-and-the-underdog/media/image10.jpg)
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                         A critical question: are you a favorite or an underdog?
 
@@ -326,7 +325,7 @@ challenge the number one? These are all equivalent situations insofar as
 they all involve the dominance dynamic.
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-   ![](media_the-favorite-and-the-underdog/media/image11.jpg)
+   ![link](media_the-favorite-and-the-underdog/media/image11.jpg)
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                            **As an underdog can you demonstrate true belief?**
 
@@ -361,7 +360,7 @@ that go with performing in this role.  Again, these are the belief that
 you can win and the courage to seize opportunities.
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-   ![](media_the-favorite-and-the-underdog/media/image12.jpg)
+   ![link](media_the-favorite-and-the-underdog/media/image12.jpg)
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                         **A favorite has to believe in his level of play, and be able to execute under pressure.**
 
@@ -406,7 +405,7 @@ the reputation of being able to come through in big matches.
 **[[So another key when you are in the favorite role is to simply
 recognize how tough it is for the underdog to seize and maintain
 momentum.  The key is not to panic and continue to play your superior
-game.]{.mark} ]{.underline}**
+game.] ]**
 
 ![A person playing tennis Description automatically
 generated](media_the-favorite-and-the-underdog/media/image13.webp)
@@ -433,7 +432,7 @@ have to apply pressure with a sense of urgency.  You must play within
 your capabilities, of course, but when you have the chance, you have to
 go for it, whether you succeed or not.  As an underdog, it's better to
 try to take control and fail, then not to try at
-all.]{.mark} ]{.underline}**
+all.] ]**
 
 If a wavering favorite recovers from a bad patch and you allow him
 regain the momentum, you have probably squandered your opportunity.  As
@@ -462,10 +461,9 @@ There is an incredible body of work on Tennisplayer, dealing with just
 this topic, including two recent article's from Jim Loehr on Rafael
 Nadal's amazing body language, as well as his training system for
 improving this critical dimension in your game. If you aren't familiar
-with them, they are highly recommended. ([[Click
-Here]{.underline}](../Mental%20game/Love%20the%20Battle-Pathways%20to%20Performing.docx))
+with them, they are highly recommended. ([[]](../Mental%20game/Love%20the%20Battle-Pathways%20to%20Performing.docx))
 
-![](media_the-favorite-and-the-underdog/media/image14.webp)
+![link](media_the-favorite-and-the-underdog/media/image14.webp)
 
 **Body language demonstrates belief, or its lack.**
 

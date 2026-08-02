@@ -15,7 +15,7 @@ with my state championship teams.**
 
 In the first article in this series, I talked about the importance of
 unconditional self-acceptance as one of the foundations of true
-confidence. [Click Here](Self-Acceptance%20and%20Confidence.docx)
+confidence. [link](Self-Acceptance%20and%20Confidence.docx)
 
 Tennis gives you an opportunity to learn a lot about yourself. If you
 have confidence, you need to use it effectively. If you don't have
@@ -83,7 +83,7 @@ the contest, and it also allows you to imagine how you will handle any
 type of adversity. Use mental imagery to picture yourself being relaxed
 and in a state of flow.
 
-![](media_techniques-for-developing-confidence/media/image3.jpg)
+![link](media_techniques-for-developing-confidence/media/image3.jpg)
 
 **The color blue represents, confidence, boldness, calmness.**
 
@@ -251,7 +251,6 @@ competitive tennis. It includes detailed self-assessment questionnaires
 and plans of action to help any player our coach use sports psychology
 to reach the next level.
 
-To Order Next-Level Coaching, [Click
-Here!](https://www.amazon.com/Next-Level-Coaching-Psychology-Student-Athlete-Performance/dp/1632991772/ref=sr_1_1?crid=2XO9EVQF6XBZA&keywords=ben+loeb&qid=1552685920&s=gateway&sprefix=Ben+Loeb%2Caps%2C187&sr=8-1)
+To Order Next-Level Coaching, [!](https://www.amazon.com/Next-Level-Coaching-Psychology-Student-Athlete-Performance/dp/1632991772/ref=sr_1_1?crid=2XO9EVQF6XBZA&keywords=ben+loeb&qid=1552685920&s=gateway&sprefix=Ben+Loeb%2Caps%2C187&sr=8-1)
 
 ------------------------------------------------------------------------

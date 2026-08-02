@@ -14,7 +14,7 @@ of the lag and snap concept in this video. You will also learn what is
 the best way to develop your forehand to achieve optimum power and
 control.
 
-![](media_forehand-myth-lag-and-snap/media/image1.wmf)
+![link](media_forehand-myth-lag-and-snap/media/image1.wmf)
 
 ![A person smiling for the camera Description automatically generated
 with medium

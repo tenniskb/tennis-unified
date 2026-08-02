@@ -157,10 +157,10 @@ confidence](media_why-poaching-is-overrated/media/image5.webp)
 the opponent's second serve is weak or if your partner has an
 especially effective return.** **[[When your
 partner is about to hit the return, move forward well into the service
-box so you're in better position to start the poach.]{.mark} [If you
+box so you're in better position to start the poach.] [If you
 start at the service line like most players do, you will rarely have
 time to get to get the ball in time or position to make a decisive
-volley.]{.mark}]{.underline}**
+volley.]]**
 
 **Remember all the opportunities to poach should be based on your
 evaluation of the overall match situation---the score, your partner, and

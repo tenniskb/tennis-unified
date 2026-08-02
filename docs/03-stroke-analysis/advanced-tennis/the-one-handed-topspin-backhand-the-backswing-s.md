@@ -8,8 +8,7 @@
 
 In the first two articles on the one-handed backhand, we looked at the
 grips, the grip shifts, and the start of the preparation, or the unit
-turn. ([Click
-Here](The%20One%20Handed%20Topspin%20Backhand-The%20Grip%20Shift%20and%20Unit%20Turn.docx).)
+turn. ([link](The%20One%20Handed%20Topspin%20Backhand-The%20Grip%20Shift%20and%20Unit%20Turn.docx).)
 Now let's look at the shape, or shapes, of the backswings themselves.
 
 We'll also see how the backswing is related to the completion of the
@@ -28,8 +27,7 @@ confidence](media_the-one-handed-topspin-backhand-the-backswing-s/media/image1.w
 In our analysis of the modern forehand, we found that no two forehand
 backswings were exactly alike. We also found that with the forehand
 there were no clear correlations between grip style and backswing size
-and shape. ([Click
-Here](John%20Yandell-Your%20forehand%20and%20the%20modern%20forehand-The%20Backswing%20Part%201%20.docx).)
+and shape. ([link](John%20Yandell-Your%20forehand%20and%20the%20modern%20forehand-The%20Backswing%20Part%201%20.docx).)
 It's a similar picture with the one-handed backhand.
 
 When you start looking closely at the motions of the top one-handed
@@ -46,7 +44,7 @@ generated](media_the-one-handed-topspin-backhand-the-backswing-s/media/image2.we
 judged on three different factors. The first factor is the height of the
 tip of the racket. The second factor is the height of the hand. The
 third factor is side to side movement, or how far away the player takes
-the hand and racket away from the body.]{.mark}*** These three factors
+the hand and racket away from the body.]*** These three factors
 can be combined in many ways, and the way they are combined accounts for
 the unique shape of every player's motion.
 
@@ -68,7 +66,7 @@ lower.***
 | confidence](media_the-one-handed-topspin-backhand-the-backswing-s/media/image3.jpg) |  |  |  |  |
 | ![A person playing tennis Description automatically | ![A person swinging a golf club Description automatically | ![A person swinging a golf club Description automatically | ![A person swinging a tennis racket Description automatically generated with medium | ![A person swinging a tennis racket Description automatically |
 | generated](media_the-one-handed-topspin-backhand-the-backswing-s/media/image8.jpg) |  |  |  |  |
-| **[The height of the backswing varies across the classical and extreme styles.]{.mark}** |  |  |  |  |
+| **[The height of the backswing varies across the classical and extreme styles.]** |  |  |  |  |
 
 
 Some players point the tip almost directly up,but keep the hand position
@@ -213,7 +211,7 @@ medium
 confidence](media_the-one-handed-topspin-backhand-the-backswing-s/media/image27.webp)
 
 **[The purpose of the backswing is to position the racket to
-hit.]{.mark}**
+hit.]**
 
 What we can say is that the various combinations all seem to work very
 well for the top players we have studied. And all the different shapes
@@ -249,10 +247,10 @@ torso.
 
 Those are the similarities, but now look at ***[the two main
 differences. These are the exact distance of the hand from the torso,
-and also the total amount of shoulder turn.]{.mark}*** These two
+and also the total amount of shoulder turn.]*** These two
 factors, the hand position and the amount of shoulder turn, are
 interrelated. ***[More shoulder turn seems to coincide with a closer in
-hand position at the bottom of the backswing.]{.mark}***
+hand position at the bottom of the backswing.]***
 
 ![A person playing tennis Description automatically
 generated](media_the-one-handed-topspin-backhand-the-backswing-s/media/image36.webp)
@@ -279,7 +277,7 @@ range is a mix between the classic and extreme grips.
 
 There is one other element to look at here, which is ***[how far behind
 the body the various players take the racket, and where the racket tip
-points.]{.mark}*** Because of the visual resources we have on the site,
+points.]*** Because of the visual resources we have on the site,
 many coaches and players have noticed that the racket tends to point
 more towards the sideline than the back fence, as is often advised in
 traditional teaching. In many cases the shaft of the racket appears

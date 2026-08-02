@@ -104,9 +104,9 @@ to get as much pace.** So Pancho made sure I kept
 my upper body relatively quiet and still, and that I concentrated on the
 hands.
 
-***[[By relying on the hands]{.underline} you can be much more precise
+***[[By relying on the hands] you can be much more precise
 in controlling the swing and finding the same spot on the ball. Your
-timing is just better.]{.mark}*** The key to hitting the ball wide with
+timing is just better.]*** The key to hitting the ball wide with
 more sidespin is only a slight difference in the way the hand moves the
 racket across the ball.
 

@@ -141,9 +141,9 @@ confidence](media_the-pro-return/media/image6.webp)
 
 These are the type of returns we have seen Andre Agassi hit so many
 times, or Jimmy Connors before him. What we see on these returns is that
-**[[the motions are very compact]{.underline}. The player is [using the
-speed of the ball]{.underline}, and [timing the return,]{.underline}
-usually [playing the ball on the rise.]{.underline}]{.mark} Often the
+**[[the motions are very compact]. The player is [using the
+speed of the ball], and [timing the return,]
+usually [playing the ball on the rise.]] Often the
 returner will be up on the baseline or even
 slightly inside it when he makes contact.** This
 has all been widely noted.
@@ -167,8 +167,8 @@ confidence](media_the-pro-return/media/image7.webp)
 **Moving back to hit a big return with a big swing.**
 
 **What's the advantage?** First, ***[the [ball
-slows down]{.underline} and [spin
-outs]{.underline}]{.mark}***[.]{.underline} **It loses some of the
+slows down] and [spin
+outs]]*** **It loses some of the
 energy. This means the returner can often hit the
 ball on the way down, after the top of the bounce. This makes it
 easier to time.** This also **makes the contact
@@ -183,11 +183,11 @@ There's another potential advantage to this strategy that we don't
 usually think about, and this has to do with court position. **[It's
 great to hit aggressive returns up on the baseline. They can be very
 dramatic when they work. But it's also possible to hit yourself [out of
-position with an aggressive return.]{.mark} The problem is
-that]{.underline}** **unless the return is a winner or really forces
+position with an aggressive return.] The problem is
+that]** **unless the return is a winner or really forces
 the opponent, it can leave the court open and make you
-vulnerable**. **[[By moving back,]{.mark} the
-returner not only gets]{.underline} to take a bigger
+vulnerable**. **[[By moving back,] the
+returner not only gets] to take a bigger
 swing**, **he is in a better position to defend
 and to cover the court.**
 
@@ -211,7 +211,7 @@ point.**
 **combination of being in the proper position,**
 **picking the right shot,** and **picking the
 right placement.** **[It's not a matter of just
-good ball striking.]{.underline}** **The question is where do you put
+good ball striking.]** **The question is where do you put
 that return to give yourself the best opportunity to start off the
 point?**
 
@@ -241,9 +241,9 @@ return**. **Try neutralizing the serve
 first.**
 
 **One very effective play here is deep down the
-middle. [The exchanges]{.underline} in pro tennis
-are [so fast]{.underline} now that [the server's often have trouble
-recovering]{.underline} if they have to back up to hit that next
+middle. [The exchanges] in pro tennis
+are [so fast] now that [the server's often have trouble
+recovering] if they have to back up to hit that next
 ball**. **Don't give the
 server a ball that he can more forward inside the baseline and
 hit.** **Force him to stop or even back up to
@@ -261,8 +261,8 @@ of an aggressive return.** We're used to thinking
 that when players move forward they're thinking attack. **But by
 moving back you can be aggressive in different
 way.** This is by **[[giving yourself time to
-load]{.mark} [and take a bigger swing at the
-ball]{.mark}]{.underline}**.
+load] [and take a bigger swing at the
+ball]]**.
 
 We're also used to thinking that players move back to neutralize a big
 serve. The second reversal is that, **besides moving forward to hit,
@@ -310,9 +310,9 @@ was another pretty good player who did the same thing: Pete Sampras.
 
 On the backhand, virtually **all the one handers go to their regular
 backhand grip if they decide to swing.** What it
-all seems to mean is that **it's important [to wait with]{.underline}
+all seems to mean is that **it's important [to wait with]
 [grips that are appropriate to the range of returns you actually
-hit.]{.underline}**
+hit.]**
 
 ![A person playing tennis Description automatically
 generated](media_the-pro-return/media/image13.webp)
@@ -326,9 +326,9 @@ really doing.** As with the variety in the modern
 pro serve, there are many ways to return. Players should have multiple
 options when it comes to getting the ball back. **[[This is why it is
 important to practice against a variety of servers and types of
-serves.]{.mark} [Developing your own return skills is definitely vital
+serves.] [Developing your own return skills is definitely vital
 to getting to the next level, whatever your ambitions or current level
-of play.]{.mark}]{.underline}**
+of play.]]**
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A person smiling for the camera Description automatically generated with medium                                                                                       Bobby Bernstein is the USTA Administrator of

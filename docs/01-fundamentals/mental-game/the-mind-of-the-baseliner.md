@@ -11,8 +11,7 @@ generated](media_the-mind-of-the-baseliner/media/image1.webp)
 
 Last month I wrote about my decision to incorporate more net play into
 my baseline game, and how that helped me win the most recent ITF Senior
-World Championship. ([Click
-Here](https://www.tennisplayer.net/members/mentalgame/jeff_greenwald/the_opportunity_attack/))
+World Championship. ([link](https://www.tennisplayer.net/members/mentalgame/jeff_greenwald/the_opportunity_attack/))
 Now in this article, I want to elaborate on the mental and emotional
 processes that were critical in that transition.
 
@@ -60,14 +59,12 @@ California coaches Paul Cohen and Rod Heckleman.
 Paul's article presents the steps for developing or improving your
 forehand volley---something I quickly realized would be critical if I
 was going to believe that I could truly get the job done once I was at
-the net. ([Click
-Here](https://www.tennisplayer.net/members/classiclessons/paul_cohen/classic_forehand_volley).)
+the net. ([link](https://www.tennisplayer.net/members/classiclessons/paul_cohen/classic_forehand_volley).)
 
 Rod's article details the equally critical improvements in my footwork,
 as well the progressive drills and practice games I used for a period of
 weeks to assimilate opportunity attacking into actual competitive play.
-([Click
-Here](https://www.tennisplayer.net/members/rob_heckelman/incorporate_approach/).)
+([link](https://www.tennisplayer.net/members/rob_heckelman/incorporate_approach/).)
 
 ![A picture containing person, sky, outdoor, person Description
 automatically
@@ -92,8 +89,7 @@ in serious pain, getting treated for multiple cramps in my legs.
 
 At that moment, my mind flashed back to the meeting I had had a few
 weeks before with coach Paul Cohen, a meeting that I described in the
-first article. ([Click
-Here](https://www.tennisplayer.net/members/mentalgame/jeff_greenwald/the_opportunity_attack/).)
+first article. ([link](https://www.tennisplayer.net/members/mentalgame/jeff_greenwald/the_opportunity_attack/).)
 
 If you didn't read the article, it was an unusual meeting to say the
 least. Having watched one of my practice matches, Paul walked up and
@@ -214,8 +210,8 @@ matches.
 comfort level. It created predictability.**
 
 **[This had the huge additional benefit of [reducing cognitive
-\"chatter\" and indecision.]{.underline} All players like to control
-what happens on the court. My game style gave me that feeing.]{.mark}**
+\"chatter\" and indecision.] All players like to control
+what happens on the court. My game style gave me that feeing.]**
 
 In many matches, I firmly believed that if I could force the other
 player to play my type of game I would win. In contrast, when I thought
@@ -228,8 +224,7 @@ creates a certain built-in rigidity. The fact is that playing from the
 baseline keeps the possibilities limited and manageable.
 
 Many seasoned tennis professionals understand the concept of shot
-tolerance. ([Click
-Here](https://www.tennisplayer.net/members/high_performance/elliot_teltscher/shot_tolerance/shot_tolerance.html)
+tolerance. ([link](https://www.tennisplayer.net/members/high_performance/elliot_teltscher/shot_tolerance/shot_tolerance.html)
 to read Elliot Teltscher's classic explanation.) Some players have a lot
 of tolerance and some have much less. I prided myself on having a higher
 tolerance than most of my opponents.
@@ -460,7 +455,7 @@ attacking to your game. Remember, it isn't all or nothing. It's an added
 weapon in the arsenal and you can use it as much or as little as you
 like.
 
-![](media_the-mind-of-the-baseliner/media/image14.png)
+![link](media_the-mind-of-the-baseliner/media/image14.png)
 
 **Opportunity attacking was a dramatic shift that led to an
 international title.**
@@ -504,7 +499,7 @@ tennis of your life. See how to embrace pressure, maintain confidence,
 and increase your focus and intensity. Jim Loehr calls Jeff's book: \"a
 real contribution to the field of applied sports psychology.\"\
 \
-[Click Here to
+[ to
 Order!](http://www.amazon.com/Best-Tennis-Your-Life-Performance/dp/1558708448/ref=pd_bbs_sr_1?ie=UTF8&s=books&qid=1200341206&sr=8-1)
 
 ![A person smiling for the camera Description automatically generated
@@ -520,7 +515,7 @@ doubles in the United States.
 
 Greenwald is the author of [\"The Best Tennis of Your
 Life\"](http://www.amazon.com/Best-Tennis-Your-Life-Performance/dp/1558708448/ref=pd_bbs_sr_1?ie=UTF8&s=books&qid=1200341206&sr=8-1)
-published by Betterway. [Click Here to
+published by Betterway. [ to
 order.](http://www.amazon.com/Best-Tennis-Your-Life-Performance/dp/1558708448/ref=pd_bbs_sr_1?ie=UTF8&s=books&qid=1200341206&sr=8-1)
 Jeff has a private practice based in San Francisco and Marin County,
 California. He can be reached at 415-640-6928 or by email at

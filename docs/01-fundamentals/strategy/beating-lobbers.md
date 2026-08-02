@@ -77,8 +77,7 @@ around the service line.**
 **Positioning**
 
 Positioning is the foundation in dealing against lobs. As we saw in the
-previous article in our system ([Click
-Here](The%20Hunter%20and%20the%20Helper.docx)) one player is always the
+previous article in our system ([link](The%20Hunter%20and%20the%20Helper.docx)) one player is always the
 Hunter and one is always the Helper.
 
 The Helper\--the player diagonally across from the ball\--is always

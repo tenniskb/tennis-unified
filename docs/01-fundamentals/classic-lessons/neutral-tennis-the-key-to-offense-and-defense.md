@@ -55,7 +55,7 @@ this style of play as offensive, but in a real sense it is. **This is
 because this type of player creates pressure to come up with great shots
 over and over again making an opponent feel he is
 being** [**[attacked
-relentlessly.]{.underline}**]{.mark}
+relentlessly.]**]
 
 **Neutral Tennis**
 
@@ -108,7 +108,7 @@ an error.**
 
 **[The final component in playing Neutral Tennis is to learn how to
 transition to offense when you yourself are on the
-defensive.]{.underline}** Too often players try to play incredible shots
+defensive.]** Too often players try to play incredible shots
 from defensive positions in the hope that they will get lucky and win
 the point. You see them make errors as they try to go from defense to
 offense in one ball. Over the course of a match, this is a losing
@@ -141,7 +141,7 @@ Length is the key.** **[All too often players learn
 to hit angled shots, but never learn what it takes to hit a good deep
 ball under the pressure of a defensive position. Time and time again I
 see players trying to make incredible winners from the most extreme
-places in the court.]{.underline}**
+places in the court.]**
 
 **The depth of your neutral shot will often fool your opponent and he
 will make a lot of errors overhitting in an effort to stay on the

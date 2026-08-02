@@ -287,7 +287,7 @@ serve.**
 
 **Since when serving a player is automatically swinging upward [the
 natural reaction of many players is to open the palm
-skyward]{.underline}. In this case, the player must use an image that
+skyward]. In this case, the player must use an image that
 counteracts this tendency, what some coaches call an over-
 compensation.**
 

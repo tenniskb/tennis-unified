@@ -170,7 +170,7 @@ gone.**
 
 **[At the same time that the shoulders are rotating, however, there is a
 second critical rotation. This second rotation is the internal rotation
-of the hitting arm.]{.mark}**
+of the hitting arm.]**
 
 As the racket moves forward, the entire arm is rotating independently,
 as a unit, from the shoulder. As the high speed digital footage clearly
@@ -199,7 +199,7 @@ hitting arm starts to relax, does the wrist begin to release-light years
 after the hit in the high speed time frame of professional tennis. Since
 the ball has been off the strings for many milliseconds when this wrist
 movement begins to occur, it is obvious that the wrist could play no
-role in generating the hit.]{.mark}***
+role in generating the hit.]***
 
 In reality the wrist release is caused by the forces generating the
 swing, rather than the other way around. Wrist movement is a

@@ -65,7 +65,7 @@ of detail about the strokes. I've talked about the contact point, the
 balance of the body, the posture, the feet, hitting the ball on the
 rise, the follow-through.
 
-![](media_discipline/media/image2.png)
+![link](media_discipline/media/image2.png)
 
 **Click to hear Robert Lansdorp on the problem of developing
 discipline.**
@@ -397,7 +397,7 @@ said something like \"Come on now, it's OK, just relax and try a little
 harder.\" That's probably how other coaches have always treated that
 kid from Texas.
 
-![](media_discipline/media/image10.wmf)
+![link](media_discipline/media/image10.wmf)
 
 **Click photo to hear Robert Lansdorp talk about how long it really
 takes to develop discipline.**

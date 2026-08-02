@@ -102,8 +102,7 @@ potential source of tension can be dispelled.
 
 But the main thing, whatever happens, keep your cool. It's just one
 point. In a close match you are going to lose half of them anyway as
-Allen Fox as astutely pointed out. ([Click
-Here](The%20Diabolical%20Scoring%20System%20of%20Tennis.docx).) So
+Allen Fox as astutely pointed out. ([link](The%20Diabolical%20Scoring%20System%20of%20Tennis.docx).) So
 don't sacrifice more precious points stewing over an iffy call.
 
 And what if your opponent doesn't engage? If he opponent ignores you,
@@ -194,8 +193,7 @@ because the ball bounced twice on your side unless you agree.
 Did you know that you can ask a player to take down a towel if he has
 wedged it in the fence right in your site line?
 
-The USTA has a book you can order called Friend at the Court. ([Click
-Here](http://www.ustashop.com/product_p/usp11b02.htm).) It contains not
+The USTA has a book you can order called Friend at the Court. ([link](http://www.ustashop.com/product_p/usp11b02.htm).) It contains not
 only the rules, but the code that governs unofficiated matches. It can
 provide you with the ammunition to settle these or almost any other of
 the countless tricky situations that can come up in matches.
@@ -266,7 +264,7 @@ a plane ticket.
 |  | horrifying potential dangers in junior tournament tennis. With a forward |
 |  | by Dr. Allen Fox. |
 |  |  |
-|  | [Click Here to |
+|  | [ to |
 |  | Order!](http://www.amazon.com/First-Field-Two-Junior-Tennis/dp/1467558370) |
 
 

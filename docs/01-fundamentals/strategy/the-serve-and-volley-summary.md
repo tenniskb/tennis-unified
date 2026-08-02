@@ -24,8 +24,7 @@ serve and volley in their own games.
 When we all look back at our own tennis origins, we can probably
 remember the time and place that brought tennis into our lives. For me
 it was a classic serve and volley duel between two legends in a
-Wimbledon final. ([Click
-Here](The%20Inspiration%20to%20Serve%20and%20Volley.docx).)
+Wimbledon final. ([link](The%20Inspiration%20to%20Serve%20and%20Volley.docx).)
 
 That Stefan Edberg versus Boris Becker match started me down the road to
 become a tennis player, to become a ranked junior, a college player, and
@@ -43,8 +42,7 @@ can stand up to this challenge over the course of a match.
 
 The mentality is sustained, controlled aggression. And maintaining this
 unwavering, relentless mentality is critical to succeed. The mastery has
-to start in your head. ([Click
-Here](The%20Serve%20and%20Volley%20Mentality.docx).)
+to start in your head. ([link](The%20Serve%20and%20Volley%20Mentality.docx).)
 
 It's easy to spot players that rarely plays the serve and volley. After
 being passed once, they avoid the forecourt and approach the net again
@@ -120,7 +118,7 @@ combinations. It's not one knockout punch but a series of jabs and
 hooks in the form of intelligent serving, aggressive first volleys and
 effective finishing shots. Mixing the 4 serves described of this series
 (T serve, Wide Deep, 3/4, Body) is crucial to any serve and volley game.
-[Click Here](The%20Serve%20and%20Volley%20Tactical%20Components.docx)
+[link](The%20Serve%20and%20Volley%20Tactical%20Components.docx)
 
 At elite levels, closing in tight to the net is ideal, chances are that
 an approach or volley was struck crisply enough to elicit a week reply
@@ -160,13 +158,12 @@ with the comfortable and easy winning volleys to the open court.
 
 These are not the shots players hope for or dream about. But if you are
 going to succeed at the net you can rest assured you will need them.
-[(Click
-Here.)](The%20Serve%20and%20Volley%20Three%20Critical%20Shots.docx)
+[link](The%20Serve%20and%20Volley%20Three%20Critical%20Shots.docx)
 
 A big mistake many players make is trying to do too much with the
 overhead. Not only with the power, but also with the direction. Scott
 Murphy has a great technical lesson developing this critical shot.
-([Click Here](../Classic%20Lessons/The%20Overhead.docx)). Proper
+([link](../Classic%20Lessons/The%20Overhead.docx)). Proper
 technique leads to confidence, which leads to relaxation of the body and
 mind, which leads to success.
 
@@ -191,9 +188,8 @@ it may become a signature shot. Serve and Volley Practice
 
 When practicing serve and volley, make it a point to involve multiple
 skills and shots. I shared several ways to do this with my students in
-the drill articles in this series. ([Click
-Here](The%20Serve%20and%20Volley%20Drills%20Part%201.docx) for Part 1.
-[Click Here](The%20Serve%20and%20Volley%20Drills%20Part%202.docx) for
+the drill articles in this series. ([link](The%20Serve%20and%20Volley%20Drills%20Part%201.docx) for Part 1.
+[link](The%20Serve%20and%20Volley%20Drills%20Part%202.docx) for
 Part2.)
 
 And here is one final important point. I insist on warming up the volley

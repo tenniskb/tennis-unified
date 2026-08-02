@@ -11,10 +11,8 @@ corners on second serve?**
 
 In the last two articles in this series, we looked at the technical
 variations in Roger Federer's serve for the different placements for
-the first serve in both the ad court ([Click
-Here](John%20Yandell-Federer%20Serve%20Locations-1st%20Serve%20Ad%20Court.docx))
-and in the deuce court ([Click
-Here](John%20Yandell-Federer%20Serve%20Locations-1st%20Serve%20Deuce.docx)).
+the first serve in both the ad court ([link](John%20Yandell-Federer%20Serve%20Locations-1st%20Serve%20Ad%20Court.docx))
+and in the deuce court ([link](John%20Yandell-Federer%20Serve%20Locations-1st%20Serve%20Deuce.docx)).
 We saw that there were slight differences in the angle and path of the
 racket face that were invisible to the eye, but that were clear in
 Tennisplayer high speed video.
@@ -22,22 +20,20 @@ Tennisplayer high speed video.
 **[On the first serve, the key is the timing of the rotation of the hand
 and arm in the upward swing. This rotation in turn varies the angle of
 the racket head at contact, creating placements to both corners and
-everywhere in between.]{.mark}**
+everywhere in between.]**
 
 **[The same factor\--the timing of the rotation of the racket\--and the
 resulting angle at contact explain the placement on the second serves as
-well.]{.mark}** So let's see how that works in both courts.
+well.]** So let's see how that works in both courts.
 
 **Toss**
 
 Before we do though let's review a key difference between the first and
 second serve, the placement of the toss. We looked at the differences in
 the ball position between the first and second serve in my recent series
-on new methods for building or improving your strokes ([Click
-Here](https://www.tennisplayer.net/members/teaching_systems/john_yandell/second_serve/)).
+on new methods for building or improving your strokes ([link](https://www.tennisplayer.net/members/teaching_systems/john_yandell/second_serve/)).
 And we did the same in the classic series on the Sampras serve from 10
-years ago. ([Click
-Here](https://www.tennisplayer.net/members/tour_strokes/john_yandell/sampras_serve/sampras_serve_second_serve_part8_images/sampras_serve_second_serve_part8.html).)
+years ago. ([link](https://www.tennisplayer.net/members/tour_strokes/john_yandell/sampras_serve/sampras_serve_second_serve_part8_images/sampras_serve_second_serve_part8.html).)
 
 ![A picture containing text, tennis, ball, racket Description
 automatically
@@ -96,7 +92,7 @@ starts while the arm is straightening from the elbow.
 
 **[Once the arm straightens it continues to the contact and after, with
 the arm and racket in a virtual straight line moving out into the
-followthrough.]{.mark}**
+followthrough.]**
 
 It's the timing of this unitary rotation that controls the angle of the
 racket face and therefore the direction of the serve. So let's see
@@ -156,12 +152,12 @@ rotation the arm has moved slightly further to the right.
 placement. As with the deuce court, the total hand and arm rotation is
 about the same on both the wide serve and the serve down the T. The
 timing of that rotation is what varies to control the angle of the
-racket face at contact.]{.mark}**
+racket face at contact.]**
 
 **[Going down the T in the ad court, the racket turns later and will be
 close to square at contact. Going wide, the racket turns a little sooner
 and a few degrees further, so the face is angled in the direction of the
-wider ball flight.]{.mark}**
+wider ball flight.]**
 
 Look at Federer and see that on the serve down the T that the face is
 still mostly on edge until a few hundredths of a second before contact.

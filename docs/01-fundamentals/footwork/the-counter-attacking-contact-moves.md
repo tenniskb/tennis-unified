@@ -12,8 +12,8 @@ generated](media_the-counter-attacking-contact-moves/media/image1.webp)
 counterattacking Contact Moves.**
 
 In the last two articles, we looked at Contact Moves used for attacking,
-([Click Here](https://www.tennisplayer.net/members/footwork/david_bailey/world_class_movement/attacking_contact_moves))
-and Contact Moves used for building points. ([Click Here](https://www.tennisplayer.net/members/footwork/david_bailey/world_class_movement/building_contact_moves/))
+([link](https://www.tennisplayer.net/members/footwork/david_bailey/world_class_movement/attacking_contact_moves))
+and Contact Moves used for building points. ([link](https://www.tennisplayer.net/members/footwork/david_bailey/world_class_movement/building_contact_moves/))
 Now let's move on to a third category: Counter Attacking.
 
 Counter attacking means answering a forcing shot with a forcing shot of
@@ -146,7 +146,7 @@ degrees, or until it points forward at the net.
 So that's it for our third category: the Counter Attacking Moves. Stay
 tuned for the Defensive Contact Moves!
 
-![](media_the-counter-attacking-contact-moves/media/image5.jpeg)
+![link](media_the-counter-attacking-contact-moves/media/image5.jpeg)
 
 David Bailey is a native Australian who has spent 15 years studying
 tennis at the professional level. He has developed a new language for
@@ -158,8 +158,6 @@ the Bailey Method, has become a regular part of the coaching curriculum
 at the Nick Bollettierri Tennis Academy, where it is personally endorsed
 by Nick
 
-Visit David's Website! [**[Click
-Here!]{.underline}**](http://www.baileytennisfootwork.com/)
+Visit David's Website! [**[!]**](http://www.baileytennisfootwork.com/)
 
-To Contact David directly [**[Click
-Here!]{.underline}**](mailto:david@baileytennisfootwork.com)
+To Contact David directly [**[!]**](mailto:david@baileytennisfootwork.com)

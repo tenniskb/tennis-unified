@@ -199,7 +199,7 @@ The slow and heavy conditions on the red clay force the player to
 develop maximum kinetic chain and racquet speed in order to successfully
 compete. Players learn by necessity to develop strong acceleration.
 
-![](media_secrets-of-spanish-tennis-paradigms-and-superstructure/media/image6.webp)
+![link](media_secrets-of-spanish-tennis-paradigms-and-superstructure/media/image6.webp)
 
 Spain's clay courts: ubiquitous and slow.
 
@@ -249,7 +249,7 @@ The mentoring approach was adopted not only by players, but by coaches,
 like Pato Alvarez and Lluis Bruguera, who were open and eager to share
 their knowledge with the younger generation of talented coaches. Even
 today, Pato and Luis are happy to share their knowledge with any coaches
-who come to visit them. ([Click Here](https://www.tennisplayer.net/members/%20famouscoach/famouscoach.html) for
+who come to visit them. ([link](https://www.tennisplayer.net/members/%20famouscoach/famouscoach.html) for
 Chris Lewit's interviews with Lluis Bruguera.)
 
 ![A person smiling for the camera Description automatically generated

@@ -219,7 +219,7 @@ forearm pronation at 5%.
 **Contributions to Racquet Head Speed Prior to Contact**
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-   ![](media_the-serve-and-tennis-science/media/image7.gif)
+   ![link](media_the-serve-and-tennis-science/media/image7.gif)
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   **A different viewpoint shows how racquet speed is generated from the mid point to contact. Elbow extension and wrist flexion, the two main contributors, are highlighted.
   Note that elbow extension is important throughout, and critical early as the racquet is moving up. Also note wrist flexion exerts its main influence approaching contact.**
@@ -274,8 +274,7 @@ Based on this quantitative data we can conclude that John Yandell pretty
 much had it right, although his article leaves a few important things
 unrecognized and unexplained.
 
-If you read his article on the \"Myth of the Wrist\" ([Click
-Here](http://www.tennisplayer.net/members/avancedtennis/john_yandell/the_myth/the_myth_of_the_wrist_serve_images/the_myth_of_the_wrist_serve.html)),
+If you read his article on the \"Myth of the Wrist\" ([link](http://www.tennisplayer.net/members/avancedtennis/john_yandell/the_myth/the_myth_of_the_wrist_serve_images/the_myth_of_the_wrist_serve.html)),
 he states the swing pattern was a function of racquet position at the
 end of the drop, elbow extension that straightens the arm, and internal
 rotation of the hitting arm. Additional information provided from my
@@ -408,8 +407,8 @@ Sports Sciences.*
 |  | knowledge across the entire range of tennis performance. |
 |  |  |
 |  | To visit his website, [**[Click |
-|  | Here!]{.underline}**](https://tennisperformanceresearch.com/) |
+|  | Here!]**](https://tennisperformanceresearch.com/) |
 |  |  |
 |  | Top contact him directly, [**[Click |
-|  | Here!]{.underline}**](mailto:gamabrian@icloud.com) |
+|  | Here!]**](mailto:gamabrian@icloud.com) |
 

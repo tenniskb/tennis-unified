@@ -109,7 +109,7 @@ shoulder rotation basically doubles. But what about the contact point?
 In one important sense it's not different for the extreme grips. It's
 still in the middle of the total rotational pattern.
 
-| ![](media_building-the-modern-forehand-shoulder-rotation/media/image14.jpg) |
+| ![link](media_building-the-modern-forehand-shoulder-rotation/media/image14.jpg) |
 | --- |
 | **Extreme players make contact with their shoulders parallel the baseline-the midpoint of their rotational pattern.** |
 
@@ -152,7 +152,7 @@ video a few frames further and you'll see the correct \"open\" torso
 contact position for the more extreme forehand grip.
 
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-   ![](media_building-the-modern-forehand-shoulder-rotation/media/image15.jpg)
+   ![link](media_building-the-modern-forehand-shoulder-rotation/media/image15.jpg)
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                        **Another look at Hewitt's contact point. Old beliefs about torso rotation die hard.**
 

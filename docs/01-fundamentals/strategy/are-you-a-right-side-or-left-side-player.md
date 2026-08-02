@@ -14,8 +14,7 @@ Making the marginal gains that influence matches is dependent on
 understanding whether you are a right side player or a left side player.
 In this article we will show how to use a simple test to determine this
 based on the shot assessments you have already done from the first
-article. ([Click
-Here](Marginal%20Gains%20-%20Top%20Shots%20and%20Set%20Up%20Shots.docx).)
+article. ([link](Marginal%20Gains%20-%20Top%20Shots%20and%20Set%20Up%20Shots.docx).)
 
 But first let's look at another factor that is fundamental to this: how
 crosscourt diagonals affect shot percentages. These diagonals include
@@ -48,7 +47,7 @@ middle.**
 
 **[How far away from the middle depends on how wide an angle you may
 need to cover from a given opponent. An extreme angle can cross the
-sideline before reaching the depth of the service line.]{.underline}**
+sideline before reaching the depth of the service line.]**
 
 **The sharper the angle of your own cross-court the more angle
 opportunity for your opponent. But that angle is only available to the

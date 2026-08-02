@@ -8,8 +8,7 @@
 
 Learning to win means devising and improvising scenarios to against the
 various game styles in the pro game and at all other levels. In Part 1
-of this article. ([Click
-Here](Situational%20and%20Scenario%20Analysis%20-%20Part%201.docx)) we
+of this article. ([link](Situational%20and%20Scenario%20Analysis%20-%20Part%201.docx)) we
 presented some examples of the incredible range of scenarios that can
 occur in matches. Let's continue in Part 2 by looking at another series
 of scenarios most players at most levels encounter sooner or later.
@@ -27,7 +26,7 @@ confidence](media_situational-and-scenario-analysis-part-2/media/image1.webp)
 
 **What if you are losing the war, side to side?**
 
-**[Scenario 1:]{.underline}** It is a baseline war moving side to side
+**[Scenario 1:]** It is a baseline war moving side to side
 and the opponent seems to win all the big points. Pro Example: Rafael
 Nadal
 
@@ -39,8 +38,7 @@ down the line too soon. Reel in your game somewhat, make the points
 simpler, and focus on finding the best diagonal. Play your serves and
 returns with the intent of forcing your opponent to hit crosscourt into
 your favorable rally direction as we explained in the article on serve
-and returns diagonals ([Click
-Here](Pro%20Patterns%20-%20Serve%20and%20Return%20Diagonals.docx)).
+and returns diagonals ([link](Pro%20Patterns%20-%20Serve%20and%20Return%20Diagonals.docx)).
 
 Experiment with stepping up closer to the baseline and when you go for
 winners, taking the ball earlier. Again, be aware of what diagonal you
@@ -65,8 +63,7 @@ to your backhand to get an advantage and then go inside in to hurt you
 or hit winners. Your first goal is to change the rally on either a short
 ball or one that is closer to the middle. You can generate balls closer
 to the middle, by hitting down the middle yourself and taking away the
-opponent's angle for attack. ([Click
-Here](Pro%20Patterns%20-%20Basic%20Diagonals%20-%20Part%202%20Switching%20the%20Rally.docx)
+opponent's angle for attack. ([link](Pro%20Patterns%20-%20Basic%20Diagonals%20-%20Part%202%20Switching%20the%20Rally.docx)
 for more detail on how this works.)
 
 Next try to turn the exchange around and hit your forehand inside out to
@@ -107,7 +104,7 @@ confidence](media_situational-and-scenario-analysis-part-2/media/image4.webp)
 
 **What about a fast opponent with great angles?**
 
-**[Scenario 4:]{.underline}** Your weapons are your down the line
+**[Scenario 4:]** Your weapons are your down the line
 winners and your opponent is very fast and hits great angles. Pro
 Example: Kim Clijsters
 
@@ -130,7 +127,7 @@ generated](media_situational-and-scenario-analysis-part-2/media/image5.webp)
 
 **How do you counter hard, deep and down the middle?**
 
-**[Scenario 5:]{.underline}** Your opponent hits deep and hard down the
+**[Scenario 5:]** Your opponent hits deep and hard down the
 middle hand-cuffing you and waits for a short ball. Pro Example: Lindsay
 Davenport
 
@@ -152,7 +149,7 @@ generated](media_situational-and-scenario-analysis-part-2/media/image6.webp)
 
 **What if the return puts you on defense?**
 
-**[Scenario 6:]{.underline}** Your serve is under attack, and you are on
+**[Scenario 6:]** Your serve is under attack, and you are on
 defense on the first ball. Pro Example: Andre Agassi
 
 Strive for depth on all serves and drop a bit of pace in order to play a
@@ -169,7 +166,7 @@ confidence](media_situational-and-scenario-analysis-part-2/media/image7.webp)
 
 **How to you counter a deep drive followed by a drop shot?**
 
-**[Scenario 7:]{.underline}** Your opponent drives you deep to a corner
+**[Scenario 7:]** Your opponent drives you deep to a corner
 and drop shots to the opposite side. Pro Example: Guillermo Coria
 
 Respond to the deep drives with high cross-courts, even looping moon
@@ -185,7 +182,7 @@ generated](media_situational-and-scenario-analysis-part-2/media/image8.webp)
 
 **What if your opponent cuts off your loops with swinging volleys?**
 
-**[Scenario 8:]{.underline}** You are being driven off the court with
+**[Scenario 8:]** You are being driven off the court with
 angles and your loop responses are being taken as swinging volleys. Pro
 Example: Venus Williams
 

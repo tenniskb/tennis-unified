@@ -19,8 +19,7 @@ moves after the hit, and also, the recovery steps.
 There are almost 20 different Contact Moves in pro tennis. They fall
 into 3 general categories. These are: Aggressive, Neutral and Defensive.
 We've previously looked at the Aggressive Contact Moves, and also, the
-first series of neutral moves, called the Spin Moves. ([Click
-Here](http://www.tennisplayer.net/members/footwork/footwork.html).)
+first series of neutral moves, called the Spin Moves. ([link](http://www.tennisplayer.net/members/footwork/footwork.html).)
 
 Now let's continue our analysis by looking a second series of neutral
 moves, called **the Pivot Moves.** **These are
@@ -56,9 +55,9 @@ stance.**
 **Often players use the Two Foot Pivot when the ball is hit directly
 at them.** **[[In this case the preparation or the
 turn move can be a small out step or simply a turn with both feet
-turning sideways from the split step.]{.mark} [On these balls, the shot
+turning sideways from the split step.] [On these balls, the shot
 can be hit with an extreme open stance, as there is usually not time to
-further adjust the feet.]{.mark}]{.underline}**
+further adjust the feet.]]**
 
 **As the player swings, both feet keep in contact with the court, but
 pivot or rotate on the court surface. This rotation corresponds to the
@@ -188,7 +187,7 @@ middle.**
 So that's it for the Pivot Moves! Stay tuned for the next article which
 will start our analysis of the Defensive Contact Moves.
 
-![](media_contact-moves-the-pivot-moves/media/image7.jpeg)
+![link](media_contact-moves-the-pivot-moves/media/image7.jpeg)
 
 David Bailey is a native Australian who has spent 15 years studying
 tennis at the professional level. He has developed a new language for
@@ -200,8 +199,6 @@ the Bailey Method, has become a regular part of the coaching curriculum
 at the Nick Bollettierri Tennis Academy, where it is personally endorsed
 by Nick
 
-Visit David's Website! [**[Click
-Here!]{.underline}**](http://www.baileytennisfootwork.com/)
+Visit David's Website! [**[!]**](http://www.baileytennisfootwork.com/)
 
-To Contact David directly [**[Click
-Here!]{.underline}**](mailto:david@baileytennisfootwork.com)
+To Contact David directly [**[!]**](mailto:david@baileytennisfootwork.com)

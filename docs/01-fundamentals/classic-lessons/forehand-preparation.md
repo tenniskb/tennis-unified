@@ -17,15 +17,15 @@ examples, let's examine the elements of sound forehand preparation.
 
 Good preparation for any stroke starts with effective use of the eyes.
 **[Firstly, by using your eyes, you'll know when to make an
-all-important ready hop. [Just before]{.underline} your opponent strikes
-the ball it's crucial to make a balanced ready hop.]{.mark}** **You
+all-important ready hop. [Just before] your opponent strikes
+the ball it's crucial to make a balanced ready hop.]** **You
 want to try to time the landing of the hop so the [feet touch the ground
-just as your opponent hits the ball.]{.underline}** This will set your
+just as your opponent hits the ball.]** This will set your
 leg muscles to move one way or the other; **knowing when to ready hop
-means you'll [respond more quickly and accurately]{.underline} because
-you're [assessing]{.underline} [physical cues]{.underline} your
+means you'll [respond more quickly and accurately] because
+you're [assessing] [physical cues] your
 opponent may be giving you [just ahead of the ball leaving his
-racket]{.underline}.**
+racket].**
 
 ![A person playing tennis Description automatically
 generated](media_forehand-preparation/media/image1.webp)
@@ -37,9 +37,9 @@ Using your eyes effectively is also critical in **avoiding a
 problem** I see constantly, **the inability to
 establish the correct lateral distance from the
 ball. [Players will actually [place their bodies
-where their racquets need to be]{.underline}, in great part [because
+where their racquets need to be], in great part [because
 they don't track the ball long enough or with a still enough head to
-avoid overreacting while establishing position]{.underline}]{.mark}**.
+avoid overreacting while establishing position]]**.
 **Keep your head still, your shoulders level, and watch the ball until
 you hear it hit your strings.** There are two other
 means of establishing a better range of contact that will be mentioned
@@ -63,12 +63,12 @@ the racket on the right side.**
 body to form an approximately 90-degree angle with the plane of the
 shoulders.** Most pros will **[[keep the
 non-hitting hand on the racquet throat to help initiate the turn and
-ensure the position of the arm before letting go.]{.mark} [The position
+ensure the position of the arm before letting go.] [The position
 of the non-racket arm can also assist in distancing yourself laterally
-from the ball.]{.mark} [Keeping the ball at that arm's length will
-prevent crowding of the swing.]{.mark} [Additionally, it helps assists
+from the ball.] [Keeping the ball at that arm's length will
+prevent crowding of the swing.] [Additionally, it helps assists
 overall balance and sets up a synchronization of the arms during the
-forward swing.]{.mark}]{.underline}**
+forward swing.]]**
 
 **Just before the forward rotation of the shoulders, the wrist should
 be locked into a laid back position and the elbow should be bent and

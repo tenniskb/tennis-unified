@@ -3,8 +3,7 @@
 **Dr. Brian Gordon**
 
 So how do you create the complex rotations in the upward swing on the
-serve described in the last article? ([Click
-Here](Rotations%20in%20the%20Upward%20Swing.docx).) The first key is the
+serve described in the last article? ([link](Rotations%20in%20the%20Upward%20Swing.docx).) The first key is the
 timing of the racket entry into the backswing. Brian explains how the
 hesitation point in the backswing is critical to prevent the common
 problem of an early and forward entry.
@@ -12,7 +11,7 @@ problem of an early and forward entry.
 This groundbreaking series shows how Brian applies his biomechanical
 research to working with real players on court.
 
-![](media_the-hesitation-point/media/image1.png)
+![link](media_the-hesitation-point/media/image1.png)
 
 | ![A person holding a tennis racket Description automatically | Dr. Brian Gordon has changed the understanding of the |
 | --- | --- |
@@ -26,8 +25,8 @@ research to working with real players on court.
 |  | knowledge across the entire range of tennis performance. |
 |  |  |
 |  | To visit his website, [**[Click |
-|  | Here!]{.underline}**](https://tennisperformanceresearch.com/) |
+|  | Here!]**](https://tennisperformanceresearch.com/) |
 |  |  |
 |  | Top contact him directly, [**[Click |
-|  | Here!]{.underline}**](mailto:gamabrian@icloud.com) |
+|  | Here!]**](mailto:gamabrian@icloud.com) |
 

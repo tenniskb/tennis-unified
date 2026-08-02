@@ -9,7 +9,7 @@ the multiple dimensions in playing attacking all court tennis. Here is
 the last pattern. It starts with a wide serve in the ad court. The next
 ball goes off the court. This sets up an attack to the open court.
 
-![](media_opening-the-court-part15/media/image1.png)
+![link](media_opening-the-court-part15/media/image1.png)
 
   --
 

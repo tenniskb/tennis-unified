@@ -6,7 +6,7 @@
 
 ### John Craig
 
-After the left hand releases (Click Here for more about the left hand
+After the left hand releases ( for more about the left hand
 role) what should the dominant right arm do to create power and control?
 The keys are understanding the movement of the butt cap, the movement of
 the racket face, and crucially, the internal rotation of the hitting arm
@@ -18,7 +18,7 @@ and through it correctly is what creates consistency and racket head
 speed. The release of the wrist? Something that happens long after
 contact and not a factor in power and spin.
 
-![](media_the-one-handed-backhand-power-and-control/media/image1.png)
+![link](media_the-one-handed-backhand-power-and-control/media/image1.png)
 
 ![A person smiling for the camera](media_the-one-handed-backhand-power-and-control/media/image2.jpeg)
 

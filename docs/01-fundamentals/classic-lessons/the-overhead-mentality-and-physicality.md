@@ -28,8 +28,7 @@ levels.**
 
 **The antidote to baseline play is attack, and the overhead is an acid
 test for an attacking player.** I believe in
-integrating serve and volley at all levels. ([Click
-Here](https://www.tennisplayer.net/members/strategy/kyle_lacroix/serve_and_volley_summary/)
+integrating serve and volley at all levels. ([link](https://www.tennisplayer.net/members/strategy/kyle_lacroix/serve_and_volley_summary/)
 for the summary article Kyle's series.) A great overhead is integral in
 mastering this attacking game.
 
@@ -78,12 +77,9 @@ Tennisplayer Stroke Archive capture these exact feelings of conviction
 and relaxation.
 
 Between the Archive and the articles already published by Scott Murphy
-([Click
-Here](https://www.tennisplayer.net/members/classiclessons/scott_murphy/scott_murphy_overhead_images/scott_murphy_overhead.html)),
-Kerry Mitchell ([Click
-Here](https://www.tennisplayer.net/members/classiclessons/kerry_mitchell/kerry_mitchell_the_overhead/kerry_mitchell_the_overhead.html)),
-and Jeremiah Walsh ([Click
-Here](https://www.tennisplayer.net/members/classiclessons/jeremiah_walsh/overhead_or_in_front_of_head/))
+([link](https://www.tennisplayer.net/members/classiclessons/scott_murphy/scott_murphy_overhead_images/scott_murphy_overhead.html)),
+Kerry Mitchell ([link](https://www.tennisplayer.net/members/classiclessons/kerry_mitchell/kerry_mitchell_the_overhead/kerry_mitchell_the_overhead.html)),
+and Jeremiah Walsh ([link](https://www.tennisplayer.net/members/classiclessons/jeremiah_walsh/overhead_or_in_front_of_head/))
 Tennisplayer offers the most thorough understanding of the overhead
 available anywhere in the world.
 
@@ -112,9 +108,9 @@ insufficient body turn and can only backpedal with the torso facing the
 net.
 
 **[[As good players move into position the non-dominant arm goes
-up.]{.mark} [The length of time that the opposite arm stays engaged
+up.] [The length of time that the opposite arm stays engaged
 depends on the height of the ball and the amount of time you have to
-hit.]{.mark}]{.underline}**
+hit.]]**
 
 Fellow Tennisplayer.net writer Scott Murphy has a great positioning
 drill to work on using the opposite arm. **He has players learn to
@@ -122,8 +118,7 @@ catch the ball with the opposite hand. This forces players to find the
 right positioning to the ball, and I use this ball catch progression
 with all my students.**
 
-We also know from the great article by Jeremiah Walsh ([Click
-Here](https://www.tennisplayer.net/members/classiclessons/jeremiah_walsh/overhead_or_in_front_of_head/))
+We also know from the great article by Jeremiah Walsh ([link](https://www.tennisplayer.net/members/classiclessons/jeremiah_walsh/overhead_or_in_front_of_head/))
 that you want to hit the overhead in front of your head not over your
 head\--despite the shot's name.
 

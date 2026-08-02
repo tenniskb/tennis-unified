@@ -10,8 +10,7 @@ generated](media_the-classic-forehand-volley/media/image1.webp)
 **All credit to Jeff for adding net attack based on his powerful
 groundstrokes.**
 
-If you read Jeff Greenwald's article last month ([Click
-Here](https://www.tennisplayer.net/members/members/mentalgame/jeff_greenwald/the_opportunity_attack/))
+If you read Jeff Greenwald's article last month ([link](https://www.tennisplayer.net/members/members/mentalgame/jeff_greenwald/the_opportunity_attack/))
 on incorporating attack into his game, what he says is true. I am the
 coach who told one the top senior players in the world that he was
 playing some of dumbest tennis I'd ever seen.
@@ -186,8 +185,8 @@ gradually change to the Continental grip.
 Your preparation is simultaneously with your feet and your hands. The
 step is forward and somewhat to the side with the right foot.
 
-![](media_the-classic-forehand-volley/media/image8.jpg)
-![](media_the-classic-forehand-volley/media/image9.jpg)
+![link](media_the-classic-forehand-volley/media/image8.jpg)
+![link](media_the-classic-forehand-volley/media/image9.jpg)
 
 **Two views of the continental volley grip\--the same for forehand and
 backhand.**
@@ -222,8 +221,8 @@ downward, angled punch, leading with the bottom edge of the racket,
 stopping at contact point.**
 
 **[[Squeeze the racket handle at contact point with a strong grip,
-mostly with your last three fingers.]{.mark} [Stop your racket head at
-contact point for control, power and backspin.]{.mark}]{.underline}**
+mostly with your last three fingers.] [Stop your racket head at
+contact point for control, power and backspin.]]**
 **Once the ball is hit well in front of your body, you see the shot
 perfectly with both eyes.**
 
@@ -276,8 +275,7 @@ net, and then angle the ball crosscourt on a sharp angle for a winner.
 
 Besides the basic work on his technique, this short angle was key volley
 we developed with Jeff, also working with Rod Heckelman on this shot and
-the short angled overhead. ([Click
-Here](https://www.tennisplayer.net/members/classiclessons/rob_heckelman/incorporate_approach/)
+the short angled overhead. ([link](https://www.tennisplayer.net/members/classiclessons/rob_heckelman/incorporate_approach/)
 to read Rod's article on the drills he did with Jeff that were critical
 for him in mastering the transition and attacking game.)
 

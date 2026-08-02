@@ -34,8 +34,7 @@ additional images to use in developing or improving technique.
 
 I have not heard much about it lately, but the tennis training tool The
 Wrist Assist is a device popularized and advertised by Brad Gilbert that
-carried the slogan "feel what the pros feel\". ([Click
-Here](http://squarehittennis.com/index.html).)
+carried the slogan "feel what the pros feel\". ([link](http://squarehittennis.com/index.html).)
 
 ![A picture containing dark Description automatically
 generated](media_the-most-important-bones-in-tennis/media/image2.webp)
@@ -61,8 +60,7 @@ the follow-through as part of the deceleration phase of the stroke.
 
 **Acceleration**
 
-In My Book the Art and Science of Ball Watching ([Click
-Here](https://drpaulhamori.com/product/the-art-and-science-of-ball-watching/).)
+In My Book the Art and Science of Ball Watching ([link](https://drpaulhamori.com/product/the-art-and-science-of-ball-watching/).)
 I have a section devoted to the physics of tennis. In that section I
 talk about Bruce Lee's 1 inch punch.
 
@@ -148,10 +146,10 @@ semi-western grips. With the more extreme western grips, with the palm
 mostly or completely under the handle, the wrist lay back is reduced or
 eliminated, but there is still no forward flex in the swing.
 
-**[[Look at the last frame in the animation.]{.mark} [The ulna styloid
+**[[Look at the last frame in the animation.] [The ulna styloid
 has rotated with the rest of the arm until the joint with the hand is
 pointing basically up to the sky in a full windshield wiper
-finish.]{.mark}]{.underline}** **This rotation of the ulna can serve
+finish.]]** **This rotation of the ulna can serve
 as an excellent image to generate the wiper.**
 
 **One Hand Backhand**

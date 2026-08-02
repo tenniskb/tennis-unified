@@ -6,8 +6,7 @@
 
 **What are the keys to the variety of possible backhand returns?**
 
-In my last article I looked at the forehand return. ([Click
-Here](file:///C:\Users\moosh\AppData\Roaming\Microsoft\Word\The%20Forehand%20Return.docx).)
+In my last article I looked at the forehand return. ([link](file:///C:\Users\moosh\AppData\Roaming\Microsoft\Word\The%20Forehand%20Return.docx).)
 Now let's turn our attention to the backhand side. This requires a
 separate look at the one-handed backhand returns and the two-handed
 backhand returns. Some aspects are similar (and also similar to the
@@ -60,7 +59,7 @@ foot (left foot for the righties). This is what I call \"chasing the
 ball\" with the outside foot. It is also a basic principle on the
 groundstrokes. (For more on this
 
-[Click Here](file:///C:\Users\moosh\AppData\Roaming\Microsoft\Word\What%20is%20Open%20Stance.docx).
+[link](file:///C:\Users\moosh\AppData\Roaming\Microsoft\Word\What%20is%20Open%20Stance.docx).
 
 **On a serve hit directly at the player you will sometimes see a player take a reverse pivot step.** On a stretch
 return you will also occasionally see a drop step where the outside foot
@@ -114,8 +113,7 @@ forehand.
 In the case of a player like Thomas Johannson, who already has a minimum
 of backswing on the two-handed backhand groundstroke, you can find many
 examples where the backswings appears identical on the groundstroke and
-the return. ([Click
-Here](http://www.tennisplayer.net/members/strokearchive/pro_men/thomas_johansson/tj_bh_ret/1st_serve_deuce/1st_serve_deuce.html?TJBHRet1stSDeuceFront1_Tennisplayer440.pct)).
+the return. ([link](http://www.tennisplayer.net/members/strokearchive/pro_men/thomas_johansson/tj_bh_ret/1st_serve_deuce/1st_serve_deuce.html?TJBHRet1stSDeuceFront1_Tennisplayer440.pct)).
 
 **But on most two-handed returns, the size of the take back is reduced. The easiest way to see this is to look the tip of the racket.** On most backhand groundstrokes, the tip
 of the racket usually goes back until it points directly to the back
@@ -195,8 +193,7 @@ As with the two hander, we also see a change in the position of the
 racket in the backswing on the return. On the one-handed groundstroke,
 the tip of the racket points well behind the player at the completion of
 the turn, as John Yandell has pointed out in his one-handed backhand
-series. ([Click
-Here](http://www.tennisplayer.net/members/avancedtennis/john_yandell/one_handed_backhand/topspin_backhand/topspin_backhand.html).)
+series. ([link](http://www.tennisplayer.net/members/avancedtennis/john_yandell/one_handed_backhand/topspin_backhand/topspin_backhand.html).)
 
 When players maximize the shoulder turn on the groundstroke, the racket
 can actually go back until it is parallel with the baseline. On the

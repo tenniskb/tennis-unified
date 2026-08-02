@@ -206,8 +206,7 @@ the shot is hit very much like a high left-handed forehand.
 
 For this reason, players who use this option are more like to use a
 specific hitting arm configuration, what John Yandell has identified as
-the \"bent/bent\" combination. ([Click
-Here](../../Stroke%20Analysis/Advanced%20Tennis/John%20Yandell-Modern%20Backhand%20Stances-%20The%20Two%20Hander.docx))
+the \"bent/bent\" combination. ([link](../../Stroke%20Analysis/Advanced%20Tennis/John%20Yandell-Modern%20Backhand%20Stances-%20The%20Two%20Hander.docx))
 Here the back arm is bent at the elbow with the wrist laid back. Now the
 left side and left arm can drive the racket up and through the ball.
 
@@ -339,8 +338,7 @@ generated](media_the-high-backhand/media/image12.webp)
 
 The basic technical elements on the high slice are the same as in any
 sound slice backhand groundstroke, something we've looked at in detail
-in a previous article. ([Click
-Here.](http://www.tennisplayer.net/members/classiclessons/scott_murphy/scott_murphy_backhand_slice_images/scott_murphy_backhand_slice.html))
+in a previous article. ([link](http://www.tennisplayer.net/members/classiclessons/scott_murphy/scott_murphy_backhand_slice_images/scott_murphy_backhand_slice.html))
 It starts with the grip which should be some version of a continental.
 Some players hit the slice with the heel pad on the top bevel and the
 index knuckle on bevel 2. But others shift slightly toward the forehand,

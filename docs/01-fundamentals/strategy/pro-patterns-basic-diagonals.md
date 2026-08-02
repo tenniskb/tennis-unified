@@ -129,7 +129,7 @@ different shots that play different roles in the way players construct
 their points.**
 
 **[In working with my players, I use this terminology in describing how
-to put patterns together:]{.underline}**
+to put patterns together:]**
 
 **1. \"Cross\": a basic deep crosscourt shot which crosses the baseline
 before it crosses the singles sideline.**

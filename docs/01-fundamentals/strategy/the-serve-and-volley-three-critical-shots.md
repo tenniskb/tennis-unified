@@ -10,8 +10,7 @@ generated](media_the-serve-and-volley-three-critical-shots/media/image1.webp)
 **The half volley, the overhead, and the swinging volley: all part of a
 complete serve and volley game.**
 
-In the last article ([Click
-Here](The%20Serve%20and%20Volley%20Tactical%20Components.docx)) we
+In the last article ([link](The%20Serve%20and%20Volley%20Tactical%20Components.docx)) we
 looked at the fundamental patterns of serve placements combined with
 volley placements. But not every serve you hit will produce a shoulder
 high first volley that you can direct to the opening of your choice.
@@ -92,8 +91,7 @@ There is some debate on where to hit the half volley. Some coaches say
 crosscourt for clearance over the lower part of the net, some say down
 the line so you stay in front of the ball and can cover the next shot
 more easily. (For more on the fundamental geometry of net play, see
-Allen Fox's classic article. [Click
-Here](https://www.tennisplayer.net/members/strategy/allen_fox/winning_matches/Fox_Winning_at_the_Net_images/Fox_Winning_at_the_Net.html).)
+Allen Fox's classic article. [link](https://www.tennisplayer.net/members/strategy/allen_fox/winning_matches/Fox_Winning_at_the_Net_images/Fox_Winning_at_the_Net.html).)
 
 I'm not dogmatic about location of the half volley. Due to the
 difficulty of this shot, I think successful execution is more important
@@ -149,10 +147,8 @@ should make the overhead often creates pressure that leads to errors.
 To avoid this, you must do the fundamental work to develop confidence.
 This allows you to stay relaxed. You want to be happy when your opponent
 is forced to lob, not frightened. (There are two great articles on
-developing these fundamentals on Tennisplayer. [Click
-Here](https://www.tennisplayer.net/members/classiclessons/scott_murphy/scott_murphy_overhead_images/scott_murphy_overhead.html)
-for the first one by Scott Murphy. [Click
-Here](https://www.tennisplayer.net/members/classiclessons/kerry_mitchell/kerry_mitchell_the_overhead/kerry_mitchell_the_overhead.html)
+developing these fundamentals on Tennisplayer. [link](https://www.tennisplayer.net/members/classiclessons/scott_murphy/scott_murphy_overhead_images/scott_murphy_overhead.html)
+for the first one by Scott Murphy. [link](https://www.tennisplayer.net/members/classiclessons/kerry_mitchell/kerry_mitchell_the_overhead/kerry_mitchell_the_overhead.html)
 for the second from Kerry Mitchell.)
 
 Location and placement can be variable, depending on where the opponent
@@ -204,8 +200,7 @@ As traditional as some coaches remain, there is no denying the
 prevalence of the swinging volley. Going back to the impetus of my
 tennis journey, the 1990 Wimbledon Gentleman's singles final, I do not
 remember one instance during that match where a swinging volley was
-struck. ([Click
-Here](The%20Inspiration%20to%20Serve%20and%20Volley.docx) for my first
+struck. ([link](The%20Inspiration%20to%20Serve%20and%20Volley.docx) for my first
 article on what inspired me to develop the serve and volley style.)
 
 Now have times changed. The swinging volley shot has become more and
@@ -242,8 +237,7 @@ But in my view, it's not only a pro level shot. At the club level, the
 swinging volley can be the difference maker as well. Most commonly it's
 hit on the forehand side, but it's equally viable on the two-handed
 backhand. Some players can hit it on the one-hander as well. (For Scott
-Murphy's article on swinging volley technique, [Click
-Here](../Classic%20Lessons/The%20Swing%20Volley.docx).)
+Murphy's article on swinging volley technique, [link](../Classic%20Lessons/The%20Swing%20Volley.docx).)
 
 One of the problems attacking the net in club tennis is that everything
 is slower. This is particularly true when playing a pusher.
@@ -270,8 +264,7 @@ topspin you can often create enough additional pressure to hit winners,
 force errors, and/or prevent the pusher from controlling the lob.
 
 The swinging volley can be hit according to the same general geometric
-guidelines we saw in our last article. ([Click
-Here](https://www.tennisplayer.net/members/strategy/kyle_lacroix/tactical_components/).)
+guidelines we saw in our last article. ([link](https://www.tennisplayer.net/members/strategy/kyle_lacroix/tactical_components/).)
 But because of the increased pace it can also be hit more aggressively
 into the open court, and into smaller openings.
 

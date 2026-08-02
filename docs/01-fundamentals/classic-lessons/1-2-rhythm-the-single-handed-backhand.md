@@ -9,9 +9,8 @@
 ------------------------------------------------------------------------
 
 In the first two articles in this series we have looked at a timing
-concept called 1-2 Rhythm, first for the forehand ([Click
-Here](1-2%20Rhythm%20-%20Forehand.docx)) and then for the two-handed
-backhand ([Click Here](1-2%20Rhythm%20on%20the%20Two%20Hander.docx)).
+concept called 1-2 Rhythm, first for the forehand ([link](1-2%20Rhythm%20-%20Forehand.docx)) and then for the two-handed
+backhand ([link](1-2%20Rhythm%20on%20the%20Two%20Hander.docx)).
 
 Does the same concept apply on the one-handed drive? Yes.
 
@@ -46,8 +45,7 @@ above the hand\--the face can be slightly open.**
 
 Although it is a different mode, 1-2 Rhythm is compatible and
 complimentary with the technical descriptions of the one-hander on
-Tennisplayer. ([Click
-Here](../../Stroke%20Analysis/Advanced%20Tennis/The%20One%20Handed%20Topspin%20Backhand-Introduction.docx).)
+Tennisplayer. ([link](../../Stroke%20Analysis/Advanced%20Tennis/The%20One%20Handed%20Topspin%20Backhand-Introduction.docx).)
 Interestingly, a feel for better rhythm sometimes leads to spontaneous
 technical improvements.
 
@@ -123,7 +121,7 @@ by one handed players.
 
 **The trick to exploding in phase two is to use the front hitting
 shoulder to swing the arm and racket [without over
-rotating the body.]{.underline}** **This forward action is often
+rotating the body.]** **This forward action is often
 dramatically paired with the left arm moving in the opposite
 direction with an explosive feel of its own.**
 

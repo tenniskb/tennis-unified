@@ -19,8 +19,7 @@ My strengths as a coach and instructor are usually analyzing stroke
 technique, seeing patterns, and helping players translate those things
 into a winning game. The psychology of the game I usually leave to the
 experts, meaning my fellow Tennisplayer contributors, who are among the
-most esteemed students of the mental game in the world. ([Click
-Here](../Mental%20game/Mental%20game%20TOC.docx)).
+most esteemed students of the mental game in the world. ([link](../Mental%20game/Mental%20game%20TOC.docx)).
 
 But in this article I want to verge into that field by addressing the
 issue of tennis personality types. As in other aspects of life, in
@@ -308,8 +307,7 @@ actually land in.
 
 As I've written in previous articles, players should often use the deep
 center of the court as a target area for defensive shots. This is also a
-great play on first serve returns ([Click
-Here](The%20Forehand%20Return.docx).) The advantage is that the deep
+great play on first serve returns ([link](The%20Forehand%20Return.docx).) The advantage is that the deep
 center ball does not create an angle for the opponent. And it gives the
 opponent a chance to make an error out of frustration, if the center
 ball neutralizes his previous advantage.

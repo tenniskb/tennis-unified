@@ -2310,7 +2310,7 @@ kịp thời giải phóng lực phản chấn từ mặt đất (GRF).
 ### 💡 Ứng dụng chiến thuật nâng cao (Tour Level):
 
 Dựa trên dữ liệu phân tích từ
-[[CAM_NANG_TENNIS_HIEN_DAI_FULL_FORMULA_2026.docx]{.underline}](https://docs.google.com/document/d/1-s-5UX8IJwOgIKd92PHu7c_XlbQf5qvH/edit),
+[[CAM_NANG_TENNIS_HIEN_DAI_FULL_FORMULA_2026.docx]](https://docs.google.com/document/d/1-s-5UX8IJwOgIKd92PHu7c_XlbQf5qvH/edit),
 việc tối ưu hóa phương trình này được áp dụng trực tiếp qua chiến thuật
 **Dâng cao vào sân (Standing Inside the Baseline)**:
 
@@ -2386,7 +2386,7 @@ Hoặc dạng ký hiệu văn bản tối giản để bạn tiện lưu trữ:
 ### Diễn giải chi tiết ý nghĩa trong Kỹ thuật Lên lưới & Volley:
 
 Như đã nêu trong tài liệu
-[[CAM_NANG_TENNIS_HIEN_DAI_FULL_FORMULA_2026.docx]{.underline}](https://docs.google.com/document/d/1-s-5UX8IJwOgIKd92PHu7c_XlbQf5qvH/edit),
+[[CAM_NANG_TENNIS_HIEN_DAI_FULL_FORMULA_2026.docx]](https://docs.google.com/document/d/1-s-5UX8IJwOgIKd92PHu7c_XlbQf5qvH/edit),
 một cú Volley chuẩn mực không phải là một cú đánh sinh năng lượng (như
 Forehand hay Backhand). Đó là một cú chặn có chủ đích --- nơi bạn mượn
 và chuyển hướng toàn bộ năng lượng từ đường bóng của đối thủ.
@@ -2457,7 +2457,7 @@ Hoặc dạng ký hiệu văn bản tối giản để bạn tiện lưu trữ:
 ### Diễn giải chi tiết ý nghĩa trong Hình học Không gian và Vùng Kiểm Soát Tại Lưới:
 
 Như được ghi nhận trong tài liệu
-[[CAM_NANG_TENNIS_HIEN_DAI_FULL_FORMULA_2026.docx]{.underline}](https://docs.google.com/document/d/1-s-5UX8IJwOgIKd92PHu7c_XlbQf5qvH/edit),
+[[CAM_NANG_TENNIS_HIEN_DAI_FULL_FORMULA_2026.docx]](https://docs.google.com/document/d/1-s-5UX8IJwOgIKd92PHu7c_XlbQf5qvH/edit),
 phương trình này định lượng **diện tích hình học (tính bằng m²)** mà một
 tay vợt lên lưới có khả năng bao quát và đánh chặn quả bóng một cách
 hiệu quả trong thời gian thực.
@@ -2555,7 +2555,7 @@ Hoặc dạng ký hiệu văn bản tối giản để bạn tiện lưu trữ:
 ### Diễn giải chi tiết ý nghĩa trong Kỹ thuật Volley & Điều hướng:
 
 Như được ghi nhận trong tài liệu
-[[CAM_NANG_TENNIS_HIEN_DAI_FULL_FORMULA_2026.docx]{.underline}](https://docs.google.com/document/d/1-s-5UX8IJwOgIKd92PHu7c_XlbQf5qvH/edit),
+[[CAM_NANG_TENNIS_HIEN_DAI_FULL_FORMULA_2026.docx]](https://docs.google.com/document/d/1-s-5UX8IJwOgIKd92PHu7c_XlbQf5qvH/edit),
 phương trình hình học này giải mã bản chất của việc kiểm soát hướng bóng
 bay ra khi bạn thực hiện các cú đánh chặn trên lưới, đặc biệt là cú
 **Punch Volley**.
@@ -2658,7 +2658,7 @@ Hoặc dạng ký hiệu văn bản tối giản để bạn tiện lưu trữ b
 ### Diễn giải chi tiết ý nghĩa theo Triết Lý Di Chuyển \"Trầm\" (Sinking Philosophy):
 
 Như được ghi nhận trong tài liệu
-[[CAM_NANG_TENNIS_HIEN_DAI_FULL_FORMULA_2026.docx]{.underline}](https://docs.google.com/document/d/1-s-5UX8IJwOgIKd92PHu7c_XlbQf5qvH/edit),
+[[CAM_NANG_TENNIS_HIEN_DAI_FULL_FORMULA_2026.docx]](https://docs.google.com/document/d/1-s-5UX8IJwOgIKd92PHu7c_XlbQf5qvH/edit),
 công thức này bẻ gãy sai lầm lớn nhất của người chơi phong trào: *Cố
 gắng chạy thật nhanh bằng cơ bắp cẳng chân*. Đối với các tay vợt Elite,
 di chuyển đỉnh cao là nghệ thuật **điều khiển khối tâm (Center of Mass -
@@ -2757,7 +2757,7 @@ Hoặc dạng ký hiệu văn bản tối giản để bạn tiện lưu trữ:
 ### Diễn giải chi tiết ý nghĩa theo Chương 7.2 của cẩm nang:
 
 Như được ghi nhận trong tài liệu
-[[CAM_NANG_TENNIS_HIEN_DAI_FULL_FORMULA_2026.docx]{.underline}](https://docs.google.com/document/d/1-s-5UX8IJwOgIKd92PHu7c_XlbQf5qvH/edit),
+[[CAM_NANG_TENNIS_HIEN_DAI_FULL_FORMULA_2026.docx]](https://docs.google.com/document/d/1-s-5UX8IJwOgIKd92PHu7c_XlbQf5qvH/edit),
 phương trình này định lượng mức độ bạn có thể \"ăn gian\" năng lượng từ
 lực hút Trái Đất để tăng tốc bộ pháp di chuyển mà không cần tốn thêm sức
 mạnh cơ bắp chân.
@@ -2841,7 +2841,7 @@ Hoặc dạng ký hiệu văn bản tối giản để bạn tiện lưu trữ b
 ### Diễn giải chi tiết ý nghĩa theo Mục 7.3 của cẩm nang:
 
 Như được ghi nhận trong tài liệu
-[[CAM_NANG_TENNIS_HIEN_DAI_FULL_FORMULA_2026.docx]{.underline}](https://docs.google.com/document/d/1-s-5UX8IJwOgIKd92PHu7c_XlbQf5qvH/edit),
+[[CAM_NANG_TENNIS_HIEN_DAI_FULL_FORMULA_2026.docx]](https://docs.google.com/document/d/1-s-5UX8IJwOgIKd92PHu7c_XlbQf5qvH/edit),
 phương trình này định lượng mức độ suy giảm thăng bằng và độ ổn định của
 trục cơ thể khi vận động viên thực hiện kỹ thuật trượt dài trên mặt sân
 (slide) --- một đặc trưng cơ học cực kỳ quan trọng trên sân đất nện hoặc
@@ -2990,7 +2990,7 @@ toàn dưới dạng văn bản thông thường như sau:
 ### Diễn giải chi tiết ý nghĩa trong Chiến thuật Dựa trên Dữ liệu Meta:
 
 Như được ghi nhận trong tài liệu
-[[CAM_NANG_TENNIS_HIEN_DAI_FULL_FORMULA_2026.docx]{.underline}](https://docs.google.com/document/d/1-s-5UX8IJwOgIKd92PHu7c_XlbQf5qvH/edit),
+[[CAM_NANG_TENNIS_HIEN_DAI_FULL_FORMULA_2026.docx]](https://docs.google.com/document/d/1-s-5UX8IJwOgIKd92PHu7c_XlbQf5qvH/edit),
 mục tiêu của phương trình này là chuyển đổi lối chơi từ \"chiến thuật
 bản năng\" sang \"chiến thuật xác suất\" --- biến mỗi trận đấu thành một
 ván cờ toán học nơi bạn luôn nắm lợi thế bằng cách định lượng tỷ lệ đánh
@@ -3068,7 +3068,7 @@ bản thông thường như sau:
 ### Diễn giải chi tiết ý nghĩa trong Chỉ Số Thông Minh Chiến Thuật:
 
 Như được ghi nhận trong tài liệu
-[[CAM_NANG_TENNIS_HIEN_DAI_FULL_FORMULA_2026.docx]{.underline}](https://docs.google.com/document/d/1-s-5UX8IJwOgIKd92PHu7c_XlbQf5qvH/edit),
+[[CAM_NANG_TENNIS_HIEN_DAI_FULL_FORMULA_2026.docx]](https://docs.google.com/document/d/1-s-5UX8IJwOgIKd92PHu7c_XlbQf5qvH/edit),
 phương trình này định lượng **Chỉ số Thông minh Chiến thuật (Shot IQ)**
 của một tay vợt. Chiến thuật tối ưu ở đây không phải là cố gắng đánh một
 cú thật mạnh hay hiểm hóc theo bản năng, mà là bài toán **Tối đa hóa xác
@@ -3146,7 +3146,7 @@ bản thông thường như sau:
 ### Diễn giải chi tiết ý nghĩa trong Phân Tích Điểm Yếu Đối Thủ:
 
 Như được ghi nhận trong tài liệu
-[[CAM_NANG_TENNIS_HIEN_DAI_FULL_FORMULA_2026.docx]{.underline}](https://docs.google.com/document/d/1-s-5UX8IJwOgIKd92PHu7c_XlbQf5qvH/edit),
+[[CAM_NANG_TENNIS_HIEN_DAI_FULL_FORMULA_2026.docx]](https://docs.google.com/document/d/1-s-5UX8IJwOgIKd92PHu7c_XlbQf5qvH/edit),
 mục tiêu tối thượng của phương trình này là xây dựng một hệ thống phòng
 ngự và tấn công dựa trên dữ liệu trắc lượng thực tế của đối thủ
 (Opponent Profiling). Thay vì đánh bóng một cách ngẫu nhiên, bạn chủ
@@ -3246,7 +3246,7 @@ thông thường như sau:
 ### Diễn giải chi tiết ý nghĩa trong Quản trị Thể lực & Hồi phục:
 
 Như được ghi nhận trong tài liệu
-[[CAM_NANG_TENNIS_HIEN_DAI_FULL_FORMULA_2026.docx]{.underline}](https://docs.google.com/document/d/1-s-5UX8IJwOgIKd92PHu7c_XlbQf5qvH/edit),
+[[CAM_NANG_TENNIS_HIEN_DAI_FULL_FORMULA_2026.docx]](https://docs.google.com/document/d/1-s-5UX8IJwOgIKd92PHu7c_XlbQf5qvH/edit),
 phương trình này định lượng trạng thái sẵn sàng về mặt sinh học của vận
 động viên trước một buổi tập hoặc trận đấu. Nó là bài toán cân bằng năng
 lượng: **Tổng các yếu tố nạp/hồi phục trừ đi tổng các yếu tố tiêu
@@ -3348,7 +3348,7 @@ Hoặc viết theo ký hiệu văn bản tối giản để bạn tiện lưu tr
 ### Diễn giải chi tiết ý nghĩa trong Phòng thí nghiệm bỏ túi (Trang 72):
 
 Như được ghi nhận trực tiếp trên màn hình hiển thị của tài liệu
-[[CAM_NANG_TENNIS_HIEN_DAI_FULL_FORMULA_2026.docx]{.underline}](https://docs.google.com/document/d/1-s-5UX8IJwOgIKd92PHu7c_XlbQf5qvH/edit),
+[[CAM_NANG_TENNIS_HIEN_DAI_FULL_FORMULA_2026.docx]](https://docs.google.com/document/d/1-s-5UX8IJwOgIKd92PHu7c_XlbQf5qvH/edit),
 phương trình này định lượng **Biến thiên nhịp tim (HRV - Heart Rate
 Variability)** bằng cách tính tỷ lệ giữa độ lệch chuẩn và giá trị trung
 bình của các khoảng cách giữa các nhịp tim (tính bằng mili-giây). Đây là
@@ -3456,7 +3456,7 @@ thông thường như sau:
 ### Diễn giải chi tiết ý nghĩa trong Quản trị Năng lượng & Dinh dưỡng:
 
 Như được ghi nhận trực tiếp trên màn hình hiển thị của tài liệu
-[[CAM_NANG_TENNIS_HIEN_DAI_FULL_FORMULA_2026.docx]{.underline}](https://docs.google.com/document/d/1-s-5UX8IJwOgIKd92PHu7c_XlbQf5qvH/edit),
+[[CAM_NANG_TENNIS_HIEN_DAI_FULL_FORMULA_2026.docx]](https://docs.google.com/document/d/1-s-5UX8IJwOgIKd92PHu7c_XlbQf5qvH/edit),
 phương trình này định lượng nguồn năng lượng hóa-sinh thực tế mà cơ bắp
 có thể giải phóng ra trong các pha phát lực bùng nổ (như tăng tốc cứu
 bóng hoặc bật nhảy giao bóng). Đây là mối quan hệ nhân tích lũy: **Nhiên
@@ -3563,7 +3563,7 @@ như sau:
 ### Diễn giải chi tiết ý nghĩa trong Kỷ nguyên Tennis Công nghệ (2026):
 
 Như được ghi nhận trong tài liệu
-[[CAM_NANG_TENNIS_HIEN_DAI_FULL_FORMULA_2026.docx]{.underline}](https://docs.google.com/document/d/1-s-5UX8IJwOgIKd92PHu7c_XlbQf5qvH/edit),
+[[CAM_NANG_TENNIS_HIEN_DAI_FULL_FORMULA_2026.docx]](https://docs.google.com/document/d/1-s-5UX8IJwOgIKd92PHu7c_XlbQf5qvH/edit),
 công thức này định nghĩa một triết lý huấn luyện và thi đấu hoàn toàn
 mới. Trong thời đại hiện nay, người chiến thắng không chỉ đơn thuần là
 người có thể lực tốt nhất hay kỹ thuật đẹp nhất, mà là người có khả năng
@@ -3654,7 +3654,7 @@ Biometric(HRV, HR)**
 ### Diễn giải chi tiết ý nghĩa trong Hệ sinh thái Tennis Hybrid (2026):
 
 Như được ghi nhận trong tài liệu
-[[CAM_NANG_TENNIS_HIEN_DAI_FULL_FORMULA_2026.docx]{.underline}](https://docs.google.com/document/d/1-s-5UX8IJwOgIKd92PHu7c_XlbQf5qvH/edit),
+[[CAM_NANG_TENNIS_HIEN_DAI_FULL_FORMULA_2026.docx]](https://docs.google.com/document/d/1-s-5UX8IJwOgIKd92PHu7c_XlbQf5qvH/edit),
 phương trình này thiết lập một cấu trúc thu thập dữ liệu đa chiều (Data
 Fusion). Để tối ưu hóa hệ số trợ lực từ AI (**AI_support_factor**), hệ
 thống không chỉ dựa vào một nguồn đơn lẻ mà đồng bộ hóa 4 nguồn phần
@@ -3807,7 +3807,7 @@ Hoặc dạng ký hiệu văn bản tối giản để bạn tiện lưu trữ b
 ### Diễn giải chi tiết ý nghĩa trong Cơ Học Đòn Bẩy (Leverage Mechanics):
 
 Theo tài liệu
-[[CAM_NANG_TENNIS_HIEN_DAI_FULL_FORMULA_2026.docx]{.underline}](https://docs.google.com/document/d/1-s-5UX8IJwOgIKd92PHu7c_XlbQf5qvH/edit)
+[[CAM_NANG_TENNIS_HIEN_DAI_FULL_FORMULA_2026.docx]](https://docs.google.com/document/d/1-s-5UX8IJwOgIKd92PHu7c_XlbQf5qvH/edit)
 bạn đang xem trên màn hình, đây chính là **khoảng cách hình học
 Euclidean** tính từ lòng bàn tay của bạn (vị trí tay cầm cán vợt) đến vị
 trí tâm mặt vợt hoặc điểm tiếp xúc bóng thực tế trên sân.
@@ -3876,7 +3876,7 @@ trực tiếp dù bóng đến nhẹ hơn.
 
 Công thức **Mô-men Xoắn (Torque Equation)** đang hiển thị trên màn hình
 tài liệu
-[[CAM_NANG_TENNIS_HIEN_DAI_FULL_FORMULA_2026.docx]{.underline}](https://docs.google.com/document/d/1-s-5UX8IJwOgIKd92PHu7c_XlbQf5qvH/edit)
+[[CAM_NANG_TENNIS_HIEN_DAI_FULL_FORMULA_2026.docx]](https://docs.google.com/document/d/1-s-5UX8IJwOgIKd92PHu7c_XlbQf5qvH/edit)
 của bạn có thể viết lại hoàn toàn dưới dạng văn bản thông thường như
 sau:
 
@@ -3988,7 +3988,7 @@ thường như sau:
 ### Diễn giải chi tiết ý nghĩa trong Phương Trình Của Uy Lực:
 
 Như được ghi nhận trong tài liệu
-[[CAM_NANG_TENNIS_HIEN_DAI_FULL_FORMULA_2026.docx]{.underline}](https://docs.google.com/document/d/1-s-5UX8IJwOgIKd92PHu7c_XlbQf5qvH/edit),
+[[CAM_NANG_TENNIS_HIEN_DAI_FULL_FORMULA_2026.docx]](https://docs.google.com/document/d/1-s-5UX8IJwOgIKd92PHu7c_XlbQf5qvH/edit),
 phương trình này định lượng độ \"nặng\" thực tế của đường bóng khi sang
 sân đối phương. Định nghĩa cốt lõi ở đây là: **Bóng \"Nặng\" không đồng
 nghĩa với Bóng \"Nhanh\"**.
@@ -4077,7 +4077,7 @@ Hoặc dạng ký hiệu văn bản tối giản để bạn tiện lưu trữ b
 ### Diễn giải chi tiết ý nghĩa theo Mục 11.4: Cơ Chế Kéo Dãn - Co Rút (Stretch-Shortening Cycle)
 
 Như được ghi nhận trực tiếp trên màn hình hiển thị của tài liệu
-[[CAM_NANG_TENNIS_HIEN_DAI_FULL_FORMULA_2026.docx]{.underline}](https://docs.google.com/document/d/1-s-5UX8IJwOgIKd92PHu7c_XlbQf5qvH/edit),
+[[CAM_NANG_TENNIS_HIEN_DAI_FULL_FORMULA_2026.docx]](https://docs.google.com/document/d/1-s-5UX8IJwOgIKd92PHu7c_XlbQf5qvH/edit),
 phương trình này giải mã bản chất của **nguồn năng lượng \"miễn phí\"**
 trong tennis hiện đại.
 
@@ -4205,7 +4205,7 @@ Hoặc dạng ký hiệu văn bản tối giản để bạn tiện lưu trữ b
 ### Diễn giải chi tiết ý nghĩa theo Mục 12.2 của cẩm nang:
 
 Như được ghi nhận trực tiếp trên màn hình hiển thị của tài liệu
-[[CAM_NANG_TENNIS_HIEN_DAI_FULL_FORMULA_2026.docx]{.underline}](https://docs.google.com/document/d/1-s-5UX8IJwOgIKd92PHu7c_XlbQf5qvH/edit),
+[[CAM_NANG_TENNIS_HIEN_DAI_FULL_FORMULA_2026.docx]](https://docs.google.com/document/d/1-s-5UX8IJwOgIKd92PHu7c_XlbQf5qvH/edit),
 đây là phương trình tổng hợp tối thượng kết nối toàn bộ chuỗi động lực
 từ mặt đất lên đến đỉnh vợt (**GRF → Hông → Vai → Vợt → Bóng**). Làm chủ
 phương trình này đồng nghĩa với việc bạn làm chủ một cú giao bóng hoàn
@@ -4298,7 +4298,7 @@ dưới dạng văn bản thông thường như sau:
 ### Diễn giải chi tiết ý nghĩa theo Triết lý Huấn luyện Hybrid:
 
 Như được ghi nhận trực tiếp trên màn hình hiển thị của tài liệu
-[[CAM_NANG_TENNIS_HIEN_DAI_FULL_FORMULA_2026.docx]{.underline}](https://docs.google.com/document/d/1-s-5UX8IJwOgIKd92PHu7c_XlbQf5qvH/edit),
+[[CAM_NANG_TENNIS_HIEN_DAI_FULL_FORMULA_2026.docx]](https://docs.google.com/document/d/1-s-5UX8IJwOgIKd92PHu7c_XlbQf5qvH/edit),
 đây là phương trình tổng kết tối thượng, định nghĩa lại công thức chiến
 thắng trong kỷ nguyên tennis công nghệ. Kết quả một trận đấu
 (**Result**) không còn phụ thuộc đơn lẻ vào tài năng thiên bẩm, mà là

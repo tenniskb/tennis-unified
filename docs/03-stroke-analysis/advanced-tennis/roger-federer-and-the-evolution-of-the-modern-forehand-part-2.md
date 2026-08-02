@@ -8,8 +8,7 @@
 
 Torso Rotation
 
-In our previous analysis, ([Click
-Here](http://www.tennisplayer.net/members/avancedtennis/john_yandell/building%20_the_modern%20_forehand/key_differences_grip_styles/key_differences_grip_styles.html))
+In our previous analysis, ([link](http://www.tennisplayer.net/members/avancedtennis/john_yandell/building%20_the_modern%20_forehand/key_differences_grip_styles/key_differences_grip_styles.html))
 we saw a direct correlation between grip style and torso rotation. In
 general the more extreme the grip, the more torso rotation. A player
 like Sampras rotated about 90 degrees or a little more on the forward
@@ -79,8 +78,7 @@ Hand and Arm Rotation
 
 We've already referred to Federer's hand and arm rotation quite a bit,
 but let's look at it in more detail, and put it in the context of what
-we've seen with the other players. In our previous articles, ([Click
-Here](http://www.tennisplayer.net/members/avancedtennis/john_yandell/building%20_the_modern%20_forehand/key_differences_grip_styles/key_differences_grip_styles_page4.html))
+we've seen with the other players. In our previous articles, ([link](http://www.tennisplayer.net/members/avancedtennis/john_yandell/building%20_the_modern%20_forehand/key_differences_grip_styles/key_differences_grip_styles_page4.html))
 we identified the rotation of the hand and arm as a key variable across
 the grip styles and found that the more extreme the grip, the more hand
 and arm rotation players used on their basic forehands. We also found
@@ -96,7 +94,7 @@ the swing. Once the hand arm and racket reach the hitting position, they
 will rotate to the player's left, or counter clockwise during the
 forward swing. To understand it, you may want to check the Advanced
 Tennis article that isolates just the rotation. Then it's easier to see
-in the context of the swing. (Click Here.) For example, if the tip of
+in the context of the swing.  For example, if the tip of
 the racket starts pointing directly to the back fence at the start of
 the forward swing, and finishes pointing directly to the sky, that's 90
 degrees of rotation, about standard on a classical forehand.
@@ -380,8 +378,7 @@ Another controversial question raised about Federer, and the other top
 players for that matter, is whether they \"tilt\" the top edge of racket
 forward at contact (For one view on this, read Kerry Mitchell's article
 which deals with racket tilt from the point of view of the different
-grips. [Click
-Here](http://www.tennisplayer.net/members/classiclessons/kerry_mitchell/Mitchell_Forehand_Grips_images/Mitchell_Forehand_Grips.html).)
+grips. [link](http://www.tennisplayer.net/members/classiclessons/kerry_mitchell/Mitchell_Forehand_Grips_images/Mitchell_Forehand_Grips.html).)
 Does \"racket tilt\" increase topspin? Does it have an effect on ball
 speed and/or the trajectory of the shot? Is it even physically possible?
 One of the very few points that most teaching pros probably have agreed

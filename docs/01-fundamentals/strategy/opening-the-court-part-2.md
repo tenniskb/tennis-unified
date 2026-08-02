@@ -19,7 +19,7 @@ court.
 Special thanks to Tyler, Lindsay and Ben Zink for their masterful
 demonstrations of these patterns!
 
-![](media_opening-the-court-part-2/media/image1.wmf)
+![link](media_opening-the-court-part-2/media/image1.wmf)
 
   --
 

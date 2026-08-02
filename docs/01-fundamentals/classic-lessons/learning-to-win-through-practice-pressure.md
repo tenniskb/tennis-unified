@@ -22,7 +22,7 @@ pressure than in matches.
 In the last article, we looked at a series of these drill games designed
 to improve basic strategic elements\--serving accurately under pressure,
 hitting more consistent volleys, and playing winning point geometry.
-([Click Here](On%20Your%20Mark,%20Get%20Set,%20Go%20Slow.docx)).
+([link](On%20Your%20Mark,%20Get%20Set,%20Go%20Slow.docx)).
 
 Now let's delve a little deeper into the psychological realm. In this
 article I want to present three more very powerful practice games. Play
@@ -213,8 +213,7 @@ thereby cutting off the increased point value of winning consecutive
 points.
 
 It's well known that in the overwhelming majority of matches, the
-player who simply wins the most total points wins. ([Click
-Here](https://www.tennisplayer.net/members/strategy/john_yandell/understanding_statistics/Yandell_Statistics_Forced_Error_images/Yandell_Statistics_Forced_Error.html).)
+player who simply wins the most total points wins. ([link](https://www.tennisplayer.net/members/strategy/john_yandell/understanding_statistics/Yandell_Statistics_Forced_Error_images/Yandell_Statistics_Forced_Error.html).)
 These drill games teach you the value of every point!
 
 Practice should never be dull! Playing the drills games I've outlined

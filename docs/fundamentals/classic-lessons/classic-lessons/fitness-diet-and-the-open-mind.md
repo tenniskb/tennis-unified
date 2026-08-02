@@ -10,7 +10,7 @@
 
 In part 1 of this series we heard from some of the smartest people in
 tennis weighing in on some of invisible factors that make critical
-contributions to greatness. [Click Here](Invisible%20Greatness.docx)
+contributions to greatness. [link](Invisible%20Greatness.docx)
 Let's continue to explore the mystery in this second article looking at
 elements including fitness, diet, classical music, and the role of an
 open mind.
@@ -134,8 +134,7 @@ elements in conditioning.
 **What role does diet play in Novak's dominance?No More Pizza**
 
 Diet is definitely a factor Djokovic believes was critical to his
-success. He wrote a book about it. ([Click
-Here](https://www.amazon.com/Serve-Win-Gluten-Free-Physical-Excellence/dp/0345548981).)
+success. He wrote a book about it. ([link](https://www.amazon.com/Serve-Win-Gluten-Free-Physical-Excellence/dp/0345548981).)
 Though it's pretty much common knowledge that Djokovic eats a
 gluten-free diet, there was a very interesting and invisible component
 in his decision to implement this change in his lifestyle.

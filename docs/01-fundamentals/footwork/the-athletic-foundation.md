@@ -45,8 +45,7 @@ convinced me that the use of the belt was central to conveying the
 concept of the Athletic Foundation. In fact the belt is now required
 equipment at the Academy for all full time students. We've also made it
 possible for all Tennisplayer subscribers to order the belt at a special
-price. [Click
-Here](http://www.active.com/event_detail.cfm?event_id=1175099).
+price. [link](http://www.active.com/event_detail.cfm?event_id=1175099).
 
 | ![A race car on a track Description automatically generated with medium | ![A picture containing outdoor, grass, truck, parked Description automatically |
 | --- | --- |
@@ -65,15 +64,15 @@ a very tight suspension for razor sharp handling.**
 
 **The car's center of gravity hovers only inches above the
 ground.** **[[The width of the wheelbase is
-proportionately very wide.]{.mark} [Together, the wide base and low
+proportionately very wide.] [Together, the wide base and low
 center of gravity enable the car to perform sharp turns at high speeds
 and achieve maximum stability against the forces that cause
-rollovers.]{.mark}]{.underline}**
+rollovers.]]**
 
 At the opposite end of the spectrum is a farm tractor. **[A tractor's
 design reflects the specific needs of the farmer who drives it.
 Acceleration, speed, and handling aren't requirements to succeed in
-farming.]{.mark}** The tractor needs plenty of ground clearance and a
+farming.]** The tractor needs plenty of ground clearance and a
 high center of gravity to travel through the dirt and mud in a field and
 stay above the crops without damaging them.
 
@@ -155,7 +154,7 @@ athletic foundation are:
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**[Wide Base of Support]{.underline}**
+**[Wide Base of Support]**
 
 **For quicker reaction time as well as better power and control in
 stroke production, the optimal footwork base is 1.5 to 3 shoulder widths
@@ -193,9 +192,9 @@ Another component in the athletic foundation that you must learn is
 feet.** Movement specialists not only work with
 quick adjustment step footwork in setting up the optimal stance,
 [**[they continue to adjust their fee until their body weight is
-centered on the balls of their feet]{.underline}**. **[Centering their
+centered on the balls of their feet]**. **[Centering their
 balance off the heels and on to the balls of the feet provides better
-power and stability to the stroke mechanics.]{.underline}**]{.mark}
+power and stability to the stroke mechanics.]**]
 
 **Low Center of Gravity**
 

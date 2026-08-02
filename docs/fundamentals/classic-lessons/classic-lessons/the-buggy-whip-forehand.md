@@ -11,7 +11,7 @@ started?
 How it works is too fast for the human eye to see---unless John Craig
 breaks it down for you. And by the way, when should you use it yourself?
 
-![](media_the-buggy-whip-forehand/media/image1.wmf)
+![link](media_the-buggy-whip-forehand/media/image1.wmf)
 
 ![A person smiling for the camera](media_the-buggy-whip-forehand/media/image2.jpeg)
 

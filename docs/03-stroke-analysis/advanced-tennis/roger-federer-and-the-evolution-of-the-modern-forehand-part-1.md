@@ -89,7 +89,7 @@ everyone of which can hurt you in some way.
 So what are the classic and extreme component's in this new synthesis
 that Federer can use in so many ways? ***[His forehand is classic in the
 sense that he has a conservative grip structure, somewhere between a
-modern eastern and a mild semi-western.]{.mark}*** (If this seems
+modern eastern and a mild semi-western.]*** (If this seems
 surprising, more on his exact grip below.) This grip makes it possible
 for him to hit on the rise, and also to step into the ball and hit
 effortlessly with a neutral stance and a vertical finish. But his
@@ -383,8 +383,7 @@ one reason.
 Fortunately, I had more success understanding most of the other elements
 in Federer's motion, starting with his preparation. Basic preparation
 is one thing that he definitely shares in common with the other top
-players. ([Click
-Here](http://www.tennisplayer.net/members/avancedtennis/john_yandell/building%20_the_modern%20_forehand/building_modern_forehand_pg1/building_modern_forehand_pg1.html)
+players. ([link](http://www.tennisplayer.net/members/avancedtennis/john_yandell/building%20_the_modern%20_forehand/building_modern_forehand_pg1/building_modern_forehand_pg1.html)
 to see these same elements traced across the grip styles.)
 
 Like the other players we've looked at, Federer begins his preparation
@@ -415,8 +414,7 @@ These are the classic pro forehand preparation checkpoints.
 
 When we looked at the pro backswings we saw that they were tremendously
 varied and complex. We found 4 factors to look at in assessing the
-differences. ([Click
-Here](http://www.tennisplayer.net/members/avancedtennis/john_yandell/building%20_the_modern%20_forehand/building_modern_forehand_backswing_page1/building_modern_forehand_backswing_page1.html).)
+differences. ([link](http://www.tennisplayer.net/members/avancedtennis/john_yandell/building%20_the_modern%20_forehand/building_modern_forehand_backswing_page1/building_modern_forehand_backswing_page1.html).)
 Applying these to Federer we can see that in most respects his backswing
 is very compact\--as compact and possibly more compact than any top
 player. In one dimension, however, his backswing is actually one of the
@@ -560,7 +558,7 @@ position at contact as we'll see below. After contact he can continue
 on to a classical finish as well, with the racket staying more or less
 or edge and crossing the body to reach eye level. Basically you can see
 this combination from almost anywhere in the court, and also, more
-commonly on his forehand returns.]{.mark}***
+commonly on his forehand returns.]***
 
 ![A person swinging a tennis racket Description automatically generated
 with medium

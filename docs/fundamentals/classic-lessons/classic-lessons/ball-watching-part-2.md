@@ -27,8 +27,7 @@ That's right. Narrowed and/or closed eyes. Surprised? Read on.
 
 **The Data**
 
-As I said in Part 1 of this series ([Click
-Here](Ball%20Watching%20-%20Part%201%20.docx)) I have watched Federer
+As I said in Part 1 of this series ([link](Ball%20Watching%20-%20Part%201%20.docx)) I have watched Federer
 play live over 40 times. But to get to the root of his ball watching
 technique I needed evidence.
 
@@ -125,7 +124,7 @@ it there until after contact, not turning to immediately follow the
 ball.
 
 So what does all this mean? We've seen the limitations in human vision
-in Part 1. [Click Here](Ball%20Watching%20-%20Part%201%20.docx). Now we
+in Part 1. [link](Ball%20Watching%20-%20Part%201%20.docx). Now we
 know that Federer's use of his eyes has the completely unexpected
 qualities of narrowing and even closing.
 

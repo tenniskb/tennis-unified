@@ -128,8 +128,7 @@ compacting his motion as much as Hewitt. On the return, his hand appears
 to be just slightly above his waist. On the groundstroke, it reaches a
 maximum height at around the shoulder or a little higher. (For more on a
 great drill to work on flattening out the take back, check out Nick's
-Bollettieri's return article. [Click
-Here](../Famous%20Coaches/Return%20Technique.docx).)
+Bollettieri's return article. [link](../Famous%20Coaches/Return%20Technique.docx).)
 
 ![A person playing tennis](media_the-forehand-return/media/image7.webp)
 
@@ -143,8 +142,7 @@ the turn slightly past the perpendicular on the groundstroke.
 There are exceptions to the more compact return. Typically, players use
 a larger backswing is when they run around the ball, often moving back
 up to several feet to hit the return. Usually this happens on second
-serves. ([Click
-Here](http://www.tennisplayer.net/members/tour_strokes/bobby_bernstein/the_%20pro_return/the_%20pro_return.html)
+serves. ([link](http://www.tennisplayer.net/members/tour_strokes/bobby_bernstein/the_%20pro_return/the_%20pro_return.html)
 to read more about this in Bobby Berstein's return article.)
 
 The goal is to hit a more aggressive return. This is reflected in the

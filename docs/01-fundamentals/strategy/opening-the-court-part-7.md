@@ -11,7 +11,7 @@ forehand to the opponent's backhand, then pausing slightly as your
 opponent turns and then moving in the hit a swinging volley, followed by
 a short angle classic volley. What a great way to win a decisive point!
 
-![](media_opening-the-court-part-7/media/image1.png)
+![link](media_opening-the-court-part-7/media/image1.png)
 
   --
 

@@ -12,7 +12,7 @@ up, risking injury.
 
 Check out John's solution!
 
-![](media_grip-pressure/media/image1.png)
+![link](media_grip-pressure/media/image1.png)
 
 ![A person smiling for the camera](media_grip-pressure/media/image2.jpeg)
 

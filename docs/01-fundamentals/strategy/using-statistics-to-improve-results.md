@@ -106,8 +106,7 @@ plans should be part of their education.
 ![Icon Description automatically
 generated](media_using-statistics-to-improve-results/media/image4.jpg)
 
-**Racket Stats provides the numbers to optimize performance. ([Click
-Here](https://racketstats.com/).)**
+**Racket Stats provides the numbers to optimize performance. ([link](https://racketstats.com/).)**
 
 I believe it takes a team to develop an athlete to their full potential.
 These apps provide valuable feedback to optimize player performance, not
@@ -148,8 +147,7 @@ return. An \"error\" is any shot a player hits into the net or out of
 the court.
 
 In the first article in this series we discussed another metric
-developed by Bill Jacobson, called the Aggressive Margin. ([Click
-Here](https://www.tennisplayer.net/members/strategy/andy_durham/using_statistics_in_coaching/part_1/).)
+developed by Bill Jacobson, called the Aggressive Margin. ([link](https://www.tennisplayer.net/members/strategy/andy_durham/using_statistics_in_coaching/part_1/).)
 The difference compared to our Win/Error ratios is that the Aggressive
 Margin distinguishes between forced and unforced errors.
 

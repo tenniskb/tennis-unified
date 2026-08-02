@@ -102,7 +102,7 @@ big backswing on your return, leaving more time, for example, to orient
 yourself to your opponent's toss or position when returning.
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-   ![](media_mindfulness-can-you-actually-change-your-brain/media/image4.jpg)
+   ![link](media_mindfulness-can-you-actually-change-your-brain/media/image4.jpg)
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                              **Mindfulness trains the prefrontal cortex, the \"focus muscle.\"**
 
@@ -307,8 +307,7 @@ tentatively and impatiently. Too often, we become victims of our
 thoughts and forget how we want to really hit the ball or what we
 practiced during the week leading up to the tournament.
 
-In my CD Fearless Tennis ([Click
-Here](http://www.amazon.com/Best-Tennis-Your-Life-Performance/dp/1558708448/ref=pd_bbs_sr_1?ie=UTF8&s=books&qid=1200341206&sr=8-1))
+In my CD Fearless Tennis ([link](http://www.amazon.com/Best-Tennis-Your-Life-Performance/dp/1558708448/ref=pd_bbs_sr_1?ie=UTF8&s=books&qid=1200341206&sr=8-1))
 there is an extreme example of this. A player who actually equated a
 first round loss with the possibility of being out on the street one day
 in his life away from tennis.
@@ -415,9 +414,9 @@ ensure that you are taking the deep, relaxing breath necessary to create
 the doorway to finding your true and ability and to be able to focus and
 refocus as necessary.
 
-![](media_mindfulness-can-you-actually-change-your-brain/media/image14.wmf)
+![link](media_mindfulness-can-you-actually-change-your-brain/media/image14.wmf)
 
-**Click Here to see Jeff demonstrate\
+** to see Jeff demonstrate\
 relaxed breathing.**
 
 Second, stay present off the court before your match by keeping your
@@ -481,7 +480,7 @@ tennis of your life. See how to embrace pressure, maintain confidence,
 and increase your focus and intensity. Jim Loehr calls Jeff's book: \"a
 real contribution to the field of applied sports psychology.\"\
 \
-[Click Here to
+[ to
 Order!](http://www.amazon.com/Best-Tennis-Your-Life-Performance/dp/1558708448/ref=pd_bbs_sr_1?ie=UTF8&s=books&qid=1200341206&sr=8-1)
 
 ![A person smiling for the camera Description automatically generated
@@ -497,7 +496,7 @@ doubles in the United States.
 
 Greenwald is the author of [\"The Best Tennis of Your
 Life\"](http://www.amazon.com/Best-Tennis-Your-Life-Performance/dp/1558708448/ref=pd_bbs_sr_1?ie=UTF8&s=books&qid=1200341206&sr=8-1)
-published by Betterway. [Click Here to
+published by Betterway. [ to
 order.](http://www.amazon.com/Best-Tennis-Your-Life-Performance/dp/1558708448/ref=pd_bbs_sr_1?ie=UTF8&s=books&qid=1200341206&sr=8-1)
 Jeff has a private practice based in San Francisco and Marin County,
 California. He can be reached at 415-640-6928 or by email at

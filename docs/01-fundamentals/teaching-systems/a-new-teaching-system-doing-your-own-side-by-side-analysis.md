@@ -13,8 +13,7 @@ In a previous article, I outlined how to do high speed filming for
 yourself and the various recording options using compact video cameras
 and also the phones. It's easier and cheaper than many people think and
 the critical first step in making core technical changes in any stroke.
-([[Click
-Here]{.underline}](https://www.tennisplayer.net/members/teaching_systems/john_yandell/high_speed_video_analysis/).)
+([[]](https://www.tennisplayer.net/members/teaching_systems/john_yandell/high_speed_video_analysis/).)
 
 The next question though is how to evaluate that footage. What are you
 actually seeing that is sound technically? What isn't?
@@ -39,8 +38,7 @@ unparalleled resource. There is nowhere else in the tennis world where
 you can find hundreds of clips of elite players filmed from multiple
 angles that you can study in super slow motion and advance frame by
 frame. Every one of them can be downloaded on either a PC or a Mac.
-[[Click
-Here]{.underline}](https://www.tennisplayer.net/members/high_speed_archive)
+[[]](https://www.tennisplayer.net/members/high_speed_archive)
 to see the complete list.
 
 The next question is how to view yourself side by side with Tennisplayer
@@ -95,7 +93,7 @@ In reality no one but pro players can do everything pro players do. But
 the core technical positions in pro strokes provide the best possible
 models for players at any level.
 
-![](media_a-new-teaching-system-doing-your-own-side-by-side-analysis/media/image5.png)
+![link](media_a-new-teaching-system-doing-your-own-side-by-side-analysis/media/image5.png)
 
 **The Ultimate Fundamental on the forehand---for pro players and you.**
 
@@ -110,8 +108,7 @@ your video of your own stroke to the key positions, compare yourself to
 the pro positions, they create your own physical and visual models.
 
 Want more detail? Then go to the Teaching Systems section with my
-articles on a New Teaching Method. ([[Click
-Here]{.underline}](https://www.tennisplayer.net/members/teaching_systems/).)
+articles on a New Teaching Method. ([[]](https://www.tennisplayer.net/members/teaching_systems/).)
 There are a series of in depth articles on the strokes that show the
 differences as well as the similarities and how the players connect the
 positions and vary them in various situations.
@@ -140,7 +137,7 @@ the phone.
 
 Now you need one more piece of free software to do the side by side.
 There are a few options, but the one we prefer is called Hudl Technique.
-(Click Here.)
+
 
 This application allows you to open the clips side by side---you on one,
 the pro model on the other. You now have the same functionality as with
@@ -148,8 +145,7 @@ Quick Time. You can advance the two videos independently and frame by
 frame to compare key positions.
 
 If you want to see the power of this process, look through the Your
-Strokes section. ([[Click
-Here]{.underline}](https://www.tennisplayer.net/members/your_strokes)).
+Strokes section. ([[]](https://www.tennisplayer.net/members/your_strokes)).
 These are all examples of this exact process. If you struggle doing it
 yourself, you can always come to San Francisco and have me do an
 analysis for you. And demonstrate how to do it for yourself going

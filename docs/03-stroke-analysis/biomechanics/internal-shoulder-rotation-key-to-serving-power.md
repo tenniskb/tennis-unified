@@ -31,8 +31,7 @@ Discovering the role of these rotations was a shock to me, but in
 reality they had been documented by Elliott et al as early as 1995.
 Elliott applied three dimensional quantitative camera systems to measure
 the contributions of the various joints and their motions to racket head
-speed for the serve. ([Click
-Here](The%20Power%20Serve%20-%20Part%201.docx) to read Bruce's article
+speed for the serve. ([link](The%20Power%20Serve%20-%20Part%201.docx) to read Bruce's article
 on the Power Serve.)
 
 ![A person playing tennis Description automatically generated with
@@ -51,7 +50,7 @@ of exactly how the upper arm rotates. This is external shoulder
 rotation.**
 
 **[The irony is that high level servers had always used both external
-and internal shoulder rotation, instinctively or naturally.]{.mark}** At
+and internal shoulder rotation, instinctively or naturally.]** At
 that moment I realized that neither I, nor most players, nor even most
 coaches, understood the way racket head speed was maximized on the
 serve.
@@ -88,7 +87,7 @@ continues into the follow-through.**
 
 **[So what exactly is internal shoulder rotation? Internal shoulder
 rotation is the rotation of the upper arm in the shoulder joint that
-accelerates the racket forward.]{.mark}**
+accelerates the racket forward.]**
 
 In a tennis serve, this rotation starts during the upward swing to the
 ball and continues out into the follow-through. During this rotation,
@@ -171,9 +170,9 @@ internal shoulder rotation muscles, particular the two largest muscles
 attached to your arm, the Latissimus Dorsi and the Pectoralis Major,
 commonly known as the lat and the pec.***
 
-***[Once the muscles that [produce internal shoulde]{.underline}r
-rotation have been [pre-stretched]{.underline} they shorten very rapidly
-in a few hundredths of a second leading to impact]{.mark}***. This is an
+***[Once the muscles that [produce internal shoulde]r
+rotation have been [pre-stretched] they shorten very rapidly
+in a few hundredths of a second leading to impact]***. This is an
 example of what biomechanists call the ***stretch shortening
 cycle*.**
 
@@ -206,7 +205,7 @@ last 30 milliseconds before impact.
 
 **[It's important to note that [the orientation of the arm to torso is
 critical to minimize the risk of shoulder impingement when unleashing
-this powerful force.]{.underline}]{.mark}** For safety, the upper arm
+this powerful force.]]** For safety, the upper arm
 must always be positioned in the proper orientation relative to the
 shoulders.
 

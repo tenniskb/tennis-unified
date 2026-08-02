@@ -350,8 +350,7 @@ on your arm and shoulder. Here are a few suggestions:
                                                                                                                                                                                         the concepts any player can learn\--and every coach can teach\--to help you reach your
                                                                                                                                                                                         full potential and enhance your love of the game.\
                                                                                                                                                                                         \
-                                                                                                                                                                                        [Click
-                                                                                                                                                                                        Here](https://www.amazon.com/Maximum-Tennis-Unleashing-Court-Potential/dp/0736042008)
+                                                                                                                                                                                        [link](https://www.amazon.com/Maximum-Tennis-Unleashing-Court-Potential/dp/0736042008)
                                                                                                                                                                                         to Order!
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ---------------------------------------------------------------------------------------
 
@@ -374,7 +373,7 @@ on your arm and shoulder. Here are a few suggestions:
 |  | Potential\" is a best selling instructional |
 |  | title. |
 |  |  |
-|  | [Click Here](http://www.savianotennis.com/) for |
+|  | [link](http://www.savianotennis.com/) for |
 |  | more information on training with Nick Saviano. |
 
 

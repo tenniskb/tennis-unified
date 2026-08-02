@@ -7,8 +7,7 @@
 **Flexibility is a key return principle.**
 
 In the first article in this series we looked at the first 3 components
-in developing a great return. (Click
-Here](Return%20of%20Serve%20-%20The%20First%203%20Principles.docx)).
+in developing a great return. (](Return%20of%20Serve%20-%20The%20First%203%20Principles.docx)).
 These are consistency combined with accuracy, the position of the
 racquet head, and watching the ball properly.
 
@@ -49,8 +48,7 @@ having an off day. My basic rule of thumb is that for every
 step\--approximately 3 feet\--you take back, the serve effectively
 becomes 5 miles per hour slower since the step back gives you more time.
 (For more on how ball speed declines over the course of serves and other
-shots,Click
-Here](https://www.tennisplayer.net/members/mystheavyball/john_yandell/ball_speed_pro_tennis/ball_speed_pro_tennis_page1.html).)
+shots,](https://www.tennisplayer.net/members/mystheavyball/john_yandell/ball_speed_pro_tennis/ball_speed_pro_tennis_page1.html).)
 
 While Rafael Nadal employs a good deal of variety in his return
 position, against a really big server he often returns from yards behind
@@ -131,8 +129,7 @@ height. A relaxed grip. Among other advantages, a relaxed grip will
 enable you to switch grips more quickly.
 
 **As a lead into the split step, I prefer that you take one or two steps forward and then go into your split.The momentum from that step forward can make you even more explosive when you land and then spring out of the split step. For many players, the forward step or steps also gives them a better rhythm.From the forward step, you go right into the split step.** Several things are crucial for the
-split-step on the return. First, as noted in the first article, (Click
-Here](Return%20of%20Serve%20-%20The%20First%203%20Principles.docx))
+split-step on the return. First, as noted in the first article, (](Return%20of%20Serve%20-%20The%20First%203%20Principles.docx))
 your eyes need to be on the ball as the server's toss arm goes up to
 release the ball and keep watching the ball for the entire return
 process.

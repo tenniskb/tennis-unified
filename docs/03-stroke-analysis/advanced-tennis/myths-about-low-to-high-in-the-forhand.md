@@ -80,24 +80,23 @@ generated](media_myths-about-low-to-high-in-the-forhand/media/image3.webp)
 **On most pro forehands there is significant backward hand and arm
 rotation in the backswing.**
 
-I've called this wiper action \"hand and arm rotation,\" ([Click
-Here](John%20Yandell-Your%20forehand%20and%20the%20modern%20forehand-The%20Forward%20Swing%20Hand%20and%20Arm%20Rotation.docx))
+I've called this wiper action \"hand and arm rotation,\" ([link](John%20Yandell-Your%20forehand%20and%20the%20modern%20forehand-The%20Forward%20Swing%20Hand%20and%20Arm%20Rotation.docx))
 because it stems from the upper arm and the shoulder. The wiper is not
 from the wrist or the forearm, despite what you might have heard.
 
 **[You will see how the motion is initiated at the shoulder joint and
 driven by that upper arm rotation. The hand arm and racket are basically
-rotating as a unit.]{.mark}**
+rotating as a unit.]**
 
 **[But the arm and racket can also rotate backwards before the forward
 swing as the player completes the backswing. When the hand arm and
 racket rotate backward in this way the racket head also rotates backward
-and down.]{.mark}**
+and down.]**
 
 **[This part wiper is the key to understanding the path of the forward
 swing and what really constitutes low to high. This is because the
 racket arm does not simply or only rotate forward from
-contact.]{.mark}**
+contact.]**
 
 **This backward rotation places the racket head below the ball
 regardless of the actual height of the hand. Most pro forehands in the
@@ -174,7 +173,7 @@ height.
 hand and arm rotated back so that the racket tip is angled down toward
 the ground before starting the forward swing. Make sure this rotation is
 unitary and keeps the shape of the hitting arm position in
-tact.]{.mark}***
+tact.]***
 
 But don't worry about the height of the hand, much less try to place it
 above the ball. The hand height will take care of itself. Swing forward
@@ -199,7 +198,7 @@ backward rotation.**
 
 ***[It's a pro element. But remember it's still an extreme element and
 is used variably by the top players. A large percentage of pro forehands
-are still hit with minimal backward wiper rotation.]{.mark}***
+are still hit with minimal backward wiper rotation.]***
 
 It's fun to understand and experiment. And the full wiper can be very,
 very effective on many balls\--high and heavy, short low and wide. Or to

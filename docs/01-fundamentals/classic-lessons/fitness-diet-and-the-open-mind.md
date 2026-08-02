@@ -12,7 +12,7 @@ generated](media_fitness-diet-and-the-open-mind/media/image1.jpg)
 
 In part 1 of this series we heard from some of the smartest people in
 tennis weighing in on some of invisible factors that make critical
-contributions to greatness. [Click Here](Invisible%20Greatness.docx)
+contributions to greatness. [link](Invisible%20Greatness.docx)
 Let's continue to explore the mystery in this second article looking at
 elements including fitness, diet, classical music, and the role of an
 open mind.
@@ -68,9 +68,9 @@ implementing it in their training.
 
 \"**Super compensation**,\" says Gadeken,
 \"**[[is a concept of really taking an athlete to the point, almost,
-where they're gonna over-train.]{.mark} [You're taking them to the
+where they're gonna over-train.] [You're taking them to the
 point where they need a break, then when you get that break, you come
-back refreshed and you see gains.]{.mark}]{.underline}**
+back refreshed and you see gains.]]**
 
 ![A picture containing person, grass, player, sport Description
 automatically
@@ -148,8 +148,7 @@ generated](media_fitness-diet-and-the-open-mind/media/image5.jpg)
 **No More Pizza**
 
 Diet is definitely a factor Djokovic believes was critical to his
-success. He wrote a book about it. ([Click
-Here](https://www.amazon.com/Serve-Win-Gluten-Free-Physical-Excellence/dp/0345548981).)
+success. He wrote a book about it. ([link](https://www.amazon.com/Serve-Win-Gluten-Free-Physical-Excellence/dp/0345548981).)
 Though it's pretty much common knowledge that Djokovic eats a
 gluten-free diet, there was a very interesting and invisible component
 in his decision to implement this change in his lifestyle.

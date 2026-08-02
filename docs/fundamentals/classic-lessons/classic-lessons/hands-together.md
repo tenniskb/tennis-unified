@@ -126,7 +126,7 @@ unit turn. Essentially they turn their entire upper body clockwise until
 the line of the shoulders has rotated 30 or 45 degrees. Now notice the
 hands. They are still in front of the torso. At this point the hands
 haven't moved on their own. (This observation is also consistent with
-John Yandell's analysis on the forehand. **Click Here**.)
+John Yandell's analysis on the forehand. **link**.)
 
 Only when players reach this position\--with the body partially turned
 and the hands in front\--is the non-dominant hand finally released. It
@@ -231,8 +231,7 @@ the turn motion. Monster Memory helps players feel how this arm works in
 making solid, unitary preparation.
 
 As many Tennisplayer writers, such as Scott Murphy have pointed out,
-([Click
-Here](http://www.tennisplayer.net/members/classiclessons/scott_murphy/scott_murphy_opposite_arm_groundstrokes/scott_murphy_opposite_arm_groundstrokes.html)),
+([link](http://www.tennisplayer.net/members/classiclessons/scott_murphy/scott_murphy_opposite_arm_groundstrokes/scott_murphy_opposite_arm_groundstrokes.html)),
 during the positive or forward swing, the opposite arm moves backwards
 in the opposite direction, creating the most distance between the hands
 in any of the strokes. This lasts for a few fractions of a second, but

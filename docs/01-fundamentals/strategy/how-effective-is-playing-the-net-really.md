@@ -17,8 +17,7 @@ In the final section of his brilliant article on the New Magic Numbers,
 Craig O'Shannessy reports that players won 65% of their approaches in
 his studies at the U.S. Open, and that this percentage was almost as
 high at every level, from 12 and unders up through college tennis.
-([Click
-Here](https://www.tennisplayer.net/members/strategy/jeremy_rosen/craig_o_shannessy/the_new_magic_numbers/).)
+([link](https://www.tennisplayer.net/members/strategy/jeremy_rosen/craig_o_shannessy/the_new_magic_numbers/).)
 
 However, my research shows this method is insufficient to make a truly
 accurate determination. Why? Because win probabilities at net can be
@@ -243,8 +242,7 @@ short nor centered nor defensive.
 To find his win probability when he approaches, and the incoming ball is
 short but not centered or defensive add Constant, Approach and Short.And
 the same for the other Confounders/ For more on the math of all this,
-check out the analysis on my website. ([Click
-Here](https://www.topspinshotresearch.com/).)
+check out the analysis on my website. ([link](https://www.topspinshotresearch.com/).)
 
 **Table 2: Win Probability Regressions**
 

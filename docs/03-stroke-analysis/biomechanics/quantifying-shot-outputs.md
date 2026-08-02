@@ -13,7 +13,7 @@ At his research center in Miami, Brian uses a Play Sight system to do
 that. See how he sets up trials for his players, and the kinds of
 numbers they are producing.
 
-![](media_quantifying-shot-outputs/media/image1.png)
+![link](media_quantifying-shot-outputs/media/image1.png)
 
 | ![A person holding a tennis racket Description automatically | Dr. Brian Gordon has changed the understanding of the |
 | --- | --- |
@@ -27,8 +27,8 @@ numbers they are producing.
 |  | knowledge across the entire range of tennis performance. |
 |  |  |
 |  | To visit his website, [**[Click |
-|  | Here!]{.underline}**](https://tennisperformanceresearch.com/) |
+|  | Here!]**](https://tennisperformanceresearch.com/) |
 |  |  |
 |  | Top contact him directly, [**[Click |
-|  | Here!]{.underline}**](mailto:gamabrian@icloud.com) |
+|  | Here!]**](mailto:gamabrian@icloud.com) |
 

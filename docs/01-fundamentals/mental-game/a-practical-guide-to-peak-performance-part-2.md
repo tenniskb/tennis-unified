@@ -103,8 +103,7 @@ players are completely unaware how and when this happens. So it is
 critical to start to pay attention to how you breathe and to monitor how
 this may change when the pressure goes up.
 
-As Jim Loehr has shown ([Click
-Here](https://www.tennisplayer.net/members/mentalgame/jim_loehr/jim_loehr_breathing_mental_game_images/jim_loehr_breathing_mental_game.html))
+As Jim Loehr has shown ([link](https://www.tennisplayer.net/members/mentalgame/jim_loehr/jim_loehr_breathing_mental_game_images/jim_loehr_breathing_mental_game.html))
 breathing during play should be coordinated with the stroke, so that
 exhalation occurs during the forward swing. So it is not only a question
 of practicing the breathing techniques we looked at between points in
@@ -126,10 +125,10 @@ for your shots. Remember that choking, literally, is the inability to
 breathe. Overcoming choking requires that you reestablish that ability.
 
 **[[The great thing about these techniques is that your breathing is
-something you really can establish control over.]{.mark} [It's all
+something you really can establish control over.] [It's all
 about you, not what your opponent is doing. Whatever happens in a match,
 it's a process you can control and feel good about regardless of
-outcome.]{.mark}]{.underline}**
+outcome.]]**
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                         ![A picture containing person, person, holding, outdoor Description automatically
@@ -308,8 +307,7 @@ their desire to win, and sometimes, increasingly it dramatically. You
 see how this works when there is a state of essential parity between
 players. Or when an underdog finds himself in a match with a legitimate
 chance to take the scalp of a heavy favorite. In both cases the will to
-win, and who has more of it, is usually the determining factor. ([Click
-Here](https://www.tennisplayer.net/members/mentalgame/strategy/jeff_mccullough/the_favorite_and_the_underdog/the_favorite_and_the_underdog.html)
+win, and who has more of it, is usually the determining factor. ([link](https://www.tennisplayer.net/members/mentalgame/strategy/jeff_mccullough/the_favorite_and_the_underdog/the_favorite_and_the_underdog.html)
 to find out more about the Underdog.)
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

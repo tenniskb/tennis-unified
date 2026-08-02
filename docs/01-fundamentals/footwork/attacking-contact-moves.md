@@ -14,14 +14,14 @@ traditional hitting stances.**
 
 In this first article in this new series on Tennisplayer, I outlined the
 components of world class movement and the specific athletic skills that
-they are based on. [Click Here](https://www.tennisplayer.net/members/footwork/david_bailey/world_class_movement/overview/)
+they are based on. [link](https://www.tennisplayer.net/members/footwork/david_bailey/world_class_movement/overview/)
 Now let's get into the movement patterns themselves and see the
 incredible athleticism and variety of the world's top players. And see
 how these patterns apply to your game.
 
 Specifically I want to revisit my concept of the Contact Move. I
 introduced this concept over a decade ago and outlined its components in
-my first series of articles on Tennisplayer. [Click Here](https://www.tennisplayer.net/members/footwork/footwork.html)
+my first series of articles on Tennisplayer. [link](https://www.tennisplayer.net/members/footwork/footwork.html)
 Over the years this work has made its way and found greater
 understanding and acceptance.
 
@@ -251,7 +251,7 @@ So there we have our updated review of the aggressive contact moves.
 Let's discuss in the Forum. And stayed tuned for the next article on
 the Building Contact Moves!
 
-![](media_attacking-contact-moves/media/image9.jpeg)
+![link](media_attacking-contact-moves/media/image9.jpeg)
 
 David Bailey is a native Australian who has spent 15 years studying
 tennis at the professional level. He has developed a new language for
@@ -263,8 +263,6 @@ the Bailey Method, has become a regular part of the coaching curriculum
 at the Nick Bollettierri Tennis Academy, where it is personally endorsed
 by Nick
 
-Visit David's Website! [**[Click
-Here!]{.underline}**](http://www.baileytennisfootwork.com/)
+Visit David's Website! [**[!]**](http://www.baileytennisfootwork.com/)
 
-To Contact David directly [**[Click
-Here!]{.underline}**](mailto:david@baileytennisfootwork.com)
+To Contact David directly [**[!]**](mailto:david@baileytennisfootwork.com)

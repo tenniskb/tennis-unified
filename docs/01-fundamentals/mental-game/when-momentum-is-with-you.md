@@ -16,7 +16,7 @@ players.**
 In the last article we looked at the first stage of momentum: when
 momentum is totally with you. Now let's look at Stage Two, When
 Momentum Is With You (but not totally with you). (For Part 1 and Part 2
-[Click Here](When%20Momentum%20is%20Totally%20With%20You%20.docx).)
+[link](When%20Momentum%20is%20Totally%20With%20You%20.docx).)
 
 There are many similarities between the two stages. But potential
 turning points become more important when momentum is with you, because
@@ -43,7 +43,7 @@ again!\"** Keeping the radar on is like keeping an
 eye for their heads popping back up!
 
 **[Potential turning points always relate to one of three
-things:]{.underline}**
+things:]**
 
 1.  **The Actions of Your Opponent**
 
@@ -270,9 +270,9 @@ refocusing solely on the game itself.**
 
 **[[These can give your opponent time to recover and let you go off the
 boil, either by allowing time for you to be distracted mentally or by
-ensuring you go cold physically.]{.mark} [Be sure to keep warm, use the
+ensuring you go cold physically.] [Be sure to keep warm, use the
 time to review which tactics are working and be ready for your opponent
-to renew their efforts when they come back.]{.mark}]{.underline}**
+to renew their efforts when they come back.]]**
 
 **Bad Line Calls**
 
@@ -362,9 +362,9 @@ generated](media_when-momentum-is-with-you/media/image14.webp)
 **Be a tennis expert and prepared to fight.**
 
 **[To keep choking in perspective, remember what a tennis expert
-knows:]{.underline}**
+knows:]**
 
-**[There's no point in getting very nervous]{.mark}. If your opponent
+**[There's no point in getting very nervous]. If your opponent
 is any good, they will be fighting harder and playing better at the end
 of the match, so you must always be prepared to work hard for another
 five minutes or more. How do you expect to win the last game? Will any
@@ -372,7 +372,7 @@ opponent who is a good player tamely dump four balls into the bottom of
 the net for you? Concentrate on your own game rather than rely on errors
 from your opponent.**
 
-**[Be prepared to work hard;]{.mark} nobody knows where the finish line
+**[Be prepared to work hard;] nobody knows where the finish line
 might be. Even at match point, there is still work to be done. Be a
 tennis expert and be prepared to fight.**
 
@@ -382,7 +382,7 @@ confidence](media_when-momentum-is-with-you/media/image15.jpeg)
 
 Alistair Higham is the National Manager of Coach Development for the
 LTA, the governing body for tennis in Great Britain. He is the author of
-[Momentum: The Hidden Force in Tennis]{.underline}. Alistair is a former
+[Momentum: The Hidden Force in Tennis]. Alistair is a former
 professional player who continues to compete successfully at the highest
 levels of English regional tennis. He has developed and coached dozens
 of top junior players, and traveled extensively on the international
@@ -402,5 +402,5 @@ own professional career, this book will give you the perspective and the
 tools to create momentum in your own matches and deal with the critical
 turning points that are the difference between winning and losing.
 
-[Click Here to
+[ to
 Order!](http://www.1st4sport.com/1st4sportsite/product/1st4Sport/Tennis/Tennis/sports/Sports/B60401.htm)

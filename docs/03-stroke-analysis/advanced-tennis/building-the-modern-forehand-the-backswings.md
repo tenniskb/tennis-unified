@@ -378,7 +378,7 @@ they are actually rotating the racquet face downward or
 counterclockwise, from their right to their left. Some players, like
 Agassi, close the face only partially. Other players like Pete and
 Hewitt go further, rotating the face until it is pointing straight down
-at the court. This is typically considered fully \"closed.\"]{.mark}\**
+at the court. This is typically considered fully \"closed.\"]\**
 \
 But some players go further than the so-called closed position. Safin,
 Guga and Roddick all continue turning the face over in the
@@ -434,7 +434,7 @@ Which brings us to factor number five: **[what happens to the racquet
 face on the way down? Whether or not the racquet closes at the start of
 the backswing, it moves through most of the backward motion with the
 face angled to the court. But as it starts to move down, the racket face
-can start to close again, varying with the player.]{.mark}**
+can start to close again, varying with the player.]**
 
 Some of the top players close the face almost completely, others
 virtually not at all.\
@@ -985,7 +985,7 @@ and then accelerating forward to the target.
   ----------------------------------
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------
-   ![](media_building-the-modern-forehand-the-backswings/media/image66.png)
+   ![link](media_building-the-modern-forehand-the-backswings/media/image66.png)
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------
                                  **Click frame by frame to see when the acceleration to the ball increases in Agassi's forehand.**
 
@@ -1029,7 +1029,7 @@ of the racquet head was basically even over the course of the loop,
 accelerating only at bottom of the loop or slightly before.
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-   ![](media_building-the-modern-forehand-the-backswings/media/image67.webp)
+   ![link](media_building-the-modern-forehand-the-backswings/media/image67.webp)
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                           **What we don't know: is there any real advantage based on backswing shape?**
 

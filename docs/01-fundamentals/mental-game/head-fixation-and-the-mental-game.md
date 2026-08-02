@@ -88,8 +88,7 @@ relaxed and communicate information to his body in a way that solidifies
 change. By defusing emotion head fixation reduces the chance a player
 will fall victim to motor paralysis. In this way it works hand in hand
 with a player's between point rituals. Ultimately this combination can
-help free the player from fear of failure. ([Click
-Here](https://www.tennisplayer.net/members/mentalgame/jim_loehr/jim_loehr_16_second_cure_prt1_images/jim_loehr_16_second_cure_prt1.html)
+help free the player from fear of failure. ([link](https://www.tennisplayer.net/members/mentalgame/jim_loehr/jim_loehr_16_second_cure_prt1_images/jim_loehr_16_second_cure_prt1.html)
 for Jim Loehr's classic article on between point rituals.)
 
 **Confidence**
@@ -113,8 +112,7 @@ generated with low
 confidence](media_head-fixation-and-the-mental-game/media/image4.jpeg)
 
 Damien Lafont Ph.D. is a pioneer in mental, vision and movement study.
-Based in Melbourne, Australia, Damien is manager of Vida Mind ([Click
-Here](http://www.vidamind.com.au) for more info). He works with athletes
+Based in Melbourne, Australia, Damien is manager of Vida Mind ([link](http://www.vidamind.com.au) for more info). He works with athletes
 and coaches from all sports interested in developing mental skills and
 improving performance. A certified teaching pro, he holds a degree in
 sport science and training as well as a doctorate in physics.
@@ -130,5 +128,5 @@ down into its many components. Ultimately it shows us that reaching the
 Zone is more about freeing our mind from the unnecessary rather than
 learning new techniques and concepts.
 
-[Click Here to
+[ to
 Order!](http://www.amazon.com/Back-Zone-Sport-Inner-Experiences/dp/1891369997/ref=sr_1_2?s=books&ie=UTF8&qid=1409754670&sr=1-2)

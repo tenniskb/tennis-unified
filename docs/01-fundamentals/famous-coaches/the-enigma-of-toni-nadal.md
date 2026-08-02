@@ -54,8 +54,7 @@ early stages of Rafa's career.**
 **Who is Toni Really?**
 
 So who is Toni really? I was fortunate to spend some time with Toni
-during my visit to the new Rafa Nadal Academy in Mallorca ([Click
-Here](https://www.tennisplayer.net/members/famouscoach/classiclessons/chris_lewit/rafa_nadal_tennis_academy/))
+during my visit to the new Rafa Nadal Academy in Mallorca ([link](https://www.tennisplayer.net/members/famouscoach/classiclessons/chris_lewit/rafa_nadal_tennis_academy/))
 and interview him about his views of the modern game and player
 development.
 
@@ -81,8 +80,7 @@ Academy.**
 **Humility**
 
 The value of humility is very commonly taught in Spanish tennis, as I
-discussed in my book, The Secrets of Spanish Tennis ([Click
-Here](https://www.amazon.com/gp/product/1937559491/ref=pd_lpo_sbs_dp_ss_1?pf_rd_p=1944687522&pf_rd_s=lpo-top-stripe-1&pf_rd_t=201&pf_rd_i=0982618212&pf_rd_m=ATVPDKIKX0DER&pf_rd_r=1J1QMC9PW98986T3ENJ0).)
+discussed in my book, The Secrets of Spanish Tennis ([link](https://www.amazon.com/gp/product/1937559491/ref=pd_lpo_sbs_dp_ss_1?pf_rd_p=1944687522&pf_rd_s=lpo-top-stripe-1&pf_rd_t=201&pf_rd_i=0982618212&pf_rd_m=ATVPDKIKX0DER&pf_rd_r=1J1QMC9PW98986T3ENJ0).)
 \"Humble is the way you have to be, period,\" Toni says.
 
 \"Everybody should know their place in the world. The point is that the

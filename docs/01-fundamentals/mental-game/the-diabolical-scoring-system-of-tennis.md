@@ -61,7 +61,7 @@ zero and your opponent who would be up half a match. This puts
 extraordinary pressure on the outcome of a single point.
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------
-   ![](media_the-diabolical-scoring-system-of-tennis/media/image3.png)
+   ![link](media_the-diabolical-scoring-system-of-tennis/media/image3.png)
   -----------------------------------------------------------------------------------------------------------------------------------------------------
                                        **How big is a big point\--or any point? Click to hear Allen's analysis.**
 
@@ -91,7 +91,7 @@ be extremely close and hard-fought, swinging back and forth many times
 from deuce to ad. But if one player wins the game point, he gets the
 entire game and the other player gets zero.
 
-![](media_the-diabolical-scoring-system-of-tennis/media/image4.jpg)
+![link](media_the-diabolical-scoring-system-of-tennis/media/image4.jpg)
 
   -------------------------------------------------
   **What if every 5 minutes the next basket counted
@@ -126,7 +126,7 @@ big points will make the unconfident player extremely
 nervous.**
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-   ![](media_the-diabolical-scoring-system-of-tennis/media/image5.jpg)
+   ![link](media_the-diabolical-scoring-system-of-tennis/media/image5.jpg)
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                         **Assuming something good will happen increases the chance it will.**
 
@@ -144,8 +144,7 @@ Instead, concentrate narrowly. Do your best to lose yourself in watching
 the ball, staying relaxed, not reacting too strongly any point, creating
 good emotions, and executing your game plan. I've written more
 extensively about all of these factors in another Tennisplayer article
-called \"Becoming a Great Competitor.\" ([Click
-Here](Becoming%20a%20Great%20Competitor.docx).)
+called \"Becoming a Great Competitor.\" ([link](Becoming%20a%20Great%20Competitor.docx).)
 
 **The secret is a paradox. To treat all the points the same, even
 though they aren't. Take the stance that all points are important, but
@@ -175,7 +174,7 @@ Visit him at [www.allenfoxtennis.net](http://www.allenfoxtennis.net)
 |  | stress, finishing matches, and developing confidence. Based on a life time of high level play and coaching success, |
 |  | it's a must for all competitive players. |
 |  |  |
-|  | [Click Here to |
+|  | [ to |
 |  | Order](http://www.amazon.com/Tennis-Winning-Mental-Allen-Fox/dp/0615407765/ref=sr_1_1?ie=UTF8&qid=1336083459&sr=8-1). |
 
 
@@ -198,7 +197,7 @@ Visit him at [www.allenfoxtennis.net](http://www.allenfoxtennis.net)
 |  | outline how to confront and overcome these fears in your |
 |  | life and career, even when they are initially subconscious. |
 |  | Must reading from one of the great thinkers in tennis, and |
-|  | a Renaissance Man in life. [Click Here to |
+|  | a Renaissance Man in life. [ to |
 |  | Order](http://www.tennis-warehouse.com/descpage-MIND.html). |
 |  |  |
 |  | To purchase this book you can also send a check for \$17.95 |

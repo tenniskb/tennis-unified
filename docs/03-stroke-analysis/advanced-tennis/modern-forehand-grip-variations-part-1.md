@@ -48,8 +48,7 @@ see where certain players fit on the scale from conservative to extreme?
 
 In this series of articles on the modern forehand, we've looked closely
 at the grips of several top players, and talked about the positioning of
-their hands on the racket. ([Click
-Here](Roger%20Federer%20and%20the%20Evolution%20of%20the%20Modern%20Forehand%20-%20Part%201.docx).)
+their hands on the racket. ([link](Roger%20Federer%20and%20the%20Evolution%20of%20the%20Modern%20Forehand%20-%20Part%201.docx).)
 We've also looked at the differences in the swings associated with the
 differences in the grips. But some of the most frequent questions I get
 from subscribers are still about the forehand grip. What grip does a
@@ -230,8 +229,7 @@ What this means is that the index knuckle isn't directly behind the
 handle but shifts a quarter of an inch or so downward, so that it is on
 the edge between Bevel 3 and Bevel 4. His heel pad is the same as Pete
 or Tim, aligned directly with Bevel 3. We've already looked at this in
-detail in the Federer forehand articles. ([Click
-Here](Roger%20Federer%20and%20the%20Evolution%20of%20the%20Modern%20Forehand%20-%20Part%201.docx).)
+detail in the Federer forehand articles. ([link](Roger%20Federer%20and%20the%20Evolution%20of%20the%20Modern%20Forehand%20-%20Part%201.docx).)
 
 Like Pete or Henman, Roger also plays with part of his hand slightly off
 the handle. His index finger is gapped only slightly at most, another
@@ -276,7 +274,7 @@ far behind the baseline. **[Now, instead of a heavy topspin player,
 Agassi is known as one the best ball strikers in tennis history, in
 particular for his ability to step in and hit the ball on the rise
 around the baseline. His forehand grip is the foundation that makes this
-possible.]{.mark}**
+possible.]**
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -298,8 +296,7 @@ semi-western players, as we shall see.
 
 When he was coming up, commentators remarked on Agassi's incredible
 topspin in comparison to other top players\--for example, John McEnroe
-or Jimmy Connors. Not anymore. As our studies have shown ([Click
-Here](Ball%20Spin%20in%20Pro%20Tennis.docx)) Agassi, like Sampras,
+or Jimmy Connors. Not anymore. As our studies have shown ([link](Ball%20Spin%20in%20Pro%20Tennis.docx)) Agassi, like Sampras,
 averages around 1800rpm on his forehands. This is 30% less than a player
 like Andy Roddick, whose average is about 2700rpm. In the modern game,
 Agassi is considered one of the great \"flat\" ball strikers. Again,
@@ -322,13 +319,13 @@ Agassi's grip is critical to his strategic style. The grip separates
 him technically from the other semi-western players in two ways.
 
 **[First a \"4 / 3 \" grip is ideally suited for making contact at the
-mid point between waist and shoulder level.]{.mark}** This happens to be
+mid point between waist and shoulder level.]** This happens to be
 the height of most balls in tennis when they cross the baseline.
 
 **[The second difference with this grip is that it is compatible with a
-neutral or square stance.]{.mark}**
+neutral or square stance.]**
 
-As we saw in our stance article ([Click Here](Forehand%20Stances.docx))
+As we saw in our stance article ([link](Forehand%20Stances.docx))
 on the stances, ***the players with more extreme grips have bigger
 shoulder or torso rotational patterns. This makes it awkward to step
 into the ball and hit on the rise, because the front foot actually

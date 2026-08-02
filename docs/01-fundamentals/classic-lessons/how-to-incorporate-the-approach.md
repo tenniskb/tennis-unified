@@ -31,8 +31,7 @@ interesting to observe how he approached the challenges involved.
 How would Jeff deal with the combination of technical, tactical and
 mental changes required? As Jeff points out in his own article, the
 issue has as much to do with the personality of the player as anything
-else. ([Click
-Here](https://www.tennisplayer.net/members/mentalgame/jeff_greenwald/mind_of_baseliner/).)
+else. ([link](https://www.tennisplayer.net/members/mentalgame/jeff_greenwald/mind_of_baseliner/).)
 
 Jeff had had tremendous success as a baseliner all his career. For so
 many years he had been comfortable and successful overcoming opponents
@@ -54,8 +53,7 @@ for the transition.
 In working with Jeff on the overall plan, I had the pleasure of
 collaborating with another legendary Marin County coach, Paul Cohen.
 Paul worked rigorously with Jeff to improve his volley technique.
-([Click
-Here](https://www.tennisplayer.net/members/classiclessons/paul_cohen/classic_forehand_volley/index.html).)
+([link](https://www.tennisplayer.net/members/classiclessons/paul_cohen/classic_forehand_volley/index.html).)
 This was a prerequisite because as Jeff freely admitted he had learned
 to volley as a junior, but never really learned to volley.
 
@@ -67,7 +65,7 @@ hurting players with his fearsome topspin drives.
 approaches, mainly off his forehand, but using his backhand too when the
 opportunity was there.** **[These power approaches
 would take away the opponent's time and force him to hit passes with a
-high degree of difficulty.]{.underline}**
+high degree of difficulty.]**
 
 ![A person playing tennis Description automatically
 generated](media_how-to-incorporate-the-approach/media/image3.webp)

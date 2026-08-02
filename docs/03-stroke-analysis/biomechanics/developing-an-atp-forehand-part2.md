@@ -32,7 +32,7 @@ technique that can be developed by players of all ages and levels.
 create the dynamic slot through conscious muscle manipulation. The
 dynamic slot occurs as a result of the correct positioning of the arm
 and racquet in the backswing and at the start of the forward
-swing.]{.mark}**
+swing.]**
 
 By creating specific positions during the preparation and the backswing,
 any player can create the dynamic slot naturally. If these positions are
@@ -118,7 +118,7 @@ it occur in the forward swing?
 becomes laterally aligned with the butt (grip) end of the racquet. Put
 into simple terms, this [means the point in the forward swing when the
 racquet is basically perpendicular to the
-baseline.]{.underline}]{.mark}**
+baseline.]]**
 
 Why is this important? **The transition point in the ATP style
 forehand marks the transition from a largely linear acceleration of the
@@ -128,7 +128,7 @@ racquet.**
 It marks the point when the racket starts to rapidly rotate forward
 toward the contact point. [On the ATP style forehand this rotation
 occurs primarily through the movement of the wrist joint, as we shall
-see.]{.mark}
+see.]
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -237,11 +237,11 @@ the more curved paths in the Type 1 and Type 2 forehands. It does this
 by minimizing the rotational tendencies of the racquet as the hand pulls
 on the grip early in the forward swing. We will discuss how the
 rotational acceleration works in greater detail below, as well in future
-articles.]{.mark}
+articles.]
 
 **[In the ATP style forehand these rotational tendencies of the racquet
 appear later due to the more linear nature of the early forward
-swing.]{.mark}** We can see this in the high speed video, as the racquet
+swing.]** We can see this in the high speed video, as the racquet
 follows along directly behind the path of the hand.
 
 ![A person playing tennis Description automatically generated with
@@ -253,7 +253,7 @@ confidence](media_developing-an-atp-forehand-part2/media/image10.webp)
 [**While you can see that the forward motion is on a slight curve, the
 arc is quite flat.** **[Again, what that means is that much of the
 acceleration in the first part of the movement to the contact is
-essentially linear.]{.underline}**]{.mark}
+essentially linear.]**]
 
 **Post-Transition**
 
@@ -263,7 +263,7 @@ happens post transition in the second part of the forward swing.
 
 [During the second part of the forward swing the counter-rotations of
 the hitting arm joints are reversed by the joint musculature into their
-intended directions.]{.mark} In the Type 3 ATP style swing, the reversal
+intended directions.] In the Type 3 ATP style swing, the reversal
 from external rotation of the shoulder joint to internal rotation of the
 shoulder joint is the most critical sequence.
 
@@ -354,7 +354,7 @@ to vertical racquet speed.
 [Compared to the straight arm, this means that with the double bend the
 neuromuscular enhancement of the forearm from the counter-rotation in
 the dynamic slot plays a larger role in creating vertical racquet
-speed.]{.mark}
+speed.]
 
 While there are advantages to the straight arm forehand, there are also
 difficulties associated with the timing of the contact point more in
@@ -379,7 +379,7 @@ enhancement by elements of the stretch-shorten cycle.
 **[In fact, the situation is normally quite the opposite. Instead the
 real role of the wrist is positional. The laid back wrist position
 provides the player with wrist joint range of motion needed to position
-the racquet head at contact.]{.mark}**
+the racquet head at contact.]**
 
 To understand what all this means, we need to examine the forward motion
 of the racquet head after the transition point, when the nature of the
@@ -418,7 +418,7 @@ of the wrist joint motion is actually much more complex.
 **[Remember that the hitting hand comes out of the dynamic slot on a
 fairly straight line because it starts to the hitting side of the body.
 But as the arm passes through the torso rotation and approaches contact,
-the hand will start to pull in closer to the torso.]{.mark}**
+the hand will start to pull in closer to the torso.]**
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -452,7 +452,7 @@ grip slips in the fingers.
 **[So the motion of the hand\--a combined result of trunk rotation and
 independent forward motion of the arm at the shoulder\--creates a
 centripetal force. This force causes the racquet to rotate via the
-forward movement of the wrist joint.]{.mark}**
+forward movement of the wrist joint.]**
 
 ![A person playing tennis Description automatically generated with low
 confidence](media_developing-an-atp-forehand-part2/media/image17.webp)
@@ -493,11 +493,11 @@ generated](media_developing-an-atp-forehand-part2/media/image18.webp)
 **Compare the wrist angle on a crosscourt forehand to an inside out.**
 
 [But if the role of the wrist joint muscles is not to cause racquet head
-speed then what is their actual function?]{.mark}
+speed then what is their actual function?]
 
 [**The answer is they have another equally vital role. This is
 positional.** They control the orientation of the racquet at contact
-which is an important determinate of the shot direction.]{.mark}
+which is an important determinate of the shot direction.]
 
 The contraction of the wrist muscles controls the rate of the forward
 wrist joint motion and this is what allows the player to position the
@@ -520,13 +520,13 @@ there is a transition to racquet rotation at the wrist into contact.
 ![A person playing tennis Description automatically
 generated](media_developing-an-atp-forehand-part2/media/image19.webp)
 
-**[A delayed transition point means less muscle inhibition.]{.mark}**
+**[A delayed transition point means less muscle inhibition.]**
 
 [The role of the wrist joint is therefore complex. Its movement allows
 the rotational acceleration but at the same time also controls the
 timing and the rate. This indicates an intricate relationship between
 the centripetal force on the racquet and the way the wrist joint is
-muscularly controlled.]{.mark}
+muscularly controlled.]
 
 The critical piece of the puzzle in understanding this relationship, and
 more importantly in analyzing the role of the wrist, is the timing of
@@ -538,7 +538,7 @@ later.
 delayed, the less muscular inhibition (at the wrist joint) is required
 to control the rate of racquet rotation. The most advanced players for
 which data is available in fact delay the transition point until much
-nearer to contact and utilize minimal muscular inhibition.]{.mark}
+nearer to contact and utilize minimal muscular inhibition.]
 
 For these players, the orientation of the racquet at contact is
 controlled by the timing of attaining the transition point, with minimal
@@ -569,7 +569,7 @@ stretch-shorten element enhancement.
 with a very large contribution to the racquet rotation from wrist joint
 musculature. While conducive to forward speed, this decreases the
 vertical racquet speed enhancement that is the true goal of the dynamic
-slot.]{.mark}**
+slot.]**
 
 There is one final finding regarding the timing of the transition point.
 This relates to the forehand types. In the Type 1 and in some Type 2
@@ -604,7 +604,7 @@ is more open or closed.
 
 As John Yandell has shown, there is a significant range of forehand
 grips in the pro game, including multiple variations of both eastern and
-semi-western. [Click Here](https://www.tennisplayer.net/members/avancedtennis/john_yandell/grips/modern_forehand_grip_variations_part1/modern_forehand_grip_variations_part1.html)
+semi-western. [link](https://www.tennisplayer.net/members/avancedtennis/john_yandell/grips/modern_forehand_grip_variations_part1/modern_forehand_grip_variations_part1.html)
 These differences in grips simply alter the wrist joint angles and axes
 of wrist rotation.
 

@@ -118,8 +118,7 @@ obsolete.
 
 As John Yandell has pointed out, the general level of topspin makes it
 very difficult to control the ball with a classic, relatively flat slice
-drive. ([Click
-Here](https://www.tennisplayer.net/members/avancedtennis/john_yandell/modern_pro_slice_3/).)
+drive. ([link](https://www.tennisplayer.net/members/avancedtennis/john_yandell/modern_pro_slice_3/).)
 The modern slice has the same kind of astronomical spin levels as the
 topspin groundstrokes, but travels much slower, relatively speaking.
 This has made coming in behind a slice approach on the first short ball
@@ -222,8 +221,7 @@ This pattern is very different than the precise forward explosion
 required to go the net. As Jeff Greenwald also explains so well in his
 recent articles, the feeling of the split step and achieving balance in
 the middle of the court is completely foreign to the modern baseliner.
-([Click
-Here](https://www.tennisplayer.net/members/mentalgame/jeff_greenwald/mind_of_baseliner/).)
+([link](https://www.tennisplayer.net/members/mentalgame/jeff_greenwald/mind_of_baseliner/).)
 
 A great volleyer has to be able in a match to sprint quickly over and
 over again for a relatively short distance. When training top players to

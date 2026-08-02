@@ -11,17 +11,14 @@ far back in the center of the court or inside. In this series supreme
 footwork expert David Bailey is sharing his teaching progressions for
 world class footwork based on decades of study of the world's best
 players and on working with players at all levels. It's the seventh
-Golden Move in his new series. ([Click
-Here](https://www.tennisplayer.net/members/footwork/footwork.html).)
+Golden Move in his new series. ([link](https://www.tennisplayer.net/members/footwork/footwork.html).)
 
-For more on the Spin Moves [Click
-Here](https://www.tennisplayer.net/members/footwork/david_bailey/contact_move/spin_moves/spin_moves.html).
-And to see David analyze pro footwork with live match footage, [Click
-Here](https://www.tennisplayer.net/members/footwork/david_bailey/footwork.html).
+For more on the Spin Moves [link](https://www.tennisplayer.net/members/footwork/david_bailey/contact_move/spin_moves/spin_moves.html).
+And to see David analyze pro footwork with live match footage, [link](https://www.tennisplayer.net/members/footwork/david_bailey/footwork.html).
 
-![](media_the-golden-move-7-reverse-spin/media/image1.wmf)
+![link](media_the-golden-move-7-reverse-spin/media/image1.wmf)
 
-![](media_the-golden-move-7-reverse-spin/media/image2.jpeg)
+![link](media_the-golden-move-7-reverse-spin/media/image2.jpeg)
 
 David Bailey is a native Australian who has spent 15 years studying
 tennis at the professional level. He has developed a new language for
@@ -33,8 +30,6 @@ the Bailey Method, has become a regular part of the coaching curriculum
 at the Nick Bollettierri Tennis Academy, where it is personally endorsed
 by Nick
 
-Visit David's Website! [**[Click
-Here!]{.underline}**](http://www.baileytennisfootwork.com/)
+Visit David's Website! [**[!]**](http://www.baileytennisfootwork.com/)
 
-To Contact David directly [**[Click
-Here!]{.underline}**](mailto:david@baileytennisfootwork.com)
+To Contact David directly [**[!]**](mailto:david@baileytennisfootwork.com)

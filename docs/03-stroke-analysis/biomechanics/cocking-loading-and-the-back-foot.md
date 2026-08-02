@@ -17,7 +17,7 @@ of the back foot in creating rear hip acceleration. Why are foot back
 and foot up stances preferable to foot forward? And how does this
 question relate to body rotation.
 
-![](media_cocking-loading-and-the-back-foot/media/image1.png)
+![link](media_cocking-loading-and-the-back-foot/media/image1.png)
 
 ![A person smiling for the camera Description automatically generated
 with low

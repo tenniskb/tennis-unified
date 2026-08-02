@@ -12,7 +12,7 @@ Forehand.\"  It was the first article that really explained the shot,
 which has become one of the most important shots in pro tennis.  I
 called it the reverse forehand because during the followthrough the
 racket goes upward and backward, finishing on the right side of the
-player's body. ([Click Here.](The%20Reverse%20Forehand.docx))
+player's body. ([link](The%20Reverse%20Forehand.docx))
 
 I pointed out how players I had trained like Lindsay Davenport and Pete
 Sampras used the shot, and explained the mechanics of hitting it.  At
@@ -140,9 +140,9 @@ different.**
 
 So with the reverse, the ball jumps and then moves. It doesn't jump and
 go straight. A regular topspin goes up, comes down, and goes up. **[[The
-reverse spin comes in and then jumps away from you.]{.mark} If you were
+reverse spin comes in and then jumps away from you.] If you were
 trying to hit a backhand for example, it would jump and move away from
-you to your left.]{.underline}** 
+you to your left.]** 
 
 And this brings us to Nadal. The reverse forehand is one big reason
 Federer has such a hard time with Nadal. When Nadal hits the left-handed
@@ -180,7 +180,7 @@ He hits more reverse forehands than anyone in the game, and this is
 especially true on fast courts where the percentage of reverses can be
 very high. In the Tennisplayer videos you can see he hits it from
 everywhere on the court. **[[When the ball is fast, he reverses even out
-of the middle of the court.]{.mark} ]{.underline}**
+of the middle of the court.] ]**
 
 You can see the exact length and shape of Nadal's reverse finishes
 vary, depending on the ball, and where he is in the court. When he can
@@ -204,7 +204,7 @@ generated](media_the-reverse-forehand-revisited/media/image8.webp)
 **The reverse is the best possible way to hit a topspin lob.**
 
 **[Another application is in the approach shot. The reverse works
-unbelievably well on the approach.]{.underline}** **It seems that the
+unbelievably well on the approach.]** **It seems that the
 timing is easier. The motion is a little quicker, a little more compact.
 And you get this natural topspin on it. You don't have to work the
 topspin as much. You don't have the tendency to float the
@@ -237,7 +237,7 @@ you're not going to teach it?
 To teach it, **the first thing I tell players is to follow through on
 the same side as they're hitting from.** **I tell
 them [to follow through on the right side if they're
-right-handed.]{.underline} That's the first thing I tell them.**
+right-handed.] That's the first thing I tell them.**
 
 And then I'll see what happens. And there are a lot of things that can
 go wrong. Sometimes maybe they'll hit the reverse and they pull their
@@ -269,7 +269,7 @@ generated](media_the-reverse-forehand-revisited/media/image10.webp)
 **With Sharapova - and everyone else - I integrate the reverse into my
 teaching so it becomes a natural shot at the right time.**
 
-**[Next, I always teach them how to hit a reverse lob.]{.mark}** It
+**[Next, I always teach them how to hit a reverse lob.]** It
 seems the reverse lob is a natural shot, so you don't have to spend a
 lot of time with a kid to actually get some very good reverse topspin
 lobs. They seem to naturally understand what they can do. I think they
@@ -290,8 +290,7 @@ shot. They don't even know they're doing it. They just do it at the
 right time.**
 
 As I said in my article on the three forehand finishes, players need to
-have a variety of options about how they followthrough.  ([Click
-Here.](The%20Three%20Forehand%20Finishes.docx)) You need to train them
+have a variety of options about how they followthrough.  ([link](The%20Three%20Forehand%20Finishes.docx)) You need to train them
 to hit them all, including the reverse.  That's the only way to give
 them the tools they need to compete in the game the way it's played
 today.

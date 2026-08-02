@@ -68,7 +68,7 @@ exercises.
 
 **Trunk Flexion Exercises**
 
-**[1. "Chinnies"]{.underline}**
+**[1. "Chinnies"]**
 
 Start: Begin by assuming a sitting a position in which your upper body
 is inclined 45 degrees, place the medicine ball directly behind the low
@@ -80,7 +80,7 @@ Action: Straighten one leg and bend the other so that your knee comes
 close to your chest, alternate your legs in such a way that they cycle
 in and out.
 
-**[2. "Pullover Crunches"]{.underline}**
+**[2. "Pullover Crunches"]**
 
 Start: Lie on your back with your knees bent, and hold the ball over
 your head at full arm extension.
@@ -89,7 +89,7 @@ Action: Bring the ball over your head to your chest while raising your
 trunk 45 degrees. Lower to the starting position in one fluid motion
 with the ball and your head touching the floor at the same time.
 
-**[3. "Alternating Toe Touches"]{.underline}**
+**[3. "Alternating Toe Touches"]**
 
 Start: Lie on your back with your knees bent, and hold the ball over
 your head at full arm extension.
@@ -100,7 +100,7 @@ your knee. Alternate your legs touching the ball to alternate knees as
 you raise your trunk. This exercise can be performed with a straight leg
 touching the ball to your toe.
 
-**[4. "Hip Crunches"]{.underline}**
+**[4. "Hip Crunches"]**
 
 Start: Sit with your back at a 45 degree angle to the floor, brace
 yourself with your hands behind your hips and hold the ball by squeezing
@@ -110,7 +110,7 @@ Action: Lift your feet off the floor and draw your knees toward your
 chest. You can also do this exercise off the end of a bench so that you
 can move the ball through a longer range of motion.
 
-**[5. "Incline Chest Pass"]{.underline}**
+**[5. "Incline Chest Pass"]**
 
 Start: This exercise requires a partner. Sit with your back at a 45
 degree angle to the floor and hold the ball in front of your chest. Your
@@ -119,7 +119,7 @@ partner can stand on your feet or move back five feet.
 Action: Pass the ball back and forth. You should not move from the 45
 degree angle during the exercise.
 
-**[6. "Sit-Up Toss"]{.underline}**
+**[6. "Sit-Up Toss"]**
 
 Start: This drill also requires a partner. Sit facing your partner two
 to three feet apart with your knees slightly bent.
@@ -129,7 +129,7 @@ pass. Upon receiving the ball, quickly lower your torso to the ground.
 Then sit up and make a chest pass or overhead pass to your partner, who
 repeats the action.
 
-**[7. "Throw Downs"]{.underline}**
+**[7. "Throw Downs"]**
 
 Start: This drill requires a partner. Lie on your back on the floor with
 your legs extended. Your partner stands facing you with one foot on
@@ -143,7 +143,7 @@ variety of directions, ranging from straight forward to more lateral
 directions. Remember to keep the low back flat and pressed against the
 ground by contracting the lower abdominal muscles.
 
-**[Trunk Extension Exercises]{.underline}**
+**[Trunk Extension Exercises]**
 
 **1. "Sitting Toe Touch"**
 
@@ -214,7 +214,7 @@ Action: Lower the ball between your legs and hand to your partner while
 bending over. Stand upright to take the ball with both hands and repeat
 the action for the prescribed number of repetitions.
 
-**[Trunk Rotation Exercises]{.underline}**
+**[Trunk Rotation Exercises]**
 
 1\. "Trunk Rotations"
 
@@ -300,7 +300,7 @@ that extra edge!
 
 (Before beginning any exercise program consult with your physician.)
 
-**[References:]{.underline}**
+**[References:]**
 
 1\. Chu, D.A., Plyometric Exercises with the Medicine Ball" 2nd Edition,
 Bittersweet Publishing 2003
@@ -337,6 +337,6 @@ Therapy Today.
    In addition to his specific work with athletes he does consulting with Physical Therapy practices on improving patient care, business development and expansion into the areas
                                   of performance enhancement. He is also serving as an Expert Witness in litigation involving rehabilitation, fitness and physical therapy areas.
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-    ![](media_improving-core-strength-in-tennis-players/media/image2.gif)
+    ![link](media_improving-core-strength-in-tennis-players/media/image2.gif)
 
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

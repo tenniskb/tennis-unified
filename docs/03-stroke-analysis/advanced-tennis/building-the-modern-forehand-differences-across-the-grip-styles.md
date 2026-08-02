@@ -53,7 +53,7 @@ using video analysis?**
 
 ***[Because of the limits of human perception, in a literal sense we are
 all playing and/or teaching an invisible game. For this reason, the
-opinions of most players and coaches are just that, opinions.]{.mark}***
+opinions of most players and coaches are just that, opinions.]***
 They may be correct opinions or they may be incorrect opinions.
 Certainly there are plenty of both available if you are willing to
 listen. But they are all opinions nonetheless.
@@ -122,8 +122,7 @@ and were seemingly unrelated to the differences in the grips.
 But again we did find some bottom line commonalities. These included
 certain limits on the size of the backswing motion, and the common
 hitting arm position that all players find just before the racket starts
-forward to the ball. [( Click
-Here)](Building%20the%20Modern%20Forehand-The%20Backswings.docx)
+forward to the ball. [link](Building%20the%20Modern%20Forehand-The%20Backswings.docx)
 
 Now in this article let's move from the commonalities to the
 differences. Despite everything top players have in common, there are

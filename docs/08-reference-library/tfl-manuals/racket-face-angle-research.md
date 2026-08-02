@@ -24,12 +24,7 @@
 
   * { box-sizing: border-box; margin: 0; padding: 0; }
 
-  body {
-    font-family: 'Inter', sans-serif;
-    background: var(--cream);
-    color: var(--navy);
-    line-height: 1.7;
-  }
+  body
 
   /* ── COVER ── */
   .cover {
@@ -39,24 +34,8 @@
     position: relative;
     overflow: hidden;
   }
-  .cover::before {
-    content: '';
-    position: absolute;
-    top: -60px; right: -60px;
-    width: 420px; height: 420px;
-    border-radius: 50%;
-    border: 1px solid var(--gold);
-    opacity: 0.18;
-  }
-  .cover::after {
-    content: '';
-    position: absolute;
-    bottom: -80px; left: -40px;
-    width: 280px; height: 280px;
-    border-radius: 50%;
-    border: 1px solid var(--gold);
-    opacity: 0.12;
-  }
+  .cover::before
+  .cover::after
   .journal-label {
     font-family: 'JetBrains Mono', monospace;
     font-size: 10px;
@@ -65,25 +44,12 @@
     text-transform: uppercase;
     margin-bottom: 36px;
   }
-  .cover h1 {
-    font-family: 'Playfair Display', serif;
-    font-size: clamp(28px, 4vw, 48px);
-    font-weight: 900;
-    line-height: 1.15;
-    max-width: 720px;
-    margin-bottom: 24px;
-  }
+  .cover h1
   .cover h1 em {
     font-style: italic;
     color: var(--gold);
   }
-  .cover-sub {
-    font-size: 14px;
-    color: #aab5c0;
-    max-width: 560px;
-    margin-bottom: 40px;
-    line-height: 1.6;
-  }
+  .cover-sub
   .author-block {
     border-top: 1px solid #ffffff22;
     padding-top: 24px;
@@ -119,32 +85,14 @@
     margin: 48px 0 0;
     border-radius: 0 8px 8px 0;
   }
-  .abstract-label {
-    font-family: 'JetBrains Mono', monospace;
-    font-size: 10px;
-    letter-spacing: 2.5px;
-    color: var(--gold);
-    text-transform: uppercase;
-    margin-bottom: 12px;
-  }
-  .abstract p {
-    font-size: 14px;
-    color: var(--slate);
-    line-height: 1.8;
-  }
+  .abstract-label
+  .abstract p
 
   /* ── SECTIONS ── */
   .section {
     margin-top: 56px;
   }
-  .section-eyebrow {
-    font-family: 'JetBrains Mono', monospace;
-    font-size: 10px;
-    letter-spacing: 2.5px;
-    color: var(--gold);
-    text-transform: uppercase;
-    margin-bottom: 8px;
-  }
+  .section-eyebrow
   .section h2 {
     font-family: 'Playfair Display', serif;
     font-size: clamp(20px, 3vw, 28px);
@@ -154,12 +102,7 @@
     padding-bottom: 12px;
     border-bottom: 1px solid var(--rule);
   }
-  .section p {
-    font-size: 15px;
-    color: var(--slate);
-    margin-bottom: 16px;
-    line-height: 1.8;
-  }
+  .section p
 
   /* ── FIGURE: Racket Face Diagram ── */
   .figure-wrap {
@@ -204,14 +147,7 @@
     font-size: 16px;
     margin-bottom: 4px;
   }
-  .combo-card .tag {
-    font-size: 10px;
-    letter-spacing: 1.5px;
-    text-transform: uppercase;
-    color: var(--mid);
-    margin-bottom: 16px;
-    display: block;
-  }
+  .combo-card .tag
   .combo-row {
     display: flex;
     gap: 10px;
@@ -230,7 +166,7 @@
   }
   .fh-badge { background: #ddeeff; color: var(--fh-color); }
   .bh-badge { background: #f8ede8; color: var(--bh-color); }
-  .combo-row p { font-size: 13px; color: var(--slate); line-height: 1.6; }
+  .combo-row p
 
   /* ── ANATOMY PRINCIPLE BOX ── */
   .principle-box {
@@ -242,28 +178,14 @@
     position: relative;
     overflow: hidden;
   }
-  .principle-box::before {
-    content: '"';
-    font-family: 'Playfair Display', serif;
-    font-size: 180px;
-    color: var(--gold);
-    opacity: 0.08;
-    position: absolute;
-    top: -20px; left: 16px;
-    line-height: 1;
-  }
+  .principle-box::before
   .principle-box h3 {
     font-family: 'Playfair Display', serif;
     font-size: 18px;
     color: var(--gold);
     margin-bottom: 14px;
   }
-  .principle-box p {
-    font-size: 14px;
-    color: #c0ccd8;
-    line-height: 1.8;
-    margin-bottom: 10px;
-  }
+  .principle-box p
   .principle-row {
     display: flex;
     gap: 20px;
@@ -301,14 +223,7 @@
     background: var(--navy);
     color: var(--gold);
   }
-  .data-table th {
-    padding: 12px 16px;
-    text-align: left;
-    font-size: 11px;
-    letter-spacing: 1.5px;
-    text-transform: uppercase;
-    font-weight: 500;
-  }
+  .data-table th
   .data-table td {
     padding: 11px 16px;
     border-bottom: 1px solid #f0ede5;
@@ -370,7 +285,7 @@
     flex-shrink: 0;
     margin-top: 2px;
   }
-  .insight-strip p { font-size: 14px; color: var(--slate); margin: 0; line-height: 1.7; }
+  .insight-strip p
   .insight-strip p strong { color: var(--navy); }
 
   /* ── FOOTER ── */
@@ -390,8 +305,7 @@
     font-family: 'JetBrains Mono', monospace;
   }
 
-  @media (max-width: 600px) {
-    .cover { padding: 48px 24px 40px; }
+  @media (max-width: 600px)
     .combo-grid { grid-template-columns: 1fr; }
     .principle-row { flex-direction: column; }
     .author-block { gap: 24px; }

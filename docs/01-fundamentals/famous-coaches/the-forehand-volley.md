@@ -74,9 +74,9 @@ generated](media_the-forehand-volley/media/image4.webp)\
 **[Stay light on your feet, energized, and ready to make your move. [If
 you plant your feet too heavily, stopping all your forward momentum, you
 will find it will be much more difficult to move to the
-ball.]{.underline} All too often[, when the body weight gets planted
+ball.] All too often[, when the body weight gets planted
 back on the heels, you end up watching the passing shot go
-by.]{.underline} Don't get too settled in.]{.mark}**
+by.] Don't get too settled in.]**
 
 **In the ready position, on your split step you should have your arms
 and racquet out in front of you, centered between your shoulders,
@@ -101,9 +101,9 @@ the shot.
 **Most of the time when you are at the net, you will be volleying in
 quick reflex mode.** **Your preparation needs to be compact with no
 excess motion**. **[Your objective is to [prepare
-immediately for contact]{.underline}. You'll use the pace that is
+immediately for contact]. You'll use the pace that is
 already on the passing shots, so you [won't need a back
-swing.]{.underline}]{.mark}**
+swing.]]**
 
 ![A picture containing text, sky, person, outdoor Description
 automatically
@@ -219,9 +219,9 @@ confidence](media_the-forehand-volley/media/image12.webp)
 **Low Volley**
 
 In many first volley situations, you'll have to **[[execute the low
-volley, making contact just before the ball bounces.]{.mark} [You must
+volley, making contact just before the ball bounces.] [You must
 force yourself to get down for these shots by spreading your feet and
-really bending your knees.]{.mark}]{.underline}**
+really bending your knees.]]**
 
 You should realize that the opponent has you in a defensive position,
 having hit the ball to your feet. **So don't rush through this
@@ -286,7 +286,7 @@ swing at it and if you don't use the right technique, the ball can end
 up hitting the fence on the fly.
 
 **[When you need to apply some pace to the volley, there's one key
-element to remember.]{.mark}** **As you prepare for the volley with
+element to remember.]** **As you prepare for the volley with
 your elbow moving forward as the first move, you should angle the butt
 of the racquet towards the ball.**
 
@@ -318,9 +318,9 @@ yourself so you can work with the ball within your preferred contact
 zone.**
 
 **[[You should add some top spin and build margin of error into this
-shot as you try to force the opponent.]{.mark} [Follow this shot to net
+shot as you try to force the opponent.] [Follow this shot to net
 as you would on any approach shot to close the point if
-necessary.]{.mark}]{.underline}** Stay Tuned because in the next article
+necessary.]]** Stay Tuned because in the next article
 we'll look at the backhand volley in the same detailed way.
 
 ![A person wearing sunglasses Description automatically generated with

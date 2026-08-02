@@ -8,8 +8,7 @@
 
 **Who are the coach and the player - as people?**
 
-In the first article in this series ([Click
-Here](Maximizing%20Player%20and%20Coach%20Relationships%20-%20Part%201.docx))
+In the first article in this series ([link](Maximizing%20Player%20and%20Coach%20Relationships%20-%20Part%201.docx))
 I presented some of the results from a study my company SETS did in
 conjunction with Stanford University. A key question was who the player
 and coach were as people, and another critical factor was their ability

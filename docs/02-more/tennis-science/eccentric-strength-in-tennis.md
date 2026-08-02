@@ -41,7 +41,7 @@ this article are:**
 | ----------------------------------------------------- |
 
 
-**[The movers of the body are the muscles.]{.mark}** **Through their
+**[The movers of the body are the muscles.]** **Through their
 attachments to the bones by way of the tendons, they provide us with the
 unique ability to lengthen and resist tension, hold a static position,
 or shorten and produce tension.** They do this by
@@ -89,7 +89,7 @@ strokes will improve as your eccentric strength does also.\
 isometric contraction.** **[This is a contraction
 in which there is no visible shortening of the muscle. Therefore, no
 motion occurs at the joint, but the muscle tightens with an all-out
-effort to hold a particular position.]{.underline}**\
+effort to hold a particular position.]**\
 \
 There was a time when people thought this was the way to improve
 strength. As time went by and research improved, it was found that
@@ -187,6 +187,6 @@ Fall 1995 issue.*
      In addition to his specific work with athletes he does consulting with Physical Therapy practices on improving patient care, business development and expansion
       into the areas of performance enhancement. He is also serving as an Expert Witness in litigation involving rehabilitation, fitness and physical therapy areas.
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------
-    ![](media_eccentric-strength-in-tennis/media/image2.gif)
+    ![link](media_eccentric-strength-in-tennis/media/image2.gif)
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------

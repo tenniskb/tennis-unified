@@ -66,8 +66,8 @@ of on court speed and better on court movement.
 **There are two basic elements in assessing a players overall court
 movement**. **The first is footwork, the actual
 patterns of steps and movement, and how you position to the
-ball**. **[[The second is raw foot speed.]{.mark}
-[In short, how you move, and how fast you do it.]{.mark}]{.underline}**
+ball**. **[[The second is raw foot speed.]
+[In short, how you move, and how fast you do it.]]**
 All tennis players fall into four categories: players who are both fast
 and move well (the most dangerous players); players who move and
 anticipate well, but are slow of foot (my category); players who are
@@ -132,9 +132,9 @@ run.***
 
 **The swinging motion of the arms pulls your feet
 through**. **[[The faster the arms swing the faster
-the legs are pulled through.]{.mark} [The arms should swing back and
+the legs are pulled through.] [The arms should swing back and
 forth in a straight line. The term Malcolm uses is \"cheek to
-cheek.\"]{.mark}]{.underline}** **The hands should travel from your
+cheek.\"]]** **The hands should travel from your
 face cheek to your butt cheek (the arms bent and
 relaxed).** In my case I was amazed how much my
 arms moved side to side as I ran. This caused my legs to pull to the

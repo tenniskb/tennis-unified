@@ -6,7 +6,7 @@ Part 2**
 **Dave Hagler**
 
 In the first article in the series I offered 4 simple drills to begin
-developing touch and feel. [Click Here](https://www.tennisplayer.net/members/ultimate_drillgames/dave_hagler/drills_for_developing_touch/part_01/)
+developing touch and feel. [link](https://www.tennisplayer.net/members/ultimate_drillgames/dave_hagler/drills_for_developing_touch/part_01/)
 Now here are 4 more slightly more difficult ones to continue players'
 development.
 
@@ -68,6 +68,6 @@ More drills to come! Stay Tuned!
 |  | Share Your Thoughts with our Subscribers and Authors!\ |  |  |
 |  | \ |  |  |
 |  | [[Click |  |  |
-|  | Here]{.underline}](https://www.tennisplayer.net/bulletin/forum/tennisplayer/93622-drills-for-developing-touch-part-1?view=stream)** |  |  |
+|  | Here]](https://www.tennisplayer.net/bulletin/forum/tennisplayer/93622-drills-for-developing-touch-part-1?view=stream)** |  |  |
 | +=====================================================================================================================================+===============================================================================================================================================================================================================+ |  |  |  |
 

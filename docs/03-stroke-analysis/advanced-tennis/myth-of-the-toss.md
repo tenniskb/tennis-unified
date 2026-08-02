@@ -17,12 +17,12 @@ Pete's toss arcs from right to left, dropping up to two feet at
 contact.**
 
 **[The first has to do with toss height - the common belief that players
-should hit the ball at the top of the toss.]{.mark}**
+should hit the ball at the top of the toss.]**
 
 **[The second myth has to do with the tossing motion and the placement
 of the toss. This is the belief that the toss and the motion of the
 tossing arm should be straight up and down in front of the
-body.]{.mark}**
+body.]**
 
 To check if the toss is correct, players are often taught to let the
 toss drop, so that it falls to the court in front of the front foot (for
@@ -163,7 +163,7 @@ substantially above their contact points.
 more so the average player? This is particularly true when players try
 to use their legs and increased body rotation for more power and spin.
 It requires more time to develop more body coil. To get this time, you
-need a higher toss.]{.mark}**
+need a higher toss.]**
 
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A person playing baseball Description automatically generated with low
@@ -238,7 +238,7 @@ muscle from delivery to delivery.***
 **[Of course the toss can be too high as well. The toss should not be so
 high that the player develops any hitches or pauses in the swing
 pattern, so that he appears to be lagging at any point, waiting for the
-toss to drop into position.]{.mark}**
+toss to drop into position.]**
 
 The right toss height, timing, and rhythm is something that can only be
 developed through trial and error for the individual player.
@@ -284,7 +284,7 @@ understood how to turn his shoulders in his serving motion.
   ![A person playing tennis Description automatically generated with medium
   confidence](media_myth-of-the-toss/media/image11.webp)**[\
   The toss is dropping and moving on an arc toward Rusedski at contact. Due to his quick motion and slice delivery both elements are less extreme than
-  Pete.]{.mark}**
+  Pete.]**
   ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -294,7 +294,7 @@ to the side, and from this position, the only possible path for the toss
 to reach the contact point is in the shape of an arc. If the ball really
 traveled straight up and down, players would have to reach to the side
 with a much lower contact point that would be 2 to 3 feet away from of
-their bodies!]{.mark}**
+their bodies!]**
 
 **[The amount of shoulder turn, and therefore the exact position of the
 tossing arm, varies from player to player. Rusedski has one of the more
@@ -302,7 +302,7 @@ limited turns. But his tossing arm is still pointing to the sideline at
 about a 45 degree angle at the time of release. Pete's turn goes
 further and so does his tossing arm. At the time of his ball release,
 it's 90 degrees to the sideline and actually parallel to the
-baseline.]{.mark}**
+baseline.]**
 
 **This is why the path of the toss has to be an arc. To reach the
 contact zone, the ball has to travel back toward the player. The contact

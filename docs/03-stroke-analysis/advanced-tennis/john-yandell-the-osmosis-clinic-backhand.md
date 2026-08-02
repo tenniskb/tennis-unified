@@ -14,8 +14,7 @@ commonalities all two-handers share.
 
 But we'll also look at the 4 major variations of the pro two-handel, a
 groundbreaking analysis presented for the first time here on
-Tennisplayer in our Advanced Tennis series ([Click
-Here](http://www.tennisplayer.net/members/avancedtennis/john_yandell/two_handed_backhand/2hd_bh_simplest_complex/2hd_bh_simplest_complex.html)).
+Tennisplayer in our Advanced Tennis series ([link](http://www.tennisplayer.net/members/avancedtennis/john_yandell/two_handed_backhand/2hd_bh_simplest_complex/2hd_bh_simplest_complex.html)).
 
 On Tennisplayer we are committed to bringing you the latest cutting edge
 research, work that pushes the information envelope, and has
@@ -26,15 +25,13 @@ In these Osmosis articles, we are boiling this exhaustive and highly
 detailed analysis down into a more succinct form. We are also presenting
 it in a new audio/ video format, making it more similar to the
 presentations I do at coaching conventions around the world. (To see the
-first Osmosis article on the modern pro forehand, [Click
-Here](John%20Yandell-The%20Osmosis%20Forehand%20.docx).)
+first Osmosis article on the modern pro forehand, [link](John%20Yandell-The%20Osmosis%20Forehand%20.docx).)
 
 So what is really going on in the strokes of the great two-handers? How
 do the top players differ and how are they the same? When we look at pro
 forehands there are obvious techncial differences that can be traced
 back to fundamentals of grip. As we have seen, this is because there are
-at least 6 different forehand grips used in the modern pro game. ([Click
-Here.)](http://www.tennisplayer.net/members/avancedtennis/john_yandell/grips/modern_forehand_grip_variations_part1/modern_forehand_grip_variations_part1.html)
+at least 6 different forehand grips used in the modern pro game. ([)](http://www.tennisplayer.net/members/avancedtennis/john_yandell/grips/modern_forehand_grip_variations_part1/modern_forehand_grip_variations_part1.html)
 
 When we look at the two-handed backhand, the differences aren't as
 obvious. The swings look far more similar from one player to the next.
@@ -61,7 +58,7 @@ be used with all the hitting arm combinations. So click on my
 presentation below and let's try to create an overview of what to
 consider in building a two-handed stroke that works for you!
 
-# ![](media_john-yandell-the-osmosis-clinic-backhand/media/image2.png)
+# ![link](media_john-yandell-the-osmosis-clinic-backhand/media/image2.png)
 
 ![A person smiling for the camera Description automatically generated
 with medium

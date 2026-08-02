@@ -14,8 +14,7 @@ ball, but where and when. There are 3 phases to master in developing
 these same abilities, what we call: Control, Hurt, and Finish.
 
 In the last article we looked closely at how great players develop
-Control in baseline rallies. ([Click
-Here](The%20Strategy%20Zone%20-%20Rally%20Control.docx).) Now let's
+Control in baseline rallies. ([link](The%20Strategy%20Zone%20-%20Rally%20Control.docx).) Now let's
 continue to develop our understanding by looking at how you can use your
 serve to develop control from the first ball of the point.
 
@@ -49,9 +48,9 @@ your serve to do this, you will have a higher winning percentage than
 you could ever dream of hitting aces and unreturnable serves.
 
 **[[As with all the shots, it's one thing to identify the patterns, and
-another to execute them in match play.]{.mark} [Too many players acquire
+another to execute them in match play.] [Too many players acquire
 new information and believe they can implement it immediately in
-competition. This is a recipe for failure.]{.mark}]{.underline}**
+competition. This is a recipe for failure.]]**
 
 To develop the foundation for building your strategy zone system, you
 must work in progressive levels of drills. First you must master the
@@ -90,10 +89,10 @@ as it moves upward to contact.**
 **[[In the deuce court, you must imagine that you are leading your swing
 with the edge of the racket. Visualize that you are using the edge of
 the racket to literally cut the ball in half. This will create the
-additional sidespin or slice necessary to hit this shot.]{.mark}
+additional sidespin or slice necessary to hit this shot.]
 [Remember that even though you come to the ball with the edge of the
 racket, there will still be some pronation in the
-finish.]{.mark}]{.underline}**
+finish.]]**
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -167,7 +166,7 @@ angle and spin so that the ball crosses the doubles sideline before it
 reaches the baseline?
 
 **[The shorter the ball lands within the runway, the wider off the court
-it will take your opponent.]{.mark}**
+it will take your opponent.]**
 
 ![A person playing tennis Description automatically generated with low
 confidence](media_the-strategy-zone-serve-control/media/image6.webp)
@@ -193,7 +192,7 @@ results could be huge in terms of your results.
 
 In the Strategy Zone package, we also outline a comprehensive series of
 additional drills and games that will let you develop this ability step
-by step. [Click Here](http://www.nicksstrategyzone.com/)
+by step. [link](http://www.nicksstrategyzone.com/)
 
 ![A tennis player is serving the ball Description automatically
 generated with low

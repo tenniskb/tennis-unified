@@ -87,7 +87,7 @@ is make any absolute pronouncements about which grip style and/or stroke
 variation is ultimately preferable.   
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-   ![](media_common-elements-across-the-grip-styles/media/image3.webp)
+   ![link](media_common-elements-across-the-grip-styles/media/image3.webp)
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                       **Love them or hate them, radical forehands are here to stay in junior tennis.**
 
@@ -255,7 +255,7 @@ The other key point to realize here is that the Start of the Turn
 happens virtually instantaneously. On average, it takes only about 2/10s
 of a second. **[Players start the turn as soon as they recognize which
 side the ball is coming to. It definitely precedes any significant
-movement to the ball, even if they are in for a long run.]{.mark} **
+movement to the ball, even if they are in for a long run.] **
 
 This first move is universal across the grip styles. Compare the players
 below and see how they are all in virtually the same position at this
@@ -265,7 +265,7 @@ point in the motion.
 | --- | --- | --- |
 | ![A person playing tennis Description automatically generated with medium confidence](media_common-elements-across-the-grip-styles/media/image7.jpg) | ![A person playing tennis Description automatically generated with medium | ![A person playing tennis Description automatically generated with medium |
 |  | confidence](media_common-elements-across-the-grip-styles/media/image8.jpg) |  |
-| **[The shoulders and feet start the preparation by turning the player partially sideways.]{.mark}** |  |  |
+| **[The shoulders and feet start the preparation by turning the player partially sideways.]** |  |  |
 | ![A picture containing text, water, sport Description automatically | ![A person playing tennis Description automatically generated with medium | ![A person playing tennis Description automatically generated](media_common-elements-across-the-grip-styles/media/image12.jpg) |
 | generated](media_common-elements-across-the-grip-styles/media/image10.jpg) |  |  |
 
@@ -304,7 +304,7 @@ generated](media_common-elements-across-the-grip-styles/media/image13.webp)
 **The completion of the turn move and the start of the backswing**
 
 **[As the players move from the unit turn to the full turn, they also
-initiate the backswing.]{.mark}** At this point, some players, like
+initiate the backswing.]** At this point, some players, like
 Sampras, separate their hands. Others, like Agassi and Hewitt, keep
 their opposite hand on the throat of the racquet until the hands reach
 shoulder level.
@@ -344,7 +344,7 @@ share these elements, with only minor variations.
 | --- | --- | --- |
 | ![A person playing tennis Description automatically generated with medium | ![A person swinging a tennis racket Description automatically | ![A person playing tennis Description automatically generated with medium |
 | confidence](media_common-elements-across-the-grip-styles/media/image14.jpg) |  |  |
-| **[The common elements in the Full Turn: shoulders slightly past perpendicular to the net, left arm extended to the sideline, racquet hand high.]{.mark}** |  |  |
+| **[The common elements in the Full Turn: shoulders slightly past perpendicular to the net, left arm extended to the sideline, racquet hand high.]** |  |  |
 | ![A person playing tennis Description automatically generated with low | ![A person swinging a tennis racket Description automatically | ![A person hitting a ball with a tennis racket Description automatically |
 | confidence](media_common-elements-across-the-grip-styles/media/image17.jpg) |  |  |
 
@@ -394,7 +394,7 @@ turned somewhat forward or inward, with the toes pointing at the net an
 an angle of thirty to forty five degrees. **[Most of the weight is on
 this outside foot, with that foot typically completely flat on the
 court. The torso is erect, more or less completely straight up and down
-from the waist.]{.mark}**
+from the waist.]**
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                  ![A person playing tennis Description automatically
@@ -412,7 +412,7 @@ see in a future article.
 **[The other foot (the left foot for a righthander) is also turned at
 least partially sideways and is in front of the outside foot, and closer
 to the net. The player is usually up on the toes of this foot to keep
-balance.]{.mark}  **
+balance.]  **
 
 The player establishes this position fairly close to the line of the
 incoming ball. Often this is called setting up "behind the ball." He is
@@ -439,8 +439,8 @@ turn. It can be taught this way, as a basic sequence in developing the
 fundamentals: **Start of Turn, Completion of Turn, and then
 immediately, Set Up and Coil.** However, it is also
 important to note that **[the turn and the set up are actually
-independent]{.mark} [elements that usually don't occur at the same time
-when the player has to move to the ball.]{.mark}**
+independent] [elements that usually don't occur at the same time
+when the player has to move to the ball.]**
 
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                         ![A person playing a guitar Description automatically generated with low
@@ -460,7 +460,7 @@ near the bottom of the backswing and almost ready to start forward to
 the ball at the time, with the left arm  pointing toward the net.
 
 This is **[why it is critical to teach the start of the turn and the
-completion of the turn as the first two movements.]{.mark}** If players
+completion of the turn as the first two movements.]** If players
 are taught to always pair them with the set up, their timing will be
 late on the vast majority of balls.
 
@@ -485,7 +485,7 @@ players start to move toward the ball, they tend to stay mainly on the
 balls and/or the toes of their feet. When they take the set up step,
 however, this changes. **[On the last step before the hit, they land
 heel first. This is a "braking step" that slows them down somewhat. As
-they brake, they coil the back leg by deepening the knee bend.]{.mark}**
+they brake, they coil the back leg by deepening the knee bend.]**
 
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                         ![A person playing tennis Description automatically generated with medium
@@ -499,7 +499,7 @@ they brake, they coil the back leg by deepening the knee bend.]{.mark}**
 continue to move through the shot at what appears to be full speed. This
 braking step\--and the extra knee bend that goes with it\--is a subtle
 but very important element is learning to hit effectively on the
-move.]{.mark}**
+move.]**
 
 ### Completion of Backswing-Start of the Foreswing
 
@@ -629,7 +629,7 @@ wrist to lift a low ball.**
 Amazingly, this is even true on low balls close to the net. Check out
 the incredible video of Lleyton Hewitt for yourself. He may appear to
 roll the wrist radically. **[Look closer at the frame by frame and see
-how he lifts the ball with the wrist laid back.]{.mark}** The huge
+how he lifts the ball with the wrist laid back.]** The huge
 racquet rollover happens well after the contact and is just one more
 example of how our naked eyes deceive us when we look at pro tennis.
 
@@ -653,7 +653,7 @@ is counterproductive in generating power or spin.
 **[The high speed video shows that the top players set up in the hitting
 arm position at the completion of the backswing, and keep this position
 essentially in tact as they move the racket forward to the
-hit.]{.mark}** Sometimes the amount of layback, and therefore the angle
+hit.]** Sometimes the amount of layback, and therefore the angle
 between the racket and the forearm, decreases as the racket comes
 forward to the ball. But most times it doesn't, for most players. When
 this movement does happen, it seems obvious that it is a natural

@@ -11,7 +11,7 @@ In this new series for Tennisplayer, we are looking at the incredible
 variety of movement patterns in pro tennis, and specifically, the
 concept of the Contact Move, which describes how the feet and body move
 before, during, and after the hit. (For an introduction to the Contact
-Move concept, [Click Here](https://www.tennisplayer.net/members/footwork/david_bailey/world_class_movement/overview/).)
+Move concept, [link](https://www.tennisplayer.net/members/footwork/david_bailey/world_class_movement/overview/).)
 
 My life's work in researching tennis movement has established that
 there are 15 Contact Moves used by elite players. These contact moves
@@ -20,7 +20,7 @@ Defensive Contact Moves.
 
 In the last article we looked at the aggressive Contact Moves when
 players are looking to finish the point or force a weak reply to finish
-with the next ball. [Click Here](https://www.tennisplayer.net/members/footwork/david_bailey/world_class_movement/attacking_contact_moves/)
+with the next ball. [link](https://www.tennisplayer.net/members/footwork/david_bailey/world_class_movement/attacking_contact_moves/)
 Now let's look at the second category, what I call the Building Contact
 Moves.
 
@@ -170,7 +170,7 @@ So post your comments and questions in the Forum and let's discuss it
 all! And stay tuned for the Counter Attacking Moves and the Defensive
 Moves coming up in future articles.
 
-![](media_the-building-contact-moves/media/image3.jpeg)
+![link](media_the-building-contact-moves/media/image3.jpeg)
 
 David Bailey is a native Australian who has spent 15 years studying
 tennis at the professional level. He has developed a new language for
@@ -182,8 +182,6 @@ the Bailey Method, has become a regular part of the coaching curriculum
 at the Nick Bollettierri Tennis Academy, where it is personally endorsed
 by Nick
 
-Visit David's Website! [**[Click
-Here!]{.underline}**](http://www.baileytennisfootwork.com/)
+Visit David's Website! [**[!]**](http://www.baileytennisfootwork.com/)
 
-To Contact David directly [**[Click
-Here!]{.underline}**](mailto:david@baileytennisfootwork.com)
+To Contact David directly [**[!]**](mailto:david@baileytennisfootwork.com)

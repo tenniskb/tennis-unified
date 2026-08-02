@@ -20,7 +20,7 @@ issue of the starting stance.
 
 We're excited to have back Jeff as a Tennisplayer contributor!
 
-![](media_the-set-up-and-stance/media/image1.wmf)
+![link](media_the-set-up-and-stance/media/image1.wmf)
 
 | ![A person smiling for the camera Description automatically generated with medium | Jeff Salzenstein is the founder of Tennis |
 | --- | --- |

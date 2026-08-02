@@ -14,7 +14,7 @@ serve.**
 
 In this series we are looking at the Contact Moves to develop world
 class footwork on the return of serve. In the last article, we looked at
-the patterns for aggressive returns. [Click Here](https://www.tennisplayer.net/members/footwork/david_bailey/contact_moves_return/aggressive_return/)
+the patterns for aggressive returns. [link](https://www.tennisplayer.net/members/footwork/david_bailey/contact_moves_return/aggressive_return/)
 Now let's turn to defensive returns.
 
 The classic Defensive Contact Move on the return of serve is what I call
@@ -188,7 +188,7 @@ already improving! Next we'll move on to other areas where footwork is
 critical, such as the approach, and on the recovery after the serve.
 Stay tuned!
 
-![](media_return-of-serve-defensive-contact-moves/media/image7.jpeg)
+![link](media_return-of-serve-defensive-contact-moves/media/image7.jpeg)
 
 David Bailey is a native Australian who has spent 15 years studying
 tennis at the professional level. He has developed a new language for
@@ -200,8 +200,6 @@ the Bailey Method, has become a regular part of the coaching curriculum
 at the Nick Bollettierri Tennis Academy, where it is personally endorsed
 by Nick
 
-Visit David's Website! [**[Click
-Here!]{.underline}**](http://www.baileytennisfootwork.com/)
+Visit David's Website! [**[!]**](http://www.baileytennisfootwork.com/)
 
-To Contact David directly [**[Click
-Here!]{.underline}**](mailto:david@baileytennisfootwork.com)
+To Contact David directly [**[!]**](mailto:david@baileytennisfootwork.com)

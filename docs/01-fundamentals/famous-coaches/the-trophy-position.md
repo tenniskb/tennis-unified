@@ -16,7 +16,7 @@ serving.
 
 We're excited to have back Jeff as a Tennisplayer contributor!
 
-![](media_the-trophy-position/media/image1.png)
+![link](media_the-trophy-position/media/image1.png)
 
 | ![A person smiling for the camera Description automatically generated with medium | Jeff Salzenstein is the founder of Tennis |
 | --- | --- |

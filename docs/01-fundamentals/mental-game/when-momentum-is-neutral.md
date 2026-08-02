@@ -12,8 +12,7 @@ generated](media_when-momentum-is-neutral/media/image1.webp)
 **Neutral Momentum can produce the most exciting matches.**
 
 So far we've looked at the concept of Momentum, and how to react when
-momentum is with you, and when it is totally with you. ([Click
-Here](http://www.tennisplayer.net/members/mentalgame/mentalgame.html).)
+momentum is with you, and when it is totally with you. ([link](http://www.tennisplayer.net/members/mentalgame/mentalgame.html).)
 In this article, let's look at the third stage of momentum: When
 Momentum is Neutral. Neutral momentum means that things are in the
 balance \--the scales are waiting to be tipped by one player or the
@@ -171,7 +170,7 @@ confidence](media_when-momentum-is-neutral/media/image7.jpeg)
 
 Alistair Higham is the National Manager of Coach Development for the
 LTA, the governing body for tennis in Great Britain. He is the author of
-[Momentum: The Hidden Force in Tennis]{.underline}. Alistair is a former
+[Momentum: The Hidden Force in Tennis]. Alistair is a former
 professional player who continues to compete successfully at the highest
 levels of English regional tennis. He has developed and coached dozens
 of top junior players, and traveled extensively on the international
@@ -191,5 +190,5 @@ own professional career, this book will give you the perspective and the
 tools to create momentum in your own matches and deal with the critical
 turning points that are the difference between winning and losing.
 
-[Click Here to
+[ to
 Order!](http://www.1st4sport.com/1st4sportsite/product/1st4Sport/Tennis/Tennis/sports/Sports/B60401.htm)

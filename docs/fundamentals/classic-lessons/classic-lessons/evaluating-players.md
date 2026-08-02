@@ -4,8 +4,7 @@ In my first article in this series we took on the controversial issue of
 whether a one hander or two hander is somehow \"better,\" and went into
 a detailed discussion of the positives and negatives of both strokes. My
 conclusion was that either stroke can be effective at all levels,
-depending on the player. ([Click
-Here](https://www.tennisplayer.net/members/classiclessons/chris_lewit/one_handed_backhand_part_1)).
+depending on the player. ([link](https://www.tennisplayer.net/members/classiclessons/chris_lewit/one_handed_backhand_part_1)).
 
 Now let's outline an assessment process for players and coaches to help
 in the decision of which to choose. Specifically, what are the

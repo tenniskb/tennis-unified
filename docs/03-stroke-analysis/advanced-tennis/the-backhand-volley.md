@@ -10,33 +10,31 @@ differences.**
 
 How different are the forehand and backhand volleys? It's a fascinating
 and complex question. The fact is that there are fundamental
-similarities and fundamental differences. ([Click
-Here](http://www.tennisplayer.net/members/avancedtennis/john_yandell/volleys/forehand_volley/forehand_volley.html)
+similarities and fundamental differences. ([link](http://www.tennisplayer.net/members/avancedtennis/john_yandell/volleys/forehand_volley/forehand_volley.html)
 for the forehand article.)
 
 We saw on the forehand volley that the shape of the hitting arm was a
 critical component of the technical swing pattern. When it comes to the
 backhand volley this is equally true. **[Understanding the hitting arm
 shape and how to use it is the secret to establishing and mastering the
-stroke.]{.mark}**
+stroke.]**
 
 A second fundamental is also the same on the two volleys. This is **[the
 role of the shoulders and the feet in the preparation, or unit turn,
-that starts the motion.]{.mark}** These factors are interrelated and
+that starts the motion.]** These factors are interrelated and
 happen together.
 
 **Differences**
 
 **[But there are also two fundamental differences between the forehand
-and backhand volleys. The first is the amount of spin.]{.mark}** **[The
-second is the direction of the swing plane.]{.mark}** These differences
+and backhand volleys. The first is the amount of spin.]** **[The
+second is the direction of the swing plane.]** These differences
 have led to a lot of confusion in learning and executing the two
 strokes.
 
 Forehand volleys in pro tennis average less than 1000rpm of spin. But in
 general, the backhand volleys average more than twice that, or over
-2000rpm. ([Click
-Here](http://www.tennisplayer.net/members/mystheavyball/john_yandell/spintest_part2/spintest_part2.html).)
+2000rpm. ([link](http://www.tennisplayer.net/members/mystheavyball/john_yandell/spintest_part2/spintest_part2.html).)
 
 ![A person playing tennis Description automatically
 generated](media_the-backhand-volley/media/image2.webp)
@@ -44,7 +42,7 @@ generated](media_the-backhand-volley/media/image2.webp)
 **The backhand volley: more spin and a more downward swing plane.**
 
 **[The spin differential is directly related to the second difference,
-the angle of the swing plane.]{.mark}** The swing plane on the forehand
+the angle of the swing plane.]** The swing plane on the forehand
 volley is flatter, more in line with the direction of the shot. But the
 swing plane on the backhand volley is normally more sharply downward.
 Because of this, in some ways, the feeling of the two shots can be very
@@ -111,7 +109,7 @@ confidence](media_the-backhand-volley/media/image8.webp)
 Many knowledgeable observers argue, however, **[that the top players
 actually use different grips at the net, shifting how they hold the
 racket at least slightly from ball to ball, and it's probably true.
-It's just difficult or impossible to see in the video.]{.mark}**
+It's just difficult or impossible to see in the video.]**
 
 Would it make sense to rotate the hand a little more toward the top to
 hit a shoulder high, relatively flat backhand volley? Yes. Or go the
@@ -188,8 +186,7 @@ position the racket.
 It's easiest to see the U shape when the forearm is parallel to the
 court or close to it. But if you study the examples in the high speed
 archive, you'll see this shape around the contact on virtually every
-pro backhand volley. ([Click
-Here](http://www.tennisplayer.net/members/high_speed_archive/volleys/backhand_volley/backhand_volley_1_high_speed.html).)
+pro backhand volley. ([link](http://www.tennisplayer.net/members/high_speed_archive/volleys/backhand_volley/backhand_volley_1_high_speed.html).)
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -369,7 +366,7 @@ combination of the angle of the racket face, the angle of the swing
 plane, and the force of the ball at contact, can cause the racket face
 to deflect. But let this happen naturally if at all. The underspin is
 coming from the swing plane and the angle of the racket face at
-contact.]{.mark}**
+contact.]**
 
 So there we have the elements in the basic backhand volley. **The
 foundation is understanding how to set up and move the hitting arm

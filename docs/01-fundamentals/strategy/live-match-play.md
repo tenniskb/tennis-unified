@@ -10,19 +10,16 @@ confidence](media_live-match-play/media/image1.webp)
 **Find ways to bring your top shot into play!**
 
 Over the course of this series, we've developed a full understanding of
-your game, ([Click Here](The%20Elements%20of%20Game%20Style.docx))
+your game, ([link](The%20Elements%20of%20Game%20Style.docx))
 including your favorite shots, your top shot, and sequences that could
 enable you to set up your top shot with another pre-selected shot.
-([Click
-Here.](Marginal%20Gains%20-%20Top%20Shots%20and%20Set%20Up%20Shots.docx))
+([link](Marginal%20Gains%20-%20Top%20Shots%20and%20Set%20Up%20Shots.docx))
 
 Also, we identified your preferred cross-court pattern based on this
-overall understanding. ([Click
-Here.](Are%20You%20a%20Right%20Side%20or%20Left%20Side%20Player.docx))
+overall understanding. ([link](Are%20You%20a%20Right%20Side%20or%20Left%20Side%20Player.docx))
 We also covered a number of training exercises that would allow you to
 hone these skills and sequences, so that you would be better able to
-rely on using them in live matches. ([Click
-Here.](Enhancing%20Your%20Training%20and%20Practice.docx))
+rely on using them in live matches. ([link](Enhancing%20Your%20Training%20and%20Practice.docx))
 
 So, let's now look at live matches, specifically when rallies start to
 develop. We've already covered the various start of point scenarios and

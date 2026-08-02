@@ -13,7 +13,7 @@ elbow and at the wrist. This month we look at the rare, more
 controversial hitting arm structure - the straight elbow hitting arm
 position - that a select few pro players use.
 
-![](media_john-yandell-your-forehand-and-the-modern-forehand-hitting-arm-positions-the-double-bend/media/image1.png)
+![link](media_john-yandell-your-forehand-and-the-modern-forehand-hitting-arm-positions-the-double-bend/media/image1.png)
 
   --------------------------------------------------
 

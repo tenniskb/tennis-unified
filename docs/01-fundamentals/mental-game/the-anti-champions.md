@@ -124,7 +124,7 @@ silence. In hindsight this may not have been my finest hour, but I
 wanted to make a point.
 
   -------------------------------------------------------------------------------------------------------------------------------------------------------------
-   ![](media_the-anti-champions/media/image3.jpg)
+   ![link](media_the-anti-champions/media/image3.jpg)
   -------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                     **When Sampras lost his coach, the Gladiators laughed.**
 

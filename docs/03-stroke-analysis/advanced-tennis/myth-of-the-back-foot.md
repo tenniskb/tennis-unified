@@ -63,7 +63,7 @@ players upward and into the air toward the ball.***
 ***[Watch how the body natural explodes upward to the ball with the
 energy passing from the legs to the torso. The body is in line with
 itself and moving upward toward the ball as a unit. The natural landing
-from this trajectory is on the front foot.]{.mark}***
+from this trajectory is on the front foot.]***
 
 ***The kick back is critical to a balanced landing. In this respect,
 the back leg serves as a counterweight. It's backward movement counter
@@ -322,7 +322,7 @@ tossing arm.
 want to start the bend-when the tossing arm starts upward. Players are
 often taught to start the bend as the tossing arm drops, but they tend
 to develop a kind of double pump, in which they bend, but then come up,
-and then try to bend again.]{.mark}***
+and then try to bend again.]***
 
 ***The exact timing of the knee bend is related to the height of the
 toss. It's also related to the depth of the knee bend, the amount of
@@ -355,21 +355,21 @@ right timing.
 you need to toss higher to avoid feeling rushed.***
 
 ***[[The key to the timing is to feel relaxed and to maximize your knee
-bend when you reach the so-called \"trophy\" or power position.]{.mark}
+bend when you reach the so-called \"trophy\" or power position.]
 [Your knee bend should reach the deepest point when your tossing arm is
 fully extended and your racquet is pointing more or less directly
-upwards.]{.mark}]{.underline}***
+upwards.]]***
 
 **[It's important to note how top players keep some of their weight
 back, or on their back foot at this point. In the trophy position it is
 inevitable that most of the weight is on the front foot, but note that
 both Pete and Agassi keep the back foot mainly on the court surface.
 Some percentage of their weight is still on that foot as they start to
-uncoil.]{.mark}**
+uncoil.]**
 
 ***[Having this particular weight distribution at the bottom of the knee
 bend seems to play an important role in maximizing the transfer of
-energy into the ball at impact.]{.mark}*** You can develop this by
+energy into the ball at impact.]*** You can develop this by
 focusing on the feeling of contact with the court with the back foot.
 You actually have the sensation of keeping part of your weight \"back.\"
 You can feel it pressing down somewhat on the court. You'll probably
@@ -389,7 +389,7 @@ your natural service motion.
 ***[As you move the racquet through the swing pattern you'll naturally
 uncoil the legs and come up off the ground, making contact in the air
 over the court. As you leave the ground, just give that back leg a
-little \"kick\" back away from you at about 45 degrees.]{.mark}***
+little \"kick\" back away from you at about 45 degrees.]***
 
 Practice incorporating this into the whole service motion until you can
 make a balanced landing on the front foot. Your torso should be more or
@@ -406,7 +406,7 @@ hard though, because rather than trying to muscle the motion with your
 arm, you're using the larger muscle groups to increase your leverage.
 You will probably notice the difference in the quality of the ball you
 produce-and so will your opponents. Just be careful not to try too
-hard.]{.mark}***
+hard.]***
 
 This coiling and uncoiling of the legs helps explain how Sampras serves
 consistently great percentages and always seems to come up with a big

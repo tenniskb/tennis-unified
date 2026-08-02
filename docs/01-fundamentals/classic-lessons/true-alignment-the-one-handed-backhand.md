@@ -12,8 +12,7 @@ confidence](media_true-alignment-the-one-handed-backhand/media/image1.webp)
 
 When it comes to true alignment on the one-handed backhand, the
 principles are structurally similar to the two-hander. If anything, the
-alignment of the hips is even more important. ([Click
-Here](True%20Alignment%20The%20Two%20Handed%20Backhand.docx) for True
+alignment of the hips is even more important. ([link](True%20Alignment%20The%20Two%20Handed%20Backhand.docx) for True
 Alignment on the Two-Hander.)
 
 **There is much less body rotation in the forward swing on the one
@@ -93,8 +92,7 @@ stroke. It causes over rotation of the body and reduces power by making
 the swing line much less linear.
 
 As John Yandell's research shows, at the pro level, most one-handers,
-as with two handers are hit with closed stances. ([Click
-Here](../../Stroke%20Analysis/Advanced%20Tennis/The%20myth%20of%20the%20Recovery%20Step%20-%20Backhand.docx).)
+as with two handers are hit with closed stances. ([link](../../Stroke%20Analysis/Advanced%20Tennis/The%20myth%20of%20the%20Recovery%20Step%20-%20Backhand.docx).)
 Closed stance allows a bit more body turn in the set up.
 
 This is advanced hitting and not what I recommend for club players. It
@@ -130,8 +128,7 @@ confidence](media_true-alignment-the-one-handed-backhand/media/image6.webp)
 behind the player.**
 
 Another more advanced use of True Alignment is on what David Bailey
-calls the Front Foot Hop. ([Click
-Here](https://www.tennisplayer.net/members/footwork/david_bailey/golden_moves/second_golden_move/).)
+calls the Front Foot Hop. ([link](https://www.tennisplayer.net/members/footwork/david_bailey/golden_moves/second_golden_move/).)
 
 **The hop on the front foot is forward towards the net more than
 simply up in the air. This pushes the body through the ball with more

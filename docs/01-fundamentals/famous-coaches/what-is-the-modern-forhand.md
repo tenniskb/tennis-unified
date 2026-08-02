@@ -24,7 +24,7 @@ impact height, a different preparation and followthrough, and variable
 racket head speeds. We see all these differences reflected in the path
 of the racquet, especially in the followthrough.**
 ***[This is why the forehands can look so different, and observing pro
-tennis can create confusion.]{.mark}*** **However, once you understand
+tennis can create confusion.]*** **However, once you understand
 how the players are responding to a given ball, the technical
 differences in the motions become clear.** You can
 learn to see the technical solutions they find to overcome tactical
@@ -59,20 +59,20 @@ deliver a topspin forehand. You'll see them all if you watch a match
 between any of today's top players. We call these the seven shot types:
 
 **The arc** is hit ***[about 4 racquet widths over the net with moderate
-topspin]{.mark}***. **The arc is used to move the opponent around the
+topspin]***. **The arc is used to move the opponent around the
 court, or hit to a weakness.**
 
 **The loop** is a variation of the arc, ***[hit 2 or 3 times higher over
-the net]{.mark}***, ***[with heavy topspin.]{.mark}*** **The result is
+the net]***, ***[with heavy topspin.]*** **The result is
 a fast, high bouncing ball, often played to the
 backhand.**
 
 **The topspin lob** is an ***[offensive shot hit over a net player's
-head]{.mark}.*** **Heavy spin drops the ball quickly after it reaches
+head].*** **Heavy spin drops the ball quickly after it reaches
 its peak.**
 
 **The drive** is a ***[fast, penetrating shot hit with topspin, but with
-a flatter trajectory than the arc.]{.mark}*** **The ball is quick
+a flatter trajectory than the arc.]*** **The ball is quick
 through the air and difficult to reach when hit into an
 opening.**
 
@@ -83,16 +83,16 @@ confidence](media_what-is-the-modern-forhand/media/image3.webp)
 **The \"bender\", a trademark shot of Pete Sampras.**
 
 **The bender** is typically ***[hit on the run from a low contact
-point.]{.mark}*** **It has a combination of topspin and sidespin,
+point.]*** **It has a combination of topspin and sidespin,
 causing the ball to \"bend\" inwards (curving from right to left for a
 right-handed player).**
 
 **The dip drive** is hit ***[from a high contact point, usually around
-shoulder level, and driven down into the court.]{.mark}* It's an
+shoulder level, and driven down into the court.]* It's an
 offensive shot hit with power and spin.**
 
 **The angle** is hit ***[cross court with a low trajectory and heavy
-spin.]{.mark}*** **It lands short and is used to open the court, and
+spin.]*** **It lands short and is used to open the court, and
 also on a passing shot.**
 
 That's just a brief overview and, obviously, there is a lot more to say
@@ -110,7 +110,7 @@ generated](media_what-is-the-modern-forhand/media/image4.webp)
 **Andre moving to the right: the \"right- right\" footwork.**
 
 **[Understanding the variations is made more complex because of the
-footwork patterns that can be used to hit them]{.mark}**. Again there
+footwork patterns that can be used to hit them]**. Again there
 are several variations. **Most of the above 7 shot types can be hit
 while moving in any direction: to the left, right, forward, backward, or
 some combination of these (for example both forward and to the
@@ -125,9 +125,9 @@ Watch in the Agassi animation how Andre is moving to the right as he
 hits. ***[This requires a footwork pattern, we call the \"right-right\".
 Here players initiate the shot pushing off their right foot, but also
 land on the right foot to stop their sideways momentum and begin their
-recovery.]{.mark}***
+recovery.]***
 
-![](media_what-is-the-modern-forhand/media/image5.webp)
+![link](media_what-is-the-modern-forhand/media/image5.webp)
 
 **Roddick moving to the left: the \"right-left\" footwork.**
 
@@ -137,14 +137,14 @@ shot.** This requires a different footwork pattern
 we call the \"right-left\". ***[Again the players initiate the shot
 pushing off their right foot. The difference is that they land on their
 left foot to stop their sideways momentum and initiate their
-recovery.]{.mark}*** (For left-handed players, the above footwork
+recovery.]*** (For left-handed players, the above footwork
 patterns would of course be \"left-left\" when moving to the left, and
 \"left-right\" when moving to the right.)
 
 **Grips**
 
 **[The racket path for a shot can vary with the grip the player is
-using.]{.mark}** This is especially noticeable in the finish
+using.]** This is especially noticeable in the finish
 (followthrough). You can actually hit a modern forehand with a grip
 anywhere between an eastern and a full western. Many top players on the
 pro tour today use what is called a semi-western grip (e.g., Hewitt,
@@ -158,9 +158,9 @@ grip, although Pete Sampras' hybrid grip came the closest. **[It is
 also worth pointing out that top players sometimes modify their grips
 slightly as the situation requires, for example [rotating the racquet
 hand slightly in the western direction for very high impact points or
-when delivering extreme topspin.]{.underline}]{.mark}**
+when delivering extreme topspin.]]**
 
-![](media_what-is-the-modern-forhand/media/image6.webp)
+![link](media_what-is-the-modern-forhand/media/image6.webp)
 
 **Grips have a large influence on where the players finish the
 forehand.**
@@ -214,9 +214,9 @@ Federer, both returning a fast first serve.
 **Impact Height**
 
 Finally, the **[[racquet path can vary with the height of the impact
-point. With]{.mark} [modern technique, players can hit aggressive
+point. With] [modern technique, players can hit aggressive
 forehands from low, medium and high impact points \-- all the way from
-shin to head level.]{.mark}]{.underline}** When time permits, players
+shin to head level.]]** When time permits, players
 can even choose the height of their impact point simply by moving
 forward or backward on the court. In general, higher impact points
 require higher racquet preparations, while lower impact points require
@@ -249,7 +249,7 @@ hitting a drive, an arc, a loop, a dip drive\...?**
 **[What kind of grip is the player using? What direction are they moving
 to meet the ball? What kind of ball are they receiving, and what's the
 height of the impact point they've selected? [No player on the pro tour
-has a single forehand!]{.underline}]{.mark}**
+has a single forehand!]]**
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -309,8 +309,7 @@ start down this path, you'll never look back!
                                                                                                                                                                         with the knowledge required to teach and play
                                                                                                                                                                         modern tennis successfully. Two DVDs are now
                                                                                                                                                                         available, the first in a new series on teaching
-                                                                                                                                                                        and playing the modern game. ([Click
-                                                                                                                                                                        Here.](http://www.moderntennis.com)) Anyone
+                                                                                                                                                                        and playing the modern game. ([link](http://www.moderntennis.com)) Anyone
                                                                                                                                                                         wishing to contact the authors can also do so
                                                                                                                                                                         directly through their website.
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------- --------------------------------------------------

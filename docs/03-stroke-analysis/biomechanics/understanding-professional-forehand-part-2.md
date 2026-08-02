@@ -9,11 +9,11 @@ Forehands**
 
 In my previous article (Four Pillars of the ATP Type III Forehand) I
 presented a \"best practice\" guide for hitting a forehand based on my
-research and work on the court. [Click Here](https://www.tennisplayer.net/members/biomechanics/brian_gordon/four_pillars_atp_type_iii/)
+research and work on the court. [link](https://www.tennisplayer.net/members/biomechanics/brian_gordon/four_pillars_atp_type_iii/)
 In the first article of this two-part series for the September issue, I
 covered concepts not addressed in that presentation. Specifically, I
 discussed the backswing and the implication of a bent elbow in the
-forward swing. [Click Here](https://www.tennisplayer.net/members/biomechanics/brian_gordon/understanding_professional_forehands/part_01)
+forward swing. [link](https://www.tennisplayer.net/members/biomechanics/brian_gordon/understanding_professional_forehands/part_01)
 
 The Four Pillars article, combined with the concepts from Part 1 of this
 article, should provide a mechanical framework to better understand many
@@ -47,7 +47,7 @@ differences in terms of the grips, the backswings, and the finishes.
 Based on the core mechanics, however, these forehands are very similar
 by my definition.
 
-![](media_understanding-professional-forehand-part-2/media/image1.png)
+![link](media_understanding-professional-forehand-part-2/media/image1.png)
 
 **The ATP Classical Forehand**
 
@@ -66,7 +66,7 @@ bent elbow which is the most significant difference. Interestingly, in a
 recent video (Western and Southern practice) he appears to have changed
 his forehand in important ways including the elbow angle.
 
-\`![](media_understanding-professional-forehand-part-2/media/image2.png)
+\`![link](media_understanding-professional-forehand-part-2/media/image2.png)
 
 **The ATP Modern Forehand**
 
@@ -86,7 +86,7 @@ the pure modern type is far too complicated, cumbersome and potentially
 dangerous. I believe it will be short-lived and I would not teach it to
 my players.
 
-![](media_understanding-professional-forehand-part-2/media/image3.png)
+![link](media_understanding-professional-forehand-part-2/media/image3.png)
 
 **The WTA Type II Forehand**
 
@@ -107,7 +107,7 @@ suited for hitting hard and flat (little variability) and does not have
 great solutions for certain incoming shots like higher balls. Halep is
 included here as a high contact example.
 
-![](media_understanding-professional-forehand-part-2/media/image4.png)
+![link](media_understanding-professional-forehand-part-2/media/image4.png)
 
 **Summary Table**
 
@@ -159,8 +159,8 @@ based on the previous articles are summarized below:
 |  | knowledge across the entire range of tennis performance. |
 |  |  |
 |  | To visit his website, [**[Click |
-|  | Here!]{.underline}**](https://tennisperformanceresearch.com/) |
+|  | Here!]**](https://tennisperformanceresearch.com/) |
 |  |  |
 |  | Top contact him directly, [**[Click |
-|  | Here!]{.underline}**](mailto:gamabrian@icloud.com) |
+|  | Here!]**](mailto:gamabrian@icloud.com) |
 

@@ -110,9 +110,9 @@ Without his ability to run at full tilt, the under-gunned little
 scrambler seemed to be finished. What would be the use of fighting on
 with this apparently terminal disadvantage?
 
-![](media_the-value-of-optimism-michael-chang/media/image4.wmf)
+![link](media_the-value-of-optimism-michael-chang/media/image4.wmf)
 
-Click Here to see Chang's underhand serve that unnerved Ivan Lendl.
+ to see Chang's underhand serve that unnerved Ivan Lendl.
 
 But again Chang was not being asked to risk money on an improbable bet.
 There was no downside for him in maintaining hope.
@@ -199,7 +199,7 @@ Visit him at [www.allenfoxtennis.net](http://www.allenfoxtennis.net)
 |  | stress, finishing matches, and developing confidence. Based on a life time of high level play and coaching success, |
 |  | it's a must for all competitive players. |
 |  |  |
-|  | [Click Here to |
+|  | [ to |
 |  | Order](http://www.amazon.com/Tennis-Winning-Mental-Allen-Fox/dp/0615407765/ref=sr_1_1?ie=UTF8&qid=1336083459&sr=8-1). |
 
 
@@ -222,7 +222,7 @@ Visit him at [www.allenfoxtennis.net](http://www.allenfoxtennis.net)
 |  | outline how to confront and overcome these fears in your |
 |  | life and career, even when they are initially subconscious. |
 |  | Must reading from one of the great thinkers in tennis, and |
-|  | a Renaissance Man in life. [Click Here to |
+|  | a Renaissance Man in life. [ to |
 |  | Order](http://www.tennis-warehouse.com/descpage-MIND.html). |
 |  |  |
 |  | To purchase this book you can also send a check for \$17.95 |

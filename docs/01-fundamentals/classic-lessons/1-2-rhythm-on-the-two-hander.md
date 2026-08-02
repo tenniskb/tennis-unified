@@ -6,7 +6,7 @@
 
 ------------------------------------------------------------------------
 
-In my first article ([Click Here](1-2%20Rhythm%20-%20Forehand.docx)) we
+In my first article ([link](1-2%20Rhythm%20-%20Forehand.docx)) we
 saw how to develop 1-2 Rhythm on the forehand. Now let's turn to the
 two-hander.
 

@@ -9,8 +9,7 @@
 In this series of articles, we are looking at adult tennis and the paths
 to improve and enjoy the game the most. In the first part we looked at
 the surprisingly wide range of opportunities to compete and even travel
-internationally. ([Click
-Here](On%20Your%20Mark,%20Get%20Set,%20Go%20Slow.docx).)
+internationally. ([link](On%20Your%20Mark,%20Get%20Set,%20Go%20Slow.docx).)
 
 Now let's turn our attention to game improvement, and the critical role
 of drill games. Although this article is directed to adults, the

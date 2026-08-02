@@ -8,8 +8,7 @@ I had always believed that the two-handed backhand was the simplest shot
 in tennis, like a left handed forehand, but without all the confusing
 differences in grips and finishes. I've spent a lot of time on the
 court teaching the stroke that way, and I've written about the
-mechanics in my book Visual Tennis, and also on Tennisplayer. ([Click
-Here](http://www.tennisplayer.net/members/avancedtennis/john_yandell/the_myth/the_myth_of_the_wrist_backhand_images/the_myth_of_the_wrist_backhand.html).)
+mechanics in my book Visual Tennis, and also on Tennisplayer. ([link](http://www.tennisplayer.net/members/avancedtennis/john_yandell/the_myth/the_myth_of_the_wrist_backhand_images/the_myth_of_the_wrist_backhand.html).)
 
 I say \"had\" always believed, because I no longer think that's the
 case. After extensive study of Advanced Tennis high speed footage of pro

@@ -6,9 +6,7 @@
 
 The further I dove into my research, the more I began to wonder what
 some of the invisible ingredients are that motivate players to work so
-hard and sacrifice so much to achieve their goals? ([Click
-Here](Invisible%20Greatness.docx) for Part 1 in this series. [Click
-Here](Fitness,%20Diet,%20and%20the%20Open%20Mind.docx) for Part 2.)
+hard and sacrifice so much to achieve their goals? ([link](Invisible%20Greatness.docx) for Part 1 in this series. [link](Fitness,%20Diet,%20and%20the%20Open%20Mind.docx) for Part 2.)
 
 ![A person wearing sunglasses Description automatically generated with
 medium

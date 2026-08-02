@@ -7,14 +7,14 @@
 **What are the pitfalls in building the Spanish forehand?**
 
 In the previous articles in this series, we've looked at the technical
-characteristics of the modern Spanish forehand. ([**Click Here**](https://www.tennisplayer.net/members/classiclessons/chris_lewit/the_spanish_forehand/)).
+characteristics of the modern Spanish forehand. ([**link**](https://www.tennisplayer.net/members/classiclessons/chris_lewit/the_spanish_forehand/)).
 We've also looked at a range of innovative drills I have developed
 based on my study with some of the greatest coaches in Spain.
 
 These have included Spanish hand fed ball drills that are becoming
-increasingly popular with high performance coaches worldwide ([**Click Here**](https://www.tennisplayer.net/members/classiclessons/chris_lewit/building_the_spanish_forehand_racket_speed/)),
+increasingly popular with high performance coaches worldwide ([**link**](https://www.tennisplayer.net/members/classiclessons/chris_lewit/building_the_spanish_forehand_racket_speed/)),
 as well a series of unique racket fed and power building drills
-([**Click Here**](https://www.tennisplayer.net/members/classiclessons/chris_lewit/building_the_spanish_forehand_exercises/)).
+([**link**](https://www.tennisplayer.net/members/classiclessons/chris_lewit/building_the_spanish_forehand_exercises/)).
 
 The goal of this series has been to help players at all levels develop
 not only sound technique, but world class racket speed. This is what
@@ -43,7 +43,7 @@ that the focus should be on developing whip and racket speed, utilizing
 the whole kinetic chain of the body and maximizing upper arm, forearm,
 and hand speed in developing the swing.
 
-![](media_common-pitfalls-in-spanish-forehand/media/image3.jpg) ![A close-up of a person's arm](media_common-pitfalls-in-spanish-forehand/media/image4.jpg)
+![link](media_common-pitfalls-in-spanish-forehand/media/image3.jpg) ![A close-up of a person's arm](media_common-pitfalls-in-spanish-forehand/media/image4.jpg)
 
 **The range of grips I advocate - basically from Roger to Rafa.Developing Heavy Spin Only**
 
@@ -124,7 +124,7 @@ relationship between the body turn and the timing of the backswing. In
 my opinion, traditional coaches can kill racket speed by forcing players
 to take the racket back too early with independent arm motion. As
 discussed in the first article, I believe that what I call the
-hold-rhythm is key to developing maximum whip. ([**Click Here**](https://www.tennisplayer.net/members/classiclessons/chris_lewit/the_spanish_forehand/).)
+hold-rhythm is key to developing maximum whip. ([**link**](https://www.tennisplayer.net/members/classiclessons/chris_lewit/the_spanish_forehand/).)
 
 **Beautiful Technique without Power**
 
@@ -189,7 +189,7 @@ moving around the backhand to control points.
 I teach my students the kick serve along with a modern Spanish forehand
 and link the tactical discussion to both shots. The kick serve often
 sets up the big Spanish forehand at the top junior and professional
-level. (For my series on developing this serve, [**Click Here**](https://www.tennisplayer.net/members/classiclessons/chris_lewit/keys_to_the_kick/keys_to_the_kick_page1.html).)
+level. (For my series on developing this serve, [**link**](https://www.tennisplayer.net/members/classiclessons/chris_lewit/keys_to_the_kick/keys_to_the_kick_page1.html).)
 
 ![A person playing tennis](media_common-pitfalls-in-spanish-forehand/media/image11.webp)
 
@@ -236,7 +236,7 @@ on the fall. Learning only to take the ball early will kill the
 development of a heavy topspin ball.
 
 In previous articles I have written how important it is to develop an
-attacking on-the-rise component in every player's game. ([**Click Here**](https://www.tennisplayer.net/members/high_performance/chris_lewit/two_coaches_two_styles/).)
+attacking on-the-rise component in every player's game. ([**link**](https://www.tennisplayer.net/members/high_performance/chris_lewit/two_coaches_two_styles/).)
 But the other half of complete development is the ability to step back
 and let the ball drop into the strike zone.
 

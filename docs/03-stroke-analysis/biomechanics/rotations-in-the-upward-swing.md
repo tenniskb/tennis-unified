@@ -6,8 +6,7 @@
 
 In Part 2 of Brian's new series on Teaching the Serve, he explains to
 maximize the forward somersault rotation he talked about in Part 1
-([Click
-Here](file:///C:\Users\moosh\OneDrive\Documents\tennisplayer.net\Stroke%20Analysis\Biomechanics\The%20Serve%20-%20Twist%20Rotation%20Versus.docx)),
+([link](file:///C:\Users\moosh\OneDrive\Documents\tennisplayer.net\Stroke%20Analysis\Biomechanics\The%20Serve%20-%20Twist%20Rotation%20Versus.docx)),
 two things need to happen. First, perfect synchronization of the upper
 and lower body. Second, the complicated sequence of rotations in the
 upward swing.
@@ -16,7 +15,7 @@ These rotations happen in 1/10th of a second and cannot be manually
 manipulated. See Brian explain these rotations and begin to show players
 how to achieve them naturally and automatically.
 
-![](media_rotations-in-the-upward-swing/media/image1.wmf)
+![link](media_rotations-in-the-upward-swing/media/image1.wmf)
 
 | ![A person holding a tennis racket Description automatically | Dr. Brian Gordon has changed the understanding of the |
 | --- | --- |
@@ -30,8 +29,8 @@ how to achieve them naturally and automatically.
 |  | knowledge across the entire range of tennis performance. |
 |  |  |
 |  | To visit his website, [**[Click |
-|  | Here!]{.underline}**](https://tennisperformanceresearch.com/) |
+|  | Here!]**](https://tennisperformanceresearch.com/) |
 |  |  |
 |  | Top contact him directly, [**[Click |
-|  | Here!]{.underline}**](mailto:gamabrian@icloud.com) |
+|  | Here!]**](mailto:gamabrian@icloud.com) |
 

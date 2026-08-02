@@ -30,8 +30,7 @@ improves results in competitive matches - in fact the opposite.
 That negative experience can actually bias players against trying to
 improve technique in the long run. I feel that basic technical
 restructuring has to happen outside the competitive cycle. (For a great
-article on overhead mechanics by Kerry Mitchell, [Click
-Here](The%20Overhead.docx).)
+article on overhead mechanics by Kerry Mitchell, [link](The%20Overhead.docx).)
 
 ![A person playing tennis](media_is-it-the-overhead-or-the-in-front-of-head/media/image2.webp)
 

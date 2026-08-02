@@ -3,16 +3,14 @@
 # John Yandell 
 
 What should you watch for when you study the great one-handers play? In
-past Osmosis articles we've looked at the forehand [(Click
-Here)](John%20Yandell-The%20Osmosis%20Forehand%20.docx) and the
-two-handed backhand [(Click
-Here)](John%20Yandell-The%20Osmosis%20Clinic-Backhand.docx).
+past Osmosis articles we've looked at the forehand [link](John%20Yandell-The%20Osmosis%20Forehand%20.docx) and the
+two-handed backhand [link](John%20Yandell-The%20Osmosis%20Clinic-Backhand.docx).
 
 Now let's look at the one-handed backhand, including the similarities
 and differences in the classic and extreme styles. Check it out in one
 of our new audio/video segments below!
 
-![](media_john-yandell-the-osmosis-clinic-one-handed-backhand/media/image1.png)
+![link](media_john-yandell-the-osmosis-clinic-one-handed-backhand/media/image1.png)
 
   -----------------------------------------------------------------------
 

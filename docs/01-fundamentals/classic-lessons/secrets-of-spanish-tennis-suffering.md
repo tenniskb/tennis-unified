@@ -118,8 +118,8 @@ In the 1980s, legendary Spanish coaches like Lluis Bruguera and Pato
 Alvarez anticipated the trend towards serious physical training for
 tennis at a time when most tennis players just played sets and practiced
 with very little in the way an of an off-court conditioning regimen.
-([Click Here](https://www.tennisplayer.net/members/famouscoach/famouscoach.html) to
-read a series of interviews with Luis. [Click Here](https://www.tennisplayer.net/members/high_performance/chris_lewit/two_coaches_two_styles/) to
+([link](https://www.tennisplayer.net/members/famouscoach/famouscoach.html) to
+read a series of interviews with Luis. [link](https://www.tennisplayer.net/members/high_performance/chris_lewit/two_coaches_two_styles/) to
 learn more about Pato.)
 
 ![A person playing tennis Description automatically generated with

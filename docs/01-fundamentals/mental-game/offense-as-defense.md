@@ -241,15 +241,12 @@ they behave on the court.
 
 Have you worked through your own rituals about how you are going to
 think, and walk, and prepare between points and between games? How you
-are going to deal with cheating and/or annoying behavior? ([Click
-Here](How%20to%20Deal%20with%20Bad%20Calls.docx) to read my approach to
+are going to deal with cheating and/or annoying behavior? ([link](How%20to%20Deal%20with%20Bad%20Calls.docx) to read my approach to
 dealing with bad line calls.)
 
 There are great articles about all of this on the site from Allen Fox
-([Click Here](Overcoming%20Choking.docx)), Jim Loehr ([Click
-Here](http://www.tennisplayer.net/members/mentalgame/jim_loehr/jim_loehr_16_second_cure_prt2_images/jim_loehr_16_second_cure_prt2.html)),
-and even John McEnroe ([Click
-Here](http://www.tennisplayer.net/members/famouscoach/john_mcenroe/john_mcenroe_mental_game_images/john_mcenroe_mental_game.html)).
+([link](Overcoming%20Choking.docx)), Jim Loehr ([link](http://www.tennisplayer.net/members/mentalgame/jim_loehr/jim_loehr_16_second_cure_prt2_images/jim_loehr_16_second_cure_prt2.html)),
+and even John McEnroe ([link](http://www.tennisplayer.net/members/famouscoach/john_mcenroe/john_mcenroe_mental_game_images/john_mcenroe_mental_game.html)).
 Having great mental defenses and the ability to counterattack when
 necessary are at least as important as a good approach shot.
 
@@ -286,7 +283,7 @@ discharge from the band of tennis brothers (and sisters.)
 |  | horrifying potential dangers in junior tournament tennis. With a forward |
 |  | by Dr. Allen Fox. |
 |  |  |
-|  | [Click Here to |
+|  | [ to |
 |  | Order!](http://www.amazon.com/First-Field-Two-Junior-Tennis/dp/1467558370) |
 
 

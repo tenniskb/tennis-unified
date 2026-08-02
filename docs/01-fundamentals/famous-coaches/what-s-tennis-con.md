@@ -37,13 +37,11 @@ This is its second year, founded by Georgia based teaching pro Peter
 Freeman. He is a youtube presence but unlike many of those guys he
 actually works regularly on the court with students from the college
 level on down. He is also the man behind the John Newcombe fascinating
-piece in our mental game section, the Two Minds. ([Click
-Here](https://www.tennisplayer.net/members/mentalgame/peter_freeman/newcombe_two_minds/)
+piece in our mental game section, the Two Minds. ([link](https://www.tennisplayer.net/members/mentalgame/peter_freeman/newcombe_two_minds/)
 for that.)
 
 If you have a thirst for tennis knowledge---particularly for
-free---Tennis Con is probably worth checking out. [Click
-Here](https://crunchtimecoaching.com/tennis-thrive/tennis-con-new/) to
+free---Tennis Con is probably worth checking out. [link](https://crunchtimecoaching.com/tennis-thrive/tennis-con-new/) to
 sign up if that sounds interesting. And, if you do, post your review in
 the Forum please.
 

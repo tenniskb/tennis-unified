@@ -91,9 +91,9 @@ non-linear understanding and instruction will move the needle!
 
 **Linear Tips vs Nonlinear Understanding**
 
-**[Ground Strokes: ]{.underline}**
+**[Ground Strokes: ]**
 
-**[Linear: ]{.underline}**
+**[Linear: ]**
 
 "unit turn...low to high...angular momentum...biomechanics...swing your
 back foot around (bad one)...rotate your shoulders...racket head
@@ -103,7 +103,7 @@ stance...point your buttcap at the ball (just wrong)...stay low at
 contact...stand up at contact...point your elbow at the target at follow
 through (dumb)...recover...load up (really dumb)."
 
-**[[Non-Linear:]{.mark} ]{.underline}**
+**[[Non-Linear:] ]**
 
 1\. Understand that **the 45º angle to the net is the optimal hitting
 point and balance point of every stroke in the game (except the "kick"
@@ -119,7 +119,7 @@ motions (and no loading up!)
 waveform** that is beautiful, easy to reproduce,
 controlled, powerful and relatively effortless. 
 
-**[Volleys: ]{.underline}**
+**[Volleys: ]**
 
 **Linear Tips:** "step and punch...lay wrist back...lock arm
 straight...block...short swing...no swing..." (Other than these pros

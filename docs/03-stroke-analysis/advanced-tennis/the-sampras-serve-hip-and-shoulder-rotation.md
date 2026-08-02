@@ -8,7 +8,7 @@ confidence](media_the-sampras-serve-hip-and-shoulder-rotation/media/image1.webp)
 
 **What actually happens when the torso rotates in elite serving?**
 
-[What is the role of torso rotation in the serve?]{.mark} Without doubt
+[What is the role of torso rotation in the serve?] Without doubt
 it is one of the most varied elements among top servers, and also, one
 of the biggest differences between the men and women on the tour.
 
@@ -20,16 +20,14 @@ Many other top players turn far less including players from Greg
 Rusedski to Novak Djokovic to Rafael Nadal. And on the women's side,
 with few exceptions, the turn is usually very limited. This is in fact a
 possible explanation for the serving problems of some top players.
-([Click
-Here](https://www.tennisplayer.net/members/your_strokes/2009/jelena_jankovic_serve/jelena_jankovic_serve.html)
+([link](https://www.tennisplayer.net/members/your_strokes/2009/jelena_jankovic_serve/jelena_jankovic_serve.html)
 for an analysis of Jelena Jankovic's motion.)
 
 In the first article in this new series, we addressed one of the other
 major disputed issues in pro serving, \"racket head speed,\" a term that
 is thrown around extremely loosely by coaches and commentators, but with
 very little supporting data. How fast is the racket really going in a
-world class serve, and when, and for how long? ([Click
-Here](The%20Sampras%20Serve-Racquet%20Head%20Speed.docx).)
+world class serve, and when, and for how long? ([link](The%20Sampras%20Serve-Racquet%20Head%20Speed.docx).)
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -49,8 +47,7 @@ Brian's work is taking our understanding of the game to a different
 level, not only in his creation of quantified data bases, but in his
 evolving ability to do real time 3D measurements of players at all
 levels. More on all that in the near future. (In the meantime, to see
-Brian's articles on the serve [Click
-Here](https://www.tennisplayer.net/members/biomechanics/scienceofbio.html).)
+Brian's articles on the serve [link](https://www.tennisplayer.net/members/biomechanics/scienceofbio.html).)
 I feel very lucky to be collaborating with him and, through his
 generosity, to have the opportunity to ask some of my own questions of
 this amazing data.
@@ -80,7 +77,7 @@ the course of the motion.
 We'll see in particular **[how the angle between the hips and the
 shoulders changes dramatically in that same critical fraction of a
 second when most of the racket head acceleration occurs-the 1/10th of a
-second between the racket drop and the contact.]{.mark}** Is this an
+second between the racket drop and the contact.]** Is this an
 unrecognized key in developing a high level serve?
 
 Previously, in writing about the topic of body turn on the serve, I've
@@ -143,8 +140,7 @@ Let's start at the beginning of the motion and see.
 
 In his starting position, Pete's entire torso appears to be at about a
 right angle, or 90 degrees to the baseline, as we have noted in previous
-analyses. ([Click
-Here](https://www.tennisplayer.net/members/avancedtennis/john_yandell/sampras_serve/sampras_new_filming_protocols/sampras_new_filming_protocols.html).)
+analyses. ([link](https://www.tennisplayer.net/members/avancedtennis/john_yandell/sampras_serve/sampras_new_filming_protocols/sampras_new_filming_protocols.html).)
 
 Brian's data shows that the hips are actually turned a little further
 away, at 92 degrees to the baseline, or just past perpendicular. The
@@ -211,7 +207,7 @@ actually even.
 **[The bottom line is that when Pete reaches the maximum turn, the hips
 and shoulders have both turned around 70 degrees away from the starting
 position. Again, this is about about halfway through the entire 2 second
-duration of the serve.]{.mark}**
+duration of the serve.]**
 
   -------------------------------------------------------------------------
   **Phase 3**        **Hip      **Shoulder   **Angle        **Duration
@@ -478,15 +474,15 @@ But I think this study does firmly establish a few basic points.
 
 1.  **[Sampras turns away from the ball about 70 degrees from his ready
     position. His back is almost, but not quite parallel to the
-    baseline.]{.mark}**
+    baseline.]**
 
 2.  **[From this maximum turn, his forward torso rotation to the contact
     is well over a hundred degrees. Both the hips and shoulders are
-    still closed at contact.]{.mark}**
+    still closed at contact.]**
 
 3.  **[But in the last instant, when most of the racket speed is
     developing, the rotation of the shoulders surges significantly
-    ahead.]{.mark}**
+    ahead.]**
 
 So obviously, the data is fascinating. It means something that possibly
 the greatest server in tennis history turns so far off the ball. It
@@ -534,7 +530,7 @@ what that information confirms, denies, confuses, or further reveals.
 Stay tuned!
 
 **To view the complete Stroke Archives of Pete Sampras serves,
-[\]{.underline}
+[\]
 [click
 here.](file:///C:\Users\moosh\OneDrive\Documents\tennisplayer.net\Stroke%20Analysis\Advanced%20Tennis\Advanced%20Tennis%20TOC.docx)**
 

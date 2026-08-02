@@ -44,8 +44,7 @@ avoiding a parental scolding, but whatever it is, the player is afraid
 of failing in the attempt.
 
 The practical consequences of failure may be trivial, but to the player
-they feel vital. As we saw in a previous article ([Click
-Here](Why%20Do%20We%20Want%20to%20Win.docx)), our nervous systems are
+they feel vital. As we saw in a previous article ([link](Why%20Do%20We%20Want%20to%20Win.docx)), our nervous systems are
 programmed to feel tennis matches are more important than they really
 are, notwithstanding obvious logic to the contrary. We naturally feel
 fear when we are in this symbolic fight but are uncertain of winning.
@@ -463,7 +462,7 @@ Visit him at [www.allenfoxtennis.net](http://www.allenfoxtennis.net)
 |  | stress, finishing matches, and developing confidence. Based on a life time of high level play and coaching success, |
 |  | it's a must for all competitive players. |
 |  |  |
-|  | [Click Here to |
+|  | [ to |
 |  | Order](http://www.amazon.com/Tennis-Winning-Mental-Allen-Fox/dp/0615407765/ref=sr_1_1?ie=UTF8&qid=1336083459&sr=8-1). |
 
 
@@ -486,7 +485,7 @@ Visit him at [www.allenfoxtennis.net](http://www.allenfoxtennis.net)
 |  | outline how to confront and overcome these fears in your |
 |  | life and career, even when they are initially subconscious. |
 |  | Must reading from one of the great thinkers in tennis, and |
-|  | a Renaissance Man in life. [Click Here to |
+|  | a Renaissance Man in life. [ to |
 |  | Order](http://www.tennis-warehouse.com/descpage-MIND.html). |
 |  |  |
 |  | To purchase this book you can also send a check for \$17.95 |

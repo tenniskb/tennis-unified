@@ -158,8 +158,7 @@ saw in the first two articles. My guess is that it's probably the same
 to see real results from the impact of mental imagery training.
 
 As we saw in the first article, there are at least 3 ways to create
-images in your mind. ([Click
-Here](Understanding%20Mental%20Imagery%20-%20Part%201.docx).)
+images in your mind. ([link](Understanding%20Mental%20Imagery%20-%20Part%201.docx).)
 
 1.  **The first is internal visualization. This is seeing the shots and
     patterns as if you were seeing them through your own eyes.**
@@ -202,11 +201,9 @@ your experience. A well visualized stroke is more vivid and translates
 to better tennis in real matches.
 
 You can improve your imagery by videotaping yourself. There are articles
-on Tennisplayer about how to do this ([Click
-Here](https://www.tennisplayer.net/members/teaching_systems/john_yandell/high_speed_video_analysis/))
+on Tennisplayer about how to do this ([link](https://www.tennisplayer.net/members/teaching_systems/john_yandell/high_speed_video_analysis/))
 and how to compare your technique with high quality models drawn from
-footage of elite pro players. ([Click
-Here](https://www.tennisplayer.net/members/teaching_systems/john_yandell/side_by_side_analysis/).)
+footage of elite pro players. ([link](https://www.tennisplayer.net/members/teaching_systems/john_yandell/side_by_side_analysis/).)
 
 ![A person playing tennis Description automatically
 generated](media_understanding-mental-imagery-part-2/media/image6.webp) ![A person hitting a ball with a tennis
@@ -232,7 +229,7 @@ feel and incorporate those into your practice, off court imagery work,
 and match play. Make this process a core part of your approach to the
 game and take your tennis to a new level.
 
-| ![](media_understanding-mental-imagery-part-2/media/image8.jpeg) | Archie Dan Smith, MD is a retired |
+| ![link](media_understanding-mental-imagery-part-2/media/image8.jpeg) | Archie Dan Smith, MD is a retired |
 | --- | --- |
 |  | physician living in Austin, Texas. Here is |
 |  | how he describes his tennis journey, |

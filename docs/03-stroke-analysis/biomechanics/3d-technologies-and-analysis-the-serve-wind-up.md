@@ -23,21 +23,20 @@ confidence](media_3d-technologies-and-analysis-the-serve-wind-up/media/image1.we
 The implications and potential benefits of quantitative data are vast.
 If you had a chance to examine the dimensions of the interface in the
 first article, I hope you were intrigued by the scope of the information
-now available to evaluate stroke mechanics. ([Click
-Here](3D%20Technologies%20and%20Analysis%20-%20an%20Introduction.docx).)
+now available to evaluate stroke mechanics. ([link](3D%20Technologies%20and%20Analysis%20-%20an%20Introduction.docx).)
 
 **[The question however is what it all means. Vast amounts of new
 information can be overwhelming. It can leave the student and coach
 wondering where to start. I know because I have spent the last several
 years wrestling with the issue as I integrated this powerful new tool
-into my coaching practice.]{.mark}**
+into my coaching practice.]**
 
 Starting this month, I hope to remove some of the potential confusion
 that surrounds an applied 3D approach. We'll do this by beginning to
 break apart the components of the data presentation, and see how they
 apply to an actual player. **[We'll start with the serve. This article
 represents the first in a four part series on what is arguably the most
-important stroke in tennis.]{.mark}**
+important stroke in tennis.]**
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -69,7 +68,7 @@ the most important findings in our quantitative work is that there is no
 than that.
 
   ----------------------------
-  **[4 Phases:]{.underline}**
+  **[4 Phases:]**
   ----------------------------
   1\. Wind Up
 
@@ -153,7 +152,7 @@ the end result of the motion?
 later in the swing. As a result, the motions during the wind up, and
 particularly the positions and angles attained at the end of the wind
 up, can make or break the entire service motion, affecting all the
-components.]{.mark}**
+components.]**
 
 These components include: the arm and racquet path, the foot and leg
 work, and the position of the body. So let's look at each of those in
@@ -226,7 +225,7 @@ styles tend to produce significantly different body positions at the
 conclusion of the wind up, and in some of the key values we measure.
 With the abbreviated wind up, the elbow tends to be lower, the forearm
 tends to point towards the hitting side of the body, and the racquet
-tends to be positioned to the hitting side of the body.]{.mark}**
+tends to be positioned to the hitting side of the body.]**
 
 These are not minor differences. They can profoundly affect the
 transition to the second phase of the serve or the back swing. Although
@@ -260,9 +259,9 @@ Does the racket hesitate and lose speed, or is the transition continuous
 with the racket head speed continuing to build?
 
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-   ![](media_3d-technologies-and-analysis-the-serve-wind-up/media/image7.png)
+   ![link](media_3d-technologies-and-analysis-the-serve-wind-up/media/image7.png)
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                   **[Two transitions: one with increasing, the other decreasing racket head speed.]{.mark}**
+                                                   **[Two transitions: one with increasing, the other decreasing racket head speed.]**
 
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -297,7 +296,7 @@ makes sense, as if asked to jump for maximum height, most athletes will
 naturally position their feet in close proximity.
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-   ![](media_3d-technologies-and-analysis-the-serve-wind-up/media/image8.png)**All things being equal, the foot position affects the direction of the groundforce**.
+   ![link](media_3d-technologies-and-analysis-the-serve-wind-up/media/image8.png)**All things being equal, the foot position affects the direction of the groundforce**.
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -337,7 +336,7 @@ between pinpoint and platform holds regardless of the relative distance
 between the feet.
 
 **[But the platform stance has to be subdivided into narrow and wide
-designations, depending on the distance between the feet.]{.mark}** By
+designations, depending on the distance between the feet.]** By
 this designation, both Roger Federer (wide) and Andy Roddick (narrow)
 are platform servers.
 
@@ -349,7 +348,7 @@ is placed to the hitting side (perhaps even slightly forward of) front
 foot. Again this tends to influence the body's segmental positioning at
 the end of the wind up.
 
-![](media_3d-technologies-and-analysis-the-serve-wind-up/media/image10.webp)
+![link](media_3d-technologies-and-analysis-the-serve-wind-up/media/image10.webp)
 
 **Max Mirni uses a Standard Pinpoint. Marat Safin uses a Lateral
 Pinpoint.**
@@ -419,7 +418,7 @@ conditions can be created by various footwork and leg
 strategies.***
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-   ![](media_3d-technologies-and-analysis-the-serve-wind-up/media/image11.jpg)
+   ![link](media_3d-technologies-and-analysis-the-serve-wind-up/media/image11.jpg)
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                             **To maximize body rotation and angular momentum, players must direct the ground force behind the center of mass.**
 
@@ -429,13 +428,13 @@ strategies.***
 movement.\"** What that means in this case is the
 timing of the straightening or extension of the knees following the
 bend. ***[The knee bend is the counter movement to the straightening of
-the legs that follows.]{.mark}***
+the legs that follows.]***
 
 This is typically produced most easily with a platform stance. ***[The
 platform stance allows the extension muscles to generate more force
 because of the timing of the bend: a fast lengthening contraction of
 these muscles during the knee bend, is followed immediately by the
-shortening contraction during knee straightening.]{.mark}*** It is
+shortening contraction during knee straightening.]*** It is
 significantly more difficult to achieve this benefit from use of a
 pinpoint stance because the knees typically flex much earlier (prior to
 the foot slide) and remain flexed for a longer duration.
@@ -452,7 +451,7 @@ of body rotation.
 **[To maximize forward angular momentum, the player has to maximize the
 leg drive and the creation of ground reaction force. But equally
 important, the player has to direct this ground reaction force as far as
-possible BEHIND the center of mass of the body.]{.mark}**
+possible BEHIND the center of mass of the body.]**
 
 Most of this forward angular momentum is generated during the back
 swing. But some of it can be generated in the wind up through
@@ -509,7 +508,7 @@ may or may not outweigh the advantages of the pinpoint in positioning
 the center of mass, and creating angular momentum in the initial phase
 of the motion.**
 
-![](media_3d-technologies-and-analysis-the-serve-wind-up/media/image13.webp)
+![link](media_3d-technologies-and-analysis-the-serve-wind-up/media/image13.webp)
 
 **The arm to trunk goal is a minimum angle of 80 degrees.**
 
@@ -547,7 +546,7 @@ productive portion of the back swing loop. You may recall that that a
 low elbow position is often, but not necessarily, associated with an
 abbreviated back swing.
 
-![](media_3d-technologies-and-analysis-the-serve-wind-up/media/image14.webp)
+![link](media_3d-technologies-and-analysis-the-serve-wind-up/media/image14.webp)
 
 **Knee bend angles can range from 90 to 120 degrees.**
 
@@ -571,7 +570,7 @@ the wind up represent the maximum flexion. This can be verified by
 selecting \"Leg and Trunk Data\" in \"Data Options\" and observing the
 bar graph elements that track knee angles.
 
-![](media_3d-technologies-and-analysis-the-serve-wind-up/media/image15.webp)
+![link](media_3d-technologies-and-analysis-the-serve-wind-up/media/image15.webp)
 
 **The line of the hips to the baseline perpendicular: a minimum 10
 degree value.**
@@ -594,7 +593,7 @@ Trunk Data\" in \"Data Options\" and observing either the line graph for
 hip rotation speed, or the bar graph elements that track the line of the
 hips angle.
 
-![](media_3d-technologies-and-analysis-the-serve-wind-up/media/image16.webp)
+![link](media_3d-technologies-and-analysis-the-serve-wind-up/media/image16.webp)
 
 **Turning the shoulders 20 degrees past perpendicular to the baseline is
 a conservative value.**
@@ -603,7 +602,7 @@ a conservative value.**
 
 **[This angle is also important as an indicator of range of available
 motion in rotation. A minimum goal value is 20 degrees to a line
-perpendicular to the baseline.]{.mark}** Values less than the
+perpendicular to the baseline.]** Values less than the
 conservative goal of 20 degrees to the non-hitting side of the baseline
 perpendicular are typically caused (and can be verified) by the same
 causes as the hip counterpart.
@@ -617,10 +616,10 @@ the upper trunk.
 **Backward Lean of the Trunk**
 
 **[The backward lean of the trunk (seen primarily in a side view) is
-another attribute observed in nearly all high level servers.]{.mark}**
+another attribute observed in nearly all high level servers.]**
 **By leaning the trunk back up to 30 degrees**,
 **[more rotational range is available for future forward trunk
-rotation.]{.mark}** Also, evidence suggests this position forces the
+rotation.]** Also, evidence suggests this position forces the
 back knee into flexion, causing extension to occur under more favorable
 (slower) muscle contractile conditions. Extreme backward leans should be
 avoided as it becomes counter productive to the goal of positioning the
@@ -637,13 +636,13 @@ generated](media_3d-technologies-and-analysis-the-serve-wind-up/media/image17.we
 consequence of knee flexion.** ***In later phases
 of the serve its role is important to twisting rotation of the
 trunk.*** **[Pro players can have extreme lateral
-lean corresponding largely to the depth of the knee bend.]{.mark}** As
+lean corresponding largely to the depth of the knee bend.]** As
 will be discussed in future articles, lateral pinpoint stances tend to
 cause even more extreme leans in the lateral direction.
 
 **[However, at the end of the wind up, for most players this angle
 should be kept to a minimum, as extensive lean will interfere with
-generation of forward angular momentum.]{.mark}** For juniors we
+generation of forward angular momentum.]** For juniors we
 recommend a lateral lean of no more than 80 degrees. Some junior
 players, including our example player, can tend to greatly exceed the 80
 degree goal angle so coaches should be aware of this position.
@@ -704,8 +703,8 @@ in the tennis serve. Journal of Science and Medicine in Sport  6(1):
 |  | knowledge across the entire range of tennis performance. |
 |  |  |
 |  | To visit his website, [**[Click |
-|  | Here!]{.underline}**](https://tennisperformanceresearch.com/) |
+|  | Here!]**](https://tennisperformanceresearch.com/) |
 |  |  |
 |  | Top contact him directly, [**[Click |
-|  | Here!]{.underline}**](mailto:gamabrian@icloud.com) |
+|  | Here!]**](mailto:gamabrian@icloud.com) |
 

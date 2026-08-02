@@ -20,14 +20,13 @@ understood.**
 
 Which stance is better to develop an amazing kick serve? There is no
 doubt you can develop a good or even a great kick serve with a pinpoint
-stance as long as a lot of the elements are correct. ([Click
-Here](../Classic%20Lessons/Keys%20to%20the%20Kick%20Serve.docx) for
+stance as long as a lot of the elements are correct. ([link](../Classic%20Lessons/Keys%20to%20the%20Kick%20Serve.docx) for
 Chris Lewit's series on the kick based on the Pinpoint.)
 
-**[But I believe the platform is better.]{.mark}** Why? I believe
+**[But I believe the platform is better.]** Why? I believe
 ***[players with pinpoint stances tend to open their bodies too early.
 This can cause you to come across the ball too much with the racket and
-hit too much slice.]{.mark}***
+hit too much slice.]***
 
 **The platform stance on the other hand keeps the rear leg in
 place.** It also allows you to turn your shoulders
@@ -45,8 +44,8 @@ confidence](media_three-keys-to-the-kick/media/image2.webp)
 on my own experience.**
 
 This includes ***[a better racket angle at contact with the [racket tip
-angled to the left.]{.underline} That angle is critical in generating
-topspin.]{.mark}***
+angled to the left.] That angle is critical in generating
+topspin.]***
 
 I can say this based on personal experience. Having served with a
 pinpoint for my entire junior and college career, I decided to make a
@@ -84,13 +83,13 @@ confidence](media_three-keys-to-the-kick/media/image3.webp)
 contact.**
 
 [**It's also important to note that the [head should stay
-forward]{.underline} as the shoulders turn**.]{.mark} Again, the exact
+forward] as the shoulders turn**.] Again, the exact
 amount of turn will vary by player and ability.
 
 **Why so much emphasis on the turn?**
 
 **[A big shoulder turn means you can swing up and across the
-ball.]{.mark}** A smaller turn means you will tend to swing around too
+ball.]** A smaller turn means you will tend to swing around too
 soon and too far with both your shoulders and your racket.
 
 If you turn your shoulders less, you can still hit a great slice serve.
@@ -169,8 +168,8 @@ confidence](media_three-keys-to-the-kick/media/image5.webp)
 **Changing where you stand can help you develop a feel for the kick.**
 
 **[To do develop the right arc[, you initially need to slow the pace
-down]{.underline}]{.mark}** and **[focus on the ball path. Think about
-the ball arcing 2 or 3 feet over the net.]{.mark}** See this image in
+down]]** and **[focus on the ball path. Think about
+the ball arcing 2 or 3 feet over the net.]** See this image in
 your mind's eye before you hit.
 
 **Position**

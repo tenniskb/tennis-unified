@@ -5,8 +5,7 @@
 # John Yandell 
 
 In the last article we looked at the preparation and the backswings on
-the two-handed backhand.([Click
-Here](John%20Yandell-The%20Two%20Handed%20Backhand%20-%20Preparation%20and%20Backswing.docx).)
+the two-handed backhand.([link](John%20Yandell-The%20Two%20Handed%20Backhand%20-%20Preparation%20and%20Backswing.docx).)
 We saw how the players used a body turn to initiate the preparation. We
 saw the high speed footage reveals that the loop back swing is an
 illusion, and that virtually all players start straight back and keep
@@ -84,7 +83,7 @@ out and body turn.**
 **Neutral Stance**
 
 By **[Neutral Stance (which is also sometimes called the Square
-Stance)]{.mark}** ***we mean basically that the front foot and the
+Stance)]** ***we mean basically that the front foot and the
 back foot are in line at the time of the step to the
 ball.*** With the Neutral Stance the player has
 stepped into the shot with the front foot, stepping forward and
@@ -118,17 +117,16 @@ the ball.* [With the Open Stance, there can be
 variations in degree. The right foot can stay all the way on the right
 side or it can come somewhat more forward and/or across. But it never
 crosses over and the player never plants significant weight on it during
-the swing.]{.mark}**
+the swing.]**
 
 **[You see the Open Stance most often when the players are wide in the
-court or on the run.]{.mark}** But you can see it in the center as well.
+court or on the run.]** But you can see it in the center as well.
 Some players like Elena Dementieva seem to hit a majority of their
 backhands with an Open Stance, even when they appear to have plenty of
 time could easily step in. A player like Venus Williams hits almost
 exclusively with open stance. In her case it's not a matter of
 preference. Her stance is dictated by factors having to do with her grip
-and hitting arms as we discovered in a previous article. ([Click
-Here](John%20Yandell-The%20Two%20Handed%20Backhand%20-%20Preparation%20and%20Backswing.docx).)
+and hitting arms as we discovered in a previous article. ([link](John%20Yandell-The%20Two%20Handed%20Backhand%20-%20Preparation%20and%20Backswing.docx).)
 
 ![A child playing tennis Description automatically generated with medium
 confidence](media_john-yandell-the-two-handed-backhand-hitting-stances/media/image5.webp)
@@ -151,9 +149,8 @@ very wide balls or running balls when you might expect to see Open
 Stance.
 
 **[Why the Closed Stance? It appears to be related to the use of the
-hitting arms in the two-handed shot.]{.mark}** One of the things we
-found in our assessment of the hitting arm positions ([Click
-Here](http://www.tennisplayer.net/members/avancedtennis/john_yandell/two_handed_backhand/2hd_bh_simplest_complex/2hd_bh_simplest_complex.html))
+hitting arms in the two-handed shot.]** One of the things we
+found in our assessment of the hitting arm positions ([link](http://www.tennisplayer.net/members/avancedtennis/john_yandell/two_handed_backhand/2hd_bh_simplest_complex/2hd_bh_simplest_complex.html))
 was that for most two-handers the front arm was much more involved in
 generating the shot than many coaches believed, myself included. This
 use of the front arm in some respects makes the shot similar to the one
@@ -208,8 +205,7 @@ two-handers typically use with the top hand are conservative compared to
 their forehands. Typically they are eastern, or shifted slightly one way
 or the other, toward a mild continental or a mild semi-western. As we
 saw in our forehand analysis, there is a general tendency for less torso
-rotation with the more conservative grips.([Click
-Here](Common%20Elements%20Across%20the%20Grip%20Styles.docx).)
+rotation with the more conservative grips.([link](Common%20Elements%20Across%20the%20Grip%20Styles.docx).)
 
 ![A person playing tennis Description automatically
 generated](media_john-yandell-the-two-handed-backhand-hitting-stances/media/image8.webp)
@@ -271,7 +267,7 @@ Closed, the torso alignment is remarkably similar. On the vast majority
 of balls, the players stand almost perfectly upright. They may lean
 slight forward and dip the left shoulder slightly at the start of the
 forward swing. One shoulder or the other may be slightly higher at
-contact reflecting the relative dominance of the arms. (**Click Here**.)
+contact reflecting the relative dominance of the arms. (**link**.)
 But relatively speaking the stand quite erect. Thee one thing they
 don't do is bend over to the side toward the ball.
 
@@ -290,11 +286,9 @@ The problem so many recreational players face\--and I've seen the same
 thing by the way in players in the top hundred in the world, is that
 they don't set up correctly, and end up chasing the ball with the front
 foot. The key is the same principal Bob Hansen talks about in his
-seminal articles on footwork.([Click
-Here](http://www.tennisplayer.net/members/footwork/footwork.html).)
+seminal articles on footwork.([link](http://www.tennisplayer.net/members/footwork/footwork.html).)
 It's the same thing Kerry Mitchell discusses in detail in looking at
-the stances on the forehand. ([Click
-Here](http://www.tennisplayer.net/members/classiclessons/kerry_mitchell/Mitchell_openstance/Mitchell_Openstance.html).)
+the stances on the forehand. ([link](http://www.tennisplayer.net/members/classiclessons/kerry_mitchell/Mitchell_openstance/Mitchell_Openstance.html).)
 This is the set up with outside foot, or the foot closest to the ball.
 
 So how should you procede if you want to develop this same kind of great

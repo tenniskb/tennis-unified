@@ -12,8 +12,7 @@ confidence](media_andy-roddick-the-new-serving-model-part2/media/image1.webp)
 
 In a Tennisplayer article, Rick Macci made the rather bold assertion
 that Andy Roddick has more racket head speed than any player in the
-game. ([Click
-Here](http://www.tennisplayer.net/members/tour_strokes/rick_macci/rick_macci_andy_roddick_serve_images/rick_macci_andy_roddick_serve.html))
+game. ([link](http://www.tennisplayer.net/members/tour_strokes/rick_macci/rick_macci_andy_roddick_serve_images/rick_macci_andy_roddick_serve.html))
 Bold, but also correct. The comparative measurements of ball speed and
 spin rates show that it's true. If Andy is serving 10mph with the same
 amount of spin as Pete Sampras, then his racket must be going faster.
@@ -69,8 +68,7 @@ also called the \"L Position\" or the \"Power Position\". His tossing
 arm is fully extended, and his forearm and upper arm are at a 90 degree
 angle, forming a \"L\" with the tip of the racket pointing basically
 straight up. This is a checkmark that biomechanists have identified in a
-wide range of high performance servers. ([Click
-Here](http://www.tennisplayer.net/members/biomechanics/greg_ryan/researching_the_serve/researching_the_serve.html)
+wide range of high performance servers. ([link](http://www.tennisplayer.net/members/biomechanics/greg_ryan/researching_the_serve/researching_the_serve.html)
 to read Greg Ryan's summary of the current research.)
 
 But Roddick doesn't reach this checkmark position. Look at the
@@ -97,8 +95,7 @@ path on its way up to the ball, a path that actually appears to add even
 a little more length in the last fractions before contact.
 
 Roddick reaches the pro racket drop position I've written about before
-like virtually all top players. ([Click
-Here](http://www.tennisplayer.net/members/tour_strokes/john_yandell/sampras_serve/sampras_serve_part_2_pg1_images/sampras_serve_racquetpath_part2_pg1.html)).
+like virtually all top players. ([link](http://www.tennisplayer.net/members/tour_strokes/john_yandell/sampras_serve/sampras_serve_part_2_pg1_images/sampras_serve_racquetpath_part2_pg1.html)).
 The racket is basically on edge in the drop position, falling along the
 right side of the body, with the shaft pointing down at the court. From
 here, most players go up to the ball by extending the elbow and rotating
@@ -395,8 +392,7 @@ confidence](media_andy-roddick-the-new-serving-model-part2/media/image18.webp)
 What's the role of this unique motion, if any? It's possible that it
 accentuates the \"shoulder over shoulder\" rotation that Bruce Elliott
 has identified in his articles as one characteristic of the power serve.
-([Click
-Here](http://www.tennisplayer.net/members/biomechanics/bruce_elliot/BE_Power_Serve_P1/BE_Power_Serve_Part1.pg2.html).)
+([link](http://www.tennisplayer.net/members/biomechanics/bruce_elliot/BE_Power_Serve_P1/BE_Power_Serve_Part1.pg2.html).)
 But the question I have is whether it affects his balance and recovery.
 Although he occasionally lands closer in to the baseline with his torso
 upright, in general Andy lands about 2 feet inside the court and bent
@@ -422,7 +418,7 @@ their body in the windup. This is important in creating body rotation.
 The left arm points toward the sideline at an angle somewhere between 45
 and 90 degrees. From this position, the arm goes down and then back up.
 But as it comes up to the release, it's still pointing to the
-side\--not forward in front of the body.]{.mark}**
+side\--not forward in front of the body.]**
 
 ![A tennis player hitting a ball with his racket Description
 automatically generated with medium
@@ -465,8 +461,7 @@ tossing arm and the ball should both go straight up and down.
 There was another significant problem with the other article on
 Roddick's serve that had to do with one of my favorite topics\--the
 so-called \"snap\" of the wrist. (To see the \"Myth of the Wrist\"
-[Click
-Here](http://www.tennisplayer.net/members/avancedtennis/john_yandell/the_myth/the_myth_of_the_wrist_serve_images/the_myth_of_the_wrist_serve.html).)
+[link](http://www.tennisplayer.net/members/avancedtennis/john_yandell/the_myth/the_myth_of_the_wrist_serve_images/the_myth_of_the_wrist_serve.html).)
 The author had video of students learning the forward wrist snap. He was
 teaching them the \"wave bye bye\" motion, in which the wrist flips
 forward and the tip of the racket ends up pointing down at the court at

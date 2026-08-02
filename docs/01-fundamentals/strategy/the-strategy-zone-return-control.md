@@ -208,13 +208,12 @@ You must learn to work in a series of progressive drills to develop and
 incorporate these returns into you game. The Strategy Zone system Lance
 and I have developed is loaded with hundreds of fed ball and live ball
 drills that can take you toward your goals on a step by step basis.
-[Click Here](http://nicksstrategyzone.com/)
+[link](http://nicksstrategyzone.com/)
 
 To read more of my thinking about the return, and especially the
 technical and the mental aspects of the return game, be sure and check
 out my previous articles for Tennisplayer in the Famous Coaches section.
-([Click
-Here](http://www.tennisplayer.net/members/strategy/strategy_and_statistics.html).)
+([link](http://www.tennisplayer.net/members/strategy/strategy_and_statistics.html).)
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A couple of men holding tennis rackets Description automatically generated with medium                                                                                          Nick Bollettieri (right) is the legendary coach

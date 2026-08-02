@@ -33,10 +33,10 @@ and the tossing arm.
 Let's start with the grips. Plain and simple, there are just too many
 players using eastern forehand and even semi-western grips when serving.
 
-| ![](media_private-lessons-the-serve/media/image2.jpg) | generated](media_private-lessons-the-serve/media/image3.jpg) |
+| ![link](media_private-lessons-the-serve/media/image2.jpg) | generated](media_private-lessons-the-serve/media/image3.jpg) |
 | --- | --- |
 | **The two viable service grips, the continental\ | | | (above) and the eastern backhand.** |  |
-| ![](media_private-lessons-the-serve/media/image4.jpg) | confidence](media_private-lessons-the-serve/media/image5.jpg) |
+| ![link](media_private-lessons-the-serve/media/image4.jpg) | confidence](media_private-lessons-the-serve/media/image5.jpg) |
 
 
 For the novice or the unschooled veteran, these grips feel supportive,

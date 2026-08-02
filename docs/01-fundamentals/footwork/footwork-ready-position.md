@@ -152,7 +152,7 @@ hitting the server's racquet.
 **The First Move on the Baseline**
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------
-   ![](media_footwork-ready-position/media/image6.png)
+   ![link](media_footwork-ready-position/media/image6.png)
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                           **The first move to the ball on the forehand.**
 
@@ -174,7 +174,7 @@ the net. The bottom half of your body is shifting to the right and while
 the top half is turning to the right it is leaning to the left.
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------
-   ![](media_footwork-ready-position/media/image7.png)
+   ![link](media_footwork-ready-position/media/image7.png)
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                      **Here is the identical first move on the backhand side**
 
@@ -200,7 +200,7 @@ you are playing a point without the ball. Then have your coach feed
 balls to you and see if you can maintain the same low center of gravity.
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![](media_footwork-ready-position/media/image8.png)
+  ![link](media_footwork-ready-position/media/image8.png)
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------
   **Here is the correct movement pattern to the ball and the recovery. Practice and see how many repetitions you can do, keeping your center of gravity low.**
 
@@ -225,7 +225,7 @@ again.
  
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------
-   ![](media_footwork-ready-position/media/image9.png)
+   ![link](media_footwork-ready-position/media/image9.png)
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------
                                **Note how the feet land behind you after the split step. This shows your weight is going forward.**
 

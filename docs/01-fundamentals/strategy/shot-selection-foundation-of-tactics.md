@@ -265,7 +265,7 @@ confidence](media_shot-selection-foundation-of-tactics/media/image9.webp)
 **Neutral**
 
 **[Your goal in a neutral situation is to gain control of the
-point.]{.mark}** There may be times when you can hit a winner or force
+point.]** There may be times when you can hit a winner or force
 an error, but you are simply trying to get your opponent in trouble. If
 you can't gain control, you at least try to stay neutral, and wait for
 the opportunity to get ahead.
@@ -378,7 +378,7 @@ have to test directly in the match at hand.
 
 **[Your goal in this situation is to try to get back to neutral. If you
 can't get back to neutral then your goal is to stay in the point and,
-at the least, make your opponent hit one more ball.]{.mark}** Or, under
+at the least, make your opponent hit one more ball.]** Or, under
 somewhat extreme circumstances such as the scenario at the top of the
 article, it may make sense to go for broke and attempt to hit a winner.
 

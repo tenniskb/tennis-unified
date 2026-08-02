@@ -9,8 +9,7 @@
 In my article in the June issue of Tennisplayer, I argued that shot to
 shot readiness is an absolute prerequisite for successful stroke
 execution. This is true not only at the top levels of the game, but
-especially at the club level. ([**Click
-Here**](Shot%20to%20Shot%20Readiness.docx).)
+especially at the club level. ([**link**](Shot%20to%20Shot%20Readiness.docx).)
 
 ![A person playing tennis Description automatically
 generated](media_shot-to-shot-readiness-part-ii/media/image1.webp)
@@ -54,8 +53,7 @@ sequences with greater quickness and precision.
 ### To Train or Not to Train
 
 On Tennisplayer, we have two amazing cross training systems, one from
-Pat Etcheberry and the other from Paul Roetert. ([**Click
-Here**](https://www.tennisplayer.net/members/physicaltraining/paul_roetert/Paul_Roetert_Periodization_1_images/Paul_Roetert_Periodization_1.html))
+Pat Etcheberry and the other from Paul Roetert. ([**link**](https://www.tennisplayer.net/members/physicaltraining/paul_roetert/Paul_Roetert_Periodization_1_images/Paul_Roetert_Periodization_1.html))
 As great as they are, not every player has the time or the desire to
 implement these sophisticated blends of weight training, aerobic, and
 anaerobic conditioning.
@@ -97,7 +95,7 @@ Evolve it over time to continue to push your level.
 |  |  | confidence](media_shot-to-shot-readiness-part-ii/media/image3.webp) |
 |  |  |  |
 |  |  | I love to do a variety of sports ladder drills to develop faster feet and improve balance. If you want info on how to get a ladder for yourself from our friend Joe Dinoffer at |
-|  |  | OnCourtOffCourt, [**Click Here.**](http://www.oncourtoffcourt.com/pc-100-31-sportladder.aspx) Here's the most basic ladder drill I do with students. Start sideways at one end of |
+|  |  | OnCourtOffCourt, [****](http://www.oncourtoffcourt.com/pc-100-31-sportladder.aspx) Here's the most basic ladder drill I do with students. Start sideways at one end of |
 |  |  | the ladder. Use fast, short, choppy steps as you work through the rungs. Both feet should touch down in each opening. When you get to the end of the ladder, turn and sprint to the |
 |  |  | net. |
 |  |  | **Ladder In and Out** |

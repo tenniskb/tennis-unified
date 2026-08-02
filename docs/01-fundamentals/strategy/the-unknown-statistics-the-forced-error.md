@@ -74,7 +74,7 @@ constitutes a forced error at every level of play. This is critical
 because forced errors usually account for at least 25% and up to 50% or
 even more of all points.
 
-**[Agassi vs. Sampras]{.underline}**
+**[Agassi vs. Sampras]**
 
 So, what did the official statistics tell us about the Sampras/Agassi
 match and the role of this critical number? Sadly nothing!

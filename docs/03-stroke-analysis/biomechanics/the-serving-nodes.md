@@ -6,9 +6,7 @@
 
 In his first two articles, noted orthopedic surgeon and tennis
 researcher Dr. Ben Kibler has shared the results of his ongoing studies
-of the serve and elite servers. ([Click
-Here](The%20Push%20Serve%20and%20Pull%20Serve.docx) for Part 1. [Click
-Here](Cocking,%20Loading%20and%20the%20Back%20Foot.docx) for Part 2.)
+of the serve and elite servers. ([link](The%20Push%20Serve%20and%20Pull%20Serve.docx) for Part 1. [link](Cocking,%20Loading%20and%20the%20Back%20Foot.docx) for Part 2.)
 
 In this third article he outlines his overview of what he calls the
 Serving Nodes. These are a series of key positions and motions in
@@ -25,7 +23,7 @@ reinforcing\--or over turning\--many widely held ideas about the serve.
 I've learned a lot from Ben and am delighted to share his work on
 Tennisplayer!
 
-![](media_the-serving-nodes/media/image1.png)
+![link](media_the-serving-nodes/media/image1.png)
 
 ![A person smiling for the camera Description automatically generated
 with low

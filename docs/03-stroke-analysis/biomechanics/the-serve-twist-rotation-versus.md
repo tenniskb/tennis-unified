@@ -15,10 +15,9 @@ Brian begins by contrasting Forward Rotation with Twist Rotation, a
 common teaching approach that he himself learned as a junior.
 
 It's a practical on court approach, complementing the groundbreaking
-analytic series he first published on Tennisplayer. ([Click
-Here](Science%20of%20Biomechanics%20TOC.docx).)
+analytic series he first published on Tennisplayer. ([link](Science%20of%20Biomechanics%20TOC.docx).)
 
-![](media_the-serve-twist-rotation-versus/media/image1.wmf)
+![link](media_the-serve-twist-rotation-versus/media/image1.wmf)
 
 | ![A person holding a tennis racket Description automatically | Dr. Brian Gordon has changed the understanding of the |
 | --- | --- |
@@ -32,8 +31,8 @@ Here](Science%20of%20Biomechanics%20TOC.docx).)
 |  | knowledge across the entire range of tennis performance. |
 |  |  |
 |  | To visit his website, [**[Click |
-|  | Here!]{.underline}**](https://tennisperformanceresearch.com/) |
+|  | Here!]**](https://tennisperformanceresearch.com/) |
 |  |  |
 |  | Top contact him directly, [**[Click |
-|  | Here!]{.underline}**](mailto:gamabrian@icloud.com) |
+|  | Here!]**](mailto:gamabrian@icloud.com) |
 

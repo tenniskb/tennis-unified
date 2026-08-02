@@ -208,6 +208,6 @@ Now why would I want to do that?\"
 |  | student of society searching for meaning and identity in a defining period of American history, a period in which tennis became a big time, big money, and big media |
 |  | sport. |
 |  |  |
-|  | [Click Here to |
+|  | [ to |
 |  | Order!](http://www.amazon.com/Jimmy-Connors-Saved-Life-Biography/dp/1861058993/ref=sr_1_2?s=books&ie=UTF8&qid=1427658831&sr=1-2&keywords=jimmy+connors+saved+my+life) |
 

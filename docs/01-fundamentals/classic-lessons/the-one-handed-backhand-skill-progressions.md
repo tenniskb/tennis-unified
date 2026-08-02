@@ -10,7 +10,7 @@ Picture this: you hit a solid, deep approach shot off your opponent's
 short ball and you close on the net expecting to put away an easy
 volley. Instead, your opponent lobs.
 
-In the final article in his series (Click Here for the others) John
+In the final article in his series ( for the others) John
 Craig presents a wonderful series of original drills including examples
 with one of his junior students to develop all the elements outlined in
 previous articles.

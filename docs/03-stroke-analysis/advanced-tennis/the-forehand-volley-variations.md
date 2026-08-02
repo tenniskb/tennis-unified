@@ -10,7 +10,7 @@ generated](media_the-forehand-volley-variations/media/image1.webp)
 In the last article we looked at the core elements on the forehand
 volley. We did this through a close examination of high speed footage of
 pro volleys developed by Advanced Tennis Research, filmed at 250 frames
-a second. ([Click Here.)](The%20Forehand%20Volley.docx) This footage
+a second. ([)](The%20Forehand%20Volley.docx) This footage
 allowed us to examine the lightening volley fast swing patterns in a
 detailed way not impossible with the human eye, or even with
 conventional 30 frame per second video.
@@ -24,8 +24,7 @@ racket form the legs. The legs are open to the base at an angle of about
 
 We saw that this hitting arm position is what allows the player to drive
 the motion forward with the shoulder. To see how this worked, we looked
-at examples of players hitting basic shoulder high volleys. ([Click
-Here](The%20Forehand%20Volley.docx).) If you've felt this effect you
+at examples of players hitting basic shoulder high volleys. ([link](The%20Forehand%20Volley.docx).) If you've felt this effect you
 now how satisfying and clean it can be.
 
 But if you go to the net a lot, you are well aware that only a small
@@ -44,7 +43,7 @@ lower and/or harder and/or softer. Or some combination of those factors.
 As we noted, the height of the contact point can vary from the ankles to
 well above the top of the head. This is far and away the greatest
 diversity of any of the basic strokes, and one of the factors that makes
-the volley so difficult to master.]{.mark}**
+the volley so difficult to master.]**
 
 **The Variations**
 
@@ -211,12 +210,12 @@ happens to the racket after contact, and especially the angle between
 the wrist and the forearm. The wrist is laid back in the L shape around
 45 degrees just before contact. **[After the hit the racket head
 actually moves backward slightly increasing this angle to about 90
-degrees.]{.mark}** We can see it in Taylor and also another low volley
+degrees.]** We can see it in Taylor and also another low volley
 hit by Max Mirnyi in the animation.
 
 From this action we can surmise that **[the players are holding the
 racket only tight enough to keep the hitting arm shape, and no
-tighter.]{.mark}** The grip pressure is probably softer than you might
+tighter.]** The grip pressure is probably softer than you might
 imagine, especially if you have been trained to keep the wrist \"firm.\"
 Again the problem with keeping the volley \"firm\" is that it tends to
 make the average player even more tense and rigid.
@@ -236,15 +235,14 @@ confidence](media_the-forehand-volley-variations/media/image8.webp)
 
 The shape of the swings is consistent with the spin data we have on the
 forehand volley, which had the least spin of any of the shots we studied
-in our heavy ball analysis. ([Click
-Here](http://www.tennisplayer.net/members/mystheavyball/john_yandell/spintest_part2/spintest_part2.html).)
+in our heavy ball analysis. ([link](http://www.tennisplayer.net/members/mystheavyball/john_yandell/spintest_part2/spintest_part2.html).)
 On average the pro forehand volley has less than 1000rpm of spin,
 actually about 800rpm. A backhand volley usually has more than twice as
 much spin,at about 2000rpm. We'll see that makes sense when we look at
 the swing patterns in an upcoming article.
 
 **[On most forehand volleys, there is only a slight downward angle to
-the swing plane]{.mark}**. **The racket is moving much more forward
+the swing plane]**. **The racket is moving much more forward
 than downward. This is why stress the rotational element in the forward
 swing so much.**
 
@@ -294,7 +292,7 @@ universal phenenomenon. Some balls it happens, and others it doesn't.
 Yes you can see it many of the video examples, but should you worry
 about trying to make it happen? The answer is no, in my opinion**[. Let
 it occur, naturally, or not, as a result of executing the motion and the
-confluence of factors described above.]{.mark}**
+confluence of factors described above.]**
 
 ![A person playing tennis Description automatically generated with
 medium

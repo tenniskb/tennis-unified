@@ -291,8 +291,7 @@ tremendous success.**
 
 **This is what I call modified all court attack. It could also be
 called rhythm rally attack.** (For more on rhythm
-rally, a term first coined by our writer Kerry Mitchell, [Click
-Here](../Classic%20Lessons/Rhythm%20and%20Rally%20Speed.docx).)
+rally, a term first coined by our writer Kerry Mitchell, [link](../Classic%20Lessons/Rhythm%20and%20Rally%20Speed.docx).)
 
 As noted above, it's extremely difficult to increase the pace of every
 ball to try and hit winners, and it almost always leads to error.
@@ -320,7 +319,7 @@ rallies so your pace is matching his.**
 **[This can actually be fun and, surprisingly, soothing. If you have
 relatively good strokes, you realize that you aren't in danger of
 losing any points this way. Suddenly the pressure to crunch the first
-slow ball isn't pressing you the same way.]{.mark}**
+slow ball isn't pressing you the same way.]**
 
 **But once you have established this rhythm, start to probe. Trying
 working the ball crosscourt on both sides. Try getting around and

@@ -56,7 +56,7 @@ forward during the swing.
 
 The out step (or the first step) to initiate the movement is a pivot
 step or a step out, sometimes followed by small adjusting steps.
-([Click Here](http://www.tennisplayer.net/members/footwork/footwork.html) for
+([link](http://www.tennisplayer.net/members/footwork/footwork.html) for
 more info on outsteps, as explained in the groundstroke articles.)
 
 The player sets up the rear or outside foot at angle of about 45 degrees
@@ -146,7 +146,7 @@ are able to hit an aggressive forehand return.
 
 The out steps are shuffle steps, like those used on and inside out
 forehand groundstroke, as the player moves around the ball to his or her
-left. ([Click Here](http://www.tennisplayer.net/members/footwork/david_bailey/contact_move/the_transfer/the_transfer.html) for
+left. ([link](http://www.tennisplayer.net/members/footwork/david_bailey/contact_move/the_transfer/the_transfer.html) for
 more about movment patterns on run around forehand groundstrokes.)
 
 For the Runaround Transfer, the hitting stance is usually semi open as
@@ -470,7 +470,7 @@ a step by step methodology for causing this improvement to occur.
 So that's it for the aggressive return Contact Moves! Next we'll move
 on to neutral and then defensive moves. Stay tuned for that!
 
-![](media_return-of-serve-offensive-contact-moves/media/image11.jpeg)
+![link](media_return-of-serve-offensive-contact-moves/media/image11.jpeg)
 
 David Bailey is a native Australian who has spent 15 years studying
 tennis at the professional level. He has developed a new language for
@@ -482,8 +482,6 @@ the Bailey Method, has become a regular part of the coaching curriculum
 at the Nick Bollettierri Tennis Academy, where it is personally endorsed
 by Nick
 
-Visit David's Website! [**[Click
-Here!]{.underline}**](http://www.baileytennisfootwork.com/)
+Visit David's Website! [**[!]**](http://www.baileytennisfootwork.com/)
 
-To Contact David directly [**[Click
-Here!]{.underline}**](mailto:david@baileytennisfootwork.com)
+To Contact David directly [**[!]**](mailto:david@baileytennisfootwork.com)

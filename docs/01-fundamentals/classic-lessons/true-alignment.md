@@ -60,8 +60,7 @@ the serve.
 
 **True Alignment: Forehand**
 
-As discussed in my open stance forehand article [(Click
-Here](What%20is%20Open%20Stance.docx)) the alignment of the hips and
+As discussed in my open stance forehand article [(](What%20is%20Open%20Stance.docx)) the alignment of the hips and
 legs are crucial for a successful shot. As I explained there, **the
 first goal is to set up behind the ball on the outside foot. From that
 point, there are 3 general options on the forehand: neutral stance,
@@ -96,9 +95,9 @@ behind the player's to his left.**
 above, but then he will actually kick his rear leg backwards, to his
 left, and away from him after the hit. This is actually a less extreme
 version of the footwork kick back pattern we see in the serve. This foot
-and leg action unleashes the natural power of the swing.]{.underline} It
-also prevents over rotation,]{.mark}** **[bringing the hips and legs
-into true alignment to increase the speed of the swing.]{.mark}** We see
+and leg action unleashes the natural power of the swing.] It
+also prevents over rotation,]** **[bringing the hips and legs
+into true alignment to increase the speed of the swing.]** We see
 the more extreme version of this leg action when the player is in the
 air with both feet. Again, if there is a recovery step, it happens after
 this kick back step.
@@ -158,10 +157,10 @@ lands the back foot can be even with the front foot, parallel to the
 baseline, or even ahead of the front foot.**
 
 **[[In more extreme examples when the players are coming up off the
-court, the stance actually narrows in the air]{.underline}. The left hip
+court, the stance actually narrows in the air]. The left hip
 pulls the leg around and into an alignment position that is again
 extremely similar to the neutral stance\--a line across the back foot,
-to the front foot, and out to the target line.]{.mark}** From this
+to the front foot, and out to the target line.]** From this
 position you will actually see the legs scissor\--with the front leg
 going forward and the back leg going back. Rather than coming around in
 a recovery step, the back leg is actually moving in the opposite
@@ -230,9 +229,9 @@ supposed.** **In virtually all cases, the rear
 leg stays behind until the completion of the
 shot.** **[[The players maintain true alignment
 well out into the follow-through, somewhere close to the start of the
-wrap.]{.mark} [Then and only then does the rear leg release to the
+wrap.] [Then and only then does the rear leg release to the
 outside. The stroke and the recovery step are usually distinct not
-overlapping stages.]{.mark}]{.underline}**
+overlapping stages.]]**
 
 **What To Do?**
 
@@ -251,7 +250,7 @@ generated](media_true-alignment/media/image10.webp)
 develop a feel for true alignment.**
 
 The first step is to go back to the set up and open stance as I
-discussed before. [Click Here](What%20is%20Open%20Stance.docx) The
+discussed before. [link](What%20is%20Open%20Stance.docx) The
 player then must relearn to how stay behind the ball all the way through
 the shot, keeping the back foot down, and not allowing the hips or feet
 to come through, no matter how out of balance he feels. To do this

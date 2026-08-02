@@ -62,14 +62,14 @@ hardest to see clearly\--even when looking at the high speed video.
 It's also the most difficult to integrate in teacing the other key
 elements in the forward swing.
 
-***[The challenge here is two fold.]{.mark}***
+***[The challenge here is two fold.]***
 
 ***[First is to understand how the hand and arm rotation work in the
-basic forehand across the grip styles.]{.mark}***
+basic forehand across the grip styles.]***
 
 ***[Second, how players vary the hand and arm rotation to generate extra
 spin, to create angles, to deal with low balls, and/or hit on the
-run.]{.mark}***
+run.]***
 
 Let's look at the basic forehands across the grip styles first and try
 to see how this element works in the basic stroke. The easiest way to

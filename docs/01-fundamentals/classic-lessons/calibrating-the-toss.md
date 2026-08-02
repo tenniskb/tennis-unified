@@ -12,7 +12,7 @@ John Craig that address confusing and controversial topics and offer
 clear and compelling answers. Who knew that the answer to the question
 was right there behind you at the edge of the fence!
 
-![](media_calibrating-the-toss/media/image1.wmf)
+![link](media_calibrating-the-toss/media/image1.wmf)
 
 ![A person smiling for the camera Description automatically generated
 with medium

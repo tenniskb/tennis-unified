@@ -20,7 +20,7 @@ game?
 medium
 confidence](media_john-yandell-your-forehand-and-the-modern-forehand-the-reverse-forehand/media/image1.webp)
 
-![](media_john-yandell-your-forehand-and-the-modern-forehand-the-reverse-forehand/media/image2.png)
+![link](media_john-yandell-your-forehand-and-the-modern-forehand-the-reverse-forehand/media/image2.png)
 
 ![A person smiling for the camera Description automatically generated
 with medium

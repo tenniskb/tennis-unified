@@ -114,7 +114,7 @@ Smile.\"
 |  | British media and tennis commentary and an |
 |  | editor for Tennishead Magazine. |
 |  |  |
-|  | [Click Here](http://www.teambathmcta.com/) for |
+|  | [link](http://www.teambathmcta.com/) for |
 |  | More Information on the Academy |
 
 
@@ -136,7 +136,7 @@ Smile.\"
 |  | understanding of the mental aptitude required to |
 |  | succeed as a professional sportsperson. |
 |  |  |
-|  | [Click Here to |
+|  | [ to |
 |  | Order!](http://www.lockerroompower.com/buy-now/) |
 
 

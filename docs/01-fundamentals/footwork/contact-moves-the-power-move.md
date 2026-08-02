@@ -8,7 +8,7 @@ generated](media_contact-moves-the-power-move/media/image1.webp)
 **Top players use the Power Move when they are pushed wide on the run.**
 
 In previous articles, we've looked at the Aggressive and Neutral
-Contact Moves. [Click Here](Footwork%20TOC.docx) Now it's time to
+Contact Moves. [link](Footwork%20TOC.docx) Now it's time to
 look at the Defensive Contact Moves.
 
 We'll start by looking at what I call the Power Move, the basis for the
@@ -140,22 +140,22 @@ want to improve their running forehands.
 
 **The progression is:**
 
-- **[running steps toward the ball]{.mark}**
+- **[running steps toward the ball]**
 
-- **[dropping into a running open stance]{.mark}**
+- **[dropping into a running open stance]**
 
-- **[contact with both feet in the air]{.mark}**
+- **[contact with both feet in the air]**
 
-- **[the landing on the front foot]{.mark}**
+- **[the landing on the front foot]**
 
-- **[the rear leg kicking back for balance]{.mark}**
+- **[the rear leg kicking back for balance]**
 
-- **[the breaking step with the rear foot]{.mark}**
+- **[the breaking step with the rear foot]**
 
-- **[the crossover step to begin the recover]{.mark}**
+- **[the crossover step to begin the recover]**
 
 - **[and finally, shuffle steps to regain a neutral ready
-  position.]{.mark}**
+  position.]**
 
 ![A person playing tennis Description automatically
 generated](media_contact-moves-the-power-move/media/image6.webp)
@@ -170,7 +170,7 @@ that the racket path on the forehand Power Move is usually more upward,
 with the finish over the player's head.
 
 This is the \"reverse forehand\" finish described by Robert Lansdorp.
-[Click Here](../Famous%20Coaches/The%20Reverse%20Forehand.docx) We
+[link](../Famous%20Coaches/The%20Reverse%20Forehand.docx) We
 can see this most famously in the Sampras running forehand, but the same
 swing pattern is used by most of the top pros.
 
@@ -262,7 +262,7 @@ So that's it for the Power Move. Next, defensive Contact Moves when the
 player is pushed backwards off the baseline rather than wide. Stay
 Tuned!
 
-![](media_contact-moves-the-power-move/media/image11.jpeg)
+![link](media_contact-moves-the-power-move/media/image11.jpeg)
 
 David Bailey is a native Australian who has spent 15 years studying
 tennis at the professional level. He has developed a new language for
@@ -274,8 +274,6 @@ the Bailey Method, has become a regular part of the coaching curriculum
 at the Nick Bollettierri Tennis Academy, where it is personally endorsed
 by Nick
 
-Visit David's Website! [**[Click
-Here!]{.underline}**](http://www.baileytennisfootwork.com/)
+Visit David's Website! [**[!]**](http://www.baileytennisfootwork.com/)
 
-To Contact David directly [**[Click
-Here!]{.underline}**](mailto:david@baileytennisfootwork.com)
+To Contact David directly [**[!]**](mailto:david@baileytennisfootwork.com)

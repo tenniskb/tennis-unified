@@ -11,7 +11,7 @@ many surprising results.**
 
 **[The two primary characteristics of the shots hit in professional
 tennis are that they are hit with great velocity and heavy
-spin.]{.mark}** Because of the radar guns on the serve, at least
+spin.]** Because of the radar guns on the serve, at least
 something was known quantitatively about the velocity of the ball.
 
 The study of ball speed conducted by Advanced Tennis researchers showed
@@ -116,7 +116,7 @@ forehand actually measured slightly less spin than Sampras, despite his
 semi-western grip, averaging 1718rpm.
 
 [The highest spin measured on a groundstroke was Bruguera's forehand at
-over 3700rpm.]{.mark}
+over 3700rpm.]
 
 Men players with the more extreme western grips all hit with
 substantially more average topspin, with the averages starting well
@@ -163,7 +163,7 @@ generated](media_ball-spin-in-pro-tennis/media/image4.FH)
 The range between the high and low on the women's side was less
 extreme, but still in excess of 1000rpm. Mary Jo Fernandez, as noted,
 was at the low end at 1068rpm. [Venus Williams was the only player to
-average in excess of 2000rpm, averaging 2154rpm.]{.mark}
+average in excess of 2000rpm, averaging 2154rpm.]
 
 The players with classical grips such as Jana Novotna and Lindsey
 Davenport were in the same range as their male counterparts between
@@ -459,7 +459,7 @@ second it takes to travel across the length of the court!
 Sampras's ability to generate both velocity and spin on his first serve
 may explain his ability to serve with such great consistency and
 effectiveness, particularly under pressure. (See the Sampras Serve
-series. Click Here.)
+series. )
 
 Petr Korda and Tomas Muster, for example, generated averaged roughly the
 same amount of spin as Sampras on their first serves, ie, 2600 to

@@ -11,8 +11,7 @@ confidence](media_the-strategy-zone-rally-control/media/image1.webp)
 **Flat drives, short angles, loops and drop shots: the building
 blocks.**
 
-In the introductory article to the Strategy Zone ([Click
-Here](The%20Strategy%20Zone%20-%20Introduction.docx)), we explained how
+In the introductory article to the Strategy Zone ([link](The%20Strategy%20Zone%20-%20Introduction.docx)), we explained how
 the great players win because they understand not only how to hit the
 ball, but where to hit the ball, and when. Our program is designed to
 teach you how to develop the same shots and shot combinations the pros
@@ -37,8 +36,7 @@ how to develop control with the serve and the return.
 
 In the Strategy Zone System, we outline the techniques and the
 progressive steps and give you dozens of detailed drills you need to
-develop each aspect of the Control Shots. ([Click
-Here](http://www.oncourtoffcourt.com/strategy-zone-6-specialized-dvd-set.html).)
+develop each aspect of the Control Shots. ([link](http://www.oncourtoffcourt.com/strategy-zone-6-specialized-dvd-set.html).)
 
 **4 Basic Shots**
 
@@ -174,19 +172,19 @@ play a heavy ball from above his shoulder, usually from a position that
 is deep in the court.**
 
 **[[High looping balls put your opponent on the defensive and often
-generate short replies that you can then attack.]{.mark} [There is also
+generate short replies that you can then attack.] [There is also
 a mental component to the shot, because the deep loop often frustrates
 the opponent, reducing his will to fight and forcing him into
-errors.]{.mark}]{.underline}**
+errors.]]**
 
 **To be a complete player, you should be able to hit the high deep
 loop both crosscourt and down the line, and to do so off both your
 forehand and backhand.** From the inside position,
 you must also be able to loop inside out and inside in. **[[Hit with a
 high arc, the deep loop should travel 10 feet or more above the
-opponent's service line.]{.mark} [As with the other basic control
+opponent's service line.] [As with the other basic control
 shots, it is important to visualize the path of the shot and the target
-area to develop confidence and accuracy.]{.mark}]{.underline}**
+area to develop confidence and accuracy.]]**
 
 **As with the flat drives, and the short angles, the deep loop is a
 shot that can be used in combination, but first must be developed to a
@@ -211,8 +209,8 @@ confidence](media_the-strategy-zone-rally-control/media/image6.webp)
 **The final basic shot in developing your ability to control points is
 the drop shot.** **[[In pro tennis, the top players
 use the drop shot when opponents are out of position bringing them
-forward and/or wide. This]{.mark} [opens the court for both the pass and
-the lob.]{.mark}]{.underline}** **Another important option is to hit
+forward and/or wide. This] [opens the court for both the pass and
+the lob.]]** **Another important option is to hit
 the drop shot and come forward, cutting off the opponent's angles and
 hitting the reply as a volley into the open
 court.**

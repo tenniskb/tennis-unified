@@ -76,7 +76,7 @@ start of the next game to stop the slide.**
 
 **[At 5-5, you therefore have one player who is determined and focused,
 against one player who may just have relaxed a little. Often, such sets
-are then won 7-5 by the player who had the 5-2 lead.]{.mark}**
+are then won 7-5 by the player who had the 5-2 lead.]**
 
 **Making a comeback requires a period of continuous mental and
 physical effort.** You're fighting to win those 3
@@ -114,8 +114,7 @@ comeback and be aware to the danger that now lurks is an opponent who is
 ready to regain their lead straight away.
 
 For more on momentum I recommend Alistair Higham's amazing series of
-articles on Tennisplayer. ([Click
-Here](https://www.tennisplayer.net/members/mentalgame/alistair_higham/Higham_Momentum_Intro_5_Stages_images/Higham_Momentum_Intro_5_Stages.html)
+articles on Tennisplayer. ([link](https://www.tennisplayer.net/members/mentalgame/alistair_higham/Higham_Momentum_Intro_5_Stages_images/Higham_Momentum_Intro_5_Stages.html)
 to see the first one.)
 
 So that's it for my series! Good luck applying the concept of marginal

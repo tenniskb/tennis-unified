@@ -20,8 +20,7 @@ Like many observers of the game, I just assumed that the players of the
 past stepped into every ball. But I had to examine that assumption after
 I watched a video called \"Kings of the Court,\" with some great
 historical footage, produced by my fellow Tennisplayer contributor Ed
-Atkinson. ([Click
-Here](http://www.tennis-warehouse.com/descpageYANDELL-VKINGS.html).) The
+Atkinson. ([link](http://www.tennis-warehouse.com/descpageYANDELL-VKINGS.html).) The
 video is revealing because it has so many instances of open stance
 hitting, from Bill Tilden to Rod Laver. The fact is that even before the
 start of the open era, the great players were using open stance
@@ -147,8 +146,8 @@ critical moments around the contact. The feet are aligned on the
 diagonal of the shot line.** **Whether one foot or
 both feet or neither foot is on the court during the hit is not a
 function of alignment per se. Rather this is a [function of ball
-height]{.underline} and [the player's ability to unload upward into the
-shot]{.underline} (and into the air off the court.)**
+height] and [the player's ability to unload upward into the
+shot] (and into the air off the court.)**
 
 This basic diagonal alignment has to be distinguished from the more
 extreme open stance in which the front foot stays much further back,
@@ -182,10 +181,10 @@ To a certain extent, then, the whole debate about \"open\" versus
 understanding **the most important element in any of the stances,
 which is alignment to the target line.** This gets
 me to the most important underlying point about stances\--**[[the
-critical role of the backfoot in achieving alignment. All]{.mark} [the
+critical role of the backfoot in achieving alignment. All] [the
 debate about stances is focused on the front foot, but in reality the
 key is understanding how to align the backfoot to the
-ball.]{.mark}]{.underline}** When you understand this the amount you
+ball.]]** When you understand this the amount you
 open your stance on a given ball will happen almost naturally.
 
 ![A person running on a court Description automatically generated with
@@ -289,9 +288,9 @@ the court. The alignment is the same.
 
 **[[What are the advantages of developing this well-aligned open-stance
 hitting? And when should players employ it? One advantage which I
-mentioned earlier is adjustability.]{.mark} [Hitting open-stance allows
+mentioned earlier is adjustability.] [Hitting open-stance allows
 the player to play balls higher and/or further back in the
-stance.]{.mark}]{.underline}** This is true for every grip position.
+stance.]]** This is true for every grip position.
 With the use of more power and topspin in today's game this kind of
 adjustability is necessary.
 
@@ -329,7 +328,7 @@ same level of extreme rotation can be achieved with even a quite
 conservative grip.
 
 **[Trying to step or land with the front foot parallel with the vertical
-lines of the court drastically impedes this rotation.]{.mark}** Borg
+lines of the court drastically impedes this rotation.]** Borg
 started the trend of increased torso rotation mainly to hit more topspin
 for control, but players today have taken it to new heights in terms of
 creating ball speed.
@@ -342,9 +341,9 @@ confidence](media_what-is-open-stance/media/image12.webp)
 balanced recovery.**
 
 **[[The fourth advantage to hitting open-stance is court coverage.
-Recovering]{.mark} [back into the court for the next shot is far more
+Recovering] [back into the court for the next shot is far more
 efficient than with a closed stance; which often has a player falling
-off balance toward the outside of the court.]{.mark}]{.underline}** This
+off balance toward the outside of the court.]]** This
 is in evidence time and time again when pros use their rear foot to stop
 their momentum after a long run. By landing on the rear foot, it is far
 easier to stay upright and maintain good balance throughout the swing.

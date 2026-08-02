@@ -15,7 +15,7 @@ other on-court conditioning drills isn't your thing.
 
 So here are three ways to work on your conditioning and footwork in the
 context of the kind of drill games we've been presenting in this
-series. ([Click Here](Classic%20Lessons%20TOC.docx) to read more
+series. ([link](Classic%20Lessons%20TOC.docx) to read more
 articles.)
 
 Drill games not only keep things more interesting by adding a

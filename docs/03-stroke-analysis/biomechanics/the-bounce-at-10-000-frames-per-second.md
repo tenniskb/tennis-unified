@@ -14,8 +14,7 @@ In my recent article on Tennisplayer.net about contact at 10,000 frames
 per second I found that contact is actually about 20% shorter than the
 generally published numbers. Additionally, I found that the trend toward
 low-tension stringing is probably aimed at increasing contact length
-which increases power and spin. ([Click
-Here](Contact%20at%2010,000%20Frames%20Per%20Second.docx).)
+which increases power and spin. ([link](Contact%20at%2010,000%20Frames%20Per%20Second.docx).)
 
 So what about the ball bounce? What are the published figures? How long
 is the ball on the court surface? Again I set up controlled filming at
@@ -67,10 +66,8 @@ give a club player a mid-court slice, you probably have a greater than
 
 So, let's delve into the physics of the bounce. The following
 scientific descriptions are taken from Drs. Howard Brody and Rod Cross
-and their seminal works, The Physics and Technology of Tennis ([Click
-Here](https://www.amazon.com/gp/product/0972275908/ref=dbs_a_def_rwt_bibl_vppi_i1)),
-and Technical Tennis ([Click
-Here](https://www.amazon.com/Technical-Tennis-Racquets-Strings-Courts/dp/0972275932/ref=sr_1_2?dchild=1&qid=1635821441&refinements=p_27%3ARod+Cross&s=books&sr=1-2&text=Rod+Cross).)
+and their seminal works, The Physics and Technology of Tennis ([link](https://www.amazon.com/gp/product/0972275908/ref=dbs_a_def_rwt_bibl_vppi_i1)),
+and Technical Tennis ([link](https://www.amazon.com/Technical-Tennis-Racquets-Strings-Courts/dp/0972275932/ref=sr_1_2?dchild=1&qid=1635821441&refinements=p_27%3ARod+Cross&s=books&sr=1-2&text=Rod+Cross).)
 Both are must reads for the tennis technology enthusiast.
 
 They may have too much information for many players, but I think there
@@ -126,8 +123,7 @@ would not be changed, but the tennis ball bounces leads to a 25-40%
 reduction in ball velocity.**
 
 John Yandell was the first to document this in actual match play in his
-study of ball flights by Pete Sampras about 20 years ago. ([Click
-Here](https://www.tennisplayer.net/members/mystheavyball/john_yandell/ball_speed_pro_tennis/ball_speed_pro_tennis_page1.html).)
+study of ball flights by Pete Sampras about 20 years ago. ([link](https://www.tennisplayer.net/members/mystheavyball/john_yandell/ball_speed_pro_tennis/ball_speed_pro_tennis_page1.html).)
 
 Tennis balls lose about 20% of their flight speed while traveling
 through the air and then go on to lose another 25-40% after the bounce.

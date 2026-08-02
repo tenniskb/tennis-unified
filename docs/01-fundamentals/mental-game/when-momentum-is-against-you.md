@@ -14,8 +14,7 @@ is with you, totally with you and when it's neutral. We've also looked
 at the worst case scenario, when momentum is totally against you. Now
 let's look at the last case, when momentum in a match is against you,
 although not totally. (For a look at the other articles in this series,
-[Click
-Here](http://www.tennisplayer.net/public/mentalgame/mentalgame_public.html).)
+[link](http://www.tennisplayer.net/public/mentalgame/mentalgame_public.html).)
 
 In this case, things may not appear hopeless, but the situation can be
 frustrating nonetheless. Your opponent may seem to be playing with
@@ -404,7 +403,7 @@ confidence](media_when-momentum-is-against-you/media/image14.jpeg)
 
 Alistair Higham is the National Manager of Coach Development for the
 LTA, the governing body for tennis in Great Britain. He is the author of
-[Momentum: The Hidden Force in Tennis]{.underline}. Alistair is a former
+[Momentum: The Hidden Force in Tennis]. Alistair is a former
 professional player who continues to compete successfully at the highest
 levels of English regional tennis. He has developed and coached dozens
 of top junior players, and traveled extensively on the international
@@ -424,5 +423,5 @@ own professional career, this book will give you the perspective and the
 tools to create momentum in your own matches and deal with the critical
 turning points that are the difference between winning and losing.
 
-[Click Here to
+[ to
 Order!](http://www.1st4sport.com/1st4sportsite/product/1st4Sport/Tennis/Tennis/sports/Sports/B60401.htm)

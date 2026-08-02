@@ -31,8 +31,7 @@ let's see how to do that!
 **Swinging Volley Finish**
 
 In this series of articles, we've outlined our concept of how to build
-points through a progression we call \"Control, Hurt, Finish.\" ([Click
-Here](The%20Strategy%20Zone%20-%20Introduction.docx).) In the previous
+points through a progression we call \"Control, Hurt, Finish.\" ([link](The%20Strategy%20Zone%20-%20Introduction.docx).) In the previous
 article we took a detailed look at the groundstroke finishes. How does
 the swinging volley fit in? It's another basic finish option, and the
 preferred alternative in many situations.
@@ -139,8 +138,7 @@ Watch how the players set up on the outside foot first. Now, depending
 on factors such as ball height and where they plan to go with the ball,
 they can hit open or step forward into a neutral stance. Depending on
 how fast they are moving, they may also hit first and then land on the
-front foot, what David Bailey calls a Power Step. ([Click
-Here](../Footwork/Contact%20Moves%20-%20The%20Power%20Move.docx).)
+front foot, what David Bailey calls a Power Step. ([link](../Footwork/Contact%20Moves%20-%20The%20Power%20Move.docx).)
 
 **Swing Pattern**
 
@@ -186,9 +184,9 @@ opening.**
 **The most typical finish is to hit the swinging volley deep into the
 open court.** **[[The player hits a groundstroke
 drive deep down the line into to the corner, then comes forward and
-drives the swinging volley crosscourt]{.underline}. But another option
+drives the swinging volley crosscourt]. But another option
 is to run the ball behind the opponent going short the other
-way.]{.mark}**
+way.]**
 
 **Another pattern to create the opportunity to finish with a swinging
 volley is to hit a high looping shot against players who tends to hit

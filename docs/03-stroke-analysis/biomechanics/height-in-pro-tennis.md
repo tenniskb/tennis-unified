@@ -2,7 +2,7 @@
 
 **Dr. Brian Gordon**
 
-![](media_height-in-pro-tennis/media/image1.wmf)
+![link](media_height-in-pro-tennis/media/image1.wmf)
 
 Recently the CBS 60 Minutes production team visited Dr. Brian Gordon in
 Miami to discuss the reasons height makes a difference in the
@@ -154,10 +154,10 @@ generated](media_height-in-pro-tennis/media/image5.webp)
 
 **[[The movement disadvantage of greater height makes it more difficult
 for taller players to get around the court and possibly explains the
-return of serve advantage apparent for shorter players.]{.mark} [It is
+return of serve advantage apparent for shorter players.] [It is
 also possible that shorter players simply accept disadvantage in serving
 and dedicate more effort on return of serve to
-compensate.]{.mark}]{.underline}**
+compensate.]]**
 
 **What it Means**
 
@@ -167,10 +167,10 @@ difficult to reach and stay at the highest level of the sport.
 
 **It is pretty clear that for men the optimal height is in the 6'1''
 -- 6'4\" range. Presumably** **[[this height
-averages out the benefits and detriments of the extremes. It]{.mark}
+averages out the benefits and detriments of the extremes. It]
 [also seems evident that this optimum is gradually increasing. So, what
 does that mean for outlier individuals to that
-range?]{.mark}]{.underline}**
+range?]]**
 
 It by no means says that these individuals can't be great players and
 enjoy tremendous success in tennis. And this was the point I made in the
@@ -193,8 +193,8 @@ like Federer, Nadal and Djokovic.**
 |  | knowledge across the entire range of tennis performance. |
 |  |  |
 |  | To visit his website, [**[Click |
-|  | Here!]{.underline}**](https://tennisperformanceresearch.com/) |
+|  | Here!]**](https://tennisperformanceresearch.com/) |
 |  |  |
 |  | Top contact him directly, [**[Click |
-|  | Here!]{.underline}**](mailto:gamabrian@icloud.com) |
+|  | Here!]**](mailto:gamabrian@icloud.com) |
 

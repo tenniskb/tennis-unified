@@ -12,7 +12,7 @@ have them together in one place. Watch it and you'll remember the ones
 you forgot! It's an awesome blueprint every player should aspire to
 master and integrate into match play.
 
-![](media_opening-the-court-summary/media/image1.png)
+![link](media_opening-the-court-summary/media/image1.png)
 
   --
 

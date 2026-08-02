@@ -1,9 +1,7 @@
 # Building A World Class One-Handed Backhand: Disguise
 
-In the last two articles we have looked at the preparation ([Click
-Here](https://www.tennisplayer.net/members/classiclessons/chris_lewit/one_handed_backhand_part_3/))
-and the forward swing ([Click
-Here](https://www.tennisplayer.net/members/classiclessons/chris_lewit/one_handed_backhand_part_4/))
+In the last two articles we have looked at the preparation ([link](https://www.tennisplayer.net/members/classiclessons/chris_lewit/one_handed_backhand_part_3/))
+and the forward swing ([link](https://www.tennisplayer.net/members/classiclessons/chris_lewit/one_handed_backhand_part_4/))
 in building a world class one-hander. But my goal in teaching the one
 handed backhand is not just to build a technical foundation.
 

@@ -14,7 +14,7 @@ Jeff has the cred because what he is talking about isn't only
 theory---it's coming from his successful competitive experience.
 
   ------------------------------------------------------------------------------------------------------------------------------------------
-  ![](media_walking-the-mental-game-talk/media/image1.wmf)
+  ![link](media_walking-the-mental-game-talk/media/image1.wmf)
   ------------------------------------------------------------------------------------------------------------------------------------------
 
   ------------------------------------------------------------------------------------------------------------------------------------------
@@ -32,7 +32,7 @@ tennis of your life. See how to embrace pressure, maintain confidence,
 and increase your focus and intensity. Jim Loehr calls Jeff's book: \"a
 real contribution to the field of applied sports psychology.\"\
 \
-[Click Here to
+[ to
 Order!](http://www.amazon.com/Best-Tennis-Your-Life-Performance/dp/1558708448/ref=pd_bbs_sr_1?ie=UTF8&s=books&qid=1200341206&sr=8-1)
 
 ![A person smiling for the camera Description automatically generated
@@ -48,7 +48,7 @@ doubles in the United States.
 
 Greenwald is the author of [\"The Best Tennis of Your
 Life\"](http://www.amazon.com/Best-Tennis-Your-Life-Performance/dp/1558708448/ref=pd_bbs_sr_1?ie=UTF8&s=books&qid=1200341206&sr=8-1)
-published by Betterway. [Click Here to
+published by Betterway. [ to
 order.](http://www.amazon.com/Best-Tennis-Your-Life-Performance/dp/1558708448/ref=pd_bbs_sr_1?ie=UTF8&s=books&qid=1200341206&sr=8-1)
 Jeff has a private practice based in San Francisco and Marin County,
 California. He can be reached at 415-640-6928 or by email at

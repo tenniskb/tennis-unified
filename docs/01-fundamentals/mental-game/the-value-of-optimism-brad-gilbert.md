@@ -24,8 +24,7 @@ matter of probabilities, not certainties.
 Regardless of how far behind you may be, your probability of victory is
 never zero until the last point has been played or you quit. This is a
 consequence of the scoring system in tennis which requires winning the
-final point and makes protecting a lead impossible. ([Click
-Here](The%20Diabolical%20Scoring%20System%20of%20Tennis.docx) for more
+final point and makes protecting a lead impossible. ([link](The%20Diabolical%20Scoring%20System%20of%20Tennis.docx) for more
 on that.)
 
 Thus, hope for victory is always reasonable. Maintaining hope under all
@@ -204,7 +203,7 @@ Visit him at [www.allenfoxtennis.net](http://www.allenfoxtennis.net)
 |  | stress, finishing matches, and developing confidence. Based on a life time of high level play and coaching success, |
 |  | it's a must for all competitive players. |
 |  |  |
-|  | [Click Here to |
+|  | [ to |
 |  | Order](http://www.amazon.com/Tennis-Winning-Mental-Allen-Fox/dp/0615407765/ref=sr_1_1?ie=UTF8&qid=1336083459&sr=8-1). |
 
 
@@ -227,7 +226,7 @@ Visit him at [www.allenfoxtennis.net](http://www.allenfoxtennis.net)
 |  | outline how to confront and overcome these fears in your |
 |  | life and career, even when they are initially subconscious. |
 |  | Must reading from one of the great thinkers in tennis, and |
-|  | a Renaissance Man in life. [Click Here to |
+|  | a Renaissance Man in life. [ to |
 |  | Order](http://www.tennis-warehouse.com/descpage-MIND.html). |
 |  |  |
 |  | To purchase this book you can also send a check for \$17.95 |

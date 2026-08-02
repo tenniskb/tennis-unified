@@ -64,8 +64,7 @@ This slow and deliberate feeling also applies to the windup.
 Quantitative studies show that there is very little acceleration of the
 racket as the players move through Phase 1. The movement to the trophy
 position can take 2 seconds or more, and the racket head speed during
-this interval is usually 10mph or less. ([Click
-Here](https://www.tennisplayer.net/members/avancedtennis/john_yandell/sampras_serve/sampras_serve_racket_head_speed/sampras_serve_racket_head_speed.html).)
+this interval is usually 10mph or less. ([link](https://www.tennisplayer.net/members/avancedtennis/john_yandell/sampras_serve/sampras_serve_racket_head_speed/sampras_serve_racket_head_speed.html).)
 
 ![A picture containing person, grass, person, outdoor](media_1-2-rhythm-the-serve/media/image3.jpg)
 

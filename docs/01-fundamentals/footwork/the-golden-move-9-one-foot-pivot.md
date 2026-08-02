@@ -14,12 +14,11 @@ how to hit it with the forehand, and also how to use it on the two
 hander.
 
 For more of David's incredible analysis---all the other Golden Moves and
-examples of footwork of elite pros, [Click
-Here](https://www.tennisplayer.net/members/footwork/footwork.html).
+examples of footwork of elite pros, [link](https://www.tennisplayer.net/members/footwork/footwork.html).
 
-![](media_the-golden-move-9-one-foot-pivot/media/image1.png)
+![link](media_the-golden-move-9-one-foot-pivot/media/image1.png)
 
-![](media_the-golden-move-9-one-foot-pivot/media/image2.jpeg)
+![link](media_the-golden-move-9-one-foot-pivot/media/image2.jpeg)
 
 David Bailey is a native Australian who has spent 15 years studying
 tennis at the professional level. He has developed a new language for
@@ -31,8 +30,6 @@ the Bailey Method, has become a regular part of the coaching curriculum
 at the Nick Bollettierri Tennis Academy, where it is personally endorsed
 by Nick
 
-Visit David's Website! [**[Click
-Here!]{.underline}**](http://www.baileytennisfootwork.com/)
+Visit David's Website! [**[!]**](http://www.baileytennisfootwork.com/)
 
-To Contact David directly [**[Click
-Here!]{.underline}**](mailto:david@baileytennisfootwork.com)
+To Contact David directly [**[!]**](mailto:david@baileytennisfootwork.com)

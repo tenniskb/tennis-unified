@@ -23,4 +23,4 @@ key positions in the swing path all good players share?
 This article is a great introduction for my detailed developmental
 blueprint for the serve in the Teaching Systems section, articles that
 address the entire range of technical issues in developing your service
-motion. [Click Here](https://www.tennisplayer.net/members/teaching_systems/teaching_systems.html)
+motion. [link](https://www.tennisplayer.net/members/teaching_systems/teaching_systems.html)

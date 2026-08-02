@@ -14,7 +14,7 @@ the forehand swing, and then shows how he feels new elements could be
 synthesized with the original ATP fundamentals. Original work from the
 leading researcher in the world in tennis bio-mechanics.
 
-![](media_the-next-atp-forehand/media/image1.png)
+![link](media_the-next-atp-forehand/media/image1.png)
 
 | ![A person holding a tennis racket Description automatically | Dr. Brian Gordon has changed the understanding of the |
 | --- | --- |
@@ -28,8 +28,8 @@ leading researcher in the world in tennis bio-mechanics.
 |  | knowledge across the entire range of tennis performance. |
 |  |  |
 |  | To visit his website, [**[Click |
-|  | Here!]{.underline}**](https://tennisperformanceresearch.com/) |
+|  | Here!]**](https://tennisperformanceresearch.com/) |
 |  |  |
 |  | Top contact him directly, [**[Click |
-|  | Here!]{.underline}**](mailto:gamabrian@icloud.com) |
+|  | Here!]**](mailto:gamabrian@icloud.com) |
 

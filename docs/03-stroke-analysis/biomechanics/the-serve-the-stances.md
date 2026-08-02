@@ -16,7 +16,7 @@ of his failure to monitor the connection of Brian's microphone---but
 the info is all there and comprehensible---luckily---or it would have
 meant another trip to Miami\...
 
-![](media_the-serve-the-stances/media/image1.png)
+![link](media_the-serve-the-stances/media/image1.png)
 
 | ![A person holding a tennis racket Description automatically | Dr. Brian Gordon has changed the understanding of the |
 | --- | --- |
@@ -30,8 +30,8 @@ meant another trip to Miami\...
 |  | knowledge across the entire range of tennis performance. |
 |  |  |
 |  | To visit his website, [**[Click |
-|  | Here!]{.underline}**](https://tennisperformanceresearch.com/) |
+|  | Here!]**](https://tennisperformanceresearch.com/) |
 |  |  |
 |  | Top contact him directly, [**[Click |
-|  | Here!]{.underline}**](mailto:gamabrian@icloud.com) |
+|  | Here!]**](mailto:gamabrian@icloud.com) |
 

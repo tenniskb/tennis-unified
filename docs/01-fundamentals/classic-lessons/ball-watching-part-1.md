@@ -77,9 +77,9 @@ confidence](media_ball-watching-part-1/media/image3.jpg)
 **You hear contact before you see it.**
 
 **Sight is a slower internal process because [[light must be converted
-to electrical energy via a chemical reaction on the retina]{.mark}
+to electrical energy via a chemical reaction on the retina]
 before it can travel its pathway from the eye to the visual
-cortex.]{.underline} This is slower than the mechanical reaction of
+cortex.] This is slower than the mechanical reaction of
 sound travelling through the ear.**
 
 Sound takes only about 50 milliseconds to travel from your ear to your

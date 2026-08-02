@@ -17,7 +17,7 @@ but you must also know and feel exactly how to hit the
 return.**
 
 In the first article in this series, we looked at the return mentality.
-[Click Here](The%20Return%20Mentality.docx) Without the right
+[link](The%20Return%20Mentality.docx) Without the right
 attitude, the rest doesn't matter. But now that we have established the
 return mind set, we can address the issue of technique.
 
@@ -28,8 +28,7 @@ you chip and block returns, they take on the look of your
 volley.** In the pro game today, there is also a
 third option, which is **to move back, particularly on the second
 serve, and let it rip with a full swing.** (For
-more on this see Bobby Bernstein's fine article, [Click
-Here](../../Stroke%20Analysis/Tour%20strokes/The%20Pro%20Return.docx).)
+more on this see Bobby Bernstein's fine article, [link](../../Stroke%20Analysis/Tour%20strokes/The%20Pro%20Return.docx).)
 
 ![A person wearing a white shirt and shorts holding a tennis racket
 Description automatically generated with low
@@ -71,10 +70,9 @@ the split step is critical for the return. As the server makes contact
 with the ball, the returner should split step and establish a wide
 athletic base for quick reaction left or right. That means **a base
 that is two shoulder widths apart, or even wider**,
-**[a low hip position through bending the knees]{.mark}**, and
+**[a low hip position through bending the knees]**, and
 **strong upright back posture**. (For more on the
-Athletic Foundation, [Click
-Here](../Footwork/The%20Athletic%20Foundation.docx).)
+Athletic Foundation, [link](../Footwork/The%20Athletic%20Foundation.docx).)
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -112,9 +110,9 @@ confidence](media_return-technique/media/image5.webp)
 
 **\"Jack in the Box.\" Explosive, but in the wrong direction.**
 
-**Whether you want to [drive or block the return]{.underline}, you must
-learn to [keep the backswing short]{.underline} and [the contact in
-front.]{.underline}** Most players know they should use less swing, but
+**Whether you want to [drive or block the return], you must
+learn to [keep the backswing short] and [the contact in
+front.]** Most players know they should use less swing, but
 still don't. The question is how to learn this. There are two simple,
 but very effective techniques we use at the Academy to help players feel
 how to shorten their motions and time the return. I call them: **The
@@ -242,8 +240,8 @@ shot.** **This is naturally combined with a
 pulling action of the racket back across the
 body.** So if you want to hit great full reach
 returns, **[[prepare by reaching out and positioning the hand behind the
-ball. You'll]{.mark} [be able to use this compact motion to put those
-would be aces back into play.]{.mark}]{.underline}** **You'll also
+ball. You'll] [be able to use this compact motion to put those
+would be aces back into play.]]** **You'll also
 have plenty of power to drive through those off-speed spinners. Remember
 the goal is to go home a winner against those big
 servers!**

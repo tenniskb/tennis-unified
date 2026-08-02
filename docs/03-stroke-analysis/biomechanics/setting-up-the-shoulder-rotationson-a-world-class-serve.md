@@ -6,8 +6,7 @@
 
 **Chas Stumpfel**
 
-In part one of this series, ([Click
-Here](Internal%20Shoulder%20Rotation%20-%20Key%20to%20serving%20power.docx))
+In part one of this series, ([link](Internal%20Shoulder%20Rotation%20-%20Key%20to%20serving%20power.docx))
 we looked in detail at the critical role of upper arm rotation in high
 performance serving. We saw how internal shoulder rotation, producing
 forward racket motion, was the largest contributor to racket head speed
@@ -26,7 +25,7 @@ confidence](media_setting-up-the-shoulder-rotationson-a-world-class-serve/media/
 created and enhanced?**
 
 **[This pre-stretching of muscles, followed by their rapid contraction,
-what is known as a stretch shorten cycle.]{.mark}**
+what is known as a stretch shorten cycle.]**
 
 The first article was devoted simply to describing these two rotations
 that combine in a stretch shorten cycle. Now in this second article
@@ -100,7 +99,7 @@ cycle. In anatomical terminology, those muscles are the latissimus
 dorsi, the pectoralis major, the subscapularis, and the teres major.
 
 [**[This motion to the Trophy Position does two
-things]{.mark}**.]{.underline}
+things]**.]
 
 **First, it increases the speed at which the forearm and racket are
 moving.**
@@ -159,12 +158,12 @@ rotators.**
 
 **[The first motion, the Cartwheel, is the \"shoulder-over-shoulder\"
 motion. This is the change in the tilt between the front and rear
-shoulders.]{.underline}**
+shoulders.]**
 
 **[At the Trophy Position, the tossing shoulder is much higher than the
 hitting shoulder. But from the Trophy Position onward, this tilt
 reverses. The tossing shoulder drops and the hitting shoulder
-rises.]{.mark}**
+rises.]**
 
 How does this contribute to the stretch shorten cycle and the upper arm
 rotations in the shoulder joint? **Like the Leg Thrust, the Cartwheel
@@ -173,7 +172,7 @@ shoulder.**
 
 **[The Cartwheel in turn also increases the external shoulder rotation
 (back and down), again because of the inertia of the forearm and
-racket.]{.mark}** The net effect is added external shoulder rotation and
+racket.]** The net effect is added external shoulder rotation and
 increased stretching of the internal rotators.
 
 ![A person hitting a ball with a tennis racket Description automatically
@@ -196,7 +195,7 @@ position.**
 
 There is a further factor to understand about this Direct Stretch and
 what happens at the Trophy Position **[with the so called 'hip
-thrust'.]{.mark}** **At Trophy Position the hip moves forward toward
+thrust'.]** **At Trophy Position the hip moves forward toward
 the court. This reduces the distance from the hitting arm to the spine
 and, at the same time, stretches the muscles on the tossing side of the
 body.** This magnifies the effect of the Cartwheel.
@@ -209,7 +208,7 @@ needed for this motion.
 **Trunk Turn**
 
 **[The next motion is the Trunk Turn that rotates the upper
-body.]{.mark}** Imagine a line drawn between the two shoulders and
+body.]** Imagine a line drawn between the two shoulders and
 visualize how that line would rotate as seen from above.
 
 The Trunk Turn also accelerates the hitting shoulder forward on a

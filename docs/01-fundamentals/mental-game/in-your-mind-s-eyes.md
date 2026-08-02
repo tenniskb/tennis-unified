@@ -29,7 +29,7 @@ court.**
 **[To play your best tennis, to stay positive, to motivate yourself
 through feelings of optimism and confidence, requires that you have the
 capacity to see or visualize yourself doing exactly those
-things.]{.mark}**
+things.]**
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------
                                      ![A person holding a tennis racket Description automatically generated with medium

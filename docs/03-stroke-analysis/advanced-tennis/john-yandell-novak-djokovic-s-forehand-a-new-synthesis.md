@@ -14,8 +14,7 @@ up there.
 
 It's a huge part of the reason for his success. It is also a
 fascinating stroke when you take a close look at it in our new high
-speed, high definition video. ([Click
-Here](https://www.tennisplayer.net/members/high_speed_archive/phantom/Novak_Djokovic_HD_HS/Novak_Djokovic_HD_HS.html)
+speed, high definition video. ([link](https://www.tennisplayer.net/members/high_speed_archive/phantom/Novak_Djokovic_HD_HS/Novak_Djokovic_HD_HS.html)
 to study it for yourself in the High Speed Archives.)
 
 Close analysis shows that what Djokovic does is quite different from how
@@ -59,8 +58,7 @@ The way Djokovic combines technical elements challenges many of the
 assumptions players and coaches make about how high level forehands work
 in the pro game. When we study it closely, it shows that the options for
 developing a great forehand are even more varied than we have described
-in multiple other Advanced Tennis forehand articles. ([Click
-Here](Advanced%20Tennis%20TOC.docx)). And that is a lot of options.
+in multiple other Advanced Tennis forehand articles. ([link](Advanced%20Tennis%20TOC.docx)). And that is a lot of options.
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -110,8 +108,7 @@ generated](media_john-yandell-novak-djokovic-s-forehand-a-new-synthesis/media/im
 **A Little Background**
 
 As we have seen many times before, there are a multitude of technical
-elements in the modern pro forehand. ([Click
-Here](John%20Yandell-Your%20forehand%20and%20the%20modern%20forehand.docx))
+elements in the modern pro forehand. ([link](John%20Yandell-Your%20forehand%20and%20the%20modern%20forehand.docx))
 These elements are combined in myriad ways by different players. They
 are also combined by the same players in myriad ways at different times.
 
@@ -124,11 +121,9 @@ norm.
 
 What are the specific elements that make the pro forehand so complex and
 difficult to understand? First there is an extremely wide range of grips
-([Click
-Here](John%20Yandell-Your%20forehand%20and%20the%20modern%20forehand.docx))
+([link](John%20Yandell-Your%20forehand%20and%20the%20modern%20forehand.docx))
 and an even wider range of backswings, backswings which are virtually
-unique to every player. ([Click
-Here](John%20Yandell-Your%20forehand%20and%20the%20modern%20forehand.docx).)
+unique to every player. ([link](John%20Yandell-Your%20forehand%20and%20the%20modern%20forehand.docx).)
 
 Players play from a huge range of depths on the court and with a huge
 range of contact heights. They use several variations of open stance but
@@ -158,8 +153,7 @@ around the shoulder, around the torso, or \"reversed,\" coming back over
 the player's head to the same side of the body where the swing began.
 
 All of these finishes can use greater or lesser amounts of hand and arm
-rotation - the so-called windshield wiper effect. ([Click
-Here](John%20Yandell-Your%20forehand%20and%20the%20modern%20forehand.docx).)
+rotation - the so-called windshield wiper effect. ([link](John%20Yandell-Your%20forehand%20and%20the%20modern%20forehand.docx).)
 But there are no absolute correlations between the finishes and either
 the spin rates or the shot trajectories.
 
@@ -178,10 +172,8 @@ combinations.
 **Novak Unique?**
 
 In the past we have looked closely at these elements in general, and
-specifically in the forehands of Federer ([Click
-Here](John%20Yandell-Your%20forehand%20and%20the%20modern%20forehand.docx))
-and Nadal. ([Click
-Here](John%20Yandell-Your%20forehand%20and%20the%20modern%20forehand.docx))
+specifically in the forehands of Federer ([link](John%20Yandell-Your%20forehand%20and%20the%20modern%20forehand.docx))
+and Nadal. ([link](John%20Yandell-Your%20forehand%20and%20the%20modern%20forehand.docx))
 When we look at Djokovic, he combines elements of these players that
 previously appeared to be incompatible.
 

@@ -8,8 +8,7 @@
 
 In the first article in this series about the \"traditional" game we
 looked at the forehand of my friend and practice partner Karsten Popp.
-([Click
-Here](The%20Traditional%20Forehand%20-%20A%20Living%20Model.docx).)
+([link](The%20Traditional%20Forehand%20-%20A%20Living%20Model.docx).)
 Playing Karsten made me take a new look at classic swing patterns, in
 the effort to understand his incredibly aggressive and consistent style.
 
@@ -25,8 +24,7 @@ to my court from a tennis time warp. Since I had made the decision to
 \"modernize" my game years ago, the contrast in the ways we
 played\--from grips to stances to swing shapes\--was fascinating.
 
-As the fantastic Forum discussion showed after the first article ([Click
-Here](http://www.tennisplayer.net/bulletin/showthread.php?t=2183&page=2)),
+As the fantastic Forum discussion showed after the first article ([link](http://www.tennisplayer.net/bulletin/showthread.php?t=2183&page=2)),
 Karsten's forehand is rightly considered classical, but is also built on
 fundamentals that transcend the differences between so-called
 traditional and modern styles.
@@ -52,8 +50,7 @@ grips and heavy spin by players like Richard Gasquet and Stan Wawrinka
 or Justine Henin. These players rotate the grip to the very top or even
 behind the handle, and drive the ball with amazing levels of spin. Then,
 when they slice, they adjust the grip rotating it back to the side of
-the handle. (For more on modern backhand grips [Click
-Here](../../Stroke%20Analysis/Advanced%20Tennis/The%20One%20Handed%20Topspin%20Backhand-Introduction.docx).)
+the handle. (For more on modern backhand grips [link](../../Stroke%20Analysis/Advanced%20Tennis/The%20One%20Handed%20Topspin%20Backhand-Introduction.docx).)
 
 Karsten, on the other hand, uses one grip for all his backhands, a grip
 I would describe as a continental. The palm of his hand is mostly on top
@@ -73,16 +70,14 @@ Karsten hits basically three backhand variations, and not surprisingly,
 none with heavy topspin. He hits a flat drive with very moderate
 topspin. But the majority of his backhands are hard slices, underspin
 drives on the model of players like Ken Rosewall. (For a great
-additional explanation of the slice drive, [Click
-Here](https://www.tennisplayer.net/members/classiclessons/classiclessons/trey_waltke/the_slice_backhand/the_slice_backhand.html)
+additional explanation of the slice drive, [link](https://www.tennisplayer.net/members/classiclessons/classiclessons/trey_waltke/the_slice_backhand/the_slice_backhand.html)
 to read Trey Waltke's article.)
 
 As John Yandell has shown, in the modern pro game the swing patterns on
 the slice backhand are much more radically high to low than in previous
 generations. This is due to the velocity, heavy topspin, and shoulder
 high contact heights that players must deal with in the oncoming ball.
-([Click
-Here](https://www.tennisplayer.net/members/avancedtennis/john_yandell/modern_pro_slice_2/).)
+([link](https://www.tennisplayer.net/members/avancedtennis/john_yandell/modern_pro_slice_2/).)
 
 John's research suggests that the radical downward swings are necessary
 for dealing with these balls, and that these swing shapes also account
@@ -229,8 +224,7 @@ generated](media_the-classic-backhand-karsten-popp/media/image8.webp)
 
 As John Yandell has shown, the closed stance naturally increases the
 shoulder turn, and is common for Federer and other one handers at the
-top level. ([Click
-Here](https://www.tennisplayer.net/members/avancedtennis/john_yandell/one_handed_backhand/hitting_stances/hitting_stances.html).)
+top level. ([link](https://www.tennisplayer.net/members/avancedtennis/john_yandell/one_handed_backhand/hitting_stances/hitting_stances.html).)
 
 What is so interesting is that Karsten moves back and forth between the
 stances naturally. Again we can see that certain elements of modern

@@ -4,7 +4,7 @@
 
 ------------------------------------------------------------------------
 
-![](media_match-preparation/media/image1.jpg)
+![link](media_match-preparation/media/image1.jpg)
 
 **Proper match preparation is a key to becoming a tennis warrior.**
 

@@ -19,8 +19,7 @@ These emotions can be controlled, but the greater the stress, the more
 difficult this task becomes. So part of the emotional control process
 involves reducing the underlying stress by changing one's perspective
 on the competitive situation itself. (For more on how emotions can be
-counterproductive, [Click
-Here](Why%20Emotions%20Can%20Be%20Counter%20Productive.docx).)
+counterproductive, [link](Why%20Emotions%20Can%20Be%20Counter%20Productive.docx).)
 
 Tennis players of all levels, from touring pros to beginning
 recreational players, experience stress from the same basic sources. The
@@ -361,7 +360,7 @@ Visit him at [www.allenfoxtennis.net](http://www.allenfoxtennis.net)
 |  | stress, finishing matches, and developing confidence. Based on a life time of high level play and coaching success, |
 |  | it's a must for all competitive players. |
 |  |  |
-|  | [Click Here to |
+|  | [ to |
 |  | Order](http://www.amazon.com/Tennis-Winning-Mental-Allen-Fox/dp/0615407765/ref=sr_1_1?ie=UTF8&qid=1336083459&sr=8-1). |
 
 
@@ -384,7 +383,7 @@ Visit him at [www.allenfoxtennis.net](http://www.allenfoxtennis.net)
 |  | outline how to confront and overcome these fears in your |
 |  | life and career, even when they are initially subconscious. |
 |  | Must reading from one of the great thinkers in tennis, and |
-|  | a Renaissance Man in life. [Click Here to |
+|  | a Renaissance Man in life. [ to |
 |  | Order](http://www.tennis-warehouse.com/descpage-MIND.html). |
 |  |  |
 |  | To purchase this book you can also send a check for \$17.95 |

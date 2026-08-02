@@ -204,8 +204,7 @@ generated](media_a-new-teaching-system-introduction/media/image6.webp)
 
 As I have explored the incredible technical mastery and variety of the
 games of the best players in my articles in the Advanced Tennis section
-([[Click
-Here]{.underline}](https://www.tennisplayer.net/members/teaching_systems/advtennis.html))
+([[]](https://www.tennisplayer.net/members/teaching_systems/advtennis.html))
 I have tried not only to demonstrate what top players were actually
 doing, but to explain the implications for players at all levels.
 

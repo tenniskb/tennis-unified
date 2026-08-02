@@ -36,7 +36,7 @@ Richmond, California thrift store located right next door to the
 emergency wing of Kaiser hospital. I remember how the outside air
 smelled like hospital drugs, pungent, and not exactly medicinal.
 
-![](media_my-journey-with-string/media/image2.jpg)
+![link](media_my-journey-with-string/media/image2.jpg)
 
 **How many other players remember the Jack Kramer Pro Staff?**
 
@@ -133,8 +133,7 @@ I also experiment with some very unusual combinations of my own: very
 thin fishing wire wrapped horizontally around the crosses; super glued
 crosses; zip cord copper lamp wire under the crosses; even electronic
 parts under the crosses; silicone spray on the strings; spaghetti string
-dual mains. (For more on Spaghetti Strings, [Click
-Here](https://www.tennisplayer.net/members/physics_of_tennis/josh_speakman/spaghetti_strings/).)
+dual mains. (For more on Spaghetti Strings, [link](https://www.tennisplayer.net/members/physics_of_tennis/josh_speakman/spaghetti_strings/).)
 
 Most of these experiments have been made to produce more spin. My most
 successful spin experiment to date: short pieces of drinking straws
@@ -181,9 +180,9 @@ string.) It is made in liquid filled troughs, with workers who wear
 plastic gloves, and lab coats. Don't take my word for it, click on the
 video and see for yourself.
 
-![](media_my-journey-with-string/media/image7.wmf)
+![link](media_my-journey-with-string/media/image7.wmf)
 
-**Click Here to see the amazing manufacturing process for natural gut.**
+** to see the amazing manufacturing process for natural gut.**
 
 Many string testers claim gut has the best feel/control/power/touch
 combination, so why don't more pros use it? With the increases in
@@ -245,8 +244,7 @@ Elongation occurs when lead is up higher, such as 12 oclock or lower,
 such as in the handle or lower on the hoop.
 
 We have seen in Josh Speckman's articles how poly string really works,
-through the \"snap back\" mechanism. ([Click
-Here](../../More/Tennis%20Science/Copoly%20Strings%20-%20How%20Do%20They%20Really%20Work.docx).)
+through the \"snap back\" mechanism. ([link](../../More/Tennis%20Science/Copoly%20Strings%20-%20How%20Do%20They%20Really%20Work.docx).)
 You get the same effect with a more open string pattern. This is because
 there is less friction on the mains due to a wider space in between
 mains and crosses in the impact zone, and this causes more snap back.
@@ -349,9 +347,9 @@ generated](media_my-journey-with-string/media/image13.jpg)
 **Great tennis players like great quarterbacks all stagger time.**
 
 **[[They slow down time, and control the body's internal rhythm, to
-create the \"grape fruit\" effect.]{.mark} [To them, the ball is moving
+create the \"grape fruit\" effect.] [To them, the ball is moving
 slower and seems bigger, making it an easier target for them to
-attack.]{.mark}]{.underline}**
+attack.]]**
 
 **The same goes for other athletes in other sports, such as football.
 Quarterbacks talk about \"slowing down time\" and how long it takes them

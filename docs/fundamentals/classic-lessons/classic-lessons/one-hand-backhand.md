@@ -85,8 +85,8 @@ tennis ball through the space in the feet in the staggered setup.
 
 As I discuss in the other swinging volley articles in this series,
 distance management can be challenging for players learning this shot.
-([**Click Here**](https://www.tennisplayer.net/members/classiclessons/chris_lewit/forehand_swing_volley) for
-forehand swinging volley. [**Click Here**](https://www.tennisplayer.net/members/classiclessons/chris_lewit/backhand_swing_volley) for
+([**link**](https://www.tennisplayer.net/members/classiclessons/chris_lewit/forehand_swing_volley) for
+forehand swinging volley. [**link**](https://www.tennisplayer.net/members/classiclessons/chris_lewit/backhand_swing_volley) for
 two hand backhand swing volley.)
 
 Mistakes in spacing are common when moving forwards because players
@@ -159,7 +159,7 @@ front foot hop, and second, the knee-up style.
 
 The front foot hop is the classic and most simple way to leap into the
 ball. We saw how this works in the two hand backhand swing volley
-article. ([**Click Here**](https://www.tennisplayer.net/members/classiclessons/chris_lewit/backhand_swing_volley).)
+article. ([**link**](https://www.tennisplayer.net/members/classiclessons/chris_lewit/backhand_swing_volley).)
 The player sets up a closed stance base of support as if for a regular
 grounded swing, but then explodes upwards and forwards, landing on the
 front leg with a rear leg kick back for balance. This aids the
@@ -212,14 +212,14 @@ Once again, Roger Federer is the king of this strategy.
 
 If you have a one handed backhand yourself, you should review my
 articles on building the technical fundamentals of the stroke.
-([**Click Here**](https://www.tennisplayer.net/members/classiclessons) to
+([**link**](https://www.tennisplayer.net/members/classiclessons) to
 find that series.)
 
 Federer is the best at taking time away with the swing volley.
 
 I hope you will consider adding the swing volley to your one-handed
 game. John Yandell for one believes that the swing volley could be the
-next level in attacking tennis. ([**Click Here**](https://www.tennisplayer.net/members/strategy/john_yandell/swinging_volley).)
+next level in attacking tennis. ([**link**](https://www.tennisplayer.net/members/strategy/john_yandell/swinging_volley).)
 
 If you are a parent or coach, these same resources will help you
 understand the nuances and fundamentals that are important for your

@@ -27,7 +27,7 @@ There are two related problems with these analogies. First, rather than
 simplifying our explanations of the strokes, they actually make them
 more complex. ***[What a tennis serve most resembles isn't a baseball
 pitch, a javelin throw, or any other motion from any other
-sport.]{.mark}*** The motion a tennis serve most resembles is a tennis
+sport.]*** The motion a tennis serve most resembles is a tennis
 serve! Why try to hit a serve by emulating a motion from some other
 sport that may be bio-mechanically completely different?
 
@@ -61,19 +61,19 @@ Take a look at the animations of the two motions and several major
 differences are obvious. ***[The first and most obvious difference is
 that tennis is played by striking the ball with an implement, that is, a
 tennis racquet. A pitcher pitches holding a ball in his bare
-hand.]{.mark}***
+hand.]***
 
 **[Second, the balls are quite different. In addition to being made with
 completely different materials, a baseball is a about one third larger
 than a tennis ball, weighs more than twice as much, and has protruding,
-stitched seems.]{.mark}**
+stitched seems.]**
 
 ***[A third major difference is the trajectories of the two balls. With
 the racquet in his hand, a player of roughly Pete's height makes
 contact with the ball about 10 feet above the court. A pitcher of the
 same size releases the ball at a height of about 6 feet above the
 ground\--about 4 feet lower than the height of the serve at
-contact.]{.mark}***
+contact.]***
 
 ![Diagram Description automatically
 generated](media_myth-of-the-pitch/media/image3.jpg)
@@ -249,7 +249,7 @@ has to do with the lower trajectory taken by the baseball.
 is a disaster on the serve. It's a common problem with junior players
 and even effects top pros like Venus Williams. The throwing analogy,
 taken seriously, can encourage these torso movements-early rotation and
-bending at the waist. Both are destructive to the serve.]{.mark}***
+bending at the waist. Both are destructive to the serve.]***
 
 | ![A baseball player throwing a ball Description automatically | ![A person playing tennis Description automatically generated with medium |
 | --- | --- |
@@ -296,7 +296,7 @@ soon in the motion.
 court, his back or rear leg is in the air. This is the technical end of
 the motion. He has landed on balance on the front foot, and now has the
 option to either take the next step forward to the net, or recover into
-the ready position if he plans to stay back.]{.mark}**
+the ready position if he plans to stay back.]**
 
 Compare this to Jason's leg. There is a long, almost lazy cross step
 forward and across his body with his back foot, the natural effect of

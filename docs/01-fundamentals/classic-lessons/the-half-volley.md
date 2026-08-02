@@ -49,7 +49,7 @@ titles. As the great Ecuadorian player and coach Pancho Segura put it,
 
 **[As serve and volley disappeared from the modern game, however, the
 half volley became increasingly ignored by coaches and teaching
-pros.]{.mark}**
+pros.]**
 
 Don't make that same mistake. The fact is that every player needs the
 half volley. It's still critical in club doubles. In singles players
@@ -176,7 +176,7 @@ rhythm.\"
 deep so that your half volley lands about a yard inside the baseline. If
 your opponent is positioned where your down-the-line shot would go, and
 if you have the time, go aggressively crosscourt and
-deep.]{.underline}***
+deep.]***
 
 **In doubles, the key is to keep your half volley away from the net
 player. When both opponents are positioned at net, use more topspin and

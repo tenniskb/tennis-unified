@@ -15,11 +15,11 @@ opponents and to transition from defense to offense.
 
 The Contact Move is a unifying concept I have developed to make sense of
 the diversity of movement patterns out to the ball, during the hit, and
-then in the recovery phase. [Click Here](Footwork%20TOC.docx)
+then in the recovery phase. [link](Footwork%20TOC.docx)
 
 We started our analysis of defensive moves by looking at the Power Move.
 This is the footwork pattern used by top players to hit on the full run.
-[Click Here](Contact%20Moves%20-%20The%20Power%20Move.docx) **We
+[link](Contact%20Moves%20-%20The%20Power%20Move.docx) **We
 saw that top players use the Power Move to go for broke by attempting
 running forehand winners.**
 
@@ -45,8 +45,8 @@ movement.**
 generated](media_contact-moves-the-mogul-move/media/image2.webp)
 
 **[[When players use the Power Move, they end up going far beyond the
-ball. But]{.mark} [with the Mogul Move, this movement is more
-controlled.]{.mark}]{.underline}** **The Mogul Move allows players to
+ball. But] [with the Mogul Move, this movement is more
+controlled.]]** **The Mogul Move allows players to
 control their bodies and go only one step beyond the
 ball.**
 
@@ -92,7 +92,7 @@ outside foot to start the recovery.** **[If the
 player has not traveled far, the recovery steps can be shuffle steps.
 More commonly, the takes a small drop step with the inside foot,
 followed by one or two crossover steps and then shuffle steps to the
-middle.]{.underline}**
+middle.]**
 
 We also see players execute Mogul Moves when moving diagonally either
 forward or backwards to the ball, and then recovering back toward the
@@ -117,7 +117,7 @@ in the pantheon of high level pro movement patterns.
 
 Next: The Reverse Spin Contact Move! Stay Tuned.
 
-![](media_contact-moves-the-mogul-move/media/image6.jpeg)
+![link](media_contact-moves-the-mogul-move/media/image6.jpeg)
 
 David Bailey is a native Australian who has spent 15 years studying
 tennis at the professional level. He has developed a new language for
@@ -129,8 +129,6 @@ the Bailey Method, has become a regular part of the coaching curriculum
 at the Nick Bollettierri Tennis Academy, where it is personally endorsed
 by Nick
 
-Visit David's Website! [**[Click
-Here!]{.underline}**](http://www.baileytennisfootwork.com/)
+Visit David's Website! [**[!]**](http://www.baileytennisfootwork.com/)
 
-To Contact David directly [**[Click
-Here!]{.underline}**](mailto:david@baileytennisfootwork.com)
+To Contact David directly [**[!]**](mailto:david@baileytennisfootwork.com)

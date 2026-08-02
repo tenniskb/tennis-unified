@@ -103,9 +103,9 @@ is across in the direction you are moving.
 
 **[This first step across turns the whole body sideways to the net. The
 first step is either small, medium or large depending on where the ball
-is going.]{.underline}** **[The size of first step dictates the stride
+is going.]** **[The size of first step dictates the stride
 length for the second step. You want your strides to be of equal length,
-which will give you good balance and timing.]{.mark}**
+which will give you good balance and timing.]**
 
 **With the exception of the gravity step (see below), the first step
 must be in the direction you need to go.** This
@@ -135,7 +135,7 @@ generated](media_first-two-steps-the-key-to-quickness/media/image9.jpg)
 to the baseline, keeping your knees and hips sideways.**
 
 **[This second step also positions the back foot parallel to the
-baseline]{.underline}**. If the foot is parallel to the baseline, the
+baseline]**. If the foot is parallel to the baseline, the
 knees and hips must also be sideways to the net. After the second step,
 you are in position to hit with either an open stance or a resistance
 stance. You are also in position to step into the ball and create a

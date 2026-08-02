@@ -3,7 +3,7 @@
 ### By Nick Saviano
 
 In this series of articles excerpted from his new book ***[Maximum
-Tennis: 10 Keys to Unleashing Your On-Court Potential]{.mark}***, Nick
+Tennis: 10 Keys to Unleashing Your On-Court Potential]***, Nick
 Saviano presents the keys to optimizing your technique, no matter what
 your level of play.
 
@@ -170,7 +170,7 @@ technique.
 4.  **Flexible and versatile**. It can be adapted to the tactical
     requirements of match situations.
 
-5.  [**Compatible**.]{.mark} It facilitates your ability to play the
+5.  [**Compatible**.] It facilitates your ability to play the
     game consistent with your personality **\<\< and also the physical
     ability, e.g. short, slow, weak, etc.\>\>.**
 
@@ -386,8 +386,7 @@ Stay tuned.
                                                                                                                                                                                          the concepts any player can learn\--and every coach can teach\--to help you reach your
                                                                                                                                                                                          full potential and enhance your love of the game.\
                                                                                                                                                                                          \
-                                                                                                                                                                                         [Click
-                                                                                                                                                                                         Here](https://www.amazon.com/Maximum-Tennis-Unleashing-Court-Potential/dp/0736042008)
+                                                                                                                                                                                         [link](https://www.amazon.com/Maximum-Tennis-Unleashing-Court-Potential/dp/0736042008)
                                                                                                                                                                                          to Order!
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ---------------------------------------------------------------------------------------
 
@@ -410,7 +409,7 @@ Stay tuned.
 |  | Potential\" is a best selling instructional |
 |  | title. |
 |  |  |
-|  | [Click Here](http://www.savianotennis.com/) for |
+|  | [link](http://www.savianotennis.com/) for |
 |  | more information on training with Nick Saviano. |
 
 

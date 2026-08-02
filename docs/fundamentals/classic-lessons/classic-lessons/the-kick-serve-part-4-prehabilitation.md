@@ -7,13 +7,12 @@
 **Prehabilitation means regular flexibility and strength training.**
 
 In the first article on the kick serve, I presented the technical
-reference points ([Click Here](Keys%20to%20the%20Kick%20Serve.docx)) for
+reference points ([link](Keys%20to%20the%20Kick%20Serve.docx)) for
 developing the motion. The second article covered drill progressions for
-all the variations. [Click Here](Constructing%20the%20Kick.docx) Then
+all the variations. [link](Constructing%20the%20Kick.docx) Then
 in the third article we discussed the various controversies regarding
 teaching and hitting the kick and detailed 5 common errors I see in
-trying to develop the motion. ([Click
-Here](The%20Kick%20Serve-Part%203-Phylosophic%20Issues-Common%20Mistakes.docx).)
+trying to develop the motion. ([link](The%20Kick%20Serve-Part%203-Phylosophic%20Issues-Common%20Mistakes.docx).)
 
 Now in this final article, I want to present the last critical component
 in my system. This what I call my prehabilitation program, something I

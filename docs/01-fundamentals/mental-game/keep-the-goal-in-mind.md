@@ -4,7 +4,7 @@
 
 ------------------------------------------------------------------------
 
-![](media_keep-the-goal-in-mind/media/image1.png)
+![link](media_keep-the-goal-in-mind/media/image1.png)
 
 The champions never forget where their best interests lie. While the
 winners do not consciously focus on their ultimate goals at all times,
@@ -107,7 +107,7 @@ and at the last moment, exert enough self-control (although it didn't
 look like it) to avoid crossing it.
 
   -----------------------------------------------------------------------------------------------------------------------------------
-  ![](media_keep-the-goal-in-mind/media/image4.png)
+  ![link](media_keep-the-goal-in-mind/media/image4.png)
   -----------------------------------------------------------------------------------------------------------------------------------
 
   **John McEnroe: a fiery temperament, but rational at the last instant.**
@@ -173,7 +173,7 @@ Visit him at [www.allenfoxtennis.net](http://www.allenfoxtennis.net)
 |  | stress, finishing matches, and developing confidence. Based on a life time of high level play and coaching success, |
 |  | it's a must for all competitive players. |
 |  |  |
-|  | [Click Here to |
+|  | [ to |
 |  | Order](http://www.amazon.com/Tennis-Winning-Mental-Allen-Fox/dp/0615407765/ref=sr_1_1?ie=UTF8&qid=1336083459&sr=8-1). |
 
 
@@ -196,7 +196,7 @@ Visit him at [www.allenfoxtennis.net](http://www.allenfoxtennis.net)
 |  | outline how to confront and overcome these fears in your |
 |  | life and career, even when they are initially subconscious. |
 |  | Must reading from one of the great thinkers in tennis, and |
-|  | a Renaissance Man in life. [Click Here to |
+|  | a Renaissance Man in life. [ to |
 |  | Order](http://www.tennis-warehouse.com/descpage-MIND.html). |
 |  |  |
 |  | To purchase this book you can also send a check for \$17.95 |

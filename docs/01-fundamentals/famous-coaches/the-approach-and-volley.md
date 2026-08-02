@@ -14,7 +14,7 @@
 position to make a clean volley.** ***[The best
 ball to approach on is a short ball, one that lands on or near the
 service line because from there, you can get to the net with the fewest
-steps.]{.mark}***
+steps.]***
 
 By moving to the net behind your stroke, you are in a sense running
 forward as you hit the ball. Moving forward while hitting the ball will
@@ -52,14 +52,14 @@ course, finish out the follow through.
 **Most approach shots should be hit down the
 line.** **[That's the safest position to hit the
 ball because your position on the court will [allow you to get to the
-net quicker]{.underline} (the shortest distance to the net) and [allow
-you to cover the down the line passing shot]{.underline} which is the
-shortest distance the ball can travel to get by you.]{.mark}**
+net quicker] (the shortest distance to the net) and [allow
+you to cover the down the line passing shot] which is the
+shortest distance the ball can travel to get by you.]**
 
 **Approaching down the line allows you to stay in control of the point
 until you have a clear opportunity to finish.**
 **[Hitting the approach crosscourt opens the court for your opponent to
-take control of the point.]{.mark}** 
+take control of the point.]** 
 
 **Approaching crosscourt is a fundamental mistake in net play at all
 levels - falling for the temptation to hit into
@@ -74,10 +74,10 @@ hit it a dog gone good one because if you don't hurt your opponent,
 he/she will have an opening to pass you right down the line.
 
 **[Again, the key is to move forward with the shoulders coiled and the
-racquet back.]{.underline}** **[Then uncoil as you hit and step through.
+racquet back.]** **[Then uncoil as you hit and step through.
 Remember to keep moving through the ball as you hit it. That gets you to
 the net quicker and allows you to close down the passing
-angles]{.mark}**.
+angles]**.
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A person hitting a ball with a tennis racket Description automatically
@@ -125,7 +125,7 @@ further away from the net, the volleyer's angles are reduced and it
 becomes more difficult to end the point.**
 
   -----------------------------------------------------------------------------------------------------------------------------------------
-  ![](media_the-approach-and-volley/media/image4.wmf)\
+  ![link](media_the-approach-and-volley/media/image4.wmf)\
   **Click Photo to see what Allen Fox has to say about closing the net.**
   -----------------------------------------------------------------------------------------------------------------------------------------
 
@@ -240,7 +240,7 @@ off.**
 |  | stress, finishing matches, and developing confidence. Based on a life time of high level play and coaching success, |
 |  | it's a must for all competitive players. |
 |  |  |
-|  | [Click Here to |
+|  | [ to |
 |  | Order](http://www.amazon.com/Tennis-Winning-Mental-Allen-Fox/dp/0615407765/ref=sr_1_1?ie=UTF8&qid=1336083459&sr=8-1). |
 
 
@@ -263,7 +263,7 @@ off.**
 |  | outline how to confront and overcome these fears in your |
 |  | life and career, even when they are initially subconscious. |
 |  | Must reading from one of the great thinkers in tennis, and |
-|  | a Renaissance Man in life. [Click Here to |
+|  | a Renaissance Man in life. [ to |
 |  | Order](http://www.tennis-warehouse.com/descpage-MIND.html). |
 |  |  |
 |  | To purchase this book you can also send a check for \$17.95 |

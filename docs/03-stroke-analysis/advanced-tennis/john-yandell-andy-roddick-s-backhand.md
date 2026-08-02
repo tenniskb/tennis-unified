@@ -4,8 +4,7 @@
 
 In this series of articles we've taken a close look at the two-handed
 backhand in pro tennis and broken it down into the commonalities and the
-differences among the various players and styles. ([Click
-Here](Advanced%20Tennis%20TOC.docx).) We've looked at many or even most
+differences among the various players and styles. ([link](Advanced%20Tennis%20TOC.docx).) We've looked at many or even most
 of the great two-handers in the game. But you may have noticed there is
 one player we haven't looked at or analyzed: Andy Roddick. Until now,
 that is.
@@ -70,8 +69,7 @@ Andy: Bent/Straight**
 
 We saw in one of the previous articles how we can group the two-handed
 players according to the hitting arm configurations they use. We saw
-that there are 4 basic configurations. ([Click
-Here](http://www.tennisplayer.net/members/avancedtennis/john_yandell/two_handed_backhand/2hd_bh_simplest_complex/2hd_bh_simplest_complex.html).)
+that there are 4 basic configurations. ([link](http://www.tennisplayer.net/members/avancedtennis/john_yandell/two_handed_backhand/2hd_bh_simplest_complex/2hd_bh_simplest_complex.html).)
 We also saw that most men hit with what we called a \"Bent/Straight\"
 combination, with the front arm bent and the rear arm straight at the
 contact. Andy definitely falls into that category.
@@ -113,8 +111,7 @@ I doubt Andy could do that. This is because he doesn't make that same
 grip shift. He definitely changes his grip, but just not far enough to
 be called a true backhand grip. As we saw in the forehand series, he has
 an extreme semi-western grip. And his hand rotates significantly toward
-the top of the frame when he prepares to hit his backhand. ([Click
-Here](http://www.tennisplayer.net/members/avancedtennis/john_yandell/building%20_the_modern%20_forehand/key_differences_grip_styles/key_differences_grip_styles.html).)
+the top of the frame when he prepares to hit his backhand. ([link](http://www.tennisplayer.net/members/avancedtennis/john_yandell/building%20_the_modern%20_forehand/key_differences_grip_styles/key_differences_grip_styles.html).)
 but his grip doesn't go as far as the other players with his hitting
 arm combination. It's hard to tell down to the exact millimeter even
 with the high speed video, but Andy's grip looks more like an old style

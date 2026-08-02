@@ -250,7 +250,7 @@ back to a neutral position.
 generated](media_contact-moves-the-step-down/media/image10.webp)
 
 **[The Cha Cha Cha: a step out, a step across, then a step behind the
-ball.]{.underline}**
+ball.]**
 
 **Cha Cha Cha**
 
@@ -277,7 +277,7 @@ and with less extreme side to side movement.
 Next we'll start to look at the other more advanced forms of aggressive
 footwork that are more common in the pros. Stay Tuned.
 
-![](media_contact-moves-the-step-down/media/image11.jpeg)
+![link](media_contact-moves-the-step-down/media/image11.jpeg)
 
 David Bailey is a native Australian who has spent 15 years studying
 tennis at the professional level. He has developed a new language for
@@ -289,8 +289,6 @@ the Bailey Method, has become a regular part of the coaching curriculum
 at the Nick Bollettierri Tennis Academy, where it is personally endorsed
 by Nick
 
-Visit David's Website! [**[Click
-Here!]{.underline}**](http://www.baileytennisfootwork.com/)
+Visit David's Website! [**[!]**](http://www.baileytennisfootwork.com/)
 
-To Contact David directly [**[Click
-Here!]{.underline}**](mailto:david@baileytennisfootwork.com)
+To Contact David directly [**[!]**](mailto:david@baileytennisfootwork.com)

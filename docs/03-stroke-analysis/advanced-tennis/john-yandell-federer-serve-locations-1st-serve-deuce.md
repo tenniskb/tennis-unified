@@ -10,8 +10,7 @@ confidence](media_john-yandell-federer-serve-locations-1st-serve-deuce/media/ima
 placements in the deuce court seem invisible.**
 
 In a previous article we looked at how Roger Federer varied his upward
-swing in the ad court to produce serves wide and down the T. ([Click
-Here](John%20Yandell-Federer%20Serve%20Locations-1st%20Serve%20Ad%20Court.docx).)
+swing in the ad court to produce serves wide and down the T. ([link](John%20Yandell-Federer%20Serve%20Locations-1st%20Serve%20Ad%20Court.docx).)
 
 Now let's turn to the same issue in the other box. What are the
 differences in the motion to serve the corners of the deuce court?
@@ -28,8 +27,7 @@ racket continued to rotate as a unit.
 If you watch the bottom edge of the racket, you can see that it turns
 over roughly 90 degrees as it moves to the contact and then roughly
 another 90 degrees as it moves out in the followthrough finishing on
-edge with the court. (For more detail on how this works, [Click
-Here](John%20Yandell-Roger%20Federer%20Serve%20-The%20Upward%20Swing.docx).)
+edge with the court. (For more detail on how this works, [link](John%20Yandell-Roger%20Federer%20Serve%20-The%20Upward%20Swing.docx).)
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -166,12 +164,11 @@ The wide serve will have a slightly higher sidespin component. The T
 serve will tend to have more topspin.
 
 Research has demonstrated that all high level serves are hit with a
-mixture of sidespin and topspin. ([Click
-Here](https://www.tennisplayer.net/members/avancedtennis/john_yandell/mystheavyball/john_yandell/spin_rates_axis_of_rotation/).)
+mixture of sidespin and topspin. ([link](https://www.tennisplayer.net/members/avancedtennis/john_yandell/mystheavyball/john_yandell/spin_rates_axis_of_rotation/).)
 There is no such thing as a purely "slice" or "topspin" serve.
 
 **[The majority of spin on all serves is sidespin, with a varying, much
-smaller topspin component.]{.mark}**
+smaller topspin component.]**
 
 But the racket path that produces the wide serve placement changes this
 balance and produces a higher sidespin component. In the serve down the

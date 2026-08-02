@@ -18,7 +18,7 @@ change. The turn and racket position, and the counter balance. This
 emphasis could be just what your one-hander doesn't have. And could
 transform it!
 
-![](media_the-one-handed-backhand-the-essential-non-dominant-hand/media/image1.png)
+![link](media_the-one-handed-backhand-the-essential-non-dominant-hand/media/image1.png)
 
 ![A person smiling for the camera](media_the-one-handed-backhand-the-essential-non-dominant-hand/media/image2.jpeg)
 

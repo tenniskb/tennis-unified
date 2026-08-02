@@ -240,7 +240,6 @@ competitive tennis. It includes detailed self-assessment questionnaires
 and plans of action to help any player our coach use sports psychology
 to reach the next level.
 
-To Order Next-Level Coaching, [Click
-Here!](https://www.amazon.com/Next-Level-Coaching-Psychology-Student-Athlete-Performance/dp/1632991772/ref=sr_1_1?crid=2XO9EVQF6XBZA&keywords=ben+loeb&qid=1552685920&s=gateway&sprefix=Ben+Loeb%2Caps%2C187&sr=8-1)
+To Order Next-Level Coaching, [!](https://www.amazon.com/Next-Level-Coaching-Psychology-Student-Athlete-Performance/dp/1632991772/ref=sr_1_1?crid=2XO9EVQF6XBZA&keywords=ben+loeb&qid=1552685920&s=gateway&sprefix=Ben+Loeb%2Caps%2C187&sr=8-1)
 
 ------------------------------------------------------------------------

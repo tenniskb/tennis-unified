@@ -12,7 +12,7 @@ to use the whole court by becoming accurate and confident with
 angles\--and not hesitating to come forward by hitting combinations that
 open the court.
 
-![](media_opening-the-court-part-6/media/image1.png)
+![link](media_opening-the-court-part-6/media/image1.png)
 
   --
 

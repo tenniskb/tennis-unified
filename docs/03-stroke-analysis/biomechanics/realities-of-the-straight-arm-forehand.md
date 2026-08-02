@@ -8,8 +8,7 @@ Brian Gordon changed the way the tennis world looked at the forehand
 almost 10 years ago now with the results of his biomechanical research,
 introducing the concept of the ATP forehand. What his data showed was
 that a compact outside backswing, a flip into what he called the
-\"dynamic slot,\" ([Click
-Here](Developing%20an%20ATP%20Forehand%20-%20Part1.docx)) and making
+\"dynamic slot,\" ([link](Developing%20an%20ATP%20Forehand%20-%20Part1.docx)) and making
 contact with a straight hitting arm optimized the creation of speed
 combined with spin, Roger Federer being the pure model.
 
@@ -21,7 +20,7 @@ realities of training elite players. Hear him discuss the range of
 options and also give his take on forehands hit with various degrees of
 elbow bend.
 
-![](media_realities-of-the-straight-arm-forehand/media/image1.wmf)
+![link](media_realities-of-the-straight-arm-forehand/media/image1.wmf)
 
 | ![A person holding a tennis racket Description automatically | Dr. Brian Gordon has changed the understanding of the |
 | --- | --- |
@@ -35,8 +34,8 @@ elbow bend.
 |  | knowledge across the entire range of tennis performance. |
 |  |  |
 |  | To visit his website, [**[Click |
-|  | Here!]{.underline}**](https://tennisperformanceresearch.com/) |
+|  | Here!]**](https://tennisperformanceresearch.com/) |
 |  |  |
 |  | Top contact him directly, [**[Click |
-|  | Here!]{.underline}**](mailto:gamabrian@icloud.com) |
+|  | Here!]**](mailto:gamabrian@icloud.com) |
 

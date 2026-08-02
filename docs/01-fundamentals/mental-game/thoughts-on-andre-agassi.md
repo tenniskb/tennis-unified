@@ -101,10 +101,10 @@ maybe religion, a happy marriage, maturity, self-analysis,
 catharsis\--whatever - he seems to be willing to toss public
 expectations aside and tell it like it is, warts and all.
 
-![](media_thoughts-on-andre-agassi/media/image4.png)
+![link](media_thoughts-on-andre-agassi/media/image4.png)
 
   --------------------------------------------------------------------
-    **Click Here to hear Andre talk more about the issues around his
+    ** to hear Andre talk more about the issues around his
                    drug use and why he went public.**
 
   --------------------------------------------------------------------
@@ -140,7 +140,7 @@ gains, so I don't buy the contention that he came out with all this
 information damaging to his image just to sell books.
 
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![](media_thoughts-on-andre-agassi/media/image5.jpg)
+  ![link](media_thoughts-on-andre-agassi/media/image5.jpg)
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------
   **Crystal meth: does this look like a performance enhancing drug?**
 
@@ -221,7 +221,7 @@ Visit him at [www.allenfoxtennis.net](http://www.allenfoxtennis.net)
 |  | stress, finishing matches, and developing confidence. Based on a life time of high level play and coaching success, |
 |  | it's a must for all competitive players. |
 |  |  |
-|  | [Click Here to |
+|  | [ to |
 |  | Order](http://www.amazon.com/Tennis-Winning-Mental-Allen-Fox/dp/0615407765/ref=sr_1_1?ie=UTF8&qid=1336083459&sr=8-1). |
 
 
@@ -244,7 +244,7 @@ Visit him at [www.allenfoxtennis.net](http://www.allenfoxtennis.net)
 |  | outline how to confront and overcome these fears in your |
 |  | life and career, even when they are initially subconscious. |
 |  | Must reading from one of the great thinkers in tennis, and |
-|  | a Renaissance Man in life. [Click Here to |
+|  | a Renaissance Man in life. [ to |
 |  | Order](http://www.tennis-warehouse.com/descpage-MIND.html). |
 |  |  |
 |  | To purchase this book you can also send a check for \$17.95 |

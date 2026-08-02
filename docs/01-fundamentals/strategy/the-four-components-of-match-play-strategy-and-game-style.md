@@ -39,7 +39,7 @@ style, tactics, and patterns.
 | **[Four Components |
 | --- |
 | of Match |
-| Play:]{.underline}** |
+| Play:]** |
 | 1.  **Strategy** |
 |  |
 | 2.  **Gamestyle** |

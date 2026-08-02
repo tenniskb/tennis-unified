@@ -9,8 +9,7 @@
 In the previous articles we have covered a lot of territory in our
 understanding of the one-handed backhand, including the core elements of
 the stroke, the stances, and the differences between the classical and
-extreme styles. ([Click
-Here](The%20One%20Handed%20Topspin%20Backhand-Hitting%20Stances.docx).)
+extreme styles. ([link](The%20One%20Handed%20Topspin%20Backhand-Hitting%20Stances.docx).)
 
 Now let's move on to one final element. This is hand and arm rotation.
 The rotation of the hand, arm, and racket are critical in understanding
@@ -36,8 +35,7 @@ net.**
 
 When it comes to the forehand, the wide range and varying degrees of
 hand and arm rotation is one of the most complex and confusing elements
-to understand. ([Click
-Here](http://www.tennisplayer.net/members/avancedtennis/john_yandell/building%20_the_modern%20_forehand/key_differences_grip_styles/key_differences_grip_styles_page4.html).)
+to understand. ([link](http://www.tennisplayer.net/members/avancedtennis/john_yandell/building%20_the_modern%20_forehand/key_differences_grip_styles/key_differences_grip_styles_page4.html).)
 
 This rotation is less extreme and harder to observe in the one-handed
 backhand. But it is still an important factor, especially in generating
@@ -66,7 +64,7 @@ When we think of the classic one-handed drive, we think of the racket
 coming through with the racket edge close perpendicular to the net at
 the finish. ***[If you watch closely as the hitting arm moves through
 the hit, you'll see that there actually is some rotation of the hand
-and arm in the classic on edge finish.]{.mark}*** It's subtle and
+and arm in the classic on edge finish.]*** It's subtle and
 usually limited to about 45 degrees or so. But if you look for it, you
 can see that it's there.
 
@@ -196,7 +194,7 @@ about 45 degrees.
 ***[But look closely and see how this happens after the contact as the
 racket moves outward into the followthrough. This is again similar to
 the serve. The release of the wrist occurs after the contact as a result
-of the forces of the swing.]{.mark}***
+of the forces of the swing.]***
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -209,8 +207,7 @@ unit\--before the wrap.**
 
 In our previous analysis we saw that on more basic backhand drives the
 elbow sometimes relaxes and bends backwards when the racket moves from
-the followthrough into the wrap phase. ([Click
-Here](The%20One%20Handed%20Topspin%20Backhand-The%20Forward%20Swing.docx).)
+the followthrough into the wrap phase. ([link](The%20One%20Handed%20Topspin%20Backhand-The%20Forward%20Swing.docx).)
 This same wrapping effect is probably as common or more common when the
 hand and arm rotation are increased.
 
@@ -220,8 +217,7 @@ Not Try This at Home.) Watch the extreme hand and arm rotation which
 undoubtedly contributes to his ability to generate spin. You can see
 that the elbow bends and moves substantially backwards. It all happens
 really fast and the wrap can appear to be part of the forward hitting
-motion. (For more on the Myth of the Wrap, [Click
-Here](http://www.tennisplayer.net/members/avancedtennis/john_yandell/the_myth/the_myth_of_the_wrap_images/the_myth_of_the_wrap.html).)
+motion. (For more on the Myth of the Wrap, [link](http://www.tennisplayer.net/members/avancedtennis/john_yandell/the_myth/the_myth_of_the_wrap_images/the_myth_of_the_wrap.html).)
 
 **But look closely at when all this really happens. Watch the hand and
 racket rotate, but notice that as they rotate the arm stays straight all
@@ -242,7 +238,7 @@ elbow.**
 **[In other extreme cases, however, the elbow can bend earlier, before
 the racket reaches full extension. This is usually on low balls, when
 the upward component of the swing is especially fast, undoubtedly
-increased by the additional hand and arm rotation.]{.mark}**
+increased by the additional hand and arm rotation.]**
 
 In these cases the rotation from the forearm probably gets ahead of the
 upper arm rotation, and just takes over the brushing action. Since the
@@ -276,7 +272,7 @@ hand and arm rotation can make a difference in the effectiveness of your
 one-hander. The first is in the creation of short angles, especially on
 passing shots. The second is creating spin on low balls to hit up over
 the net and/or hit deep looping replies. A third is to control fast high
-bouncing balls. Another is to hit topspin lobs.]{.mark}***
+bouncing balls. Another is to hit topspin lobs.]***
 
 Players who want to develop this should experiment first in controlled
 drill, ideally with a teaching pro or on a ball machine. Don't just

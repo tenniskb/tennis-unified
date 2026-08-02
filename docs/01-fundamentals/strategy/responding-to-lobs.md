@@ -4,7 +4,7 @@
 
 ------------------------------------------------------------------------
 
-![](media_responding-to-lobs/media/image1.png)
+![link](media_responding-to-lobs/media/image1.png)
 
 The best response to a lob is to crush an overhead winner. But what if
 the ball gets over you? In this original article for Tennisplayer,

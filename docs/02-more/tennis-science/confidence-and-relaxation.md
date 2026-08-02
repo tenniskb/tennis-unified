@@ -36,8 +36,7 @@ There are a variety of strategies to overcome these negative loops. They
 include thought stoppage, positive body language, goal setting, the use
 of imagery, focus on process rather than outcome, and the ability to
 increase and decrease intensity. (To read Jim Loehr's article on moving
-from negative to positive, [Click
-Here](https://www.tennisplayer.net/members/mentalgame/jim_loehr/jim_loehr_breathing_mental_game_images/jim_loehr_breathing_mental_game.html).)
+from negative to positive, [link](https://www.tennisplayer.net/members/mentalgame/jim_loehr/jim_loehr_breathing_mental_game_images/jim_loehr_breathing_mental_game.html).)
 
 Self-talk\--the use of positive and motivational key words---is one of
 the most effective strategies. Research has shown that negative
@@ -49,7 +48,7 @@ thoughts (for instance, \"win this point\"). The conclusion is that
 those players who believe in the utility of positive self-talk win more
 points than players who do not.
 
-![](media_confidence-and-relaxation/media/image2.jpg)
+![link](media_confidence-and-relaxation/media/image2.jpg)
 
 **Focusing on process not outcome can overcome negativity with thoughts
 such as: \"Keep your rhythm. Solid return.\"**
@@ -125,8 +124,7 @@ during high-pressured situations.
 
 Centered breathing is a method of bringing your attention to your
 breathing. This has several beneficial physiological effects. (To read
-Jim Loehr's seminal article on Breathing, [Click
-Here](https://www.tennisplayer.net/members/mentalgame/jim_loehr/jim_loehr_breathing_mental_game_images/jim_loehr_breathing_mental_game.html).)
+Jim Loehr's seminal article on Breathing, [link](https://www.tennisplayer.net/members/mentalgame/jim_loehr/jim_loehr_breathing_mental_game_images/jim_loehr_breathing_mental_game.html).)
 
 ![A close-up of a hand Description automatically generated with low
 confidence](media_confidence-and-relaxation/media/image5.jpg)

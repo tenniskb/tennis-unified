@@ -111,26 +111,26 @@ Now let's talk more specifically. Here are some of the problems the
 system and the concept of the Hunter and the Helper solve for any
 doubles team:
 
-**[1) Overlapping responsibilities:]{.underline}** How many times have
+**[1) Overlapping responsibilities:]** How many times have
 two players hit rackets in the middle or let a ball go through because
 they both thought the ball was theirs. Or when one player goes for a lob
 and their partner is running behind them at the same time. In our system
 this won't happen because there are distinct responsibilities that
 never overlap.
 
-**[2) Losing to lobbers:]{.underline}** I realized after being at
+**[2) Losing to lobbers:]** I realized after being at
 several clubs in the past few years that everyone loses to or struggles
 to beat \"lobbers.\" There are two reasons this happens, positioning and
 patience. We address the lobbers in The System and will show you how to
 be successful against them.
 
-**[3) Positioning.]{.underline}** Both players need to be in the correct
+**[3) Positioning.]** Both players need to be in the correct
 position or there are too many good options for the opponents.
 Unfortunately, I almost never see that happen. Players need to change
 their positions when it is appropriate and in The System you will always
 know where to be.
 
-**[4) Shot selection:]{.underline}** If I am your partner and we are
+**[4) Shot selection:]** If I am your partner and we are
 both in the right place, and I can count on you to hit the appropriate
 shot. I can be thinking ahead to where I am going to move and I can
 anticipate what my next shot will be if the ball comes to me. By
@@ -165,8 +165,7 @@ flows. There is less thinking and more reacting and anticipating. Best
 of all perhaps, the game is much more enjoyable because you understand
 what is happening and why and how to make adjustments when necessary.
 
-Ready for More? Go on to Part 2 also in the March issue! ([Click
-Here](The%20Hunter%20and%20the%20Helper.docx).)
+Ready for More? Go on to Part 2 also in the March issue! ([link](The%20Hunter%20and%20the%20Helper.docx).)
 
 | ![A picture containing person, person, standing, outdoor Description automatically | Bill Previdi has been playing |
 | --- | --- |

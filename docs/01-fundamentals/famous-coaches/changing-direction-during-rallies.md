@@ -22,8 +22,7 @@ that cross your body.**
 **When not sure, don't change direction at all.**
 
 ![**Weak Outside
-Ball**](media_changing-direction-during-rallies/media/image2.png){alt="A person playing tennis Description automatically generated with medium confidence"
-width="6.5in" height="3.654166666666667in"}
+Ball**](media_changing-direction-during-rallies/media/image2.png)
 
 **Good Outside Ball or Cross-Body Ball**
 
@@ -32,7 +31,7 @@ width="6.5in" height="3.654166666666667in"}
 ![Harvey Balls 0% with solid
 fill](media_changing-direction-during-rallies/media/image4.svg)
 
-**[Reason:]{.underline}**
+**[Reason:]**
 
 **Good Outside Ball:** to change direction, need to create a **large
 angle shot** that has too much margin for error.
@@ -40,8 +39,8 @@ angle shot** that has too much margin for error.
 **Weak Outside Ball:** to change direction, need to create a **medium
 angle shot** that has less margin for error.
 
-**Inside Ball:** to change direction, need to create a **[[small]{.mark}
-[angle shot]{.mark}]{.underline}** that has much less margin for error.
+**Inside Ball:** to change direction, need to create a **[[small]
+[angle shot]]** that has much less margin for error.
 
 ![A person wearing a baseball hat Description automatically generated
 with low

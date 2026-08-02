@@ -43,7 +43,7 @@ the center line of the string bed?**
 
 **[What I found out was in one way predictable, but in others quite
 surprising. No, pro players don't hit most balls on the lower half of
-the strings. That claim is unfounded.]{.mark}**
+the strings. That claim is unfounded.]**
 
 But they don't hit most balls in the center of the racket either. A
 very small percentage of their forehands are actually in the middle of
@@ -57,8 +57,7 @@ forehand - for making contact out closer to the tip.
 So let's go over in more detail what this surprising study actually
 showed. In the course of examining these questions, I looked at almost
 300 forehands, spread about equally for each player. In our new High
-Speed Archive ([Click
-Here](https://www.tennisplayer.net/members/high_speed_archive/high_speed_archive.html)),
+Speed Archive ([link](https://www.tennisplayer.net/members/high_speed_archive/high_speed_archive.html)),
 I chose balls hit from the Center, Wide, Inside Out, and Inside In
 positions. I was looking for balls where the player seemed in control of
 the ball and on relative balance, combined with a clear view of the
@@ -202,7 +201,7 @@ Again, the table tells the tale:
 
   -----------------------------------------------------------------------
   **[Only a small percentage of balls hit the string bed closer to the
-  throat.]{.mark}**
+  throat.]**
 
   -----------------------------------------------------------------------
 
@@ -225,7 +224,7 @@ this centerline and making some and missing some a little both ways.
 
   ---------------------------------------------------------------------
   **[Novak seemed to love to make contact right below the arc of that
-  Head stencil.]{.mark}**
+  Head stencil.]**
 
   ---------------------------------------------------------------------
 
@@ -249,7 +248,7 @@ them,\" Geoff said.
   -----------------------------------------------------------------------
   **[\"When your contact point is more out towards the end of the frame
   there is more leverage and more torque, and the velocity available is
-  higher than if you hit more towards the middle.\"]{.mark}**
+  higher than if you hit more towards the middle.\"]**
   -----------------------------------------------------------------------
 
   -----------------------------------------------------------------------
@@ -258,7 +257,7 @@ Geoff went on to say: **[\"There is more acceleration with a longer
 lever arm, and more mass applied, if the stick speed is the same.
 However, there is a point at which the human body cannot gain more
 speed. There is a reason the Romans conquered most of the world with
-infantry that used a 27\" combat sword!\"]{.mark}**
+infantry that used a 27\" combat sword!\"]**
 
 In addition to the similarity in the length of the tennis racket and the
 Roman sword, Geoff went on to make another very interesting observation,

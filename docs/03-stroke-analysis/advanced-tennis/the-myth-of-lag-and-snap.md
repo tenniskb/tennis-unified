@@ -30,7 +30,7 @@ technically superior forehand.
 
 So what is this so-called \"lag and snap\"? **[The idea that top players
 intentionally \"lag\" or delay the racket head behind the hand and the
-arm at the start of the forward swing.]{.mark}** Then they suddenly
+arm at the start of the forward swing.]** Then they suddenly
 \"snap\" the wrist and the racket head through the contact\--and this
 gives you world class ball speed and spin.
 
@@ -83,7 +83,7 @@ actually focus on. That's way easier, and it actually works.
 a semi-western grip there is motion in the wrist at the completion of
 the backswing and in the forward motion to the ball. The wrist lays back
 and then usually flexes forward to some degree in the swing. Is this lag
-and snap?]{.mark}***
+and snap?]***
 
 Doesn't Tennisplayer high speed video conclusively demonstrate that
 Roger Federer's wrist moves into a radically laid back position in the
@@ -112,10 +112,9 @@ majority of forehands.**
 naturally lay back as the racket moves downward and the hitting arm
 rotates backward. This backward rotation is called external rotation in
 biomechanics. It's what Rick Macci calls the
-\"Flip.\"*** ([Click
-Here](https://www.tennisplayer.net/members/high_performance/high_performance.html).)
+\"Flip.\"*** ([link](https://www.tennisplayer.net/members/high_performance/high_performance.html).)
 
-**[There is no additional delay or \"lag.\"]{.mark}** ***The problem
+**[There is no additional delay or \"lag.\"]** ***The problem
 is lower level players can be stiff and mechanical and so this rotation
 doesn't happen naturally, and because of this the wrist doesn't lay
 back.***
@@ -125,7 +124,7 @@ and try to force the wrist back. Which makes everything more awkward and
 slows the arm and racket down impeding acceleration and extension in the
 swing. While they are thinking about how to \"lag\" and wondering if
 they are, the ball gets on top of them and the forward swing is short
-and muscled.]{.mark}**
+and muscled.]**
 
 Ok but what about \"snap\"? Didn't I say that the wrist is flexing
 forward? Yes. But the extensive Tennisplayer archival video clearly
@@ -238,15 +237,14 @@ wiper.***
 ***Plus the lifting and extending from his shoulder. And the great
 outward extension.*** **[But no lag and no snap.
 Sadly lag and snap is not the holy grail you have been waiting
-for.]{.mark}**
+for.]**
 
 What is the true holy grail? Learning, mastering and executing two
 simple positions. The Full Turn in the preparation and then the Full
 Extension in the forward swing.
 
 I like the outside backswing position developed by Brian Gordon and
-popularized by Rick Macci ([Click
-Here](https://www.tennisplayer.net/members/high_performance/rick_macci/develop_atp_forehand/).)
+popularized by Rick Macci ([link](https://www.tennisplayer.net/members/high_performance/rick_macci/develop_atp_forehand/).)
 If you are fully turned with the left arm stretched and pull the racket
 hand forward to the ball from this position or close or close to this
 position---guess what?
@@ -264,17 +262,16 @@ trying.
 
 ***So don't even say the words lag and snap again. Think coil and
 extend.*** ***[Or actually visualize and feel coil
-and extend---and do that until it's all subconscious.]{.mark}***
+and extend---and do that until it's all subconscious.]***
 
 ***[If the outside backswing is a problem for you initially just drop
 the hitting arm down to the double bend or straight arm position at the
 start of the forward swing and go from there. Then work back to the
-outside backswing position.]{.mark}***
+outside backswing position.]***
 
 If you want to see an entire teaching course devoted to developing this
 forehand and discussion of many other issues that confuse and impede
-player's development check out my New Teaching System. ([Click
-Here](https://www.tennisplayer.net/members/teaching_systems/teaching_systems.html).)
+player's development check out my New Teaching System. ([link](https://www.tennisplayer.net/members/teaching_systems/teaching_systems.html).)
 I will put it up against any online course out there. See if you agree.
 
 ![A person smiling for the camera Description automatically generated

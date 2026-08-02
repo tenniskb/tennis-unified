@@ -15,8 +15,7 @@ made of this in recent times especially in certain sectors of the tennis
 world.
 
 In 2010 I published several articles on Tennisplayer highlighting the
-different swing types on the forehand. ([Click
-Here](Science%20of%20Biomechanics%20TOC.docx).)
+different swing types on the forehand. ([link](Science%20of%20Biomechanics%20TOC.docx).)
 
 The types were divided into three general classifications. The primary
 apparent difference between the types relates to the position of the
@@ -51,7 +50,7 @@ differences exist, but rather for the first time to explain the
 biomechanical properties of the ATP style forehand. I pointed out
 several biomechanical (kinematic and kinetic) advantages of the ATP
 forehand discovered through my applied and basic research over the
-previous decade.]{.mark}**
+previous decade.]**
 
 Based on this information I think most unbiased observers would conclude
 that for purely mechanical, but also tactical reasons, the ATP forehand
@@ -173,7 +172,7 @@ validates their mechanics approach.***
 
 Informed contrarians might, while giving credit, also wonder if these
 players could have been even better. To coin a phrase**[, are these
-coaches just producing better apples or creating the orange?]{.mark}**
+coaches just producing better apples or creating the orange?]**
 
 **Girls Can Do It**
 
@@ -258,8 +257,8 @@ non-existent in possibly five years but certainly within ten.
 |  | knowledge across the entire range of tennis performance. |
 |  |  |
 |  | To visit his website, [**[Click |
-|  | Here!]{.underline}**](https://tennisperformanceresearch.com/) |
+|  | Here!]**](https://tennisperformanceresearch.com/) |
 |  |  |
 |  | Top contact him directly, [**[Click |
-|  | Here!]{.underline}**](mailto:gamabrian@icloud.com) |
+|  | Here!]**](mailto:gamabrian@icloud.com) |
 

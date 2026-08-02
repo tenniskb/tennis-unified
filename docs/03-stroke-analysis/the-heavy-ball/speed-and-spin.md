@@ -69,7 +69,7 @@ flight of the ball, and what that means at the moment of the return.
 The analysis programs to delve into these mysteries was developed by
 Advanced Tennis scientist Nasif Iskander. We started with the same
 filming protocol Nasif had previously devised to film the speed of the
-ball. [Click Here](Ball%20Speed%20in%20Pro%20Tennis.docx) But this
+ball. [link](Ball%20Speed%20in%20Pro%20Tennis.docx) But this
 time we combined it with one of our high speed cameras focused on the
 spin of the ball. Nasif then developed software that allowed us not only
 measure the amount of spin on the ball, but the axis on which the ball
@@ -321,8 +321,7 @@ We'll look at what all this may mean for teaching in the next article.
 We'll also trace the spin levels to the actual motions racket paths for
 both players. But if you are interested in how Sampras produces this
 unique ball, in the meantime I can suggest checking out my series on his
-motion in Tour Strokes. ([Click
-Here](../Tour%20strokes/Tour%20strokes%20TOC.docx).)
+motion in Tour Strokes. ([link](../Tour%20strokes/Tour%20strokes%20TOC.docx).)
 
 Understanding this unique speed spin balance takes us a long way to
 understanding the effectiveness of Pete Sampras's serve over his long

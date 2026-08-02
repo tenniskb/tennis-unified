@@ -62,7 +62,7 @@ approach shot, I'll actually create an even greater opening for my
 opponent.**
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-   ![](media_winning-matches-winning-baseline-exchanges/media/image1.webp)**By working the crosscourt exchange, you can force your opponent to go down the line too soon, opening the court for a forcing crosscourt.**
+   ![link](media_winning-matches-winning-baseline-exchanges/media/image1.webp)**By working the crosscourt exchange, you can force your opponent to go down the line too soon, opening the court for a forcing crosscourt.**
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -133,11 +133,11 @@ cut down your opponent's angle\".**
 **\
 As counterintuitive as it may initially seem, the best defense in this
 situation is actually to go right back to your
-opponent**[[.]{.mark} **[This is because when your
+opponent**[ **[This is because when your
 opponent finds he can't win by trading cross-courts with you, he's
 forced to hit down the line too often, and then you can run him from
 corner to corner with low risk crosscourt
-replies.]{.mark}**]{.underline}
+replies.]**]
 
 **Since there are two basic crosscourt exchanges, forehand to forehand
 and backhand to backhand, you should explore both of these to see which
@@ -191,7 +191,7 @@ backhand to backhand. Play points.
 into the wrong side of the court or hit a backhand. Do this daily for a
 couple of ten-point games against a steady opponent, and you'll quickly
 improve your accuracy so that you can implement the crosscourt strategy
-in match play.]{.underline}**
+in match play.]**
 
 Read More From Allen!
 
@@ -203,8 +203,8 @@ Visit him at [www.allenfoxtennis.net](http://www.allenfoxtennis.net) 
 |  | they are. In this new book, Allen offers his proven solutions to problems such as choking, reducing stress, finishing matches, and |
 |  | developing confidence. Based on a lifetime of high level play and coaching success, it's a must for all competitive players. |
 |  |  |
-|  | [[Click Here to |
-|  | Order]{.underline}](http://www.amazon.com/Tennis-Winning-Mental-Allen-Fox/dp/0615407765/ref=sr_1_1?ie=UTF8&qid=1336083459&sr=8-1). |
+|  | [[ to |
+|  | Order]](http://www.amazon.com/Tennis-Winning-Mental-Allen-Fox/dp/0615407765/ref=sr_1_1?ie=UTF8&qid=1336083459&sr=8-1). |
 
 
 | ![Text Description automatically | Winning may not be everything, but Dr. Allen Fox points out that, if we |
@@ -222,8 +222,8 @@ Visit him at [www.allenfoxtennis.net](http://www.allenfoxtennis.net) 
 |  | pervasive fear of failure that undermines so many of us. He then outline |
 |  | how to confront and overcome these fears in your life and career, even |
 |  | when they are initially subconscious. Must reading from one of the great |
-|  | thinkers in tennis, and a Renaissance Man in life. [[Click Here to |
-|  | Order]{.underline}](http://www.tennis-warehouse.com/descpage-MIND.html). |
+|  | thinkers in tennis, and a Renaissance Man in life. [[ to |
+|  | Order]](http://www.tennis-warehouse.com/descpage-MIND.html). |
 |  |  |
 |  | To purchase this book you can also send a check for \$17.95 to Allen |
 |  | Fox, 1120 Inverness Place, San Luis Obispo, CA. 93401. The price |

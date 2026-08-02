@@ -15,7 +15,7 @@ that sequence.
 
 Here is a great contribution to understanding that issue!
 
-![](media_domination-of-the-non-dominant-arm/media/image1.png)
+![link](media_domination-of-the-non-dominant-arm/media/image1.png)
 
 ![A person smiling for the camera](media_domination-of-the-non-dominant-arm/media/image2.jpeg)
 

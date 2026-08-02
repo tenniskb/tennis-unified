@@ -177,7 +177,7 @@ The total time to complete all four stages is a minimum of 16 seconds,
 up to the full 25 seconds allowed between points. The exact length
 depends upon the situation and your own internal rhythms.
 
-![](media_mental-toughness-training-the-16-second-cure-p1/media/image7.wmf)
+![link](media_mental-toughness-training-the-16-second-cure-p1/media/image7.wmf)
 
 **Click photo to see the complete sequence of the 4 Stages in the 16
 Second Cure.**

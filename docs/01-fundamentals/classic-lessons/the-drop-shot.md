@@ -39,8 +39,8 @@ you. The drop shot is aggressive in two ways.
 
 **[First it is aggressive strategically, because the purpose is to end
 the point quickly either on the drop shot itself, or on the next
-ball.]{.underline}** **[But the drop shot is also an aggressive shot in
-a second way. This is in terms of the generation of spin.]{.underline}**
+ball.]** **[But the drop shot is also an aggressive shot in
+a second way. This is in terms of the generation of spin.]**
 
 Many players think the drop shot is a light, feathery shot. It may look
 that way at times but it's critical to understand just how much spin is
@@ -62,8 +62,7 @@ What I found through my own experience was eventually documented by the
 research done by John Yandell and the Advanced Research Project. He
 found that a drop shot in the pro game was rotating at an average spin
 of over 2000rpm\--the equivalent of many pro topspin groundstrokes.
-([Click
-Here](http://www.tennisplayer.net/members/mystheavyball/john_yandell/spintest_part2/spintest_part2.html).)
+([link](http://www.tennisplayer.net/members/mystheavyball/john_yandell/spintest_part2/spintest_part2.html).)
 
 It takes time to master creating that much spin with a compact motion
 like the drop shot. Initially when you work on it the ball can go

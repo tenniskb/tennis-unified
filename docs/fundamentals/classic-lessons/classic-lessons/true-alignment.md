@@ -54,8 +54,7 @@ the serve.
 
 **True Alignment: Forehand**
 
-As discussed in my open stance forehand article [(Click
-Here](What%20is%20Open%20Stance.docx)) the alignment of the hips and
+As discussed in my open stance forehand article [(](What%20is%20Open%20Stance.docx)) the alignment of the hips and
 legs are crucial for a successful shot. As I explained there, **the first goal is to set up behind the ball on the outside foot. From that point, there are 3 general options on the forehand: neutral stance, semi-open stance, and open stance.With a neutral stance the player steps into the shot from this set up behind the ball.** Normally we see the alignment
 of the feet roughly parallel to the target line in the hitting zone.
 Sometimes the player will keep both feet on the ground aligned on the
@@ -156,7 +155,7 @@ that goes with it.
 **Artificially keeping the back foot down and behind you can help develop a feel for true alignment.**
 
 The first step is to go back to the set up and open stance as I
-discussed before. [Click Here](What%20is%20Open%20Stance.docx) The
+discussed before. [link](What%20is%20Open%20Stance.docx) The
 player then must relearn to how stay behind the ball all the way through
 the shot, keeping the back foot down, and not allowing the hips or feet
 to come through, no matter how out of balance he feels. To do this

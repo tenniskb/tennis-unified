@@ -30,7 +30,7 @@ who reached the top 100 in the world.
 As I have explained in previous articles, I developed the concept of the
 Contact Move to help explain the bewildering and complex variations that
 top tennis players use in moving around the court, setting up, executing
-strokes, and recovering for the next ball. [Click Here](https://www.tennisplayer.net/members/footwork/footwork.html)
+strokes, and recovering for the next ball. [link](https://www.tennisplayer.net/members/footwork/footwork.html)
 A Contact Move is an conceptual overview that allows us to understand
 the variations top players use and why.
 
@@ -47,7 +47,7 @@ understood on the groundstrokes.
 Although I will outline the Contact Moves in detail for all the various
 returns, if you are not familiar with the concept and its components on
 the groundstrokes, it may be helpful to peruse those articles first.
-[Click Here](https://www.tennisplayer.net/members/footwork/footwork.html)
+[link](https://www.tennisplayer.net/members/footwork/footwork.html)
 Once you familiar with the groundstroke patterns you can experiment
 freely in applying the Contact Moves to your returns.
 
@@ -336,7 +336,7 @@ demonstrated in these articles.
 So that's it for our introduction. Now get ready to master the 10 key
 Contact Moves to return like the pros!
 
-![](media_return-of-serve-contact-moves-introduction/media/image11.jpeg)
+![link](media_return-of-serve-contact-moves-introduction/media/image11.jpeg)
 
 David Bailey is a native Australian who has spent 15 years studying
 tennis at the professional level. He has developed a new language for
@@ -348,8 +348,6 @@ the Bailey Method, has become a regular part of the coaching curriculum
 at the Nick Bollettierri Tennis Academy, where it is personally endorsed
 by Nick
 
-Visit David's Website! [**[Click
-Here!]{.underline}**](http://www.baileytennisfootwork.com/)
+Visit David's Website! [**[!]**](http://www.baileytennisfootwork.com/)
 
-To Contact David directly [**[Click
-Here!]{.underline}**](mailto:david@baileytennisfootwork.com)
+To Contact David directly [**[!]**](mailto:david@baileytennisfootwork.com)

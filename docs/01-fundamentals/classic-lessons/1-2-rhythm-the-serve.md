@@ -57,7 +57,7 @@ the arms slightly downward before breaking apart.**
 **The tossing arm then moves downward and backward and then moves
 upward to make the actual toss, although the amount of downward and
 backward movement varies significantly with individual
-players.** \<**[A J-Curve or arc]{.underline}** \>
+players.** \<**[A J-Curve or arc]** \>
 
 Meanwhile the racket windup begins. The shape of this windup or
 backswing can also vary tremendous, from some variation of a
@@ -75,8 +75,7 @@ This slow and deliberate feeling also applies to the windup.
 Quantitative studies show that there is very little acceleration of the
 racket as the players move through Phase 1. The movement to the trophy
 position can take 2 seconds or more, and the racket head speed during
-this interval is usually 10mph or less. ([Click
-Here](https://www.tennisplayer.net/members/avancedtennis/john_yandell/sampras_serve/sampras_serve_racket_head_speed/sampras_serve_racket_head_speed.html).)
+this interval is usually 10mph or less. ([link](https://www.tennisplayer.net/members/avancedtennis/john_yandell/sampras_serve/sampras_serve_racket_head_speed/sampras_serve_racket_head_speed.html).)
 
 ![A picture containing person, grass, person, outdoor Description
 automatically
@@ -88,8 +87,8 @@ juniors at the end of Phase 1.**
 **Transition**
 
 **[It might seem logical that the transition between Phase 1 and Phase 2
-[happens at the trophy position,]{.underline} since so much is made of
-it in coaching and teaching.]{.mark}** **In reality the true
+[happens at the trophy position,] since so much is made of
+it in coaching and teaching.]** **In reality the true
 initiation of Phase 2 is the leg drive, synchronized with the extension
 of the tossing arm.**
 
@@ -158,7 +157,7 @@ all levels to master 1-2 Rhythm. So find your own transition point.
 knee bend.** **Find the same feeling in the toss
 and the extension point of your tossing motion.
 Learn to make these checkpoints correspond.** **[Now
-explode!]{.underline}** Of course, you want to make sure your other key
+explode!]** Of course, you want to make sure your other key
 positions like the racket drop and the contact are within good technical
 parameters.
 

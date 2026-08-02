@@ -14,7 +14,7 @@ Or where to look and what to do with your eyes. A powerful new addition
 to our teaching library on the serve. And check out the half price deal
 on John's whole serving course, just for Tennisplayer subscribers.
 
-![](media_the-perfect-ball-toss/media/image1.wmf)
+![link](media_the-perfect-ball-toss/media/image1.wmf)
 
 ![A person smiling for the camera Description automatically generated
 with medium

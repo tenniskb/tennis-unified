@@ -6,8 +6,7 @@
 
 In the article on the 4 variations in the modern two-handed backhand, we
 saw how the hands and arms are configured with different grip
-combinations and in different hitting shapes. ([Click
-Here](http://www.tennisplayer.net/members/avancedtennis/john_yandell/two_handed_backhand/2hd_bh_simplest_complex/2hd_bh_simplest_complex.html).)
+combinations and in different hitting shapes. ([link](http://www.tennisplayer.net/members/avancedtennis/john_yandell/two_handed_backhand/2hd_bh_simplest_complex/2hd_bh_simplest_complex.html).)
 We also saw that there was a difference between the men and the women.
 Most of the men hit with a somewhat stronger grip with the bottom hand,
 and come through with the back arm straight. The women hit with the rear
@@ -68,8 +67,7 @@ the hit.**
 On the forehand, the rotation of the hand and arm is commonly called the
 \"windshield wiper.\" The player rotates the hand, and this is turn
 rotates the face of the racket. To do this the forearm and upper arm
-rotate as well.([Click
-Here.](Building%20the%20Modern%20Forehand-Differences%20Across%20the%20Grip%20Styles.docx))
+rotate as well.([link](Building%20the%20Modern%20Forehand-Differences%20Across%20the%20Grip%20Styles.docx))
 
 This same biomechanical movement pattern explains what happens when the
 two-handers drop the racket head so far below the ball. Dropping the
@@ -117,8 +115,7 @@ racket. This is a function of the way the hand slides under the handle.
 With a westernized forehand grip, the palm of the hand and underside of
 the forearm already point partially or mostly upward at the sky. The
 player doesn't have to tilt the racket down to achieve this position
-with the forearm turned back. ([Click
-Here](Building%20the%20Modern%20Forehand-Differences%20Across%20the%20Grip%20Styles.docx)
+with the forearm turned back. ([link](Building%20the%20Modern%20Forehand-Differences%20Across%20the%20Grip%20Styles.docx)
 to read more about how this works on the forehand.) As the players swing
 through the shot, the hand and arm rotate forward as a unit. This is the
 \"windshield wiper.\" There can as much as 200 degrees or more of hand,

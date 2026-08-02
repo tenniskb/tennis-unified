@@ -82,10 +82,10 @@ anticipate the action before it happens.**
 
 **To develop your anticipation skills and be able to execute the
 return, you must study how the server thinks.**
-**[[You do this by zeroing in on]{.underline} [the server's patterns of
+**[[You do this by zeroing in on] [the server's patterns of
 play. Like a super computer, great returners log the data of previous
 points played, looking for any trends or tendencies that may help them
-anticipate what the server will do.]{.underline}]{.mark}**
+anticipate what the server will do.]]**
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -98,23 +98,23 @@ server, as well as his patterns of attack.** Within
 the first few serve games, you will likely see everything the server has
 in their arsenal and the level of strategy he can employ.
 
-- **[Can he vary speed and spins?]{.mark}**
+- **[Can he vary speed and spins?]**
 
-- **[Can he serve to all areas of the box with equal accuracy?]{.mark}**
+- **[Can he serve to all areas of the box with equal accuracy?]**
 
-- **[Where does he go when the score is even?]{.mark}**
+- **[Where does he go when the score is even?]**
 
-- **[Does this change when he is behind?]{.mark}**
+- **[Does this change when he is behind?]**
 
 - **[Is there a predictable pattern to the types and locations of his
-  first/and or second serves?]{.mark}**
+  first/and or second serves?]**
 
 **An intuitive returner can determine the server's preferred
 placements under pressure, as well as the placements that are more
 difficult for him to make.**
 
 **Once you gather the necessary information you need, it gives you a
-[much better picture of what to expect in tight situations]{.underline}.
+[much better picture of what to expect in tight situations].
 This will give you the chances you need to break as the match evolves.**
 
 **Rotations**
@@ -136,15 +136,15 @@ you have no major weakness to attack, the server may step up to a higher
 level of strategy. He will do this using a **rotation of serve
 placements.**
 
-**[There are two kinds of rotations.]{.underline}** These are either a
+**[There are two kinds of rotations.]** These are either a
 **constant rotation** or a **setup
 rotation**.
 
 - ***[A constant rotation means varying the placements, speeds and spins
-  as randomly as possible.]{.mark}***
+  as randomly as possible.]***
 
 - ***[A setup rotation means working one primary target more often to
-  setup better opportunities to attack the other targets.]{.mark}***
+  setup better opportunities to attack the other targets.]***
 
 Here is an example of a set up rotation. The server might attack your
 backhand side three or four points in a row. This may create an
@@ -196,9 +196,9 @@ your return and creating chances to break.**
 In the beginning, give yourself time to adjust to what the server
 actually can do. Don't rush, take your time, and establish a feeling
 for your return against all his options. **[[The more variety he has,
-the longer it may take to develop a rhythm.]{.mark} [But developing a
+the longer it may take to develop a rhythm.] [But developing a
 return rhythm is the goal, more than trying to gain an immediate
-break.]{.mark}]{.underline}** If that early break comes, great. But if
+break.]]** If that early break comes, great. But if
 you aren't able to break serve early in the match, you cannot allow
 yourself to become frustrated.
 
@@ -213,7 +213,7 @@ generated](media_the-return-mentality/media/image8.webp)
 
 **Power**
 
-**[The serve is often a player's biggest offensive weapon.]{.mark}**
+**[The serve is often a player's biggest offensive weapon.]**
 **You can use the power of the serve to make your return into your
 biggest defensive weapon.** **Think of the serve
 as the power supply for your return. This is especially true on first
@@ -229,7 +229,7 @@ re-direct the ball back into the court**.
 
 This is why you are seeing see **the re-emergence of the slice return
 in the pro game**. **[Roger Federer uses the slice
-to float the return deep and neutralize the serves]{.underline} of
+to float the return deep and neutralize the serves] of
 players like Andy Roddick who serve bombs but play from behind the
 baseline.**
 
@@ -247,14 +247,14 @@ taking away his biggest weapon and forcing him to beat you with the rest
 of his game.**
 
 **[[Challenging the server more aggressively isn't really a matter of
-power either]{.underline}. It's more a question of [court position,
-timing, and anticipation]{.underline}]{.mark}**. When Agassi **steps
+power either]. It's more a question of [court position,
+timing, and anticipation]]**. When Agassi **steps
 in, takes the ball on the rise and hits a return
 winner** he is using the same principle as when
 Roger slices the floating return. **[[He is using the server's
-power]{.underline}. It is his ability [to time the ball]{.underline} and
-[hit in rhythm]{.underline} that creates his incredible
-returns.]{.mark}**
+power]. It is his ability [to time the ball] and
+[hit in rhythm] that creates his incredible
+returns.]**
 
 **Your opponent may have a much better serve than you but take this
 away from him and the balance of the match can swing dramatically in

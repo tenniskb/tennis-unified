@@ -14,7 +14,7 @@ own game? That's what this article is all about.
 
 AND let us know what you think by posting a comment in the Forum!
 
-![](media_john-yandell-your-forehand-and-the-modern-forehand-the-backswing-part-2/media/image1.png)
+![link](media_john-yandell-your-forehand-and-the-modern-forehand-the-backswing-part-2/media/image1.png)
 
 # 
 

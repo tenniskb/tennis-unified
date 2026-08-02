@@ -30,7 +30,7 @@ that would hold up throughout my career.\"
 
 \"It wasn't about winning. **[[By putting pressure on myself to develop
 a great game, I had less preessure to win. That helped me enjoy the game
-and develop my maximum]{.mark} [potential.\"]{.mark}]{.underline}**
+and develop my maximum] [potential.\"]]**
 
 These two articles on Tennisplayer have been prepared to help you, no
 matter what your level, achieve your fullest potential as well, the same
@@ -99,8 +99,7 @@ very deep physiological basis within the person.**
 
 **A very important concept in my development of the notion of peak
 performance and the concept of being the very best that you can be was
-the idea of the ideal performance state.** ([Click
-Here](http://www.tennisplayer.net/members/mentalgame/jim_loehr/jim_loehr_ideal_performance_state_images/jim_loehr_ideal_performance_state.html).)
+the idea of the ideal performance state.** ([link](http://www.tennisplayer.net/members/mentalgame/jim_loehr/jim_loehr_ideal_performance_state_images/jim_loehr_ideal_performance_state.html).)
 Perhaps the single most important understanding that I came to in the
 early part of my career was that the same feelings and emotions are
 present when athletes perform at their best, be it baseball, basketball,

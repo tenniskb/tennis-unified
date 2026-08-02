@@ -8,8 +8,7 @@ generated](media_john-yandell-novak-djokovic-s-forehand-start-of-the-preparation
 **The unit turn: a commonality shared by all good players at all
 levels.**
 
-In the first article in this series ([[Click
-Here]{.underline}](John%20Yandell-Novak%20Djokovic's%20Forehand-A%20new%20Synthesis.docx)),
+In the first article in this series ([[]](John%20Yandell-Novak%20Djokovic's%20Forehand-A%20new%20Synthesis.docx)),
 we saw the surprising combination of components in one of the most
 effective weapons in pro tennis, Novak Djokovic's forehand.
 
@@ -42,7 +41,7 @@ generated](media_john-yandell-novak-djokovic-s-forehand-start-of-the-preparation
 **[The first move on the forehand is a Unit Turn[. This move starts the
 body turning sideways with the torso and the feet. It's a fundamental
 players at any level can and should incorporate, at least if they want
-to have sound technical forehands.]{.underline}]{.mark}** The Unit Turn
+to have sound technical forehands.]]** The Unit Turn
 is a very simple motion to master and can make a monumental difference
 in your level of play.
 
@@ -134,7 +133,7 @@ medium
 confidence](media_john-yandell-novak-djokovic-s-forehand-start-of-the-preparation/media/image5.webp)
 
 **[The unit turn can start with a wide array of footwork
-patterns.]{.mark}**
+patterns.]**
 
 Both hands stay on the racket. The players may turn the racket face
 angle or raise the elbow or hands slightly, but the hands stay together,
@@ -199,8 +198,7 @@ if you want to investigate it all for yourself.
 Our contributor David Bailey has also analyzed the variety of first
 steps as part of his work on the range of footwork patterns in the pro
 game. And no doubt many of the options mentioned here can be
-specifically trained, as he articles show so brilliantly. ([[Click
-Here]{.underline}](../../Fundamentals/Footwork/Footwork%20TOC.docx) to
+specifically trained, as he articles show so brilliantly. ([[]](../../Fundamentals/Footwork/Footwork%20TOC.docx) to
 see his articles in the footwork session).
 
 My own opinion though is that for some players at least the feeling of
@@ -216,8 +214,7 @@ turn, a simple step out with the right or outside foot is probably the
 best to try first. This means as the body starts to turn, the player
 picks up the right foot and steps to his right with the toes facing
 toward the sideline. (I still love one of our original articles by Bob
-Hansen that demonstrates this, [[Click
-Here]{.underline}](../../Fundamentals/Footwork/Footwork%20TOC.docx).)
+Hansen that demonstrates this, [[]](../../Fundamentals/Footwork/Footwork%20TOC.docx).)
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -227,7 +224,7 @@ confidence](media_john-yandell-novak-djokovic-s-forehand-start-of-the-preparatio
 
 **[It's sometimes argued that players can start faster if they drop the
 outside foot underneath the body\--what Jim McClennan first branded a
-\"gravity\" step.]{.mark}** And a lot of players do take gravity steps,
+\"gravity\" step.]** And a lot of players do take gravity steps,
 although usually when they have significant distances to travel and are
 under time pressure.
 
@@ -235,7 +232,7 @@ But Djokovic, recognized as one of the best movers, doesn't do this on
 most balls, or even most running balls. **[Instead, he tends to take
 pivot steps, simply swiveling his right foot in the direction he is
 moving, a step pattern that is often associated with covering less
-distance, not more.]{.mark}**
+distance, not more.]**
 
 So in my view, the point isn't to blindly take a certain type of step.
 Sometimes a coach can show a player a simple step out and watch them
@@ -258,8 +255,7 @@ footwork is when a player has trouble with the preparation on a specific
 ball.
 
 A common example would be when a player is slow getting turned when
-moving around the ball to hit inside out or inside in. ([[Click
-Here]{.underline}](../../Fundamentals/Footwork/Return%20of%20Serve-Contact%20Moves%20Introduction.docx)
+moving around the ball to hit inside out or inside in. ([[]](../../Fundamentals/Footwork/Return%20of%20Serve-Contact%20Moves%20Introduction.docx)
 to read David Bailey's analysis of this pattern.) Then he may want to
 learn to imitate a very specific basic pattern, for example, turning
 while taking reverse steps away from the ball.

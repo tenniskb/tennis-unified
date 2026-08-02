@@ -13,7 +13,7 @@ on tour, Paul Annacone. Listen to this fascinating analysis of the two
 major types of players, how to coach them, and the surprising
 implications for junior development. Another Tennisplayer exclusive!
 
-![](media_the-mechanic-and-the-magician/media/image1.png)
+![link](media_the-mechanic-and-the-magician/media/image1.png)
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A person in a blue shirt Description automatically generated with medium                                                                                                         **Paul Annacone has coached two of the greatest

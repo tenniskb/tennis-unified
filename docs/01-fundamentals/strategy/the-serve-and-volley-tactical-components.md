@@ -17,10 +17,9 @@ levels. In reality every player must master a series interrelated
 components to put winning serve and volley points together.
 
 In the first two articles we have looked at the serve and volley
-mentality ([Click Here](The%20Serve%20and%20Volley%20Mentality.docx)).
+mentality ([link](The%20Serve%20and%20Volley%20Mentality.docx)).
 and also what inspired me personally to become a serve and volley
-player. ([Click
-Here](The%20Inspiration%20to%20Serve%20and%20Volley.docx).) Now let's
+player. ([link](The%20Inspiration%20to%20Serve%20and%20Volley.docx).) Now let's
 turn to these tactical components themselves.
 
 The first tactical component is mastering four serving locations. The

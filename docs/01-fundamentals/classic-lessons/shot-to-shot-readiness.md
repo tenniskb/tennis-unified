@@ -147,8 +147,7 @@ swing.**
 of your feet, with your feet about shoulder width apart. Simultaneously,
 your hips will drop, your knees will bend slightly and your back will
 remain straight creating what my fellow contributor Pat Dougherty calls
-a strong \"athletic foundation.\"** ([**Click
-Here**](https://www.tennisplayer.net/members/footwork/pat_dougherty/the_athletic_foundation/the_athletic_foundation.html).)
+a strong \"athletic foundation.\"** ([**link**](https://www.tennisplayer.net/members/footwork/pat_dougherty/the_athletic_foundation/the_athletic_foundation.html).)
 **As you split, you will land in a wider base, about one and a half
 times shoulder width. Your legs become coiled springs as their muscles
 contract. From there you push off the court and explode to the
@@ -189,8 +188,7 @@ of the split and the preparation happens naturally for you. As you
 progress, you can also consciously experiment with starting the motion
 to the ball with the outside foot sooner. For a great presentation of
 this advanced motion, see Bob Hansen's article on footwork on the
-volley. ([**Click
-Here**](https://www.tennisplayer.net/members/footwork/bob_hansen/Hansen_Court_Movement_Volleys/Hansen_Court_Movement_Volleys.html).)
+volley. ([**link**](https://www.tennisplayer.net/members/footwork/bob_hansen/Hansen_Court_Movement_Volleys/Hansen_Court_Movement_Volleys.html).)
 
 ![A person playing tennis Description automatically
 generated](media_shot-to-shot-readiness/media/image7.webp)
@@ -207,8 +205,7 @@ consistently.
 
 Joe Dinoffer, the renowned master professional and international
 clinician, has a great suggestion to help these players transition to
-split stepping. ([**Click
-Here**](https://www.tennisplayer.net/members/teaching_systems/teaching_systems.html) for
+split stepping. ([**link**](https://www.tennisplayer.net/members/teaching_systems/teaching_systems.html) for
 Joe's articles on Tennisplayer.) **Instead of doing one split step,
 you do two. Bounce once, then bounce twice.**
 
@@ -241,8 +238,7 @@ forehand or backhand side.
 This is very different from the idea of the arm and racket somehow
 moving back independently of the body. Any Tennisplayer subscriber knows
 that the old idea of \"getting your racket back\" rarely leads to a full
-turn. ([**Click
-Here**](http://www.tennisplayer.net/members/avancedtennis/john_yandell/your_forehand_and_the_modern_forehand/preparation/your_forehand_and_the_modern_forehand_preparation.html) to
+turn. ([**link**](http://www.tennisplayer.net/members/avancedtennis/john_yandell/your_forehand_and_the_modern_forehand/preparation/your_forehand_and_the_modern_forehand_preparation.html) to
 read John Yandell's recent article.)
 
 But the problem is still at epidemic proportions out there in the larger
@@ -290,8 +286,7 @@ plate.**
 ### Home Plate
 
 To determine the spacing for the contact on the one-handed backhand, I
-like Welby Van Horn's use of the baseball home plate. ([**Click
-Here**](https://www.tennisplayer.net/members/teaching_systems/teaching_systems.html) to
+like Welby Van Horn's use of the baseball home plate. ([**link**](https://www.tennisplayer.net/members/teaching_systems/teaching_systems.html) to
 see Welby's articles on Tennisplayer!) In baseball, when you stand at
 the correct distance from the plate and the pitch is over the middle,
 you get the \"fat\" part of the bat on the ball. As with baseball, for
@@ -463,8 +458,7 @@ split step and move to the volley. The actual motion begins with a body
 turn, and there is little independent arm movement. From the correct
 ready position this turn will swing your racket into the correct
 position naturally and automatically. (For a detailed description of
-volley mechanics, see John Yandell recent articles, [**Click
-Here**](http://www.tennisplayer.net/members/avancedtennis/advtennis.html).)
+volley mechanics, see John Yandell recent articles, [**link**](http://www.tennisplayer.net/members/avancedtennis/advtennis.html).)
 
 After the volley, you need to immediately resume the ready position and
 shadow the ball. This will generally be no more than one full slide

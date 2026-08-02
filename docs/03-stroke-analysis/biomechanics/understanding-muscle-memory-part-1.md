@@ -6,7 +6,7 @@
 
 **Archie Dan Smith, MD**
 
-![](media_understanding-muscle-memory-part-1/media/image1.jpg)
+![link](media_understanding-muscle-memory-part-1/media/image1.jpg)
 
 **What is muscle memory and how do you develop it?**
 
@@ -38,7 +38,7 @@ muscles.**
 
 **[The path to making permanent improvements in your tennis is widely
 misunderstood. In fact the normal sequence of events in most tennis
-lessons often works against it.]{.mark}** Real change requires high
+lessons often works against it.]** Real change requires high
 numbers of repetitions of the same motion in a concentrated period of
 time.
 
@@ -61,10 +61,10 @@ cerebral accident.
 Repeatedly hitting high quality strokes is the only way to get results
 that matter---the ones that make for a winning difference in your
 matches. **[These strokes are the result of doing it over and over again
-until permanent change occurs.]{.underline}**
+until permanent change occurs.]**
 
 **[It's important to know that your old muscle memory patterns are not
-erased.]{.mark}** The regions and paths of the brain that control them
+erased.]** The regions and paths of the brain that control them
 still remain. New motor skills involve creating new paths. These new
 pathways are what you must create and then consolidate to create real
 change.
@@ -161,7 +161,7 @@ confidence](media_understanding-muscle-memory-part-1/media/image5.webp)
 
 **Monica Seles would practice the same shot for weeks.**
 
-| ![](media_understanding-muscle-memory-part-1/media/image6.jpeg) | Archie Dan Smith, MD is a retired |
+| ![link](media_understanding-muscle-memory-part-1/media/image6.jpeg) | Archie Dan Smith, MD is a retired |
 | --- | --- |
 |  | physician living in Austin, Texas. Here is |
 |  | how he describes his tennis journey, |

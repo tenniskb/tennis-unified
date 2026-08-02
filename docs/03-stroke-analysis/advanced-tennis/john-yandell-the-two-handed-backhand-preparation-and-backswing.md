@@ -13,12 +13,10 @@ most complex.
 We saw surprising variety in the hitting arm positions, and also, how
 the hands and arms rotate through the motion. We found that there are
 actually 4 versions of the two hander, and that they can be hit with a
-variety of grip combinations. ([Click
-Here](John%20Yandell-The%20Two%20Handed%20Backhand%20-%20Preparation%20and%20Backswing.docx).)
+variety of grip combinations. ([link](John%20Yandell-The%20Two%20Handed%20Backhand%20-%20Preparation%20and%20Backswing.docx).)
 We also found that hand and arm rotation was an independent variable
 that players could incorporate to different degrees into any of the 4
-versions. ([Click
-Here](John%20Yandell-The%20Two%20Handed%20Backhand%20-%20Hand%20and%20Arm%20Rotation.docx).)
+versions. ([link](John%20Yandell-The%20Two%20Handed%20Backhand%20-%20Hand%20and%20Arm%20Rotation.docx).)
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -43,8 +41,7 @@ confidence](media_john-yandell-the-two-handed-backhand-preparation-and-backswing
 
 The Unit Turn
 
-When we studied the modern forehand ([Click
-Here](Common%20Elements%20Across%20the%20Grip%20Styles.docx)) we saw
+When we studied the modern forehand ([link](Common%20Elements%20Across%20the%20Grip%20Styles.docx)) we saw
 that despite the wide differences in the grips and the various
 rotations, there was one commonality all the players seemed to share.
 This was the first move, what we called the Unit Turn. It's the same
@@ -154,8 +151,7 @@ degrees. We saw the height of hand in this backswing motion could range
 from below shoulder level to above the top of the head. We also saw that
 the height of the hand and the height of the racket tip were independent
 variables, and that the appearance and size of the backswing could vary
-dramatically depending on how a player combined these elements. ([Click
-Here](http://www.tennisplayer.net/members/avancedtennis/john_yandell/building%20_the_modern%20_forehand/building_modern_forehand_backswing_page1/building_modern_forehand_backswing_page1.html).)
+dramatically depending on how a player combined these elements. ([link](http://www.tennisplayer.net/members/avancedtennis/john_yandell/building%20_the_modern%20_forehand/building_modern_forehand_backswing_page1/building_modern_forehand_backswing_page1.html).)
 
 The backswings on the two-hander are simpler and less varied, but they
 are still frequently misunderstood. This is due in part to an underlying
@@ -175,8 +171,7 @@ back.**
 But the confusion is also due to the differences in the position of the
 hands versus the position of the racket tip, the same issue we
 encountered in trying to decipher the backswing on the forehand. This is
-why the high speed video developed by Advanced Tennis ([Click
-Here](https://www.tennisplayer.net/members/avancedtennis/john_yandell/two_handed_backhand/2hd_bh_preparation_backswing/www.advancedtennis.com))
+why the high speed video developed by Advanced Tennis ([link](https://www.tennisplayer.net/members/avancedtennis/john_yandell/two_handed_backhand/2hd_bh_preparation_backswing/www.advancedtennis.com))
 is indispensable for investigating what really happens.
 
 So what does the video show? If we look at a wide range of top players
@@ -496,8 +491,7 @@ continues this rotation of the hands and arms backwards, dropping the
 tip of the racket downward at an angle
 
 This is an independent variable from player to player and even shot to
-shot, as we have seen. ([Click
-Here](http://www.tennisplayer.net/members/avancedtennis/john_yandell/two_handed_backhand/2hd_bh_arm_rotaion/2hd_bh_arm_rotaion.html).)
+shot, as we have seen. ([link](http://www.tennisplayer.net/members/avancedtennis/john_yandell/two_handed_backhand/2hd_bh_arm_rotaion/2hd_bh_arm_rotaion.html).)
 Hewitt is probably at the other extreme. Players may also drop the
 racket head more or drop it less\--but this is completely independent of
 the size of the height of the backswing. Safin has quite a high racket

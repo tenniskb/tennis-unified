@@ -23,7 +23,7 @@ down into the dirt. Eventually, I switched to a \"Uni Grip.\" That means
 that, instead of shifting grips I turned the racket over and hit the
 ball with the same side of the strings on both sides.
 
-![](media_weaponize-your-one-handed-backhand/media/image2.jpg)
+![link](media_weaponize-your-one-handed-backhand/media/image2.jpg)
 
 My Uni Grip gave me a strong semi-western grip on both the forehand and
 the backhand sides, ideal grips for heavy spin. With this change, I
@@ -169,25 +169,24 @@ target arrives.**
 Now let's look closely and see what happens in the forward swing. Watch
 that the front hip opens first. Watch how the arm and racket drag
 slightly behind. This is a similar lag to what Brian Gordon has found on
-the ATP forehand ([Click
-Here](https://www.tennisplayer.net/members/biomechanics/brian_gordon/developing_an_atp_forehand_part_01/).)
+the ATP forehand ([link](https://www.tennisplayer.net/members/biomechanics/brian_gordon/developing_an_atp_forehand_part_01/).)
 
 The lag between the start of the rotation and the actual movement of the
 arm and racket is what generates the ferocious speed and spin.
 
 **[My hips open up first, just like throwing a Frisbee, or a karate
 chop. This is followed by a full follow-through across and then
-continuing back and to the right.]{.underline}**
+continuing back and to the right.]**
 
 **Any backhand punch is outlawed by the Queensbury rules in pro
 boxing. It's too powerful to allow in boxing, yet is allowed in martial
 arts. And in tennis.**
 
-**[(How to perform a Karate Chop]{.underline}
+**[(How to perform a Karate Chop]
 <https://www.youtube.com/watch?v=WRHmf65Rdgw>**
 
-**[How to perform a Backhand punch]{.underline}
-<https://www.youtube.com/watch?v=Gm0SyEqc7ns> [)]{.underline}**
+**[How to perform a Backhand punch]
+<https://www.youtube.com/watch?v=Gm0SyEqc7ns> [)]**
 
 ![A person playing tennis Description automatically
 generated](media_weaponize-your-one-handed-backhand/media/image9.webp)

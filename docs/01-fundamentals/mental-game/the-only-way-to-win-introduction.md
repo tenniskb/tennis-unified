@@ -9,12 +9,11 @@ Loehr, the man who created the term mental toughness and has continued
 to research and refine the relationships between head, heart, soul, and
 high performance in sports and life. Now Jim is starting to put his
 life's work in perspective with a new book, The Only Way to Win.
-([Click
-Here](http://www.amazon.com/The-Only-Way-Win-Achievement/dp/B00C2I9ZL8/ref=sr_1_1?ie=UTF8&qid=1383087711&sr=8-1&keywords=only+way+to+win+jim+loehr).)
+([link](http://www.amazon.com/The-Only-Way-Win-Achievement/dp/B00C2I9ZL8/ref=sr_1_1?ie=UTF8&qid=1383087711&sr=8-1&keywords=only+way+to+win+jim+loehr).)
 In this series he talks about what winning really is and how character
 is what counts in any field of endeavor.
 
-![](media_the-only-way-to-win-introduction/media/image1.png)
+![link](media_the-only-way-to-win-introduction/media/image1.png)
 
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A person smiling for the camera Description automatically generated with medium                                                                                                    Jim Loehr is a legendary pioneer in the field of

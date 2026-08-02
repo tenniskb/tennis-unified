@@ -7,7 +7,7 @@
 ***[Movement is critical at the highest levels of tennis, and at all
 other levels as well. The modern game, played now primarily in the back
 court, is a continuous flow of motion, out to the shot, through the
-shot, then back in the direction of the next shot.]{.underline}***
+shot, then back in the direction of the next shot.]***
 
 ![A person playing tennis Description automatically
 generated](media_the-myth-of-the-recovery-step-forehand/media/image1.webp)
@@ -220,7 +220,7 @@ confidence](media_the-myth-of-the-recovery-step-forehand/media/image6.webp)
 
 Previously, we have published brilliant, detailed articles from David
 Bailey on the whole range of footwork patterns\--including the recovery
-steps. [Click Here](../../Fundamentals/Footwork/Footwork%20TOC.docx)
+steps. [link](../../Fundamentals/Footwork/Footwork%20TOC.docx)
 
 But one commonality emerges from his work, as well as this study. In
 general the sequence is the completion of the forward swing, then the

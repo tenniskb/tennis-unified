@@ -13,8 +13,7 @@ confidence](media_pro-patterns-serve-and-return-diagonals/media/image1.webp)
 In our previous articles, we analyzed the basic crosscourt diagonals,
 how pro players impose them on their opponents, and the battle for
 control, including how players switch the diagonal from an unfavorable
-to a favorable pattern. ([Click
-Here](Pro%20Patterns%20-%20Basic%20Diagonals.docx).)
+to a favorable pattern. ([link](Pro%20Patterns%20-%20Basic%20Diagonals.docx).)
 
 **But tennis points don't start with crosscourt rallies. They start
 with serves and returns.** So, let's take a step
@@ -53,7 +52,7 @@ you will have to experiment with different
 combinations.** Which serves yield which returns,
 and what is the relative strength of the return ball?
 
-**[Forehand to Forehand Rallies]{.underline}**
+**[Forehand to Forehand Rallies]**
 
 ![A tennis match in a stadium Description automatically generated with
 low
@@ -101,16 +100,16 @@ Serve down the T**
 the following guidelines for your next shot:**
 
 - **[If the return comes deep to your forehand\--play deep
-  crosscourt.]{.mark}**
+  crosscourt.]**
 
 - **[If the return comes deep and wide to your forehand\--play angle
-  crosscourt.]{.mark}**
+  crosscourt.]**
 
 - **[If the return comes short to your forehand, however, you can break
   the pattern and attack down the line by trying for a winner or hitting
-  an approach shot.]{.mark}**
+  an approach shot.]**
 
-**[Changing the Rally]{.underline}**
+**[Changing the Rally]**
 
 What if you want to mix up your serves, or if your opponent breaks the
 typical patterns and returns to your backhand in either court? You can
@@ -136,7 +135,7 @@ confidence](media_pro-patterns-serve-and-return-diagonals/media/image4.webp)
 **One way to change to the forehand diagonal: a loop backhand down the
 line.**
 
-**[Backhand to Backhand Rallies]{.underline}**
+**[Backhand to Backhand Rallies]**
 
 ![A picture containing athletic game, sport, tennis, court Description
 automatically
@@ -150,10 +149,10 @@ Serve the body on the forehand side**
 
 If your preferred pattern is backhand-to-backhand, here is the serve and
 return scenario. **[[In the deuce court there are two serves which
-typically produce returns to the backhand.]{.mark} [The first is a serve
+typically produce returns to the backhand.] [The first is a serve
 into the body on the forehand side. Typically, this will be returned
 down the line to your backhand. The second is a serve to the backhand,
-which will be hit crosscourt.]{.mark}]{.underline}**
+which will be hit crosscourt.]]**
 
 **In the ad court, there are also two serves. The first is a wide
 serve, which is typically returned crosscourt to your backhand. This can
@@ -173,7 +172,7 @@ OR\
 Serve into the forehand**
 
 **[Depending on the exact location of the crosscourt return, the basic
-patterns in this case are:]{.underline}**
+patterns in this case are:]**
 
 - **The return comes deep to your backhand\--play deep crosscourt.**
 

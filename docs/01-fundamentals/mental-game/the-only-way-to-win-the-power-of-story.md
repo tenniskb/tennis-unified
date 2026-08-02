@@ -13,7 +13,7 @@ current story and then write your new story in your own language to
 develop the forehand you want, or to overcome choking, or become a great
 wind player.
 
-![](media_the-only-way-to-win-the-power-of-story/media/image1.png)
+![link](media_the-only-way-to-win-the-power-of-story/media/image1.png)
 
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A person smiling for the camera Description automatically generated with medium                                                                                                          Jim Loehr is a legendary pioneer in the field of

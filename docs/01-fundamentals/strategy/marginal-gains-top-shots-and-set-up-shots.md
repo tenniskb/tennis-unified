@@ -19,7 +19,7 @@ gain huge earnings from prize money and sponsorship.
 As you move down the rankings, winning 50% of total points in ATP Tour
 level events is good enough to comfortably maintain your position in the
 Top 100, while winning 55% will usually be enough to make you the No.1
-player in the world. ([Click Here](The%20New%20Magic%20Numbers.docx) for
+player in the world. ([link](The%20New%20Magic%20Numbers.docx) for
 more detail on that from Craig O'Shannessy.)
 
 These numbers are not only true on the tour. They translate to every
@@ -94,17 +94,17 @@ very strong position.
 **Set Up**
 
 [**[Once you pick your top shot, the next step is to work out a set up
-shot for your top shot. This]{.underline}** **[is based on the
+shot for your top shot. This]** **[is based on the
 assumption that the majority of all shots are played on crosscourt
 diagonals. This includes forehands inside out, hit on the same diagonal
-as backhand cross-courts.]{.underline}**]{.mark}
+as backhand cross-courts.]**]
 
 Hitting on the crosscourt diagonal is the less risky and the higher
 percentage play. For this reason, if you hit your forehand down the
 line, you should expect your opponent to play the ball back cross-court
 most of the time.
 
-![](media_marginal-gains-top-shots-and-set-up-shots/media/image4.webp)
+![link](media_marginal-gains-top-shots-and-set-up-shots/media/image4.webp)
 
 **Here Nadal uses his inside in forehand to set up a forehand
 crosscourt**

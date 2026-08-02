@@ -10,7 +10,7 @@ generated](media_winning-matches-the-transition-volley/media/image1.webp)
 **[Over the years the game has evolved many times into many different
 forms. And it seems to be evolving yet again. The volley is beginning to
 reappear and assume, at the highest levels of the game, increasing
-importance.]{.underline}**
+importance.]**
 
 **But it is not the volley of yesteryear, that of McEnroe, Edberg,
 Rafter, or even Henman. Their volleys were of the chip and charge, serve
@@ -135,12 +135,12 @@ played on grass.**
 **[Tennis is constantly evolving as players come up with bright ideas of
 ways to in response. Tennis, in its early years, was a game played
 primarily from the baseline with relatively flat or sliced
-groundstrokes.]{.underline}**
+groundstrokes.]**
 
 **[In the 1940's Jack Kramer discovered that the persistent volleyer
 had the advantage on fast courts against this type of player. Hence the
 serve and volleyers dominated the game for the next 25
-years.]{.underline}**
+years.]**
 
 **To counter the volleyers, players developed topspin groundstrokes
 while, at the same time, the courts were slowed down and the balls made
@@ -176,8 +176,8 @@ Visit him at [www.allenfoxtennis.net](http://www.allenfoxtennis.net) 
 |  | they are. In this new book, Allen offers his proven solutions to problems such as choking, reducing stress, finishing matches, and |
 |  | developing confidence. Based on a lifetime of high level play and coaching success, it's a must for all competitive players. |
 |  |  |
-|  | [[Click Here to |
-|  | Order]{.underline}](http://www.amazon.com/Tennis-Winning-Mental-Allen-Fox/dp/0615407765/ref=sr_1_1?ie=UTF8&qid=1336083459&sr=8-1). |
+|  | [[ to |
+|  | Order]](http://www.amazon.com/Tennis-Winning-Mental-Allen-Fox/dp/0615407765/ref=sr_1_1?ie=UTF8&qid=1336083459&sr=8-1). |
 
 
 | ![Text Description automatically | Winning may not be everything, but Dr. Allen Fox points out that, if we |
@@ -195,8 +195,8 @@ Visit him at [www.allenfoxtennis.net](http://www.allenfoxtennis.net) 
 |  | pervasive fear of failure that undermines so many of us. He then outline |
 |  | how to confront and overcome these fears in your life and career, even |
 |  | when they are initially subconscious. Must reading from one of the great |
-|  | thinkers in tennis, and a Renaissance Man in life. [[Click Here to |
-|  | Order]{.underline}](http://www.tennis-warehouse.com/descpage-MIND.html). |
+|  | thinkers in tennis, and a Renaissance Man in life. [[ to |
+|  | Order]](http://www.tennis-warehouse.com/descpage-MIND.html). |
 |  |  |
 |  | To purchase this book you can also send a check for \$17.95 to Allen |
 |  | Fox, 1120 Inverness Place, San Luis Obispo, CA. 93401. The price |

@@ -18,7 +18,7 @@ confidence](media_john-yandell-your-forehand-and-the-modern-forehand-the-forward
 
 **How should you incorporate hand and arm rotation into your forehand?**
 
-![](media_john-yandell-your-forehand-and-the-modern-forehand-the-forward-swing-hand-and-arm-rotation/media/image2.png)
+![link](media_john-yandell-your-forehand-and-the-modern-forehand-the-forward-swing-hand-and-arm-rotation/media/image2.png)
 
 ![A person smiling for the camera Description automatically generated
 with medium

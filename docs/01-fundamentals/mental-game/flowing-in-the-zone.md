@@ -23,8 +23,7 @@ seemingly without much conscious thought. As he has gotten older, he has
 maintained his high level of play without much \"effort.\"
 
 The idea of \"flow\" or being \"in the zone\" is associated with what
-Jim Loehr first called the ideal performance state. ([Click
-Here](The%20Ideal%20Performance%20State.docx).) It's a state of
+Jim Loehr first called the ideal performance state. ([link](The%20Ideal%20Performance%20State.docx).) It's a state of
 effortless effort and complete focus.
 
 Here are some characteristics of being in the zone or being in a state
@@ -52,8 +51,7 @@ zone happen.
 **[[First, develop a regular pregame warm up. It should be dynamic and
 include movement. Movement energizes you and gets you physically ready
 to compete. (For a classic example of a warm up routine developed by Pat
-Etcheberry]{.underline} [Click
-Here](https://www.tennisplayer.net/members/physicaltraining/pat%20_etcheberry/Etcheberry_PSCT_Intro_Warmup_images/Etcheberry_PSCT_Intro_Warmup.html)[.)]{.underline}]{.mark}**
+Etcheberry] [link](https://www.tennisplayer.net/members/physicaltraining/pat%20_etcheberry/Etcheberry_PSCT_Intro_Warmup_images/Etcheberry_PSCT_Intro_Warmup.html)[.)]]**
 
 **Second, try to relax mentally. Try to put all your concerns,
 worries, and stressors from the rest of your life aside in a figurative
@@ -83,8 +81,7 @@ confidence](media_flowing-in-the-zone/media/image3.jpg)
 
 **What are the enemies of flow? A preoccupation with winning. The
 desire to impress others.** Making excessive,
-conscious efforts to achieve a flow state. Lack of confidence. ([Click
-Here](Techniques%20for%20Developing%20Confidence.docx) to read my
+conscious efforts to achieve a flow state. Lack of confidence. ([link](Techniques%20for%20Developing%20Confidence.docx) to read my
 article on Techniques for Developing Confidence.) All of these enemies
 take you out of the moment.
 
@@ -159,8 +156,7 @@ technique more automatic. To improve positive thinking. To build more
 confidence. To reduce performance anxiety. To regulate energy. To manage
 mistakes. To overcome a subpar past performance. To separate self-worth
 from performance.** (To read a seminal article on
-the use of mental imagery by Jim Loehr [Click
-Here](https://www.tennisplayer.net/members/mentalgame/jim_loehr/jim_loehr_minds_eye_images/jim_loehr_minds_eye.html).)
+the use of mental imagery by Jim Loehr [link](https://www.tennisplayer.net/members/mentalgame/jim_loehr/jim_loehr_minds_eye_images/jim_loehr_minds_eye.html).)
 
 **If Then**
 
@@ -206,8 +202,7 @@ generated](media_flowing-in-the-zone/media/image7.jpg)
 **Can you develop a positive attitude toward pressure?**
 
 Some great examples are the type of drill games in Jorge Capestany's
-series on Tennisplayer ([Click
-Here](https://www.tennisplayer.net/members/ultimate_fundamentals/jorge_capestany/horse/).)
+series on Tennisplayer ([link](https://www.tennisplayer.net/members/ultimate_fundamentals/jorge_capestany/horse/).)
 You can also set up actual on court scenarios based on your If Then
 statements.
 
@@ -251,5 +246,4 @@ competitive tennis. It includes detailed self-assessment questionnaires
 and plans of action to help any player our coach use sports psychology
 to reach the next level.
 
-To Order Next-Level Coaching, [Click
-Here!](https://www.amazon.com/Next-Level-Coaching-Psychology-Student-Athlete-Performance/dp/1632991772/ref=sr_1_1?crid=2XO9EVQF6XBZA&keywords=ben+loeb&qid=1552685920&s=gateway&sprefix=Ben+Loeb%2Caps%2C187&sr=8-1)
+To Order Next-Level Coaching, [!](https://www.amazon.com/Next-Level-Coaching-Psychology-Student-Athlete-Performance/dp/1632991772/ref=sr_1_1?crid=2XO9EVQF6XBZA&keywords=ben+loeb&qid=1552685920&s=gateway&sprefix=Ben+Loeb%2Caps%2C187&sr=8-1)

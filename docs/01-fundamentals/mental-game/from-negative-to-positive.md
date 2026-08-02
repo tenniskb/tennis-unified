@@ -171,7 +171,7 @@ Is there another way to handle bad calls in a way that allows you to
 keep playing your best and maximize your chances of winning the match?
 
   ---------------------------------------------------------------------------------------------------------------------------------------
-   ![](media_from-negative-to-positive/media/image6.png)
+   ![link](media_from-negative-to-positive/media/image6.png)
   ---------------------------------------------------------------------------------------------------------------------------------------
                                    **Click image and see if this dispute over a call sounds familiar.**
 

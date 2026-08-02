@@ -16,11 +16,9 @@ Rhythm. However, there are real differences in the feeling of executing
 1-2 Rhythm on the slice compared to the drive groundstrokes.
 
 These differences are especially important to understand for players who
-hit the one-handed backhand drive. ([Click
-Here](1-2%20Rhythm%20-%20Forehand.docx) for 1-2 Rhythm on the forehand.
-[Click Here](1-2%20Rhythm%20on%20the%20Two%20Hander.docx) for the
-two-hander. And [Click
-Here](1-2%20Rhythm%20The%20Single-Handed%20Backhand.docx) for the one
+hit the one-handed backhand drive. ([link](1-2%20Rhythm%20-%20Forehand.docx) for 1-2 Rhythm on the forehand.
+[link](1-2%20Rhythm%20on%20the%20Two%20Hander.docx) for the
+two-hander. And [link](1-2%20Rhythm%20The%20Single-Handed%20Backhand.docx) for the one
 handed backhand drive.)
 
 **The differences in 1-2 Rhythm on the slice have to do in part with
@@ -110,8 +108,7 @@ at the ball instead of hitting it with the force it warrants.
 
 Studies have shown that the spin levels on a slice backhand at the pro
 level can surpass that of the topspin groundstrokes, reaching over
-5000rpm. ([Click
-Here](https://www.tennisplayer.net/members/classiclessons/nick_wheatley/1-2_rhythm_backhand/).)
+5000rpm. ([link](https://www.tennisplayer.net/members/classiclessons/nick_wheatley/1-2_rhythm_backhand/).)
 By thinking of the forward swing as very aggressive and full of energy,
 players can get a lot more out of their slice backhand.
 
@@ -131,8 +128,7 @@ confidence](media_1-2-rhythm-the-backhand-slice/media/image5.webp)
 But not all players\--or even most\--are dealing with pro level heavy
 incoming balls much less replying with slices with 5000rpm of spin. This
 means there can be a disconnect between the pro slice and the slice for
-lower-level players. ([Click
-Here](../../Stroke%20Analysis/Advanced%20Tennis/John%20Yandell-The%20Pro%20Slice-Stroke%20Components.docx).)
+lower-level players. ([link](../../Stroke%20Analysis/Advanced%20Tennis/John%20Yandell-The%20Pro%20Slice-Stroke%20Components.docx).)
 
 Players who blindly copy the extreme swing shapes of Federer's slice
 may find they are leaving velocity on the table and hitting floating

@@ -2,7 +2,7 @@
 
 ### with John Yandell
 
-![](media_the-mental-game/media/image1.wmf)
+![link](media_the-mental-game/media/image1.wmf)
 
 **\"It may have worked for me sometimes, but I don't recommend it for
 the average player.\"**
@@ -12,7 +12,7 @@ every official in sight, and when things don't go your way, start
 screaming and throwing racquets.** ***[OK, I'm
 kidding. That might have worked for me sometimes, but it's probably not
 a good idea for the average player. Take it from me, it can end up
-causing all types of problems.]{.mark}***
+causing all types of problems.]***
 
 **The real secret to being mentally tough is
 confidence.** Great players win because they
@@ -81,23 +81,23 @@ this or anything else can completely prevent choking.
                                                      ![A picture containing text, person Description automatically
    generated](media_the-mental-game/media/image4.webp)
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                **[A big part of overcoming choking is just learning to watch the ball all the way to the hit.]{.mark}**
+                                **[A big part of overcoming choking is just learning to watch the ball all the way to the hit.]**
 
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **[Every player chokes in certain situations, whether it's the pros,
 junior tennis, or just a club match. So, don't think you're not going
 to choke. Think about how you're going to deal with it when it
-happens.]{.mark}**
+happens.]**
 
 **[For me, if I choked, I didn't mind admitting it. The best thing was
 just to accept that it happened, try to learn from it, and not worry
 about it. If you get critical when you choke, it makes it harder to stay
-positive and confident about the match.]{.mark}**
+positive and confident about the match.]**
 
 **[Another major factor in winning the mental game is [learning how to
-pace your matches.]{.underline} Sometimes what you do between points is
-as important as anything else in a close match.]{.mark}**
+pace your matches.] Sometimes what you do between points is
+as important as anything else in a close match.]**
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                 ![A person playing tennis Description automatically generated with medium

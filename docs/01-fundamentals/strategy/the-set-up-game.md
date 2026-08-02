@@ -13,8 +13,7 @@ win?**
 
 In my first article for Tennisplayer, we looked at what I call the
 \"Set-up Point.\" Basically a Set-up Point is any point that can move
-you to within one point of winning a game. ([Click
-Here](The%20Set-up%20Point.docx).)
+you to within one point of winning a game. ([link](The%20Set-up%20Point.docx).)
 
 Now in this second article, let's look at an equally important and
 unrecognized situation in competitive matches. This is the Set-up Game.
@@ -174,7 +173,7 @@ their match results. A classic, must read for all tennis players,
 Winning Ugly is now available as an ebook, an audio book, as well as in
 the second print edition with a new forward by Andy Murray.
 
-[Click Here to
+[ to
 Order!](https://www.amazon.com/Winning-Ugly-Brad-Gilbert/dp/1847390579/ref=sr_1_2?ie=UTF8&qid=1372444229&sr=8-2&keywords=winning+ugly+new+edition)
 
 ------------------------------------------------------------------------

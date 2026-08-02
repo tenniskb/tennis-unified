@@ -158,7 +158,7 @@ torso. As the ball leaves the racket on the other side of the net you
 **[The uncoiling starts at the moment the ball bounces. This is the
 completion of the backswing and the forward swing in a combined fluid
 motion. To summarize, you coil pre-bounce and uncoil at the moment of
-the bounce.]{.underline}**
+the bounce.]**
 
 ![A picture containing person, person, tennis, player Description
 automatically

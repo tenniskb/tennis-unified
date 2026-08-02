@@ -192,7 +192,7 @@ still improving and working on your game.
 **[Any successful progress through change is rewarding in both on court
 play and your frame of mind. The day you come to net in a competitive
 match and win a crucial point with that new grip, is a day that you will
-enjoy and remember for some time.]{.mark}**
+enjoy and remember for some time.]**
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A person with a beard and mustache Description automatically generated with low                                                                                                    Rod Heckelman has been the general manager of

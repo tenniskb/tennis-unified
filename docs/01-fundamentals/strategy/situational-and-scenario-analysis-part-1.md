@@ -52,7 +52,7 @@ confidence](media_situational-and-scenario-analysis-part-1/media/image2.webp)
 
 **What if your opponent is like Safin, powerful and consistent?**
 
-**[Scenario 1:]{.underline}** Your opponent is more powerful than you
+**[Scenario 1:]** Your opponent is more powerful than you
 and is your equal in consistency. Pro example: Marat Safin.
 
 Many players try to answer power with power, without assessing whether
@@ -93,7 +93,7 @@ generated](media_situational-and-scenario-analysis-part-1/media/image3.webp)
 
 **What if your opponent has you pinned with a superior backhand?**
 
-**[Scenario 2:]{.underline}** Your opponent is pinning you in the
+**[Scenario 2:]** Your opponent is pinning you in the
 backhand corner and you are stuck hitting inside out forehands to her
 backhand and are losing the battle. Pro Example: Venus Williams.
 
@@ -103,20 +103,20 @@ your strength, hitting a heavy, deep topspin inside in forehand will
 probably force your opponent to go crosscourt creating the
 forehand-to-forehand rally you desire. The height and spin will also
 prevent your opponent from creating an angle, since you are giving her a
-ball above the hitting zone.]{.mark} [You should attempt to make this
+ball above the hitting zone.] [You should attempt to make this
 switch when the ball is closer to the middle than the sideline, so you
 have more room for your shot and so your recovery distance is
-shorter.]{.mark}]{.underline}**
+shorter.]]**
 
 **[[You may also try an inside out forehand angle with a little less
 pace, to try to get the ball low and make the opponent contact the ball
 below the level of the net. The opponent will have to use less pace, and
-hit up, generally hitting this ball crosscourt.]{.mark} [This can take
+hit up, generally hitting this ball crosscourt.] [This can take
 the pressure off the exchange. It may give you an opening to hit an
 inside in winner. Another option is to hit a down the line slice
 approach shot off the same ball, while your opponent attempts to recover
 all the way back across their baseline to pass
-you.]{.mark}]{.underline}**
+you.]]**
 
 **You can also try to hit a drive down the middle to see if your
 opponent will choose the crosscourt forehand, giving you the
@@ -167,7 +167,7 @@ higher kick serves with more spin and less pace to allow yourself time
 to get in tighter to the net. The returner will be taking the ball from
 a higher position and have more trouble getting it down quickly.
 
-**[Scenario 4:]{.underline}** You are playing a very fast and consistent
+**[Scenario 4:]** You are playing a very fast and consistent
 opponent and you are making mistakes on short balls and regular
 groundstrokes. Pro Example: Guillermo Coria.
 
@@ -187,7 +187,7 @@ confidence](media_situational-and-scenario-analysis-part-1/media/image6.webp)
 
 **How do you counter great backhand angles?**
 
-**[Scenario 5:]{.underline}** Your opponent can hit great backhand
+**[Scenario 5:]** Your opponent can hit great backhand
 angles and you can't get around the ball to hit your big forehand. Pro
 Example: Martina Hingis.
 
@@ -212,7 +212,7 @@ confidence](media_situational-and-scenario-analysis-part-1/media/image7.webp)
 
 **Facing the big bomb, adjust your position and/or float the return.**
 
-**[Scenario 6:]{.underline}** Your opponent is bombing serves and you
+**[Scenario 6:]** Your opponent is bombing serves and you
 just can't seem to hit the ball deep enough on returns to neutralize
 the point. Pro Example: Andy Roddick.
 
@@ -226,7 +226,7 @@ More floating returns may pressure the server into making some errors.
 These players count on winning free points on their serves and
 frustration will set in quickly as they are forced to play every point.
 
-**[Scenario 7:]{.underline}** You are both aggressive from the baseline,
+**[Scenario 7:]** You are both aggressive from the baseline,
 but your opponent seems to be getting in a little more often than you
 and she is winning a close match. Pro Example: Amelie Mauresmo.
 

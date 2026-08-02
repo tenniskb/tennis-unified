@@ -12,7 +12,7 @@ forehand. Again the third shot is an attack into the open court. Based
 on the response to the first crosscourt, the player can go either inside
 out or inside in.
 
-![](media_opening-the-court-part12/media/image1.png)
+![link](media_opening-the-court-part12/media/image1.png)
 
   --
 

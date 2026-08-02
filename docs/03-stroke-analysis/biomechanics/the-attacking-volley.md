@@ -11,7 +11,7 @@ generated](media_the-attacking-volley/media/image1.webp)
 
 ***[To hit a great attacking volley, a player needs two things. The
 first is great footwork. The second is very simple upper body
-movement.]{.mark}*** **The biggest problem most players have is that
+movement.]*** **The biggest problem most players have is that
 their upper body movement, and especially their arm action, is far too
 complex.**
 
@@ -39,7 +39,7 @@ little wider.
 **Too many players literally stop all forward motion when they
 split.** *[If you stop completely, your body will
 have too much inertia and you won't be able to explode to the
-volley]{.mark}*. **The way to perform a split step properly is to go
+volley]*. **The way to perform a split step properly is to go
 into the balanced hop, land, and get out.**
 
 **The way you time this is to land just as the opponent begins the
@@ -50,9 +50,9 @@ land at about the opponent's contact point.**
 **[When you land, pretend that the court is a hot plate or a stove. You
 wouldn't stay in contact with a hot stove very long, would you? That's
 exactly the thought I want you to have when you do the split step.
-[You're in it and you're out of it immediately.]{.underline} [You
-land, you read, react, and get out.]{.underline} That's very
-important.]{.mark}**
+[You're in it and you're out of it immediately.] [You
+land, you read, react, and get out.] That's very
+important.]**
 
 ![A person running on a track Description automatically generated with
 low
@@ -62,14 +62,12 @@ confidence](media_the-attacking-volley/media/image3.webp)
 Shot.**
 
 So what happens next? As Peter Smith explains in his excellent article
-on the two-step volley ([Click
-Here](http://www.tennisplayer.net/members/tour_strokes/peter_smith/pete_sampras_two-step_volley/pete_sampras_two-step_volley.html)),
+on the two-step volley ([link](http://www.tennisplayer.net/members/tour_strokes/peter_smith/pete_sampras_two-step_volley/pete_sampras_two-step_volley.html)),
 it's a combination of a step with the outside foot and a step forward
 into the shot. The size and the direction of the first step will depend
 on where you are in relation to the oncoming ball. It can be a pivot, a
 sideways step, a lunge step, or a reverse step, something that I
-demonstrated in my first article. ([Click
-Here](http://www.tennisplayer.net/members/biomechanics/dr_jack_groppel/correcting_common_stroke_errors/correcting_common_stroke_errors.html).)
+demonstrated in my first article. ([link](http://www.tennisplayer.net/members/biomechanics/dr_jack_groppel/correcting_common_stroke_errors/correcting_common_stroke_errors.html).)
 
 **As Peter points out, the first step should position you on balance
 behind the ball.** On many balls you will see the
@@ -101,7 +99,7 @@ point of impact.
 
 **[You prepare the racket primarily with shoulder rotation. But you do
 not turn so much that the shoulders are totally sideways. You only turn
-until the shoulders are about 45 degrees to the net.]{.mark} *That's
+until the shoulders are about 45 degrees to the net.] *That's
 about half as much turn as on a forehand
 groundstroke.***
 
@@ -162,7 +160,7 @@ Again, you land in the split step just as the opponent makes contact.
 **You read that the ball is going to your backhand volley. You
 immediately turn.** ***[The difference is that on
 the backhand, you basically turn your shoulders all the way sideways to
-the net.]{.mark}*** There is still relatively little movement of the
+the net.]*** There is still relatively little movement of the
 arm. As you turn, you turn the racket back a little bit, so that the
 palm is pointing partially down. This opens the racket face slightly.
 The elbow is also going to be slightly bent. Again, let the momentum of
@@ -182,7 +180,7 @@ follows the ball.**
 
 ***[Like the forehand the followthrough is again very small. You simply
 make the racket face follow the ball, again by pretending you're
-hitting three balls in a row.]{.mark}*** Hit the actual ball slightly in
+hitting three balls in a row.]*** Hit the actual ball slightly in
 front of your body, and pretend you're volleying through two more
 balls. The racket face is moving downward to create underspin, but it is
 also moving outward and following the ball in the direction of your
@@ -224,7 +222,7 @@ confidence](media_the-attacking-volley/media/image9.webp)\
 **Low Volleys**
 
 **[On low volleys, the key is to get as low as possible. You do this by
-bending your knees.]{.mark}** Many people bend at the waist trying to
+bending your knees.]** Many people bend at the waist trying to
 hit low volleys. That's inefficient and usually not very effective.
 **Bend your knees and get down as low as you can. One cue I use for my
 students is to try to get your eyes as near the level of the volley as
@@ -288,7 +286,7 @@ difficult, and one that requires great control.
 shoulder turn, but even less backswing than on the regular volley. Then
 utilize a quick forward stroke but with a longer followthrough. Your
 goal should is to play that ball deep into the opponent's court, trying
-to keep the opponent back behind his or her baseline.]{.underline}**
+to keep the opponent back behind his or her baseline.]**
 
 Many of my colleagues believe that the half volley is a defensive shot.
 I don't believe it has to be. You can play the ball deep into the
@@ -310,7 +308,7 @@ contact.**
 ***[So let's summarize the components of the attacking volley. Always
 use a split step, unless you have forced a very weak shot from your
 opponent. If you have forced the weak shot, then by all means, close as
-fast as you can to the net.]{.mark}***
+fast as you can to the net.]***
 
 - ***Remember the mechanics of the swing.***
 

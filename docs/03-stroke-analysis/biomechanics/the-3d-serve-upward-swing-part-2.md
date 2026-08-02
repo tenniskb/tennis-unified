@@ -12,8 +12,7 @@ hitting arm.
 We then discussed ways to alter the rotational speed of the trunk by
 changing its orientation in time and space. Finally we saw how the
 possible variations in the use of the trunk affected the positioning of
-the hitting arm at contact. ([Click
-Here.)](The%203D%20Serve%20-%20Upward%20Swing%20-%20Part%201.docx)
+the hitting arm at contact. ([)](The%203D%20Serve%20-%20Upward%20Swing%20-%20Part%201.docx)
 
 We concluded that there are different ways to take the racket to the
 contact point, and these differences are a function of a series of
@@ -64,7 +63,7 @@ the naked eye to observe accurately. The motion is so complicated that
 the full picture has yet to be fully described. Still, I believe we can
 identify pieces of the puzzle that will help any player.
 
-![](media_the-3d-serve-upward-swing-part-2/media/image3.gif)
+![link](media_the-3d-serve-upward-swing-part-2/media/image3.gif)
 
 **How contraction causes joint rotations.**
 
@@ -260,7 +259,7 @@ is also a contribution from the joint force at the elbow.
 joint force at the elbow becomes much larger as the rate of extension
 increases.*** **[During this time, it is
 interesting to note that the muscular driven joint torque at the elbow
-changes to a flexion tendency.]{.mark}**
+changes to a flexion tendency.]**
 
 It is possible that during this time the extensor muscles can't keep up
 with the rate of extension, creating an inhibiting influence on this
@@ -268,13 +267,13 @@ action. A second possibility, though less likely, is that the flexors
 are used to control the rate of extension.
 
 **[Either way, the mechanism links back to the actions of the trunk and
-shoulder.]{.mark}** **[That is because they are the sources of the elbow
+shoulder.]** **[That is because they are the sources of the elbow
 force driving elbow extension. This is an attribute of high level
 performers, but is often lacking in developing players. In any case, as
 the racket approaches contact, the muscle driven elbow torque once again
 becomes the primary driver of elbow extension. Truly this is a complex
 chain of events, that, remember is happening within that 1/10th of
-second duration.]{.mark}**
+second duration.]**
 
 ![A picture containing tennis, court, sport, athletic game Description
 automatically
@@ -288,7 +287,7 @@ pronation.**
 ***In the popular literature, the term pronation is used to describe a
 vast array of motions.*** **[These include the
 turning of the racket after contact, and turning of the hand and wrist
-at various points of the swing.]{.mark}** ***But anatomically, the
+at various points of the swing.]** ***But anatomically, the
 terms pronation and supination specifically refer to the twist rotation
 of the forearm independent of the upper arm
 rotation.***
@@ -299,7 +298,7 @@ the forearm tends to supinate. However this effect is slowed by a
 pronator torque. This torque is responsible for the timing of the
 forearm pronation, such that it begins closer to contact. The slowing of
 supination through the pronator torque could represent another
-application of the stretch-shorten cycle.]{.mark}**
+application of the stretch-shorten cycle.]**
 
 ![A person playing tennis Description automatically generated with low
 confidence](media_the-3d-serve-upward-swing-part-2/media/image9.webp)
@@ -311,7 +310,7 @@ racket.**
 coaching, its impact is arguably much less than the upper arm in
 creating racquet speed on the serve. *The fact is that much of the
 forearm rotation observed by coaches is due to shoulder internal
-rotation, and not independent forearm pronation.*]{.mark}** ***The
+rotation, and not independent forearm pronation.*]** ***The
 reality is that independent forearm pronation is used more for
 positioning the wrist joint and racquet head than for generating racquet
 head speed.***
@@ -379,7 +378,7 @@ coaches?** ***[I believe the lesson is that the
 tendency in coaching to focus on isolated pieces of the upward swing
 should be reevaluated. Statements such as \"snap here\" or \"extend
 there\" only make sense if made in the context of the overall motion and
-with an understanding of the unintended consequences.]{.mark}***
+with an understanding of the unintended consequences.]***
 
 **For every action, there is a reaction. Advice to initiate a muscular
 contraction to move a joint in a certain way can actually do far more
@@ -464,7 +463,7 @@ the leg drive, or in the case of many junior players, insufficient power
 in the required muscles. (This is why off court training is so
 important.)
 
-![](media_the-3d-serve-upward-swing-part-2/media/image14.webp)
+![link](media_the-3d-serve-upward-swing-part-2/media/image14.webp)
 
 **A complex chain of interrelated actions: shoulder abduction, elbow
 extension, ulnar deviation, internal shoulder rotation, wrist flexion.**
@@ -487,36 +486,36 @@ speed development, which we can see in the velocity
 curves.**
 
 **The most common breakdown in this chain at the beginning, [the initial
-shoulder joint motion.]{.underline} Due to lack of strength or poor
+shoulder joint motion.] Due to lack of strength or poor
 technique, the elbow is never correctly positioned during the upward
 swing. [This means it does not move upward and/or forward from the
-shoulder joint.]{.underline}**
+shoulder joint.]**
 
 **This can happen for two reasons.**
 
 **First, the elbow positioning occurs strictly as a function of trunk
-rotation [without independent shoulder joint motion.]{.underline}**
+rotation [without independent shoulder joint motion.]**
 
-**Second, the player [substitutes early elbow extension]{.underline} for
+**Second, the player [substitutes early elbow extension] for
 the independent shoulder joint movement.**
 
 ***[In the first case the result is that the orientation and direction
 of the elbow extension reduces the contribution to racquet
-speed.]{.mark}***
+speed.]***
 
 ***[In the second case, the early elbow extension throws off sequence of
-racket speed development.]{.mark}*** **[In effect, the elbow extension
+racket speed development.]*** **[In effect, the elbow extension
 is contributing at the wrong time. This creates a plateau in velocity in
 the later stages. The effect of the elbow extension has been depleted at
 the time it should be playing it's critical role. This leaves a void in
-the middle portion of the upward swing.]{.underline}**
+the middle portion of the upward swing.]**
 
 **The latter deficiency is often a result of an [unconscious effort by
-the neuromuscular system to bypass a weak link]{.underline} - to
+the neuromuscular system to bypass a weak link] - to
 compensate for the absence of shoulder joint motion by substituting the
 next link in the chain. But the effect here is always the same, [the
 player ends up supplementing the late racket speed development with
-extra non-twisting shoulder joint motion.]{.underline}**
+extra non-twisting shoulder joint motion.]**
 
 ![A picture containing text, person, player Description automatically
 generated](media_the-3d-serve-upward-swing-part-2/media/image15.webp)
@@ -540,14 +539,14 @@ an important role.
 
 To review, **[the external rotation in the backswing, (which also
 continues into the early upward swing) allows the use of a
-stretch-shorten cycle.]{.underline}** **[This occurs when the internal
+stretch-shorten cycle.]** **[This occurs when the internal
 rotating muscles are used to slow the external rotation. This means the
 internal rotators are activated and put on stretch before the actual
 internal rotation of the segment begins later in the upward
-swing.]{.mark}** Recall that the effectiveness of this mechanism can be
+swing.]** Recall that the effectiveness of this mechanism can be
 estimated by viewing the angle of the racquet in a back view. **[We want
 to see the racket shaft in line with the angle of the
-torso.]{.underline}**
+torso.]**
 
 **Racket to Arm Angle**
 
@@ -555,7 +554,7 @@ The configuration of the body segments near contact is also critical. No
 amount of internal shoulder rotation will move the racquet forward
 unless **[the proper racquet to arm angle is used. This angle is also
 related to other angles in constructing the contact body
-configuration.]{.mark}**
+configuration.]**
 
 ![A picture containing tennis, ball, sport, athletic game Description
 automatically
@@ -601,7 +600,7 @@ confidence](media_the-3d-serve-upward-swing-part-2/media/image17.webp)
 
 **[The foremost goal of the follow through is to gracefully slow the
 segments so that injury can be avoided. To accomplish this, the range of
-slowing should be made as long as possible.]{.mark}** Because slowing
+slowing should be made as long as possible.]** Because slowing
 the segments often requires contracting muscles that are lengthening
 (eccentric contraction), the high forces involved should be spread over
 the longest possible duration.
@@ -622,10 +621,10 @@ can be reduced by a technique seen in many players, but lacking in
 others.
 
 **[Research done in pitching discovered [a quick flexion of the elbow
-following the rapid elbow extension into release.]{.underline} This
+following the rapid elbow extension into release.] This
 flexion combined with shoulder internal rotation already present,
 decreases the magnitude of the bone on bone contact at full
-extension.]{.mark}** My experience is that is something that often needs
+extension.]** My experience is that is something that often needs
 to be trained. You can see this very readily in the Sampras motion where
 the elbow bends almost immediately after contact and earlier than
 virtually any other player.
@@ -651,11 +650,11 @@ the legs, and specifically the trailing leg.***
 **[This is the reason for the leg kick back we see all the top players
 used. The kick back transfers angular momentum to this leg causing the
 rest of the body to rotate more slowly, and allowing smoother
-recovery.]{.mark}**
+recovery.]**
 
 **[The extent and direction of the leg kick also speaks volumes about
 how angular momentum was generated earlier. It's a good key for
-diagnosing what actually happened in the motion.]{.underline}**
+diagnosing what actually happened in the motion.]**
 
 - The lack of kick back indicates insufficient angular momentum to hit a
   big serve.
@@ -719,8 +718,8 @@ for yourself or for your players.
 |  | knowledge across the entire range of tennis performance. |
 |  |  |
 |  | To visit his website, [**[Click |
-|  | Here!]{.underline}**](https://tennisperformanceresearch.com/) |
+|  | Here!]**](https://tennisperformanceresearch.com/) |
 |  |  |
 |  | Top contact him directly, [**[Click |
-|  | Here!]{.underline}**](mailto:gamabrian@icloud.com) |
+|  | Here!]**](mailto:gamabrian@icloud.com) |
 

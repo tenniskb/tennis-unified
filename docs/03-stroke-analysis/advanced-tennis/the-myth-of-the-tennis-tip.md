@@ -28,12 +28,12 @@ is typically based on this cycle.
 **[There's a lot of talking and a lot of hitting, but you see the same
 students and the same pros out there every week with the same
 routine\--sometimes for years at a time\--and often the player's
-strokes never appear to make significant progress.]{.mark}**
+strokes never appear to make significant progress.]**
 
 **[What is up with that? Is the game just that difficult? Or are there
 inherent limitations in the process by which tennis is taught,
 limitations that aren't widely known or understood by either the
-students or the pros themselves?]{.mark}**
+students or the pros themselves?]**
 
 ![A person holding a tennis racket Description automatically generated
 with low
@@ -206,7 +206,7 @@ hearing or listening. It's a matter of seeing and feeling.
 of exactly what goes on in every stroke. And some players may be able to
 take verbal information and translate it into imagery and kinesthetics.
 But in general, the language of teaching just doesn't speak to most
-players in the language they need.]{.mark}***
+players in the language they need.]***
 
 Most good players can't talk about their strokes in words because
 that's not how they communicate to themselves on the court. Players
@@ -217,7 +217,7 @@ But they aren't thinking about how they do that in technical terms.
 **[So how do they do it? Although we don't have the neurological
 research to prove this point (at least not yet) my belief is all this
 happens through subconscious processes that involve mental imagery and
-feeling.]{.mark}**
+feeling.]**
 
 ***Top players seem to experience the game at a sub-verbal level. They
 use images and feelings to communicate information to their bodies, make
@@ -301,7 +301,7 @@ thing to be absolutely true. If the player cannot replicate the key
 positions in the stroke physically without the ball, and also, visualize
 these positions in his mind's eye, he has no chance of doing it with
 the ball in actual play or even in a simple ball feed or rally
-drill.]{.mark}***
+drill.]***
 
 Direct visual feedback is also an absolutely essential part of the
 process. This means using on court video on a regular basis. If you are

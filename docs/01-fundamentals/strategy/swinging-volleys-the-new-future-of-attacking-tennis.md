@@ -27,7 +27,7 @@ net?**
 **[The reality is that they may already have found it. They just don't
 realize the full implications, and the commentators are too busy
 rehashing how great they were in the old days to realize it
-either.]{.mark}**
+either.]**
 
 **What?**
 
@@ -39,7 +39,7 @@ serve and swinging volley tennis.
 
 **[This means a first serve or even a second serve backed up with a
 swinging volley. Usually, the swinging volley is a clean winner, but it
-can also set up a conventional volley to finish the point.]{.mark}**
+can also set up a conventional volley to finish the point.]**
 
 ![A tennis player in yellow swings a racket Description automatically
 generated with low
@@ -96,14 +96,12 @@ traditional volley? Three reasons. Pace, spin, and court position.
 This claim isn't just observational. In the late 90s we did the first
 ever studies of ball speed in tennis\--beyond the initial serve
 velocities recorded by the radar guns\--quantifying the ball speeds on
-the shots of the great Pete Sampras. ([Click
-Here](https://www.tennisplayer.net/members/mystheavyball/john_yandell/ball_speed_pro_tennis/ball_speed_pro_tennis_page1.html).)
+the shots of the great Pete Sampras. ([link](https://www.tennisplayer.net/members/mystheavyball/john_yandell/ball_speed_pro_tennis/ball_speed_pro_tennis_page1.html).)
 
 We found his average forehand mph was in the high 70s. We filmed one
 forehand that was 85mph. Today of course the forehands are hit with that
 speed and more\--and with almost double the spin of Sampras's forehand.
-([Click
-Here](https://www.tennisplayer.net/members/mystheavyball/john_yandell/ball_speed_pro_tennis/ball_speed_pro_tennis_page2.html)
+([link](https://www.tennisplayer.net/members/mystheavyball/john_yandell/ball_speed_pro_tennis/ball_speed_pro_tennis_page2.html)
 for more on that.)
 
 We were also able to measure the speeds on a handful of volleys. Not
@@ -113,8 +111,7 @@ volley moving over 50mph.
 
 In a related study we also measured volley spin. Forehand volleys were
 spinning at less than 1000rpm, while backhand volleys were slightly more
-on average. ([Click
-Here](https://www.tennisplayer.net/members/mystheavyball/john_yandell/spintest_part2/spintest_part2.html).)
+on average. ([link](https://www.tennisplayer.net/members/mystheavyball/john_yandell/spintest_part2/spintest_part2.html).)
 
 And that data right there probably explains a big part of the decline of
 pure serve and volley tennis\--and how the attacking game has changed.
@@ -139,9 +136,9 @@ half the speed and half the spin of a modern groundstroke. That seems
 like suicide. **So instead, players let the ball bounce and take a
 swing.**
 
-[**[Swing is a key word here]{.underline}**. **[In today's game, the
+[**[Swing is a key word here]**. **[In today's game, the
 swinging volley is essentially the same technical motion as a
-groundstroke.]{.underline}**]{.mark} **A swinging volley can also be
+groundstroke.]**] **A swinging volley can also be
 hit from 10 feet inside the baseline or more. This is a position where
 groundstrokes are regularly hit for clean winners. And you just can't
 do that in most cases with conventional volleys.**
@@ -229,8 +226,7 @@ with some high level Norcal NTRP players.
 
 **Guess what? It was an easy adaptation.**
 
-And, using the pocket radar gun ([Click
-Here](https://www.tennisplayer.net/members/technology_in_teaching/john_yandell/measuring_change_radar_technology/)
+And, using the pocket radar gun ([link](https://www.tennisplayer.net/members/technology_in_teaching/john_yandell/measuring_change_radar_technology/)
 for more on that), we found that the speed increased significantly
 compared to the classical backhand volley. Just like on the forehand
 swinging volley.
@@ -262,8 +258,7 @@ I am not the first person, by the way, to consider this possibility.
 Remember the \"spaghetti\" strings? They made the spin increases from
 poly seem insignificant and they were banned in 1977 after Illie Nastase
 used them to snap Guillermo Vilas' 53-match clay-court winning streak.
-([Click
-Here](https://www.tennisplayer.net/members/physics_of_tennis/josh_speakman/spaghetti_strings/).)
+([link](https://www.tennisplayer.net/members/physics_of_tennis/josh_speakman/spaghetti_strings/).)
 
 But not before the tortured genius who invented them, a German
 horticulturist named Werner Fischer, predicted that heavy topspin

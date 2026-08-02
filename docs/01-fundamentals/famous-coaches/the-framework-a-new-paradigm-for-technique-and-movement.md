@@ -180,13 +180,13 @@ begin to see more clearly what is going on in a shot, in all shots
 including slices and volley.
 
 **[In creating the Framework, therefore I have developed 4
-rules.]{.underline}**
+rules.]**
 
 **Rule #1**
 
 **Effective analysis of all shots must consider how [movement to the
-ball]{.underline} and the [movement of the racket [are
-interwoven]{.mark}]{.underline}.**
+ball] and the [movement of the racket [are
+interwoven]].**
 
 Identifying the elements that make up all shots, enables a coach to
 establish an organized method to diagnose strokes. This common framework
@@ -206,8 +206,8 @@ technique and movement support or work against each other. (For the
 purposes of these articles, we are excluding the serve.)
 
 **Great technique/movement is built on the [minimum number of possible
-variables]{.underline}**\--***[without sacrificing racquet speed or foot
-speed.]{.mark}*** In fact this reduction of variables actually increases
+variables]**\--***[without sacrificing racquet speed or foot
+speed.]*** In fact this reduction of variables actually increases
 both.
 
 ![A person playing tennis Description automatically
@@ -218,7 +218,7 @@ generated](media_the-framework-a-new-paradigm-for-technique-and-movement/media/i
 **Rule #2**
 
 **The Framework is based on the assumption that every shot is [a
-succession of stages built one upon the other]{.underline}.** The
+succession of stages built one upon the other].** The
 Framework breaks down each shot into seven stages or sections. This
 creates parameters that allows us to define a range from acceptable and
 unacceptable.
@@ -226,12 +226,12 @@ unacceptable.
 **Rule #3**
 
 **The Framework focuses on the importance of the [continuous powerful
-and smooth transfer of energy and momentum]{.underline} through the
+and smooth transfer of energy and momentum] through the
 whole shot.** Most educational sites focus on momentum and the kinetic
 chain in the stroke only. **The Framework analyzes how energy is
-used [during movement]{.underline} and [how that
+used [during movement] and [how that
 energy is transferred from movement to the racquet and back to
-movement]{.underline}.**
+movement].**
 
 **Rule #4**
 
@@ -239,9 +239,9 @@ The Framework works with the premise that great technique/movement
 eliminates as many variables as possible without sacrificing racquet and
 foot speed. In fact eliminating variables will increase both.
 
-| **[THE SEVEN STAGES:]{.underline}** |  |  |
+| **[THE SEVEN STAGES:]** |  |  |
 | --- | --- | --- |
-| **[Movement]{.underline}** | **[Technique]{.underline}** |  |
+| **[Movement]** | **[Technique]** |  |
 | 1.  **Split Step** | 1.  **Ready Position** |  |
 |  |  |  |
 | 2.  **Unit Turn** | 2.  **Grip Change (When Needed)** |  |

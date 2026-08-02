@@ -9,8 +9,7 @@ Over the past 4 years we've used the high speed footage from Advanced
 Tennis to explore the modern forehand in pro tennis in virtually every
 aspect. Currently there are over a dozen detailed articles in the
 Advanced Tennis section on the modern forehand. These cover the
-commonalities and the differences among the top pro players. ([Click
-Here](https://www.tennisplayer.net/members/avancedtennis/advtennis.html).)
+commonalities and the differences among the top pro players. ([link](https://www.tennisplayer.net/members/avancedtennis/advtennis.html).)
 
 Last month we started a new series called \"Your Forehand and the Modern
 Forehand.\" The idea is to apply everything we've learned to your game
@@ -24,8 +23,7 @@ stated repeatedly that my was just to try to understand the pro
 forehand, a challenging goal to say the least. But now it's time to get
 specific and see what pro elements you can incorporate to take your game
 to the next level. In the first article, we started with an analysis of
-Grip and Contact Height. ([Click
-Here](https://www.tennisplayer.net/members/avancedtennis/john_yandell/your_forehand_and_the_modern_forehand/grip/your_forehand_and_the_modern_forehand_grip.html).)
+Grip and Contact Height. ([link](https://www.tennisplayer.net/members/avancedtennis/john_yandell/your_forehand_and_the_modern_forehand/grip/your_forehand_and_the_modern_forehand_grip.html).)
 
 This month we'll continue with Part 2 \"Preparation.\" It's a subject
 that is widely misunderstood. I think this article is the best analysis
@@ -40,7 +38,7 @@ generated](media_john-yandell-your-forehand-and-the-modern-forehand-preparation/
 **What are the secrets to great preparation and why is it so
 misundertood?**
 
-![](media_john-yandell-your-forehand-and-the-modern-forehand-preparation/media/image2.png)**[.]{.underline}**
+![link](media_john-yandell-your-forehand-and-the-modern-forehand-preparation/media/image2.png)****
 
 ![A person smiling for the camera Description automatically generated
 with medium

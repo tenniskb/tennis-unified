@@ -4,14 +4,13 @@
 
 **Dr. Brian Gordon**
 
-![](media_the-backswing-part-1/media/image1.webp)
+![link](media_the-backswing-part-1/media/image1.webp)
 
 **The backswing; more complex than it looks, but with clear
 benchmarks.**
 
 **In my last article I covered the first phase of the serve, the wind up
-([Click
-Here](3D%20Technologies%20and%20Analysis%20-%20The%20serve%20wind%20up.docx)).**
+([link](3D%20Technologies%20and%20Analysis%20-%20The%20serve%20wind%20up.docx)).**
 
 Now let's move on to the second phase, the backswing. It may look
 simple, but far and away, the backswing is the most difficult phase of
@@ -62,8 +61,7 @@ We saw that the choice of footwork has implications for several
 important biomechanical characteristics of the overall motion. These
 include the direction of the ground reaction force, the ending position
 of the server's center of mass, the generation of forward angular
-momentum, and the timing of the leg flexion and extension. ([Click
-Here](3D%20Technologies%20and%20Analysis%20-%20The%20serve%20wind%20up.docx).)
+momentum, and the timing of the leg flexion and extension. ([link](3D%20Technologies%20and%20Analysis%20-%20The%20serve%20wind%20up.docx).)
 
 ![A tennis player hitting a ball with his racket Description
 automatically generated with medium
@@ -77,7 +75,7 @@ conclusion was that all the options had potential to be effective if
 executed correctly, assuming that they were within physical capabilities
 of the player.
 
-**[There are many ways to skin a cat]{.underline}**, and in my coaching
+**[There are many ways to skin a cat]**, and in my coaching
 experience I can and have achieved higher benchmarks for different
 players with differing techniques. Making these determinations is where
 the data gives way to the art of coaching.
@@ -95,7 +93,7 @@ motion with the racquet, that is, when the racket starts to move
 downward, or possibly forward, toward the racket
 drop.** **[The backswing concludes when the racquet
 face center reaches its lowest point, or the point closest to the
-court.]{.mark}**
+court.]**
 
 Determining the exact start of the backswing, or the transition point
 from the wind up to the backswing, is somewhat subjective. In the
@@ -118,7 +116,7 @@ Why is the backswing the most complex phase? **[In the other phases, the
 actions of the upper and lower body are independent, at least to some
 extent. No such separation is possible in the back swing. [The actions
 of the upper and lower body movements must be coordinated very
-precisely.]{.underline}]{.mark}**
+precisely.]]**
 
 By this I mean **coordinating the timing of the movement of the arm
 and racket and the timing of the leg drive. Our
@@ -176,7 +174,7 @@ could be either a continuous transition or a hesitation transition. [In
 a continuous transition, the racket moves from the wind up to the
 backswing at continuous or at an accelerating pace. With the hesitation
 transition, the racket slows down or even
-hesitates.]{.underline}]{.mark}**
+hesitates.]]**
 
 Either transition can be fine. It's a matter of how the transition
 affects the coordination of the timing of the arm and racquet with the
@@ -208,7 +206,7 @@ manipulating the leg drive timing.
 **[The timing problem can be more severe, however, when the leg drive
 ends before the arm and racquet reach their end of back swing position.
 In this case the influence of the leg drive on the hitting arm motion is
-reduced significantly.]{.mark}**
+reduced significantly.]**
 
 This problem can be an unintended consequence when players adopt an
 extreme abbreviated windup on the model of Andy Roddick. The reason is
@@ -219,7 +217,7 @@ run ahead of the racquet and arm.
 
 **[The most direct result of this problem is that the latter part of the
 racquet drop occurs while legs are no longer pushing against the
-ground.]{.mark}** The consequence is a loss of racquet head speed and a
+ground.]** The consequence is a loss of racquet head speed and a
 decrease in the depth of the racquet drop at the end of the back swing.
 The exact relationship between these benchmarks and the leg drive will
 be covered in the next article.
@@ -236,13 +234,13 @@ remainder of this article. Then we'll move on to the upper body action
 in the second backswing article next month.
 
 **[The leg drive has three primary roles during the back swing. These
-are:]{.mark}**
+are:]**
 
-1.  **[the acceleration of the body in the vertical direction;]{.mark}**
+1.  **[the acceleration of the body in the vertical direction;]**
 
-2.  **[the creation of forward angular momentum,]{.mark}**
+2.  **[the creation of forward angular momentum,]**
 
-3.  **[and assistance in rotating the hips.]{.mark}**
+3.  **[and assistance in rotating the hips.]**
 
 **Vertical Acceleration of the Body**
 
@@ -324,7 +322,7 @@ axis passing through the center of mass and parallel to the baseline. An
 important attribute of body angular momentum is that it can be
 redistributed to the various segments along the biomechanical chain,
 potentially increasing the speed of rotation of these segments about the
-same axis.]{.mark}**
+same axis.]**
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -335,7 +333,7 @@ parallel to the baseline.**
 
 **[The most important redistribution of this momentum early in the back
 swing is into the trunk. This results in forward rotation of the trunk
-relative to the legs.]{.mark}** This rotation may also be enhanced by
+relative to the legs.]** This rotation may also be enhanced by
 the backward lean of the trunk at the end of the wind up. **The trunk
 rotation at this point is often described as a \"cartwheel\" rotation
 because the body and trunk are generally oriented sideways to the
@@ -353,12 +351,12 @@ possible.***
 The lion's share of forward angular momentum generated during the serve
 is generated during the back swing. As the player pushes on the ground
 with the legs, a reactionary ground force then pushes back on the body.
-**[If this force can be directed [behind]{.underline} the body center of
+**[If this force can be directed [behind] the body center of
 mass (as seen from the side along the baseline), the player adds more
 forward angular momentum to that generated already during the wind
-up.]{.mark}**
+up.]**
 
-![](media_the-backswing-part-1/media/image11.webp)
+![link](media_the-backswing-part-1/media/image11.webp)
 
 **For our player a narrower platform increased the push from the
 ground.**
@@ -390,7 +388,7 @@ options.
 **[Another reason for narrowing the platform stance was to allow the
 center of mass to be more forward. These two factors\--the improved
 vertical ground force and the forward movement of the center of
-mass\--explain the increased forward angular momentum.]{.mark}**
+mass\--explain the increased forward angular momentum.]**
 
 **Hip Rotation Assistance**
 
@@ -400,11 +398,11 @@ keep in mind, however, that rotation about the other axes is also
 important. Of particular interest is rotation about the axis passing
 through the center of mass that is perpendicular to the
 court.** [I will refer to momentum around this axis
-as **[\"spin momentum\".]{.underline}**]{.mark}
+as **[\"spin momentum\".]**]
 
 **[Like forward angular momentum, spin angular momentum is also
 generated in the body by pushing on the ground with the legs to elicit a
-horizontal ground reaction force component.]{.mark}** **This spin
+horizontal ground reaction force component.]** **This spin
 angular momentum can also be redistributed to the other body segments.
 An important portion of this redistribution is to the hips, creating
 spin rotation of the hips.**
@@ -414,7 +412,7 @@ this in turn impacts the rotation of the upper trunk or
 shoulders.** **[Rotating the hips increases the
 overall range of shoulder rotation. Rotation of the hips also allows the
 upper trunk rotating muscles to contract in slower more favorable
-conditions.]{.mark}**
+conditions.]**
 
 The animation illustrates how this is accomplished. Both diagrams show
 90 degrees of rotation by the shoulders. But in the first diagram, there
@@ -433,7 +431,7 @@ We know this because the muscles generated the additional 60 degrees of
 rotation in the same time internal.
 
 **[In biomechanics, a basic fact is that a muscle produces less force
-with a faster contraction speed.]{.mark}** So it is evident that from a
+with a faster contraction speed.]** So it is evident that from a
 mechanical perspective hip rotation is important. It allows the muscles
 that rotate the shoulders to contract at a more optimal speed.
 
@@ -455,7 +453,7 @@ foot will tend to be much more effective in creating spin momentum of
 the body, and therefore rotation of the hips. This is because it located
 further from the center of mass.
 
-![](media_the-backswing-part-1/media/image13.webp)
+![link](media_the-backswing-part-1/media/image13.webp)
 
 **Horizontal ground force from the back foot creates hip rotation.**
 
@@ -469,7 +467,7 @@ extended more. Since the time of extension is the same, it follows that
 the back leg has extended more quickly. This is what causes the back
 foot to leave the ground before the front foot, something that can also
 be qualitatively verified by the leg action clips on the serve in the
-Stroke Archive. (Click Here.)
+Stroke Archive. 
 
 Why would the back leg extend more quickly? One possible explanation is
 that the server simply pushed harder with the back leg than the front.
@@ -489,7 +487,7 @@ confidence](media_the-backswing-part-1/media/image14.webp)
 
 **[Put simply, it is easier to spin the body and hips than it is to
 rotate the entire body forward and over in the \"cartwheel\"
-rotation.]{.mark}** **The back leg is pushing against the hips,
+rotation.]** **The back leg is pushing against the hips,
 encountering less resistance, and therefore extending more quickly and
 leaving the ground sooner.**
 
@@ -524,7 +522,7 @@ spin angular momentum.***
 **[Our research shows that there are trade offs with many technical
 options in each of the phases of the serve. Quantitative analysis
 provides us with an evaluation process of the pluses and minuses of all
-these options for a given server.]{.mark}**
+these options for a given server.]**
 
 This gives coaches the courage to follow their intuition because they
 can evaluate the impact of their various technical experiments. This
@@ -546,8 +544,8 @@ the backswing phase. Stay tuned.
 |  | knowledge across the entire range of tennis performance. |
 |  |  |
 |  | To visit his website, [**[Click |
-|  | Here!]{.underline}**](https://tennisperformanceresearch.com/) |
+|  | Here!]**](https://tennisperformanceresearch.com/) |
 |  |  |
 |  | Top contact him directly, [**[Click |
-|  | Here!]{.underline}**](mailto:gamabrian@icloud.com) |
+|  | Here!]**](mailto:gamabrian@icloud.com) |
 

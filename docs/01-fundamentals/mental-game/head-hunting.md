@@ -8,7 +8,7 @@
 
   --
 
-![](media_head-hunting/media/image1.png)
+![link](media_head-hunting/media/image1.png)
 
 In the fourth round of the 2012 Australian Open, Nicolas Almagro knocked
 Thomas Berdych to the ground with a close-range forehand.
@@ -59,7 +59,7 @@ tried to decapitate Roger Federer in the 2012 Wimbledon final. McEnroe
 remarked, \"I was hit by Lendl way more than any other person. It's a
 legitimate play.\"
 
-![](media_head-hunting/media/image1.png)
+![link](media_head-hunting/media/image1.png)
 
 **Ivan Lendl became the king of the headhunters with vicious shots like
 this one that knocked Vitas Gerulaitis to the court.**
@@ -89,7 +89,7 @@ anymore---I just wanted to get off the court.\"
 \"I played against all the greats back then, and Chuck was the only guy
 I was ever afraid of in doubles.\"
 
-![](media_head-hunting/media/image1.png)
+![link](media_head-hunting/media/image1.png)
 
 **Andy Murray once tried to decapitate Roger Federer.**
 
@@ -111,7 +111,7 @@ Lendl's current disciple Andy Murray, demonstrated this type of wave in
 the 2012 Wimbledon semis, after hitting a point-blank forehand into the
 testicles of Jo Wilfred Tsonga.
 
-![](media_head-hunting/media/image1.png)
+![link](media_head-hunting/media/image1.png)
 
 **Lendl had a different kind of smile after his revenge on Emilio
 Sanchez.**

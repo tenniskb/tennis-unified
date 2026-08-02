@@ -10,13 +10,11 @@ confidence](media_contact-at-10-000-frames-per-second/media/image1.webp)
 
 **How long is contact really?**
 
-In my new book, The Art and Science of Ball Watching ([Click
-Here](https://drpaulhamori.com/index.php/product/the-art-and-science-of-ball-watching/))
+In my new book, The Art and Science of Ball Watching ([link](https://drpaulhamori.com/index.php/product/the-art-and-science-of-ball-watching/))
 I explored Roger Federer's unique ball watching technique. The book is
 aimed at finding a methodology to learn how to see contact--in as much
 as this is possible within the limits of physiology and nerve
-transmission speed. ([Click
-Here](../../Fundamentals/Classic%20Lessons/Ball%20Watching%20-%20Part%201%20.docx)
+transmission speed. ([link](../../Fundamentals/Classic%20Lessons/Ball%20Watching%20-%20Part%201%20.docx)
 to see an article on Tennisplayer, based on the book.)
 
 But in the course of writing the book I also became very interested in
@@ -35,8 +33,7 @@ have increased maximum forehand speeds to supersonic levels.
 A study done for Tennisplayer by Jim Fawcette found a forehand by Matteo
 Berrittini that measured 129mph at 3930rpm. Alexander Zverev posted
 similar numbers, hitting a forehand at an unbelievable 136mph with
-3700rpm of spin. ([Click
-Here](https://www.tennisplayer.net/members/mystheavyball/jim_fawcette/new_top_ball_speed/)
+3700rpm of spin. ([link](https://www.tennisplayer.net/members/mystheavyball/jim_fawcette/new_top_ball_speed/)
 to read Jim's pioneering study.) Could any of that be related to
 contact times?
 
@@ -92,8 +89,7 @@ training techniques developed for the book using a rally ball and a
 spaghetti strung racket.
 
 What are spaghetti strings? A stringing method now illegal on the tour
-that increases spin values tremendously. [Click
-Here](https://www.tennisplayer.net/members/physics_of_tennis/josh_speakman/spaghetti_strings/)
+that increases spin values tremendously. [link](https://www.tennisplayer.net/members/physics_of_tennis/josh_speakman/spaghetti_strings/)
 to read John Speakman's great story on what spaghetti strings are, how
 they were developed, and why they were eventually banned.
 
@@ -164,8 +160,7 @@ oblong before regaining its spherical shape.
 
 In the High Speed Archives, there are dozens of examples of these
 collisions on balls hit by pro players, also shot with super high frame
-rates. ([Click
-Here](https://www.tennisplayer.net/members/high_speed_archive/phantom/Ball_On_String_HD_HS/Forehand/).)
+rates. ([link](https://www.tennisplayer.net/members/high_speed_archive/phantom/Ball_On_String_HD_HS/Forehand/).)
 
 You can also see torqueing or twisting on the frames of the wood
 rackets, consistent with how you feel them bending as you stroke the
@@ -294,8 +289,7 @@ generated](media_contact-at-10-000-frames-per-second/media/image8.webp)
 **Carrying distance at 4 milliseconds is about an inch and is longer
 with lower tensions.**
 
-In last month's issue ([Click
-Here](https://www.tennisplayer.net/members/mystheavyball/jim_fawcette/new_top_ball_speed/))
+In last month's issue ([link](https://www.tennisplayer.net/members/mystheavyball/jim_fawcette/new_top_ball_speed/))
 Jim Fawcette describes the incredible velocities and rotation being
 achieved by current professionals. They are shattering the previous
 limits.

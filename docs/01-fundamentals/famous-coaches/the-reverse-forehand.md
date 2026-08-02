@@ -31,7 +31,7 @@ matches.
 follow-through.** ***[During the follow-through the
 racket head moves slightly forward through the ball, but then moves
 upwards and then backwards in the opposite direction from the
-hit.]{.mark}***
+hit.]***
 
 Pete Sampras was one of the first players to use it. His running
 forehand is probably the most obvious example. Everyone recognizes that
@@ -65,13 +65,13 @@ low percentage play down the line. The reverse forehand allows you to
 take the ball slightly later. **You now have the option to hit down
 the line, hit a short crosscourt angle, hit a deep crosscourt, or hit a
 topspin lob.** **[The reverse allows you to [pull
-the ball crosscourt]{.underline} consistently on the run. You get
-[unbelievable angles]{.underline}. You can use it to hit a [heavy
-topspin lob]{.underline}. Pete also hits it when he
-[approaches]{.underline}. He hits it when the ball comes into his body.
+the ball crosscourt] consistently on the run. You get
+[unbelievable angles]. You can use it to hit a [heavy
+topspin lob]. Pete also hits it when he
+[approaches]. He hits it when the ball comes into his body.
 Even if you hit the ball a little late you can still do all these
 things. When you do it right it's so smooth. It's a beautiful
-shot.]{.mark}**
+shot.]**
 
 Although this article is the first time I've publicly identified the
 shot, I've actually studied the reverse and taught it to my students
@@ -114,10 +114,10 @@ almost a must.
 than you would on a regular drive. This** **creates
 more topspin.** **It's usually hit with an open stance, although you
 can hit on the run with a cross step as well.** **[[The contact is a
-little later compared to a normal forehand drive.]{.mark} [When you make
+little later compared to a normal forehand drive.] [When you make
 contact with the ball, you go through the hitting zone for a shorter
 period than with the conventional forehand, then you bring your racket
-head up]{.mark}]{.underline}**, **then you actually let the racket
+head up]]**, **then you actually let the racket
 head go back.** The more spin you want the faster
 you bring the racket head up. For more of a drive, you come through the
 ball a little more for more pace. Pete hits more of a drive reverse

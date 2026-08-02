@@ -14,14 +14,13 @@ foot pivot.
 On the baseline, open stance, foot rotation and body rotation from
 sideline to sideline. This is what great players do to maintain position
 on the baseline when the ball is coming fast---and also on the return of
-serve. [Click
-Here](https://www.tennisplayer.net/members/footwork/footwork.html) to
+serve. [link](https://www.tennisplayer.net/members/footwork/footwork.html) to
 see David's entire series and see him explicate the same moves in live
 pro match play.
 
-![](media_the-golden-move-8-two-foot-pivot/media/image1.wmf)
+![link](media_the-golden-move-8-two-foot-pivot/media/image1.wmf)
 
-![](media_the-golden-move-8-two-foot-pivot/media/image2.jpeg)
+![link](media_the-golden-move-8-two-foot-pivot/media/image2.jpeg)
 
 David Bailey is a native Australian who has spent 15 years studying
 tennis at the professional level. He has developed a new language for
@@ -33,8 +32,6 @@ the Bailey Method, has become a regular part of the coaching curriculum
 at the Nick Bollettierri Tennis Academy, where it is personally endorsed
 by Nick
 
-Visit David's Website! [**[Click
-Here!]{.underline}**](http://www.baileytennisfootwork.com/)
+Visit David's Website! [**[!]**](http://www.baileytennisfootwork.com/)
 
-To Contact David directly [**[Click
-Here!]{.underline}**](mailto:david@baileytennisfootwork.com)
+To Contact David directly [**[!]**](mailto:david@baileytennisfootwork.com)

@@ -218,7 +218,7 @@ tour. That had to wait for his victories at Wimbledon and the U.S. Open.
 |  | British media and tennis commentary and an |
 |  | editor for Tennishead Magazine. |
 |  |  |
-|  | [Click Here](http://www.teambathmcta.com/) for |
+|  | [link](http://www.teambathmcta.com/) for |
 |  | More Information on the Academy |
 
 
@@ -240,7 +240,7 @@ tour. That had to wait for his victories at Wimbledon and the U.S. Open.
 |  | understanding of the mental aptitude required to |
 |  | succeed as a professional sportsperson. |
 |  |  |
-|  | [Click Here to |
+|  | [ to |
 |  | Order!](http://www.lockerroompower.com/buy-now/) |
 
 

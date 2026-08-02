@@ -15,7 +15,7 @@ the right technique.
 
 **[I believe the backhand overhead should be an aggressive shot hit for
 winners in exactly the same way as the regular overhead. The key to
-learning to do this is the [right contact point]{.underline}.]{.mark}**
+learning to do this is the [right contact point].]**
 
 **The problem most players have on the backhand overhead is late
 contact. They hit the shot at the edge of their dominant
@@ -163,7 +163,7 @@ shoulder.** This is the payoff for the immediate
 reaction and correct technical preparation.
 
 **[After the contact the racket continues and follows through all the
-way across the body.]{.underline}** **The follow through is**
+way across the body.]** **The follow through is**
 **viciously fast,** **with a** **full weight
 transfer from the rear plant foot to the front step
 foot.**

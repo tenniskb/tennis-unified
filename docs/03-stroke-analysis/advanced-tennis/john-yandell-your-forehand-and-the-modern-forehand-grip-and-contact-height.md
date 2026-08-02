@@ -9,8 +9,7 @@ Over the past 4 years we've used the high speed footage from Advanced
 Tennis to explore the modern forehand in pro tennis in virtually every
 aspect. Currently there are over a dozen detailed articles in the
 Advanced Tennis section on the modern forehand. These cover the
-commonalities and the differences among the top pro players. ([Click
-Here](http://www.tennisplayer.net/members/avancedtennis/john_yandell/building%20_the_modern%20_forehand/building_modern_forehand_pg1/building_modern_forehand_pg1.html).)
+commonalities and the differences among the top pro players. ([link](http://www.tennisplayer.net/members/avancedtennis/john_yandell/building%20_the_modern%20_forehand/building_modern_forehand_pg1/building_modern_forehand_pg1.html).)
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -49,7 +48,7 @@ the player you most admire? Or, what about the critical and usually
 unrecognized factor of Contact Height?
 
 **Click on the image and see my analysis!**
-![](media_john-yandell-your-forehand-and-the-modern-forehand-grip-and-contact-height/media/image2.png)
+![link](media_john-yandell-your-forehand-and-the-modern-forehand-grip-and-contact-height/media/image2.png)
 
 ![A person smiling for the camera Description automatically generated
 with medium

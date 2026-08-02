@@ -10,7 +10,7 @@ forehand. Next a backhand short angle off the court. The finish is a
 forehand attack to the crosscourt opening. Aggressive, high percentage
 tennis and points won without torturous 20 ball rallies!
 
-![](media_opening-the-court-part-8/media/image1.png)
+![link](media_opening-the-court-part-8/media/image1.png)
 
   --
 

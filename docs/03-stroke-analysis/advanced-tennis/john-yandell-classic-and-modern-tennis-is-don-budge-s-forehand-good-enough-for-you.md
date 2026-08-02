@@ -21,7 +21,7 @@ mention you had to wear long white flannel pants!
 
 Recently one of our subscribers posted something amazing that I had
 never seen. A link to a Don Budge instructional film made in the mid
-1940s. ([Click Here](https://youtu.be/j_jT-pqRIDI) to see the whole
+1940s. ([link](https://youtu.be/j_jT-pqRIDI) to see the whole
 thing.)
 
 Is this film some curiosity demonstrating the primitive nature of tennis
@@ -51,8 +51,7 @@ But there are fundamental technical continuities. Guess what? Great
 athletes in all eras figure out similar things in similar circumstances.
 
 In the previous article in this series, I looked at some of the
-classical elements in modern tennis\--and vice versa ([Click
-Here](https://www.tennisplayer.net/members/avancedtennis/avancedtennis/john_yandell/classical_tennis_and_modern_tennis/part_01/).)
+classical elements in modern tennis\--and vice versa ([link](https://www.tennisplayer.net/members/avancedtennis/avancedtennis/john_yandell/classical_tennis_and_modern_tennis/part_01/).)
 Now let's do the same in more detail with the technical specifics of
 Budge's forehand.
 
@@ -84,17 +83,16 @@ the palm of the hand aligned directly with the racket face and the
 string bed\--a grip that falls within the range of effective grips in
 the pro game. And for players at all other levels, that grip is probably
 far more suitable and effective, as we see in this month's article from
-my new teaching methodology series. (Click Here.)
+my new teaching methodology series. 
 
 Why Eastern? The grip allows players to hit through with the racket more
 or less on edge\--a basic semi-flat drive. That's a great basic swing
 pattern and one that even advanced club players can hit with great
-effect. ([Click
-Here](https://www.tennisplayer.net/members/avancedtennis/classiclessons/scott_murphy/traditional_forehand/)
+effect. ([link](https://www.tennisplayer.net/members/avancedtennis/classiclessons/scott_murphy/traditional_forehand/)
 to see the forehand of Karsten Pop, who even in his 40s, is one of the
 best players in super competitive Marin county California.)
 
-![](media_john-yandell-classic-and-modern-tennis-is-don-budge-s-forehand-good-enough-for-you/media/image4.webp)
+![link](media_john-yandell-classic-and-modern-tennis-is-don-budge-s-forehand-good-enough-for-you/media/image4.webp)
 
 **A modern unit turn with both hands on the frame.**
 
@@ -109,8 +107,7 @@ for players at lower levels as they develop.
 The preparation Budge demonstrates is the most amazing part of this
 film. He starts with a unit turn with both hands on the racket. This
 takes his body to about 45 degrees to the net before the hands separate.
-Sound familiar? ([Click
-Here](https://www.tennisplayer.net/members/avancedtennis/avancedtennis/john_yandell/your_forehand_and_the_modern_forehand/preparation/your_forehand_and_the_modern_forehand_preparation.html).)
+Sound familiar? ([link](https://www.tennisplayer.net/members/avancedtennis/avancedtennis/john_yandell/your_forehand_and_the_modern_forehand/preparation/your_forehand_and_the_modern_forehand_preparation.html).)
 
 Next his hands separate and the left arm stretches across the body. All
 I can remember from the 1960's on was teachers advocating pointing the
@@ -132,10 +129,8 @@ the backswing. There was a major stir\--a revolution even when Brian
 Gordon and Rick Macci developed the concept of the \"ATP backswing.\"
 
 Every teacher on the internet suddenly stole the concept and acted like
-he had known it all along. ([Click
-Here](https://www.tennisplayer.net/members/avancedtennis/high_performance/rick_macci/develop_atp_forehand/)
-to Rick talk about this on Tennisplayer. [Click
-Here](https://www.tennisplayer.net/members/avancedtennis/biomechanics/brian_gordon/developing_an_atp_forehand_part_01/)
+he had known it all along. ([link](https://www.tennisplayer.net/members/avancedtennis/high_performance/rick_macci/develop_atp_forehand/)
+to Rick talk about this on Tennisplayer. [link](https://www.tennisplayer.net/members/avancedtennis/biomechanics/brian_gordon/developing_an_atp_forehand_part_01/)
 to see Brian's more scientific explanation.)
 
 In case you been off the planet for the last few years, the ATP
@@ -220,8 +215,7 @@ to play the ball that suits the situation\--especially below the pro
 level\--ie especially for 100% of all people reading this article.
 
 In fact, it looks very much like the finish in the great Welby Van
-Horn's teaching system. ([Click
-Here](https://www.tennisplayer.net/members/avancedtennis/teaching_systems/welby_vanhorn/true_master_forehand_balance_checkpoints/true_master_forehand_balance_checkpoints.html).)
+Horn's teaching system. ([link](https://www.tennisplayer.net/members/avancedtennis/teaching_systems/welby_vanhorn/true_master_forehand_balance_checkpoints/true_master_forehand_balance_checkpoints.html).)
 He lived to be 94 and I feel very lucky that we were able to capture his
 approach on Tennisplayer. Guess what? He was a contemporary of Don
 Budge.
@@ -235,8 +229,7 @@ On some forehands the racket head turns over much more, a partial wiper.
 There are also a couple of natural \"reverse\" finishes where the racket
 comes back to the same side as it started. (For the original article
 from Robert Lansdorp that started the Reverse Finish craze in our era,
-[Click
-Here](https://www.tennisplayer.net/members/avancedtennis/famouscoach/robert_lansdorp/lansdorp_reverse_forehand_images/lansdorp_reverse_forehand.html).)
+[link](https://www.tennisplayer.net/members/avancedtennis/famouscoach/robert_lansdorp/lansdorp_reverse_forehand_images/lansdorp_reverse_forehand.html).)
 
 ![A person holding a light saber Description automatically generated
 with low
@@ -253,8 +246,7 @@ go down into the net.
 It took high speed video in the 90s to show that well, no, it was not
 only possible but common. Our contributor Kerry Mitchell was way ahead
 of his time (or maybe the ultimate retro thinker\...) in advocating this
-years ago. ([Click
-Here](https://www.tennisplayer.net/members/avancedtennis/classiclessons/kerry_mitchell/Mitchell_Forehand_Grips_images/Mitchell_Forehand_Grips.html).)
+years ago. ([link](https://www.tennisplayer.net/members/avancedtennis/classiclessons/kerry_mitchell/Mitchell_Forehand_Grips_images/Mitchell_Forehand_Grips.html).)
 
 The interesting thing is that all these elements: different stances,
 finishes, racket face angles happen at all in this highly structured

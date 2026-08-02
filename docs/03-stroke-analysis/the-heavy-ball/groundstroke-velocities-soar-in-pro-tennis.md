@@ -16,10 +16,8 @@ two majors held four years apart the answer is an emphatic yes.
 
 This article examines how the speed of top pros' groundstrokes has
 increased, following a pair of articles focused on topspin in
-groundstrokes. ([Click
-Here](https://www.tennisplayer.net/members/technology_in_teaching/john_yandell/measuring_speed_spin_your_game)
-for pro spin levels. [Click
-Here](https://www.tennisplayer.net/members/mystheavyball/john_yandell/modern_heavy_ball/)
+groundstrokes. ([link](https://www.tennisplayer.net/members/technology_in_teaching/john_yandell/measuring_speed_spin_your_game)
+for pro spin levels. [link](https://www.tennisplayer.net/members/mystheavyball/john_yandell/modern_heavy_ball/)
 for an article on measuring speed and spin in your own game.)
 
 In 2017, Tennis Australia's statistics arm disclosed top forehand stats

@@ -30,7 +30,7 @@
 |  |  |
 |  | Again, the push is with the Inside Foot. The step to the ball is with the Outside Foot. |
 |  |  |
-|  | **[For a righthander, the Outside Foot on the backhand is the left foot, closest to the ball. The Inside Foot is the right foot, further away from the ball.]{.mark}** |
+|  | **[For a righthander, the Outside Foot on the backhand is the left foot, closest to the ball. The Inside Foot is the right foot, further away from the ball.]** |
 
 +---------------------------------------------------------------------------------------------------------------------------------------------------------------------------+                                                                                                                                                                          |
 | ![A person playing tennis Description automatically generated with medium |  |
@@ -59,11 +59,11 @@
 | confidence](media_court-movement-the-backhand/media/image5.webp) | Skilled recovery allows you to get back into position for the next ball as efficiently as possible the fewest possible steps. |
 |  |  |
 | **To recover, exchange the Outside Foot with the Inside Foot, and shuffle back smoothly and with good balance.** | **Again, your goal is to return to the center of your opponent's possible angles and [re-establish a good ready position before he |
-|  | hits.]{.underline}** |
+|  | hits.]** |
 |  |  |
 |  | The key to an efficient recover is to exchange the position of the feet after the hit. Watch how the outside foot comes back and replaces the inside foot. |
 |  |  |
-|  | This is followed by shuffling back to the middle. **[Your feet should brush the court, your movement is smooth and rhythmic with [no jumping.]{.underline}]{.mark}** |
+|  | This is followed by shuffling back to the middle. **[Your feet should brush the court, your movement is smooth and rhythmic with [no jumping.]]** |
 | The goal is to re-establish the ready position prior to the opponent's hit. Now you can move with equal ease to reach a ball in either direction. There is no wasted motion, so I can stay ahead or gain ground in the point, or make up ground when I'm behind. |  |
 |  |  |
 | **Setting up with the outside foot means I have gone no further than is necessary to hit.** The recovery exchange means that in the very next step I have begun to prepare for the next ball. |  |

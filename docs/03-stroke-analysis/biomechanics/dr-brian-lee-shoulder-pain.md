@@ -210,7 +210,7 @@ recommended treatment.
 **Diagnosing Shoulder Impingement**
 
 **[A pinching sensation in the shoulder when reaching the arm up may
-indicate impingement.]{.mark}** However, the only way to know for sure
+indicate impingement.]** However, the only way to know for sure
 is with a diagnosis, which requires a visit to a health care provider.
 
 A health care provider will take the patient's medical history, conduct
@@ -472,7 +472,7 @@ have to maximally contract to rapidly decelerate the arm as the arm
 continues to follow-through, whilst also being responsible for
 maintaining shoulder joint stability. **[Efficient deceleration is vital
 for preventing rotator cuff injury, as the inability to dissipate these
-forces can cause overload and overuse of the rotator cuff.]{.mark}**
+forces can cause overload and overuse of the rotator cuff.]**
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -485,7 +485,7 @@ competitive tennis player to **maintain sufficient rotator cuff
 strength, range of motion and dynamic stability of the shoulder joint**.
 **[To achieve this, tennis specific strengthening exercises should be
 undertaken to either reduce injury risk, or rehabilitate following an
-injury to the rotator cuff.]{.mark}**
+injury to the rotator cuff.]**
 
 ### Exercises to avoid Tennis Injury
 

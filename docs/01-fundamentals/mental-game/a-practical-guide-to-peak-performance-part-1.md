@@ -112,8 +112,7 @@ Yandell.  These are just some of the authors who have contributed to the
 body of knowledge in this field, and there is not a day that goes by
 when someone somewhere does not benefit from their wisdom.  Many of them
 are in fact Tennisplayer.net contributors in the Mental Game section. 
-(**[Click
-Here](https://www.tennisplayer.net/members/mentalgame/mentalgame.html).**)
+(**[link](https://www.tennisplayer.net/members/mentalgame/mentalgame.html).**)
 
 **8 Components**
 
@@ -363,8 +362,7 @@ success.
 **Component #3: Hit Out and Go For Your Shots**
 
 Jim Loehr tells us that when we are not playing our best, we are either
-choking, self-destructing with anger, or tanking.  ([**Click
-Here**](https://www.tennisplayer.net/members/mentalgame/mentalgame.html)
+choking, self-destructing with anger, or tanking.  ([**link**](https://www.tennisplayer.net/members/mentalgame/mentalgame.html)
 to read all his amazing articles on Tennisplayer.)  These negative
 consequences are all related to a lack of full commitment.
 
@@ -465,8 +463,7 @@ that, "If you fake it you will eventually make it."
 With time and effort you will own that confidence whether you are the
 Underdog or the Favorite. You will develop the belief in your ability to
 prevail from either of these positions.   (For more on playing from the
-Favorite or Underdog positions, [Click
-Here.](https://www.tennisplayer.net/members/mentalgame/jeff_mccullough/the_favorite_and_the_underdog/the_favorite_and_the_underdog.html))
+Favorite or Underdog positions, [link](https://www.tennisplayer.net/members/mentalgame/jeff_mccullough/the_favorite_and_the_underdog/the_favorite_and_the_underdog.html))
 
 By looking confident you greatly increase your chances of prevailing.
 The mind-body connection is so powerful that if your physical being
@@ -483,8 +480,7 @@ All of the experts give homage to the importance of body language and
 afford it a prominent place in their respective work.  The seminal
 research was done by Jim Loehr.  His presentation of the stages of
 confident physical presence between points is required reading to
-develop your own unique positive body language. ([**Click
-Here**](https://www.tennisplayer.net/members/mentalgame/mentalgame.html)
+develop your own unique positive body language. ([**link**](https://www.tennisplayer.net/members/mentalgame/mentalgame.html)
 to read Jim's articles, including his brilliant recent analysis of
 Rafael Nadal.)
 
@@ -508,8 +504,7 @@ physical presence in the time between points. 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Watch the amazing sequence from J. Gregory Swendsen's new portrait of
-Ana Ivanovic. ([**Click
-Here**](https://www.tennisplayer.net/members/tourportraits/gregory_swendsen/ana_ivanovic/ivanovic_slideshow.html)
+Ana Ivanovic. ([**link**](https://www.tennisplayer.net/members/tourportraits/gregory_swendsen/ana_ivanovic/ivanovic_slideshow.html)
 to see the full portrait.)  Incredibly she goes from the depths of
 frustration to a look optimism and physical confidence in the space of 6
 frames, probably less than 15 seconds.  Your body doesn't lie and great
@@ -551,7 +546,7 @@ hand and meeting its possible demise on the hard court in front of you.
 
 **[When the competitive tennis player is under the gun the best thing
 they can do to bring the physical, mental and emotional systems back
-into balance, is [to breath.]{.underline}]{.mark}** I'm not talking
+into balance, is [to breath.]]** I'm not talking
 about the ordinary breathing which merely insures our physical survival.
 I am talking about purposeful, deep breathing.  This technique was first
 used by psychotherapists decades ago as a corner stone of

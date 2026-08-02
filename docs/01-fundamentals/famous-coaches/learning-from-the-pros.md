@@ -148,10 +148,10 @@ more important in club tennis, since fewer players hold serve routinely.
 **[[To return well at the club level, it's generally a matter of just
 getting a high percentage of serves back in play. It doesn't help to
 hit huge returns that hit the fence in the air. But you should
-definitely pressure weaker serves, especially the second.]{.mark} [This
+definitely pressure weaker serves, especially the second.] [This
 is more a matter of getting ahead with a good placement, or chipping and
 going in, or even hitting a drop shot against a really soft
-serve.]{.mark}]{.underline}**
+serve.]]**
 
 ### Be Flexible - Change a Losing Strategy
 

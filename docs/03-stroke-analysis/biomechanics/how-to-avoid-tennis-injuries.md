@@ -27,12 +27,11 @@ These muscles also act to maintain the head of the upper arm bone
 
 #### **Subscapularis**
 
-![](media_how-to-avoid-tennis-injuries/media/image2.png){alt="Diagram, text Description automatically generated"
-width="3.1215277777777777in" height="2.3826388888888888in"}
+![link](media_how-to-avoid-tennis-injuries/media/image2.png)
 
 [Due to the high demands the tennis serve places on the shoulder
 complex,** rotator cuff injuries** are among the most common injuries
-for the competitive tennis player.]{.mark} These injuries frequently
+for the competitive tennis player.] These injuries frequently
 occur due overuse of the rotator cuff during the service motion, where
 the rotator cuff is subjected to high eccentric loads when decelerating
 the arm following ball impact.
@@ -60,7 +59,7 @@ continues to follow-through, whilst also being responsible for
 maintaining shoulder joint stability.** **[Efficient deceleration is
 vital for preventing rotator cuff injury, as the inability to dissipate
 these forces can cause overload and overuse of the rotator
-cuff.]{.mark}**
+cuff.]**
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -73,7 +72,7 @@ competitive tennis player to **maintain sufficient rotator cuff
 strength, range of motion and dynamic stability of the shoulder joint**.
 **[To achieve this, tennis specific strengthening exercises should be
 undertaken to either reduce injury risk, or rehabilitate following an
-injury to the rotator cuff.]{.mark}**
+injury to the rotator cuff.]**
 
 ### Exercises to avoid Tennis Injury
 
@@ -1222,7 +1221,7 @@ rotation. Finally, newer technology including use of a bioinductive
 scaffold to enhance healing may be an option to consider in the future,
 but further research is necessary before it can be widely recommended.
 
-**[References:]{.underline}**
+**[References:]**
 
 1\. Chung KC, Lark ME. Upper extremity injuries in tennis players:
 diagnosis, treatment, and management. Hand Clin. 2017;33(1):175--186.
@@ -1799,7 +1798,7 @@ here courtesy of **Humana Press**
 ### Save items
 
 [[View more
-options]{.underline}](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7661672/)
+options]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7661672/)
 
 ### Similar articles in PubMed
 
@@ -1854,16 +1853,16 @@ Off](javascript:historyDisplayState('HTOff'))
 
 [See more\...](https://www.ncbi.nlm.nih.gov/sites/myncbi/recentactivity)
 
-- [[Review]{.underline} Upper Extremity Injuries in Tennis Players:
+- [[Review] Upper Extremity Injuries in Tennis Players:
   Diagnosis, Treatment, and
   Management.](https://www.ncbi.nlm.nih.gov/pubmed/27886833/)\[Hand
   Clin. 2017\]
 
-- [[Review]{.underline} Tennis injuries: epidemiology, pathophysiology,
+- [[Review] Tennis injuries: epidemiology, pathophysiology,
   and treatment.](https://www.ncbi.nlm.nih.gov/pubmed/25667400/)\[J Am
   Acad Orthop Surg. 2015\]
 
-- [[Review]{.underline} Tennis injuries: occurrence, aetiology, and
+- [[Review] Tennis injuries: occurrence, aetiology, and
   prevention.](https://www.ncbi.nlm.nih.gov/pubmed/16632572/)\[Br J
   Sports Med. 2006\]
 
@@ -1873,7 +1872,7 @@ Off](javascript:historyDisplayState('HTOff'))
 
 <!-- -->
 
-- [[Review]{.underline} Epidemiology of musculoskeletal injury in the
+- [[Review] Epidemiology of musculoskeletal injury in the
   tennis player.](https://www.ncbi.nlm.nih.gov/pubmed/22554841/)\[Br J
   Sports Med. 2012\]
 
@@ -1889,20 +1888,20 @@ Off](javascript:historyDisplayState('HTOff'))
 
 <!-- -->
 
-- [[Review]{.underline} Tennis injuries: occurrence, aetiology, and
+- [[Review] Tennis injuries: occurrence, aetiology, and
   prevention.](https://www.ncbi.nlm.nih.gov/pubmed/16632572/)\[Br J
   Sports Med. 2006\]
 
-- [[Review]{.underline} Epidemiology of musculoskeletal injury in the
+- [[Review] Epidemiology of musculoskeletal injury in the
   tennis player.](https://www.ncbi.nlm.nih.gov/pubmed/22554841/)\[Br J
   Sports Med. 2012\]
 
-- [[Review]{.underline} Upper Extremity Injuries in Tennis Players:
+- [[Review] Upper Extremity Injuries in Tennis Players:
   Diagnosis, Treatment, and
   Management.](https://www.ncbi.nlm.nih.gov/pubmed/27886833/)\[Hand
   Clin. 2017\]
 
-- [[Review]{.underline} Tennis injuries: epidemiology, pathophysiology,
+- [[Review] Tennis injuries: epidemiology, pathophysiology,
   and treatment.](https://www.ncbi.nlm.nih.gov/pubmed/25667400/)\[J Am
   Acad Orthop Surg. 2015\]
 
@@ -1915,7 +1914,7 @@ Off](javascript:historyDisplayState('HTOff'))
   2009/2010-2014/2015.](https://www.ncbi.nlm.nih.gov/pubmed/26719502/)\[Br
   J Sports Med. 2016\]
 
-- [[Review]{.underline} Rotator cuff tears in the throwing
+- [[Review] Rotator cuff tears in the throwing
   athlete.](https://www.ncbi.nlm.nih.gov/pubmed/24787724/)\[Sports Med
   Arthrosc Rev. 2014\]
 
@@ -1936,7 +1935,7 @@ Off](javascript:historyDisplayState('HTOff'))
 
 <!-- -->
 
-- [[Review]{.underline} A systematic review and pooled analysis of the
+- [[Review] A systematic review and pooled analysis of the
   prevalence of rotator cuff disease with increasing
   age.](https://www.ncbi.nlm.nih.gov/pubmed/25441568/)\[J Shoulder Elbow
   Surg. 2014\]
@@ -1945,12 +1944,12 @@ Off](javascript:historyDisplayState('HTOff'))
   treatment.](https://www.ncbi.nlm.nih.gov/pubmed/12130411/)\[Am J
   Sports Med. 2002\]
 
-- [[Review]{.underline} Arthroscopic repair of partial-thickness rotator
+- [[Review] Arthroscopic repair of partial-thickness rotator
   cuff tears and SLAP lesions in professional baseball
   players.](https://www.ncbi.nlm.nih.gov/pubmed/11888139/)\[Orthop Clin
   North Am. 2001\]
 
-- [[Review]{.underline} Diagnosis and treatment of incomplete rotator
+- [[Review] Diagnosis and treatment of incomplete rotator
   cuff tears.](https://www.ncbi.nlm.nih.gov/pubmed/2182260/)\[Clin
   Orthop Relat Res. 1990\]
 
@@ -1960,11 +1959,11 @@ Off](javascript:historyDisplayState('HTOff'))
 
 <!-- -->
 
-- [[Review]{.underline} Rotator cuff tears in overhead
+- [[Review] Rotator cuff tears in overhead
   athletes.](https://www.ncbi.nlm.nih.gov/pubmed/23040553/)\[Clin Sports
   Med. 2012\]
 
-- [[Review]{.underline} The disabled throwing shoulder: spectrum of
+- [[Review] The disabled throwing shoulder: spectrum of
   pathology Part I: pathoanatomy and
   biomechanics.](https://www.ncbi.nlm.nih.gov/pubmed/12671624/)\[Arthroscopy.
   2003\]
@@ -1983,7 +1982,7 @@ Off](javascript:historyDisplayState('HTOff'))
 
 <!-- -->
 
-- [[Review]{.underline} Biomechanics and
+- [[Review] Biomechanics and
   tennis.](https://www.ncbi.nlm.nih.gov/pubmed/16632567/)\[Br J Sports
   Med. 2006\]
 
@@ -2004,7 +2003,7 @@ Off](javascript:historyDisplayState('HTOff'))
   study.](https://www.ncbi.nlm.nih.gov/pubmed/22959196/)\[J Shoulder
   Elbow Surg. 1992\]
 
-- [[Review]{.underline} The disabled throwing shoulder: spectrum of
+- [[Review] The disabled throwing shoulder: spectrum of
   pathology Part I: pathoanatomy and
   biomechanics.](https://www.ncbi.nlm.nih.gov/pubmed/12671624/)\[Arthroscopy.
   2003\]
@@ -2015,12 +2014,12 @@ Off](javascript:historyDisplayState('HTOff'))
   athletes.](https://www.ncbi.nlm.nih.gov/pubmed/15701613/)\[Am J Sports
   Med. 2005\]
 
-- [[Review]{.underline} The disabled throwing shoulder: spectrum of
+- [[Review] The disabled throwing shoulder: spectrum of
   pathology Part I: pathoanatomy and
   biomechanics.](https://www.ncbi.nlm.nih.gov/pubmed/12671624/)\[Arthroscopy.
   2003\]
 
-- [[Review]{.underline} Rotator cuff tears in overhead
+- [[Review] Rotator cuff tears in overhead
   athletes.](https://www.ncbi.nlm.nih.gov/pubmed/23040553/)\[Clin Sports
   Med. 2012\]
 
@@ -2040,7 +2039,7 @@ Off](javascript:historyDisplayState('HTOff'))
   players.](https://www.ncbi.nlm.nih.gov/pubmed/16864564/)\[Br J Sports
   Med. 2006\]
 
-- [[Review]{.underline} Modern tennis rackets, balls, and
+- [[Review] Modern tennis rackets, balls, and
   surfaces.](https://www.ncbi.nlm.nih.gov/pubmed/16632569/)\[Br J Sports
   Med. 2006\]
 
@@ -2050,7 +2049,7 @@ Off](javascript:historyDisplayState('HTOff'))
 
 <!-- -->
 
-- [[Review]{.underline} Applied physiology of tennis
+- [[Review] Applied physiology of tennis
   performance.](https://www.ncbi.nlm.nih.gov/pubmed/16632565/)\[Br J
   Sports Med. 2006\]
 
@@ -2058,7 +2057,7 @@ Off](javascript:historyDisplayState('HTOff'))
   players.](https://www.ncbi.nlm.nih.gov/pubmed/16864564/)\[Br J Sports
   Med. 2006\]
 
-- [[Review]{.underline} Biomechanics and
+- [[Review] Biomechanics and
   tennis.](https://www.ncbi.nlm.nih.gov/pubmed/16632567/)\[Br J Sports
   Med. 2006\]
 
@@ -2083,7 +2082,7 @@ Off](javascript:historyDisplayState('HTOff'))
 
 <!-- -->
 
-- [[Review]{.underline} Review of tennis serve motion analysis and the
+- [[Review] Review of tennis serve motion analysis and the
   biomechanics of three serve types with implications for
   injury.](https://www.ncbi.nlm.nih.gov/pubmed/22303788/)\[Sports
   Biomech. 2011\]
@@ -2105,11 +2104,11 @@ Off](javascript:historyDisplayState('HTOff'))
 
 <!-- -->
 
-- [[Review]{.underline} Tennis injuries: epidemiology, pathophysiology,
+- [[Review] Tennis injuries: epidemiology, pathophysiology,
   and treatment.](https://www.ncbi.nlm.nih.gov/pubmed/25667400/)\[J Am
   Acad Orthop Surg. 2015\]
 
-- [[Review]{.underline} Modern tennis rackets, balls, and
+- [[Review] Modern tennis rackets, balls, and
   surfaces.](https://www.ncbi.nlm.nih.gov/pubmed/16632569/)\[Br J Sports
   Med. 2006\]
 
@@ -2120,13 +2119,13 @@ Off](javascript:historyDisplayState('HTOff'))
 
 <!-- -->
 
-- [[Review]{.underline} Rotator cuff tears in overhead
+- [[Review] Rotator cuff tears in overhead
   athletes.](https://www.ncbi.nlm.nih.gov/pubmed/23040553/)\[Clin Sports
   Med. 2012\]
 
 <!-- -->
 
-- [[Review]{.underline} Tennis injuries: epidemiology, pathophysiology,
+- [[Review] Tennis injuries: epidemiology, pathophysiology,
   and treatment.](https://www.ncbi.nlm.nih.gov/pubmed/25667400/)\[J Am
   Acad Orthop Surg. 2015\]
 
@@ -2162,7 +2161,7 @@ Off](javascript:historyDisplayState('HTOff'))
 
 <!-- -->
 
-- [[Review]{.underline} The relationship of acromial architecture to
+- [[Review] The relationship of acromial architecture to
   rotator cuff
   disease.](https://www.ncbi.nlm.nih.gov/pubmed/1934099/)\[Clin Sports
   Med. 1991\]
@@ -2171,23 +2170,23 @@ Off](javascript:historyDisplayState('HTOff'))
   tears.](https://www.ncbi.nlm.nih.gov/pubmed/12700562/)\[J Shoulder
   Elbow Surg. 2003\]
 
-- [[Review]{.underline} Rotator cuff tears in the throwing
+- [[Review] Rotator cuff tears in the throwing
   athlete.](https://www.ncbi.nlm.nih.gov/pubmed/24787724/)\[Sports Med
   Arthrosc Rev. 2014\]
 
-- [[Review]{.underline} New approaches to diagnosis and arthroscopic
+- [[Review] New approaches to diagnosis and arthroscopic
   management of partial-thickness cuff
   tears.](https://www.ncbi.nlm.nih.gov/pubmed/19064151/)\[Clin Sports
   Med. 2008\]
 
-- [[Review]{.underline} Diagnostic accuracy of ultrasound for rotator
+- [[Review] Diagnostic accuracy of ultrasound for rotator
   cuff tears in adults: a systematic review and
   meta-analysis.](https://www.ncbi.nlm.nih.gov/pubmed/21737069/)\[Clin
   Radiol. 2011\]
 
 <!-- -->
 
-- [[Review]{.underline} The diagnostic accuracy of MRI for the detection
+- [[Review] The diagnostic accuracy of MRI for the detection
   of partial- and full-thickness rotator cuff tears in
   adults.](https://www.ncbi.nlm.nih.gov/pubmed/22260933/)\[Magn Reson
   Imaging. 2012\]
@@ -2217,16 +2216,16 @@ Off](javascript:historyDisplayState('HTOff'))
 
 [See more \...](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7661672/)
 
-- [[Review]{.underline} Rotator cuff tears in the throwing
+- [[Review] Rotator cuff tears in the throwing
   athlete.](https://www.ncbi.nlm.nih.gov/pubmed/24787724/)\[Sports Med
   Arthrosc Rev. 2014\]
 
-- [[Review]{.underline} Treatment of Partial Thickness Rotator Cuff
+- [[Review] Treatment of Partial Thickness Rotator Cuff
   Tears in Overhead
   Athletes.](https://www.ncbi.nlm.nih.gov/pubmed/29330670/)\[Curr Rev
   Musculoskelet Med. 2018\]
 
-- [[Review]{.underline} Management of Rotator Cuff Injuries in the Elite
+- [[Review] Management of Rotator Cuff Injuries in the Elite
   Athlete.](https://www.ncbi.nlm.nih.gov/pubmed/29332181/)\[Curr Rev
   Musculoskelet Med. 2018\]
 
@@ -2242,13 +2241,13 @@ Off](javascript:historyDisplayState('HTOff'))
   tendon.](https://www.ncbi.nlm.nih.gov/pubmed/16757768/)\[J Bone Joint
   Surg Am. 2006\]
 
-- [[Review]{.underline} The efficacy of oral non-steroidal
+- [[Review] The efficacy of oral non-steroidal
   anti-inflammatory drugs for rotator cuff tendinopathy: a systematic
   review and
   meta-analysis.](https://www.ncbi.nlm.nih.gov/pubmed/24626286/)\[J
   Rehabil Med. 2014\]
 
-- [[Review]{.underline} Corticosteroid injections for shoulder
+- [[Review] Corticosteroid injections for shoulder
   pain.](https://www.ncbi.nlm.nih.gov/pubmed/12535501/)\[Cochrane
   Database Syst Rev. 2003\]
 
@@ -2284,23 +2283,23 @@ Off](javascript:historyDisplayState('HTOff'))
 
 [See more \...](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7661672/)
 
-- [[Review]{.underline} The disabled throwing shoulder: spectrum of
+- [[Review] The disabled throwing shoulder: spectrum of
   pathology Part I: pathoanatomy and
   biomechanics.](https://www.ncbi.nlm.nih.gov/pubmed/12671624/)\[Arthroscopy.
   2003\]
 
-- [[Review]{.underline} Rotator cuff tears in overhead
+- [[Review] Rotator cuff tears in overhead
   athletes.](https://www.ncbi.nlm.nih.gov/pubmed/23040553/)\[Clin Sports
   Med. 2012\]
 
-- [[Review]{.underline} Internal impingement in the tennis player:
+- [[Review] Internal impingement in the tennis player:
   rehabilitation
   guidelines.](https://www.ncbi.nlm.nih.gov/pubmed/18070811/)\[Br J
   Sports Med. 2008\]
 
 <!-- -->
 
-- [[Review]{.underline} Management of Rotator Cuff Injuries in the Elite
+- [[Review] Management of Rotator Cuff Injuries in the Elite
   Athlete.](https://www.ncbi.nlm.nih.gov/pubmed/29332181/)\[Curr Rev
   Musculoskelet Med. 2018\]
 
@@ -2316,11 +2315,11 @@ Off](javascript:historyDisplayState('HTOff'))
   imaging.](https://www.ncbi.nlm.nih.gov/pubmed/17932406/)\[Am J Sports
   Med. 2008\]
 
-- [[Review]{.underline} Rotator cuff tears in the throwing
+- [[Review] Rotator cuff tears in the throwing
   athlete.](https://www.ncbi.nlm.nih.gov/pubmed/24787724/)\[Sports Med
   Arthrosc Rev. 2014\]
 
-- [[Review]{.underline} Management of Rotator Cuff Injuries in the Elite
+- [[Review] Management of Rotator Cuff Injuries in the Elite
   Athlete.](https://www.ncbi.nlm.nih.gov/pubmed/29332181/)\[Curr Rev
   Musculoskelet Med. 2018\]
 
@@ -2345,7 +2344,7 @@ Off](javascript:historyDisplayState('HTOff'))
 
 <!-- -->
 
-- [[Review]{.underline} Arthroscopic repair of partial-thickness rotator
+- [[Review] Arthroscopic repair of partial-thickness rotator
   cuff tears and SLAP lesions in professional baseball
   players.](https://www.ncbi.nlm.nih.gov/pubmed/11888139/)\[Orthop Clin
   North Am. 2001\]
@@ -2378,7 +2377,7 @@ Off](javascript:historyDisplayState('HTOff'))
 
 <!-- -->
 
-- [[Review]{.underline} Return to Sport After Rotator Cuff Tear Repair:
+- [[Review] Return to Sport After Rotator Cuff Tear Repair:
   A Systematic Review and
   Meta-analysis.](https://www.ncbi.nlm.nih.gov/pubmed/26316611/)\[Am J
   Sports Med. 2016\]

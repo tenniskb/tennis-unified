@@ -14,8 +14,8 @@ generated](media_two-forehands/media/image1.webp)
 common?**
 
 In the first two articles in this series we looked at the real
-fundamentals underlying all good forehands. Good preparation ([Click Here](https://www.tennisplayer.net/members/avancedtennis/john_yandell/modern_tennis/what_have_we_learned/))
-and good extension in the forward swing. ([Click Here](https://www.tennisplayer.net/members/avancedtennis/john_yandell/modern_tennis/what_have_we_learned_part_2/))
+fundamentals underlying all good forehands. Good preparation ([link](https://www.tennisplayer.net/members/avancedtennis/john_yandell/modern_tennis/what_have_we_learned/))
+and good extension in the forward swing. ([link](https://www.tennisplayer.net/members/avancedtennis/john_yandell/modern_tennis/what_have_we_learned_part_2/))
 
 The internet world is obsessed with the question: what is the modern
 forehand and do I have it? What are the secrets I need to get it? Do I
@@ -109,7 +109,7 @@ work. What Brian discovered was that although a high level forehand
 could be hit with backswings of various shapes and sizes, the stroke
 could be turbocharged with a compact, outside backswing similar to Andre
 Agassi or Roger Federer with the hitting arm staying on the player's
-right side. ([Click Here](https://www.tennisplayer.net/members/biomechanics/brian_gordon/developing_an_atp_forehand_part_01/) for
+right side. ([link](https://www.tennisplayer.net/members/biomechanics/brian_gordon/developing_an_atp_forehand_part_01/) for
 more on this from Brian himself.)
 
 To Brian, Federer was the pure example. The hand moving up and back and

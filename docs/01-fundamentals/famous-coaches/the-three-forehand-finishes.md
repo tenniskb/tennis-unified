@@ -31,8 +31,7 @@ the path of the racket and finishes on the opposite side of the body and
 over the head.** Pete Sampras made this finish
 famous with his running forehand, though it is now common in the pro
 game. I've written about both of these finishes in my previous
-articles. ([Click
-Here](http://www.tennisplayer.net/members/famouscoach/famouscoach.html).)
+articles. ([link](http://www.tennisplayer.net/members/famouscoach/famouscoach.html).)
 
 ![A person hitting a ball with a tennis racket Description automatically
 generated](media_the-three-forehand-finishes/media/image2.webp)
@@ -131,7 +130,7 @@ generated](media_the-three-forehand-finishes/media/image5.webp)
 
 In the last few years, I've also expanded my thinking about **[the
 follow-through beyond just the straight out finish on the
-drive.]{.underline}** It may sound bizarre for me to say, but I now
+drive.]** It may sound bizarre for me to say, but I now
 believe that **the players can also hit through the ball with a lower
 finish down and across the body. In fact, I think at higher levels it
 actually works better.**
@@ -244,10 +243,10 @@ I work a lot on that shot with kids to give them the confidence that
 coming down actually works. Once they get used to it, they love doing it
 because it feels so much more comfortable on the follow-through. **[[The
 more extreme the grip, the more you follow through down, the better it
-works.]{.mark} [Making a follow through down low toward your hip with an
+works.] [Making a follow through down low toward your hip with an
 extreme grip works ten times better than trying to follow through up
 high with that grip. You can just get a better
-shot.]{.mark}]{.underline}**
+shot.]]**
 
 **Reverse Forehand**
 

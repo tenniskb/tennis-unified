@@ -39,7 +39,7 @@ and then Sam won a third set super tie breaker.
 
 |  |
 | --- |
-| ![](media_the-sampras-serve-new-filming-protocols/media/image2.png) |
+| ![link](media_the-sampras-serve-new-filming-protocols/media/image2.png) |
 |  |
 | **Click on the image to study Pete's serve frame by frame for yourself.** |
 
@@ -51,8 +51,7 @@ athletic and moved as fluidly as ever. And the serve? See for yourself
 in this gorgeous new footage. It's still there. (The backhand might be
 another story, but more on that in another article.)
 
-As we've discussed in the Forum ([Click
-Here](http://www.tennisplayer.net/bulletin/showthread.php?t=966)), Brian
+As we've discussed in the Forum ([link](http://www.tennisplayer.net/bulletin/showthread.php?t=966)), Brian
 Gordon was here with us for a week to do a massive quantitative filming
 for his research and his PhD dissertation. Prior to the Pete exo, we
 were up in St. Helena in the wine country, filming about 25 top Division
@@ -84,22 +83,19 @@ confidence](media_the-sampras-serve-new-filming-protocols/media/image3.webp)
 there.**
 
 What did I see when I looked at Pete? One of the first big series of
-analytic articles I did was on Pete's service motion. ([Click
-Here](http://www.tennisplayer.net/members/tour_strokes/john_yandell/sampras_serve/sampras_serve_part_1/sampras_serve_part_1.html).)
+analytic articles I did was on Pete's service motion. ([link](http://www.tennisplayer.net/members/tour_strokes/john_yandell/sampras_serve/sampras_serve_part_1/sampras_serve_part_1.html).)
 Sometimes as players get a little older you see their motions evolve,
 change, or deteriorate. Sometimes players exaggerate tendencies they
 already have. Sometimes a tendency can become a significant flaw, and
 problems develop. This was what was so interesting about my work with
-Johnny Mac on his serve in the early 1990s. ([Click
-Here](http://www.tennisplayer.net/members/teaching_systems/john_yandell/VisualTennis_Part2/Yandell_VTP2_McEnroe_Case_Study.html).)
+Johnny Mac on his serve in the early 1990s. ([link](http://www.tennisplayer.net/members/teaching_systems/john_yandell/VisualTennis_Part2/Yandell_VTP2_McEnroe_Case_Study.html).)
 
 But there were no real problems in Pete's serve, at least that I could
 see. To me it looked as good as ever. And that's pretty friggin' good.
 In our previous studies we found that although Pete's velocity tended
 to stay between 120mph and 130mph, his phenomenal spin rates\--averaging
 over 2500rpm on his first delivery with a huge topspin component\--were
-what made his ball so heavy and almost impossible to return. ([Click
-Here](http://www.tennisplayer.net/members/mystheavyball/john_yandell/speed_and_spin/speed_and_spin.html).)
+what made his ball so heavy and almost impossible to return. ([link](http://www.tennisplayer.net/members/mystheavyball/john_yandell/speed_and_spin/speed_and_spin.html).)
 
 The Tiburon footage shows the unique constellation of elements that make
 his serve is still in place. Let's take a look at a few of the key
@@ -152,8 +148,7 @@ snap at the hit, but the footage shows that this is anything but an
 accurate description of what is actually happening. As the clips all
 show, both the bend at the elbow and any release of the wrist occur
 after the contact. (Want to read more on the Myth of the Wrist in the
-serve? [Click
-Here](http://www.tennisplayer.net/members/avancedtennis/john_yandell/the_myth/the_myth_of_the_wrist_serve_images/the_myth_of_the_wrist_serve.html).)
+serve? [link](http://www.tennisplayer.net/members/avancedtennis/john_yandell/the_myth/the_myth_of_the_wrist_serve_images/the_myth_of_the_wrist_serve.html).)
 
 **Ball Position**
 
@@ -188,7 +183,7 @@ racket to go except down and back across the body in the continuation of
 the followthrough. **[So the elbow bends, the hand drops and the motion
 comes back the other way. The racket continues outward, downward, and to
 the left. It's just happening sooner in Pete's motion than for most
-players.]{.mark}**
+players.]**
 
 ![A person playing tennis Description automatically
 generated](media_the-sampras-serve-new-filming-protocols/media/image7.webp)
@@ -220,7 +215,7 @@ ball.
   ------------------------------------
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![](media_the-sampras-serve-new-filming-protocols/media/image8.png)
+  ![link](media_the-sampras-serve-new-filming-protocols/media/image8.png)
   ------------------------------------------------------------------------------------------------------------------------------------------------------------
   **Click on the photo to study the relationship between the stance and the turn for yourself**.
 
@@ -242,7 +237,7 @@ maximum turn, it's probably rotated something around 60 degrees from
 its starting position\--we'll get a measurement from Brian Gordon on
 this eventually I can hope.
 
-**[The amount of turn is directly related to his stance.]{.mark}** If
+**[The amount of turn is directly related to his stance.]** If
 you draw an imaginary line across his toes, and another imaginary line
 across the front of his chest, they are essentially parallel at the
 completion of the turn. The angle of his stance corresponds to, and to
@@ -316,7 +311,7 @@ confidence](media_the-sampras-serve-new-filming-protocols/media/image11.webp)
 **The left foot landing, the big cross step and the split.**
 
 **[Pete also lands relatively balanced, with his body tilted slightly
-forward but not a lot of bend from the waist.]{.mark}** Compare this to
+forward but not a lot of bend from the waist.]** Compare this to
 a player like Roddick, who actually lands a foot to two feet further
 inside the baseline than Pete and jack knifes over much more at the
 waist.
@@ -331,7 +326,7 @@ wisdom was that you had to reach the service line to be in good position
 for the first volley. That rarely happens in the modern pro game, unless
 the opponent hits a weak floating return. **[Most the returns are coming
 back at 80 or 90 mph. And that is a major factor accounting for the lack
-of serve and volley play.]{.mark}**
+of serve and volley play.]**
 
 **In the modern game, the first volley is usually hit about half way
 between the service line and the baseline. It's a function of now fast
@@ -344,7 +339,7 @@ difficult.**
 
 |  |
 | --- |
-| ![](media_the-sampras-serve-new-filming-protocols/media/image12.wmf) |
+| ![link](media_the-sampras-serve-new-filming-protocols/media/image12.wmf) |
 |  |
 | **Click on the photo for another frame by frame view.** |
 
@@ -369,7 +364,7 @@ including how it was always a little different from the other top
 one-handers and what has happened to it over the years. Stay tuned.
 
 **To view the complete Stroke Archives of Pete Sampras serves,
-[\]{.underline}
+[\]
 [click
 here.](file:///C:\Users\moosh\OneDrive\Documents\tennisplayer.net\Stroke%20Analysis\Advanced%20Tennis\Advanced%20Tennis%20TOC.docx)**
 

@@ -21,13 +21,7 @@
 
   * { margin: 0; padding: 0; box-sizing: border-box; }
 
-  body {
-    background: var(--paper);
-    color: var(--ink);
-    font-family: 'DM Sans', sans-serif;
-    font-size: 17px;
-    line-height: 1.75;
-  }
+  body
 
   /* ─── MASTHEAD ─── */
   .masthead {
@@ -37,22 +31,8 @@
     position: relative;
     overflow: hidden;
   }
-  .masthead::before {
-    content: '';
-    position: absolute;
-    top: -60px; right: -80px;
-    width: 420px; height: 420px;
-    border: 60px solid rgba(200,64,26,0.18);
-    border-radius: 50%;
-  }
-  .masthead::after {
-    content: '';
-    position: absolute;
-    bottom: -100px; left: -40px;
-    width: 280px; height: 280px;
-    border: 40px solid rgba(196,149,42,0.15);
-    border-radius: 50%;
-  }
+  .masthead::before
+  .masthead::after
   .tag {
     font-family: 'Space Mono', monospace;
     font-size: 11px;
@@ -62,19 +42,8 @@
     display: inline-block;
     margin-bottom: 20px;
   }
-  h1 {
-    font-family: 'Playfair Display', serif;
-    font-size: clamp(2.2rem, 5vw, 3.6rem);
-    line-height: 1.1;
-    max-width: 700px;
-    margin-bottom: 24px;
-  }
-  .subtitle {
-    font-size: 18px;
-    color: rgba(245,240,232,0.7);
-    max-width: 560px;
-    font-weight: 300;
-  }
+  h1
+  .subtitle
 
   /* ─── LAYOUT ─── */
   .content-wrap {
@@ -84,15 +53,7 @@
   }
 
   /* ─── LEAD ─── */
-  .lead {
-    font-size: 20px;
-    font-weight: 500;
-    line-height: 1.6;
-    color: var(--ink);
-    padding: 52px 0 20px;
-    border-bottom: 2px solid var(--ink);
-    margin-bottom: 52px;
-  }
+  .lead
 
   /* ─── SECTION HEADER ─── */
   .section-label {
@@ -103,34 +64,13 @@
     color: var(--muted);
     margin-bottom: 10px;
   }
-  h2 {
-    font-family: 'Playfair Display', serif;
-    font-size: clamp(1.6rem, 3vw, 2.4rem);
-    margin-bottom: 20px;
-    line-height: 1.2;
-  }
-  h3 {
-    font-family: 'Playfair Display', serif;
-    font-size: 1.3rem;
-    margin: 32px 0 12px;
-    color: var(--accent);
-  }
+  h2
+  h3
   p { margin-bottom: 18px; color: #2a2520; }
 
   /* ─── PULL QUOTE ─── */
-  .pullquote {
-    border-left: 5px solid var(--accent);
-    padding: 20px 28px;
-    margin: 40px 0;
-    background: rgba(200,64,26,0.05);
-  }
-  .pullquote p {
-    font-family: 'Playfair Display', serif;
-    font-size: 1.25rem;
-    font-style: italic;
-    margin: 0;
-    color: var(--ink);
-  }
+  .pullquote
+  .pullquote p
 
   /* ─── KINETIC CHAIN DIAGRAM ─── */
   .chain-diagram {
@@ -181,10 +121,7 @@
     color: var(--paper);
     margin-bottom: 2px;
   }
-  .node-text span {
-    font-size: 13px;
-    color: rgba(245,240,232,0.55);
-  }
+  .node-text span
 
   /* ─── PHOTO ANALYSIS CARD ─── */
   .analysis-grid {
@@ -193,14 +130,9 @@
     gap: 24px;
     margin: 40px 0;
   }
-  @media (max-width: 640px) { .analysis-grid { grid-template-columns: 1fr; } }
+  @media (max-width: 640px) }
 
-  .analysis-card {
-    border: 1.5px solid var(--divider);
-    border-radius: 4px;
-    overflow: hidden;
-    background: white;
-  }
+  .analysis-card
   .analysis-card img {
     width: 100%;
     height: 220px;
@@ -218,12 +150,7 @@
     margin-bottom: 6px;
     display: block;
   }
-  .card-body h4 {
-    font-family: 'Playfair Display', serif;
-    font-size: 1.1rem;
-    margin-bottom: 10px;
-    color: var(--ink);
-  }
+  .card-body h4
   .card-body p { font-size: 14px; margin-bottom: 0; color: #3a342e; }
   .phase-badge {
     display: inline-block;
@@ -244,20 +171,14 @@
     gap: 20px;
     margin: 40px 0;
   }
-  @media (max-width: 600px) { .anatomy-block { grid-template-columns: 1fr; } }
+  @media (max-width: 600px) }
 
   .anatomy-card {
     padding: 28px;
     border-radius: 4px;
   }
-  .anatomy-card.safe {
-    background: rgba(26,107,60,0.08);
-    border: 1.5px solid rgba(26,107,60,0.3);
-  }
-  .anatomy-card.danger {
-    background: rgba(200,64,26,0.07);
-    border: 1.5px solid rgba(200,64,26,0.3);
-  }
+  .anatomy-card.safe
+  .anatomy-card.danger
   .anatomy-card h4 {
     font-family: 'Space Mono', monospace;
     font-size: 12px;
@@ -268,14 +189,7 @@
   .safe h4 { color: var(--green); }
   .danger h4 { color: var(--accent); }
   .anatomy-card ul { list-style: none; padding: 0; }
-  .anatomy-card li {
-    font-size: 14px;
-    padding: 7px 0;
-    border-bottom: 1px solid rgba(0,0,0,0.08);
-    display: flex;
-    align-items: flex-start;
-    gap: 10px;
-  }
+  .anatomy-card li
   .anatomy-card li:last-child { border-bottom: none; }
   .safe li::before { content: '✓'; color: var(--green); font-weight: 700; }
   .danger li::before { content: '✗'; color: var(--accent); font-weight: 700; }
@@ -296,17 +210,8 @@
   }
   .player-header.nj { background: #1a1a2e; }
   .player-header.rf { background: #2e1a1a; }
-  .player-header .name {
-    font-family: 'Playfair Display', serif;
-    font-size: 1.4rem;
-    font-weight: 700;
-    margin-bottom: 4px;
-  }
-  .player-header .descriptor {
-    font-size: 12px;
-    font-style: italic;
-    opacity: 0.7;
-  }
+  .player-header .name
+  .player-header .descriptor
 
   .compare-row {
     display: grid;
@@ -317,8 +222,8 @@
     font-size: 14px;
     border-bottom: 1px solid var(--divider);
   }
-  .compare-cell:first-child { background: rgba(26,26,46,0.04); }
-  .compare-cell:last-child { background: rgba(46,26,26,0.04); }
+  .compare-cell:first-child
+  .compare-cell:last-child
   .compare-label {
     font-family: 'Space Mono', monospace;
     font-size: 10px;
@@ -339,27 +244,9 @@
     gap: 20px;
     margin: 36px 0;
   }
-  .drill-card {
-    background: white;
-    border: 1.5px solid var(--divider);
-    border-top: 4px solid var(--gold);
-    padding: 24px;
-    border-radius: 0 0 4px 4px;
-  }
-  .drill-number {
-    font-family: 'Space Mono', monospace;
-    font-size: 28px;
-    font-weight: 700;
-    color: var(--gold);
-    opacity: 0.4;
-    margin-bottom: 8px;
-    display: block;
-  }
-  .drill-card h4 {
-    font-family: 'Playfair Display', serif;
-    font-size: 1.05rem;
-    margin-bottom: 8px;
-  }
+  .drill-card
+  .drill-number
+  .drill-card h4
   .drill-card p { font-size: 13px; margin: 0; color: var(--muted); }
 
   /* ─── SECTION DIVIDER ─── */
@@ -370,13 +257,7 @@
   .section:first-of-type { border-top: none; }
 
   /* ─── WARNING BOX ─── */
-  .warning {
-    background: rgba(200,64,26,0.08);
-    border: 1.5px solid rgba(200,64,26,0.25);
-    padding: 24px 28px;
-    margin: 36px 0;
-    border-radius: 4px;
-  }
+  .warning
   .warning strong { color: var(--accent); }
   .warning p { margin: 0; font-size: 15px; }
 
@@ -387,14 +268,7 @@
     padding: 36px 40px;
     margin: 48px 0;
   }
-  .principle p {
-    font-family: 'Playfair Display', serif;
-    font-size: 1.4rem;
-    font-style: italic;
-    color: white;
-    margin: 0;
-    max-width: 640px;
-  }
+  .principle p
 
   /* ─── SENSATION LIST ─── */
   .sensation-grid {
@@ -403,10 +277,10 @@
     gap: 24px;
     margin: 32px 0;
   }
-  @media (max-width: 560px) { .sensation-grid { grid-template-columns: 1fr; } }
+  @media (max-width: 560px) }
   .sensation-box { padding: 24px; border-radius: 4px; }
-  .sensation-box.feel { background: rgba(196,149,42,0.1); border: 1.5px solid rgba(196,149,42,0.3); }
-  .sensation-box.avoid { background: rgba(200,64,26,0.07); border: 1.5px solid rgba(200,64,26,0.25); }
+  .sensation-box.feel
+  .sensation-box.avoid
   .sensation-box h4 {
     font-family: 'Space Mono', monospace;
     font-size: 11px;
@@ -427,16 +301,7 @@
   .avoid li::before { content: '◆'; position: absolute; left: 0; color: var(--accent); font-size: 8px; top: 4px; }
 
   /* ─── FOOTER ─── */
-  footer {
-    background: var(--ink);
-    color: rgba(245,240,232,0.5);
-    padding: 40px;
-    margin-top: 80px;
-    text-align: center;
-    font-size: 13px;
-    font-family: 'Space Mono', monospace;
-    letter-spacing: 1px;
-  }
+  footer
 
   /* ─── DIAGRAM SVG AREA ─── */
   .svg-diagram {
@@ -445,10 +310,9 @@
   }
   svg text { font-family: 'DM Sans', sans-serif; }
 
-  @media (max-width: 600px) {
-    .masthead { padding: 44px 24px 36px; }
+  @media (max-width: 600px)
     .content-wrap { padding: 0 16px; }
-    .player-header .name { font-size: 1.1rem; }
+    .player-header .name
     .compare-cell { font-size: 13px; padding: 12px 16px; }
     .compare-label { padding: 10px 16px 4px; }
     .player-header { padding: 16px; }

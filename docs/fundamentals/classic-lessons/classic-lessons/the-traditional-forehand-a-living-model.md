@@ -194,8 +194,7 @@ And with the modern game in complete ascendancy I also teach those same
 \"traditional shots\" to players to whom they are often totally foreign:
 slice groundstrokes and returns, classical volleys and half volleys.
 Meanwhile I have continued to evolve the modern dimension in my own game
-as well, for example adding swinging volleys. ([Click
-Here](https://www.tennisplayer.net/members/classiclessons/scott_murphy/scott_murphy_swinging_volley/index.html).)
+as well, for example adding swinging volleys. ([link](https://www.tennisplayer.net/members/classiclessons/scott_murphy/scott_murphy_swinging_volley/index.html).)
 
 **Back to the Future**
 
@@ -231,8 +230,7 @@ hand on the throat of the racquet. This fundamental seems to transcend
 styles and is an element in all good forehands classical and modern.
 
 His backswing is a moderate loop. The latest research by Brian Gordon
-([Click
-Here](https://www.tennisplayer.net/members/biomechanics/brian_gordon/developing_an_atp_forehand_part_01/))
+([link](https://www.tennisplayer.net/members/biomechanics/brian_gordon/developing_an_atp_forehand_part_01/))
 shows how the backswing on best current tour forehands, particularly
 Federer, stay on the players hitting side and this is true for Karsten
 as well.
@@ -258,8 +256,7 @@ or wrist motion.
 The majority of his followthroughs are with the racquet finishing in
 front of the opposite shoulder. Sometimes he actually catches the
 finish. All in all it looks like the young Pete Sampras as filmed by
-Robert Lansdorp. ([Click
-Here](https://www.tennisplayer.net/members/famouscoach/robert_lansdorp/lansdorp_forehand_images/lansdorp_forehand.html).)
+Robert Lansdorp. ([link](https://www.tennisplayer.net/members/famouscoach/robert_lansdorp/lansdorp_forehand_images/lansdorp_forehand.html).)
 
 Notice also how the racket is basically staying on edge to court. There
 is little to no windshield wiper action in his basic drive.

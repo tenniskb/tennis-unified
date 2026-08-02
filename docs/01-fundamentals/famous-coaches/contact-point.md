@@ -5,7 +5,7 @@
 ### Ean Meyer
 
 **All strokes have a beginning, middle and end. By far [the most
-important of the three is the middle, or the contact.]{.underline}**
+important of the three is the middle, or the contact.]**
 Everything else you do; backswing, follow through, footwork, and
 concentration is secondary to the moment you make contact. This is true
 for all of your strokes be it ground strokes, volleys or serves.
@@ -47,7 +47,7 @@ size of the backswing without changing the point of contact.
 
 Watch the video below for an illustration of the point of contact.
 
-![](media_contact-point/media/image1.wmf)
+![link](media_contact-point/media/image1.wmf)
 
 ![A person wearing a baseball hat Description automatically generated
 with low

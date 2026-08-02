@@ -7,7 +7,7 @@ Lobster Cup**
 
 Here is another drill game to create multiple repetitions at the net,
 including overheads. This drill compliments last month's drill.
-[Click Here](https://www.tennisplayer.net/members/ultimate_drillgames/jorge_capestany/davis_cup/)
+[link](https://www.tennisplayer.net/members/ultimate_drillgames/jorge_capestany/davis_cup/)
 The point in both drill games is to have to hit many more shots at the
 net than is normal in match play to develop consistency and confidence.
 

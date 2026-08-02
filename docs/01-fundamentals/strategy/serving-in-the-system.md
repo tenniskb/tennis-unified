@@ -118,8 +118,7 @@ skill I see implemented the least at the club level.
 
 Most doubles teams have no service game plan. They don't understand how
 to work as a team and often play as if they were two separate players.
-(For more on the basic roles of the The Hunter and the Helper, [Click
-Here](The%20Hunter%20and%20the%20Helper.docx).)
+(For more on the basic roles of the The Hunter and the Helper, [link](The%20Hunter%20and%20the%20Helper.docx).)
 
 ![A group of people playing tennis Description automatically generated
 with medium

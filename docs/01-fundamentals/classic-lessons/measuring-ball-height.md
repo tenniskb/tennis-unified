@@ -36,10 +36,10 @@ stroke.**
 
 **On the forehand side, the correct height is determined in large part
 by the grip position.** **For players with
-[traditional grips]{.underline}, [the optimum height is the lower half
-of this zone, from the knees to the waist]{.underline}.** **For players
+[traditional grips], [the optimum height is the lower half
+of this zone, from the knees to the waist].** **For players
 with [western grips, the optimum height is the top half of the hitting
-zone, from the waist to the chest.]{.underline}**
+zone, from the waist to the chest.]**
 
 **On the one-handed backhand, the optimum hitting height can vary
 depending on whether the choice is to slice (anywhere from the knees to
@@ -78,7 +78,7 @@ crosses the net, players tend to conclude that the ball will inevitably
 be high in the hitting zone.
 
 **[Although trajectory and net clearance offer information on depth and
-speed, they do not necessarily indicate contact height.]{.underline}**
+speed, they do not necessarily indicate contact height.]**
 They are less important than a third critical factor. Players who have
 problems measuring ball height tend to focus on the first two factors,
 but neglect the third.
@@ -157,7 +157,7 @@ racket travels through the hitting zone have become a real problem in
 today's game. [No matter what the backswing, the racket need to move
 upwards on a smooth curve from low to high as it starts forward to the
 ball. This is just as true if not more true for the large circular
-backswings used by some pros.]{.mark}]{.underline}**
+backswings used by some pros.]]**
 
 Unfortunately, at the club level the modern swing shape is neither
 circular or low to high. **Instead it is what I call \"V\" shaped. The

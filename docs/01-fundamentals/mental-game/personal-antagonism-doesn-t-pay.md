@@ -32,7 +32,7 @@ negatively affect your game.
 
 |  |
 | --- |
-| ![](media_personal-antagonism-doesn-t-pay/media/image2.jpg) |
+| ![link](media_personal-antagonism-doesn-t-pay/media/image2.jpg) |
 |  |
 | **Against some opponents you just don't want to shake hands.** |
 
@@ -108,10 +108,8 @@ well served by getting into fights with your opponents.)
 Andre Agassi, trained by his father who was a boxer, describes the
 aggressive, fighting aspects of matches well in his new book, Open. (For
 two amazing reviews by two of John Yandell's high school students,
-[Click
-Here](https://www.tennisplayer.net/members/notes_on_tour/alexandra_hills/open_by_agassi/)
-and [Click
-Here](https://www.tennisplayer.net/members/notes_on_tour/grace_fish/open_by_agassi/).)
+[link](https://www.tennisplayer.net/members/notes_on_tour/alexandra_hills/open_by_agassi/)
+and [link](https://www.tennisplayer.net/members/notes_on_tour/grace_fish/open_by_agassi/).)
 
 Like a fight, the players use all their physical, mental, strategic, and
 character skills to beat each other. They just don't hit each other,
@@ -280,7 +278,7 @@ Visit him at [www.allenfoxtennis.net](http://www.allenfoxtennis.net)
 |  | stress, finishing matches, and developing confidence. Based on a life time of high level play and coaching success, |
 |  | it's a must for all competitive players. |
 |  |  |
-|  | [Click Here to |
+|  | [ to |
 |  | Order](http://www.amazon.com/Tennis-Winning-Mental-Allen-Fox/dp/0615407765/ref=sr_1_1?ie=UTF8&qid=1336083459&sr=8-1). |
 
 
@@ -303,7 +301,7 @@ Visit him at [www.allenfoxtennis.net](http://www.allenfoxtennis.net)
 |  | outline how to confront and overcome these fears in your |
 |  | life and career, even when they are initially subconscious. |
 |  | Must reading from one of the great thinkers in tennis, and |
-|  | a Renaissance Man in life. [Click Here to |
+|  | a Renaissance Man in life. [ to |
 |  | Order](http://www.tennis-warehouse.com/descpage-MIND.html). |
 |  |  |
 |  | To purchase this book you can also send a check for \$17.95 |

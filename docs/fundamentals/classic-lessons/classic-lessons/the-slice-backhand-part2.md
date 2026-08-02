@@ -5,13 +5,13 @@
 ### John Craig
 
 In the first article in this great new series, John Craig talked about
-the role of the slice backhand in the pro game and your game (**Click Here**(The%20Slice%20Backhand-Part1.docx).)
+the role of the slice backhand in the pro game and your game (**link**(The%20Slice%20Backhand-Part1.docx).)
 
 In part 2 he demonstrates footwork. How to get to balls inside the
 sideline, and how to get to balls outside the sideline. These step
 patterns are critical!
 
-![](media_the-slice-backhand-part2/media/image1.png)
+![link](media_the-slice-backhand-part2/media/image1.png)
 
 ![A person smiling for the camera](media_the-slice-backhand-part2/media/image2.jpeg)
 

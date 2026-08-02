@@ -90,7 +90,7 @@ with the forward swing.**
 better. I want them to understand that power comes from timing and
 rhythm. When you swing faster, if you're a little kid, your body blows
 up like a grenade. It doesn't work. So I emphasize
-that.]{.mark} ]{.underline}**
+that.] ]**
 
 Are you going to see all these factors perfectly mastered in a young
 kid? No, but if the kid is natural with one-hand, you will see that
@@ -154,14 +154,14 @@ turning the shoulders.** 
 
 **[Having both hands on the racket, naturally facilitates a better
 shoulder turn, without the kids having to think about it. They just get
-the feeling of rotating the body rotate more easily. ]{.underline}**
+the feeling of rotating the body rotate more easily. ]**
 
 **[They are going to coil more, and when they do this, they are going to
 let the shoulders bring the racket through the ball on the forward
 swing. The kids feel that everything is connected. There is less that
 can go wrong. The results are usually better, faster.  Better than the
 one-hander, and often better than the forehand. That's the bottom line
-in junior tennis.]{.underline}**
+in junior tennis.]**
 
 You can even see this on the women's pro tour. Almost all the players
 with two-handed backhands are better on the backhand side. There have
@@ -195,7 +195,7 @@ teach them a one-handed slice from the beginning. It's huge. As I have
 said many other times in these articles, I believe in creating complete,
 all around players.
 
-**[A one-handed slice facilitates this.]{.underline}** It teaches touch
+**[A one-handed slice facilitates this.]** It teaches touch
 and feel. It gives the players an approach shot at an early age. It
 expedites the learning curve for the one-handed volley. It allows them
 to develop a drop shot. Maybe even to learn to play that same style as
@@ -203,7 +203,7 @@ Steffi Graf we talked about before. So in a future article I am going to
 go into teaching the slice in detail. 
 
 **[But for now, one point that is important is the ready
-position.]{.mark}** For two-handers, I prefer that in the ready position
+position.]** For two-handers, I prefer that in the ready position
 the left hand is on the throat of the racket. I want them to wait more
 athletically, more like they're holding the racket like a magician,
 more like the racket is a paintbrush in their hand. 
@@ -273,8 +273,8 @@ to use motivational skills and even entertainment skills to keep them
 engaged.**
 
 **[At our best as coaches we're not just tennis teachers. Especially at
-this early stage of the game, [we're life changers]{.underline}, or I
-hope we are.]{.mark}**
+this early stage of the game, [we're life changers], or I
+hope we are.]**
 
 | ![A person with his arms crossed Description automatically generated with low | Rick Macci has coached some of the greatest players |
 | --- | --- |

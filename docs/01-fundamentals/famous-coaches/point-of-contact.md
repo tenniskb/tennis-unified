@@ -55,7 +55,7 @@ feeling for where their contact point should be and are therefore unable
 to find it consistently in match play.**
 
 **[As players we always say we want to hit the ball in front. But can
-you say exactly where?]{.mark}** What I am talking about is refining the
+you say exactly where?]** What I am talking about is refining the
 concept of contact to a more precise area.
 
 ![A person holding a tennis racket Description automatically
@@ -118,11 +118,11 @@ moving to the net, this is the image you want to visualize.
 
 [**[So my advice is to do this basic work even if you are an advanced
 player and you think maybe it sounds too basic. It's not. Develop your
-feeling for the catch, drop and hit. Now]{.mark} [*picture the image
-when you are playing, wherever you are on the court.* You]{.mark}**
+feeling for the catch, drop and hit. Now] [*picture the image
+when you are playing, wherever you are on the court.* You]**
 **[are going to find out how well it works and see the timing on all
 your shots become consistent, ball after
-ball]{.mark}**]{.underline}***[.]{.mark}***
+ball]**]******
 
   ---------------- -----------------------------------------------------
 

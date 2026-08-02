@@ -56,13 +56,11 @@ So, this is an alternative model to traditional doubles theory which
 advocates the advantages of the net and a purely attacking style.  As
 we'll see I do think there is room for both, and the two styles can be
 mixed. (For a tremendous presentation of the theory of the pure
-attacking style from Allen Fox, [Click
-Here](https://www.tennisplayer.net/members/strategy/louis%20_cayer/doubles_playing_styles/doubles_playing_styles.html).)
+attacking style from Allen Fox, [link](https://www.tennisplayer.net/members/strategy/louis%20_cayer/doubles_playing_styles/doubles_playing_styles.html).)
 
 **Return of Serve**
 
-If you read Louis Cayer's article about men's doubles ([Click
-Here](https://www.tennisplayer.net/members/strategy/dave_hagler/womens_doubles_and_your_doubles/strategy/louis%20_cayer/doubles_playing_styles/doubles_playing_styles.html)),
+If you read Louis Cayer's article about men's doubles ([link](https://www.tennisplayer.net/members/strategy/dave_hagler/womens_doubles_and_your_doubles/strategy/louis%20_cayer/doubles_playing_styles/doubles_playing_styles.html)),
 you will see that the modern men's doubles game now also features a
 variety of playing styles.  But the effect is even more extreme in the
 women's game.  We can see this by comparing the differences in the

@@ -14,8 +14,7 @@ generated](media_the-four-components-of-match-play-tactics-and-patterns/media/im
 style?**
 
 In the first article in this series, we looked at the first two
-components of match play, Strategy and Game Style. ([Click
-Here](The%20Four%20Components%20of%20Match%20Play%20-%20STrategy%20and%20Game%20Style.docx).)
+components of match play, Strategy and Game Style. ([link](The%20Four%20Components%20of%20Match%20Play%20-%20STrategy%20and%20Game%20Style.docx).)
 Now let's look at the other two components: Tactics and Patterns.
 Let's see how players can develop tactics and patterns based on their
 strategy and game styles.
@@ -326,22 +325,21 @@ generated](media_the-four-components-of-match-play-tactics-and-patterns/media/im
 
 Before the Point factors include the environment you are playing in and
 how those conditions affect the ball (as discussed in the first article
-[Click
-Here](The%20Four%20Components%20of%20Match%20Play%20-%20STrategy%20and%20Game%20Style.docx).)
+[link](The%20Four%20Components%20of%20Match%20Play%20-%20STrategy%20and%20Game%20Style.docx).)
 Plus the score in the match, the state of momentum in the match, and
 your confidence at the moment.
 
 **Factors that go into tactical decisions during points
 include:**
 
-1.  **[the quality of the ball you have sent]{.underline}**
+1.  **[the quality of the ball you have sent]**
 
-2.  **[the quality of the ball you receive in response]{.underline}**
+2.  **[the quality of the ball you receive in response]**
 
 3.  **[your opponent's court position relative to his strengths and
-    weaknesses]{.underline}**
+    weaknesses]**
 
-4.  **[your court position relative to your game style.]{.underline}**
+4.  **[your court position relative to your game style.]**
 
 So here we go from the examples above which seemed quite simple, to
 actual circumstances over the course of a match, circumstances that

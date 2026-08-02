@@ -67,6 +67,6 @@ More drills to come! Stay Tuned!
 |  | Share Your Thoughts with our Subscribers and Authors!\ |  |  |
 |  | \ |  |  |
 |  | [[Click |  |  |
-|  | Here]{.underline}](https://www.tennisplayer.net/bulletin/forum/tennisplayer/93622-drills-for-developing-touch-part-1?view=stream)** |  |  |
+|  | Here]](https://www.tennisplayer.net/bulletin/forum/tennisplayer/93622-drills-for-developing-touch-part-1?view=stream)** |  |  |
 | +=====================================================================================================================================+===============================================================================================================================================================================================================+ |  |  |  |
 

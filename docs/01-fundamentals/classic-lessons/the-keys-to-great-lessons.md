@@ -246,9 +246,9 @@ generated](media_the-keys-to-great-lessons/media/image8.webp)
 **Set realistic target sizes that create success.**
 
 **Giving each student the [[right amount of
-feedback]{.mark} [and attempts]{.mark} [allows all students an even
-playing field]{.mark}]{.underline} and a sense of togetherness as a
-group. [This prevents students from]{.underline}
+feedback] [and attempts] [allows all students an even
+playing field]] and a sense of togetherness as a
+group. [This prevents students from]
 becoming overly competitive with each other and
 jealous of the attention of the teaching pro.**
 

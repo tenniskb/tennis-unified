@@ -23,7 +23,7 @@ Roger Federer, Novak Djokovic, and Rafael Nadal. Despite the many
 variations between them, they all share 3 key positions---and here they
 are! The same positions you can develop no matter what your level.
 
-[Click Here](https://www.tennisplayer.net/public/avancedtennis/advtennis.html) to
+[link](https://www.tennisplayer.net/public/avancedtennis/advtennis.html) to
 see my more detailed analysis of the modern forehand in numerous
-articles in the Advanced Tennis section. [Click Here](https://www.tennisplayer.net/public/ultimate_fundamentals/john_yandell/the_serve) to
+articles in the Advanced Tennis section. [link](https://www.tennisplayer.net/public/ultimate_fundamentals/john_yandell/the_serve) to
 see Part 1 in Ultimate Fundamentals on the Serve.

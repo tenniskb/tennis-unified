@@ -15,9 +15,9 @@ Hitting stances should also vary with distance to the ball and with the
 stroke itself. See it all in this incredible article based on David's
 decades of study of the footwork of the best players in the world.
 
-![](media_the-golden-move-1-the-stepdown/media/image1.wmf)
+![link](media_the-golden-move-1-the-stepdown/media/image1.wmf)
 
-![](media_the-golden-move-1-the-stepdown/media/image2.jpeg)
+![link](media_the-golden-move-1-the-stepdown/media/image2.jpeg)
 
 David Bailey is a native Australian who has spent 15 years studying
 tennis at the professional level. He has developed a new language for
@@ -29,8 +29,6 @@ the Bailey Method, has become a regular part of the coaching curriculum
 at the Nick Bollettierri Tennis Academy, where it is personally endorsed
 by Nick
 
-Visit David's Website! [**[Click
-Here!]{.underline}**](http://www.baileytennisfootwork.com/)
+Visit David's Website! [**[!]**](http://www.baileytennisfootwork.com/)
 
-To Contact David directly [**[Click
-Here!]{.underline}**](mailto:david@baileytennisfootwork.com)
+To Contact David directly [**[!]**](mailto:david@baileytennisfootwork.com)

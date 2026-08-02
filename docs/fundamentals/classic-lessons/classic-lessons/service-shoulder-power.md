@@ -17,7 +17,7 @@ Watch John demonstrate the path of this rotation as well as trace it in
 the motion of the master of the effortless high velocity serve, Roger
 Federer.
 
-![](media_service-shoulder-power/media/image1.wmf)
+![link](media_service-shoulder-power/media/image1.wmf)
 
 ![A person smiling for the camera](media_service-shoulder-power/media/image2.jpeg)
 

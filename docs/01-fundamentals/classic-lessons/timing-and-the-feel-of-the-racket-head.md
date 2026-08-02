@@ -88,7 +88,7 @@ confidence](media_timing-and-the-feel-of-the-racket-head/media/image4.webp)
 **Why do top players hit the ball with their hitting arms so relaxed?**
 
 **[[There is a \"pocket\" in the strings in the middle of the racket
-head]{.underline}. This is what ideally strikes the ball.]{.mark}** When
+head]. This is what ideally strikes the ball.]** When
 a player really feels the weight of the racket head he becomes
 \"connected\" to that pocket.
 
@@ -328,7 +328,7 @@ hit.** **In this way, the unit turn is actually
 slightly different for every ball. Great players have this subtle,
 continuous feeling and that helps make tough shots look
 easy. [Most recreational players don't, and this
-is why they can make easy shots look hard.]{.mark}**
+is why they can make easy shots look hard.]**
 
 ![A child playing tennis Description automatically generated with low
 confidence](media_timing-and-the-feel-of-the-racket-head/media/image12.webp)
@@ -369,10 +369,10 @@ practice swings to better develop this sense.**
 **[[Feel the weight of the racket head as you drop it in the loop and
 then feel the momentum of the racket head on the forward swing as the
 racket head goes out towards your intended target. You have to feel how
-the face closes in the backswing.]{.mark} [You have to feel how that
+the face closes in the backswing.] [You have to feel how that
 changes to perpendicular or possibly slightly closed as the racket moves
 onto the intended path of the shot and then through the hitting
-zone.]{.mark}]{.underline}** **You must also develop the feeling of
+zone.]]** **You must also develop the feeling of
 keeping the racket head on this path as long as
 possible.**
 

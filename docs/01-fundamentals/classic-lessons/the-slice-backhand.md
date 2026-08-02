@@ -198,8 +198,7 @@ some people (including myself) think it could be. But I can guarantee
 you that this is a great shot that will work in almost any situation for
 most players. It can give you an edge that a lot of your opponent's
 probably haven't even thought of developing. (Note for example of a
-club player who changed his high to low slice to a slice drive, [**Click
-Here**](http://www.tennisplayer.net/members/your_strokes/carl_sutherland_slice_bh_11_01_05/carl_sutherland_slice_bh_11_01_05.html).)
+club player who changed his high to low slice to a slice drive, [**link**](http://www.tennisplayer.net/members/your_strokes/carl_sutherland_slice_bh_11_01_05/carl_sutherland_slice_bh_11_01_05.html).)
 
 | ![A person with a mustache Description automatically generated with low | Trey Waltke was an elite American junior player |
 | --- | --- |

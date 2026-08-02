@@ -110,7 +110,7 @@ elevating to control contact height.**
 these shots because jumping is some type of technical advantage. They
 are going up in the air because the explosiveness of the swings and the
 uncoiling of the legs naturally lift the player off the
-court.]{.mark}*** This can happen even on waist high balls. But on high
+court.]*** This can happen even on waist high balls. But on high
 balls, it's a necessity to create a comfortable contact height. The
 ball can bounce so high in the pro game that even with both feet off the
 ground the contact point can still be at the shoulder or above.
@@ -155,7 +155,7 @@ upward into their shots like Guga or Nadal. The problem is that the ball
 was at knee or waist height. If you set up in the right stance, coil,
 and swing up to the ball, your elevation will naturally take car of
 itself. ***[Remember on many other balls even the top players hit with
-the front foot still on the court.]{.mark}***
+the front foot still on the court.]***
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -255,7 +255,7 @@ it across.**
 Now, let's be clear. ***[You do see players like Federer and Agassi
 rotate their shoulders further and also use additional hand and arm
 rotation. A hall mark of Federer's forehand is his ability to do this
-on virtually any ball.]{.mark}*** But for the less extreme players it's
+on virtually any ball.]*** But for the less extreme players it's
 an option not a necessity. ***When Federer rotates further, for
 example, he does it from an open stance and often when he is in the air
 with both feet.*** The same is true of Agassi. The
@@ -311,7 +311,7 @@ pros, and also, with hitting topspin for it's own sake. [Because of
 this they generate spin levels that are excessive compared with the
 velocity of their shots. This affects their ability to create depth and
 penetrate the court, and can generate a lot of short, fat balls for
-their opponents]{.underline}]{.mark}***[.]{.underline}
+their opponents]]***
 
 Again, let me make sure that I'm not being misunderstood. There are
 plenty of situations where any player at any level needs the ability to

@@ -6,8 +6,7 @@
 
 **Pat Cash** Last month we took a look at the fundamentals on the
 forehand volley - as well as some common misconceptions that hold
-players back. ([Click
-Here](Developing%20World%20Class%20Volleys%20-%20Tha%20Forehand%20Volley.docx).)
+players back. ([link](Developing%20World%20Class%20Volleys%20-%20Tha%20Forehand%20Volley.docx).)
 Now let's do the same on the backhand volley and see how you can
 develop world class technique for yourself.
 
@@ -67,11 +66,11 @@ downward and not enough through.**
 
 **[There is one obvious difference between the forehand and the backhand
 volley, and this is the [position of the hitting
-shoulder.]{.underline}]{.mark}** **[[When you make a proper turn
-on]{.underline} [the backhand volley that puts your right shoulder in
-position automatically]{.underline}.]{.mark}** That's compared to
-**[the forehand where [your right shoulder is behind and]{.underline}
-[you have to rotate it forward to the contact.]{.underline}]{.mark}**
+shoulder.]]** **[[When you make a proper turn
+on] [the backhand volley that puts your right shoulder in
+position automatically].]** That's compared to
+**[the forehand where [your right shoulder is behind and]
+[you have to rotate it forward to the contact.]]**
 
 **Continental Grip**
 
@@ -100,8 +99,8 @@ generated](media_developing-world-class-volleys-tha-backhand-volley/media/image4
 through the shot.**
 
 In this way **[the backhand volley is very much like the slice backhand
-approach]{.mark}** - ***[it's a more compact version with a slightly
-smaller swing.]{.mark}*** There is some high to lower action, but
+approach]** - ***[it's a more compact version with a slightly
+smaller swing.]*** There is some high to lower action, but
 **most of the swing has to be forward and through the
 ball.**
 
@@ -133,12 +132,12 @@ The slightly trickier backhand volley is the inside out one where you do
 have to cut slightly inside out, from the player's left to right.
 **[You can't really do that properly unless you drop the head of the
 racquet. But again you do this mainly by maneuvering the elbow. That's
-what lowers the racket head.]{.mark}**
+what lowers the racket head.]**
 
 This contradicts the old misconception of bending as far down as
 possible when the ball is low, with the back knee scrapping the ground.
 Now you can come across the body inside out with slice. **[You get the
-inside out drift that way, and that's a very deadly volley]{.mark}**.
+inside out drift that way, and that's a very deadly volley]**.
 
 Compared to the forehand, there's usually less wrist manipulation to
 get the racquet underneath the ball on low volleys. As we saw in the
@@ -170,7 +169,7 @@ contact is a few inches further in front of the
 body.**
 
 **[At times, players will extend the elbow until it is straighter or
-even straight at contact.]{.mark}** ***But if you move too far out
+even straight at contact.]** ***But if you move too far out
 front you will lose the position of the shoulder and the relationship
 between the racket and wrist, and this will make the volley too weak to
 be truly effective.***
@@ -192,7 +191,7 @@ lunging step, you can really only go crosscourt.
 
 It's hard to keep your balance and almost impossible to hit the ball
 inside out. ***[The other disadvantage of cross stepping is that it
-takes an extra recovery step to get back in position]{.mark}***. I think
+takes an extra recovery step to get back in position]***. I think
 this is a common mistake for amateur players and for professionals
 alike.
 

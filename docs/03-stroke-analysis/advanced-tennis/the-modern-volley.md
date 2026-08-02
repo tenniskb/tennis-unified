@@ -78,7 +78,7 @@ volley with polyester strings. While the polyester strings help on the
 serves, returns, and groundstrokes, they are not advantageous for the
 volleyer.
 
-![](media_the-modern-volley/media/image4.webp)
+![link](media_the-modern-volley/media/image4.webp)
 
 **The \"Big Game\" was a simple idea\--get to net as quickly as
 possible.**

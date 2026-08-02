@@ -22,7 +22,7 @@ easy, but it certainly has a place in today's game.
 This is why it's a regular part of the work we do at the Academy. In
 this final article in the Strategy Zone series for Tennisplayer.net,
 we'll outline exactly what we teach and how to incorporate it into your
-own game. ([Click Here](The%20Strategy%20Zone%20-%20Introduction.docx)
+own game. ([link](The%20Strategy%20Zone%20-%20Introduction.docx)
 to see the whole series.)
 
 ![A person playing tennis Description automatically
@@ -53,7 +53,7 @@ all the ability to hit accurately wide and down the T in both courts. It
 also means the ability to hit serves at the body on both the forehand
 and backhand sides.**
 
-**[The 4 components are:]{.underline}**
+**[The 4 components are:]**
 
   ------------------------------------------------
   **Serve Placement**     **Timing of Footwork**
@@ -254,7 +254,7 @@ possible.**
 
 We hope you've enjoyed and learned from our presentation of the
 Strategy Zone concepts and the three-point progression of control, hurt,
-and finish. [Click Here](The%20Strategy%20Zone%20-%20Introduction.docx)
+and finish. [link](The%20Strategy%20Zone%20-%20Introduction.docx)
 to see a list of the whole series. See everyone later on Tennisplayer!
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

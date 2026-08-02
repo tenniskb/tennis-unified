@@ -42,13 +42,13 @@ bio-mechanics of the entire stroke are thrown out of sequence. The
 shoulder turn will be incomplete. This means the shoulders cannot rotate
 fully back through the shot. Not only is the rotation of the shoulders
 more limited, it also tends to be premature, so that the shoulders and
-hips are too open at contact.]{.mark}**
+hips are too open at contact.]**
 
 **[In addition to limiting the role of the shoulders, taking your
 racquet back first often creates another critical problem: poor hitting
 arm position. When the arm moves first, there is a high probability that
 the racquet will never find the correct position at the end of the
-backswing, when it actually starts forward to the ball.]{.mark}**
+backswing, when it actually starts forward to the ball.]**
 
 Typically the racquet position as this point will be too high, and the
 hitting arm will be too straight. The contact will be late. The racquet
@@ -296,7 +296,7 @@ forward to the ball.**
 ***[Many club and junior players have loops bigger than the top pros,
 but they fail to establish the unit turn and the double bend hitting arm
 position. These are the more fundamental elements players should first
-seek to copy from the pros.]{.mark}***
+seek to copy from the pros.]***
 
 Any player can hit the ball well if he has these two positions,
 regardless of the exact size or shape of his backswing. But without

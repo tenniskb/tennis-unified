@@ -17,8 +17,7 @@ shoulder problems. As one writer put it: \"The change to the motion
 comes in the take back. These days Nishikori's path to the trophy
 position is more abbreviated. In year's past he would draw the racquet
 low before looping it up to prepare for contact.\" (For more on this
-[Click
-Here](https://www.tennismajors.com/atp-actualite-2/serve-to-survive-nishikori-alters-service-motion-to-preserve-shoulder-career-325210.html).)
+[link](https://www.tennismajors.com/atp-actualite-2/serve-to-survive-nishikori-alters-service-motion-to-preserve-shoulder-career-325210.html).)
 
 I had to laugh when I read that. Over the years I have filmed Kei many
 times including his serve. My opinion is his shoulder and wrist problems
@@ -42,8 +41,7 @@ abbreviated.**
 
 And guess what? Another top player who had the same restriction in her
 motion and also chronic shoulder problems was Maria Sharapova, something
-I wrote about previously on Tennisplayer. [Click
-Here.](https://www.tennisplayer.net/members/tour_strokes/john_yandell/maria_sharapova_serve/)
+I wrote about previously on Tennisplayer. [link](https://www.tennisplayer.net/members/tour_strokes/john_yandell/maria_sharapova_serve/)
 
 **Acceleration**
 
@@ -109,8 +107,7 @@ Think about that! In 2/10s of one second, the racket goes from 30mph to
 90mph and then back from 90mph to 30mph. That's a total speed change of
 120mph in a total 2/10s of a second! For more detail on all of this in
 the 3 Dimensional study Brian Gordon and I did of Pete Sampras's serve,
-[Click
-Here](https://www.tennisplayer.net/members/avancedtennis/john_yandell/sampras_serve/sampras_serve_racket_head_speed/sampras_serve_racket_head_speed.html).
+[link](https://www.tennisplayer.net/members/avancedtennis/john_yandell/sampras_serve/sampras_serve_racket_head_speed/sampras_serve_racket_head_speed.html).
 
 A key point is that this wrist release happens well after the rotation
 is complete. Usually it happens when the hand has already fallen into

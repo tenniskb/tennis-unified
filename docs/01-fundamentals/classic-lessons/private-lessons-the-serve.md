@@ -36,11 +36,11 @@ spin.**
 Let's start with the grips. Plain and simple, there are just too many
 players using eastern forehand and even semi-western grips when serving.
 
-| ![](media_private-lessons-the-serve/media/image2.jpg) | generated](media_private-lessons-the-serve/media/image3.jpg) |
+| ![link](media_private-lessons-the-serve/media/image2.jpg) | generated](media_private-lessons-the-serve/media/image3.jpg) |
 | --- | --- |
 | **The two viable service grips, the continental\ |  |
 | (above) and the eastern backhand.** |  |
-| ![](media_private-lessons-the-serve/media/image4.jpg) | confidence](media_private-lessons-the-serve/media/image5.jpg) |
+| ![link](media_private-lessons-the-serve/media/image4.jpg) | confidence](media_private-lessons-the-serve/media/image5.jpg) |
 
 
 For the novice or the unschooled veteran, these grips feel supportive,
@@ -114,8 +114,8 @@ The first is that the racquet face stays closed
 low position).**
 
 **[[The second is that at the conclusion of this phase, the tip of the
-racquet is straight up and on edge]{.mark} (hitting surface parallel to
-the side fence).]{.underline}**
+racquet is straight up and on edge] (hitting surface parallel to
+the side fence).]**
 
 **This is the cocking position. At this point the elbow is bent
 creating a \"V\" formation from the** **shoulder
@@ -141,9 +141,9 @@ your thumb to your hitting shoulder from the cocked position. You won't
 actually touch the shoulder but the elbow is automatically driven up and
 out.
 
-**[[From here the racquet begins its rapid ascent to contact.]{.mark}
+**[[From here the racquet begins its rapid ascent to contact.]
 [This is the upward swing to the ball. This is where it can get tricky
-and discouraging for the uninitiated.]{.mark}]{.underline}**
+and discouraging for the uninitiated.]]**
 **There's great incentive here though, because this movement, when
 correct, provides the serve's single greatest power
 source.**
@@ -225,7 +225,7 @@ To me, \"toss\" is a bit of a misnomer because it suggests a throwing
 motion**. I think of the toss as more of a \"lift\" in which there's
 a delicate placement of the ball**. **Prior to
 releasing the ball it should be [on the pads of your
-fingers]{.underline}, not the tips and not back in the palm.** **The
+fingers], not the tips and not back in the palm.** **The
 palm should be facing up, the arm extended and lifted by means of the
 shoulder.**
 

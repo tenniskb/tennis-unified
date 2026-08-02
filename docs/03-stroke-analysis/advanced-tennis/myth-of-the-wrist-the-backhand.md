@@ -261,15 +261,14 @@ release come after he passes through this position.**
 developing the core elements in either backhand. If the core
 bio-mechanics are right, and the swing pattern is fast enough and
 relaxed enough, the distinctive relaxation or wrapping movements will
-tend to occur naturally and automatically.]{.mark}**
+tend to occur naturally and automatically.]**
 
 High speed video has given us a look inside this previously invisible
 world of professional stroke production. No matter what commentators and
 magazine writers may say to perpetuate the myth of the wrist, any player
 who looks at the video here can see the truth for himself.
 
-At the same time, this unique Advanced Tennis video [(Click
-Here)](http://www.advancedtennis.com) is a powerful tool for players to
+At the same time, this unique Advanced Tennis video [link](http://www.advancedtennis.com) is a powerful tool for players to
 develop the right technical elements for themselves. As Advanced Tennis
 research progresses, we hope to reach more and more players and coaches.
 In the meantime, this cutting edge knowledge is something that you may

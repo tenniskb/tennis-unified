@@ -16,7 +16,7 @@ Find out the critical and misunderstood role of the front shoulder and
 the hitting arm structure and make you backhand volley technically world
 class.
 
-![](media_ultimate-fundamentals-backhand-volley/media/image1.png)
+![link](media_ultimate-fundamentals-backhand-volley/media/image1.png)
 
 .
 

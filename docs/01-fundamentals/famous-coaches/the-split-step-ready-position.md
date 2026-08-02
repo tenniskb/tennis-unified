@@ -4,8 +4,7 @@
 
 **Tim Mayotte**
 
-In my first article ([Click
-Here](The%20Framework%20-%20A%20New%20Paradigm%20for%20Technique%20and%20Movement.docx).)
+In my first article ([link](The%20Framework%20-%20A%20New%20Paradigm%20for%20Technique%20and%20Movement.docx).)
 I proposed that most educational resources make an unhelpful separation
 between technique\--the swing of the racquet\--and movement to the ball.
 I further proposed that this separation has led to poor teaching and
@@ -47,7 +46,7 @@ bark, \"Wow, what a great split step!\" Or, \"She mistimed her split!\"
 Few instructional videos focus on the Split / Ready, much less its
 variations. **[Coaches are often asked where the racquet should finish
 at the end of the stroke. But rarely are we asked about [where the
-racquet should be at the start of a shot.]{.underline}]{.mark}**
+racquet should be at the start of a shot.]]**
 
 Although tennis is commonly compared to dance, this analogy is vague and
 misleading. **In reality, tennis movement is a series of mini-dances
@@ -182,7 +181,7 @@ position to prepare for the widest variety of incoming shots. So lets
 look at what the best do to reach these goals by analyzing what exactly
 they do.
 
-**[There are 5 parameters for the Split Step. They are:]{.underline}**
+**[There are 5 parameters for the Split Step. They are:]**
 
 **Posture and Stability**
 

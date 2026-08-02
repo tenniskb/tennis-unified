@@ -46,15 +46,12 @@ generated](media_the-myth-of-the-dog/media/image2.webp)
 
 **How much does Roger \"pat\" and when?**
 
-The Advanced Tennis section contains most of this pro analysis. ([Click
-Here](https://www.tennisplayer.net/members/avancedtennis/advtennis.html).)
+The Advanced Tennis section contains most of this pro analysis. ([link](https://www.tennisplayer.net/members/avancedtennis/advtennis.html).)
 And now I am working through a complete teaching system with
 progressions for all the strokes based on this work\--and how to apply
-it across levels. ([Click
-Here](https://www.tennisplayer.net/members/teaching_systems/teaching_systems.html).)
+it across levels. ([link](https://www.tennisplayer.net/members/teaching_systems/teaching_systems.html).)
 And I am also boiling it all down even further to the minimum number of
-commonalities in the Ultimate Fundamentals section ([Click
-Here](https://www.tennisplayer.net/members/ultimate_fundamentals/ultimate_fundamentals.html)).
+commonalities in the Ultimate Fundamentals section ([link](https://www.tennisplayer.net/members/ultimate_fundamentals/ultimate_fundamentals.html)).
 
 **Millions of Views**
 
@@ -71,17 +68,15 @@ different coaches.
 
 That was one of my foundational goals in the creation of Tennisplayer.
 To include as many credible voices as possible. Just look at the Famous
-Coaches section ([Click
-Here](https://www.tennisplayer.net/members/famouscoach/famouscoach.html)).
-Or look at the Classic Lessons section ([Click
-Here](https://www.tennisplayer.net/members/classiclessons/classiclessons.html)).
+Coaches section ([link](https://www.tennisplayer.net/members/famouscoach/famouscoach.html)).
+Or look at the Classic Lessons section ([link](https://www.tennisplayer.net/members/classiclessons/classiclessons.html)).
 Dozens and dozens of reality based articles from great, smart coaches.
 
 But that's different from the profusion we see on You Tube. **[Most of
 the new internet experts haven't done the research to back up their
 claims and don't have much if any experience in coaching or developing
 players or helping established players correct technical
-problems.]{.mark}**
+problems.]**
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -92,7 +87,7 @@ confidence](media_the-myth-of-the-dog/media/image3.webp)
 **[Instead they look at one or two clips---usually from practice\--and
 generalize, and those theories usually do harm not good. But it's all
 free! Yes, and there is usually correlation between cost and actual
-value.]{.mark}**
+value.]**
 
 I have filmed hours and hours of pro practice myself. I can tell you
 there can be a huge difference between what players do on practice
@@ -138,7 +133,7 @@ necessary to have a great forehand? No it is not.
 
 **Ambiguity**
 
-[So how is this article so far for ambiguity and confusion?]{.mark}
+[So how is this article so far for ambiguity and confusion?]
 
 Why so? Because the angle of the racket face in the backswing is not
 some core or basic requirement. It's a varied consequence of backswing
@@ -195,7 +190,7 @@ confidence](media_the-myth-of-the-dog/media/image6.webp)
 height.**
 
 [But Roger definitely pats the dog to some degree on most balls. The
-reality is he does it to different degrees at different times.]{.mark}
+reality is he does it to different degrees at different times.]
 
 At maximum pat on any given ball, the racket can be closed at a wide
 range of angles. Typically there is more pat when the ball is lower and
@@ -227,17 +222,17 @@ pat.**
 ***[The underlying question really is why any pat occurs at all. The
 answer has to do with the nature of backswings and how the arm rotates
 in the shoulder joint and what that means in the stroke and how it
-contributes to racket speed.]{.mark}***
+contributes to racket speed.]***
 
 How does it all work? Roger hits a straight arm forehand on almost all
 of his forehands. When Roger straightens out his arm as the backswing
 descends, look at his forearm. ***[At the start of the descent, the top
 of the forearm basically points to the sky and the underside to the
-court.]{.mark}***
+court.]***
 
 From this position***[, his entire arm and the racket then rotate
 backwards or clockwise as a unit from the shoulder joint. Technically
-that backward rotation is called external shoulder rotation.]{.mark}***
+that backward rotation is called external shoulder rotation.]***
 
 ***This backward rotation is then immediately followed by the forward
 or counter clockwise rotation of the arm and racket in the forward
@@ -247,7 +242,7 @@ other.***
 
 Guess what? ***[The first rotation, backwards or the external rotation,
 pre stretches the muscles and, to use another trendy term, creates a
-stretch shorten cycle.]{.mark}***
+stretch shorten cycle.]***
 
 This in turn increases the force the muscles can generate in the second
 rotation, the forward internal rotation in the forward swing. This adds
@@ -255,8 +250,7 @@ what Brian Gordon has called a turbo charge effect. The combination of
 these rotations, according to Brian, work together to generate extra
 racket speed the same way they do on the serve. (If you really want to
 understand this technically, read Brian's brilliant articles in the
-Biomechanics section. [Click
-Here](../Biomechanics/Science%20of%20Biomechanics%20TOC.docx).)
+Biomechanics section. [link](../Biomechanics/Science%20of%20Biomechanics%20TOC.docx).)
 
 ![A person playing tennis Description automatically
 generated](media_the-myth-of-the-dog/media/image8.webp)
@@ -283,7 +277,7 @@ even though I was trying to stay perfectly on edge.
 
 There was a natural, partial dog pat. Why? **[Because players feel what
 tends to make the racket go faster and they tend to do those things
-unconsciously.]{.mark}**
+unconsciously.]**
 
 You can see the same thing---a slightly closed racket face---in the
 forehands of Delpo and Serena. But that's not the same as an
@@ -299,15 +293,14 @@ confidence](media_the-myth-of-the-dog/media/image9.webp)
 
 ***[So is there a way to automatically create the right amount of dog
 pat in your forehand without having to think about it? Yes. This is the
-genius of the ATP forehand model created by Brian Gordon.]{.mark}***
+genius of the ATP forehand model created by Brian Gordon.]***
 
 The key is the outside backswing position he devised, popularized by
 Rick Macci, when those two began working together several years ago.
 This backswing position is what Rick calls \"tap the dog.\" ***The
 racket goes back and up and slightly to the outside with the face
 slightly closed, say at about 30 degrees to the court surface at
-most.*** ([Click
-Here](https://www.tennisplayer.net/members/high_performance/rick_macci/develop_atp_forehand/).)
+most.*** ([link](https://www.tennisplayer.net/members/high_performance/rick_macci/develop_atp_forehand/).)
 
 ***From there Rick tells players to straighten out the arm and then
 just pull the racket forward and hit the ball! The right amount of pat
@@ -334,10 +327,8 @@ configuration and backswing.**
 Novak sets up the external or backward arm rotation differently, by
 pointing the racket tip almost directly forward toward the opponent
 early in the backswing. (To understand the differences in the two basic
-hitting arm positions, [Click
-Here](https://www.tennisplayer.net/members/avancedtennis/john_yandell/your_forehand_and_the_modern_forehand/hitting_arm_positions/your_forehand_and_the_modern_forehand_hitting_arm_positions.html)
-for the double bend. [Click
-Here](https://www.tennisplayer.net/members/avancedtennis/john_yandell/your_forehand_and_the_modern_forehand/hitting_arm_positions/your_forehand_and_the_modern_forehand_straight_elbow_arm_position.html)
+hitting arm positions, [link](https://www.tennisplayer.net/members/avancedtennis/john_yandell/your_forehand_and_the_modern_forehand/hitting_arm_positions/your_forehand_and_the_modern_forehand_hitting_arm_positions.html)
+for the double bend. [link](https://www.tennisplayer.net/members/avancedtennis/john_yandell/your_forehand_and_the_modern_forehand/hitting_arm_positions/your_forehand_and_the_modern_forehand_straight_elbow_arm_position.html)
 for the straight arm.)
 
 Novak's backswing isn't as compact as Federer's, but when he rotates
@@ -352,8 +343,7 @@ the key to patting the dog is to forget you even have heard that term.
 Never mention it again, especially in an online message board post.
 
 The issue is exactly the same as my last article on the \"Myth of Lag
-and Snap.\" ([Click
-Here](https://www.tennisplayer.net/members/avancedtennis/john_yandell/the_myth/the_myth_of_lag_and_snap/).)
+and Snap.\" ([link](https://www.tennisplayer.net/members/avancedtennis/john_yandell/the_myth/the_myth_of_lag_and_snap/).)
 Players think they see what the pros do, then torture themselves trying
 to manipulate what should be automatic, consequential movements.
 
@@ -361,10 +351,8 @@ to manipulate what should be automatic, consequential movements.
 correctly and swing forward correctly all that craziness will or will
 not happen on its own at the right time as a result of having simple,
 underlying fundamentals.*** Just check out Scott
-Murphy's two articles on forehand preparation ([Click
-Here](https://www.tennisplayer.net/members/classiclessons/scott_murphy/scott_murphy_forehand_preparation_images/scott_murphy_forehand_preparation.html))
-and on forehand completion ([Click
-Here](https://www.tennisplayer.net/members/classiclessons/scott_murphy/scott_murphy_forehand_completion_images/scott_murphy_forehand_completion.html)).
+Murphy's two articles on forehand preparation ([link](https://www.tennisplayer.net/members/classiclessons/scott_murphy/scott_murphy_forehand_preparation_images/scott_murphy_forehand_preparation.html))
+and on forehand completion ([link](https://www.tennisplayer.net/members/classiclessons/scott_murphy/scott_murphy_forehand_completion_images/scott_murphy_forehand_completion.html)).
 
 ![A person playing tennis Description automatically
 generated](media_the-myth-of-the-dog/media/image11.webp)
@@ -384,7 +372,7 @@ depending on the ball.
 
 ***[Now visualize the extension point. Wrist at eye level. Racket hand
 across the body even with the edge of the left side of the torso. Great
-spacing between the racket hand and the body.]{.mark}***
+spacing between the racket hand and the body.]***
 
 Swing to the image of that position. You won't even know if you pat the
 dog, or how much. And it won't matter. But you will if you need to.

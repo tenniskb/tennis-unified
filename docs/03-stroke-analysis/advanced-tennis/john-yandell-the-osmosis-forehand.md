@@ -69,12 +69,11 @@ different format, combining my verbal commentary and analysis with the
 actual footage we used during the clinic in Indian Wells. Just click on
 the pciture below to get it started. It's almost as good as being at
 the Osmosis Clinic yourself. Well, not really if you read the report
-([Click
-Here](http://www.tennisplayer.net/members/notes_on_tour/john_yandell/osmosis_report/osmosis_report.html)),
+([link](http://www.tennisplayer.net/members/notes_on_tour/john_yandell/osmosis_report/osmosis_report.html)),
 but still, pretty powerful.
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![](media_john-yandell-the-osmosis-forehand/media/image3.wmf)
+  ![link](media_john-yandell-the-osmosis-forehand/media/image3.wmf)
   ------------------------------------------------------------------------------------------------------------------------------------------------------
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------

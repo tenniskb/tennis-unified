@@ -14,7 +14,7 @@ course tossing the ball too high causes other problems with timing,
 rhythm and control. So what is the ideal height for most players? You
 might be surprised by the concept presented in this video.
 
-![](media_develop-the-ideal-ball-toss-height/media/image1.wmf)
+![link](media_develop-the-ideal-ball-toss-height/media/image1.wmf)
 
 ![A person smiling for the camera](media_develop-the-ideal-ball-toss-height/media/image2.jpeg)
 

@@ -8,16 +8,14 @@
 
 In the last article we looked at some of the underlying principles of
 muscle mechanics in our teaching system, based on quantitative
-biomechanical analysis ([Click
-Here](https://www.tennisplayer.net/members/biomechanics/brian_gordon/atp_backhand_part_02/index.html).)
+biomechanical analysis ([link](https://www.tennisplayer.net/members/biomechanics/brian_gordon/atp_backhand_part_02/index.html).)
 Now in the next two articles, let's see how these principles apply in
 creating our two handed backhand teaching model, what we have called the
 Type 3 or ATP style two-hander.
 
 The Type 3 or ATP style two-hander, as we saw is one of three general
 technical styles ranging from junior and club tennis all the way to the
-top of the game. ([Click
-Here](https://www.tennisplayer.net/members/biomechanics/brian_gordon/atp_backhand_part_01/index.html).)
+top of the game. ([link](https://www.tennisplayer.net/members/biomechanics/brian_gordon/atp_backhand_part_01/index.html).)
 
 In this article let's look first at the critical elements of the
 backswing: the take back and the dynamic slot. Specifically what is the
@@ -44,7 +42,7 @@ racket mass away from the trunk.**
 
 **[The key point is to see how the hand path in the backswing is
 relatively low and moves somewhat away from his body to what we call the
-outside.]{.mark}** **This take back path is a one-piece backswing. It
+outside.]** **This take back path is a one-piece backswing. It
 ends with the arms and racquet extended very far back (towards the back
 fence). Yet the arms and racquet are still on the hitting side (left) of
 the body.** By one-piece I mean the hand path is
@@ -83,8 +81,7 @@ aggressive pelvic rotation, and this in turn leads to an aggressive
 upper trunk rotation. This sequence of events is critical and allows the
 muscles of the torso to work in more optimal conditions This is an
 example of the \"force-velocity\" optimization achieved by segmental
-sequencing addressed in the previous article. ([Click
-Here](The%20ATP%20Two%20Handed%20Backhand%20-%20Optimizing%20the%20Muscles.docx).)
+sequencing addressed in the previous article. ([link](The%20ATP%20Two%20Handed%20Backhand%20-%20Optimizing%20the%20Muscles.docx).)
 
 Now watch what happens to the arm as the upper torso starts to turn.
 Because the arms and racquet are extended so far behind the torso, when
@@ -113,12 +110,12 @@ This effect can be quite powerful.
 ***[To prove this to yourself, have another player hold your arm back
 and then release it when your trunk starts to turn. When the arm is
 released, you will feel it snap right through. Literally, the arm will
-pull through with minimal conscious muscular contraction.]{.underline}*
+pull through with minimal conscious muscular contraction.]*
 [\<\<To make this on any shot, do the same pre-tension with the
 non-hitting arm behind the body and the non-hitting hand keeping the
-racket on the throat\>\>]{.mark}**
+racket on the throat\>\>]**
 
-**[To repeat and summarize:]{.underline}** it is possible to optimize
+**[To repeat and summarize:]** it is possible to optimize
 the pulling capabilities of the right (bottom) arm by stretching the arm
 far back (toward the back fence) in a one-piece backswing. This will
 position as much mass as far away from the body as possible regardless
@@ -131,8 +128,7 @@ aggressively by the torso, plus independent motion of the bottom arm.
 And this independent motion of the arms is the cornerstone of the Type 3
 swing. This means that the arms will be accelerated through the torso
 rotation to a contact position very forward of the body compared to the
-other backhand types as discussed in the first article. ([Click
-Here](The%20ATP%20Two%20Handed%20Backhand%20-%20The%203%20General%20Types.docx).)
+other backhand types as discussed in the first article. ([link](The%20ATP%20Two%20Handed%20Backhand%20-%20The%203%20General%20Types.docx).)
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -184,8 +180,7 @@ force is applied, the racquet will tend to rotate (or flip) downward and
 laterally back.
 
 For those who followed the forehand series this chain of events sounds
-very familiar. This is of course the dynamic slot. ([Click
-Here](Developing%20an%20ATP%20Forehand%20-%20Part1.docx).)
+very familiar. This is of course the dynamic slot. ([link](Developing%20an%20ATP%20Forehand%20-%20Part1.docx).)
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -207,12 +202,12 @@ the force applied by pulling with the bottom arm initiates the flip, it
 is the top arm shoulder internal rotators that are the target of the
 muscular enhancement. **[The first difference is that with the two
 hander, the bottom arm wrist is allowed to flex as that arm is pulling.
-This is necessary to create the flip.]{.mark}**
+This is necessary to create the flip.]**
 
 **[At the same time, in order for the flip to externally rotate the
 upper part of the top arm to the greatest extent (thereby allowing
 pre-tension of the internal shoulder rotators), the top arm must be
-straight.]{.mark}** Recall that at the end of the backswing that elbow
+straight.]** Recall that at the end of the backswing that elbow
 on that top arm is set at about 150 degrees or 30 degrees flexed.
 
 There seem to be two approaches to creating the straight arm. In some
@@ -232,7 +227,7 @@ bottom arm is fully stretched back at the end of the backswing the
 bottom hand is relatively stable at the initiation of the pull. Because
 of this, the left hand can push effectively against the right to enhance
 the racquet rotation into the flip. This is known as a [\"couple\"
-effect in mechanics.]{.underline}]{.mark}**
+effect in mechanics.]]**
 
 This latter approach is the one I teach working with my players at our
 academy. With this approach, the speed of the flip is increased.
@@ -319,8 +314,8 @@ those who follow high-level tennis -- stay tuned.
 |  | knowledge across the entire range of tennis performance. |
 |  |  |
 |  | To visit his website, [**[Click |
-|  | Here!]{.underline}**](https://tennisperformanceresearch.com/) |
+|  | Here!]**](https://tennisperformanceresearch.com/) |
 |  |  |
 |  | Top contact him directly, [**[Click |
-|  | Here!]{.underline}**](mailto:gamabrian@icloud.com) |
+|  | Here!]**](mailto:gamabrian@icloud.com) |
 

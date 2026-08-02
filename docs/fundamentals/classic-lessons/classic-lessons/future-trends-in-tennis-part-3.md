@@ -4,8 +4,7 @@
 
 In the last article I looked at the concept of what I call
 \"ambiplayers\" and what their strokes might look like now and in the
-future. ([Click
-Here](https://www.tennisplayer.net/members/classiclessons/chris_lewit/future_trends/part_2).)
+future. ([link](https://www.tennisplayer.net/members/classiclessons/chris_lewit/future_trends/part_2).)
 Now let's turn to the issue of advances in technology in several areas,
 starting with so-called smart courts.
 
@@ -97,10 +96,8 @@ understanding of the game at all levels by allowing us to see key
 moments in strokes that are literally invisible to the human eye. The
 work of pioneers like John Yandell and Brian Gordon have busted myths
 and heralded a new era in technical development. You can find extensive
-articles on Tennisplayer from John ([Click
-Here](https://www.tennisplayer.net/members/avancedtennis/)) and from
-Brian ([Click
-Here](https://www.tennisplayer.net/members/biomechanics/).)
+articles on Tennisplayer from John ([link](https://www.tennisplayer.net/members/avancedtennis/)) and from
+Brian ([link](https://www.tennisplayer.net/members/biomechanics/).)
 
 These trends will continue unabated and coaches will become more
 educated and knowledgeable about biomechanics and stroke design. For
@@ -108,7 +105,7 @@ example Brian is now beta testing a new 3D measurement system that may
 give precise quantitative data without attaching markers to players,
 making it possible to measure strokes in actual match play.
 
-![](media_future-trends-in-tennis-part-3/media/image5.webp)
+![link](media_future-trends-in-tennis-part-3/media/image5.webp)
 
 **High speed allows us to see key positions in strokes that are invisible to the naked eye.Tagging**
 
@@ -127,8 +124,7 @@ the future.
 For coaches, analytics will be used more prominently in working with
 players and helping them master their best patterns of play on the
 practice court and at tournaments. Tennis Analytics under the direction
-of Warren Pretorius is the leader in the field ([Click
-Here](https://www.tennisanalytics.net/)), and I know John is planning a
+of Warren Pretorius is the leader in the field ([link](https://www.tennisanalytics.net/)), and I know John is planning a
 series of future articles on Tennisplayer on how match tagging works and
 its potential benefits.
 
@@ -178,7 +174,6 @@ could happen!
 The predictions in this article are meant to provoke thought and
 discussion. I look forward to getting feedback and other ideas from the
 Tennisplayer community at large. Please share your own predictions in
-the Forum. ([[Click
-Here](https://www.tennisplayer.net/bulletin/forum/tennisplayer/79288-future-trends-in-tennis-part-2?view=stream).)
+the Forum. ([[link](https://www.tennisplayer.net/bulletin/forum/tennisplayer/79288-future-trends-in-tennis-part-2?view=stream).)
 
 ![A person hitting a ball with a tennis racket](media_future-trends-in-tennis-part-3/media/image7.jpeg)

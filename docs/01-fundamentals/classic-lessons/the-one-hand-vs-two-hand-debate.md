@@ -113,8 +113,7 @@ better off with a one-hander.
 
 Or a player may simply have always wanted a flowing one-handed
 shot---and a coach has to respect that desire. (Robert Lansdorp makes
-the same point, [Click
-Here](https://www.tennisplayer.net/members/famouscoach/robert_lansdorp_interviews/1_hand_versus_2_hand/index.html).)
+the same point, [link](https://www.tennisplayer.net/members/famouscoach/robert_lansdorp_interviews/1_hand_versus_2_hand/index.html).)
 But generally, I believe what is more natural for a kid biomechanically
 takes the developmental priority over future game style concerns or
 personal desire.

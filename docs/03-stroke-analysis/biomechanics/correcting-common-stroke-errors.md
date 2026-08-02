@@ -10,7 +10,7 @@ coach for the last 20 years. And we're going to talk about how you can
 correct them, by simplifying your strokes. If you can simplify your
 strokes and start making fewer
 
-![](media_correcting-common-stroke-errors/media/image1.wmf)
+![link](media_correcting-common-stroke-errors/media/image1.wmf)
 
 **Click Photo to listen to Dr. Jack talk about the significance of
 errors. Y ou're going to enjoy yourself even more on the court.**
@@ -55,11 +55,11 @@ of the common errors I see come from.**
 
 **[[Tennis is not really a sport you play with your hand. Tennis is a
 lower body sport, and a sport played with the larger body
-segments.]{.mark} *[The role of the hand in the strokes is mostly to
+segments.] *[The role of the hand in the strokes is mostly to
 control the racquet face, not to provide power. Power comes from the
 larger body parts, the legs, the hips and the trunk. If you can simplify
 your strokes and use all your body segments correctly, you will
-dramatically reduce your errors.]{.mark}*]{.underline}**
+dramatically reduce your errors.]*]**
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -72,18 +72,18 @@ confidence](media_correcting-common-stroke-errors/media/image4.webp)
 **[One of the easiest ways to simplify your strokes is to watch how good
 players prepare for and then execute their groundstrokes. Here is the
 key. Notice how I am preparing with my whole body, not just my hand and
-arm]{.mark}**. ***When you prepare with your body, your arm just comes
+arm]**. ***When you prepare with your body, your arm just comes
 along for the ride. It's a very rhythmic, relaxed motion, where
 everything turns as a unit and the hand is used merely to control the
 direction of the racquet. It's a simpler motion that will also produce
 much more power naturally.***
 
 **[Some players prepare by moving their shoulders just a little bit and
-then their arm takes over.]{.underline} [And some players leave their
+then their arm takes over.] [And some players leave their
 shoulders completely out of the process. [When that happens, you
 contract the muscles of the arm and hand to take the racquet back, the
 rhythm between the arm and the body is lost, and the arm will not be
-able to control the racquet nearly as well.]{.mark}]{.underline}**
+able to control the racquet nearly as well.]]**
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -95,8 +95,8 @@ preparation.**
 **Everything should turn smoothly as a unit.**
 **[*[The arm follows the shoulder back and when it finally reaches the
 point where it has overcome the inertia of the arm and racquet, it will
-prepare the racket smoothly and easily.]{.mark}* [So prepare with your
-body.]{.mark}]{.underline}**
+prepare the racket smoothly and easily.]* [So prepare with your
+body.]]**
 
 **The next way to simplify your shots is to learn how to use your
 body's kinetic chain properly.** The body should
@@ -119,12 +119,12 @@ along for the ride.
 
 **[If you leave the large body parts out of the swing, you are forced to
 overcompensate with your arm. Rhythm is lost and you can lose control of
-the racquet face.]{.mark}**
+the racquet face.]**
 
 **[If you have poor timing between your body parts, you'll also
 experience problems in your overall swing. For example, if you try to
 move all your parts at once, your swing will look and feel awkward, and
-your shots won't go where you want them to.]{.mark}**
+your shots won't go where you want them to.]**
 
 ![A person playing tennis Description automatically generated with low
 confidence](media_correcting-common-stroke-errors/media/image6.webp)
@@ -132,8 +132,8 @@ confidence](media_correcting-common-stroke-errors/media/image6.webp)
 **Efficiency generates effortless power.**
 
 **[You'll also have difficulties if all your body parts are used, but
-not completely or sufficiently. As]{.mark} [a result, the shots will
-tend to land short]{.mark}**. By learning to use your body's linked
+not completely or sufficiently. As] [a result, the shots will
+tend to land short]**. By learning to use your body's linked
 system in a precise, rhythmic order, with good timing and with the right
 amount of energy, all of these difficulties can be avoided. And most
 importantly, you'll be using your body's forces as effectively as
@@ -156,7 +156,7 @@ confidence](media_correcting-common-stroke-errors/media/image7.webp)
 **Watch the arm swing overcompensate for the body.**
 
 **[Two of the most common errors I see in the forehand are using just
-the arm to generate power and second, pulling out of the shot.]{.mark}**
+the arm to generate power and second, pulling out of the shot.]**
 Using the arm to generate power is a very common forehand error,
 particularly among beginning players. These are players who have grown
 up believing that tennis is an arm sport, not a body sport.
@@ -170,7 +170,7 @@ control of the racquet face.
 
 **[Correcting this error is actually very easy. You need to learn to
 follow the natural rhythm of your body's linked system and how to use
-your whole body to generate power.]{.mark} *Remember, your arm is the
+your whole body to generate power.] *Remember, your arm is the
 last body part to act.*** First the legs move, then
 the hips, then the trunk and finally the arm. Like any learned motor
 skill, this motion will become second nature once you've practiced it
@@ -235,7 +235,7 @@ confidence](media_correcting-common-stroke-errors/media/image11.webp)
 **Imagine a line drawn between your shoulder pointing at the ball.**
 
 **[When you control your front shoulder and keep that imaginary line
-pointing at the ball, your shot goes where you want it to.]{.mark} *To
+pointing at the ball, your shot goes where you want it to.] *To
 help correct this error, I teach players to imagine a line drawn between
 your shoulders. I teach them to keep that line pointed at the ball at
 all times. So when hitting a one-handed backhand, remember it's point,
@@ -257,7 +257,7 @@ confidence](media_correcting-common-stroke-errors/media/image11.webp)
 lightly.**
 
 **[For many players, the two-handed backhand becomes a very wristy shot
-and it shouldn't be.]{.mark}** Now I know on television you often hear
+and it shouldn't be.]** Now I know on television you often hear
 about great players who disguise their shots and then hit at the last
 second with a flick of the wrist. And I know it sounds intriguing, but I
 believe that if you pick your shot and you hit your shot, you won't
@@ -280,7 +280,7 @@ confidence](media_correcting-common-stroke-errors/media/image12.webp)
 two-hander.**
 
 **[Here are two techniques to help players use their hands less in the
-two-handed backhand.]{.underline}**
+two-handed backhand.]**
 
 **The first is to keep your hands very quiet and hold the racquet like
 a feather. If you hold the racquet lightly, you can't generate power
@@ -326,16 +326,16 @@ confidence](media_correcting-common-stroke-errors/media/image14.webp)
 base.**
 
 **[To perform a volley correctly, you first need to understand how to
-move your feet. Your feet form the base of a triangle.]{.underline}** In
+move your feet. Your feet form the base of a triangle.]** In
 the ideal volley, you will turn, step to the top of the triangle, volley
 and then return back to the triangle base.
 
 Watch the footwork and body movements. **You begin in the ready
 position. Step forward to the top of the triangle. [Notice there's no
-movement in the arm yet.]{.underline} Then your shoulder initiates the
+movement in the arm yet.] Then your shoulder initiates the
 forward movement of the racquet. Finally your arm takes over to hit the
 ball in front of your body. [The important thing to remember is that the
-shoulder starts the motion and then the arm kicks in.]{.mark}**
+shoulder starts the motion and then the arm kicks in.]**
 
 If you're in a fast volley situation at the net, you have to set the
 hand first and then turn if you have time. But when time permits, follow
@@ -380,11 +380,11 @@ position.
 **[To help players correct this very common service error, I use this
 simple concept. If you can throw a ball, you can serve a ball, because
 the motions with the hand and arm are not really that
-different.]{.mark}**
+different.]**
 
 **[Take a tennis ball and throw it. Not like a pitcher would throw from
 the mound, but more like a center fielder after catching a pop fly. You
-don't throw over and down, but more upward and outward.]{.underline}**
+don't throw over and down, but more upward and outward.]**
 It's a very natural, easy motion. You simply sweep with the shoulder
 and throw.
 

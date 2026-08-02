@@ -104,7 +104,7 @@ entire hitting arm-hand, forearm and upper arm rotate together to lift
 the ball and generate spin, with the wrist still in the laid back
 position. Note the lack of forward extension after contact. The rotation
 is so extreme that the motion is virtually from right to left rather
-than forward.]{.mark}***
+than forward.]***
 
 So What Does It All Mean? We have seen that the more extreme grips
 definitely have more internal movement in forward swing-more torso

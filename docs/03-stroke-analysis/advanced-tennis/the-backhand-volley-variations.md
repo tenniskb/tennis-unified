@@ -12,7 +12,7 @@ In the last article, we used high speed video from Advanced Tennis
 Research to break down the backhand volley of top players into its
 component parts. We also contrasted these basic components to those in
 the forehand volley, and saw the key similarities and differences.
-[Click Here](The%20Backhand%20Volley.docx)
+[link](The%20Backhand%20Volley.docx)
 
 Now let's look at the full range of backhand volley variations: high
 volleys, low volleys, volleys hit with different levels of spin and
@@ -38,21 +38,20 @@ hitting arm structure.**
 Early in the motion, the players set up the hitting arm position. This
 fundamental shape resembles an Open U**[. The forearm forms the base,
 and the upper arm and the racket form the legs, both angled at roughly
-at 45 degree angle to the forearm.]{.mark}**
+at 45 degree angle to the forearm.]**
 
 **[We also saw that the backswing on the backhand volley was complex,
 involving three distinct movements. The first is the movement of the U
 shape further backward. The second movement is either upward or downward
-depending on the level of the ball.]{.mark}**
+depending on the level of the ball.]**
 
 **[The third movement is the rotation of the entire U shape backwards
-from the front shoulder joint.]{.mark}** When this happens the hitting
+from the front shoulder joint.]** When this happens the hitting
 arm structure tilts back as a unit opening the angle of the racket face.
 This angling of the racket face is the prerequisite for creating
 underspin. This is especially important to understand on the backhand
 volley because as we saw there is often substantially more underspin
-compared to the forehand. ([Click
-Here](http://www.tennisplayer.net/members/mystheavyball/john_yandell/spintest_part2/spintest_part2.html).)
+compared to the forehand. ([link](http://www.tennisplayer.net/members/mystheavyball/john_yandell/spintest_part2/spintest_part2.html).)
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -201,7 +200,7 @@ forward over 90 degrees to the contact. The angle of the swing plane is
 still forward, but it is also angled radically downward. Again the
 player is using the front shoulder muscles to move the racket forward
 and downward at the same time. The actual path is a blend of these two
-diagonals. It's an amazing technical shot.]{.mark}**
+diagonals. It's an amazing technical shot.]**
 
 So there we have the extremes. High balls hit virtually flat with
 minimal backswing and minimal backward rotation of the hitting arm
@@ -252,7 +251,7 @@ the ball being angled upward to clear the net.
 **[Despite these adjustments to deal with the height of the ball, the
 driving motion is still the movement of the hitting arm structure
 forward from the shoulder. It's just that there is less backswing and
-less backward tilt.]{.mark}** You can clearly see the spacing between
+less backward tilt.]** You can clearly see the spacing between
 the hitting arm and the torso increase as the racket moves forward in
 the few frames just before and after contact.
 
@@ -267,7 +266,7 @@ contact point here is higher than Taylor's, at about knee level. Here
 we can see the other extreme in terms of the backswing, and especially
 the rotation of the hitting arm structure backwards. **[Look how Mark
 rotates the arm and racket back in his shoulder joint as a
-unit]{.mark}** opening the racket face. We can see that the face is
+unit]** opening the racket face. We can see that the face is
 virtually parallel to the court.
 
 This variation allows him to hit through the ball with substantial
@@ -330,9 +329,9 @@ This only makes sense if you see it in the context of the unitary
 hitting arm structure. Henman rotates the entire shape to position the
 racket head behind the line of the shot. **[At the same time the hitting
 arm and racket are rotating, Henman is moving them forward, as always,
-by using the front shoulder.]{.underline}** **[Notice that the racket
+by using the front shoulder.]** **[Notice that the racket
 face ends up pointing more or less directly in the direction of the
-shot.]{.mark}**
+shot.]**
 
 You can see exactly the same principle at work on the second down the
 line volley. The rotation is just less extreme. The racket tip starts
@@ -350,13 +349,13 @@ generated](media_the-backhand-volley-variations/media/image11.webp)
 These may seem like radical adjustments, but they are actually much
 easier to make than they may appear once you understand the dynamics of
 the forward swing. If you visualize **[the hitting arm and racket as a
-structure that doesn't really change its internal shape]{.underline}**,
+structure that doesn't really change its internal shape]**,
 then you will instinctively feel **[how to maneuver this structure from
 the shoulder in order to position the racket head. By rotating as a unit
 you can position it to make any possible placement on the court. You can
 rotate it, move it forward, and move it downward all at the same
 time\--and you need to if you want to hit the backhand
-volley.]{.underline}**
+volley.]**
 
 Work to develop the basic elements outlined in the first article and
 then experiment with combining them to create the shot variations. If

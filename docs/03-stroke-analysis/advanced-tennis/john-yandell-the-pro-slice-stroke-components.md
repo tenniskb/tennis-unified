@@ -11,8 +11,7 @@ confidence](media_john-yandell-the-pro-slice-stroke-components/media/image1.webp
 In the first article in this series, we looked at the astounding levels
 of spin on the pro slice backhand. We determined that slice backhands
 were actually spinning as fast, and usually faster, than even the
-fiercest topspin forehands. ([Click
-Here](John%20Yandell-The%20Pro%20Slice-Spin%20Levels.docx).)
+fiercest topspin forehands. ([link](John%20Yandell-The%20Pro%20Slice-Spin%20Levels.docx).)
 
 Looking at dozens of examples, we found Federer and Nadal both averaged
 over 3500rpm. This is an even higher average spin rate than Nadal's
@@ -29,7 +28,7 @@ forehand.
 
 Which all leads to the next question - **[how does this spin happen?
 Let's break down the pro slice backhand into its technical
-components.]{.underline}** Let's see how Roger and Rafa do it, what
+components.]** Let's see how Roger and Rafa do it, what
 Novak does, and how they are all similar and different.
 
 ![A picture containing text Description automatically
@@ -43,7 +42,7 @@ knuckle determines the grip.
 **Grip**
 
 Grip for the slice can be a controversial issue, similar to what we saw
-in discussing the volleys ([Click Here](The%20Forehand%20Volley.docx)).
+in discussing the volleys ([link](The%20Forehand%20Volley.docx)).
 Let's use our trusty grip system again to see how this works.
 
 This system lays out the 8 bevels of the racket handle, and the two key
@@ -167,8 +166,7 @@ Interestingly, Djokovic's forehand grip is as extreme as Nadal's. But
 he waits in a position that is much closer to Federer, something like an
 eastern forehand grip with the index knuckle on bevel 3. This may help
 explain why even with his extreme forehand his slice grip is closer to
-Roger's. ([Click
-Here](John%20Yandell-Novak%20Djokovic's%20Forehand-A%20new%20Synthesis.docx)
+Roger's. ([link](John%20Yandell-Novak%20Djokovic's%20Forehand-A%20new%20Synthesis.docx)
 for more on Djokovic's forehand grip and his forehand in general.)
 
 It's got to be easier to make all the grip shifts, to the forehand,
@@ -188,11 +186,10 @@ generated](media_john-yandell-the-pro-slice-stroke-components/media/image11.webp
 **[Regardless of the starting position, the players all start to shift
 to their slice grips during the start of the motion. This is what we
 call the unit turn, the sideways turning of the torso and
-feet.]{.mark}**
+feet.]**
 
 As with the other groundstrokes, the unit turn on the slice can start
-with a wide variety of step combinations. ([Click
-Here](John%20Yandell-Novak%20Djokovic's%20Forehand-Start%20of%20the%20Preparation.docx).)
+with a wide variety of step combinations. ([link](John%20Yandell-Novak%20Djokovic's%20Forehand-Start%20of%20the%20Preparation.docx).)
 Unlike the other groundies, on the slice the players also start to raise
 their hands and racket upward. This makes sense when we see how high the
 racket eventually reaches at the top of the backswing.
@@ -205,8 +202,7 @@ timing of the preparation.
 
 But the shoulders continue to turn significantly further after the
 bounce, going up to another 30 degrees or so when they are fully turned.
-This is similar to the one-handed topspin backhand. ([Click
-Here](The%20One%20Handed%20Topspin%20Backhand.docx).)
+This is similar to the one-handed topspin backhand. ([link](The%20One%20Handed%20Topspin%20Backhand.docx).)
 
 ![A person hitting a ball with a tennis racket Description automatically
 generated](media_john-yandell-the-pro-slice-stroke-components/media/image12.webp)
@@ -227,8 +223,7 @@ topspin drive and is related to the shoulder turn. If you draw a line
 across the tips of the feet, you'll see that it is roughly parallel to
 a line across the shoulders. The shoulders turn 30 to 45 degrees past
 perpendicular to the net, and the line across the feet is parallel and
-along this same angle. ([Click
-Here](The%20One%20Handed%20Topspin%20Backhand.docx).)
+along this same angle. ([link](The%20One%20Handed%20Topspin%20Backhand.docx).)
 
 **Although players have less total body rotation on the one-hander
 than the two-hander or the forehand, the closed stance and the line of
@@ -288,10 +283,10 @@ of the shaft of his racket to the baseline is also much less, more like
 This difference seems to be at least partially related to contact
 height. **[Both Roger and Rafa often answer high topspin with slice.
 This means that on some balls they make contact at shoulder level or
-even slightly above, and many are at the mid chest level.]{.mark}**
+even slightly above, and many are at the mid chest level.]**
 
 **[Djokovic on the other hand hits slice predominantly on lower balls,
-waist level or a little higher at the highest.]{.mark}** He seems more
+waist level or a little higher at the highest.]** He seems more
 likely to answer slice with slice than to try to use slice to neutralize
 topspin. This is certainly consistent with his lower spin rate averages.
 
@@ -310,7 +305,7 @@ confidence](media_john-yandell-the-pro-slice-stroke-components/media/image15.web
 slice backhands.**
 
 ***[This is the shape of the hitting arm prior to contact. It's
-straight.]{.mark}*** This straight arm hitting structure is critical,
+straight.]*** This straight arm hitting structure is critical,
 just as we saw on the topspin backhand.
 
 There are differences however in when the players reach this position.
@@ -340,10 +335,8 @@ elbow.** Other than that, it's not a problem.
 
 For the club player I highly recommend two other great articles that
 talk about the key elements on the slice and the arm postion, the first
-by Scott Murphy ([Click
-Here](https://www.tennisplayer.net/members/classiclessons/scott_murphy/scott_murphy_backhand_slice_images/scott_murphy_backhand_slice.html))
-and the other by Trey Waltke ([Click
-Here](https://www.tennisplayer.net/members/classiclessons/trey_waltke/the_slice_backhand/the_slice_backhand.html)).
+by Scott Murphy ([link](https://www.tennisplayer.net/members/classiclessons/scott_murphy/scott_murphy_backhand_slice_images/scott_murphy_backhand_slice.html))
+and the other by Trey Waltke ([link](https://www.tennisplayer.net/members/classiclessons/trey_waltke/the_slice_backhand/the_slice_backhand.html)).
 
 **Swing Plane**
 
@@ -371,7 +364,7 @@ the stance to roughly sideways at contact. Obviously this rotation is
 contributing somewhat to the motion toward contact.
 
 **[But most of the downward and forward movement of the hitting arm
-comes from the front shoulder.]{.mark}** Watch how the players use the
+comes from the front shoulder.]** Watch how the players use the
 front shoulder muscles. The hitting arm and racket are something like a
 gate on the hinge of the shoulder. This movement from the shoulder is
 what brings the hitting arm structure around, forward and down.
@@ -379,7 +372,7 @@ what brings the hitting arm structure around, forward and down.
 Notice as this happens how the elbow starts to straighten out. **[A
 common mistake here at the club level is to pull the elbow forward as
 the hitting arm is coming down. This makes achieving the straight arm
-hitting position impossible.]{.mark}**
+hitting position impossible.]**
 
 It also causes the front shoulder to over rotate. The end result is late
 contact with the hitting arm still bent. That's a recipe for a bad
@@ -426,7 +419,7 @@ high to low.
 **Sideways Component**
 
 But there is another radical element, that is as surprising, maybe more
-surprising. **[And this is the sideways motion in the swing.]{.mark}**
+surprising. **[And this is the sideways motion in the swing.]**
 
 Watch how far to the player's right the racket moves after contact (to
 the left obviously for Nadal.) The swing actually appears to make
@@ -452,8 +445,7 @@ slice? That is going to have to await further analysis, but we can
 imagine that on a slice backhand spinning at 3500rpm, the sidespin
 component is significant, I'm thinking sometimes as much as 30
 percent - similar to the maximum topspin component in a spin serve.
-([Click
-Here](https://www.tennisplayer.net/members/mystheavyball/john_yandell/speed_and_spin/speed_and_spin.html).)
+([link](https://www.tennisplayer.net/members/mystheavyball/john_yandell/speed_and_spin/speed_and_spin.html).)
 
 The slice swing path - radically downward and radically sideways at the
 same time\--helps explain one aspect that appears quite odd when you
@@ -469,7 +461,7 @@ balls.
 On a large percentage of all pro slice backhands, the racket tip
 actually points directly downward at the court all the way into the
 followthrough. **[This means the shaft of the racket is literally at a
-90 degree angle to the court surface.]{.mark}**
+90 degree angle to the court surface.]**
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -581,7 +573,7 @@ rotation after contact.**
 This is related to the movement of the back arm. **[In general on any
 one-handed backhand, whether a drive or slice, the arms oppose in the
 forward swing. That is, the back arm moves backwards as the hitting arm
-swings forward through the ball.]{.mark}**
+swings forward through the ball.]**
 
 However, with our three players we can again see a range of movement
 with the rear arm. This also seems to correlate with how far the torso

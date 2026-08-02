@@ -38,8 +38,8 @@ how it never breaks down in the course of the motion.
 |  |  |
 | Let's look first at the preparation. |  |
 |  |  |
-| To execute the basic **one handed backhand volley**, **[your first reaction is a hip and shoulder turn so that your body is facing the point of contact.]{.underline}** |  |
-| **[The first move is [with the feet and the torso]{.underline}, not the racket.]{.mark} With the help of your opposite hand on the throat of the racquet**, **you |  |
+| To execute the basic **one handed backhand volley**, **[your first reaction is a hip and shoulder turn so that your body is facing the point of contact.]** |  |
+| **[The first move is [with the feet and the torso], not the racket.] With the help of your opposite hand on the throat of the racquet**, **you |  |
 | prepare the racquet head so that it is positioned back near your opposite shoulder.** You want to **avoid taking the racquet head too far |  |
 | back, getting it behind your body in your preparation.** |  |
 |  |  |
@@ -131,14 +131,14 @@ Depending on the situation, you can create angle volleys two different
 ways.
 
 1.  When the ball is well within your reach, **[by moving your contact
-    point forward and making contact earlier]{.underline}**, you can
+    point forward and making contact earlier]**, you can
     position the racquet face at the desired angle to create the shot.
 
 **\<\<Using shoulder turn and legs drive to generate the
 momentum\>\>**
 
 2.  Or you can **[create the angle in the racquet face by changing your
-    wrist position,]{.underline}** a technique you must learn to be able
+    wrist position,]** a technique you must learn to be able
     to angle on the full reaching lunge volleys. When the ball is nearly
     out of reach, the opposite arm will separate early to help maintain
     upper body control and balance as you reach beyond your stance.
@@ -166,7 +166,7 @@ ball, keeping your wrist position firm to achieve
 depth.**
 
 ***[Remember, the opponent has you in a forcing situation. Don't rush
-through it or you will increase your risk of error.]{.mark}***
+through it or you will increase your risk of error.]***
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -205,8 +205,8 @@ floater and you need to add some pop to fill the opening in the court,
 you prepare the butt of the racquet so that it points more upward
 towards contact.** **[[The forward action begins by
 driving the butt of the racquet forward and down, sending the racquet
-face up into contact as]{.mark} [you maintain the L shaped position of
-leverage in your wrist.]{.mark}]{.underline}**
+face up into contact as] [you maintain the L shaped position of
+leverage in your wrist.]]**
 
 ![A person playing tennis Description automatically generated with
 medium

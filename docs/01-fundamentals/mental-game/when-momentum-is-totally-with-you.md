@@ -103,7 +103,7 @@ mean you are five times better than your opponent! In fact at 5-1, the
 Momentum may have already shifted in his favor.
 
 **[Understand the scoring system (it isn't football or what you
-Americans call soccer).]{.underline}**
+Americans call soccer).]**
 
 If this was a football (or soccer) match and the score was 5-1, then the
 team in the lead would be easing off, attempting to keep free from
@@ -214,10 +214,10 @@ cushion.**
 **[[You can use the cushion of a lead to try and kill off the match if
 it's getting near the end. Or if it's not near the end, you may step
 up and play so well that your opponent thinks you are invincible, which
-in turn may have a big effect on the outcome of the match.]{.mark} [He
+in turn may have a big effect on the outcome of the match.] [He
 may give up more quickly. Some players make it a policy to step up every
 time they have created some daylight between them and their opponent for
-just this reason.]{.mark}]{.underline}**
+just this reason.]]**
 
 **Tactically, you can afford to gamble a little. You can go for it -
 take the ball earlier, hit big returns off first serves, serve and
@@ -268,7 +268,7 @@ confidence](media_when-momentum-is-totally-with-you/media/image9.jpeg)
 
 Alistair Higham is the National Manager of Coach Development for the
 LTA, the governing body for tennis in Great Britain. He is the author of
-[Momentum: The Hidden Force in Tennis]{.underline}. Alistair is a former
+[Momentum: The Hidden Force in Tennis]. Alistair is a former
 professional player who continues to compete successfully at the highest
 levels of English regional tennis. He has developed and coached dozens
 of top junior players, and traveled extensively on the international
@@ -288,5 +288,5 @@ own professional career, this book will give you the perspective and the
 tools to create momentum in your own matches and deal with the critical
 turning points that are the difference between winning and losing.
 
-[Click Here to
+[ to
 Order!](http://www.1st4sport.com/1st4sportsite/product/1st4Sport/Tennis/Tennis/sports/Sports/B60401.htm)

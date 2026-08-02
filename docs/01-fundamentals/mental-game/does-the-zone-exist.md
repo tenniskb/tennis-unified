@@ -166,11 +166,11 @@ generated](media_does-the-zone-exist/media/image6.jpg)
 
 Finally, Johnny Miller, winner of over twenty titles on the golf pro
 tour, boils it down to love: **[[\"I think love is the secret. I really
-believe it.\"]{.mark} [\"I think the Zone is really being in harmony
+believe it.\"] [\"I think the Zone is really being in harmony
 with what you're doing. Wanting to do it, wanting to do it for the
 right reasons, not for money or for greed or for power.\" \"If you love
 what you are doing and just can't wait to play, it's going to be
-fun.\"]{.mark}]{.underline}**
+fun.\"]]**
 
 As this sampling establishes, the term Zone itself may border on the
 nebulous. The evidence shows that what we loosely call the Zone can
@@ -185,8 +185,7 @@ generated with low
 confidence](media_does-the-zone-exist/media/image7.jpeg)
 
 Damien Lafont Ph.D. is a pioneer in mental, vision and movement study.
-Based in Melbourne, Australia, Damien is manager of Vida Mind ([Click
-Here](http://www.vidamind.com.au) for more info). He works with athletes
+Based in Melbourne, Australia, Damien is manager of Vida Mind ([link](http://www.vidamind.com.au) for more info). He works with athletes
 and coaches from all sports interested in developing mental skills and
 improving performance. A certified teaching pro, he holds a degree in
 sport science and training as well as a doctorate in physics.
@@ -202,5 +201,5 @@ down into its many components. Ultimately it shows us that reaching the
 Zone is more about freeing our mind from the unnecessary rather than
 learning new techniques and concepts.
 
-[Click Here to
+[ to
 Order!](http://www.amazon.com/Back-Zone-Sport-Inner-Experiences/dp/1891369997/ref=sr_1_2?s=books&ie=UTF8&qid=1409754670&sr=1-2)

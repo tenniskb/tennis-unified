@@ -19,10 +19,10 @@ actions that take the racket to the ball.**
 
 **[I said in the first article that you want a coordinated, fluent
 effort. That you want the hips to rotate. Then you want the shoulders to
-rotate. That you want a leg drive.]{.mark}**
+rotate. That you want a leg drive.]**
 
 **[And you want the arm to externally rotate driving the racket down.
-Next you want the arm to move up towards the ball.]{.mark}**
+Next you want the arm to move up towards the ball.]**
 
 ***So let's so how that happens. There are four actions that are
 important to understand very, very well.***
@@ -79,7 +79,7 @@ from variations in the amount of pronation.***
 
 ***[Pronation will allow you to hit "bite" on the slice. There is no
 question about that. But it's not a big velocity or speed developer
-with reference to the first serve.]{.mark}***
+with reference to the first serve.]***
 
  ![A person holding their hands up in front of a sign Description
 automatically generated with low
@@ -122,7 +122,7 @@ to know how to teach people, that enables you how to notice what is
 happening and to look for errors**.
 
 **[Here's my tip on looking for internal rotation. The key to
-understanding the internal rotation is: where is the ball?]{.mark}**
+understanding the internal rotation is: where is the ball?]**
 
 When I was taught to play tennis, I was taught to hit the ball off the
 right shoulder, so, in other words, all the movement and the throw of
@@ -150,12 +150,12 @@ really don't want to get kids so their back is in hyperextension too
 early in their development. So my advice to you would be, move it a
 little to the right. I don't mind at all if you actually teach, hit it
 off your right shoulder, as long as you then move it back into where you
-want it.]{.mark}***
+want it.]***
 
 **[That's good teaching, and they're decisions that you have to make.
 Remember, if you hit the ball further to the right (right handed player)
 then your trunk will use more twist rotation in the early stages of
-service development.]{.mark}**
+service development.]**
 
 ![A picture containing text, tennis, sport, person Description
 automatically
@@ -252,16 +252,16 @@ Way back in the '80s, when I did my early research on tennis, we showed
 that there is no such thing in tennis as a flat serve\--no such thing.
 
 **[Most people can't hit a flat serve, You can't get the blasted thing
-in the court. You need some forward rotation of the ball.]{.mark}**
+in the court. You need some forward rotation of the ball.]**
 
 **[Here's another benefit of leg drive. It enables you to use an up and
 out hitting action, and that's what creates forward rotation on the
-ball.]{.mark}**
+ball.]**
 
 **[What you want is for your racquet to be moving up to impact. So you
 are hitting up to the ball. As the ball comes down, and you hit up, it
 puts forward rotation on the ball, which allows the ball to be drawn it
-into the court.]{.mark}**
+into the court.]**
 
 ![A picture containing text, hitting, player Description automatically
 generated](media_the-power-serve-part-2/media/image11.webp)
@@ -305,13 +305,13 @@ So that's the key, and that's the way to check it.
 **Summary**
 
 **[So let me finish up. Let's recapitulate on what I have said in my
-Australian language, so I hope that you've understood.]{.mark}**
+Australian language, so I hope that you've understood.]**
 
 **[Firstly, check the legs, the position of the feet. Check where they
 are. Then you know how you're going to modify the service action
 you've got. Look at the leg drive. There are no ifs or buts. You need a
 leg drive. If you haven't got leg drive, you need it because it
-decreases loading. You really do need to do that.]{.mark}**
+decreases loading. You really do need to do that.]**
 
 ![A picture containing text, tennis, sport, court Description
 automatically

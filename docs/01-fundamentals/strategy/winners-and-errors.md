@@ -16,8 +16,7 @@ key to match success.
 
 But wait! Haven't I just spent the last few articles convincing you
 that the key to winning tennis is First Strike points, winning points
-that are decided by serves, returns and at most one more shot? ([Click
-Here](First%20Strike%20Tennis%20-%20All%20Levels.docx).)
+that are decided by serves, returns and at most one more shot? ([link](First%20Strike%20Tennis%20-%20All%20Levels.docx).)
 
 Doesn't that imply that winners in these brief exchanges are the
 essence of successful match play? The answer is no. And here we discover
@@ -25,8 +24,8 @@ the subtlety and the complexity of what really constitutes winning
 tennis in this game we love.
 
 **[[Yes, the majority of points are first strike at all levels, lasting
-less than 4 hits]{.underline}. [But the majority of those 4 hit points
-are decided by errors.]{.underline}]{.mark}**
+less than 4 hits]. [But the majority of those 4 hit points
+are decided by errors.]]**
 
 Is that a paradox? Possibly yes. Is understanding that paradox the key
 to be the best player you can possibly be, reaching your potential, and

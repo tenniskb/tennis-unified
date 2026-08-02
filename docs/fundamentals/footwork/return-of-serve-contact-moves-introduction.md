@@ -9,7 +9,7 @@ source: TennisPlayer.net
 
 **By David Bailey**
 
-![Return of serve setup — player in ready position, eyes tracking the server](../../01-fundamentals/footwork/media_return-of-serve-contact-moves-introduction/media/image1.webp){width="3.3333333333333335in" height="2.5in"}
+![Return of serve setup — player in ready position, eyes tracking the server](../../01-fundamentals/footwork/media_return-of-serve-contact-moves-introduction/media/image1.webp)
 
 *In this series we'll see the Contact Moves for world class returns.*
 
@@ -26,7 +26,7 @@ Across four articles we'll cover the full return-of-serve system:
 
 You can preview the entire range of world-class return contact moves in the video below — I filmed it with two of my students who reached the top 100 in the world.
 
-![Video still showing the range of world-class return contact moves](../../01-fundamentals/footwork/media_return-of-serve-contact-moves-introduction/media/image2.webp){width="3.3333333333333335in" height="2.5in"}
+![Video still showing the range of world-class return contact moves](../../01-fundamentals/footwork/media_return-of-serve-contact-moves-introduction/media/image2.webp)
 
 **Click the video to study the range of world-class return contact moves.**
 

@@ -12,15 +12,13 @@ watching him hit the ball? If he was the only player you could watch, I
 might stop watching pro tennis.
 
 We put up a little inconclusive You Tube video about his forehand in the
-Forum a few months ago. ([Click
-Here](https://www.tennisplayer.net/bulletin/forum/tennisplayer/92720-interactive-forum-march-2021-danill-medvedev-forehand).)
+Forum a few months ago. ([link](https://www.tennisplayer.net/bulletin/forum/tennisplayer/92720-interactive-forum-march-2021-danill-medvedev-forehand).)
 But what You Tube video isn't inconclusive?
 
 But now we have some great high-speed footage that allows us to create a
 comprehensive picture of his forehand. It's not pretty. It violates
 some of the key metrics that other great players share and that we have
-documented over the years. ([Click
-Here](https://www.tennisplayer.net/bulletin/forum/tennisplayer/95792-interactive-forum-november-2021-daniil-medvedev-forehand)
+documented over the years. ([link](https://www.tennisplayer.net/bulletin/forum/tennisplayer/95792-interactive-forum-november-2021-daniil-medvedev-forehand)
 to see a more comprehensive portrait this month in the Interactive
 Forum.)
 
@@ -113,8 +111,7 @@ cramped double bend. The contact point is at most at the front edge of
 the leg and sometimes behind that.
 
 With all that it's not a surprise that his spin levels are around
-2000rpm. That 50 percent or more less than many top players. ([Click
-Here](https://www.tennisplayer.net/members/mystheavyball/john_yandell/modern_heavy_ball)
+2000rpm. That 50 percent or more less than many top players. ([link](https://www.tennisplayer.net/members/mystheavyball/john_yandell/modern_heavy_ball)
 to see the numbers from Jim Fawcette's recent study of pro spin
 levels.)
 

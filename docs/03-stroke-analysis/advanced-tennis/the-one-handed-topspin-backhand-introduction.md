@@ -20,7 +20,7 @@ Becker, to Roger Federer and Richard Gasquet.
 I know that I've been looking forward to turning my attention to this
 gorgeous and misunderstood stroke, to breaking it down into its
 technical components using the Advanced Tennis high speed footage
-([[Click Here]{.underline}](http://www.advancedtennis.com/)), and
+([[]](http://www.advancedtennis.com/)), and
 explaining how to build a great one-handed backhand from the ground up.
 We've got an incredible data base of high speed footage that includes
 over a dozen of the best one-handers in the world, something you won't
@@ -83,8 +83,7 @@ their early teens to hit with one-hand. At least with full size balls
 and rackets. And maybe a revisioning of the junior game is what it would
 take to bring the one-hander back into the mainstream. (On this point,
 see Paul Lubbers second article on player development in this issue.
-[[Click
-Here]{.underline}](http://www.tennisplayer.net/members/high_performance/paul_lubbers/progressive_development_part_2/progressive_development_part_2.html).)
+[[]](http://www.tennisplayer.net/members/high_performance/paul_lubbers/progressive_development_part_2/progressive_development_part_2.html).)
 
 ![A person playing tennis Description automatically
 generated](media_the-one-handed-topspin-backhand-introduction/media/image4.webp)
@@ -100,8 +99,7 @@ strong enough to even try.
 
 The result was that we learned to drive the ball with slice on the model
 of Ken Rosewall. (It's not coincidence that this month we also have a
-great article on the slice drive from my old friend Trey Waltke, [[Click
-Here]{.underline}](http://www.tennisplayer.net/members/classiclessons/trey_waltke/the_slice_backhand/the_slice_backhand.html).)
+great article on the slice drive from my old friend Trey Waltke, [[]](http://www.tennisplayer.net/members/classiclessons/trey_waltke/the_slice_backhand/the_slice_backhand.html).)
 Now at age 50 I'm quite grateful for that. I see a lot of players who
 played with two-hands in the juniors and who are now in their 30s and
 40s, and struggle to hit the two-hander at the same level as the rest of

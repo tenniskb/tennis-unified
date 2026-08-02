@@ -26,8 +26,7 @@ technique also play a role?
 
 There are obvious physical differences between men and women, but one
 movement clearly differentiates male from female players where service
-speed is concerned. This is shoulder internal rotation. ([Click
-Here](../../Stroke%20Analysis/Biomechanics/Internal%20Shoulder%20Rotation%20-%20Key%20to%20serving%20power.docx)
+speed is concerned. This is shoulder internal rotation. ([link](../../Stroke%20Analysis/Biomechanics/Internal%20Shoulder%20Rotation%20-%20Key%20to%20serving%20power.docx)
 for additional explanation of this critical movement.)
 
 Research shows that internal shoulder rotation is the largest
@@ -59,8 +58,7 @@ velocity.
 
 (For an article by John Yandell that experimented with increased
 internal shoulder rotation in a high level female ITF player and the
-effect this had on ball velocity, [Click
-Here](https://www.tennisplayer.net/members/your_strokes/2017/ingrid_neel_serve/).)
+effect this had on ball velocity, [link](https://www.tennisplayer.net/members/your_strokes/2017/ingrid_neel_serve/).)
 
 So what is internal shoulder rotation exactly? It must first be set up
 by the rotation of the arm in the shoulder joint in the opposite
@@ -74,7 +72,7 @@ Internal rotation (IR) occurs during the forward swing to impact.
 Internal rotation then continues into the follow-through. This is the
 motion that most assists the generation of racket speed at impact.
 
-![](media_men-s-versus-women-s-serving/media/image3.jpg)![](media_men-s-versus-women-s-serving/media/image4.jpg)![A picture containing text, clipart
+![link](media_men-s-versus-women-s-serving/media/image3.jpg)![link](media_men-s-versus-women-s-serving/media/image4.jpg)![A picture containing text, clipart
 Description automatically
 generated](media_men-s-versus-women-s-serving/media/image5.jpg)
 
@@ -106,6 +104,5 @@ confidence](media_men-s-versus-women-s-serving/media/image7.jpeg)
 
 Bruce Elliott is a senior research fellow in biomechanics at the
 University of Western Australia. He is the author of the Power Serve
-articles on Tennisplayer [(Click
-Here)](http://www.tennisplayer.net/members/biomechanics/bruce_elliot/BE_Power_Serve_P1/BE_Power_Serve_Part1.pg1.html)
+articles on Tennisplayer [link](http://www.tennisplayer.net/members/biomechanics/bruce_elliot/BE_Power_Serve_P1/BE_Power_Serve_Part1.pg1.html)
 as well as numerous other articles and books on sports biomechanics.

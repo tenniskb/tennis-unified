@@ -23,7 +23,7 @@ the backhand, finish with an angle volley.
 Special thanks to Tyler, Lindsay and Ben Zink for their masterful
 demonstrations of these patterns!
 
-![](media_opening-the-court-part-1/media/image1.png)
+![link](media_opening-the-court-part-1/media/image1.png)
 
   --
 

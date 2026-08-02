@@ -11,7 +11,7 @@ other day is the optimal period to consolidate new muscle memory.
 
 This means practicing on one stroke or shot, trying to hit several
 hundred high level repetitions, and not practicing any other shot.
-([Click Here](Understanding%20Muscle%20Memory%20-%20Part%201.docx) for
+([link](Understanding%20Muscle%20Memory%20-%20Part%201.docx) for
 Part 1). According to the research, this is the time frame and the
 practice routine needed for the brain to undergo functional change.
 
@@ -119,13 +119,13 @@ in developing muscle memory. When one skill set is learned, the
 acquisition and consolidation of the second skill set is easier.
 
 Why? **[Skilled motor tasks, especially in tennis, have an anticipatory
-component that is separate from the motor task itself.]{.mark}** **The
+component that is separate from the motor task itself.]** **The
 ball is coming toward you. You anticipate and calculate the angle,
 trajectory speed, and spin. None of this is a motor action. It is
 cognitive.**
 
 **[The critical aspect is starting the movement at the right time with
-the right focus on the incoming shot.]{.mark}** **And the brain can
+the right focus on the incoming shot.]** **And the brain can
 transfer this new anticipatory knowledge to a different situation that
 was not specifically practiced.**
 
@@ -154,7 +154,7 @@ and my personal experience convince me that this is a powerful process
 that can make a huge difference in your results and your enjoyment of
 tennis.
 
-| ![](media_understanding-muscle-memory-part-2/media/image5.jpeg) | Archie Dan Smith, MD is a retired |
+| ![link](media_understanding-muscle-memory-part-2/media/image5.jpeg) | Archie Dan Smith, MD is a retired |
 | --- | --- |
 |  | physician living in Austin, Texas. Here is |
 |  | how he describes his tennis journey, |

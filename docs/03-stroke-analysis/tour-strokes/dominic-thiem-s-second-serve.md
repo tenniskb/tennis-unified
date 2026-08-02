@@ -12,8 +12,7 @@ generated](media_dominic-thiem-s-second-serve/media/image1.webp)
 **The heavy kick 2nd Serve of Dominic Thiem.**
 
 Last month we took a look at the technical serve motion of Alexander
-Zverev ([Click
-Here](https://www.tennisplayer.net/members/tour_strokes/john_yandell/alexander_zverev_serve))
+Zverev ([link](https://www.tennisplayer.net/members/tour_strokes/john_yandell/alexander_zverev_serve))
 and the missing element that I think is contributing to his second serve
 problems and especially his double faults. Now let's look at the second
 serve of the player who defeated Zverev to win the U.S. Open in 5
@@ -88,8 +87,7 @@ rotation, is the consequence of the racket speed.
 It's interesting because a few years ago in Miami I was filming Dominic
 in practice and ran into his coach at the time, Gunter Bresnick, who
 developed Dominic from a young age and changed him to a one-handed
-backhand. ([Click
-Here](https://www.tennisplayer.net/members/famouscoach/gunther_bresnik/)
+backhand. ([link](https://www.tennisplayer.net/members/famouscoach/gunther_bresnik/)
 for the interview I did with Gunter on that a couple of years prior at
 Indian Wells.)
 
@@ -213,7 +211,7 @@ I also think Federer, is a better second serve model than Dominic on
 another point. This is the landing in the court and the body balance at
 the landing.
 
-![](media_dominic-thiem-s-second-serve/media/image7.webp)
+![link](media_dominic-thiem-s-second-serve/media/image7.webp)
 
 **Dominic lands further in the court with his torso angled more forward
 compared to Federer.**
@@ -230,8 +228,7 @@ deal with the return.
 
 This are just a few points in an unending debate. What do pro players do
 and what should I try to do like them? Like I said Dominic has multiple
-great elements, but some aren't ideal for most players. ([Click
-Here](https://www.tennisplayer.net/members/teaching_systems/john_yandell/second_serve/)
+great elements, but some aren't ideal for most players. ([link](https://www.tennisplayer.net/members/teaching_systems/john_yandell/second_serve/)
 for a detailed article on the second serve I did with Federer as the
 model.)
 
@@ -239,8 +236,7 @@ So there you have it. The amazing second serve of Dominic Thiem and a
 few comparison points that show what to copy and maybe not what to
 copy---all courtesy of amazing Tennisplayer high speed video footage.
 And guess what? You can study his second serve as well as his first in
-that video this month in the High Speed Archives. ([Click
-Here](https://www.tennisplayer.net/members/high_speed_archive/phantom/Dominic_Thiem/).)
+that video this month in the High Speed Archives. ([link](https://www.tennisplayer.net/members/high_speed_archive/phantom/Dominic_Thiem/).)
 
 ![A person smiling for the camera Description automatically generated
 with medium

@@ -463,7 +463,7 @@ second it takes to travel across the length of the court!
 Sampras's ability to generate both velocity and spin on his first serve
 may explain his ability to serve with such great consistency and
 effectiveness, particularly under pressure. (See the Sampras Serve
-series. Click Here.)
+series. )
 
 Petr Korda and Tomas Muster, for example, generated averaged roughly the
 same amount of spin as Sampras on their first serves, ie, 2600 to

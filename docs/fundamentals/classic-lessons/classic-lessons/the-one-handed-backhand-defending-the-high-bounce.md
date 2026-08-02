@@ -19,9 +19,9 @@ simple self-feed drill. A shorter ball but still a steep trajectory?
 Court position can allow you to maintain normal contact height.
 
 This article is a natural complement to the first articles in the
-series. Click Here to see them all.
+series.  to see them all.
 
-![](media_the-one-handed-backhand-defending-the-high-bounce/media/image1.wmf)
+![link](media_the-one-handed-backhand-defending-the-high-bounce/media/image1.wmf)
 
 ![A person smiling for the camera](media_the-one-handed-backhand-defending-the-high-bounce/media/image2.jpeg)
 

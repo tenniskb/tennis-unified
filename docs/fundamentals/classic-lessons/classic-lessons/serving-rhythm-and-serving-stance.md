@@ -16,8 +16,7 @@ more deliberate Phase 1, followed by an explosive Phase 2.
 
 The transition point between the phases is with the tossing arm extended
 and the legs coiled, the point at which the player is ready to launch
-outward and upward to the ball. ([Click
-Here.](1-2%20Rhythm%20-%20The%20Serve.docx))
+outward and upward to the ball. ([link](1-2%20Rhythm%20-%20The%20Serve.docx))
 
 In this article, let's take our analysis a step further. Let's see how
 the development of 1-2 Rhythm is related to the two major types of
@@ -103,8 +102,7 @@ uses a stance with less foot movement than the majority of women pros,
 reaching the transition point with her feet basically in line. And
 interestingly Justine Henin who had a great serve despite her size,
 served with a platform that she modelled on video of Pete Sampras.
-([Click
-Here](http://www.tennisplayer.net/bulletin/showthread.php?t=3193) to see
+([link](http://www.tennisplayer.net/bulletin/showthread.php?t=3193) to see
 her serve in the Interactive Forum.)
 
 **Timing**
@@ -125,8 +123,7 @@ significantly vary.
 It was virtually identical from player to player at a little more than a
 third of a second. As Brian Gordon and John Yandell have demonstrated,
 the overwhelming majority of the racket speed is generated in this
-second phase. ([Click
-Here](https://www.tennisplayer.net/members/avancedtennis/john_yandell/sampras_serve/sampras_serve_racket_head_speed/sampras_serve_racket_head_speed.html).)
+second phase. ([link](https://www.tennisplayer.net/members/avancedtennis/john_yandell/sampras_serve/sampras_serve_racket_head_speed/sampras_serve_racket_head_speed.html).)
 
 I think the timing of the Phases says something. I believe that the
 simpler platform stances are more conducive to having a smooth and
@@ -174,8 +171,7 @@ has a pinpoint stance since the back foot moves.
 **Sam slides her foot\--into a classic platform position.**
 
 But look where it stops. In a position typical of the great platform
-servers. [Click
-Here](http://www.tennisplayer.net/bulletin/showthread.php?t=2050) for
+servers. [link](http://www.tennisplayer.net/bulletin/showthread.php?t=2050) for
 more video of here serve in the Interactive Forum.
 
 **ConclusionsI've always believed platform stances to be the better option for players of all levels, due to the ease of attaining deliberate smoothness during the set up phase and building 1-2 rhythm. This makes possible a more reliable serve.**
@@ -198,8 +194,7 @@ group drop to 59%.
 For most players, a slightly narrower less extreme platform stance than
 Roger or Novak is a great place to start. You can experiment with more
 extreme variations from there. Check out one version of how to do this
-in John Yandell's article on stance in his new serve series. ([Click
-Here](https://www.tennisplayer.net/members/teaching_systems/john_yandell/legs/).)
+in John Yandell's article on stance in his new serve series. ([link](https://www.tennisplayer.net/members/teaching_systems/john_yandell/legs/).)
 
 **A platform stance also naturally facilitates body turn. In the windup the body naturally turns away from the ball along a line across the toes, with the hips and shoulders moving in the same direction.**
 

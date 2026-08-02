@@ -92,8 +92,7 @@ qualities.**
 
 Veteran coach and founder of Modern Tennis LLC, Brett Hobden agrees
 about anticipation. He says two of the most important invisible skills
-in the game are anticipation and decision-making. ([Click
-Here](../Famous%20Coaches/The%20Seven%20Modern%20Topspin%20Forehands.docx)
+in the game are anticipation and decision-making. ([link](../Famous%20Coaches/The%20Seven%20Modern%20Topspin%20Forehands.docx)
 to read Brett's article on the 7 Topspin Forehands.)
 
 \"There are certain ingredients that go into the success or failure of a
@@ -221,8 +220,8 @@ generated](media_invisible-greatness/media/image7.jpg)
 **The closer to the win, the more stress.**
 
 **Fox explained to me that [most players are not capable of dealing with
-this stress]{.underline} and so [unconsciously escape from it as soon as
-possible]{.underline} through a few common emotional responses: anger,
+this stress] and so [unconsciously escape from it as soon as
+possible] through a few common emotional responses: anger,
 excuse-making, and tanking.** **A classic example
 is when a player gets ahead in a match - maybe they're serving for the
 set - then suddenly \"chokes\" it away.**
@@ -231,7 +230,7 @@ set - then suddenly \"chokes\" it away.**
 want to avoid the growing stress of finishing.**
 **[They have what appears to be a substantial lead, so they delude
 themselves into feeling they can safely put off this bit of nasty
-work.]{.underline}** **They want to delay - unconsciously, of course -
+work.]** **They want to delay - unconsciously, of course -
 the increasing mental effort required to win and they end up getting
 beaten.**\"
 
@@ -259,8 +258,8 @@ emotions that you have at the end of a point will be: you hit a great
 shot, you feel good. You hit a bad one, you feel bad.**
 
 **[\"You're gonna go up and down every other point. [The fact is
-you're gonna lose every other point against a good player]{.underline}.
-So, you've gotta keep an even keel.]{.mark}**
+you're gonna lose every other point against a good player].
+So, you've gotta keep an even keel.]**
 
 **The way you start out doing that is by not having any feeling at the
 end of a point. It's over. Nothing happened. No emotion. No excitement.

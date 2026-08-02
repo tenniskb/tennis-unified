@@ -158,7 +158,7 @@ trí tương đối của điểm chạm so với sweet spot quyết định hư
 
 **3.2. Hình 1 -- Sơ đồ Contact Point**
 
-![](media_grip-contact-point-research-paper/media/099f5e7cc87af2d3f715ba6b89f09eec1ed3cc77.png)
+![link](media_grip-contact-point-research-paper/media/099f5e7cc87af2d3f715ba6b89f09eec1ed3cc77.png)
 
 *Hình 1. Sơ đồ so sánh UPPER (trái -- Eastern/Continental) và LOWER
 (phải -- Semi-Western/Western) contact point, bao gồm hướng swing path,
@@ -166,7 +166,7 @@ torque, quỹ đạo bóng và biên độ lỗi.*
 
 **3.3. Hình 2 -- Torque Mechanics & Error Margin**
 
-![](media_grip-contact-point-research-paper/media/6f96c9e56520bbd97bbc2a8dd634b999e7bd0af1.png)
+![link](media_grip-contact-point-research-paper/media/6f96c9e56520bbd97bbc2a8dd634b999e7bd0af1.png)
 
 *Hình 2. (A) Cơ chế torque tại hai vùng tiếp xúc; (B) Biên độ lỗi góc
 mặt vợt theo bốn kiểu grip; (C) Bảng tóm tắt hệ quả.*

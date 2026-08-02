@@ -106,7 +106,7 @@ can go.
 
 **This will maximize how much energy you store.**
 **[This energy in turn will then release naturally as you swing up to
-the ball]{.underline}**. **This is the launching phase which is
+the ball]**. **This is the launching phase which is
 critical to generating power.**
 
 Another way to enhance the knee bend is to **simultaneously lift your
@@ -218,9 +218,9 @@ foot.**
 
 I recommend this traditional footwork for the novice server, as it's
 simpler. **[[But as soon as the other elements in the motion are solid,
-every player should begin to develop the thrust.]{.mark} [It's one of
+every player should begin to develop the thrust.] [It's one of
 the few things that every player can really learn to do like the top
-pros.]{.mark}]{.underline}**
+pros.]]**
 
 That concludes the second part on the serve. But one final note. **If
 you don't love to serve you should work on it until you
