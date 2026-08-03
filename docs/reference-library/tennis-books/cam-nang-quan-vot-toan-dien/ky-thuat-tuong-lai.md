@@ -1,0 +1,317 @@
+---
+title: Những kỹ thuật tương lai
+description: Chương 12 - Các cú đánh tương lai.
+---
+
+# Những kỹ thuật tương lai
+
+Thể thao không phải là thứ bất biến. Điều này đặc biệt đúng trong môn quần vợt ngày càng mạnh mẽ. Thực tế, các pha đôi công trên đấu trường chuyên nghiệp ngày nay nhanh đến mức đôi khi trận đấu giống bóng bàn hơn là quần vợt của những năm trước. Khi môn thể thao này ngày càng nhanh hơn, các phương pháp chơi cũng được điều chỉnh, dù ban đầu những thay đổi này thường vấp phải sự phản đối. Trong chương này, tôi sẽ trình bày ba cú đánh có thể mang lại kết quả vượt trội khi môn thể thao này tiếp tục phát triển: cú thuận tay kép chồng tay (Overlapping Dual Forehand --- ODF), cú giao bóng đảo chiều (Reverse Serve --- RS), và cú giao bóng kiểu bóng chuyền (Volleyball Serve --- VS).
+
+**I. Học Hỏi Từ Lịch Sử Quần Vợt**
+----------------------------------
+
+\"Mọi chân lý đều trải qua ba giai đoạn. Đầu tiên, nó bị chế giễu. Thứ hai, nó bị chống đối kịch liệt. Thứ ba, nó được chấp nhận như một điều hiển nhiên.\" --- Triết gia người Đức Arthur Schopenhauer QUẦN VỢT ĐÃ CHỨNG KIẾN NHIỀU cải tiến về cú đánh, như cú trái tay hai tay và các phiên bản \"hồng hạc\" và \"khuỵu gối\" của cú đánh này, các cú đánh nền tư thế mở, cú thuận tay inside forehand, cú thuận tay reverse, cú vô lê có đà vung, và cú giao bóng \"nhảy lên\" --- tất cả đều đã được bàn đến ở những phần trước của cuốn sách. Một số cú đánh này ra đời vì trang thiết bị mới làm tăng tốc độ và độ xoáy của bóng, trong khi những cú đánh khác xuất hiện nhờ khả năng thể thao và vóc dáng được cải thiện của các tay vợt. Các phương pháp tập luyện ngoài sân ngày nay vượt trội hơn hẳn so với trước đây, và những tay vợt WTA cao trên 1,83 mét giờ đã trở nên phổ biến, trong khi các tay vợt ATP thấp hơn mức đó ngày càng ít gặp. Một số thay đổi ra đời từ sự cần thiết, trong khi những thay đổi khác chỉ đơn giản là những ý tưởng hay chưa được xem xét đầy đủ trước đó, do bản năng e ngại tự nhiên của chúng ta khi bước vào lãnh địa kém an toàn hơn của những ý tưởng mới. Điều thú vị là nhiều thay đổi trong số này chỉ thực sự được củng cố hoặc \"chấp nhận\" sau khi một tay vợt hàng đầu sử dụng chúng thành công và ổn định. Có vẻ như chúng ta thường cần bằng chứng từ sự xuất sắc trước khi quyết định rằng sự khác biệt thực sự tốt hơn. Hãy cùng bàn về cách những cải tiến cú đánh này đã ra đời.
+
+![](images/ky-thuat-tuong-lai/img1.jpeg)
+
+*Cú trái tay \"hồng hạc\" của Jo-Wilfried Tsonga và cú trái tay \"khuỵu gối\" của Agnieszka Radwanska là những cú đánh tương đối mới trong môn thể thao này.*
+
+Trước khi cú trái tay hai tay trở nên phổ biến, huyền thoại quần vợt Jack Kramer từng viết: \"Việc dùng hai tay không chỉ làm yếu cú đánh của bạn mà còn cướp đi sự tự tin và mang lại lợi thế tâm lý cho đối phương.\"(1) Tuy nhiên, Kramer đã bị chứng minh là sai vì môn thể thao này trở nên nhanh hơn, và việc có thêm một tay trên chuôi vợt trái tay đã được chứng minh là hữu ích để hấp thụ những cú đánh mạnh mẽ hơn. Vào những năm 1970, sau khi các tay vợt trái tay hai tay Bjorn Borg và Jimmy Connors thống trị đấu trường chuyên nghiệp, đây đã trở thành cách đánh trái tay chủ đạo.
+
+Bản thân cú trái tay hai tay cũng đã phát triển cùng với môn thể thao này. Ví dụ, cú trái tay hai tay \"hồng hạc\" xuất hiện trong môn thể thao này vào những năm 1990, ra đời khi việc sử dụng xoáy lên nhiều hơn khiến những quả bóng cao trở nên phổ biến hơn. Cú đánh này có tay vợt nhảy lên bằng chân trước và đánh bóng khi thân người đang ở trên không trong một tư thế giống chim hồng hạc (hình trái). Bằng cách thêm động tác nhảy, các tay vợt nâng thân người lên để đạt điểm tiếp xúc thoải mái hơn với những quả bóng cao, từ đó gần đạt được cú vung tương tự như khi đánh một quả bóng cao ngang eo. Gần đây hơn, các tay vợt chuyên nghiệp đã áp dụng một cú đánh nền trái tay hai tay mới khác gọi là cú trái tay \"khuỵu gối.\" Được dùng với những cú bóng đánh nhanh và sâu, cú trái tay khuỵu gối có tay vợt vung với cả hai đầu gối gần chạm đất (hình đối diện, phải), một lần nữa nhằm đặt thân người ở độ cao khiến điểm tiếp xúc thoải mái hơn. Việc chứng kiến học trò đánh một trong hai kiểu trái tay này hẳn sẽ khiến huyết áp của một huấn luyện viên tăng vọt trong quá khứ không xa.
+
+Bjorn Borg thường được ghi nhận là người đã đẩy nhanh cuộc cách mạng của cú thuận tay. Khi anh bắt đầu giành các danh hiệu lớn với cú thuận tay tư thế mở của mình, một số chuyên gia đã nói với anh rằng việc thiếu chuyển trọng lượng về phía trước trên cú thuận tay của anh sẽ gây căng thẳng lớn lên vai và chấn thương cho cánh tay. Cánh tay anh vẫn ổn, anh tiếp tục giành 11 danh hiệu Grand Slam, và cú thuận tay tư thế mở nhanh chóng trở thành kỹ thuật tiêu chuẩn. Điều tương tự sau đó cũng xảy ra với cú trái tay tư thế mở, khi chị em nhà Williams giúp cú đánh này phát triển từ bị coi là sai kỹ thuật thành bắt buộc phải có (hình dưới).
+
+![](images/ky-thuat-tuong-lai/img2.jpeg)
+
+*Venus Williams đã giúp cú trái tay tư thế mở trở thành một cú đánh phổ biến.*
+
+Người ta nói cái khó ló cái khôn, và câu tục ngữ này đúng với nguồn gốc của cú thuận tay inside forehand và cú vô lê có đà vung. Cú thuận tay inside forehand trở thành một cú đánh được công nhận vào cuối những năm 1980, khi sự chỉ dạy khôn ngoan của huấn luyện viên Nick Bollettieri kết hợp trước tiên với Jimmy Arias và sau đó (và quan trọng hơn) với Jim Courier. Bollettieri gặp Courier khi tay vợt này còn là một tài năng trẻ với cú trái tay không theo lối truyền thống. Bollettieri đã tìm cách khắc phục điểm yếu này, khôn khéo xây dựng một kế hoạch thi đấu trong đó Courier tránh dùng trái tay và đánh càng nhiều cú thuận tay càng tốt, đặc biệt là các cú thuận tay inside-out. Vị trí số một thế giới của Courier đã đưa cú đánh này ra ánh sáng và nó nhanh chóng trở thành cú đánh cuối sân tàn phá nhất trong môn thể thao này.
+
+Với cú vô lê có đà vung, một lần nữa chính Nick Bollettieri --- lần này kết hợp với Andre Agassi --- là người được ghi nhận phần lớn công lao trong việc khởi động ảnh hưởng của một cú đánh mới đối với môn thể thao này. Sau khi nhận ra tiềm năng của cú vô lê có đà vung và cân nhắc sự chênh lệch giữa các cú đánh nền xuất sắc của Agassi và các cú vô lê kém tự nhiên hơn của anh, Bollettieri đã khuyên Agassi dùng cú vung đánh nền cho các cú vô lê của mình càng nhiều càng tốt. Khả năng căn thời gian tuyệt vời của Agassi đã biến cú vô lê có đà vung của anh thành một cú đánh đáng gờm, và cú đánh này nhanh chóng được ưa chuộng. Trong quá khứ, cú vô lê luôn được dạy như một chuyển động ngắn, nơi vung quá đà và kết thúc động tác dài bị coi là kỹ thuật sai. Ngày nay các vận động viên trẻ được dạy rằng khi họ ở trong vạch cuối sân và bóng chậm, cao hơn lưới, cú vô lê có đà vung là cú đánh đúng để sử dụng. Ưu điểm của cú vô lê có đà vung rất rõ ràng: bóng có thể được đánh với tốc độ lớn hơn nhiều so với một cú vô lê truyền thống.
+
+![](images/ky-thuat-tuong-lai/img3.jpeg)
+
+*Các tay vợt trong quá khứ không bật cao khỏi mặt đất trên cú giao bóng như Samantha Stosur làm ở đây.*
+
+Cú thuận tay reverse là một bổ sung gần đây khác vào kho vũ khí của tay vợt quần vợt. Hiếm khi thấy trong quá khứ, nó nay được dùng thường xuyên để đối phó với tốc độ bóng tăng lên và tạo điều kiện cho động tác nâng vợt thẳng đứng dứt khoát cần thiết để tăng xoáy lên trên một số cú đánh nhất định. Khi Rafael Nadal lần đầu phổ biến cú đánh này, nhiều nhà bình luận coi đó là một trào lưu nhất thời và bày tỏ lo ngại rằng nó sẽ làm tăng các cú đánh hỏng trên các cú đánh nền. Giờ đây, chính sự lo ngại đó, chứ không phải kỹ thuật kết thúc động tác reverse, mới là thứ đã biến mất.
+
+Kỹ thuật giao bóng cũng đã thay đổi, theo đúng nghĩa đen là bay lên không trung. Trong thời đại vợt gỗ, chân của hầu hết các tay vợt hầu như không rời khỏi mặt đất trên cú giao bóng, và chân sau di chuyển về phía trước, vượt qua chân trước trong lúc kết thúc động tác. Chiến thuật giao bóng phổ biến thời đó là giao bóng lên lưới, và kiểu bộ pháp chân này giúp người giao bóng khởi động nhanh hơn cho bước tiến lên lưới. Ngày nay, khi cú giao bóng thường được tiếp nối bằng một pha đôi công từ cuối sân, các tay vợt thực hiện cú giao bóng bằng cách bật cao nhiều centimet khỏi mặt đất tại thời điểm tiếp xúc và di chuyển vào sân với chân trước dẫn đầu và chân sau theo sau (hình trên). Vì vậy, trọng tâm đã thay đổi từ chủ yếu là lực tiến về phía trước với một chút nâng thẳng đứng, sang chủ yếu là nâng thẳng đứng với một chút lực tiến về phía trước.
+
+Ngay cả những yếu tố của môn thể thao này như đội hình giao bóng đôi và cách di chuyển cũng đã thay đổi. Chỉ trong 20 năm gần đây, đội hình \"I\" (xem trang 246) mới trở thành một chiến thuật đánh đôi được sử dụng rộng rãi, và các tay vợt chuyên nghiệp giờ đây đang làm điều mà trước đây chỉ có bác sĩ phẫu thuật mắt cá chân mới khuyên nên tránh: trượt chân vào các cú đánh trên sân cứng.
+
+Tôi có thể tiếp tục với nhiều ví dụ hơn nữa, nhưng ý tôi muốn nói là đã có rất nhiều thay đổi trong quần vợt, một số trong đó bị phản đối trong nhiều năm. Vậy câu hỏi đặt ra là, liệu có những cú đánh nào rồi một ngày nào đó sẽ khiến chúng ta tự hỏi tại sao chúng lại không trở nên phổ biến sớm hơn? Sau khi suy nghĩ sâu sắc về môn thể thao này và sự phát triển của nó --- và sử dụng khuôn mẫu của cơ sinh học kết hợp với kinh nghiệm huấn luyện và thi đấu suốt đời của tôi --- tôi tin rằng có ba cú đánh có thể giúp ích cho các tay vợt trong những năm tới: cú thuận tay kép chồng tay (ODF), cú giao bóng đảo chiều (RS), và cú giao bóng kiểu bóng chuyền (VS).
+
+Tất nhiên, những cú đánh này không dành cho tất cả mọi người. Quần vợt quá mang tính cá nhân và đặc thù để chỉ có một phong cách chơi duy nhất. Nhưng có lẽ ODF, RS, và VS có thể trở thành những kỹ thuật được công nhận, giống như những cú đánh đã đề cập ở trên ngày nay. Ít nhất, đây cũng là những ý tưởng thú vị để suy ngẫm và khám phá. Hãy cùng xem xét sâu ba cú đánh này, bắt đầu với ODF.
+
+ODF, được Kirill Azovtsev minh họa, tận dụng sức mạnh, khả năng căn thời gian, và tầm với vượt trội của cú thuận tay từ cả hai phía sân.
+
+**II. Cú Thuận Tay Kép Chồng Tay**
+----------------------------------
+
+ĐIỀU CÓ THỂ TRỞ THÀNH một cách chơi đánh nền vượt trội với một số người là sử dụng ODF và một phong cách chơi tôi gọi là \"Ambitennis.\" **(Ambidextrous = khả năng sử dụng thuần thục cả cú thuận tay và trái tay ở cả hai bên tay.) Trong cú đánh, hay phong cách chơi này, tay vợt dùng một kỹ thuật cầm vợt chồng tay kết hợp với một cú vung thuận tay sử dụng cả tay phải và tay trái, từ đó loại bỏ hoàn toàn cú trái tay (hình dưới).**
+
+Tại sao nên áp dụng cú đánh này? Chủ yếu vì những phẩm chất thể chất vượt trội của cú thuận tay (xem trang 194) so với cú trái tay. Ở cả trình độ chuyên nghiệp lẫn nghiệp dư, cú thuận tay thường mạnh hơn cú trái tay. Với hầu hết các bạn, khi bóng đến bên thuận tay, tâm trí bạn phấn chấn trước một tình huống tấn công sắp diễn ra. Khi bóng đến bên trái tay, kỳ vọng tấn công của bạn giảm xuống. Nếu bạn, như hầu hết người chơi, thiên về cú thuận tay của mình, Ambitennis có thể khiến bạn mong chờ mọi quả bóng qua lưới.
+
+Cú thuận tay kép đã từng được sử dụng trước đây chưa? Có, thực tế đã có một số ít tay vợt chuyên nghiệp trong quá khứ, như á quân đơn nữ Wimbledon năm 1955 Beverly Baker Fletz, từng dùng phương pháp thuận tay kép. Tuy nhiên, không ai trong số họ kết hợp nó với kỹ thuật cầm vợt chồng tay tôi khuyến nghị (hình đối diện, trái). Trong quá khứ, các tay vợt thuận tay kép chuẩn bị với cả hai tay trên chuôi vợt và đánh cú thuận tay tay trái bằng một trong hai cách cầm: di chuyển tay trái xuống vài centimet trên chuôi vợt, việc này tốn thời gian, hoặc giữ nguyên tay trái tại chỗ và nắm cao lên trên chuôi vợt, việc này hạn chế sức mạnh. Ngược lại, cách cầm chồng tay có tay trái di chuyển xuống chuôi vợt rất ít, nếu có, khiến đây trở thành một cách cầm vợt nhanh và mạnh mẽ cho các tay vợt thuận tay kép.
+
+### **1. CÂU CHUYỆN CỦA NADAL VÀ NHỮNG NGƯỜI KHÁC**
+
+Trước khi bàn về những ưu điểm của Ambitennis, tôi muốn giải quyết luận điểm chính chống lại nó: rằng các tay vợt không thể đánh cú thuận tay tốt bằng tay không thuận của mình. Tuy nhiên, luận điểm này không đứng vững khi bạn xem xét số lượng tay vợt đã trở thành nhà vô địch khi dùng tay không thuận của mình.
+
+Câu chuyện của Rafael Nadal là một ví dụ thuyết phục mạnh mẽ: Rafa vốn thuận tay phải một cách tự nhiên. Khi còn nhỏ, anh chơi với cả hai tay nắm vợt trên cả cú thuận tay và trái tay. Nhận ra những hạn chế của lối chơi đó, huấn luyện viên của anh đã yêu cầu anh thay đổi và đánh cú thuận tay chỉ bằng tay trái, còn cú trái tay bằng cả hai tay trên vợt. Trớ trêu thay, chính cú thuận tay của anh --- cú đánh không có tay phải tham gia --- lại là cú đánh mạnh nhất và là một trong những cú thuận tay vĩ đại nhất từng có.
+
+Bên cạnh Nadal, còn nhiều ví dụ nổi tiếng khác về các nhà vô địch quần vợt thi đấu bằng tay không thuận của họ. Margaret Court (hình trên), người đã giành nhiều danh hiệu đơn Grand Slam nhất trong lịch sử, thi đấu thuận tay phải dù cô vốn thuận tay trái một cách tự nhiên. Các cựu tay vợt số một thế giới Carlos Moya và Maria Sharapova cũng thuận tay trái nhưng thi đấu thuận tay phải. Cựu tay vợt top mười ATP Jurgen Melzer và cựu số một thế giới Angelique Kerber, giống như Nadal, thuận tay phải nhưng thi đấu thuận tay trái. Và danh sách còn tiếp tục. Những ví dụ này cho thấy một tay vợt có thể thành công --- thậm chí trở thành huyền thoại --- khi đánh cú thuận tay bằng cánh tay \"đối diện.\"
+
+Margaret Court đã giành nhiều danh hiệu đơn Grand Slam nhất trong lịch sử khi thi đấu bằng tay không thuận của mình.
+
+### **2. CÁCH CẦM VỢT TRÊN CÚ THUẬN TAY KÉP CHỒNG TAY**
+
+Cách bạn cầm vợt khi chờ ở tư thế sẵn sàng là một thành phần then chốt của một cú thuận tay kép thành công. **Trong ODF, bạn chờ ở tư thế sẵn sàng với tay phải ở cách cầm thuận tay ưa thích của bạn. Sau đó, đặt tay trái nghiêng theo cách cầm thuận tay tay trái ưa thích của bạn, gần như ở nửa phía trên tay phải, với ngón giữa, ngón áp út, và ngón út tay trái đặt lên trên, hay chồng lên, ngón giữa và ngón áp út tay phải (hình trên).**
+
+**Tất cả các ngón tay của bạn đều chạm vào chuôi vợt, ngoại trừ ngón giữa, ngón áp út, và ngón út tay trái. Cả hai tay nên được đặt sát nhau nhất có thể để giữ tay trái ở vị trí thấp trên chuôi vợt.**
+
+Cách cầm ODF có ngón giữa, ngón áp út, và ngón út tay trái chồng lên tay phải.
+
+Khi dùng ODF, không có việc xoay tay đánh bóng trên chuôi vợt sang phải hay sang trái như hiện tại vẫn làm khi đổi từ thuận tay sang trái tay. Thay vào đó, vì cả hai tay đã ở sẵn cách cầm thuận tay, một tay chỉ đơn giản thả khỏi chuôi vợt để thực hiện cú đánh. Sau khi tay không đánh bóng thả ra, việc đưa nó lên phía cổ vợt để thực hiện một cú xoay người chuẩn bị mạnh mẽ là điều được khuyến nghị nhưng không bắt buộc. Độ dài chuyển động tay ở đây tương tự độ dài mà các tay vợt trái tay hai tay di chuyển tay không đánh bóng của họ xuống từ cổ vợt đến chuôi vợt để đánh cú trái tay.
+
+### **3. ƯU ĐIỂM CỦA CÚ THUẬN TAY KÉP CHỒNG TAY**
+
+Dù có những lý do về di truyền và thần kinh học để chơi bằng tay thuận của bạn, những ưu điểm thể chất của cú thuận tay so với cú trái tay cùng những lý do khác khiến việc sử dụng ODF vẫn là một trường hợp thú vị đáng cân nhắc. Hãy để tôi giải thích tại sao.
+
+### **A. CÚ THUẬN TAY MANG LẠI SỨC MẠNH LỚN HƠN.**
+
+Có một sự khác biệt đáng kể về sức mạnh thể chất giữa cú thuận tay và cú trái tay một tay. Thứ nhất, cú thuận tay có vai đánh bóng trễ lại phía sau vai trước và dùng động tác \"kéo\" mạnh mẽ hơn ngang qua thân người, trong khi cú trái tay có vai đánh bóng hướng thẳng về bóng và dùng động tác \"đẩy\" yếu hơn của cánh tay ra xa khỏi thân người. Ngoài ra, cú vung thuận tay sử dụng nhóm cơ ngực, cơ delta trước, và cơ nhị đầu khỏe hơn, trái ngược với cú vung trái tay, vốn sử dụng nhóm cơ thang, cơ delta sau và giữa, và cơ tam đầu yếu hơn. So với cú trái tay một tay hoặc hai tay, cú thuận tay cũng tận dụng các nhóm cơ lớn của thân dưới và phần lõi nhiều hơn cú trái tay. Trên cú thuận tay, đôi chân đẩy quyết liệt hơn từ mặt đất, tạo ra nhiều lực góc đi lên hơn (trang trước, phải), và hông xoay nhanh hơn, lâu hơn so với cú trái tay. Cuối cùng, vì cú thuận tay được đánh bằng vai sau, vung vợt ra sau trên cú thuận tay dài hơn vung vợt ra sau trên cú trái tay, cho phép tích lũy nhiều đà vung hơn để tăng tốc vợt.
+
+![](images/ky-thuat-tuong-lai/img4.jpeg)
+
+*Lực góc đi lên mạnh mẽ của cú thuận tay thường khiến Federer bật khỏi mặt đất.*
+
+### **B. CÚ THUẬN TAY CẦN ÍT THỜI GIAN THỰC HIỆN HƠN.**
+
+Khi bung xoáy để đánh một cú thuận tay xoáy lên, bạn có lợi thế là vai đánh bóng ở phía sau thân người, trong khi khi đánh một cú trái tay, vai đánh bóng của bạn ở phía trước thân người. Điều này có nghĩa bạn có nhiều thời gian hơn để thực hiện một cú thuận tay so với một cú trái tay; trong thời đại quần vợt sức mạnh này, khi thời gian trở nên quý giá hơn, đây là một điều cần cân nhắc rất quan trọng.
+
+Hơn nữa, một cú trái tay tốt thường đòi hỏi sức mạnh được tạo ra từ bước tiến vào cú đánh. Điều này không cần thiết trên cú thuận tay. Một cú thuận tay có thể được đánh rất tốt, thậm chí tốt hơn, mà không cần bước tiến, và thay vào đó được đánh với một tư thế bán mở hoặc mở được sắp xếp nhanh chóng. Đúng là cú trái tay cũng có thể được đánh với tư thế mở, nhưng có một lý do tại sao tư thế đóng được dùng nhiều hơn hẳn tư thế mở trên cú trái tay; tư thế mở kém hiệu quả hơn. Ở trình độ cao hơn, số lượng cú thuận tay tư thế mở nhiều hơn số lượng cú thuận tay tư thế đóng, theo cách tương tự như số lượng cú trái tay tư thế đóng nhiều hơn số lượng cú trái tay tư thế mở.
+
+![](images/ky-thuat-tuong-lai/img5.jpeg)
+
+*Nadal gập cổ tay về phía trước và búng bóng trở lại vào sân; cú đánh này sẽ không thể thực hiện được với cú trái tay.*
+
+**C. CÚ THUẬN TAY MANG LẠI KHẢ NĂNG BAO QUÁT SÂN LỚN HƠN.**
+-----------------------------------------------------------
+
+Trong những tình huống phòng thủ khó khăn, ai cũng biết rằng một khi bóng đi qua sau lưng bạn trên cú trái tay, cú đánh gần như không thể đưa trở lại vào sân. Tuy nhiên, nếu bóng đi qua sau lưng bạn trên cú thuận tay, bạn có thể gập cổ tay về phía trước với một chút sức mạnh và búng một cú đánh hiệu quả trở lại vào sân (hình trên). Vì vậy, khả năng sử dụng động tác thuận tay từ cả hai phía thân người giúp tăng đáng kể khả năng bao quát sân của bạn. Điều này cho phép bạn kéo dài một số pha đôi công mà nếu chơi theo cách truyền thống sẽ không thể thực hiện được.
+
+### **D. AMBITENNIS MANG LẠI MỘT CÁCH CẦM VỢT CHẮC CHẮN VÀ THAY ĐỔI NHANH.**
+
+Trên cú thuận tay, phần lớn lòng bàn tay và bốn ngón tay của bạn nằm phía sau chuôi vợt tại thời điểm va chạm bóng, trong khi trên cú trái tay một tay, chỉ có ngón cái và một phần nhỏ lòng bàn tay. Việc có phần lớn hơn của lòng bàn tay và nhiều ngón tay hơn phía sau chuôi vợt giúp bạn xử lý tốt hơn lực va chạm của bóng và kiểm soát cú đánh.
+
+  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  **HỘP HUẤN LUYỆN VIÊN:**
+  **Thật thú vị khi thấy rằng vì Nadal có tay phải chi phối rất mạnh trên cú trái tay hai tay của mình (vì anh vốn thuận tay phải tự nhiên), anh có thể dùng cú trái tay hai tay tư thế mở thường xuyên hơn, gần giống như một cú thuận tay tay phải (hình dưới), và do đó tận dụng được phần nào lợi thế về thời gian của ODF. Federer từng có một nhận xét thú vị về lối chơi của Nadal sau khi thua anh tại Roland Garros 2008, nói rằng: \"Anh ấy chơi như thể có hai cú thuận tay từ cuối sân vì anh ấy dùng tư thế mở ở cả hai bên. Tôi không thể làm vậy, nên tôi mất một hai mét ở chỗ này chỗ kia từ cuối sân. Vậy nên anh ấy có một lợi thế rất lớn ở khía cạnh này, bạn biết đấy.\"(1) Khi dùng cú trái tay hai tay, bạn có một cách cầm chắc chắn, nhưng có vấn đề về thời gian, khi tay trái phải di chuyển từ cổ vợt xuống để nắm cùng tay phải trên chuôi vợt. Ngoài ra, bạn còn gặp những vấn đề liên quan đến việc đặt đúng hai tay, thay vì chỉ một tay, trên chuôi vợt.**
+  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Với ODF, cả hai tay luôn ở sẵn cách cầm thuận tay và tất cả những gì cần làm là thả một tay khỏi chuôi vợt. Ưu điểm về việc thiết lập cách cầm nhanh chóng này đặc biệt quan trọng trên một cú đánh then chốt: cú đỡ giao bóng. Chính việc phải đổi cách cầm phần nào khiến cú đỡ giao bóng trở nên thách thức, đặc biệt khi đối đầu với một cú giao bóng nhanh. Việc đổi cách cầm trên cú đỡ giao bóng dẫn đến việc phán đoán quá sớm hướng của cú giao bóng và thiên về một cú đánh, gây bất lợi cho cú đánh còn lại. Những tay vợt trái tay một tay chắc chắn gặp vấn đề với việc đổi cách cầm, nhưng ngay cả các tay vợt trái tay hai tay cũng phải đổi cách cầm giữa thuận tay và trái tay. Những tay vợt Ambitennis gặp ít vấn đề hơn về cách cầm trên cú đỡ giao bóng vì cả hai tay đã sẵn ở cách cầm thuận tay và do đó có thể xử lý nhanh mọi loại giao bóng dù đánh về bên trái hay bên phải thân người. Thêm vào đó, bạn có được các ưu điểm của ODF về sức mạnh, thời gian, và tầm với bổ sung để giúp bạn thực hiện một cú đỡ giao bóng mạnh mẽ.
+
+### **E. AMBITENNIS GIÚP HÓA GIẢI CHIẾN THUẬT CỦA ĐỐI PHƯƠNG KHI ĐÁNH RỘNG HOẶC CAO ĐỂ GIÀNH LỢI THẾ TRONG ĐIỂM BÓNG.**
+
+Vì cú thuận tay được đánh bằng vai sau, nó cho phép một cú vào đà tốt khi bị dồn ép với một quả bóng rộng. Điều này không đúng với cú trái tay. Thực tế, cú thuận tay chạy đuổi có thể là một vũ khí nguy hiểm, trong khi cú trái tay chạy đuổi thường là một cú đánh phòng thủ. Vì vậy, do ODF cho bạn khả năng tấn công những quả bóng rộng từ cả hai phía sân bằng động tác thuận tay (hình dưới), nó vô hiệu hóa chiến thuật phổ biến là giành quyền kiểm soát điểm bóng bằng cách đánh rộng vào bên trái tay. Ngoài ra, dù cú thuận tay cao không phải là một cú đánh dễ, nó chắc chắn dễ hơn nhiều so với cú trái tay cao. Vì vậy, Ambitennis giúp bạn hóa giải chiến thuật của đối phương khi họ đánh các cú xoáy lên cao vào bên trái tay của bạn để giành thế thượng phong. Bằng cách vô hiệu hóa hai chiến thuật này, đối phương của bạn sẽ phải tìm những mẫu hình cú đánh mới, xa lạ và kém phát triển, và do đó, kém hiệu quả hơn.
+
+Khác với cú trái tay rộng, cú thuận tay rộng có thể là một cú đánh nguy hiểm.
+
+### **F. AMBITENNIS ĐƠN GIẢN HÓA CƠ CHẾ VẬN ĐỘNG.**
+
+Hiện tại, các tay vợt chuyển đổi hàng trăm lần mỗi trận đấu từ động tác thuận tay sang động tác trái tay. Hai cú vung này đòi hỏi không chỉ cơ chế thân trên khác nhau, mà còn tư thế đứng và điểm tiếp xúc khác nhau. Điều này có thể gây khó khăn để thực hiện nhanh và thành công trong một trận đấu dài hoặc thậm chí một pha đôi công kéo dài. Đây là một chiến thuật nổi tiếng trong quần vợt: đánh vài quả bóng vào một bên rồi đánh sang bên còn lại, biết rằng sự thay đổi cơ chế vận động cần thiết giữa hai cú đánh nền đôi khi sẽ dẫn đến một cú đánh yếu hoặc lỗi từ đối phương. Ambitennis, ngược lại, sử dụng cùng một động tác kéo thuận tay ở cả hai bên, đơn giản hóa cơ chế thân trên, tạo ra sự đồng nhất lớn hơn về tư thế đứng và điểm tiếp xúc, và khiến việc chuyển đổi giữa các cú vung dễ dàng hơn.
+
+### **G. AMBITENNIS CẢI THIỆN VIỆC CHỌN CÚ ĐÁNH.**
+
+Thường có một cách tiếp cận chiến thuật khác nhau trên cú thuận tay so với cú trái tay. Cú thuận tay nhìn chung là cú đánh tấn công, còn cú trái tay là cú đánh thận trọng hơn. Sự khác biệt này có thể khiến việc chọn cú đánh trở nên khó khăn vì nó đặt ra câu hỏi chính xác nên tấn công đến mức nào trên cú thuận tay và thận trọng đến mức nào trên cú trái tay. Điều này có thể dẫn đến những lỗi do quá tham vọng hoặc bỏ lỡ cơ hội. Với Ambitennis, mức độ tấn công đồng đều hơn ở cả hai bên phải và trái của sân, giúp việc ra quyết định về cách đánh bóng mạch lạc hơn.
+
+### **H. AMBITENNIS CẢI THIỆN VỊ TRÍ ĐỨNG SÂN.**
+
+Di chuyển sang trái của tâm sân để chủ động bằng cú thuận tay hoặc bảo vệ cú trái tay sẽ để lộ phía bên phải sân và có nguy cơ mất vị trí đứng sân (hình đối diện). Nếu bạn di chuyển sang trái tâm sân để đánh cú thuận tay, bạn cần đánh một cú đánh mạnh mẽ, nếu không bạn có thể phải trả giá đắt vì để trống hai phần ba sân trở lên. Ngoài ra, việc liên tục di chuyển sang trái để đánh cú thuận tay hoặc tránh cú trái tay tiêu tốn rất nhiều năng lượng. Trong suốt một trận đấu dài, điều này có thể gây tổn hại đáng kể.
+
+Di chuyển sang trái để đánh một cú thuận tay sẽ mở ra phía bên phải sân cho đối phương khai thác.
+
+Hơn nữa, vì cú trái tay có tầm với ngắn hơn và cần nhiều thời gian hơn, các tay vợt phải đứng ở phía trái của điểm giữa các góc độ của đối phương. Vị trí này khiến cú trái tay dọc dây và cú thuận tay chéo sân của đối phương trở thành những cú đánh đặc biệt gây hại. Ngược lại, các tay vợt ODF có thể đứng ở điểm giữa các góc độ của đối phương và ít bị hai cú đánh này gây khó khăn hơn.
+
+**I. AMBITENNIS GIẢM CÁC VẤN ĐỀ VỀ VỊ TRÍ THÂN NGƯỜI.**
+-------------------------------------------------------
+
+Nếu bạn đã đánh giá sai vị trí, tốc độ, hoặc độ xoáy của bóng trên cú trái tay, gần như chắc chắn bạn sẽ có một cú đánh yếu. Sức mạnh và lực của cú trái tay thường phụ thuộc vào việc phóng người về phía trước chính xác với chân trước ở tư thế đóng; do đó, biên độ sai số về vị trí thân người là rất nhỏ. Ngoài ra, trên cú trái tay hai tay, vì có hai tay trên vợt, bất kỳ sai lầm nào trong việc đánh giá bóng cũng sẽ khiến thân trên của bạn chao đảo theo các hướng khác nhau và gây mất sức mạnh cùng khả năng kiểm soát vợt.
+
+Ngược lại, cú thuận tay thường dùng tư thế mở và là một cú đánh một tay. Điều này có nghĩa bạn thường vẫn có thể đánh một cú đánh hiệu quả, dù không hoàn hảo, ngay cả khi bạn đánh giá bóng hơi sai. Ngoài ra, cú thuận tay dùng tay không đánh bóng ở phía trước thân người để giúp đo cú đánh và giữ vị trí tốt.
+
+### **J. AMBITENNIS GIẢM NGUY CƠ CHẤN THƯƠNG VÀ TĂNG CƯỜNG KÍCH THÍCH TRÍ NÃO.**
+
+Việc liên tục vung vợt bằng tay đánh bóng và lực va chạm phải chịu khi tiếp xúc trong những cú vung đó có thể khiến cơ phát triển quá mức, mệt mỏi, và bào mòn các khớp của cánh tay đó. Điều này có thể dẫn đến chấn thương. Ambitennis giảm khả năng xảy ra những chấn thương như vậy, vì tác động của việc lặp lại cú vung không dồn hết lên một cánh tay.
+
+Các nghiên cứu đã chỉ ra rằng việc học một cách chơi mới trong thể thao có tác động tích cực đến não bộ.
+
+Ngoài ra, các nghiên cứu cho thấy việc sử dụng tay không thuận kích thích tâm trí và giúp não bộ tích hợp tốt hơn hai bán cầu của nó. Chúng ta được \"nối chéo,\" nghĩa là việc đánh cú thuận tay bằng tay trái mang lại cho tâm trí khả năng tiếp cận nhiều hơn với các chức năng bán cầu phải của não, như trực giác và sáng tạo. Bán cầu não phải chịu trách nhiệm nhiều hơn về nhận thức không gian ba chiều --- một yếu tố quan trọng cho sự phối hợp tay-mắt tốt và thành công trong quần vợt. Hơn nữa, các nghiên cứu thần kinh học đã chỉ ra rằng việc học một kỹ năng vận động mới, như ODF, làm tăng quá trình myelin hóa các neuron trong vỏ não vận động.(2) Quá trình myelin hóa bao bọc các tế bào não để các tín hiệu giữa các neuron có thể di chuyển nhanh hơn, cải thiện hiệu suất não bộ. Ngay cả khi sự cải thiện tinh thần này là tinh tế, bất kỳ sự cải thiện nào xảy ra cũng là một lợi ích phụ tuyệt vời của Ambitennis.
+
+### **4. CÚ THUẬN TAY KÉP CHỒNG TAY SO VỚI CÚ TRÁI TAY HAI TAY**
+
+Điều thú vị cần lưu ý là cú trái tay hai tay thường được mô tả về cơ bản là một cú thuận tay tay trái. Chắc chắn, tay trái đóng góp nhiều hơn hẳn tay phải vào sức mạnh và độ xoáy của cú trái tay hai tay. Và, dù xoay hông diễn ra muộn hơn và cú vung gọn gàng hơn trên cú trái tay hai tay so với cú thuận tay tay trái, tay trái vẫn đi theo một đường tương tự trên cả hai cú đánh.
+
+Khi so sánh ODF với cú trái tay hai tay, có bốn ưu điểm của ODF so với cú trái tay hai tay có thể bổ sung vào những lợi ích chung đã bàn ở trên.
+
+**Thứ nhất, ODF ít gò bó hơn. Một số tay vợt cảm thấy cú trái tay hai tay gượng gạo. Những tay vợt này gặp khó khăn khi thực hiện một cú vung nhịp nhàng trọn vẹn và tăng tốc vợt trôi chảy với hai tay trên vợt. Với ODF, chỉ có một tay trên vợt tại thời điểm tiếp xúc, tránh được những vấn đề này.**
+
+**Thứ hai, ODF tạo xoáy lên lớn hơn. Một tay có thể vung nhanh hơn hai tay, và điều này có nghĩa nhiều xoáy lên hơn.**
+
+**Thứ ba, ODF cần ít năng lượng hơn. Vung vợt bằng hai tay trên cú trái tay tiêu tốn nhiều năng lượng hơn.**
+
+**Thứ tư, ODF cho phép bạn xử lý những quả bóng thấp tốt hơn. Với một quả bóng thấp, tay vợt trái tay hai tay có thể buộc phải bỏ tay trái khỏi vợt và đánh một cú trái tay cắt một tay mang tính phòng thủ; với cùng quả bóng đó, tay vợt ODF có thể đánh một cú thuận tay xoáy lên mang tính tấn công bằng tay trái.**
+
+### **5. CÁCH LUYỆN TẬP CÚ THUẬN TAY KÉP CHỒNG TAY**
+
+Chìa khóa để học tốt một kỹ năng vận động, đặc biệt là một kỹ năng mới, là làm chậm lại mọi thứ và tăng độ khó dần dần, từng bước một. Nếu bạn cố học ODF bằng cách đánh từ cuối sân này sang cuối sân kia với bóng quần vợt thông thường, bạn sẽ học chậm hơn nhiều so với khi làm theo các bước tiến trình tôi khuyến nghị dưới đây.
+
+### **A. TẬP LUYỆN NGOÀI SÂN**
+
+Trước khi ra sân để luyện tập ODF, bạn có thể làm quen với cách cầm vợt tại nhà. Hãy để một cây vợt gần TV hoặc máy tính của bạn và luyện tập việc lật tay vào và ra khỏi cách cầm chồng tay. Rõ ràng, việc trở nên nhanh nhẹn khi thả và đặt lại tay trên chuôi vợt là một thành phần quan trọng của Ambitennis.
+
+Các cú vung tưởng tượng (shadow swing) cũng sẽ giúp ích cho ODF của bạn, và chúng cũng có thể được thực hiện tại nhà. Các cú vung tưởng tượng rất hiệu quả để củng cố trí nhớ cơ bắp về kỹ thuật đúng, cũng như phát triển sức mạnh cần thiết để vung vợt với sự kiểm soát và lực. Đây là một cách tuyệt vời để định hình cú thuận tay tay trái của bạn và học các kiểu bộ pháp chân, tư thế đứng, và đường vung khác nhau một cách hiệu quả, tất cả mà không cần sân hoặc bạn tập.
+
+  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  **HỘP HUẤN LUYỆN VIÊN:**
+  **Như Nick Bollettieri từng viết trong tạp chí Tennis Magazine, Andre Agassi (hình dưới) thường dành thời gian đánh các cú thuận tay tay trái trong lúc tập luyện để hỗ trợ cú trái tay hai tay của mình. \"Anh ấy làm điều này mỗi ngày. Điều này buộc bạn phải tăng tốc tay trên và biến nó thành tay chi phối tại thời điểm tiếp xúc.\" Một đặc điểm tuyệt vời của ODF là, ngay cả khi cuối cùng bạn quyết định chơi với cú trái tay hai tay, việc luyện tập một cú thuận tay tay trái sẽ khiến cú trái tay hai tay của bạn trở thành một cú đánh mạnh mẽ và vững vàng về kỹ thuật hơn.**
+  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+CÁC BƯỚC TIẾN TRÌNH LUYỆN TẬP ODF TRÊN SÂN Dành ra 15 phút mỗi ngày để thực hiện buổi tập vung tưởng tượng ODF sau: bắt đầu bằng cách sử dụng ba tư thế thuận tay chính --- trung lập, bán mở, và mở. Hoàn thành khoảng 100 cú vung thuận tay tay trái, sử dụng ba tư thế này với số lần gần như bằng nhau theo một trình tự ngẫu nhiên. Sau 100 cú vung này, chơi 25 điểm bóng tưởng tượng ngẫu nhiên với độ dài khác nhau, trong đó bạn vung vợt cả tấn công lẫn phòng thủ và di chuyển theo các hướng khác nhau quanh sân. Bắt đầu năm điểm bóng bạn giao bóng và năm điểm bóng tiếp theo bạn đỡ giao bóng. Tiếp tục theo trình tự đó cho đến khi hoàn thành 25 điểm bóng. Hãy chắc chắn bao gồm một số cú vung thuận tay tay phải trong những điểm bóng tưởng tượng này để luyện tập việc di chuyển tay vào và ra khỏi cách cầm chồng tay.
+
+### **B. TẬP LUYỆN TRÊN SÂN**
+
+Trong khi luyện tập đổi cách cầm và vung tưởng tượng tại nhà, bạn có thể bắt đầu luyện tập Ambitennis trên sân bằng cách sử dụng bóng giảm áp lực. Được gọi là bóng QuickStart tại Hoa Kỳ, những quả bóng này nhẹ hơn và di chuyển chậm hơn bóng thông thường, khiến chúng dễ đánh hơn. Quan trọng hơn, chúng dẫn đến những pha đôi công dài hơn và sự lặp lại nhiều hơn. Những quả bóng này có nhiều kích cỡ và trọng lượng khác nhau, vì vậy hãy bắt đầu với những quả bóng chậm hơn rồi dần chuyển sang những quả bóng nhanh hơn.
+
+Bắt đầu bằng việc để một đối tác tập luyện đưa bóng QuickStart cho bạn từ một giỏ bóng. Bắt đầu ở vạch giao bóng và dành khoảng tổng cộng 15 phút thực hiện các cú vung thuận tay tay trái theo bốn tiến trình đưa bóng sau đây.
+
+### **1. VUNG NGẮN GỌN:**
+
+Trước tiên, hãy làm quen với việc cân bằng vợt đúng cách tại thời điểm tiếp xúc. Đứng ở vạch giao bóng, vào tư thế trung lập và bắt đầu với vợt thẳng hàng với chân sau (hình trên trái). Dùng cú vung vợt ra sau ngắn gọn này, vung vợt đánh bóng bằng cú thuận tay tay trái và kết thúc động tác trọn vẹn. Trong giai đoạn này của tiến trình, bạn đang tập trung học điểm tiếp xúc hơi phía trước chân trước và giữ góc mặt vợt ổn định trong suốt vùng tiếp xúc. Dùng cú vung vợt ra sau ngắn gọn này để đánh bóng 25 cú.
+
+### **2. VỊ TRÍ QUYỀN LỰC:**
+
+Tiếp theo, bắt đầu cú vung từ vị trí quyền lực (hình đối diện, giữa) và đánh 25 cú chậm rãi. Dùng một cú vung từ thấp lên cao và lướt lên bóng với một lượng xoáy lên vừa phải.
+
+### **3. VUNG TRỌN VẸN:**
+
+Giờ hãy dùng một cú vung trọn vẹn bắt đầu từ tư thế sẵn sàng. Đánh 25 cú chậm rãi với xoáy lên vừa phải và giữ nguyên tư thế ở cuối động tác để đảm bảo bạn kết thúc động tác trọn vẹn với sự cân bằng tốt. Nhớ luôn trở về tư thế sẵn sàng và đặt tay vào cách cầm chồng tay sau mỗi cú đánh.
+
+### **4. BỘ PHÁP CHÂN VÀ VUNG TRỌN VẸN:**
+
+Cuối cùng, hãy thêm vào một chút bộ pháp chân và các tư thế đứng khác nhau. Nảy nhẹ trên đôi chân khi chờ bóng đến, bước ra ngoài sang trái bằng chân trái, thực hiện hai hoặc ba bước điều chỉnh nhỏ, và bước chân phải về phía trước khi bạn vung vợt, dùng tư thế trung lập cho 25 cú đánh. Sau đó để đối tác tập luyện đưa bóng cao hơn và vào giữa, đánh 25 cú dùng tư thế bán mở (hình đối diện, phải). Rồi để đối tác tập luyện đưa bóng rộng và đánh 25 cú với tư thế mở, tổng cộng 75 cú vung trọn vẹn với bộ pháp chân biến đổi. Ở giai đoạn này, nên đặt các mục tiêu trên sân để giúp cải thiện độ chính xác và sự tập trung.
+
+Sau khi luyện tập ODF với các cú đưa bóng, hãy đôi công chậm rãi với cú thuận tay tay phải và tay trái của bạn bằng bóng QuickStart. Đứng cách vạch giao bóng khoảng 1,5 mét về phía sau và đôi công, dùng vạch giao bóng làm vạch cuối sân. Sân nhỏ hơn này cho phép bạn tập trung vào việc sử dụng đúng chuyển động chân và tay của cú vung thuận tay trái. Nếu dùng toàn bộ sân quá sớm trong quá trình học, sự tập trung vào cú vung đúng có thể bị mất đi trong những phức tạp phát sinh từ việc di chuyển và đánh bóng ở khoảng cách xa. Khi đôi công, hãy tập trung vào các nguyên tắc thân trên đã bàn trước đó ở Chương Bảy (xoay người chuẩn bị, vung vợt ra sau, vung vợt về phía trước đến điểm tiếp xúc, tiếp xúc bóng, và kết thúc động tác) và chuyển những nguyên tắc đó từ bên phải sang bên trái.
+
+Dành khoảng 10 phút đôi công từ vị trí cách vạch giao bóng 1,5 mét về phía sau, 10 phút đôi công từ vị trí cách vạch giao bóng khoảng 3 mét về phía sau, và 10 phút đôi công từ vạch cuối sân, tổng cộng 30 phút luyện tập đôi công. Đánh phần lớn các quả bóng chậm rãi để học tốt nhất điểm tiếp xúc và sự cân bằng thân người đúng.
+
+Nếu bạn có thể kỷ luật và tuân theo lịch trình luyện tập một giờ này, bao gồm 15 phút vung tưởng tượng, 15 phút đưa bóng, và 30 phút đôi công, bạn sẽ đạt được các mục tiêu Ambitennis của mình nhanh hơn. Hãy nhớ, đánh vào tường hoặc dùng máy bắn bóng cũng có thể cung cấp sự lặp lại hữu ích. Tất nhiên, việc sử dụng các bước tiến trình này sẽ thay đổi theo thời gian khi bạn ngày càng quen thuộc hơn với ODF. Khi đã đạt được mức độ thoải mái hợp lý với ODF, bạn có thể ngừng vung tưởng tượng, dùng bóng QuickStart, và tiến trình đưa bóng, rồi bắt đầu các buổi luyện tập bằng cách đôi công với bóng thông thường.
+
+### **6. KẾT LUẬN VỀ CÚ THUẬN TAY KÉP CHỒNG TAY**
+
+Những ưu điểm thể chất của cú thuận tay so với cú trái tay tạo nên một luận điểm thuyết phục cho ODF trong lối chơi hiện đại. Khi các tay vợt ngày càng có thể lực tốt hơn --- khiến việc tăng cường sử dụng tay trái trở nên khả thi và khôn ngoan hơn --- và môn thể thao này tiếp tục nhanh hơn, cộng đồng quần vợt có thể ngày càng đánh giá cao sức mạnh, thời gian, tầm với tăng thêm, và những ưu điểm khác của động tác thuận tay, và xem quan điểm hiện tại rằng môn thể thao này chỉ có thể chơi bằng cú thuận tay và trái tay là một quan điểm lỗi thời. Môn thể thao này đang trong một thế cân bằng tinh vi, và đôi khi những cải tiến nhỏ dẫn đến những thay đổi mang tính kiến tạo trong cách nó được chơi. Việc nâng cấp dây vợt vào những năm 1990 gần như đã xóa sổ lối chơi giao bóng lên lưới trên ATP vào những năm 2000. Vậy những vận động viên nhanh hơn, khỏe hơn một chút, cùng một lối chơi nhanh hơn đôi chút, sẽ có tác động gì đến lối chơi cuối sân?
+
+  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  **HỘP HUẤN LUYỆN VIÊN:**
+  **Ai cũng cần những yếu tố tinh thần như động lực và sự tự tin để thực hiện thay đổi trong cuộc sống hoặc bắt đầu điều gì đó mới như Ambitennis. Động lực của bạn có thể đến từ việc kết nối giữa ODF và niềm vui khi với tới những cú bóng trước đây nằm ngoài tầm với, tấn công những cú giao bóng thứ hai một cách quyết liệt hơn, hoặc đánh bại một đối thủ khó chịu lần đầu tiên. Sự tự tin của bạn vào ODF có thể đến từ việc hiểu được lợi thế vận động học của cú thuận tay so với cú trái tay. Bên cạnh động lực và sự tự tin, bạn cũng cần sự kiên nhẫn và bền bỉ để vượt qua những trở ngại bạn sẽ gặp phải dọc đường. Hãy dành thời gian hình dung thành công của Ambitennis trong tâm trí bạn và nhớ rằng các mục tiêu của bạn dễ đạt được hơn nếu bạn viết chúng ra hằng tuần và bao gồm ba điều bạn cần làm để giúp biến chúng thành hiện thực. Cách tiếp cận có cấu trúc này sẽ giúp bạn tập trung sâu hơn và tăng khả năng kiên trì trong quá trình đạt được tham vọng Ambitennis của bạn.**
+  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Như đã đề cập ở trên, tôi cho rằng câu hỏi chính là chúng ta có thể trở nên khéo léo đến mức nào với tay không thuận của mình. Các nghiên cứu về tính thuận tay gặp phải một câu hỏi kiểu \"con gà hay quả trứng\" liên quan đến kỹ năng và sở thích. Liệu tính thuận tay của một người xảy ra vì một tay khéo léo hơn, hay tay đó khéo léo hơn vì nó được ưa thích hơn và do đó được sử dụng nhiều hơn? Có vẻ như tính thuận tay bắt đầu ở một mức độ nào đó như một sở thích hơn là một sự khác biệt kỹ năng đáng kể. Chắc chắn, thành công phi thường của những tay vợt như Nadal, Court, Moya, Sharapova, Melzer, Kerber, và những người khác ủng hộ niềm tin này.
+
+Khi các tay vợt hiện đại ngày càng có thể lực tốt hơn và môn thể thao này ngày càng nhanh hơn, có lẽ việc sử dụng ODF sẽ ngày càng có lợi thế và hợp lý hơn.
+
+Các nhà khoa học không phân loại chúng ta hoàn toàn là thuận tay phải hay thuận tay trái, mà thay vào đó đặt chúng ta trên một phổ tính thuận tay. Trên phổ này, có một tỷ lệ nhỏ dân số ở hai đầu của phổ là rất thuận tay phải hoặc rất thuận tay trái. Với những người nằm ở giữa phổ tính thuận tay, có lẽ Ambitennis là lựa chọn đúng. Có thể trong tương lai không xa, chúng ta sẽ có thể đo tính thuận tay ở trẻ em thông qua di truyền, và từ thông tin đó, những trẻ nằm ở giữa phổ có thể được khuyến khích học phương pháp ODF, trong khi những trẻ nằm ở hai đầu phổ thì không.
+
+**III. Cú Giao Bóng Đảo Chiều**
+-------------------------------
+
+### **1. ƯU ĐIỂM CỦA CÚ GIAO BÓNG ĐẢO CHIỀU**
+
+Nhiều đội đánh đôi thành công nhất trong lịch sử --- Mike và Bob Bryan, Todd Woodbridge và Mark Woodforde, Martina Navratilova và Pam Shriver, và John McEnroe và Peter Fleming --- đều có một đặc điểm quan trọng chung: họ là sự kết hợp thuận tay phải/thuận tay trái. Tại sao sự kết hợp này lại có lợi thế đến vậy? Một phần vì các tay vợt đối đầu với sự kết hợp đánh đôi như vậy phải điều chỉnh để đỡ một cú giao bóng cong sang phải, rồi ngay ở ván đỡ giao bóng tiếp theo, một cú giao bóng cong sang trái, mỗi lần với một góc qua lưới khác nhau.
+
+Một cú giao bóng xoáy tốt trong đánh đơn luôn là một vũ khí và đặc biệt hiệu quả vào đầu trận đấu. Nhưng một khi người đỡ giao bóng đã thấy cú giao bóng đó qua vài ván, họ bắt đầu đọc được độ xoáy và căn thời gian đỡ giao bóng ngày càng tốt hơn. Tuy nhiên, nếu bạn có thể giao bóng xoáy cả kiểu thuận tay phải và tay trái, bạn có thể phá vỡ nhịp điệu của đối phương và khiến việc đỡ giao bóng trở nên khó chịu suốt trận đấu.
+
+Những cặp đánh đôi kết hợp thuận tay phải và thuận tay trái như anh em nhà Bryan khiến đối phương khó tìm được nhịp điệu khi đỡ giao bóng.
+
+Ngoài việc phá vỡ nhịp điệu của đối phương bằng cách thêm một yếu tố khó đoán vào cú giao bóng của bạn, còn có ba lý do khác giải thích tại sao khả năng giao bóng xoáy cả kiểu thuận tay phải và tay trái có thể khiến các ván giao bóng của bạn dễ thắng hơn.
+
+### **A. CHỈ KHOẢNG 10% NGƯỜI CHƠI THUẬN TAY TRÁI.(3)**
+
+Cú giao bóng tay trái là một ẩn số với nhiều tay vợt vì người thuận tay trái chỉ chiếm một phần nhỏ dân số, và do đó, cơ hội đối đầu với họ không thường xuyên. Đường bay, độ xoáy, và độ nảy của bóng đi ngược với những gì các tay vợt quen đỡ trong phần lớn thời gian.
+
+### **B. BẠN CÓ THỂ GIÀNH LỢI THẾ VỊ TRÍ ĐỨNG SÂN MỖI KHI GIAO BÓNG.**
+
+Nếu bạn có thể bẻ cong cú giao bóng sang phải hoặc trái, bạn có thể kéo đối phương ra khỏi vị trí bằng cách giao bóng vào cả bên deuce lẫn bên ad, thay vì chỉ giới hạn ở bên deuce như thường lệ theo lối truyền thống. Kỹ năng này càng trở nên quan trọng khi xét đến lợi thế của việc giao bóng ở bên ad, bên sân nơi diễn ra nhiều điểm bóng quan trọng của ván đấu --- 30-15, 15-30, 40-30, 30-40, ad-in, và ad-out.
+
+**C. BẠN CÓ THỂ TẤN CÔNG BÊN TRÁI TAY CỦA ĐỐI PHƯƠNG DỄ DÀNG HƠN.**
+-------------------------------------------------------------------
+
+Đường cong sang phải của cú giao bóng xoáy tay trái giúp dễ dàng đưa cú giao bóng của bạn vào bên trái tay của đối phương thuận tay phải, thường là cú đánh nền yếu hơn của họ.
+
+Những lợi ích của việc có thể giao bóng xoáy cả kiểu thuận tay phải và tay trái là rất rõ ràng, nhưng làm thế nào để bạn có được lợi thế của độ xoáy tay trái nếu bạn thuận tay phải, hoặc độ xoáy tay phải nếu bạn thuận tay trái? Đó là bằng cách phát triển cú giao bóng đảo chiều (RS).
+
+### **2. KỸ THUẬT GIAO BÓNG ĐẢO CHIỀU CHO NGƯỜI CHƠI TRÌNH ĐỘ CAO**
+
+Với các tay vợt trình độ cao, RS bắt đầu bằng cách cầm continental. Không cần dùng cách cầm khác với cú giao bóng thông thường của bạn hay thay đổi cú tung bóng sang trái và mất đi yếu tố bất ngờ. Bằng cách ngụy trang cú giao bóng, bạn khiến đối phương không có thời gian điều chỉnh vị trí đỡ giao bóng để bao quát đường cong bóng của RS.
+
+Các tay vợt trình độ cao nên giữ cú tung bóng cùng hướng với cú giao bóng phẳng, nhưng dịch chuyển điểm tung bóng khoảng 30cm xa hơn về phía trước so với thường lệ. Hãy nhớ đối phương có thể nhìn thấy những thay đổi từ phải sang trái trong cú tung bóng nhưng không thể thấy những thay đổi nhỏ về phía trước. Thú vị là, vì cú tung bóng cùng hướng với cú giao bóng phẳng, RS có thể dễ ngụy trang hơn cú giao bóng cắt truyền thống, vốn được đánh với cú tung bóng hơi lệch sang phải.
+
+Trên cú giao bóng đảo chiều, cạnh dẫn của vợt di chuyển về phía cột lưới bên trái xuyên qua thời điểm tiếp xúc. RS bắt đầu giống hệt một cú giao bóng thông thường (trang kế, trên trái). Sau đó, khi vào tư thế cây đèn, hãy dịch cách cầm nhẹ sang vị trí continental yếu hoặc eastern (trang kế, trên phải). Điều chỉnh cách cầm này giúp mặt vợt dễ dàng vòng quanh phía trái bóng hơn. Tiếp theo, hạ vợt xuống sau lưng và vung lên đánh bóng với cạnh dẫn của vợt di chuyển về phía cột lưới bên trái (hình dưới). Lướt dây vợt quanh phía trái bóng. Cú giao bóng kết thúc với hông xoay hoàn toàn, và do chuyển động sang trái của vợt, RS khiến người giao bóng di chuyển nhiều hơn về phía trái trong lúc kết thúc động tác. Điều này đặt người giao bóng vào vị trí tốt để sử dụng cú thuận tay ở cú đánh thứ ba của pha bóng (trang kế, dưới phải).
+
+RS tạo ra cùng loại xoáy như cú giao bóng tay trái bằng cách lướt dây vợt từ phải sang trái ngang qua bóng, thay vì hướng từ trái sang phải thông thường của các cú giao bóng xoáy tay phải. Loại giao bóng bạn muốn đánh sẽ quyết định phần nào của bóng mà dây vợt lướt qua. Nếu bạn muốn đánh một cú giao bóng cắt đảo chiều, dây vợt sẽ lướt quanh cạnh 10 giờ của bóng. Nếu mục tiêu của bạn là cú giao bóng cắt-xoáy lên đảo chiều, dây vợt sẽ va chạm giữa bóng rồi lướt qua phần 11 giờ của bóng.
+
+Dù việc dùng cách cầm continental yếu làm giảm nhẹ độ xoay sấp cổ tay so với cú giao bóng phẳng, RS vẫn có độ xoay sấp cổ tay lớn hơn cú giao bóng cắt. Thực tế, vì độ xoay sấp cổ tay trên RS tương tự cú giao bóng phẳng hơn là cú giao bóng cắt, tôi thực sự giao RS của mình nhanh hơn vài km/giờ so với cú giao bóng cắt thông thường của mình. Tôi cũng thấy RS nhẹ nhàng hơn với cánh tay, đặc biệt là khuỷu tay của tôi. Đó là vì độ xoay sấp cổ tay của RS giãn các cơ cẳng tay, giảm áp lực lên khuỷu tay, trong khi cú giao bóng cắt tạo nhiều căng thẳng hơn lên khuỷu tay với độ xoay sấp cổ tay nhỏ hơn của nó.
+
+RS bắt đầu giống hệt một cú giao bóng phẳng thông thường. Trong khung hình ba, Kirill chuyển tay đánh bóng ra khỏi cách cầm continental và vào cách cầm eastern thuận tay. Trong khung hình bốn, tay trái anh di chuyển sang trái sớm hơn và nhanh hơn so với trên một cú giao bóng phẳng để mở đường cho vợt di chuyển sang trái. Giữa khung hình bốn và năm, ta thấy vợt di chuyển lên và sang trái trước khi tiếp xúc phần 10 giờ của bóng. Trong khung hình sáu, cạnh dẫn của vợt tiếp tục di chuyển về phía cột lưới bên trái sau khi tiếp xúc. Trong khung hình cuối cùng, Kirill kết thúc động tác và sẽ dừng lại nghiêng nhiều hơn về phía trái trên sân so với các cú giao bóng thông thường. Điều này đặt anh vào vị trí tốt để dùng cú thuận tay áp đảo pha đôi công cuối sân.
+
+RS không phải là không có khiếm khuyết. Hai điểm bất lợi của RS so với các cú giao bóng truyền thống là căn chỉnh tay trên chuôi vợt với cẳng tay không chắc chắn bằng tại thời điểm tiếp xúc, và điểm tiếp xúc hơi thấp hơn và nhiều về phía trước thân người hơn mức lý tưởng. Nhưng đây là những nhược điểm nhỏ khi so với lợi ích của việc thỉnh thoảng gây bất ngờ cho đối phương bằng một đường cong kiểu tay trái đe dọa trên cú giao bóng của bạn.
+
+### **3. KỸ THUẬT GIAO BÓNG ĐẢO CHIỀU CHO NGƯỜI CHƠI NGHIỆP DƯ**
+
+Hướng dẫn RS ở trên áp dụng cho người chơi nghiệp dư, ngoại trừ để dễ thực hiện hơn, có những khác biệt về cách cầm và cú tung bóng. Người chơi nghiệp dư nên bắt đầu RS với cách cầm eastern thuận tay, và cú tung bóng nên lệch khoảng 30cm sang trái và 30cm xa hơn về phía trước so với cú tung bóng của một cú giao bóng phẳng. Vì cú tung bóng ở một vị trí khác, một ưu điểm bổ sung của RS là tác động tiêu cực của ánh nắng chiếu vào mắt trong lúc tung bóng có thể được tránh ở cả hai bên sân, bằng cách giao RS ở một bên và cú giao bóng kiểu truyền thống ở bên còn lại.
+
+### **4. KẾT LUẬN VỀ CÚ GIAO BÓNG ĐẢO CHIỀU**
+
+Có những môn thể thao khác nơi các vận động viên thường xuyên bẻ cong bóng cả sang phải lẫn trái. Động tác tương đồng nhất với động tác giao bóng trong quần vợt là cú ném bóng chày. Giống như giao bóng, ném bóng chày đòi hỏi tốc độ cao và sự chính xác, và liên quan đến việc pha trộn các kiểu ném với các chuyển động cổ tay khác nhau để giữ đối phương lệch nhịp. Trong bóng chày, có cú slider, khiến bóng di chuyển từ phải sang trái tương tự một cú giao bóng cắt trong quần vợt, và cú screwball, khiến bóng bẻ từ trái sang phải tương tự một RS. Nếu một cầu thủ ném bóng có thể ném một quả bóng đi khoảng 18 mét qua một tấm đĩa rộng khoảng 43cm với nhiều chuyển động cổ tay khác nhau, tôi thấy ít lý do để một tay vợt quần vợt không thể học đánh RS qua một tấm lưới cao khoảng 90cm vào ô giao bóng rộng khoảng 26 mét vuông. Ngoài ra, hãy nhớ rằng giao bóng là cú đánh duy nhất trong quần vợt mà bạn có toàn quyền kiểm soát 100%. Đặc điểm này của cú giao bóng khiến việc học nhiều chuyển động vợt khác nhau và đa dạng các loại xoáy trở nên dễ dàng hơn.
+
+Federer kết thúc cú giao bóng của mình ở độ cao lớn so với mặt đất. Cú giao bóng kiểu bóng chuyền giúp các tay vợt bật cao hơn, cải thiện quỹ đạo bóng vào ô giao bóng. Gần như bất kỳ ai từng chơi quần vợt ở trình độ cao đều đã thử nghiệm RS. Đây không phải là một ý tưởng mới. Tôi có những người bạn huấn luyện viên, dù không luyện tập nó một cách nghiêm túc, vẫn có thể ace tôi bằng RS của họ. Biết được hiệu quả của nó, tôi thấy khó hiểu tại sao RS chưa trở thành một cú giao bóng thỉnh thoảng được công nhận rộng rãi để gây bất ngờ cho đối phương. Nhưng rồi, như đã giải thích trước đó trong chương, có nhiều cú đánh phổ biến ngày nay đã mất thời gian để phát triển và được công nhận --- có lẽ tôi không nên quá ngạc nhiên.
+
+**IV. Cú Giao Bóng Kiểu Bóng Chuyền**
+-------------------------------------
+
+TẠI SAO NHỮNG VẬN ĐỘNG VIÊN NHẢY CAO lại chạy đà một quãng dài trước khi giậm nhảy và vượt qua xà? Đó là vì đà tiến về phía trước của việc chạy đà cho phép họ nhảy cao hơn. Chính vì lý do này mà tôi tin rằng cú giao bóng kiểu bóng chuyền (VS) một ngày nào đó có thể trở thành một phần của kho từ vựng quần vợt. Bạn bắt đầu VS bằng cách vào tư thế giao bóng thông thường nhưng đứng cách vạch cuối sân khoảng 30 đến 45cm về phía sau (hình đối diện, trái). Sau khi bắt đầu vung vợt ra sau, bước chân trái về phía trước khoảng 30 đến 45cm trước khi thực hiện một cú giao bóng pinpoint thông thường (hình đối diện, giữa và phải). Bước tiến này của chân trái không chỉ tăng tốc độ vợt mà còn tạo ra một cú bật cao hơn và dài hơn khỏi mặt đất.
+
+Cú bật lên mạnh mẽ hơn này cải thiện cú giao bóng theo hai cách quan trọng: nó nâng cao độ cao tiếp xúc của bạn và rút ngắn sân. Như đã bàn ở Chương Năm, một điểm tiếp xúc cao hơn cải thiện quỹ đạo bóng vào ô giao bóng bằng cách tăng biên độ sai số phía trên lưới và bên trong vạch giao bóng. Có một lý do tại sao Ivo Karlovic, cao khoảng 2,11 mét, đã giao được nhiều cú ace nhất trong lịch sử ATP Tour. Cú bật xa hơn cũng rút ngắn sân, đánh cắp thời gian phản ứng của đối phương. Nếu bạn từng đỡ giao bóng từ một đối tác tập luyện đứng hơi vào trong vạch cuối sân, bạn sẽ biết một khoảnh khắc thời gian bị rút ngắn có thể ảnh hưởng xấu đến mức nào đối với cú đỡ giao bóng của bạn.
+
+Tôi bắt đầu VS ở tư thế giao bóng thông thường của mình nhưng cách vạch cuối sân hơn 30cm về phía sau (trái). Tiếp theo, tôi bước chân trái về phía trước trong lúc vung vợt ra sau (giữa) rồi vào tư thế cây đèn (phải) với thêm đà tiến về phía trước để tăng độ cao tiếp xúc và sức mạnh cho cú giao bóng của mình.
+
+**V. Một Lựa Chọn Giao Bóng Khác**
+----------------------------------
+
+CÓ MỘT LỰA CHỌN TƯ THẾ GIAO BÓNG KHÁC có thể tăng cường cú giao bóng của bạn. Nó tận dụng những ưu điểm khác nhau mà tư thế platform và pinpoint mang lại (xem trang 40--41) để giúp mọi người giao bóng theo những cách khác nhau.
+
+Trong bất kỳ cú giao bóng mạnh nào, bạn đẩy thân người cả lên trên lẫn về phía trước. Lực đẩy chân của tư thế platform tốt hơn tư thế pinpoint trên lực đẩy lên trên, trong khi tư thế pinpoint có đà tiến về phía trước mạnh hơn. Tư thế platform ổn định hơn, nhưng kém mạnh mẽ hơn ở những khía cạnh khác, trong khi tư thế pinpoint có chuyển động hông mạnh mẽ hơn và một luồng năng lượng lớn hơn nhưng đòi hỏi khả năng kiểm soát thân người vượt trội.
+
+Những ưu và nhược điểm này có thể giúp ích hoặc gây hại cho khả năng thực hiện các cú giao bóng thứ nhất và thứ hai hiệu quả của bạn. Sức mạnh bùng nổ của tư thế pinpoint đặc biệt hữu ích trên cú giao bóng thứ nhất, nhưng cú giao bóng thứ hai đòi hỏi sự ổn định với ít chú trọng hơn vào tốc độ. Đây là lý do tại sao sự ổn định của tư thế platform thường khiến nó trở thành lựa chọn tốt cho cú giao bóng thứ hai. Không chỉ có sự khác biệt về mục đích giữa cú giao bóng thứ nhất và thứ hai, mà cú tung bóng cũng khác nhau. Cú tung bóng trên cú giao bóng thứ hai ít về phía trước thân người hơn cú giao bóng thứ nhất, và do đó, cả hai cú giao bóng đều đòi hỏi một tư thế chân hơi khác nhau.
+
+Đưa chân sau về phía trước, nhưng để lại một khoảng cách giữa hai chân, có thể tăng lực cho cú giao bóng thứ nhất của một người giao bóng tư thế platform và tăng sự ổn định cho cú giao bóng thứ hai của một người giao bóng tư thế pinpoint.
+
+Có kỹ thuật nào có thể giải quyết bài toán về tư thế đứng trên cú giao bóng không? Việc đưa chân sau về phía trước trong lúc vung vợt ra sau và để lại một khoảng cách nhỏ giữa hai chân ở tư thế cây đèn có thể hữu ích (hình trên). Kỹ thuật này kết hợp các yếu tố tích cực của tư thế pinpoint (đà tiến về phía trước và chuyển động hông) cùng với các yếu tố tích cực của tư thế platform (lực đẩy chân và sự ổn định). Những phẩm chất này có thể cải thiện cú giao bóng thứ nhất của một người giao bóng tư thế platform, và cú giao bóng thứ hai của một người giao bóng tư thế pinpoint.
+
+**VI. Kết Luận**
+----------------
+
+TRONG SUỐT LỊCH SỬ QUẦN VỢT, các tay vợt và huấn luyện viên đã tạo ra những kỹ thuật đổi mới ban đầu vấp phải sự phản đối trước khi được đón nhận như những phương pháp vượt trội. ODF, RS, và VS hiện chưa được giảng dạy rộng rãi, nhưng cũng như quần vợt đã đón nhận nhiều thay đổi kỹ thuật trong quá khứ, những cú đánh này rồi cũng có thể trở nên quen thuộc với chúng ta trong tương lai. Cú trái tay \"lai\" được đề cập ở Chương Tám, tức là sử dụng cú trái tay hai tay khi đỡ giao bóng và cú trái tay một tay trong pha đôi công, là một cú đánh khác cũng có thể được chấp nhận rộng rãi. Chắc chắn, quần vợt ngày nay mang tính thể thao, tấn công, và khoa học hơn bao giờ hết, và cộng đồng quần vợt cởi mở hơn với những ý tưởng thay thế này so với trước đây.
+
+Tôi muốn nói, hãy táo bạo và nhớ đến những tay vợt vĩ đại đã bỏ ngoài tai những người hoài nghi, tiên phong với những cú đánh mới, và gặt hái những thành quả to lớn. Cũng như Courier đã xác lập cú thuận tay inside forehand, Agassi với cú vô lê có đà vung, chị em nhà Williams với cú trái tay tư thế mở, và Nadal với cú thuận tay reverse, ODF, RS, và VS có thể cần được một tay vợt chuyên nghiệp xếp hạng cao áp dụng trước khi được chấp nhận rộng rãi. Nhưng ngay cả khi những cú đánh này còn cách một thập kỷ hoặc hơn nữa mới được giảng dạy, bạn không cần phải chờ đợi --- bạn có thể là người tiên phong và bắt đầu ngay từ hôm nay.
+
+  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  **HỘP HUẤN LUYỆN VIÊN:**
+  **Có nhiều ví dụ trong thể thao nơi truyền thống nhường chỗ cho sự thay đổi, dù vào thời điểm đó đó là một quyết định gây tranh cãi. Trường hợp của cầu thủ đá phạt Jon Ryan của đội Seattle Seahawks minh họa cả sự phản đối lẫn lợi ích của một ý tưởng mới. Vào đầu mùa giải 2013, sau bảy năm ở NFL, Ryan đã thay đổi phong cách đá phạt của mình, áp dụng cái mà anh gọi là \"cách tiếp cận kiểu Úc\" trong các tình huống đá ngắn, và bắt đầu đá bóng với độ xoáy lộn nhào đầu-đuôi thay vì độ xoáy \"ngư lôi\" truyền thống. Sự thay đổi này khiến các cú đá của anh chính xác hơn và chỉ có 28,4% số cú đá của Ryan bị trả lại trong năm đó, tỷ lệ tốt thứ hai trong giải.(4) Các môn thể thao Olympic cũng đã thay đổi kỹ thuật của họ theo hướng tốt hơn --- và đôi khi một cách triệt để --- chẳng hạn như trong môn nhảy cao. Dick Fosbury ban đầu bị chế giễu khi anh thay đổi cách nhảy cao bằng cách phát minh ra \"cú lộn Fosbury\" (Fosbury Flop). Cú lộn Fosbury sử dụng phương pháp nhảy cao đầu trước, lưng hướng về phía xà mà anh tiên phong và dùng để giành huy chương vàng Olympic năm 1968.**
+  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Fosbury không được kỳ vọng sẽ chiến thắng, nhưng việc anh dũng cảm áp dụng một ý tưởng mới đã mang lại cho anh lợi thế để giành huy chương vàng năm đó. Anh nói: \"Tôi đoán ban đầu nó trông có vẻ kỳ quặc, nhưng nó cảm thấy tự nhiên đến mức, như mọi ý tưởng hay khác, bạn chỉ tự hỏi tại sao không ai nghĩ ra nó trước tôi.\"(5) Đây là một minh chứng cho sự không sẵn lòng thay đổi và chấp nhận rủi ro của xã hội, cũng như niềm tin chung rằng những kỹ thuật đã được kiểm chứng theo thời gian hẳn phải là tối ưu và do đó hiếm khi bị thách thức. Với khán giả năm 1968, cú lộn Fosbury thật kỳ quặc, nhưng nhìn lại, chính các đối thủ của anh với cú nhảy kiểu kéo chân mới là những người trông kỳ lạ.
+
+Tại Giải Mỹ Mở Rộng này, cũng như tại tất cả các giải Grand Slam, giải đấu đơn là sự kiện chính thu hút người hâm mộ quần vợt. Một trận đấu đơn chuyên nghiệp cân tài cân sức không chỉ làm nổi bật thể lực và kỹ năng của các tay vợt, mà còn cả tính cách và tâm trí của họ, tạo nên một màn kịch tính thực sự cả về thể chất lẫn trí tuệ.

@@ -1,12 +1,14 @@
 ---
 title: CẨM NANG QUẦN VỢT TOÀN DIỆN
-description: Bộ sưu tập 17 chương hướng dẫn quần vợt toàn diện cho người mới bắt đầu và người chơi trình độ trung cấp (3.5+). Tài liệu gốc từ "Absolute Tennis" của Marty Smith — được biên soạn và chuyển ngữ sang tiếng Việt.
+description: Bản dịch tiếng Việt đầy đủ 16 chương của "Absolute Tennis" (Marty Smith), kèm ảnh minh họa gốc, dành cho người mới bắt đầu và người chơi trình độ trung cấp (3.5+).
 ---
 
 # CẨM NANG QUẦN VỢT TOÀN DIỆN
 
-*Bản dịch tiếng Việt của "Absolute Tennis" tác giả Marty Smith (2017)*  
+*Bản dịch tiếng Việt đầy đủ của "Absolute Tennis" — tác giả Marty Smith (2017), kèm toàn bộ ảnh minh họa gốc*  
 *Biên soạn: Tennis Future Lab*
+
+🇬🇧 Đọc bản gốc tiếng Anh: **[ABSOLUTE TENNIS — English Original](../absolute-tennis-en/index.md)**
 
 ---
 
@@ -27,24 +29,21 @@ description: Bộ sưu tập 17 chương hướng dẫn quần vợt toàn diệ
 10. [Đánh bóng tấn công — Tiến lên lưới](danh-tan-cong.md)
 11. [Đánh bóng bổng (Volley) — Chốt điểm tại lưới](danh-bong-bong.md)
 
-### Phần 3: Chiến thuật & Tâm lý
-12. [Đơn — Chiến thuật & Định vị](don.md)
-13. [Đôi — Vị trí, phối hợp, chiến thuật](doi.md)
-14. [Tâm lý — Tập trung, bình tĩnh, chiến thuật](tam-ly.md)
-15. [Thể lực — Sức bền, tốc độ, sức mạnh](the-luc.md)
-
-### Phần 4: Tâm trí & Tương lai
-16. [Tổng kết & Triết lý tập luyện](tong-ket.md)
-17. [Những kỹ thuật tương lai](ky-thuat-tuong-lai.md)
+### Phần 3: Chiến thuật, Tâm lý & Thể lực
+12. [Những kỹ thuật tương lai](ky-thuat-tuong-lai.md)
+13. [Đơn — Chiến thuật & Định vị](don.md)
+14. [Đôi — Vị trí, phối hợp, chiến thuật](doi.md)
+15. [Tâm lý — Tập trung, bình tĩnh, chiến thuật](tam-ly.md)
+16. [Thể lực — Sức bền, tốc độ, sức mạnh](the-luc.md)
 
 ---
 
 ## Cách sử dụng cẩm nang
 
-- **Người mới**: Đọc theo trình tự từ Chương 1 → 17
+- **Người mới**: Đọc theo trình tự từ Chương 1 → 16
 - **Cải thiện cú đánh cụ thể**: Nhảy đến chương tương ứng (VD: Giao bóng → Chương 5)
 - **Huấn luyện viên**: Sử dụng như tài liệu tham khảo cho bài giảng
-- **Tra cứu nhanh**: Mỗi chương có "Hộp Huấn luyện viên" tóm tắt điểm chính
+- **Đối chiếu song ngữ**: Mỗi chương có bản tiếng Anh tương ứng ở [ABSOLUTE TENNIS — English Original](../absolute-tennis-en/index.md)
 
 ---
 

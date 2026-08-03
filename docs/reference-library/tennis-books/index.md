@@ -25,17 +25,20 @@ instead of single-paragraph OCR dumps.
 
 ## Books Index
 
+### Featured
+- **:material-book-open-variant: ABSOLUTE TENNIS — the original book** by Marty Smith · full 16 chapters, English, with original photos — [Read (English)](absolute-tennis-en/index.md)
+- **:material-book-open-variant: CẨM NANG QUẦN VỢT TOÀN DIỆN** — bản dịch tiếng Việt đầy đủ, 16 chương, kèm ảnh minh họa — [Đọc (Tiếng Việt)](cam-nang-quan-vot-toan-dien/index.md)
+- **United Tennis Handbook — 30-Chapter CORE Biomechanics System** — [🇬🇧 Read English edition](unified-handbook-en.html) · [🇻🇳 Đọc bản Tiếng Việt](unified-handbook-vi.html)
+
 ### English Originals
-- **United Tennis Handbook — 30-Chapter CORE Biomechanics System** — [Read Ebook](unified-handbook.html)
-- [1. Absolute tennis_clean](1-absolute-tennis-clean.md)
+- [1. Absolute tennis_clean (single-page, unillustrated)](1-absolute-tennis-clean.md)
 - [1. Absolute tennis_structured](1-absolute-tennis-structured.md)
 - [2. Vic Braden's Laugh and Win at Doubles](2-vic-braden-s-laugh-and-win-at-doubles-complete-vi.md)
 - [Step by Step Tennis Skills (English)](step-by-step-tennis-skills/en/index.md)
 
 ### Vietnamese Translations
-- [1. Absolute tennis_final_vi](1-absolute-tennis-final-vi.md)
+- [1. Absolute tennis_final_vi (single-page, unillustrated)](1-absolute-tennis-final-vi.md)
 - [3. Step by Step Tennis Skills_vi_complete](3-step-by-step-tennis-skills-vi-complete.md)
-- [Cẩm nang Quần vợt Toàn diện (Absolute Tennis VI)](cam-nang-quan-vot-toan-dien/index.md)
 
 ### Other Resources
 - [Tennis Lexicon En-Vi](tennis-lexicon-en-vi-updated.md)
