@@ -15,7 +15,7 @@ Hitting stances should also vary with distance to the ball and with the
 stroke itself. See it all in this incredible article based on David's
 decades of study of the footwork of the best players in the world.
 
-![link](media_the-golden-move-1-the-stepdown/media/image1.wmf)
+![link](media_the-golden-move-1-the-stepdown/media/image1.png)
 
 ![link](media_the-golden-move-1-the-stepdown/media/image2.jpeg)
 

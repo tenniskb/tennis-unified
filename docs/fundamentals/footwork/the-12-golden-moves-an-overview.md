@@ -9,7 +9,7 @@ move at a time in the individual articles. So here is an overview of the
 key points of all 12 moves in one amazing, compact piece with new
 summaries by David himself.
 
-![link](media_the-12-golden-moves-an-overview/media/image1.wmf)
+![link](media_the-12-golden-moves-an-overview/media/image1.png)
 
 ![link](media_the-12-golden-moves-an-overview/media/image2.jpeg)
 
