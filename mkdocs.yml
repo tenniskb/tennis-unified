@@ -52,6 +52,7 @@ markdown_extensions:
   - tables
   - footnotes
 plugins:
+  - awesome-pages
   - i18n:
       docs_structure: folder
       languages:
@@ -170,16 +171,16 @@ nav:
   - Home: index.md
   - Foundation:
       - Overview: foundation/index.md
-      - Basics: foundation/basics/index.md
-      - Deep Dives: foundation/deep-dives/index.md
+      - Basics: foundation/basics
+      - Deep Dives: foundation/deep-dives
   - Advanced:
       - Overview: advanced/index.md
-      - Basics: advanced/basics/index.md
-      - Deep Dives: advanced/deep-dives/index.md
+      - Basics: advanced/basics
+      - Deep Dives: advanced/deep-dives
   - Elite:
       - Overview: elite/index.md
-      - Basics: elite/basics/index.md
-      - Deep Dives: elite/deep-dives/index.md
+      - Basics: elite/basics
+      - Deep Dives: elite/deep-dives
   - Fundamentals:
       - Overview: fundamentals/index.md
       - Footwork:
