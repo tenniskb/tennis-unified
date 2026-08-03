@@ -12,6 +12,8 @@ theme:
   features:
     - navigation.tabs
     - navigation.sections
+    - navigation.top
+    - navigation.path
     - navigation.expand
     - navigation.indexes
     - navigation.prune
@@ -154,6 +156,18 @@ plugins:
 
 nav:
   - Home: index.md
+  - Foundation:
+      - Overview: foundation/index.md
+      - Basics: foundation/basics/index.md
+      - Deep Dives: foundation/deep-dives/index.md
+  - Advanced:
+      - Overview: advanced/index.md
+      - Basics: advanced/basics/index.md
+      - Deep Dives: advanced/deep-dives/index.md
+  - Elite:
+      - Overview: elite/index.md
+      - Basics: elite/basics/index.md
+      - Deep Dives: elite/deep-dives/index.md
   - Fundamentals:
       - Overview: fundamentals/index.md
       - Footwork:
