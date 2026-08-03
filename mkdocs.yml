@@ -52,7 +52,6 @@ markdown_extensions:
   - tables
   - footnotes
 plugins:
-  - awesome-pages
   - i18n:
       docs_structure: folder
       languages:
@@ -171,16 +170,168 @@ nav:
   - Home: index.md
   - Foundation:
       - Overview: foundation/index.md
-      - Basics: foundation/basics
-      - Deep Dives: foundation/deep-dives
+      - Basics:
+          - Overview: foundation/basics/index.md
+          - "Approach Shot Strategy Beyond The Slice": foundation/basics/Approach-Shot-Strategy-Beyond-the-Slice/index.md
+          - "Backhand — Backhand — The Mirror, The Whip & The Slice": foundation/basics/Backhand/Backhand — The Mirror, The Whip & The Slice.md
+          - "Backhand — One Handed Backhand — The Full Deep Dive": foundation/basics/Backhand/One-Handed Backhand — The Full Deep Dive.md
+          - "Backhand — Quick Reference Slice Cheat Sheet": foundation/basics/Backhand/Quick Reference - Slice Cheat Sheet.md
+          - "Backhand — Slice Low Ball Variation": foundation/basics/Backhand/Slice - Low Ball Variation.md
+          - "Backhand — Slice Return Variation": foundation/basics/Backhand/Slice - Return Variation.md
+          - "Continental Grip": foundation/basics/Continental Grip/index.md
+          - "Continental Grip The 9 Shot Universal Key": foundation/basics/Continental Grip - The 9-Shot Universal Key.md
+          - "Doubles Patterns": foundation/basics/Doubles Patterns/index.md
+          - "Doubles Return Patterns": foundation/basics/Doubles Return Patterns/index.md
+          - "Doubles Return Patterns — Coach's Guide": foundation/basics/Doubles Return Patterns — Coach's Guide.md
+          - "Doubles Serves": foundation/basics/Doubles Serves/index.md
+          - "Doubles Tactics": foundation/basics/Doubles Tactics/index.md
+          - "Doubles Serves The 4 Patterns": foundation/basics/Doubles-Serves-The-4-Patterns.md
+          - "Doubles Tactics Communication Formations Longevity": foundation/basics/Doubles-Tactics-Communication-Formations-Longevity.md
+          - "Drop Shot The Standalone Weapon": foundation/basics/Drop-Shot-The-Standalone-Weapon/index.md
+          - "Eastern Semi Western Grip": foundation/basics/Eastern Semi-Western Grip/index.md
+          - "Eastern Semi Western Grip": foundation/basics/Eastern Semi-Western Grip.md
+          - "Fitness Conditioning And Recovery Coaching Guide": foundation/basics/Fitness-Conditioning-and-Recovery-Coaching-Guide/index.md
+          - "Foot Strike Mechanics Forefoot Vs Heel Coaching Guide": foundation/basics/Foot-Strike-Mechanics-Forefoot-vs-Heel-Coaching-Guide/index.md
+          - "Footwork": foundation/basics/Footwork/index.md
+          - "Forehand": foundation/basics/Forehand/index.md
+          - "Forehand — Forehand L Angle And Late Acceleration": foundation/basics/Forehand/Forehand L-Angle and Late Acceleration.md
+          - "Forehand — Khoa Vai Thuc Hu Axis": foundation/basics/Forehand/Khoa Vai Thuc Hu Axis.md
+          - "Forehand — Racket Embodiment": foundation/basics/Forehand/Racket Embodiment.md
+          - "Forehand — Unit Turn And Racket Head Position": foundation/basics/Forehand/Unit Turn and Racket Head Position.md
+          - "Foundations And Grip": foundation/basics/Foundations and Grip/index.md
+          - "Foundations And Grip Coaching Guide": foundation/basics/Foundations-and-Grip-Coaching-Guide.md
+          - "Giao Bong Trong Luc Huong Dan VI": foundation/basics/Giao-Bong-Trong-Luc-Huong-Dan-VI.md
+          - "Grip Change Map": foundation/basics/Grip Change Map/index.md
+          - "Grip Pressure": foundation/basics/Grip Pressure/index.md
+          - "Grip Change Map Coaching Guide": foundation/basics/Grip-Change-Map-Coaching-Guide.md
+          - "Grip Pressure Coaching Guide": foundation/basics/Grip-Pressure-Coaching-Guide.md
+          - "HRV Dashboard": foundation/basics/HRV Dashboard/index.md
+          - "Injury Prevention And Joint Health Coaching Guide": foundation/basics/Injury-Prevention-and-Joint-Health-Coaching-Guide/index.md
+          - "Kick Serve Topspin Second Serve Coaching Guide": foundation/basics/Kick-Serve-Topspin-Second-Serve-Coaching-Guide/index.md
+          - "Lob And Overhead": foundation/basics/Lob and Overhead/index.md
+          - "Lob And Overhead Coaching Guide": foundation/basics/Lob-and-Overhead-Coaching-Guide.md
+          - "Mental Game": foundation/basics/Mental Game/index.md
+          - "Mental Game Coaching Guide": foundation/basics/Mental-Game-Coaching-Guide.md
+          - "Monopedal Single Leg Balance Training Coaching Guide": foundation/basics/Monopedal-Single-Leg-Balance-Training-Coaching-Guide/index.md
+          - "Pre Movement Readiness The Idle Engine And Micro Bounce System": foundation/basics/Pre-Movement-Readiness-The-Idle-Engine-and-Micro-Bounce-System/index.md
+          - "Return Of Serve": foundation/basics/Return of Serve/index.md
+          - "Return Of Serve Coaching Guide": foundation/basics/Return-of-Serve-Coaching-Guide.md
+          - "Serve": foundation/basics/Serve/index.md
+          - "Serve Stance Platform Vs Pinpoint And The Hitch Coaching Guide": foundation/basics/Serve-Stance-Platform-vs-Pinpoint-and-the-Hitch-Coaching-Guide/index.md
+          - "Slice Approach": foundation/basics/Slice Approach/index.md
+          - "Slice Backhand — Quick Reference": foundation/basics/Slice Backhand — Quick Reference.md
+          - "Slice Family Doubles": foundation/basics/Slice Family Doubles/index.md
+          - "Slice Variations": foundation/basics/Slice Variations/index.md
+          - "Slice Approach Coaching Guide": foundation/basics/Slice-Approach-Coaching-Guide.md
+          - "Slice Family Doubles Coaching Guide": foundation/basics/Slice-Family-Doubles-Coaching-Guide.md
+          - "Slice Variations Coaching Guide": foundation/basics/Slice-Variations-Coaching-Guide.md
+          - "Strike Dont Swing And Weighted Shadow Swing Training": foundation/basics/Strike-Dont-Swing-and-Weighted-Shadow-Swing-Training/index.md
+          - "The Backhand — The Mirror, The Whip And The Slice": foundation/basics/The Backhand — The Mirror, The Whip and The Slice.md
+          - "The Low Ball Slice — Scoop And Slide": foundation/basics/The Low Ball Slice — Scoop and Slide.md
+          - "The One Handed Backhand — The Full Deep Dive": foundation/basics/The One-Handed Backhand — The Full Deep Dive.md
+          - "The Return Of Serve Slice — Safety First": foundation/basics/The Return of Serve Slice — Safety First.md
+          - "The Gravity Serve Coaching Guide": foundation/basics/The-Gravity-Serve-Coaching-Guide.md
+          - "Volley": foundation/basics/Volley/index.md
+          - "Volley Coaching Guide": foundation/basics/Volley-Coaching-Guide.md
+      - Deep Dives:
+          - Overview: foundation/deep-dives/index.md
+          - "1 Page Pocket Card": foundation/deep-dives/1-Page Pocket Card/index.md
+          - "Backhand": foundation/deep-dives/Backhand/index.md
+          - "Backhand The Mirror The Whip The Slice": foundation/deep-dives/Backhand-The-Mirror-The-Whip-The-Slice.md
+          - "Complete Manual": foundation/deep-dives/Complete Manual/index.md
+          - "Complete Tennis Manual Master Reference V2": foundation/deep-dives/Complete Tennis Manual - Master Reference v2.md
+          - "Continental Grip": foundation/deep-dives/Continental Grip/index.md
+          - "Continental Grip": foundation/deep-dives/Continental Grip.md
+          - "Decision Latency": foundation/deep-dives/Decision Latency/index.md
+          - "Doubles Patterns": foundation/deep-dives/Doubles Patterns/index.md
+          - "Doubles Serves": foundation/deep-dives/Doubles Serves/index.md
+          - "Doubles Tactics": foundation/deep-dives/Doubles Tactics/index.md
+          - "Eastern Semi Western Grip": foundation/deep-dives/Eastern Semi-Western Grip/index.md
+          - "Eastern Semi Western Grip The 30 Percent Forehand Grips": foundation/deep-dives/Eastern-Semi-Western-Grip-The-30-Percent-Forehand-Grips.md
+          - "Elite Manual": foundation/deep-dives/Elite Manual/index.md
+          - "Footwork": foundation/deep-dives/Footwork/index.md
+          - "Footwork Court Positioning And Recovery Patterns Deep Dive": foundation/deep-dives/Footwork-Court-Positioning-and-Recovery-Patterns-Deep-Dive/index.md
+          - "Footwork The Art Of Smart Movement": foundation/deep-dives/Footwork-The-Art-of-Smart-Movement.md
+          - "Forehand": foundation/deep-dives/Forehand/index.md
+          - "Foundations & Grip": foundation/deep-dives/Foundations & Grip/index.md
+          - "Future Lab Handbook": foundation/deep-dives/Future Lab Handbook/index.md
+          - "Grip Change Map": foundation/deep-dives/Grip Change Map/index.md
+          - "Grip Pressure": foundation/deep-dives/Grip Pressure/index.md
+          - "Lob And Overhead": foundation/deep-dives/Lob and Overhead/index.md
+          - "Myelination": foundation/deep-dives/Myelination/index.md
+          - "One Handed Backhand Full Deep Dive": foundation/deep-dives/One-Handed-Backhand-Full-Deep-Dive.md
+          - "Pressure Inoculation": foundation/deep-dives/Pressure Inoculation/index.md
+          - "Return Of Serve": foundation/deep-dives/Return of Serve/index.md
+          - "Self Coaching Discipline": foundation/deep-dives/Self-Coaching Discipline/index.md
+          - "Serve The Gravity And Rotation Serve": foundation/deep-dives/Serve - The Gravity and Rotation Serve.md
+          - "Slice Approach The Senior Friendly Way To The Net": foundation/deep-dives/Slice Approach - The Senior-Friendly Way to the Net.md
+          - "Slice Family Doubles": foundation/deep-dives/Slice Family Doubles/index.md
+          - "Slice Low Ball Variation": foundation/deep-dives/Slice-Low-Ball-Variation.md
+          - "Slice Quick Reference Cheat Sheet": foundation/deep-dives/Slice-Quick-Reference-Cheat-Sheet.md
+          - "Slice Return Variation": foundation/deep-dives/Slice-Return-Variation.md
+          - "Tennis Future Lab Handbook": foundation/deep-dives/Tennis-Future-Lab-Handbook.md
+          - "The Mental Game — The Match Inside Your Head": foundation/deep-dives/The Mental Game — The Match Inside Your Head.md
+          - "Three Models": foundation/deep-dives/Three Models/index.md
+          - "Volley": foundation/deep-dives/Volley/index.md
+          - "Volley": foundation/deep-dives/Volley.md
   - Advanced:
       - Overview: advanced/index.md
-      - Basics: advanced/basics
-      - Deep Dives: advanced/deep-dives
+      - Basics:
+          - Overview: advanced/basics/index.md
+          - "In Match Tactical Adaptation Coaching Guide": advanced/basics/In-Match-Tactical-Adaptation-Coaching-Guide/index.md
+          - "Score Management Clutch Points And Tiebreaks Coaching Guide": advanced/basics/Score-Management-Clutch-Points-and-Tiebreaks-Coaching-Guide/index.md
+          - "Scouting And Reading The Opponent Coaching Guide": advanced/basics/Scouting-and-Reading-the-Opponent-Coaching-Guide/index.md
+          - "Singles Tactical Patterns And Shot Selection": advanced/basics/Singles-Tactical-Patterns-and-Shot-Selection/index.md
+          - "The Advanced Tennis Mastery Manual — Neurology And Anatomy For 3.5 To 4.5": advanced/basics/The Advanced Tennis Mastery Manual — Neurology and Anatomy for 3.5 to 4.5.md
+      - Deep Dives:
+          - Overview: advanced/deep-dives/index.md
+          - "Embodied Cognition": advanced/deep-dives/Embodied Cognition/index.md
+          - "Fascia Spirals": advanced/deep-dives/Fascia Spirals/index.md
+          - "Head Position & Vestibular": advanced/deep-dives/Head Position & Vestibular/index.md
+          - "Head Position And Vestibular Coaching Guide": advanced/deep-dives/Head-Position-and-Vestibular-Coaching-Guide.md
+          - "Proprioception": advanced/deep-dives/Proprioception/index.md
+          - "Reactive Strength And The Stretch Shortening Cycle For The Split Step": advanced/deep-dives/Reactive-Strength-and-the-Stretch-Shortening-Cycle-for-the-Split-Step/index.md
+          - "Reflex Arcs": advanced/deep-dives/Reflex Arcs/index.md
+          - "Reflex Arcs Coaching Guide": advanced/deep-dives/Reflex-Arcs-Coaching-Guide.md
+          - "Returning Heavy Spin And Fast Serves Saccadic Blindness": advanced/deep-dives/Returning-Heavy-Spin-and-Fast-Serves-Saccadic-Blindness/index.md
+          - "Shot Shaping Time Height And Position": advanced/deep-dives/Shot-Shaping-Time-Height-and-Position/index.md
+          - "Tensegrity Body": advanced/deep-dives/Tensegrity Body/index.md
+          - "Tensegrity Body Coaching Guide": advanced/deep-dives/Tensegrity-Body-Coaching-Guide.md
+          - "Two Engines": advanced/deep-dives/Two Engines/index.md
+          - "X Factor Anatomy": advanced/deep-dives/X-Factor Anatomy/index.md
+          - "X Factor Anatomy — Fascia Spirals Coaching Guide": advanced/deep-dives/X-Factor Anatomy/Fascia-Spirals-Coaching-Guide.md
+          - "X Factor Anatomy Coaching Guide": advanced/deep-dives/X-Factor-Anatomy-Coaching-Guide.md
   - Elite:
       - Overview: elite/index.md
-      - Basics: elite/basics
-      - Deep Dives: elite/deep-dives
+      - Basics:
+          - Overview: elite/basics/index.md
+          - "Elite Manual": elite/basics/Elite Manual/index.md
+          - "Elite Tennis Mastery Manual Break Free Orthodox Methodology": elite/basics/Elite-Tennis-Mastery-Manual-Break-Free-Orthodox-Methodology.md
+          - "Video And Self Analysis Methodology Coaching Guide": elite/basics/Video-and-Self-Analysis-Methodology-Coaching-Guide/index.md
+      - Deep Dives:
+          - Overview: elite/deep-dives/index.md
+          - "09 Decision Latency": elite/deep-dives/09 Decision Latency.md
+          - "10 Self Coaching Discipline": elite/deep-dives/10 Self-Coaching Discipline.md
+          - "Anti Orthodox Manifesto": elite/deep-dives/Anti-Orthodox Manifesto/index.md
+          - "Choking & Amygdala": elite/deep-dives/Choking & Amygdala/index.md
+          - "Choking And Amygdala — Exposure Therapy Protocol And Your Anti Choking Kit": elite/deep-dives/Choking and Amygdala — Exposure Therapy Protocol and Your Anti-Choking Kit.md
+          - "Constraint Led Self Discovery": elite/deep-dives/Constraint-Led Self-Discovery/index.md
+          - "Constraint Led Self Discovery": elite/deep-dives/Constraint-Led-Self-Discovery.md
+          - "Decision Latency": elite/deep-dives/Decision Latency/index.md
+          - "HRV Dashboard — Your Daily Bio Informed Decision System": elite/deep-dives/HRV Dashboard — Your Daily Bio-Informed Decision System.md
+          - "Hidden Speed": elite/deep-dives/Hidden Speed/index.md
+          - "Kinh & Mushin": elite/deep-dives/Kinh & Mushin/index.md
+          - "Myelination": elite/deep-dives/Myelination/index.md
+          - "Myelination The 6000 Percent Speed Gap": elite/deep-dives/Myelination - The 6000 Percent Speed Gap.md
+          - "Pocket Card": elite/deep-dives/Pocket Card/index.md
+          - "Pressure Inoculation": elite/deep-dives/Pressure Inoculation/index.md
+          - "Pressure Inoculation The 5 Rung Ladder": elite/deep-dives/Pressure Inoculation - The 5-Rung Ladder.md
+          - "Self Coaching Discipline": elite/deep-dives/Self-Coaching Discipline/index.md
+          - "The Anti Orthodox Manifesto — Breaking Free To Find Your Own System": elite/deep-dives/The Anti-Orthodox Manifesto — Breaking Free to Find Your Own System.md
+          - "The Dream Library": elite/deep-dives/The Dream Library/index.md
+          - "The Three Models Discovering Your Own Forehand": elite/deep-dives/The Three Models - Discovering Your Own Forehand.md
+          - "Three Models": elite/deep-dives/Three Models/index.md
+          - "Trương Lực": elite/deep-dives/Trương Lực/index.md
   - Fundamentals:
       - Overview: fundamentals/index.md
       - Footwork:
