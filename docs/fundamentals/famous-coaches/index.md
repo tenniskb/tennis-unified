@@ -1,84 +1,95 @@
 ---
 title: Famous Coaches
-description: Lessons from famous coaches — Lansdorp, Nadal, Yandell, Bresnik, and more
+description: Comprehensive collection of Famous Coaches articles and technical analyses from TennisPlayer.net library.
 ---
 
 # Famous Coaches
 
-Insights from the world's greatest tennis coaches.
+## Content Overview
 
-## Coach Collections
+Total Articles: 63
 
-| Coach | Articles | Focus |
-|---|---|---|
-| **Robert Lansdorp** | 7 | 2-handed backhand, forehand, 1-handed backhand, champion's mind |
-| **Toni Nadal** | 1 | Enigma of Toni |
-| **John Yandell** | 20+ | Modern forehand/backhand, serve, slice, osmosis clinic, pro return |
-| **Gunther Bresnik** | 1 | Thiem's coach |
-| **Tha Backhand Returns** | 1 | Backhand return |
-
-## Individual Lessons
-
-| Lesson | Coach/Source |
-|---|---|
-| Ball Awareness | — |
-| Changing Direction During Rallies | — |
-| Contact Point | — |
-| Court Awareness | — |
-| Creating American Champions Process | USTA |
-| Developing World Class Volleys - Backhand | — |
-| Developing World Class Volleys - Forehand | — |
-| Discipline | — |
-| Forehand Made Easy | — |
-| Hardcourt Confidential Excerpt | — |
-| How I Developed Guga | Larri Passos |
-| How You Can Play Better Doubles | — |
-| Learning from the Pros | — |
-| Learning to Play | — |
-| My Unit Turn Revelation | — |
-| Non-linear Tennis System | — |
-| Optimize Your Technique (Parts 1-3) | — |
-| Overcoming Resistance | — |
-| Point of Contact | — |
-| Return Plan | — |
-| Return Technique | — |
-| Robert Lansdorp and Champion's Mind | Lansdorp |
-| Secrets of the Wide Slice | — |
-| Self Awareness | — |
-| Starting Kids Right - Backhand | — |
-| Starting Kids Right - Forehand | — |
-| Starting Your Kids - First Fundamental Is Attitude | — |
-| Tennis Principles and Foundations | — |
-| The Approach and Volley | — |
-| The Backhand Volley | — |
-| The Dirty Diaper Drill | — |
-| The Enigma of Toni Nadal | Toni Nadal |
-| The Forehand Volley | — |
-| The Framework - New Paradigm | — |
-| The Killer Forehand (Parts 1-2) | — |
-| The Lansdorp 2-Handed Backhand | Lansdorp |
-| The Lansdorp Forehand | Lansdorp |
-| The Lansdorp One-Handed Backhand | Lansdorp |
-| The Mechanic and the Magician | — |
-| The Mental Game | — |
-| The Mind Game | — |
-| The Return Mentality | — |
-| The Reverse Forehand Revisited | — |
-| The Reverse Forehand | — |
-| The Set Up and Stance | — |
-| The Seven Modern Topspin Forehands | — |
-| The Split Step Ready Position | — |
-| The Strange Saga of Monique and Donald (Parts 1-2) | — |
-| The Three Forehand Finishes | — |
-| The Trophy Position | — |
-| The Value of Working on Your Strength | — |
-| Three Keys to the Kick | — |
-| Tips Don't Work | — |
-| What Is a Tour Coach | — |
-| What Is the Modern Forehand | — |
-| What's Tennis Con | — |
-| Working In With Pro Players | — |
+| Coach/Expert | Articles | Focus |
+|--------------|----------|-------|
+| **Robert Lansdorp** | 5 | 2-Handed Backhand, Forehand, 1-Handed Backhand, Champion's Mind |
+| **Toni Nadal** | 1 | Enigma of Toni Nadal |
+| **Gunther Bresnik** | 1 | Gulbis/Thiem coach interview |
+| **Sven Groeneveld** | 3 | Overcoming Resistance, Tour Coach, Working on Strengths |
+| **Paul Annacone** | 1 | Mechanic vs Magician player types |
+| **John Yandell** | 10+ | Ball Awareness, Contact Point, Court Awareness, Unit Turn, Opposite Arm, Framework |
+| **Other Experts** | 40+ | Discipline, Learning, Mental Game, Technique Optimization, Junior Development |
 
 ---
 
-**Start here:** [The Framework - New Paradigm](../../01-fundamentals/famous-coaches/the-framework-a-new-paradigm-for-technique-and-movement.html) → [Seven Modern Topspin Forehands](../../01-fundamentals/famous-coaches/the-seven-modern-topspin-forehands.html) → [Lansdorp Champion's Mind](../../01-fundamentals/famous-coaches/robert-lansdorp-and-the-champion-s-mind.html)
+## Articles Index
+
+### Robert Lansdorp Series
+- [The Lansdorp 2 Handed Backhand](the-lansdorp-2-handed-backhand.md)
+- [The Lansdorp Forehand](the-lansdorp-forehand.md)
+- [The Lansdorp One-handed Backhand](the-lansdorp-one-handed-backhand.md)
+- [Robert Lansdorp and the Champion's Mind](robert-lansdorp-and-the-champion-s-mind.md)
+
+### John Yandell Series
+- [Ball Awareness](ball-awareness.md)
+- [Contact Point](contact-point.md)
+- [Court Awareness](court-awareness.md)
+- [My Unit Turn Revelation](my-unit-turn-revelation.md)
+- [The Opposite Arm - Ground Strokes - Part 1](../classic-lessons/the-opposite-arm-ground-strokes-part-1.md)
+- [The Opposite Arm - Other Strokes - Part 2](../classic-lessons/the-opposite-arm-other-strokes-part2.md)
+- [Changing Direction During Rallies](changing-direction-during-rallies.md)
+- [The Framework - A New Paradigm for Technique and Movement](the-framework-a-new-paradigm-for-technique-and-movement.md)
+- [Learning from the Pros](learning-from-the-pros.md)
+- [Learning to play](learning-to-play.md)
+- [Tennis principles and foundations](tennis-principles-and-foundations.md)
+
+### Other Coaches & Experts
+- [Gunther Bresnik](gunther-bresnik.md) — Gulbis/Thiem coach interview
+- [The Enigma of Toni Nadal](the-enigma-of-toni-nadal.md)
+- [Overcoming Resistance](overcoming-resistance.md) — Sven Groeneveld
+- [What is a Tour Coach](what-is-a-tour-coach.md) — Sven Groeneveld
+- [The Value of Working on your strength](the-value-of-working-on-your-strength.md) — Sven Groeneveld
+- [The Mechanic and the Magician](the-mechanic-and-the-magician.md) — Paul Annacone
+- [Discipline](discipline.md)
+- [Self Awareness](self-awareness.md)
+- [Creating American Champions Process](creating-american-champions-process.md)
+- [Forehand Made Easy](forehand-made-easy.md)
+- [Non-linear tennis system](non-linear-tennis-system.md)
+- [Optimize Your Technique – Part 1](optimize-your-technique-part-1.md)
+- [Optimize Your Technique – Part 2](optimize-your-technique-part-2.md)
+- [Optimize Your Technique – Part 3](optimize-your-technique-part-3.md)
+- [Hardcourt Confidential Excerpt](hardcourt-confidential-excerpt.md)
+- [How you can play better doubles in tennis](how-you-can-play-better-doubles-in-tennis.md)
+- [Point of Contact](point-of-contact.md)
+- [Return Plan](return-plan.md)
+- [Return Technique](return-technique.md)
+- [Secrets of the Wide Slice](secrets-of-the-wide-slice.md)
+- [Starting Kids Right - The Backhand](starting-kids-right-the-backhand.md)
+- [Starting Kids Right - The Forehand](starting-kids-right-the-forehand.md)
+- [Starting Your Kids - The First Fundamental Is Attitude](starting-your-kids-the-first-fundamental-is-attitude.md)
+- [The Approach and Volley](the-approach-and-volley.md)
+- [The Backhand Volley](the-backhand-volley.md)
+- [The Dirty Diaper Drill](the-dirty-diaper-drill.md)
+- [The Forehand Volley](the-forehand-volley.md)
+- [The Killer Forehand - Part 1](the-killer-forehand-part-1.md)
+- [The Killer Forehand - Part 2](the-killer-forehand-part-2.md)
+- [The Mental Game](the-mental-game.md)
+- [The Mind Game](the-mind-game.md)
+- [The Return Mentality](the-return-mentality.md)
+- [The Reverse Forehand](the-reverse-forehand.md)
+- [The Reverse Forehand Revisited](the-reverse-forehand-revisited.md)
+- [The Set Up and Stance](the-set-up-and-stance.md)
+- [The Seven Modern Topspin Forehands](the-seven-modern-topspin-forehands.md)
+- [The Split Step Ready Position](the-split-step-ready-position.md)
+- [The Strange Saga of Monique and the Donald - Part 1](the-strange-saga-of-monique-and-the-donald-part-1.md)
+- [The Strange Saga of Monique and the Donald - Part 2](the-strange-saga-of-monique-and-the-donald-part-2.md)
+- [The Three Forehand Finishes](the-three-forehand-finishes.md)
+- [The trophy position](the-trophy-position.md)
+- [Three Keys to the Kick](three-keys-to-the-kick.md)
+- [Tips don't work](tips-don-t-work.md)
+- [What is the modern forhand](what-is-the-modern-forhand.md)
+- [What's Tennis Con](what-s-tennis-con.md)
+- [Famous Coaches TOC](famous-coaches-toc.md)
+
+### Developing World Class Volleys
+- [Developing World Class Volleys - Tha Backhand Volley](developing-world-class-volleys-tha-backhand-volley.md)
+- [Developing World Class Volleys - Tha Forehand Volley](developing-world-class-volleys-tha-forehand-volley.md)
