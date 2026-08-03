@@ -1,24 +1,59 @@
 ---
 title: Footwork
-description: Tennis footwork — contact moves, golden moves, court movement, ready position, reaction steps
+description: Comprehensive collection of Footwork articles and technical analyses from TennisPlayer.net library.
 ---
 
 # Footwork
 
-Footwork is the foundation of every stroke.
-
-## Articles (30+)
-
-| Category | Articles |
-|---|---|
-| **Contact Moves** | [Advanced Reaction Steps](../../01-fundamentals/footwork/advanced-reaction-steps.html), [Attacking Contact Moves](../../01-fundamentals/footwork/attacking-contact-moves.html), [Front Foot Hop](../../01-fundamentals/footwork/contact-moves-the-front-foot-hop.html), [Mogul Move](../../01-fundamentals/footwork/contact-moves-the-mogul-move.html), [Pivot Moves](../../01-fundamentals/footwork/contact-moves-the-pivot-moves.html), [Power Move](../../01-fundamentals/footwork/contact-moves-the-power-move.html), [Spin Moves](../../01-fundamentals/footwork/contact-moves-the-spin-moves.html), [Step Down](../../01-fundamentals/footwork/contact-moves-the-step-down.html), [Transfer](../../01-fundamentals/footwork/contact-moves-the-transfer.html) |
-| **Court Movement** | [Backhand](../../01-fundamentals/footwork/court-movement-the-backhand.html), [Float](../../01-fundamentals/footwork/court-movement-the-float.html), [Forehand](../../01-fundamentals/footwork/court-movement-the-forehand.html), [Volley](../../01-fundamentals/footwork/court-movement-the-volley.html) |
-| **Golden Moves** | [12 Golden Moves Overview](../../01-fundamentals/footwork/the-12-golden-moves-an-overview.html), [#1 Stepdown](../../01-fundamentals/footwork/the-golden-move-1-the-stepdown.html), [#2 Front Foot Hop](../../01-fundamentals/footwork/the-golden-move-2-the-front-foot-hop.html), [#3 Lateral Hop](../../01-fundamentals/footwork/the-golden-move-3-the-lateral-hop.html), [#4 Back Foot Hop](../../01-fundamentals/footwork/the-golden-move-4-the-back-foot-hop.html), [#5 Loaded Transfer](../../01-fundamentals/footwork/the-golden-move-5-the-loaded-transfer.html), [#6 Low Spin](../../01-fundamentals/footwork/the-golden-move-6-low-spin.html), [#7 Reverse Spin](../../01-fundamentals/footwork/the-golden-move-7-reverse-spin.html), [#8 Two Foot Pivot](../../01-fundamentals/footwork/the-golden-move-8-two-foot-pivot.html), [#9 One Foot Pivot](../../01-fundamentals/footwork/the-golden-move-9-one-foot-pivot.html), [#10 Closed Backhand Pivot](../../01-fundamentals/footwork/the-golden-move-10-closed-backhand-pivot.html), [#11 Mogul Move](../../01-fundamentals/footwork/the-golden-move-11-the-mogul-move.html), [#12 Power Move](../../01-fundamentals/footwork/the-golden-move-12-the-power-move.html) |
-| **Foundational** | [First Two Steps](../../01-fundamentals/footwork/first-two-steps-the-key-to-quickness.html), [Footwork Ready Position](../../01-fundamentals/footwork/footwork-ready-position.html), [Hitting Stance](../../01-fundamentals/footwork/the-hitting-stance.html), [Introduction to 12 Golden Moves](../../01-fundamentals/footwork/introduction-the-12-golden-moves.html) |
-| **Patterns** | [Forward Flow](../../01-fundamentals/footwork/forward-flow.html), [Hitting on the Run](../../01-fundamentals/footwork/hitting-on-the-run.html), [Lateral & Forward Movement](../../01-fundamentals/footwork/lateral-and-forward-movement.html), [More on Step-Step-Rip](../../01-fundamentals/footwork/more-on-the-step-step-rip.html), [Step-Step-Rip](../../01-fundamentals/footwork/step-step-rip.html) |
-| **Return of Serve** | [Defensive Contact Moves](../../01-fundamentals/footwork/return-of-serve-defensive-contact-moves.html), [Offensive Contact Moves](../../01-fundamentals/footwork/return-of-serve-offensive-contact-moves.html), [Contact Moves Introduction](../../01-fundamentals/footwork/return-of-serve-contact-moves-introduction.html) |
-| **Specialized** | [Athletic Foundation](../../01-fundamentals/footwork/the-athletic-foundation.html), [Building Contact Moves](../../01-fundamentals/footwork/the-building-contact-moves.html), [Counter Attacking Contact Moves](../../01-fundamentals/footwork/the-counter-attacking-contact-moves.html), [World Class Movement](../../01-fundamentals/footwork/world-class-movement.html), [Secrets of Spanish Footwork](../../01-fundamentals/footwork/inside-forehand.html) |
+Total Articles: 46
 
 ---
 
-**Start here:** [First Two Steps](../../01-fundamentals/footwork/first-two-steps-the-key-to-quickness.html) → [12 Golden Moves Overview](../../01-fundamentals/footwork/the-12-golden-moves-an-overview.html) → [Contact Moves Introduction](../../01-fundamentals/footwork/return-of-serve-contact-moves-introduction.html)
+## Articles Index
+
+- [Advanced Reaction Steps](advanced-reaction-steps.md)
+- [Attacking Contact Moves](attacking-contact-moves.md)
+- [Contact Moves - The Front Foot Hop](contact-moves-the-front-foot-hop.md)
+- [Contact Moves - The Mogul Move](contact-moves-the-mogul-move.md)
+- [Contact Moves - The Pivot Moves](contact-moves-the-pivot-moves.md)
+- [Contact Moves - The Power Move](contact-moves-the-power-move.md)
+- [Contact Moves - The Spin Moves](contact-moves-the-spin-moves.md)
+- [Contact Moves - The Step Down](contact-moves-the-step-down.md)
+- [Contact Moves - The Transfer](contact-moves-the-transfer.md)
+- [Court Movement - The Backhand](court-movement-the-backhand.md)
+- [Court Movement - The Float](court-movement-the-float.md)
+- [Court Movement - The Forehand](court-movement-the-forehand.md)
+- [Court Movement - The Volley](court-movement-the-volley.md)
+- [First Two Steps - The key to Quickness](first-two-steps-the-key-to-quickness.md)
+- [Footwork - Ready Position](footwork-ready-position.md)
+- [Footwork TOC](footwork-toc.md)
+- [Forward Flow](forward-flow.md)
+- [Hitting on the Run](hitting-on-the-run.md)
+- [Inside Forehand](inside-forehand.md)
+- [Introduction The 12 Golden Moves](introduction-the-12-golden-moves.md)
+- [Lateral and Forward Movement](lateral-and-forward-movement.md)
+- [More on the Step, Step, Rip !](more-on-the-step-step-rip.md)
+- [Rally Return Contact Moves-Low Spin](rally-return-contact-moves-low-spin.md)
+- [Rally Return Contact Moves-The 2 foot pivot](rally-return-contact-moves-the-2-foot-pivot.md)
+- [Return of Serve - Defensive Contact Moves](return-of-serve-defensive-contact-moves.md)
+- [Return of Serve - Offensive Contact Moves](return-of-serve-offensive-contact-moves.md)
+- [Return of Serve-Contact Moves Introduction](return-of-serve-contact-moves-introduction.md)
+- [Step, Step, Rip !](step-step-rip.md)
+- [The 12 Golden Moves An Overview](the-12-golden-moves-an-overview.md)
+- [The Athletic Foundation](the-athletic-foundation.md)
+- [The Building Contact Moves](the-building-contact-moves.md)
+- [The Counter Attacking Contact Moves](the-counter-attacking-contact-moves.md)
+- [The Golden Move  #1 The Stepdown](the-golden-move-1-the-stepdown.md)
+- [The Golden Move # 10 Closed Backhand Pivot](the-golden-move-10-closed-backhand-pivot.md)
+- [The Golden Move # 11 The Mogul Move](the-golden-move-11-the-mogul-move.md)
+- [The Golden Move # 12 The Power Move](the-golden-move-12-the-power-move.md)
+- [The Golden Move # 2 The Front Foot Hop](the-golden-move-2-the-front-foot-hop.md)
+- [The Golden Move # 3 The Lateral Hop](the-golden-move-3-the-lateral-hop.md)
+- [The Golden Move # 4 The Back Foot Hop](the-golden-move-4-the-back-foot-hop.md)
+- [The Golden Move # 5 The Loaded Transfer](the-golden-move-5-the-loaded-transfer.md)
+- [The Golden Move # 6 Low Spin](the-golden-move-6-low-spin.md)
+- [The Golden Move # 7 Reverse Spin](the-golden-move-7-reverse-spin.md)
+- [The Golden Move # 8 Two Foot Pivot](the-golden-move-8-two-foot-pivot.md)
+- [The Golden Move # 9 One Foot Pivot](the-golden-move-9-one-foot-pivot.md)
+- [The Hitting Stance ](the-hitting-stance.md)
+- [World Class Movement](world-class-movement.md)
