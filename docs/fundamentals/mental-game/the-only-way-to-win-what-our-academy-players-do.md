@@ -1,0 +1,35 @@
+# The Only Way to Win: What Our Academy Players Do
+
+### Jim Loehr
+
+------------------------------------------------------------------------
+
+Last month Jim Loehr talked about his academy and how it has redefined
+success for the players in junior tennis and in life. ([link](https://www.tennisplayer.net/members/mentalgame/jim_loehr/the_only_way_to_win/our_academy))
+Now more. Like asking kids to go to the end of their lives and imagine
+what factors will define how they are remembered. Like video taping
+their matches and critiquing not just their tennis but how they are
+treating their opponents. Like teaching them why tennis is priceless
+gift to help them grow.
+
+![link](media_the-only-way-to-win-what-our-academy-players-do/media/image1.png)
+
+  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  ![A person smiling for the camera Description automatically generated with medium                                                                                                                   Jim Loehr is a legendary pioneer in the field of
+  confidence](media_the-only-way-to-win-what-our-academy-players-do/media/image2.jpeg)                                                                                                                                                                      himself who still competes nationally in USTA
+                                                                                                                                                                                                      events, Jim created the field of Mental
+                                                                                                                                                                                                      Toughness training with his revolutionary study
+                                                                                                                                                                                                      of elite pro players. He has been one of the
+                                                                                                                                                                                                      most influential voices in tennis and tennis
+                                                                                                                                                                                                      coaching for over 30 years, and is the author of
+                                                                                                                                                                                                      multiple best selling books. He has expanded his
+                                                                                                                                                                                                      influence far beyond sports with the creation of
+                                                                                                                                                                                                      the Human Performance Institute where he and his
+                                                                                                                                                                                                      staff have worked with hundreds of leaders in
+                                                                                                                                                                                                      business, law enforcement, and military special
+                                                                                                                                                                                                      forces. For the last decade he has also directed
+                                                                                                                                                                                                      an academy for junior players helping young
+                                                                                                                                                                                                      people learn what winning in life really means.
+  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ------------------------------------------------
+
+  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
