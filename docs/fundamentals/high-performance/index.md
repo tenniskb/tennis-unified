@@ -1,8 +1,3 @@
----
-title: High Performance
-description: Comprehensive collection of High Performance articles and technical analyses from TPA library.
----
-
 # High Performance
 
 Coaching insights from elite-level coaches and players on what separates high performance tennis from the rest — match tactics, shot selection, and mental approach at the top of the game.

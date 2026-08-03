@@ -1,8 +1,3 @@
----
-title: Footwork Patterns
-description: Movement patterns, split-step timing, recovery steps, and open vs closed stances.
----
-
 # Footwork Patterns
 
 Movement patterns, split-step timing, recovery steps, and open vs closed stances. This section cross-references the pattern-focused articles from David Bailey's Golden Moves series and related footwork coverage — for the complete footwork library, see [Footwork](../footwork/index.md).

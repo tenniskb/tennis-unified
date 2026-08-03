@@ -1,8 +1,3 @@
----
-title: Grips Index
-description: Grip reference guide: Continental, Eastern, Semi-Western, Western, and bevel positions.
----
-
 # Grips Index
 
 Grip reference guide: Continental, Eastern, Semi-Western, Western, and bevel positions.
