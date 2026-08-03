@@ -35,7 +35,7 @@ issue by creating a different modality for activating strokes on court.
 
 Although it is a different mode, 1-2 Rhythm is compatible and
 complimentary with the technical descriptions of the one-hander on
-Tennisplayer. ([link](../../Stroke%20Analysis/Advanced%20Tennis/The%20One%20Handed%20Topspin%20Backhand-Introduction.docx).)
+TPA. ([link](../../Stroke%20Analysis/Advanced%20Tennis/The%20One%20Handed%20Topspin%20Backhand-Introduction.docx).)
 Interestingly, a feel for better rhythm sometimes leads to spontaneous
 technical improvements.
 

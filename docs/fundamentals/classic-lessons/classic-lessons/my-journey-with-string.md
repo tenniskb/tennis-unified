@@ -133,7 +133,7 @@ placed under the crosses.
 
 But enough about me and all that for now. It's probably fair to say I
 am far more interested in the esoteric aspects of string than most
-Tennisplayer readers. The more relevant question is this: what have I
+TPA readers. The more relevant question is this: what have I
 learned that can help you match a string configuration to your game?
 
 So, to begin to understand this, let's go over some of the factors that
@@ -483,7 +483,7 @@ had, as a result of reading this article!
                                                                                                                                                                                  levels. He accomplished this with a self-taught
                                                                                                                                                                                  style, shunning lessons. His recent return to
                                                                                                                                                                                  glory was inspired in part by his intensive study
-                                                                                                                                                                                 of Tennisplayer.net. He claims with a straight
+                                                                                                                                                                                 of TPA. He claims with a straight
                                                                                                                                                                                  face to have read literally every article on the
                                                                                                                                                                                  site. An electrical contractor by profession,
                                                                                                                                                                                  Geoff lives in the East Bay with his wife Ronda.

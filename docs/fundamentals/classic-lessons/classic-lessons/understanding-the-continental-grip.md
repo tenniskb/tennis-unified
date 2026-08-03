@@ -256,7 +256,7 @@ Semi-Western grips that are so popular in the modern game.
 |  | and to have great competitive success winning |
 |  | Canadian National seniors titles---not to |
 |  | mention continuing to write articles for |
-|  | Tennisplayer from his unique perspective. |
+|  | TPA from his unique perspective. |
 
 
 ------------------------------------------------------------------------

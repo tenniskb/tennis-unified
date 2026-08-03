@@ -44,7 +44,7 @@ This alignment of the hips has a profound effect on the players'
 ability to generate racket speed, ball speed, and spin. How is it
 created? The alignment of the hips is controlled by the back leg. This
 is the least understood component in true alignment\--although it is
-clearly visible in Tennisplayer high speed video. So what happens to the
+clearly visible in TPA high speed video. So what happens to the
 back leg in the moments around the contact?
 
 Many teaching pros teach swinging the back legs around as part of the
@@ -205,5 +205,5 @@ on this!! Have Fun!!
 |  | competitive success winning Canadian |
 |  | National seniors titles---not to mention |
 |  | continuing to write articles for |
-|  | Tennisplayer from his unique perspective. |
+|  | TPA from his unique perspective. |
 

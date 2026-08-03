@@ -14,7 +14,7 @@ differences between the way men and women execute strokes. Much has been
 made of this in recent times especially in certain sectors of the tennis
 world.
 
-In 2010 I published several articles on Tennisplayer highlighting the
+In 2010 I published several articles on TPA highlighting the
 different swing types on the forehand. ([link](Science%20of%20Biomechanics%20TOC.docx).)
 
 The types were divided into three general classifications. The primary
@@ -45,7 +45,7 @@ confidence](media_have-tennis-coaches-failed-female-athletes/media/image4.jpg)
 
 **Why Does it Matter?**
 
-**[The main focus of the Tennisplayer.net articles was not to show that
+**[The main focus of the TPA articles was not to show that
 differences exist, but rather for the first time to explain the
 biomechanical properties of the ATP style forehand. I pointed out
 several biomechanical (kinematic and kinetic) advantages of the ATP

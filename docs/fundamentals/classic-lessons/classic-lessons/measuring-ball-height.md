@@ -132,7 +132,7 @@ thus to attack).
 |  | competitive success winning Canadian |
 |  | National seniors titles---not to mention |
 |  | continuing to write articles for |
-|  | Tennisplayer from his unique perspective. |
+|  | TPA from his unique perspective. |
 
 
 ------------------------------------------------------------------------

@@ -126,10 +126,10 @@ generated](media_advanced-reaction-steps/media/image5.webp)
 
 I would not disagree with the school that teaches a narrower ready
 position as a basis for learning the basic stroke patterns, as for
-example, in Welby Van Horn's article in this issue of Tennisplayer.
+example, in Welby Van Horn's article in this issue of TPA.
 ([link](http://www.tennisplayer.net/members/teaching_systems/welby_vanhorn/true_master_forehand_balance_checkpoints/true_master_forehand_balance_checkpoints.html).)
 Nor would I argue with teaching players to turn the body with a step out
-in the direction of the shot, as shown in the Tennisplayer articles by
+in the direction of the shot, as shown in the TPA articles by
 Bob Hansen. [link](Court%20Movement%20-%20The%20Forehand.docx)
 This approach may ease learning how to prepare fully on the
 groundstrokes. But once a player has mastered the basic stroke patterns,
@@ -288,7 +288,7 @@ recommended to speed your own footwork development. Yes, it is my
 product. But it was developed for a purpose, and that is to help players
 develop the critical quality of superior movement. If that's what you
 want, then you may want to experiment with the A.P. Belt for yourself.
-I've also worked out a special price offer just for Tennisplayer
+I've also worked out a special price offer just for TPA
 subscribers. (For more on the A.P Belt [link](http://www.active.com/event_detail.cfm?event_id=1175099).)
 
 So that's it for the advanced reaction steps. In the future, we will

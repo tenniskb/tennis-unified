@@ -182,7 +182,7 @@ ask me if the racquet is literally higher than the hand at contact, I
 tell them not to worry about it. This is often the case on super high
 balls, as the animations show. On others the racket may be level. Just
 use the image and see how they like the results. My friend and fellow
-writer for Tennisplayer.net Kerry Mitchell introduced me to this concept
+writer for TPA Kerry Mitchell introduced me to this concept
 years ago, and I've been using it successfully ever since.
 
 ![A person swinging a tennis racket](media_the-high-ball/media/image11.webp)
@@ -201,7 +201,7 @@ balls you can deal will naturally vary with how you hold the racket.
 **Basically, the further underneath the handle you position your hand, the higher your natural contact point.**
 
 I personally use a moderate semi-western grip on my forehand, about a 3
-1/2 / 3 1/2 according to the Tennisplayer scale  or
+1/2 / 3 1/2 according to the TPA scale  or
 somewhere between Andre Agassi and David Nalbandian. With this grip a
 ball at mid-chest level is like hitting the jackpot.
 

@@ -54,14 +54,14 @@ opponents watching and taking note.
 
 Practice and repetition lead to confidence, and confidence leads to
 calmness, relaxation, and explosiveness. The overheads in the
-Tennisplayer Stroke Archive capture these exact feelings of conviction
+TPA Stroke Archive capture these exact feelings of conviction
 and relaxation.
 
 Between the Archive and the articles already published by Scott Murphy
 ([link](https://www.tennisplayer.net/members/classiclessons/scott_murphy/scott_murphy_overhead_images/scott_murphy_overhead.html)),
 Kerry Mitchell ([link](https://www.tennisplayer.net/members/classiclessons/kerry_mitchell/kerry_mitchell_the_overhead/kerry_mitchell_the_overhead.html)),
 and Jeremiah Walsh ([link](https://www.tennisplayer.net/members/classiclessons/jeremiah_walsh/overhead_or_in_front_of_head/))
-Tennisplayer offers the most thorough understanding of the overhead
+TPA offers the most thorough understanding of the overhead
 available anywhere in the world.
 
 The main purpose of this article, from someone who is an attacking
@@ -84,7 +84,7 @@ net.
 
 **As good players move into position the non-dominant arm goes up. The length of time that the opposite arm stays engaged depends on the height of the ball and the amount of time you have to hit.**
 
-Fellow Tennisplayer.net writer Scott Murphy has a great positioning
+Fellow TPA writer Scott Murphy has a great positioning
 drill to work on using the opposite arm. **He has players learn to catch the ball with the opposite hand. This forces players to find the right positioning to the ball, and I use this ball catch progression with all my students.**
 
 We also know from the great article by Jeremiah Walsh ([link](https://www.tennisplayer.net/members/classiclessons/jeremiah_walsh/overhead_or_in_front_of_head/))
@@ -172,7 +172,7 @@ belief about your overhead.
 
 If you don't have it, that's perfectly ok, but don't try to kid
 yourself if you don't. Start where you are and use the amazing
-informational resources of Tennisplayer to develop the technique and
+informational resources of TPA to develop the technique and
 above all the confidence that makes you eager and happy when the ball
 goes up in the air.
 

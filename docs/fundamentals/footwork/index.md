@@ -1,6 +1,6 @@
 ---
 title: Footwork
-description: Comprehensive collection of Footwork articles and technical analyses from TennisPlayer.net library.
+description: Comprehensive collection of Footwork articles and technical analyses from TPA library.
 ---
 
 # Footwork

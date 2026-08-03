@@ -130,7 +130,7 @@ Gordon and Rick Macci developed the concept of the \"ATP backswing.\"
 
 Every teacher on the internet suddenly stole the concept and acted like
 he had known it all along. ([link](https://www.tennisplayer.net/members/avancedtennis/high_performance/rick_macci/develop_atp_forehand/)
-to Rick talk about this on Tennisplayer. [link](https://www.tennisplayer.net/members/avancedtennis/biomechanics/brian_gordon/developing_an_atp_forehand_part_01/)
+to Rick talk about this on TPA. [link](https://www.tennisplayer.net/members/avancedtennis/biomechanics/brian_gordon/developing_an_atp_forehand_part_01/)
 to see Brian's more scientific explanation.)
 
 In case you been off the planet for the last few years, the ATP
@@ -217,7 +217,7 @@ level\--ie especially for 100% of all people reading this article.
 In fact, it looks very much like the finish in the great Welby Van
 Horn's teaching system. ([link](https://www.tennisplayer.net/members/avancedtennis/teaching_systems/welby_vanhorn/true_master_forehand_balance_checkpoints/true_master_forehand_balance_checkpoints.html).)
 He lived to be 94 and I feel very lucky that we were able to capture his
-approach on Tennisplayer. Guess what? He was a contemporary of Don
+approach on TPA. Guess what? He was a contemporary of Don
 Budge.
 
 **Other Finishes**
@@ -267,12 +267,12 @@ confidence](media_john-yandell-classic-and-modern-tennis-is-don-budge-s-forehand
 
 John Yandell is widely acknowledged as one of the leading videographers
 and students of the modern game of professional tennis. His high speed
-filming for Advanced Tennis and Tennisplayer have provided new visual
+filming for Advanced Tennis and TPA have provided new visual
 resources that have changed the way the game is studied and understood
 by both players and coaches. He has done personal video analysis for
 hundreds of high level competitive players, including Justine
 Henin-Hardenne, Taylor Dent and John McEnroe, among others.
 
-In addition to his role as Editor of Tennisplayer he is the author of
+In addition to his role as Editor of TPA he is the author of
 the critically acclaimed book Visual Tennis. The John Yandell Tennis
 School is located in San Francisco, California.

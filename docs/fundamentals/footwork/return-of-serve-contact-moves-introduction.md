@@ -10,7 +10,7 @@ generated](media_return-of-serve-contact-moves-introduction/media/image1.webp)
 
 **In this series we'll see the Contact Moves for world class returns.**
 
-In this new series of articles for Tennisplayer, I will be outlining my
+In this new series of articles for TPA, I will be outlining my
 system for developing world class footwork on the return of serve.
 
 In this first article, we will go over the basics of court positioning
@@ -39,7 +39,7 @@ confidence](media_return-of-serve-contact-moves-introduction/media/image2.webp)
 
 **Click video to study the range of world class return contact moves.**
 
-These articles are the natural continuation of my previous Tennisplayer
+These articles are the natural continuation of my previous TPA
 series on the Contact Moves for the groundstrokes. I believe we should
 teach returns only after all the Contact Moves have been taught and
 understood on the groundstrokes.

@@ -5,7 +5,7 @@
 In my first article, I introduced a new concept for understanding court
 movement, the Contact Move. This analysis is based on my study of the
 top players in the world over the last 10 years, including the film
-resources developed by John Yandell for Tennisplayer and Advanced
+resources developed by John Yandell for TPA and Advanced
 Tennis.
 
 The Contact Move synthesizes all the components of movement into a

@@ -2,7 +2,7 @@
 
 **David Bailey**
 
-World renowned footwork coach David Bailey returns to Tennisplayer with
+World renowned footwork coach David Bailey returns to TPA with
 a new series of articles designed to teach the full range of movement
 patterns to players at all levels. In his phenomenal previous work,
 David has presented a comprehensive analysis of the range of the contact

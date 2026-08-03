@@ -422,7 +422,7 @@ tour?
 At this point we don't understand the physics of it. But I'm excited
 to report that is about to change! This is because the noted Australian
 physicist Rod Cross has agreed to take on the topic for a future
-Tennisplayer article. Does tilting the racket head depend on some
+TPA article. Does tilting the racket head depend on some
 combination of ball speed, ball height, and swing trajectory? Is it one
 of the secrets to at least some of Federer's many variations? Stay
 tuned and hopefully we can start to develop a factual basis for further
@@ -571,12 +571,12 @@ confidence](media_roger-federer-and-the-evolution-of-the-modern-forehand-part-2/
 
 John Yandell is widely acknowledged as one of the leading videographers
 and students of the modern game of professional tennis. His high speed
-filming for Advanced Tennis and Tennisplayer have provided new visual
+filming for Advanced Tennis and TPA have provided new visual
 resources that have changed the way the game is studied and understood
 by both players and coaches. He has done personal video analysis for
 hundreds of high level competitive players, including Justine
 Henin-Hardenne, Taylor Dent and John McEnroe, among others.
 
-In addition to his role as Editor of Tennisplayer he is the author of
+In addition to his role as Editor of TPA he is the author of
 the critically acclaimed book Visual Tennis. The John Yandell Tennis
 School is located in San Francisco, California.

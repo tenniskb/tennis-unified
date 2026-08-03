@@ -186,7 +186,7 @@ Carlos Rodriguez used our high speed footage of Agassi's forehand and
 Sampras's serve to reshape Justine Henin's technical game before she
 started winning Slams, including moving to a platform stance. ([link](https://www.tennisplayer.net/members/tour_strokes/john_yandell/justine_henin_serve).)
 
-Todd Martin did the same thing for Novak Djokovic, using Tennisplayer
+Todd Martin did the same thing for Novak Djokovic, using TPA
 footage to recreate his original motion after a failed attempt to
 implement a radically abbreviated backswing literally destroyed his
 serve for a few months.
@@ -195,7 +195,7 @@ Tons of other success stories at all levels as well. Sure it's always
 really exciting to get a chance to work with a truly elite player, but
 the lack of response from some of those players and coaches doesn't
 really bother me. It's the fascinating complexity of strokes and
-figuring it all out that makes Tennisplayer so satisfying and so much
+figuring it all out that makes TPA so satisfying and so much
 fun.
 
 ![A person smiling for the camera Description automatically generated
@@ -204,12 +204,12 @@ confidence](media_alexander-zverev-serve/media/image7.jpeg)
 
 John Yandell is widely acknowledged as one of the leading videographers
 and students of the modern game of professional tennis. His high speed
-filming for Advanced Tennis and Tennisplayer have provided new visual
+filming for Advanced Tennis and TPA have provided new visual
 resources that have changed the way the game is studied and understood
 by both players and coaches. He has done personal video analysis for
 hundreds of high level competitive players, including Justine
 Henin-Hardenne, Taylor Dent and John McEnroe, among others.
 
-In addition to his role as Editor of Tennisplayer he is the author of
+In addition to his role as Editor of TPA he is the author of
 the critically acclaimed book Visual Tennis. The John Yandell Tennis
 School is located in San Francisco, California.

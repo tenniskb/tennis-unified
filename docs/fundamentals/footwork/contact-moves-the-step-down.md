@@ -71,7 +71,7 @@ that may seem exotic, like the Forward Transfer, the Two Foot Pivot, and
 the Mogul Move.
 
 They sound strange only because they have never been fully recognized or
-analyzed\--until now. My articles on Tennisplayer will introduce these
+analyzed\--until now. My articles on TPA will introduce these
 Contact Moves, teach you to develop them for yourself, and when to use
 them.
 

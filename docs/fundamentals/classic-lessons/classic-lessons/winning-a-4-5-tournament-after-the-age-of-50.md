@@ -104,7 +104,7 @@ groundstrokes, like Alberto Berasategui. My resistance to coaching, and
 lack of experience, topped me out at the 4.5 to 5.0 level. That stubborn
 tendency to hit the wall for days stopped me from paying for lessons.
 The best resource for self-improvement ever
-created\--Tennisplayer.net\--did not yet exist.
+created\--TPA\--did not yet exist.
 
 Even so, I was able to win five A tournaments. In 1986 I won 73 matches,
 with 17 defeats. I made the top ten in Northern California in both the A
@@ -225,10 +225,10 @@ lbs, stick in hand. That was enough to set me back until this year.
 
 ![A picture containing tennis, sport, athletic game, player](media_winning-a-4-5-tournament-after-the-age-of-50/media/image7.webp)
 
-**Delpo's forehand on Tennisplayer: inspiration.**
+**Delpo's forehand on TPA: inspiration.**
 
 Why did I come back again? It was inspiration. I got the bug again after
-gong online and visting Tennisplayer.net. I read virtually every article
+gong online and visting TPA. I read virtually every article
 on the site. I studied video clips of Sampras serving. I studied
 Delpo's forehand. I decided to play tournaments again.
 
@@ -376,7 +376,7 @@ end points with my forehand and backhand.
 I needed to learn how to hit a good serve, and good second serve. The
 top pros all have one thing in common: they are only as good as their
 second serve. The top players all have similar % of winning points on
-the second serve. This is where my study of Sampras on Tennisplayer paid
+the second serve. This is where my study of Sampras on TPA paid
 off.
 
 I also needed to end some points at the net, before the grinders wore me
@@ -540,7 +540,7 @@ not slip on the red ladder.
                                                                                                                                                                                                        levels. He accomplished this with a self-taught
                                                                                                                                                                                                        style, shunning lessons. His recent return to
                                                                                                                                                                                                        glory was inspired in part by his intensive study
-                                                                                                                                                                                                       of Tennisplayer.net. He claims with a straight
+                                                                                                                                                                                                       of TPA. He claims with a straight
                                                                                                                                                                                                        face to have read literally every article on the
                                                                                                                                                                                                        site. An electrical contractor by profession,
                                                                                                                                                                                                        Geoff lives in the East Bay with his wife Ronda.

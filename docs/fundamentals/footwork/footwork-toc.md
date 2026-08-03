@@ -16,7 +16,7 @@ Editor
 Few topics in playing and coaching are as complex, confusing\--and
 generally overlooked\--as footwork and court movement.
 
-In this section of Tennisplayer, we are beginning to redress that
+In this section of TPA, we are beginning to redress that
 problem by looking closely at every aspect of how player's move\--and
 should move\--in all dimensions of play.
 
@@ -35,7 +35,7 @@ dramatically increase your quickness, and analyzes a variety of more
 complex movements used by the pros to deal with the wide variety of
 balls faced in actual play.
 
-This is an area where we hope Tennisplayer will make a significant
+This is an area where we hope TPA will make a significant
 contribution to the game. They'll be a lot more to come, not only from
 Bob and Michael, but from Australian Coach David Bailey and others, stay
 tuned!

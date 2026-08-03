@@ -56,7 +56,7 @@ under the forces of movement.]]**
 Now at the Academy we look specifically at the patterns of footwork
 players use on the run, and how they also relate to the ability to
 recover for the next ball. Using the awesome visual resources on
-Tennisplayer, we can look at some of these patterns as executed by the
+TPA, we can look at some of these patterns as executed by the
 top players in the world.
 
 **The Running Open Stance**

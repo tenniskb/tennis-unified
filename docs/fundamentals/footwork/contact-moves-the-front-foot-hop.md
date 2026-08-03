@@ -16,7 +16,7 @@ hit, the balance moves after the hit, and also, the recovery steps.
 The Contact Move is a breakthrough concept because it allows us to make
 sense of the bewildering variety of complex movement patterns in high
 level tennis. Based on my study of pro tennis and the video resources of
-Tennisplayer, I've identified almost 20 different pro Contact Moves,
+TPA, I've identified almost 20 different pro Contact Moves,
 covering every aspect of the game.
 
 In these articles we are breaking the Contact Moves down into three

@@ -163,7 +163,7 @@ Launch yourself up and back off the back foot when it's defensive.
 |  | percentage. He is an avid outdoorsman, |
 |  | sportsman, and game hunter who makes delicious |
 |  | venison and bear sausage, as testified to by |
-|  | the Tennisplayer editorial staff. |
+|  | the TPA editorial staff. |
 
 
 ------------------------------------------------------------------------

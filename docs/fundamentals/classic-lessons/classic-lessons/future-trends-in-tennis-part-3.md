@@ -96,7 +96,7 @@ understanding of the game at all levels by allowing us to see key
 moments in strokes that are literally invisible to the human eye. The
 work of pioneers like John Yandell and Brian Gordon have busted myths
 and heralded a new era in technical development. You can find extensive
-articles on Tennisplayer from John ([link](https://www.tennisplayer.net/members/avancedtennis/)) and from
+articles on TPA from John ([link](https://www.tennisplayer.net/members/avancedtennis/)) and from
 Brian ([link](https://www.tennisplayer.net/members/biomechanics/).)
 
 These trends will continue unabated and coaches will become more
@@ -125,7 +125,7 @@ For coaches, analytics will be used more prominently in working with
 players and helping them master their best patterns of play on the
 practice court and at tournaments. Tennis Analytics under the direction
 of Warren Pretorius is the leader in the field ([link](https://www.tennisanalytics.net/)), and I know John is planning a
-series of future articles on Tennisplayer on how match tagging works and
+series of future articles on TPA on how match tagging works and
 its potential benefits.
 
 But again it raises the issue of who can afford what and are analytics
@@ -173,7 +173,7 @@ could happen!
 
 The predictions in this article are meant to provoke thought and
 discussion. I look forward to getting feedback and other ideas from the
-Tennisplayer community at large. Please share your own predictions in
+TPA community at large. Please share your own predictions in
 the Forum. ([[link](https://www.tennisplayer.net/bulletin/forum/tennisplayer/79288-future-trends-in-tennis-part-2?view=stream).)
 
 ![A person hitting a ball with a tennis racket](media_future-trends-in-tennis-part-3/media/image7.jpeg)

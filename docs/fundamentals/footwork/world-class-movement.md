@@ -11,7 +11,7 @@ generated](media_world-class-movement/media/image1.webp)
 **What are the keys to developing a pro level tennis dance?**
 
 Tennis is a dance, and the ball is your partner. I have said this for
-years, and now in this new series of articles for Tennisplayer, I want
+years, and now in this new series of articles for TPA, I want
 to demonstrate exactly what that dance looks like off the ground at the
 pro level\--and how you can develop a similar groundstroke dance of your
 own.
@@ -24,7 +24,7 @@ feet and body during the ball striking phase.
 
 In future articles, I will turn the analysis to the actual movement
 patterns of the world's best players as they cover the court from
-sideline to side in some incredible Tennisplayer high speed video
+sideline to side in some incredible TPA high speed video
 sequences---and see how the concepts we are outlining are applied.
 We'll start those articles with Roger Federer, but then move on to Rafa
 Nadal and Novak Djokovic.
@@ -140,7 +140,7 @@ Video research has established that there are actually 15 distinct
 Contact Moves that can be divided into four categories: Attacking,
 Building, Counter-Attacking and Defensive Contact Moves.
 
-Long time subscribers of Tennisplayer may remember my previous multiple
+Long time subscribers of TPA may remember my previous multiple
 part articles identifying the Contact Moves and their characteristics
 with video examples of elite pro players. That material is available in
 the footwork section of the site in a series of detailed articles.

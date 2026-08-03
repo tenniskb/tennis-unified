@@ -327,7 +327,7 @@ So that's it for Part 1. In the next article let's see how the timing
 of the release of the racket changes given the specific ball the player
 is receiving and trying to hit himself. Stay tuned!
 
-**Note:** Special thanks to Tennisplayer.net Contributing Editor Ed
+**Note:** Special thanks to TPA Contributing Editor Ed
 Weiss for working closely with Don in developing this article! And extra
 special thanks to Danielle Lao, Angela Kulikov, and Daniel Weingarten
 for the fantastic job demonstrating the strokes and the exercises.

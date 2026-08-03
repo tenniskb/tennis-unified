@@ -1,11 +1,11 @@
 ---
 title: Fundamentals
-description: Tennis fundamentals from tennisplayer.net — footwork, strokes, grips, classic lessons, mental game, strategy
+description: Tennis fundamentals from TPA — footwork, strokes, grips, classic lessons, mental game, strategy
 ---
 
-# Fundamentals (tennisplayer.net)
+# Fundamentals (TPA)
 
-The complete foundation library from tennisplayer.net — the world's most comprehensive tennis coaching resource.
+The complete foundation library from TPA — the world's most comprehensive tennis coaching resource.
 
 ## Sections
 

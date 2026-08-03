@@ -6,7 +6,7 @@
 
 ### Scott Murphy
 
-In my article in the June issue of Tennisplayer, I argued that shot to
+In my article in the June issue of TPA, I argued that shot to
 shot readiness is an absolute prerequisite for successful stroke
 execution. This is true not only at the top levels of the game, but
 especially at the club level. (**link**(Shot%20to%20Shot%20Readiness.docx).)
@@ -47,7 +47,7 @@ sequences with greater quickness and precision.
 
 ### To Train or Not to Train
 
-On Tennisplayer, we have two amazing cross training systems, one from
+On TPA, we have two amazing cross training systems, one from
 Pat Etcheberry and the other from Paul Roetert. (**link**(https://www.tennisplayer.net/members/physicaltraining/paul_roetert/Paul_Roetert_Periodization_1_images/Paul_Roetert_Periodization_1.html))
 As great as they are, not every player has the time or the desire to
 implement these sophisticated blends of weight training, aerobic, and

@@ -10,7 +10,7 @@ confidence](media_the-sampras-serve-the-mystery-of-the-high-elbow/media/image1.w
 
 Last month we posted over a hundred high speed videos of the serve of
 the great Pete Sampras---maybe the greatest serve of all time. ([link](https://www.tennisplayer.net/members/high_speed_archive/phantom/Pete_Sampras_HD_HS/).)
-Over the years on Tennisplayer we've published more articles on his
+Over the years on TPA we've published more articles on his
 motion than any other stroke in tennis history, with the possible
 exception of Roger Federer's forehand.
 
@@ -42,7 +42,7 @@ key to his motion. But since it happened after contact---well after
 contact\--what causative role could it play? If it was an effect,
 though, what was it an effect of?
 
-On Tennisplayer our understanding of the game has been progressive.
+On TPA our understanding of the game has been progressive.
 Delving more and more into the high speed footage to uncover aspects
 that are invisible to the naked eye.
 
@@ -218,7 +218,7 @@ studying his incredible motion.
 **To view the complete Stroke Archives of Pete Sampras serves,
 [\]
 [click
-here.](file:///C:\Users\moosh\OneDrive\Documents\tennisplayer.net\Stroke%20Analysis\Advanced%20Tennis\Advanced%20Tennis%20TOC.docx)**
+here.](file:///C:\Users\moosh\OneDrive\Documents\TPA\Stroke%20Analysis\Advanced%20Tennis\Advanced%20Tennis%20TOC.docx)**
 
 ![A person smiling for the camera Description automatically generated
 with medium
@@ -226,12 +226,12 @@ confidence](media_the-sampras-serve-the-mystery-of-the-high-elbow/media/image8.j
 
 John Yandell is widely acknowledged as one of the leading videographers
 and students of the modern game of professional tennis. His high speed
-filming for Advanced Tennis and Tennisplayer have provided new visual
+filming for Advanced Tennis and TPA have provided new visual
 resources that have changed the way the game is studied and understood
 by both players and coaches. He has done personal video analysis for
 hundreds of high level competitive players, including Justine
 Henin-Hardenne, Taylor Dent and John McEnroe, among others.
 
-In addition to his role as Editor of Tennisplayer he is the author of
+In addition to his role as Editor of TPA he is the author of
 the critically acclaimed book Visual Tennis. The John Yandell Tennis
 School is located in San Francisco, California.

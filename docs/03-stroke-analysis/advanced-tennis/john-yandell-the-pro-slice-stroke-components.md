@@ -48,18 +48,18 @@ Let's use our trusty grip system again to see how this works.
 This system lays out the 8 bevels of the racket handle, and the two key
 points that connect the hand to the bevels. It's been widely copied by
 our competitors, so if you see it somewhere else, remember, it was
-(another) Tennisplayer first.
+(another) TPA first.
 
 Some coaches prefer a relatively strong grip for the slice backhand,
 with the heel pad on top of the frame and the index knuckle on the next
-bevel down. This would be a 2 / 1 in Tennisplayer terminology. This is
+bevel down. This would be a 2 / 1 in TPA terminology. This is
 what I personally would call an eastern backhand grip.
 
 But in looking at the video of the three top players in the world, I
 think they all are a little shy of this position. Each is somewhere on
 the spectrum between the eastern backhand and what I call continental,
 which shifts everything a half a bevel toward the forehand. Again, in
-Tennisplayer terminology, what I think of as a continental would be a 2
+TPA terminology, what I think of as a continental would be a 2
 1/2 - 1 1/2.
 
 ![A person hitting a ball with a tennis racket Description automatically
@@ -110,7 +110,7 @@ Compared toFederer or Djokovic, Nadal's grip is significantly weaker.
 To me it appears that his index knuckle is on the edge between bevels 2
 and 3. His heel pad appears to be partially on top but mostly on bevel
 2. So Nadal's grip is shifted a little more to the forehand than even
-what I call the continental in Tennisplayer terminology.
+what I call the continental in TPA terminology.
 
 As with grips on all the strokes, these are just my best estimates based
 on looking at high speed footage from multiple angles. It's very
@@ -650,12 +650,12 @@ confidence](media_john-yandell-the-pro-slice-stroke-components/media/image25.jpe
 
 John Yandell is widely acknowledged as one of the leading videographers
 and students of the modern game of professional tennis. His high speed
-filming for Advanced Tennis and Tennisplayer have provided new visual
+filming for Advanced Tennis and TPA have provided new visual
 resources that have changed the way the game is studied and understood
 by both players and coaches. He has done personal video analysis for
 hundreds of high level competitive players, including Justine
 Henin-Hardenne, Taylor Dent and John McEnroe, among others.
 
-In addition to his role as Editor of Tennisplayer he is the author of
+In addition to his role as Editor of TPA he is the author of
 the critically acclaimed book Visual Tennis. The John Yandell Tennis
 School is located in San Francisco, California.

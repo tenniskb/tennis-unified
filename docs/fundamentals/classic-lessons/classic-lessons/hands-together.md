@@ -230,7 +230,7 @@ Again, the role of the non-dominant hand is critical in helping start
 the turn motion. Monster Memory helps players feel how this arm works in
 making solid, unitary preparation.
 
-As many Tennisplayer writers, such as Scott Murphy have pointed out,
+As many TPA writers, such as Scott Murphy have pointed out,
 ([link](http://www.tennisplayer.net/members/classiclessons/scott_murphy/scott_murphy_opposite_arm_groundstrokes/scott_murphy_opposite_arm_groundstrokes.html)),
 during the positive or forward swing, the opposite arm moves backwards
 in the opposite direction, creating the most distance between the hands

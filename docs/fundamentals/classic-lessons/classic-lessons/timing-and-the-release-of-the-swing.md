@@ -350,7 +350,7 @@ own sense of the racket head and timing. Go out and have some fun with
 it! And please let me know in the Forum ([link](http://www.tennisplayer.net/bulletin/forumdisplay.php?f=1)) what
 you think of the drills and how you made out.
 
-**Note:** Special thanks to Tennisplayer.net Contributing Editor Ed
+**Note:** Special thanks to TPA Contributing Editor Ed
 Weiss for working closely with Don in developing these articles! And
 extra special thanks to Angela Kulikov, Lestter Yeh, and Daniel
 Weingarten for the fantastic job demonstrating the drills.

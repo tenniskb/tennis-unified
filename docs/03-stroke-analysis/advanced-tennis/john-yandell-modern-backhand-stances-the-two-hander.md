@@ -261,7 +261,7 @@ true two-handed backhand, the players have to use some version of a true
 backhand grip with the bottom hand.
 
 Typically this is what can be describes as a mild to a strong
-continental. In Tennisplayer grip terminology that could be a 2 / 1 with
+continental. In TPA grip terminology that could be a 2 / 1 with
 the index knuckle on bevel 2 and the heel pad on bevel 1. ([link](The%20One%20Handed%20Topspin%20Backhand.docx).)
 
 ![A person playing tennis Description automatically generated with
@@ -402,12 +402,12 @@ confidence](media_john-yandell-modern-backhand-stances-the-two-hander/media/imag
 
 John Yandell is widely acknowledged as one of the leading videographers
 and students of the modern game of professional tennis. His high speed
-filming for Advanced Tennis and Tennisplayer have provided new visual
+filming for Advanced Tennis and TPA have provided new visual
 resources that have changed the way the game is studied and understood
 by both players and coaches. He has done personal video analysis for
 hundreds of high level competitive players, including Justine
 Henin-Hardenne, Taylor Dent and John McEnroe, among others.
 
-In addition to his role as Editor of Tennisplayer he is the author of
+In addition to his role as Editor of TPA he is the author of
 the critically acclaimed book Visual Tennis. The John Yandell Tennis
 School is located in San Francisco, California.

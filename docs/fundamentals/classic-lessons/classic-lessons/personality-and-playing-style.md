@@ -13,7 +13,7 @@ player](media_personality-and-playing-style/media/image4.jpg)
 My strengths as a coach and instructor are usually analyzing stroke
 technique, seeing patterns, and helping players translate those things
 into a winning game. The psychology of the game I usually leave to the
-experts, meaning my fellow Tennisplayer contributors, who are among the
+experts, meaning my fellow TPA contributors, who are among the
 most esteemed students of the mental game in the world. ([link](../Mental%20game/Mental%20game%20TOC.docx)).
 
 But in this article I want to verge into that field by addressing the
@@ -558,7 +558,7 @@ implications for any player or coach who takes it seriously.
 |  | competitive success winning Canadian |
 |  | National seniors titles---not to mention |
 |  | continuing to write articles for |
-|  | Tennisplayer from his unique perspective. |
+|  | TPA from his unique perspective. |
 
 
 ------------------------------------------------------------------------

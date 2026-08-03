@@ -12,7 +12,7 @@ confidence](media_attacking-contact-moves/media/image1.webp)
 **Contact Moves with the feet and can't be explained simply in terms of
 traditional hitting stances.**
 
-In this first article in this new series on Tennisplayer, I outlined the
+In this first article in this new series on TPA, I outlined the
 components of world class movement and the specific athletic skills that
 they are based on. [link](https://www.tennisplayer.net/members/footwork/david_bailey/world_class_movement/overview/)
 Now let's get into the movement patterns themselves and see the
@@ -21,7 +21,7 @@ how these patterns apply to your game.
 
 Specifically I want to revisit my concept of the Contact Move. I
 introduced this concept over a decade ago and outlined its components in
-my first series of articles on Tennisplayer. [link](https://www.tennisplayer.net/members/footwork/footwork.html)
+my first series of articles on TPA. [link](https://www.tennisplayer.net/members/footwork/footwork.html)
 Over the years this work has made its way and found greater
 understanding and acceptance.
 

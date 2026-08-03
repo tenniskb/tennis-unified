@@ -188,7 +188,7 @@ dreaming about doing it.
 ![A picture containing person](media_building-the-spanish-forehand-p3-racquet-speed-and-power-building/media/image9.webp)
 
 Renowned physical trainer Pat Etcheberry ([**link**](https://www.tennisplayer.net/members/physicaltraining/physicaltraining.html) to
-see his training system on Tennisplayer) developed this swing trainer
+see his training system on TPA) developed this swing trainer
 and I like to use it in workouts with my players. I'm not big on
 gimmicks, but I've found this swing trainer to be valuable tool. It
 looks cool and the kids always enjoy working with it. For more info

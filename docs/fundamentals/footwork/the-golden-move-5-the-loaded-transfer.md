@@ -20,7 +20,7 @@ demonstrated by players like you (or players you might want to become!),
 including both adults and juniors.
 
 David's work is based on two decades of study of the world's best
-players, including extensive analysis of the archives on Tennisplayer.
+players, including extensive analysis of the archives on TPA.
 Check out his articles on pro footwork in the Footwork section with
 footage from live pro play! ([!](https://www.tennisplayer.net/members/footwork/footwork.html))
 

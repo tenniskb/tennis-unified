@@ -7,7 +7,7 @@ Contact Moves**
 
 **What are the Contact Moves associated with building points?**
 
-In this new series for Tennisplayer, we are looking at the incredible
+In this new series for TPA, we are looking at the incredible
 variety of movement patterns in pro tennis, and specifically, the
 concept of the Contact Move, which describes how the feet and body move
 before, during, and after the hit. (For an introduction to the Contact

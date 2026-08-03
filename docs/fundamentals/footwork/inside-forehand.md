@@ -4,7 +4,7 @@
 
 **David Bailey**
 
-I always say we can never have enough Dave Bailey on Tennisplayer. In
+I always say we can never have enough Dave Bailey on TPA. In
 his fabulous previous series, Dave demonstrated the 12 Golden Moves to
 develop world class footwork. ([link](https://www.tennisplayer.net/members/footwork/) to see a summary
 of them all.)

@@ -60,7 +60,7 @@ revolutionized tennis and that Jimmy Arias deserves credit for
 initiating the power game.\"
 
 To see Jimmy Arias hit that forehand tell his version of the story,
-exclusively on Tennisplayer, [[link](https://www.tennisplayer.net/members/tour_strokes/jimmy_arias/modern_forehand/).
+exclusively on TPA, [[link](https://www.tennisplayer.net/members/tour_strokes/jimmy_arias/modern_forehand/).
 
 **Spain**
 
@@ -274,7 +274,7 @@ A Note:
 The predictions in this article are meant to provoke thought and
 discussion. I'm sure I will not cover every possible future trend in
 this series, nor is that my intent. I look forward to getting feedback
-and other ideas from the Tennisplayer community. Please share your
+and other ideas from the TPA community. Please share your
 comments and your own predictions in the Forum!
 
 ![A person hitting a ball with a tennis racket](media_future-trends-in-tennis-part-1/media/image10.jpeg)

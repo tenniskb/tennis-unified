@@ -164,4 +164,4 @@ in 1997 and 2002. He also received the George Bacso Lifetime Achievement
 Award from the USPTA in 2001 and the International Tennis Hall of Fame
 Tennis Educational Merit Award in 1981.
 
-**Bill wishes to acknowledge Tennisplayer founding investor Ed Weiss's help in preparing this article.**
+**Bill wishes to acknowledge TPA founding investor Ed Weiss's help in preparing this article.**

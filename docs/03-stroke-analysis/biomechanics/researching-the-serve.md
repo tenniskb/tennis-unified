@@ -567,5 +567,5 @@ great John McEnroe. Greg is completing his masters in kinesiology at San
 Francisco State University, working under noted biomechanist, Dr. Robert
 Schleihauf. His thesis describes the groundbreaking results of a
 non-invasive quantitative analysis of elite servers. Greg is an
-associate editor for Tennisplayer.net and a researcher and data analyst
+associate editor for TPA and a researcher and data analyst
 for Advanced Tennis Research in San Francisco, California.

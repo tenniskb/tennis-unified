@@ -1,6 +1,6 @@
 ---
 title: Classic Lessons
-description: Comprehensive collection of Classic Lessons articles and technical analyses from TennisPlayer.net library.
+description: Comprehensive collection of Classic Lessons articles and technical analyses from TPA library.
 ---
 
 # Classic Lessons

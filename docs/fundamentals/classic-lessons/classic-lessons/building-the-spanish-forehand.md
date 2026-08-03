@@ -43,7 +43,7 @@ system for building the Spanish forehand. I have proven the system works
 with my high performance players at my school in New York\-- as I think
 the video that goes with the article establishes. Now in this new
 series, I'm excited to share this system for the first time anywhere
-with Tennisplayer subscribers.
+with TPA subscribers.
 
 As in my previous series on the kick serve ([**link**](https://www.tennisplayer.net/members/classiclessons/chris_lewit/keys_to_the_kick/keys_to_the_kick_page1.html)),
 I will begin by detailing the technical reference points that I'm

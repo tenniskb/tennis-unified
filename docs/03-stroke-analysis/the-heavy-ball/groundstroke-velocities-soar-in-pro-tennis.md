@@ -160,7 +160,7 @@ When Rafa hits a 3,411 RPM spinner it's credited to his muscles. Yet
 Ash is all of 5 ft 5 in and Maria is 5 ft 8 in. So talent and technique
 obviously have much to do with it.
 
-In past Tennisplayer articles we've seen that both the velocity and
+In past TPA articles we've seen that both the velocity and
 spin with which top pros hit their groundstrokes has increased
 substantially in the last few years \-- but not in identical fashion. As
 John Yandell noted, the highest spin rates aren't much different than

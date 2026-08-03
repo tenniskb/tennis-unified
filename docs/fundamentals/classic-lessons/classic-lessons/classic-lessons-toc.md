@@ -36,7 +36,7 @@ Scott's lessons present a systematic approach to developing every
 stroke in the game. Kerry's are more thematically oriented, on topics
 like rhythm and rally speed, defining open stance, and the pluses and
 minuses of the various grips. Enjoy their lessons and be sure to let us
-know what you think on the Tennisplayer bulletin boards. There's also
+know what you think on the TPA bulletin boards. There's also
 an excellent chance Kerry and Scott will write back!
 
 Chris Lewit

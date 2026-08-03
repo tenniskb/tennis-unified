@@ -119,7 +119,7 @@ players go into the air with one or two feet.
 **The racket starts back as part of the body turn.Taking the Racket Back \"Early\"**
 
 This is the old teaching adage that refuses to die, despite the vast
-video resources on Tennisplayer.net and elsewhere that demonstrate the
+video resources on TPA and elsewhere that demonstrate the
 relationship between the body turn and the timing of the backswing. In
 my opinion, traditional coaches can kill racket speed by forcing players
 to take the racket back too early with independent arm motion. As

@@ -107,7 +107,7 @@ examples that I have found powerful and effective. **The first word is \"Smooth.
 and the second quickly corresponding to the timing and the feeling of
 the actual movement.
 
-If you count frames in the high-speed archive on Tennisplayer you can
+If you count frames in the high-speed archive on TPA you can
 get a direct feel for the timing and feeling of the phase. After the
 split step, the length of Phase 1 is twice or three times the duration
 of Phase 2.

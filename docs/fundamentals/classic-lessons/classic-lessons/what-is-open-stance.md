@@ -16,7 +16,7 @@ contrasted with the \"obsolete\" footwork of the past.
 Like many observers of the game, I just assumed that the players of the
 past stepped into every ball. But I had to examine that assumption after
 I watched a video called \"Kings of the Court,\" with some great
-historical footage, produced by my fellow Tennisplayer contributor Ed
+historical footage, produced by my fellow TPA contributor Ed
 Atkinson. ([link](http://www.tennis-warehouse.com/descpageYANDELL-VKINGS.html).) The
 video is revealing because it has so many instances of open stance
 hitting, from Bill Tilden to Rod Laver. The fact is that even before the
@@ -274,5 +274,5 @@ the open stance and the backhands in upcoming articles.
 |  | competitive success winning Canadian |
 |  | National seniors titles---not to mention |
 |  | continuing to write articles for |
-|  | Tennisplayer from his unique perspective. |
+|  | TPA from his unique perspective. |
 

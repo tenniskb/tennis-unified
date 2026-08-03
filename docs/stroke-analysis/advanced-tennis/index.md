@@ -5,7 +5,7 @@ description: John Yandell analyses — modern forehand/backhand, pro strokes, my
 
 # Advanced Tennis (John Yandell Analyses)
 
-**The most comprehensive pro stroke analysis library** — 90+ articles from John Yandell's tennisplayer.net.
+**The most comprehensive pro stroke analysis library** — 90+ articles from John Yandell's TPA.
 
 ## Major Series
 

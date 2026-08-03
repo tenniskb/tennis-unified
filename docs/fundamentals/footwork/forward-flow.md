@@ -39,7 +39,7 @@ play more efficiently, gracefully and powerfully. ([link](Footwork%20TOC.docx)) 
 in forward movement patterns. This includes running in for the short
 ball and/or the low ball, hitting high volleys and running volleys, and
 finally hitting half volleys and drop volleys. When we analyze what the
-pros are doing by studying Tennisplayer video, we see that they all flow
+pros are doing by studying TPA video, we see that they all flow
 powerfully and gracefully through these shots.
 
 How do we achieve this flowing effortless quality in our own games?

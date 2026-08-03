@@ -10,7 +10,7 @@ confidence](media_andy-roddick-the-new-serving-model-part2/media/image1.webp)
 
 **Higher speed and equal spin equals a faster racket.**
 
-In a Tennisplayer article, Rick Macci made the rather bold assertion
+In a TPA article, Rick Macci made the rather bold assertion
 that Andy Roddick has more racket head speed than any player in the
 game. ([link](http://www.tennisplayer.net/members/tour_strokes/rick_macci/rick_macci_andy_roddick_serve_images/rick_macci_andy_roddick_serve.html))
 Bold, but also correct. The comparative measurements of ball speed and
@@ -21,7 +21,7 @@ with the same levels of spin.
 
 Now, I know what some of you gearheads out there are thinking\--it's
 the racket, it's the strings! According to the author of The Physics
-and Technology of Tennis (and upcoming Tennisplayer contributor) Rod
+and Technology of Tennis (and upcoming TPA contributor) Rod
 Cross, however, that is not likely. ([Click
 here](http://www.tennis-warehouse.com/descpage-PHYSICS.html) for info on
 his book.) Remember Pete had a very heavy racket that a lot of people
@@ -621,12 +621,12 @@ confidence](media_andy-roddick-the-new-serving-model-part2/media/image26.jpeg)
 
 John Yandell is widely acknowledged as one of the leading videographers
 and students of the modern game of professional tennis. His high speed
-filming for Advanced Tennis and Tennisplayer have provided new visual
+filming for Advanced Tennis and TPA have provided new visual
 resources that have changed the way the game is studied and understood
 by both players and coaches. He has done personal video analysis for
 hundreds of high level competitive players, including Justine
 Henin-Hardenne, Taylor Dent and John McEnroe, among others.
 
-In addition to his role as Editor of Tennisplayer he is the author of
+In addition to his role as Editor of TPA he is the author of
 the critically acclaimed book Visual Tennis. The John Yandell Tennis
 School is located in San Francisco, California.

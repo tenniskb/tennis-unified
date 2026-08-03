@@ -12,7 +12,7 @@ Like the Palm Side hand position.
 
 Or where to look and what to do with your eyes. A powerful new addition
 to our teaching library on the serve. And check out the half price deal
-on John's whole serving course, just for Tennisplayer subscribers.
+on John's whole serving course, just for TPA subscribers.
 
 ![link](media_the-perfect-ball-toss/media/image1.wmf)
 

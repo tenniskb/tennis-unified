@@ -29,7 +29,7 @@ confidence](media_the-athletic-foundation/media/image2.webp)
 **Training in the AP Belt can make a huge difference in improving court
 movement for players at all levels.**
 
-In my new series for Tennisplayer, I hope to help players and coaches
+In my new series for TPA, I hope to help players and coaches
 understand the athletic foundation and develop more efficient movement
 techniques. In Part 1, I'll explain the physical qualities of the
 athletic foundation and the importance of being able to establish,
@@ -44,7 +44,7 @@ an informercial right off the bat. But after talking to John Yandell, he
 convinced me that the use of the belt was central to conveying the
 concept of the Athletic Foundation. In fact the belt is now required
 equipment at the Academy for all full time students. We've also made it
-possible for all Tennisplayer subscribers to order the belt at a special
+possible for all TPA subscribers to order the belt at a special
 price. [link](http://www.active.com/event_detail.cfm?event_id=1175099).
 
 | ![A race car on a track Description automatically generated with medium | ![A picture containing outdoor, grass, truck, parked Description automatically |

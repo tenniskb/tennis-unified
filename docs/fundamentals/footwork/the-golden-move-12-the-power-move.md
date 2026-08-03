@@ -14,7 +14,7 @@ to prove it.
 
 And there is more to come in a future series! 7 modified Golden Moves
 plus 2 Advanced Moves. David is the man who brought the same level of
-sophistication to teaching footwork that Tennisplayer has pioneered with
+sophistication to teaching footwork that TPA has pioneered with
 stroke production. It's a critical piece in player development. And this
 is the only place to see it in fabulous detail.
 

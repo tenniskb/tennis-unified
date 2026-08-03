@@ -267,7 +267,7 @@ right as a consequence of the swing path, that's fine, but it should
 happen on its own and not from a mechanical attempt to imitate Pete.
 
 So that's it for this installment on our journey exploring the kick
-serve. It's been great to hear from so many Tennisplayer subscribers
+serve. It's been great to hear from so many TPA subscribers
 about the articles, so keep the comments coming in the Forum, please.
 Next we'll see the awesome series of training exercises that complete
 my kick system and give you the full training approach you need to

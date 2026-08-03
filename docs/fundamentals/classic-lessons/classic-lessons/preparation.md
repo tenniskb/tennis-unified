@@ -96,7 +96,7 @@ The quick deep turn should happen in the blink of an eye. With my
 students we train it religiously.
 
 Nick Saviano calls this \"pulling the shoulder\". ([link](https://www.tennisplayer.net/members/famouscoach/nick_saviano/saviano_optimizing_your_technique_part1/saviano_optimizing_your_technique_part1.html)
-for his excellent articles on Tennisplayer.)
+for his excellent articles on TPA.)
 
 This level of body turn will naturally result in a closed stance as the
 player steps forward along the line created by the shoulder turn. As
@@ -245,7 +245,7 @@ recommended protocols.
 
 This is something that good coaches should monitor when they study
 technique while visiting pro events or watching the latest stroke clips
-on Tennisplayer. Tennis is always changing and coaches and players need
+on TPA. Tennis is always changing and coaches and players need
 to be aware of this and also evaluate what applies to the various
 levels.
 

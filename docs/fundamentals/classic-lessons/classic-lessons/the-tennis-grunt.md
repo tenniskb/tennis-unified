@@ -236,7 +236,7 @@ and neutralize any advantage held by grunting opponents?
 
 **My own opinion is that, first, grunting helps tennis players, and second, without grunting matches would simply not be as intense. For these reasons I am thankful for grunting, and love and appreciate the players who will half kill to win.**
 
-I have a feeling though that not every Tennisplayer subscriber is going
+I have a feeling though that not every TPA subscriber is going
 to agree. So let me know what you think about grunting and this article
 in the Forum! ([link](https://www.tennisplayer.net/bulletin/forum/tennisplayer/2090-the-tennis-grunt?view=stream).)
 
@@ -246,7 +246,7 @@ in the Forum! ([link](https://www.tennisplayer.net/bulletin/forum/tennisplayer/2
                                                                                                                                                                           levels. He accomplished this with a self-taught
                                                                                                                                                                           style, shunning lessons. His recent return to
                                                                                                                                                                           glory was inspired in part by his intensive study
-                                                                                                                                                                          of Tennisplayer.net. He claims with a straight
+                                                                                                                                                                          of TPA. He claims with a straight
                                                                                                                                                                           face to have read literally every article on the
                                                                                                                                                                           site. An electrical contractor by profession,
                                                                                                                                                                           Geoff lives in the East Bay with his wife Ronda.

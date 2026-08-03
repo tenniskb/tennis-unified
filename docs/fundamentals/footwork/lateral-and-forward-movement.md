@@ -69,7 +69,7 @@ When watching the top players in real time, the adjustment steps happen
 so quickly you may not always see them, but on the hard courts you can
 definitely hear them. The adjustment steps make those chirping squeak
 noises just prior to setting up the stance to strike the ball. But in
-the Tennisplayer slow motion video, it is possible to see them clearly.
+the TPA slow motion video, it is possible to see them clearly.
 
 **The adjustment steps are breaking steps.**
 **They slow down the body's directional momentum. They are also

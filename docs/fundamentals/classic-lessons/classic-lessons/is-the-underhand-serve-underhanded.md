@@ -88,14 +88,14 @@ drives people crazier than the underhand serve.
 
 **In the 20th century with Bill Tilden and others the overhand serve became a weapon.**
 
-Joel Drucker, a writer for Tennisplayer, Tennis magazine and the Tennis
+Joel Drucker, a writer for TPA, Tennis magazine and the Tennis
 Channel told me this: \"When competing, we often live on a thin knife's
 edge between tranquility and tension. The rarity of seeing an underhand
 serve \--and the challenge of having to deal with a ball that's
 potentially quite short and spinning in previously unseen and difficult
 directions \-- can send someone right over the cliff.\"
 
-Just last week at the Monte Carlo Masters, Tennisplayer contributor
+Just last week at the Monte Carlo Masters, TPA contributor
 Craig O'Shannessy suggested somebody should try an underarm serve
 against Rafael Nadal.
 

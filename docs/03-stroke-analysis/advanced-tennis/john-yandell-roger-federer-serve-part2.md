@@ -408,9 +408,9 @@ fascinating challenge that will undoubtedly increase our understanding
 the serve's bio-mechanics. The method that will allow us to see these
 factors more clearly\--as with so many others factors in technique\--is
 quantitative analysis. This is the work of Brian Gordon, Bruce Elliot
-and a few others, including Tennisplayer's own Greg Ryan. Working with
+and a few others, including TPA's own Greg Ryan. Working with
 Advanced Tennis, Greg has done 3-dimensional studies that we plan to
-report about on Tennisplayer.
+report about on TPA.
 
 The whole picture is very complex. But one belief about the torso
 rotation that is definitely inaccurate is the idea that the hips and
@@ -628,12 +628,12 @@ confidence](media_john-yandell-roger-federer-serve-part2/media/image28.jpeg)
 
 John Yandell is widely acknowledged as one of the leading videographers
 and students of the modern game of professional tennis. His high speed
-filming for Advanced Tennis and Tennisplayer have provided new visual
+filming for Advanced Tennis and TPA have provided new visual
 resources that have changed the way the game is studied and understood
 by both players and coaches. He has done personal video analysis for
 hundreds of high level competitive players, including Justine
 Henin-Hardenne, Taylor Dent and John McEnroe, among others.
 
-In addition to his role as Editor of Tennisplayer he is the author of
+In addition to his role as Editor of TPA he is the author of
 the critically acclaimed book Visual Tennis. The John Yandell Tennis
 School is located in San Francisco, California.

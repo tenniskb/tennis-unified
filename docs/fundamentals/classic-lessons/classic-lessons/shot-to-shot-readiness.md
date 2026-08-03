@@ -45,7 +45,7 @@ So in the next two articles, let's look at everything that goes into
 shot to shot readiness. In this first article, we'll look at the
 components and the timing of preparation, movement, and recovery. Some
 of the information I'll present repeats or is synthesized from what
-other great writers have already contributed on Tennisplayer, but it is
+other great writers have already contributed on TPA, but it is
 more than worth looking at again in the context of the readiness
 concept.
 
@@ -142,7 +142,7 @@ consistently.
 Joe Dinoffer, the renowned master professional and international
 clinician, has a great suggestion to help these players transition to
 split stepping. (**link**(https://www.tennisplayer.net/members/teaching_systems/teaching_systems.html) for
-Joe's articles on Tennisplayer.) **Instead of doing one split step, you do two. Bounce once, then bounce twice.This simple exercise creates a \"feel\" for making an immediate split step that will carry over into your practice and play. After a series of shots hit with two split steps, your perception will be that you have much more time to execute your shot. Try it and see if you don't agree!**
+Joe's articles on TPA.) **Instead of doing one split step, you do two. Bounce once, then bounce twice.This simple exercise creates a \"feel\" for making an immediate split step that will carry over into your practice and play. After a series of shots hit with two split steps, your perception will be that you have much more time to execute your shot. Try it and see if you don't agree!**
 
 ### Body Turn
 
@@ -159,7 +159,7 @@ possible to hit from any possible stance variation on either the
 forehand or backhand side.
 
 This is very different from the idea of the arm and racket somehow
-moving back independently of the body. Any Tennisplayer subscriber knows
+moving back independently of the body. Any TPA subscriber knows
 that the old idea of \"getting your racket back\" rarely leads to a full
 turn. (**link**(http://www.tennisplayer.net/members/avancedtennis/john_yandell/your_forehand_and_the_modern_forehand/preparation/your_forehand_and_the_modern_forehand_preparation.html) to
 read John Yandell's recent article.)
@@ -201,7 +201,7 @@ foot into a neutral or square stance.
 
 To determine the spacing for the contact on the one-handed backhand, I
 like Welby Van Horn's use of the baseball home plate. (**link**(https://www.tennisplayer.net/members/teaching_systems/teaching_systems.html) to
-see Welby's articles on Tennisplayer!) In baseball, when you stand at
+see Welby's articles on TPA!) In baseball, when you stand at
 the correct distance from the plate and the pitch is over the middle,
 you get the \"fat\" part of the bat on the ball. As with baseball, for
 most backhands club players should strive for a neutral stance in which

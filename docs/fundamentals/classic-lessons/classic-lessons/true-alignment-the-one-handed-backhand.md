@@ -156,5 +156,5 @@ Stay tuned and we will look next at the serve and the volleys.
 |  | competitive success winning Canadian |
 |  | National seniors titles---not to mention |
 |  | continuing to write articles for |
-|  | Tennisplayer from his unique perspective. |
+|  | TPA from his unique perspective. |
 
