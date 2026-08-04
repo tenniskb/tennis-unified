@@ -1,6 +1,6 @@
 ---
-title: Grip — Technical Reference
-description: Grip pressure, timing, anchoring, and the bevel system — down to the millisecond-level mechanics of the grip pulse.
+title: "Grip — Technical Reference"
+description: "Grip pressure, timing, anchoring, and the bevel system — down to the millisecond-level mechanics of the grip pulse."
 ---
 
 # Grip — Technical Reference

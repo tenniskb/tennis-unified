@@ -1,6 +1,6 @@
 ---
-title: Serve — Technical Reference
-description: The full mechanical, perceptual, and tactical model behind the serve: why the legs have to drive before the arm, the eight-stage diagnostic model for finding what's actually broken, serve backswing types, and reading the launch itself.
+title: "Serve — Technical Reference"
+description: "The full mechanical, perceptual, and tactical model behind the serve: why the legs have to drive before the arm, the eight-stage diagnostic model for finding what's actually broken, serve backswing types, and reading the launch itself."
 ---
 
 # Serve — Technical Reference

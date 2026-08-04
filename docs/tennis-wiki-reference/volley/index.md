@@ -1,6 +1,6 @@
 ---
-title: Volley — Technical Reference
-description: The full mechanical and neurological model behind modern net play: how power is generated without an arm swing, why the wrist has to lock rather than snap, how footwork sequences into three distinct contact directions, and how grip pressure shifts by the shot you're trying to hit.
+title: "Volley — Technical Reference"
+description: "The full mechanical and neurological model behind modern net play: how power is generated without an arm swing, why the wrist has to lock rather than snap, how footwork sequences into three distinct contact directions, and how grip pressure shifts by the shot you're trying to hit."
 ---
 
 # Volley — Technical Reference

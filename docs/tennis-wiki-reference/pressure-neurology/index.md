@@ -1,6 +1,6 @@
 ---
-title: Performance Under Pressure — Neurology — Technical Reference
-description: What actually happens in your brain and nervous system when competitive pressure rises — the mechanism behind choking, the amygdala's role, and the specific, trainable interventions that keep your trained strokes accessible under stress.
+title: "Performance Under Pressure — Neurology — Technical Reference"
+description: "What actually happens in your brain and nervous system when competitive pressure rises — the mechanism behind choking, the amygdala's role, and the specific, trainable interventions that keep your trained strokes accessible under stress."
 ---
 
 # Performance Under Pressure — Neurology — Technical Reference

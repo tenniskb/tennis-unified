@@ -1,6 +1,6 @@
 ---
-title: Forehand — Technical Reference
-description: The mechanical model behind the forehand: the kinetic chain that powers it, the two elite arm geometries and their trade-offs, stance selection by ball height and time available, and the tactical case for running around your backhand to use it.
+title: "Forehand — Technical Reference"
+description: "The mechanical model behind the forehand: the kinetic chain that powers it, the two elite arm geometries and their trade-offs, stance selection by ball height and time available, and the tactical case for running around your backhand to use it."
 ---
 
 # Forehand — Technical Reference

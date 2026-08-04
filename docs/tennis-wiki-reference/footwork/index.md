@@ -1,6 +1,6 @@
 ---
-title: Footwork & Movement — Technical Reference
-description: The mechanics and neurology of the split-step and the anchor points that make every other stroke possible: timing, the anticipatory read that happens before you even land, and the specific foot doing the structural work in every situation from net to baseline.
+title: "Footwork & Movement — Technical Reference"
+description: "The mechanics and neurology of the split-step and the anchor points that make every other stroke possible: timing, the anticipatory read that happens before you even land, and the specific foot doing the structural work in every situation from net to baseline."
 ---
 
 # Footwork & Movement — Technical Reference

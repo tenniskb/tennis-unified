@@ -1,6 +1,6 @@
 ---
-title: Tactics & Decision-Making — Technical Reference
-description: The cognitive and strategic architecture behind modern point construction: how elite players plan several shots ahead, why the best tactical decisions happen below conscious thought, and how to build that kind of implicit, adaptive decision-making yourself.
+title: "Tactics & Decision-Making — Technical Reference"
+description: "The cognitive and strategic architecture behind modern point construction: how elite players plan several shots ahead, why the best tactical decisions happen below conscious thought, and how to build that kind of implicit, adaptive decision-making yourself."
 ---
 
 # Tactics & Decision-Making — Technical Reference

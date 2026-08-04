@@ -1,6 +1,6 @@
 ---
-title: Lob & Overhead — Technical Reference
-description: The deeper tactical layer underneath the Foundation-tier lob and overhead guides.
+title: "Lob & Overhead — Technical Reference"
+description: "The deeper tactical layer underneath the Foundation-tier lob and overhead guides."
 ---
 
 # Lob & Overhead — Technical Reference

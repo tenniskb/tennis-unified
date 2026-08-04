@@ -1,6 +1,6 @@
 ---
-title: Backhand — Technical Reference
-description: The mechanical model behind both backhand styles: why the non-dominant hand is the real engine of the two-hander, the open-chain demands of the one-hander, the slice's inverted physics, stance and high-ball adaptations, and the tactical patterns that make the backhand a weapon rather than a liability.
+title: "Backhand — Technical Reference"
+description: "The mechanical model behind both backhand styles: why the non-dominant hand is the real engine of the two-hander, the open-chain demands of the one-hander, the slice's inverted physics, stance and high-ball adaptations, and the tactical patterns that make the backhand a weapon rather than a liability."
 ---
 
 # Backhand — Technical Reference
