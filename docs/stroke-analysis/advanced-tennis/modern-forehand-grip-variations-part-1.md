@@ -375,3 +375,8 @@ Henin-Hardenne, Taylor Dent and John McEnroe, among others.
 In addition to his role as Editor of TPA he is the author of
 the critically acclaimed book Visual Tennis. The John Yandell Tennis
 School is located in San Francisco, California.
+
+---
+
+<!-- prevnext-nav -->
+[← Read](common-elements-across-the-grip-styles.md)  |  [Advanced Tennis Index](index.md)  |  [Read →](modern-forehand-grip-variations-part-2.md)

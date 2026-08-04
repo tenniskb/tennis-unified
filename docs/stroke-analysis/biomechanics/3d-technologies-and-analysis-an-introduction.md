@@ -294,3 +294,8 @@ Here!]**](https://tennisperformanceresearch.com/)
 Top contact him directly, [**[Click
 
 Here!]**](mailto:gamabrian@icloud.com)
+
+---
+
+<!-- prevnext-nav -->
+[← Female Athletes](have-tennis-coaches-failed-female-athletes.md)  |  [Biomechanics Index](index.md)  |  [3D Serve Wind-up →](3d-technologies-and-analysis-the-serve-wind-up.md)

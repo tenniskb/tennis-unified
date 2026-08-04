@@ -225,3 +225,8 @@ head speed for the serve was largely powered by
 a joint motion that was not well known in
 
 tennis.
+
+---
+
+<!-- prevnext-nav -->
+[← Developing An Atp Forehand Part2](developing-an-atp-forehand-part2.md)  |  [Biomechanics Index](index.md)  |  [Science Of Biomechanics Toc →](science-of-biomechanics-toc.md)

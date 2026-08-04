@@ -37,3 +37,8 @@ Here!]**](https://tennisperformanceresearch.com/)
 Top contact him directly, [**[Click
 
 Here!]**](mailto:gamabrian@icloud.com)
+
+---
+
+<!-- prevnext-nav -->
+[← Understanding Professional Forehand](understanding-professional-forehand-part-1.md)  |  [Biomechanics Index](index.md)  |  [Cocking, Loading and the Back Foot →](cocking-loading-and-the-back-foot.md)

@@ -168,3 +168,8 @@ Here!]**](https://tennisperformanceresearch.com/)
 Top contact him directly, [**[Click
 
 Here!]**](mailto:gamabrian@icloud.com)
+
+---
+
+<!-- prevnext-nav -->
+[← Understanding Muscle Memory Part 2](understanding-muscle-memory-part-2.md)  |  [Biomechanics Index](index.md)

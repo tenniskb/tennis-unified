@@ -30,3 +30,8 @@ Henin-Hardenne, Taylor Dent and John McEnroe, among others.
 In addition to his role as Editor of TPA he is the author of
 the critically acclaimed book Visual Tennis. The John Yandell Tennis
 School is located in San Francisco, California.
+
+---
+
+<!-- prevnext-nav -->
+[← The Forward Swing — Hand and Arm Extension](john-yandell-your-forehand-and-the-modern-forehand-the-forward-swing-hand-and-arm-extension.md)  |  [Advanced Tennis Index](index.md)  |  [Hitting-Arm Positions — The Double Bend →](john-yandell-your-forehand-and-the-modern-forehand-hitting-arm-positions-the-double-bend.md)

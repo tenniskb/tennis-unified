@@ -323,3 +323,8 @@ recent ITF book Biomechanics of Advanced Tennis. As a player and coach,
 his focus is on integrating research into coaching and teaching. A
 professor in biomechanics at the University of Western Australia , he is
 a keynote speaker at major teaching conferences throughout the world.
+
+---
+
+<!-- prevnext-nav -->
+[← The Backswing The Upper Body Part 2](the-backswing-the-upper-body-part-2.md)  |  [Biomechanics Index](index.md)  |  [The Power Serve Part 2 →](the-power-serve-part-2.md)

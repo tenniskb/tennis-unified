@@ -268,3 +268,8 @@ teams that have won regionals, and I play
 League. I conclude that there may be
 
 something to my theory."
+
+---
+
+<!-- prevnext-nav -->
+[← The Serving Nodes](the-serving-nodes.md)  |  [Biomechanics Index](index.md)  |  [Understanding Muscle Memory Part 2 →](understanding-muscle-memory-part-2.md)

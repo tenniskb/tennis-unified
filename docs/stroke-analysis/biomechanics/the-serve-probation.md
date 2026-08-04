@@ -44,3 +44,8 @@ Here!]**](https://tennisperformanceresearch.com/)
 Top contact him directly, [**[Click
 
 Here!]**](mailto:gamabrian@icloud.com)
+
+---
+
+<!-- prevnext-nav -->
+[← The Serve And Tennis Science](the-serve-and-tennis-science.md)  |  [Biomechanics Index](index.md)  |  [The Serve The Stances →](the-serve-the-stances.md)

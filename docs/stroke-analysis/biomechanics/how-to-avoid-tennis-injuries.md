@@ -3114,3 +3114,8 @@ Articles from British Journal of Sports Medicine are provided here
 courtesy of **BMJ Publishing Group**
 
 From <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2577490/>
+
+---
+
+<!-- prevnext-nav -->
+[← Shoulder Pain (Dr Brian Lee)](dr-brian-lee-shoulder-pain.md)  |  [Biomechanics Index](index.md)  |  [Female Athletes →](have-tennis-coaches-failed-female-athletes.md)

@@ -450,3 +450,8 @@ initiative. His articles have been published in
 several industry magazines. He writes the popular
 weekly "Ask Bill" column for the USTA.com. Click
 here to ask him a question! Mountford@usta.com
+
+---
+
+<!-- prevnext-nav -->
+[← Read](what-is-true-in-tennis.md)  |  [Advanced Tennis Index](index.md)  |  [Read →](the-forehand-volley.md)

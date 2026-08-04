@@ -42,3 +42,8 @@ Here!]**](https://tennisperformanceresearch.com/)
 Top contact him directly, [**[Click
 
 Here!]**](mailto:gamabrian@icloud.com)
+
+---
+
+<!-- prevnext-nav -->
+[← Most Important Bones](the-most-important-bones-in-tennis.md)  |  [Biomechanics Index](index.md)  |  [Quantifying Shot Outputs →](quantifying-shot-outputs.md)

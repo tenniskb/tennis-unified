@@ -82,3 +82,8 @@ Serving](Spin%20Rates%20and%20Axis%20of%20Rotation%20in%20elite%20serving.docx)
 
 [The New Top Ball Speed in Pro
 Tennis](Groundstroke%20Velocities%20Soar%20in%20Pro%20Tennis.docx) - NEW
+
+---
+
+<!-- prevnext-nav -->
+[← Spin Rates and Axis of Rotation](spin-rates-and-axis-of-rotation-in-elite-serving.md)  |  [The Heavy Ball Index](index.md)  |  [The Heavy Serve — Practical Implications →](the-heavy-serve-practical-implications.md)

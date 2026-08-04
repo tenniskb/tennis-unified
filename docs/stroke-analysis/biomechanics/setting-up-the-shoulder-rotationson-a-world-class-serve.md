@@ -231,3 +231,8 @@ head speed for the serve was largely powered by
 a joint motion that was not well known in
 
 tennis.
+
+---
+
+<!-- prevnext-nav -->
+[← Rotations in Upward Swing](rotations-in-the-upward-swing.md)  |  [Biomechanics Index](index.md)  |  [Synchronizing Legs →](synchronizing-the-legs.md)

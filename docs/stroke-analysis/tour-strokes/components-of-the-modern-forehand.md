@@ -187,3 +187,8 @@ former Soviet Union. During the summer months, he is
 tennis director at Camp Walt Whitman in Piermont, New
 Hampshire, where he has worked personally with hundreds
 of junior players at all levels of ability.
+
+---
+
+<!-- prevnext-nav -->
+[← The Pro Return](the-pro-return.md)  |  [Tour Strokes Index](index.md)  |  [Tour Strokes Toc →](tour-strokes-toc.md)

@@ -198,3 +198,8 @@ teams that have won regionals, and I play
 League. I conclude that there may be
 
 something to my theory."
+
+---
+
+<!-- prevnext-nav -->
+[← Understanding Mental Imagery Part 2](understanding-mental-imagery-part-2.md)  |  [Biomechanics Index](index.md)  |  [Understanding Professional Forehand Part 2 →](understanding-professional-forehand-part-2.md)

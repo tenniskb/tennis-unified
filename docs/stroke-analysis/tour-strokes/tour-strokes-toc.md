@@ -212,3 +212,8 @@ Grand Sam: Samantha Stosur's Serve Motion
 **Paul Cohen**
 
 A Comment on Locked Elbow and Bent Elbow Forehands
+
+---
+
+<!-- prevnext-nav -->
+[← Components Of The Modern Forehand](components-of-the-modern-forehand.md)  |  [Tour Strokes Index](index.md)

@@ -701,3 +701,8 @@ Here!**](https://tennisperformanceresearch.com/)
 Top contact him directly, [**Click
 
 Here!**](mailto:gamabrian@icloud.com)
+
+---
+
+<!-- prevnext-nav -->
+[← Developing ATP Forehand Part 1](developing-an-atp-forehand-part1.md)  |  [Biomechanics Index](index.md)  |  [Internal Shoulder Rotation Key To Serving Power →](internal-shoulder-rotation-key-to-serving-power.md)

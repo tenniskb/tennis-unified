@@ -360,3 +360,8 @@ Henin-Hardenne, Taylor Dent and John McEnroe, among others.
 In addition to his role as Editor of TPA he is the author of
 the critically acclaimed book Visual Tennis. The John Yandell Tennis
 School is located in San Francisco, California.
+
+---
+
+<!-- prevnext-nav -->
+[← Cocking, Loading and the Back Foot](cocking-loading-and-the-back-foot.md)  |  [Biomechanics Index](index.md)  |  [3D Serve - Upward Swing Part 1 →](the-3d-serve-upward-swing-part-1.md)

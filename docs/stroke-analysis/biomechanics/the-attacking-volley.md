@@ -309,3 +309,8 @@ strategically.***
 I want you to break the opponent's back mentally and not your own. If
 you incorporate these concepts, I can almost guarantee that you will
 develop a great attacking volley game.
+
+---
+
+<!-- prevnext-nav -->
+[← The Atp Two Handed Backhand The Take Back And Dynamic Slot](the-atp-two-handed-backhand-the-take-back-and-dynamic-slot.md)  |  [Biomechanics Index](index.md)  |  [The Backswing Part 1 →](the-backswing-part-1.md)

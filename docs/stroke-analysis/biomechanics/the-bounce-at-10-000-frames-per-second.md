@@ -264,3 +264,8 @@ been kicking around by watching great players over several generations.
 In the end I came to the conclusion that good racket to ball contact
 depends on good ball watching. I wrote the book to teach myself how to
 see racket to ball contact and my hope is it can help you do the same.
+
+---
+
+<!-- prevnext-nav -->
+[← Contact at 10,000 FPS](contact-at-10-000-frames-per-second.md)  |  [Biomechanics Index](index.md)  |  [Correcting Common Stroke Errors →](correcting-common-stroke-errors.md)

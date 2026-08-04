@@ -203,3 +203,8 @@ Here!]**](https://tennisperformanceresearch.com/)
 Top contact him directly, [**[Click
 
 Here!]**](mailto:gamabrian@icloud.com)
+
+---
+
+<!-- prevnext-nav -->
+[← Understanding Muscle Memory](understanding-muscle-memory-part-1.md)  |  [Biomechanics Index](index.md)  |  [Women's Tennis & ATP Forehand →](women-s-tennis-and-the-atp-forehand.md)

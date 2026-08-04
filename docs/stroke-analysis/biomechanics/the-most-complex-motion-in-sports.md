@@ -210,3 +210,8 @@ Here!]**](https://tennisperformanceresearch.com/)
 Top contact him directly, [**[Click
 
 Here!]**](mailto:gamabrian@icloud.com)
+
+---
+
+<!-- prevnext-nav -->
+[← Hesitation Point](the-hesitation-point.md)  |  [Biomechanics Index](index.md)  |  [Most Important Bones →](the-most-important-bones-in-tennis.md)

@@ -227,3 +227,8 @@ James E. Fawcette is a retired, serial entrepreneur in technology
 publishing and a long-time tennis fan. His opinions and unforced errors
 in this article are his own. Data is from Roland-Garros, Fédération
 française de tennis, via the Infosys Match Center.
+
+---
+
+<!-- prevnext-nav -->
+[← Ball Spin in Pro Tennis Part 2](ball-spin-in-pro-tennis-part-2.md)  |  [The Heavy Ball Index](index.md)  |  [Mysteries of the Heavy Ball Introduction →](mysteries-of-the-heavy-ball-introduction.md)

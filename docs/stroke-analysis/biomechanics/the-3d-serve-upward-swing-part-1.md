@@ -511,3 +511,8 @@ Here!]**](https://tennisperformanceresearch.com/)
 Top contact him directly, [**[Click
 
 Here!]**](mailto:gamabrian@icloud.com)
+
+---
+
+<!-- prevnext-nav -->
+[← Comparing the Open and Closed Stances](comparing-the-open-and-closed-stances.md)  |  [Biomechanics Index](index.md)  |  [ATP Two-Handed Backhand →](the-atp-two-handed-backhand-optimizing-the-muscles.md)

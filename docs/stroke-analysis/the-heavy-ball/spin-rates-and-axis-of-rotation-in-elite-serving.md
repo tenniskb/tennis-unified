@@ -210,3 +210,8 @@ Development Program and provided performance
 evaluations for some of Australia's top junior and
 tour players, including 2011 US Open Champion Sam
 Stosur.
+
+---
+
+<!-- prevnext-nav -->
+[← Speed and Spin](speed-and-spin.md)  |  [The Heavy Ball Index](index.md)  |  [The Heavy Ball TOC →](the-heavy-ball-toc.md)

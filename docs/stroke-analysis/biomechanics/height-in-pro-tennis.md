@@ -203,3 +203,8 @@ Here!]**](https://tennisperformanceresearch.com/)
 Top contact him directly, [**[Click
 
 Here!]**](mailto:gamabrian@icloud.com)
+
+---
+
+<!-- prevnext-nav -->
+[← Correcting Common Stroke Errors](correcting-common-stroke-errors.md)  |  [Biomechanics Index](index.md)  |  [Hesitation Point →](the-hesitation-point.md)

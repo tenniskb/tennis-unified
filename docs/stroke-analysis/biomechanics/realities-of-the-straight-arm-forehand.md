@@ -51,3 +51,8 @@ Here!]**](https://tennisperformanceresearch.com/)
 Top contact him directly, [**[Click
 
 Here!]**](mailto:gamabrian@icloud.com)
+
+---
+
+<!-- prevnext-nav -->
+[← Quantifying Shot Outputs](quantifying-shot-outputs.md)  |  [Biomechanics Index](index.md)  |  [Researching the Serve →](researching-the-serve.md)

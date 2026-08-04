@@ -293,3 +293,8 @@ Here!]**](https://tennisperformanceresearch.com/)
 Top contact him directly, [**[Click
 
 Here!]**](mailto:gamabrian@icloud.com)
+
+---
+
+<!-- prevnext-nav -->
+[← 3D Serve - Upward Swing Part 1](the-3d-serve-upward-swing-part-1.md)  |  [Biomechanics Index](index.md)  |  [Developing ATP Forehand Part 1 →](developing-an-atp-forehand-part1.md)

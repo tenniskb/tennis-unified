@@ -48,3 +48,8 @@ Here!]**](https://tennisperformanceresearch.com/)
 Top contact him directly, [**[Click
 
 Here!]**](mailto:gamabrian@icloud.com)
+
+---
+
+<!-- prevnext-nav -->
+[← The Serve The Stances](the-serve-the-stances.md)  |  [Biomechanics Index](index.md)  |  [The Serving Nodes →](the-serving-nodes.md)

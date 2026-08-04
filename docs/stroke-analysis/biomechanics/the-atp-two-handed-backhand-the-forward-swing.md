@@ -324,3 +324,8 @@ Here!]**](https://tennisperformanceresearch.com/)
 Top contact him directly, [**[Click
 
 Here!]**](mailto:gamabrian@icloud.com)
+
+---
+
+<!-- prevnext-nav -->
+[← The Atp Two Handed Backhand The 3 General Types](the-atp-two-handed-backhand-the-3-general-types.md)  |  [Biomechanics Index](index.md)  |  [The Atp Two Handed Backhand The Take Back And Dynamic Slot →](the-atp-two-handed-backhand-the-take-back-and-dynamic-slot.md)

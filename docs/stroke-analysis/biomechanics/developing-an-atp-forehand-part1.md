@@ -784,3 +784,8 @@ Here!**](https://tennisperformanceresearch.com/)
 Top contact him directly, [**Click
 
 Here!**](mailto:gamabrian@icloud.com)
+
+---
+
+<!-- prevnext-nav -->
+[← ATP Two-Handed Backhand](the-atp-two-handed-backhand-optimizing-the-muscles.md)  |  [Biomechanics Index](index.md)  |  [Developing An Atp Forehand Part2 →](developing-an-atp-forehand-part2.md)

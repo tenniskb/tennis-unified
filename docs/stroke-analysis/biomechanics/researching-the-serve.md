@@ -508,3 +508,8 @@ Schleihauf. His thesis describes the groundbreaking results of a
 non-invasive quantitative analysis of elite servers. Greg is an
 associate editor for TPA and a researcher and data analyst
 for Advanced Tennis Research in San Francisco, California.
+
+---
+
+<!-- prevnext-nav -->
+[← Realities of Straight Arm FH](realities-of-the-straight-arm-forehand.md)  |  [Biomechanics Index](index.md)  |  [Rotations in Upward Swing →](rotations-in-the-upward-swing.md)

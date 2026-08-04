@@ -44,3 +44,8 @@ Here!]**](https://tennisperformanceresearch.com/)
 Top contact him directly, [**[Click
 
 Here!]**](mailto:gamabrian@icloud.com)
+
+---
+
+<!-- prevnext-nav -->
+[← Setting Up Shoulder Rotations](setting-up-the-shoulder-rotationson-a-world-class-serve.md)  |  [Biomechanics Index](index.md)  |  [Understanding Mental Imagery →](understanding-mental-imagery-part-1.md)

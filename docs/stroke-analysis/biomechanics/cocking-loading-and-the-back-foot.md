@@ -30,3 +30,8 @@ member, and is Past President, of the Society for Tennis Medicine and
 Science. In 1998, he received PTR's Stanley Plagenhoef Award for his
 work in sport science. In 2009, he received the International Tennis
 Hall of Fame Educational Merit Award.
+
+---
+
+<!-- prevnext-nav -->
+[← Women's Tennis & ATP Forehand](women-s-tennis-and-the-atp-forehand.md)  |  [Biomechanics Index](index.md)  |  [Comparing the Open and Closed Stances →](comparing-the-open-and-closed-stances.md)

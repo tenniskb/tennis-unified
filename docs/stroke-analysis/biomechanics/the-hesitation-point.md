@@ -39,3 +39,8 @@ Here!]**](https://tennisperformanceresearch.com/)
 Top contact him directly, [**[Click
 
 Here!]**](mailto:gamabrian@icloud.com)
+
+---
+
+<!-- prevnext-nav -->
+[← Height in Pro Tennis](height-in-pro-tennis.md)  |  [Biomechanics Index](index.md)  |  [Most Complex Motion in Sports →](the-most-complex-motion-in-sports.md)

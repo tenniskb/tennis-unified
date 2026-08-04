@@ -258,3 +258,8 @@ Here!]**](https://tennisperformanceresearch.com/)
 Top contact him directly, [**[Click
 
 Here!]**](mailto:gamabrian@icloud.com)
+
+---
+
+<!-- prevnext-nav -->
+[← Tennis Injuries Prevention](how-to-avoid-tennis-injuries.md)  |  [Biomechanics Index](index.md)  |  [3D Technologies Intro →](3d-technologies-and-analysis-an-introduction.md)

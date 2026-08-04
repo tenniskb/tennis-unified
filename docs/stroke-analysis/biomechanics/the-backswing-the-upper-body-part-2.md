@@ -724,3 +724,8 @@ Here!]**](https://tennisperformanceresearch.com/)
 Top contact him directly, [**[Click
 
 Here!]**](mailto:gamabrian@icloud.com)
+
+---
+
+<!-- prevnext-nav -->
+[← The Backswing Part 1](the-backswing-part-1.md)  |  [Biomechanics Index](index.md)  |  [The Power Serve Part 1 →](the-power-serve-part-1.md)

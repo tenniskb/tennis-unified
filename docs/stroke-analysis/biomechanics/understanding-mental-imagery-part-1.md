@@ -229,3 +229,8 @@ teams that have won regionals, and I play
 League. I conclude that there may be
 
 something to my theory."
+
+---
+
+<!-- prevnext-nav -->
+[← Synchronizing Legs](synchronizing-the-legs.md)  |  [Biomechanics Index](index.md)  |  [Understanding Muscle Memory →](understanding-muscle-memory-part-1.md)

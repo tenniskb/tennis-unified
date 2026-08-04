@@ -212,3 +212,8 @@ that are absolutely correct-just wrong for the particular grip style of
 the player he is working with.
 
 **Roddick at the 4 Key Positions**
+
+---
+
+<!-- prevnext-nav -->
+[← Read](building-the-modern-forehand-racket-face-angle.md)  |  [Advanced Tennis Index](index.md)  |  [Read →](building-the-modern-forehand-shoulder-rotation.md)

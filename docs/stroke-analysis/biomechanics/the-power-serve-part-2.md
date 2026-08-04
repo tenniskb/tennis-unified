@@ -320,3 +320,8 @@ recent ITF book Biomechanics of Advanced Tennis. As a player and coach,
 his focus is on integrating research into coaching and teaching. A
 professor in biomechanics at the University of Western Australia , he is
 a keynote speaker at major teaching conferences throughout the world.
+
+---
+
+<!-- prevnext-nav -->
+[← The Power Serve Part 1](the-power-serve-part-1.md)  |  [Biomechanics Index](index.md)  |  [The Push Serve And Pull Serve →](the-push-serve-and-pull-serve.md)

@@ -363,3 +363,8 @@ and throw.
 ![A couple of girls playing tennis Description automatically generated with low confidence](media_correcting-common-stroke-errors/media/image17.webp)
 
 **Hold the racket like a feather, and throw!**
+
+---
+
+<!-- prevnext-nav -->
+[← Bounce at 10,000 FPS](the-bounce-at-10-000-frames-per-second.md)  |  [Biomechanics Index](index.md)  |  [Height in Pro Tennis →](height-in-pro-tennis.md)

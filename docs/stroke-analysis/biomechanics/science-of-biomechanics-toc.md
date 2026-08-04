@@ -211,3 +211,8 @@ Forehand](Comparing%20the%20Open%20and%20Closed%20stances.docx)
 
 [How to avoid Tennis Injuries and Rotator Cuff
 Tendinitis](How%20to%20avoid%20Tennis%20Injuries%20.docx)
+
+---
+
+<!-- prevnext-nav -->
+[← Internal Shoulder Rotation Key To Serving Power](internal-shoulder-rotation-key-to-serving-power.md)  |  [Biomechanics Index](index.md)  |  [The 3D Serve Upward Swing Part 2 →](the-3d-serve-upward-swing-part-2.md)

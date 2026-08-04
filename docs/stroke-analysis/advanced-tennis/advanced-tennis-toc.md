@@ -409,3 +409,8 @@ John Yandell
 In Memoriam: Cynthia Yandell
 
 In Memoriam: Cynthia Yandell
+
+---
+
+<!-- prevnext-nav -->
+[← Read](the-pro-return-of-serve-ohbh.md)  |  [Advanced Tennis Index](index.md)

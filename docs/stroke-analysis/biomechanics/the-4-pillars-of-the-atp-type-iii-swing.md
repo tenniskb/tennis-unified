@@ -185,3 +185,8 @@ Here!]**](https://tennisperformanceresearch.com/)
 Top contact him directly, [**[Click
 
 Here!]**](mailto:gamabrian@icloud.com)
+
+---
+
+<!-- prevnext-nav -->
+[← The 3D Serve Upward Swing Part 2](the-3d-serve-upward-swing-part-2.md)  |  [Biomechanics Index](index.md)  |  [The Atp Two Handed Backhand The 3 General Types →](the-atp-two-handed-backhand-the-3-general-types.md)

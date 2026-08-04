@@ -705,3 +705,8 @@ Here!]**](https://tennisperformanceresearch.com/)
 Top contact him directly, [**[Click
 
 Here!]**](mailto:gamabrian@icloud.com)
+
+---
+
+<!-- prevnext-nav -->
+[← Science Of Biomechanics Toc](science-of-biomechanics-toc.md)  |  [Biomechanics Index](index.md)  |  [The 4 Pillars Of The Atp Type Iii Swing →](the-4-pillars-of-the-atp-type-iii-swing.md)

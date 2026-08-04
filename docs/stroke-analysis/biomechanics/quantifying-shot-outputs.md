@@ -41,3 +41,8 @@ Here!]**](https://tennisperformanceresearch.com/)
 Top contact him directly, [**[Click
 
 Here!]**](mailto:gamabrian@icloud.com)
+
+---
+
+<!-- prevnext-nav -->
+[← Next ATP Forehand](the-next-atp-forehand.md)  |  [Biomechanics Index](index.md)  |  [Realities of Straight Arm FH →](realities-of-the-straight-arm-forehand.md)

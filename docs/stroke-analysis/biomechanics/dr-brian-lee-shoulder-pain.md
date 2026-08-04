@@ -518,3 +518,8 @@ contacted at [The Physio
 Movement](https://www.thephysiomovement.com.au/contact-us/)** **
 
 ** **
+
+---
+
+<!-- prevnext-nav -->
+[Biomechanics Index](index.md)  |  [Tennis Injuries Prevention →](how-to-avoid-tennis-injuries.md)
