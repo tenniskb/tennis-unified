@@ -7,7 +7,7 @@ description: Comprehensive collection of Famous Coaches articles and technical a
 
 ## Content Overview
 
-Total Articles: 63
+Total Articles: 65
 
 | Coach/Expert | Articles | Focus |
 |--------------|----------|-------|
@@ -58,6 +58,7 @@ Total Articles: 63
 - [Optimize Your Technique – Part 2](optimize-your-technique-part-2.md)
 - [Optimize Your Technique – Part 3](optimize-your-technique-part-3.md)
 - [Hardcourt Confidential Excerpt](hardcourt-confidential-excerpt.md)
+- [How I Developed Guga](how-i-developed-guga.md) — Larri Passos
 - [How you can play better doubles in tennis](how-you-can-play-better-doubles-in-tennis.md)
 - [Point of Contact](point-of-contact.md)
 - [Return Plan](return-plan.md)
@@ -88,6 +89,7 @@ Total Articles: 63
 - [Tips don't work](tips-don-t-work.md)
 - [What is the modern forhand](what-is-the-modern-forhand.md)
 - [What's Tennis Con](what-s-tennis-con.md)
+- [Working in with pro players](working-in-with-pro-players.md) — Carlos Rodriguez
 - [Famous Coaches TOC](famous-coaches-toc.md)
 
 ### Developing World Class Volleys

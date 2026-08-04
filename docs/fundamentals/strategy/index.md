@@ -5,7 +5,7 @@ description: Comprehensive collection of Strategy articles and technical analyse
 
 # Strategy
 
-Total Articles: 90
+Total Articles: 107
 
 ---
 
@@ -31,6 +31,22 @@ Total Articles: 90
 - [Live Match Play](live-match-play.md)
 - [Marginal Gains - Top Shots and Set Up Shots](marginal-gains-top-shots-and-set-up-shots.md)
 - [Momentum](momentum.md)
+- [Opening the Court - Part 1](opening-the-court-part-1.md)
+- [Opening the Court - Part 2](opening-the-court-part-2.md)
+- [Opening the Court - Part 3](opening-the-court-part-3.md)
+- [Opening the Court - Part 4](opening-the-court-part-4.md)
+- [Opening the Court - Part 5](opening-the-court-part-5.md)
+- [Opening the Court - Part 6](opening-the-court-part-6.md)
+- [Opening the Court - Part 7](opening-the-court-part-7.md)
+- [Opening the Court - Part 8](opening-the-court-part-8.md)
+- [Opening the Court - Part 9](opening-the-court-part-9.md)
+- [Opening the Court - Part 10](opening-the-court-part10.md)
+- [Opening the Court - Part 11](opening-the-court-part11.md)
+- [Opening the Court - Part 12](opening-the-court-part12.md)
+- [Opening the Court - Part 13](opening-the-court-part13.md)
+- [Opening the Court - Part 14](opening-the-court-part14.md)
+- [Opening the Court - Part 15](opening-the-court-part15.md)
+- [Opening the Court - Summary](opening-the-court-summary.md)
 - [Playing Styles Revisited](playing-styles-revisited.md)
 - [Playing Winning Doubles - Service Games](playing-winning-doubles-service-games.md)
 - [Playing Winning Doubles - The Return Game](playing-winning-doubles-the-return-game.md)
@@ -42,6 +58,7 @@ Total Articles: 90
 - [Pro Patterns - Serve and Return Diagonals](pro-patterns-serve-and-return-diagonals.md)
 - [Pro Patterns - The Inside Out Diagonal](pro-patterns-the-inside-out-diagonal.md)
 - [Pro Statistics and League Statistics](pro-statistics-and-league-statistics.md)
+- [Responding to Lobs](responding-to-lobs.md)
 - [Return of Serve Points](return-of-serve-points.md)
 - [Return of Serve in the System](return-of-serve-in-the-system.md)
 - [Risk Management](risk-management.md)
