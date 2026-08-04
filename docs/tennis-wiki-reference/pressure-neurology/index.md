@@ -1,16 +1,23 @@
 ---
-title: Pressure & Neurology Reference
-description: Bilingual reference for mental performance, arousal regulation, and choking prevention.
+title: Performance Under Pressure — Neurology — Technical Reference
+description: What actually happens in your brain and nervous system when competitive pressure rises — the mechanism behind choking, the amygdala's role, and the specific, trainable interventions that keep your trained strokes accessible under stress.
 ---
 
-# Pressure & Neurology Reference
+# Performance Under Pressure — Neurology — Technical Reference
 
-Bilingual reference for mental performance, arousal regulation, and choking prevention.
+What actually happens in your brain and nervous system when competitive pressure rises — the mechanism behind choking, the amygdala's role, and the specific, trainable interventions that keep your trained strokes accessible under stress.
 
----
+## Articles (10)
 
-## Content Overview
+- [Amygdala Hijack — Technical Reference](amygdala-hijack.md)
+- [Arousal Channelling — Technical Reference](arousal-channelling.md)
+- [Biological Threat Response — Technical Reference](biological-threat-response.md)
+- [Choking — Technical Reference](choking.md)
+- [Mu-Beta Suppression — Technical Reference](mu-beta-suppression.md)
+- [Neural Pressure — Technical Reference](neural-pressure.md)
+- [Petit Bras — Technical Reference](petit-bras.md)
+- [Sympathetic Activation and Petit Bras — Technical Reference](sympathetic-activation-and-petit-bras.md)
+- [The 15-Second Reset Protocol — Technical Reference](15-second-reset-protocol.md)
+- [The Choking Mechanism — Technical Reference](choking-mechanism.md)
 
-*This section provides comprehensive technical and tactical documentation.*
-
-[Return to Home](../../index.md)
+[← Back to Tennis Wiki Reference](../index.md)
