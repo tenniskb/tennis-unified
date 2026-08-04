@@ -4,18 +4,14 @@
 
 ### By Allen Fox, Ph.D.
 
-------------------------------------------------------------------------
-
-![A picture containing text, person, outdoor, standing Description
-automatically
-generated](media_thoughts-on-cliff-richey-s-acing-depression/media/image1.jpg)
+![A picture containing text, person, outdoor, standing Description automatically generated](media_thoughts-on-cliff-richey-s-acing-depression/media/image1.jpg)
 
 **Cliff Richey: a champion with secrets fellow players never
 suspected.**
 
 I thought Andre Agassi's book was unusually honest and insightful, but
-it pales in comparison to Cliff Richey's new book, \"Acing
-Depression.\"
+it pales in comparison to Cliff Richey's new book, "Acing
+Depression."
 
 Cliff was a near-great player in the 1970's, achieving the #1 ranking
 in the United States, reaching the late rounds but not winning most of
@@ -42,13 +38,8 @@ feelings he had as he competed as a world-class tennis player while
 slipping inexorably into a nightmare of anxiety, self-absorption,
 self-loathing, and despair.
 
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                    ![A group of people holding tennis rackets Description automatically generated with medium
-   confidence](media_thoughts-on-cliff-richey-s-acing-depression/media/image2.jpg)
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                 **Cliff with his father, the teaching pro and college coach George Richey, his sister and mom.**
-
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A group of people holding tennis rackets Description automatically generated with medium confidence](media_thoughts-on-cliff-richey-s-acing-depression/media/image2.jpg)
+**Cliff with his father, the teaching pro and college coach George Richey, his sister and mom.**
 
 He details the appalling effects his illness had on his family and on
 the other people around him. It provides a stark example of the chasm
@@ -69,13 +60,8 @@ as it was in the pre-open era) while Cliff, seven years younger, was on
 the upswing of his. In 1966 we even traveled together to South America
 on the Davis Cup team and to Australia for tournaments.
 
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                                  ![A person holding a tennis racket Description automatically
-   generated](media_thoughts-on-cliff-richey-s-acing-depression/media/image3.jpg)
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                                       **Cliff just after winning his first tournament.**
-
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person holding a tennis racket Description automatically generated](media_thoughts-on-cliff-richey-s-acing-depression/media/image3.jpg)
+**Cliff just after winning his first tournament.**
 
 Yet, until reading the book, I had no idea that Cliff had these tortured
 mental issues or that he viewed his fellow competitors more as potential
@@ -100,13 +86,8 @@ and wouldn't speak to me. That was a hint of what was going on. But I
 just thought it was funny (ha, ha funny) and put it down to Cliff being
 a bit of an over-the-top competitor.
 
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                               ![Two people smiling Description automatically generated with medium
-   confidence](media_thoughts-on-cliff-richey-s-acing-depression/media/image4.jpg)
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                   **Cliff and Nancy were close\--and the only brother and sister to both make #1 in the U.S.**
-
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![Two people smiling Description automatically generated with medium confidence](media_thoughts-on-cliff-richey-s-acing-depression/media/image4.jpg)
+**Cliff and Nancy were close--and the only brother and sister to both make #1 in the U.S.**
 
 Cliff was extraordinarily smart, driven, and funny. Although Cliff had
 never even graduated from high school, I liked him a lot because he was
@@ -118,22 +99,17 @@ many, and Cliff was definitely one.
 
 The major objective was to have fun, and we didn't take the
 idiosyncrasies too seriously. We used them for the laughs, and we all
-played into them somewhat. Everyone had nicknames. Cliff was \"the
-Bull\" because of his single-minded, tenacious, ferocious
-competitiveness. I was \"Commander Of the Space Patrol,\" so named by
+played into them somewhat. Everyone had nicknames. Cliff was "the
+Bull" because of his single-minded, tenacious, ferocious
+competitiveness. I was "Commander Of the Space Patrol," so named by
 the Aussies because of my alleged scientific take on everything.
 
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                        ![A picture containing text, person, standing, posing Description automatically
-   generated](media_thoughts-on-cliff-richey-s-acing-depression/media/image5.jpg)
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                  **Cliff with his wife Mickey who stayed with him for 40 years before their recent divorce.**
-
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A picture containing text, person, standing, posing Description automatically generated](media_thoughts-on-cliff-richey-s-acing-depression/media/image5.jpg)
+**Cliff with his wife Mickey who stayed with him for 40 years before their recent divorce.**
 
 In fact no one was ever called by their given names. Tony Roche was
-\"Rochie,\" Pancho Gonzales was \"Gorgo,\" Rod Laver was \"Rocket,\"
-Chuck McKinley was \"Stump,\" etc. So I thought \"the Bull\" was just
+"Rochie," Pancho Gonzales was "Gorgo," Rod Laver was "Rocket,"
+Chuck McKinley was "Stump," etc. So I thought "the Bull" was just
 playing into his tour persona when he walked across the street before
 our match at Forest Hills. It wasn't until I read his book that I
 realized that I actually was the enemy. I thought he was kidding!
@@ -144,13 +120,8 @@ this because as a general rule in making meaningful analogies it's
 necessary to have a broad perspective in order to identify common
 characteristics.)
 
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                                  ![A person holding a tennis racket Description automatically
-   generated](media_thoughts-on-cliff-richey-s-acing-depression/media/image6.jpg)
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                            **The book is a great tennis read but also informative about treatment.**
-
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person holding a tennis racket Description automatically generated](media_thoughts-on-cliff-richey-s-acing-depression/media/image6.jpg)
+**The book is a great tennis read but also informative about treatment.**
 
 Cliff continually compares his strategies in fighting depression to his
 strategies in winning tennis matches. He is very analytic. He describes
@@ -176,61 +147,92 @@ Read More From Allen!
 
 Visit him at [www.allenfoxtennis.net](http://www.allenfoxtennis.net)
 
- 
+![A picture containing text, newspaper Description automatically generated](media_thoughts-on-cliff-richey-s-acing-depression/media/image7.jpeg)
 
-| ![A picture containing text, newspaper Description automatically | Winning the Mental Match Dr. Allen Fox |
-| --- | --- |
-| generated](media_thoughts-on-cliff-richey-s-acing-depression/media/image7.jpeg) | Tennis is mentally the most difficult sport due to it's personal nature which makes winning and losing feel more |
-|  | important than they are. In this new book, Allen offers his proven solutions to problems such as choking, reducing |
-|  | stress, finishing matches, and developing confidence. Based on a life time of high level play and coaching success, |
-|  | it's a must for all competitive players. |
-|  |  |
-|  | [ to |
-|  | Order](http://www.amazon.com/Tennis-Winning-Mental-Allen-Fox/dp/0615407765/ref=sr_1_1?ie=UTF8&qid=1336083459&sr=8-1). |
+Winning the Mental Match Dr. Allen Fox
 
+Tennis is mentally the most difficult sport due to it's personal nature which makes winning and losing feel more
 
-| ![Text Description automatically | Winning may not be everything, but Dr. Allen Fox points out |
-| --- | --- |
-| generated](media_thoughts-on-cliff-richey-s-acing-depression/media/image8.jpeg) | eminently preferable to losing. In his new book, The |
-|  | Winner's Mind, Allen lays out an original step-by-step |
-|  | plan for succeeding at any of life's endeavors, based on |
-|  | his first hand and very personal observations of the |
-|  | careers of both world-class tennis players and successful |
-|  | businessman. The bottom line is that even if you are not a |
-|  | born champion\--and only a tiny percentage of us are\--you |
-|  | can still use the success strategies of champions to tilt |
-|  | the odds in your favor. Writing with brutal honesty and dry |
-|  | humor, Fox lays out the common mental characteristics of |
-|  | winners in sports and in life. He explains the critical |
-|  | role of intellect over emotion. He analyzes the struggle |
-|  | between ambition and fear and the insidious and pervasive |
-|  | fear of failure that undermines so many of us. He then |
-|  | outline how to confront and overcome these fears in your |
-|  | life and career, even when they are initially subconscious. |
-|  | Must reading from one of the great thinkers in tennis, and |
-|  | a Renaissance Man in life. [ to |
-|  | Order](http://www.tennis-warehouse.com/descpage-MIND.html). |
-|  |  |
-|  | To purchase this book you can also send a check for \$17.95 |
-|  | to Allen Fox, 1120 Inverness Place, San Luis Obispo, CA. |
-|  | 93401. The price includes shipping. |
+important than they are. In this new book, Allen offers his proven solutions to problems such as choking, reducing
 
+stress, finishing matches, and developing confidence. Based on a life time of high level play and coaching success,
 
-| ![A person holding a tennis racket Description automatically | Allen Fox PhD is a former world class player, a coach, |
-| --- | --- |
-| generated](media_thoughts-on-cliff-richey-s-acing-depression/media/image9.gif) | insightful analysts in modern tennis. A top 10 |
-|  | American player from the glory days before Open |
-|  | tennis, Fox played many of the legendary greats, among |
-|  | them Roy Emerson, Rod Laver, Stan Smith, and Arthur |
-|  | Ashe. At Pepperdine he developed the men's tennis |
-|  | program into an elite contender for national titles, |
-|  | and gave Brad Gilbert the insights that became the |
-|  | foundation for \"Winning Ugly\". His book Think to Win |
-|  | is a modern classic. He has also starred in a series |
-|  | of acclaimed videos, including Pro Secrets of Match |
-|  | Play and Allen Fox's Ultimate Tennis Lesson. |
-|  |  |
-|  |  |
+it's a must for all competitive players.
 
+[ to
 
-------------------------------------------------------------------------
+Order](http://www.amazon.com/Tennis-Winning-Mental-Allen-Fox/dp/0615407765/ref=sr_1_1?ie=UTF8&qid=1336083459&sr=8-1).
+
+![Text Description automatically generated](media_thoughts-on-cliff-richey-s-acing-depression/media/image8.jpeg)
+
+Winning may not be everything, but Dr. Allen Fox points out
+
+eminently preferable to losing. In his new book, The
+
+Winner's Mind, Allen lays out an original step-by-step
+
+plan for succeeding at any of life's endeavors, based on
+
+his first hand and very personal observations of the
+
+careers of both world-class tennis players and successful
+
+businessman. The bottom line is that even if you are not a
+
+born champion--and only a tiny percentage of us are--you
+
+can still use the success strategies of champions to tilt
+
+the odds in your favor. Writing with brutal honesty and dry
+
+humor, Fox lays out the common mental characteristics of
+
+winners in sports and in life. He explains the critical
+
+role of intellect over emotion. He analyzes the struggle
+
+between ambition and fear and the insidious and pervasive
+
+fear of failure that undermines so many of us. He then
+
+outline how to confront and overcome these fears in your
+
+life and career, even when they are initially subconscious.
+
+Must reading from one of the great thinkers in tennis, and
+
+a Renaissance Man in life. [ to
+
+Order](http://www.tennis-warehouse.com/descpage-MIND.html).
+
+To purchase this book you can also send a check for $17.95
+
+to Allen Fox, 1120 Inverness Place, San Luis Obispo, CA.
+
+93401. The price includes shipping.
+
+![A person holding a tennis racket Description automatically generated](media_thoughts-on-cliff-richey-s-acing-depression/media/image9.gif)
+
+Allen Fox PhD is a former world class player, a coach,
+
+insightful analysts in modern tennis. A top 10
+
+American player from the glory days before Open
+
+tennis, Fox played many of the legendary greats, among
+
+them Roy Emerson, Rod Laver, Stan Smith, and Arthur
+
+Ashe. At Pepperdine he developed the men's tennis
+
+program into an elite contender for national titles,
+
+and gave Brad Gilbert the insights that became the
+
+foundation for "Winning Ugly". His book Think to Win
+
+is a modern classic. He has also starred in a series
+
+of acclaimed videos, including Pro Secrets of Match
+
+Play and Allen Fox's Ultimate Tennis Lesson.

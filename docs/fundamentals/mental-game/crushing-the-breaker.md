@@ -4,10 +4,7 @@
 
 ### John Sherwood
 
-------------------------------------------------------------------------
-
-![A picture containing text Description automatically
-generated](media_crushing-the-breaker/media/image1.jpg)
+![A picture containing text Description automatically generated](media_crushing-the-breaker/media/image1.jpg)
 
 **What does it really take to win tiebreakers?**
 
@@ -33,10 +30,10 @@ You need to believe that you are better prepared to play the breaker
 than your opponent. You must approach each breaker believing that you
 know how to win it and expecting to do so.
 
-**[[You play breakers to win instead of playing not to lose.
+**[You play breakers to win instead of playing not to lose.
 There] [is a big difference in those two mindsets. So, learn to
 visualize the win. Anything less than this mental approach gives your
-opponent the advantage.]]**
+opponent the advantage.]**
 
 **Strategy**
 
@@ -44,9 +41,7 @@ opponent the advantage.]]**
 aggressively but not foolishly. You will need to take calculated
 risks.**
 
-![A picture containing text, tennis, ball, player Description
-automatically
-generated](media_crushing-the-breaker/media/image2.webp)
+![A picture containing text, tennis, ball, player Description automatically generated](media_crushing-the-breaker/media/image2.webp)
 
 **The way to avoid double faults is to really hit the second serve.**
 
@@ -86,7 +81,7 @@ Your return strategy on first serves is simple. Every return of serve
 goes back into the court! In general, I tell players the goal is to
 enter the return point in a neutral or better position.
 
-But during the breaker it doesn't matter how ugly the return is\--get
+But during the breaker it doesn't matter how ugly the return is--get
 the ball back in play! Make your opponent play his or her service
 points.
 
@@ -112,14 +107,12 @@ magnified in a tiebreaker. While it's obviously not preferable, in the
 course of a set you can lose several points in a row leading to the loss
 of a game and still win the set.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_crushing-the-breaker/media/image3.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_crushing-the-breaker/media/image3.webp)
 
 **On the second serve return you can move in and create pressure.**
 
 In a tiebreaker losing several consecutive points is usually disastrous.
-No wonder tiebreakers were originally referred to as \"sudden death.\"
+No wonder tiebreakers were originally referred to as "sudden death."
 Every point is critical.
 
 But also understand another critical difference in the scoring: a
@@ -143,9 +136,7 @@ It is not a winning margin. It's still a long way to winning seven
 points. So, maintaining your momentum when you have a lead is critical.
 This is where inexperienced competitors often have fatal letdowns.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_crushing-the-breaker/media/image4.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_crushing-the-breaker/media/image4.webp)
 
 **Following your rituals is even more critical in tiebreakers.**
 
@@ -179,10 +170,9 @@ hundreds.
 Play both types of breakers, the 7 pointers and the 10 pointers. Now
 play matches comprised of two out of three tie breakers.
 
-![A person holding a tennis racket Description automatically
-generated](media_crushing-the-breaker/media/image5.jpg)
+![A person holding a tennis racket Description automatically generated](media_crushing-the-breaker/media/image5.jpg)
 
-**It comes down to who wants to win\--and who knows how.**
+**It comes down to who wants to win--and who knows how.**
 
 Play them in modified formats. Start the breaker from 3 all or 4 all.
 Start up 3-0 and then down 3-0. Play them from leading 6-4 or trailing
@@ -206,16 +196,11 @@ every point? Who stays positive and believes no matter what the score?
 Who knows how to play to win and does it? Those players will have
 exceptional tiebreak records.
 
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![A person smiling for the camera Description automatically generated with medium                                                                                        John Sherwood is Director of High Performance
-  confidence](media_crushing-the-breaker/media/image6.jpeg)                                                                                                                                            Chatham, N.J. John played varsity Division 1
-                                                                                                                                                                           tennis at the University of Toledo and has guided
-                                                                                                                                                                           hundreds of junior players into college and the
-                                                                                                                                                                           pro ranks, including traveling extensively on the
-                                                                                                                                                                           ITF junior and WTA professional circuits. He is a
-                                                                                                                                                                           USPTA Elite Professional and a graduate of the
-                                                                                                                                                                           USTA High Performance Coaching Program. You can
-                                                                                                                                                                           contact John directly at <J1Sherwood@aol.com>
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ -------------------------------------------------
-
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person smiling for the camera Description automatically generated with medium                                                                                        John Sherwood is Director of High Performance confidence](media_crushing-the-breaker/media/image6.jpeg)                                                                                                                                            Chatham, N.J. John played varsity Division 1
+tennis at the University of Toledo and has guided
+hundreds of junior players into college and the
+pro ranks, including traveling extensively on the
+ITF junior and WTA professional circuits. He is a
+USPTA Elite Professional and a graduate of the
+USTA High Performance Coaching Program. You can
+contact John directly at <J1Sherwood@aol.com>

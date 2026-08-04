@@ -10,13 +10,8 @@ don't talk about it on television or in the magazines. But if you watch
 pro tennis after you read this article, you'll see how widespread and
 how important the reverse forehand has become.
 
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                        ![A picture containing text, outdoor, scoreboard, player Description automatically
-   generated](media_the-reverse-forehand/media/image1.webp)
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                     **\"Hey Robert, the ball just skidded off the line.\"**
-
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A picture containing text, outdoor, scoreboard, player Description automatically generated](media_the-reverse-forehand/media/image1.webp)
+**"Hey Robert, the ball just skidded off the line."**
 
 Hitting the reverse forehand has added options for the top players in
 certain situations that literally didn't exist before the shot came
@@ -44,17 +39,12 @@ top players, female and male, use it on a regular basis.
 
 ### Sampras Reverse Forehand
 
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                  ![A person playing tennis Description automatically generated with medium                                                                                                  ![A person playing tennis Description automatically generated with medium
-   confidence](media_the-reverse-forehand/media/image2.jpg)
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                      Racket Position: The racket head drops below the level of the ball to increase the level of spin.                                                         Contact Point: Contact is later then a conventional forehand. The racket head moves through the hitting zone for a shorter distance.
+![A person playing tennis Description automatically generated with medium                                                                                                  ![A person playing tennis Description automatically generated with medium confidence](media_the-reverse-forehand/media/image2.jpg)
+Racket Position: The racket head drops below the level of the ball to increase the level of spin.                                                         Contact Point: Contact is later then a conventional forehand. The racket head moves through the hitting zone for a shorter distance.
 
-                                                  ![A person playing tennis Description automatically generated with medium                                                                                                  ![A person playing tennis Description automatically generated with medium
-          confidence](media_the-reverse-forehand/media/image4.jpg)
+![A person playing tennis Description automatically generated with medium                                                                                                  ![A person playing tennis Description automatically generated with medium confidence](media_the-reverse-forehand/media/image4.jpg)
 
-                                     Upward Follow-through: The racket head moves sharply upward after it moves through the hitting zone.                                                              Reverse Follow-through: The racket head reverses direction and moves backward, in the reverse direction from the hit. 
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Upward Follow-through: The racket head moves sharply upward after it moves through the hitting zone.                                                              Reverse Follow-through: The racket head reverses direction and moves backward, in the reverse direction from the hit. 
 
 ### The Reverse Forehand Advantage
 
@@ -81,7 +71,7 @@ something different on the fast balls. I thought it was a mistake at the
 time. I have a tape of me telling him to move his feet and get into
 position. I thought if he got into better position he could have hit
 through the ball in the conventional way. On the tape you can hear Pete
-counter, \"Hey Robert, the ball just skidded off the line!\"
+counter, "Hey Robert, the ball just skidded off the line!"
 
 So, I started trying to understand the shot. I went out and learned to
 hit it myself. I realized how it could increase your options so
@@ -96,28 +86,23 @@ almost a must.
 
 ### Davenport Reverse Forehand
 
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                  ![A person playing tennis Description automatically generated with medium                                                                                                  ![A person playing tennis Description automatically generated with medium
-   confidence](media_the-reverse-forehand/media/image6.jpg)
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                    The racquet is moving sharply upward from below the level of the ball.                                                                                 Lindsey takes the ball later. The racquet head continues upward and briefly forward through the hitting zone.
+![A person playing tennis Description automatically generated with medium                                                                                                  ![A person playing tennis Description automatically generated with medium confidence](media_the-reverse-forehand/media/image6.jpg)
+The racquet is moving sharply upward from below the level of the ball.                                                                                 Lindsey takes the ball later. The racquet head continues upward and briefly forward through the hitting zone.
 
-                                                  ![A person playing tennis Description automatically generated with medium                                                                                               ![A person holding a tennis racket Description automatically generated with low
-   confidence](media_the-reverse-forehand/media/image8.jpg)
+![A person playing tennis Description automatically generated with medium                                                                                               ![A person holding a tennis racket Description automatically generated with low confidence](media_the-reverse-forehand/media/image8.jpg)
 
-                                                            The racquet head continues its rapid upward movement.                                                                                                    The racquet head reverses direction, moving backward in the opposite direction of the hit.
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The racquet head continues its rapid upward movement.                                                                                                    The racquet head reverses direction, moving backward in the opposite direction of the hit.
 
 ### The Mechanics
 
 **To hit the reverse forehand, drop the racket down a little lower
 than you would on a regular drive. This** **creates
 more topspin.** **It's usually hit with an open stance, although you
-can hit on the run with a cross step as well.** **[[The contact is a
+can hit on the run with a cross step as well.** **[The contact is a
 little later compared to a normal forehand drive.] [When you make
 contact with the ball, you go through the hitting zone for a shorter
 period than with the conventional forehand, then you bring your racket
-head up]]**, **then you actually let the racket
+head up]**, **then you actually let the racket
 head go back.** The more spin you want the faster
 you bring the racket head up. For more of a drive, you come through the
 ball a little more for more pace. Pete hits more of a drive reverse
@@ -135,12 +120,7 @@ the ball in the conventional way, and then you add the reverse without
 contradicting that foundation. It's a natural evolution from the basic
 bio-mechanics I teach to all my students.
 
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![A person hitting a ball with a tennis racket Description automatically
-  generated](media_the-reverse-forehand/media/image10.gif)
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person hitting a ball with a tennis racket Description automatically generated](media_the-reverse-forehand/media/image10.gif)
 
 Robert Lansdorp is the legendary Southern California coach who has
 developed dozens of world class junior and professional players.

@@ -2,12 +2,10 @@
 
 **David Bailey**
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_contact-moves-the-mogul-move/media/image1.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_contact-moves-the-mogul-move/media/image1.webp)
 
 **The Mogul Move: a drop step, cross-steps, skimming into a mogul
-step\--and a cross over recovery.**
+step--and a cross over recovery.**
 
 In the last article we began analyzing the patterns of defensive
 footwork. These are Contact Moves used by the top players to neutralize
@@ -41,12 +39,11 @@ over the ground. The center of gravity stays between the feet, and the
 hips move sideways in a straight line in the direction of the
 movement.**
 
-![A person playing tennis Description automatically
-generated](media_contact-moves-the-mogul-move/media/image2.webp)
+![A person playing tennis Description automatically generated](media_contact-moves-the-mogul-move/media/image2.webp)
 
-**[[When players use the Power Move, they end up going far beyond the
+**[When players use the Power Move, they end up going far beyond the
 ball. But] [with the Mogul Move, this movement is more
-controlled.]]** **The Mogul Move allows players to
+controlled.]** **The Mogul Move allows players to
 control their bodies and go only one step beyond the
 ball.**
 
@@ -56,9 +53,7 @@ efficiently as possible.** This is what makes the
 Mogul Move so effective. It allows players to stay in the point and/or
 hitting a counterattacking shot.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_contact-moves-the-mogul-move/media/image3.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_contact-moves-the-mogul-move/media/image3.webp)
 
 **The drop step, the crossover, and the set up in the extreme open
 stance.**
@@ -77,12 +72,11 @@ angle.**
 
 **The player then makes contact while the weight is still shifting to
 the outside.** **After the hit, the player takes
-one recovery step\--the Mogul Step\--beyond the ball. The player should
+one recovery step--the Mogul Step--beyond the ball. The player should
 stay low as he goes beyond the ball, keeping positive angles with the
 legs through the bend in the knees.**
 
-![A person playing tennis Description automatically
-generated](media_contact-moves-the-mogul-move/media/image4.webp)
+![A person playing tennis Description automatically generated](media_contact-moves-the-mogul-move/media/image4.webp)
 
 **The Mogul step after the hit, the drop step with the inside foot, and
 the cross over recover.**
@@ -101,8 +95,7 @@ player sets up in an open stance, skims through the air, takes a mogul
 step during the landing, then recovers with a combination of cross steps
 and/or shuffle steps.
 
-![A person playing tennis Description automatically
-generated](media_contact-moves-the-mogul-move/media/image5.webp)
+![A person playing tennis Description automatically generated](media_contact-moves-the-mogul-move/media/image5.webp)
 
 **The Mogul Move on the forward and backward diagonals.**
 
@@ -117,7 +110,9 @@ in the pantheon of high level pro movement patterns.
 
 Next: The Reverse Spin Contact Move! Stay Tuned.
 
-![link](media_contact-moves-the-mogul-move/media/image6.jpeg)
+![Video demonstration](media_contact-moves-the-mogul-move/media/image6.jpeg)
+
+*Video demonstration — the original video for this article was hosted on TennisPlayer.net.*
 
 David Bailey is a native Australian who has spent 15 years studying
 tennis at the professional level. He has developed a new language for

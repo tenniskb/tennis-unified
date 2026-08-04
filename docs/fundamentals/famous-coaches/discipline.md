@@ -8,19 +8,17 @@ Discipline. That almost sounds like an old-fashioned word today, like
 something negative. Nowadays, everybody has to be politically correct,
 and so there is less and less discipline, and sometimes none at all.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_discipline/media/image1.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_discipline/media/image1.webp)
 
 **Discipline was the key to developing Pete's forehand-and the strokes
 of every player I've worked with.**
 
 Parents, especially today, are so into the concept of positive
-reinforcement, \"Let's always be positive!\" And I think that's good.
+reinforcement, "Let's always be positive!" And I think that's good.
 That should be the role of the parent.
 
 But what they don't see is that the kid never accomplishes anything.
-**The kid may be very \"positive\" but he's never going to be a
+**The kid may be very "positive" but he's never going to be a
 tennis player if he isn't disciplined and taught to go from Step 1 to
 Step 2.**
 
@@ -65,7 +63,6 @@ of detail about the strokes. I've talked about the contact point, the
 balance of the body, the posture, the feet, hitting the ball on the
 rise, the follow-through.
 
-![link](media_discipline/media/image2.png)
 
 **Click to hear Robert Lansdorp on the problem of developing
 discipline.**
@@ -75,20 +72,20 @@ thing to get players to do it consistently. Just asking the kid to do it
 is almost never enough. That's where the discipline comes in. You have
 to demand it.
 
-I'll say to the kid, \"Listen, you are going to hit 20 forehands and
+I'll say to the kid, "Listen, you are going to hit 20 forehands and
 they are all going to be exactly right. I know you can do it, and I'm
-not kidding around with you.\"
+not kidding around with you."
 
-\"If you miss one ball, I'm going to give you 20 more balls at the
-baseline.\" What I mean by \"20 at the baseline\" is that is I'm going
+"If you miss one ball, I'm going to give you 20 more balls at the
+baseline." What I mean by "20 at the baseline" is that is I'm going
 to give the kid 20 running balls, and they are going to be a lot tougher
 than the ones he's hitting now.
 
-\"You think, you're tired now? After you take 20 at the baseline, you
-might be puking.\"
+"You think, you're tired now? After you take 20 at the baseline, you
+might be puking."
 
-And I know what the kid is thinking to himself: \"Wow, I don't want
-that!\"
+And I know what the kid is thinking to himself: "Wow, I don't want
+that!"
 
 Now the kid is scared not to concentrate. As soon as the threat is
 there, suddenly the kid will do 20 perfect forehands.
@@ -101,7 +98,7 @@ the motion the way he's supposed to.
 But then I expand it. Now I want him to do 30, and then 40. Little by
 little I actually force the concentration on him.
 
-\"I want the same follow through,\" I tell him. And I start to move him
+"I want the same follow through," I tell him. And I start to move him
 a little bit more. And over time you get the balance, you get the
 footwork. Why do you think Pete Sampras hits his forehand so well on the
 run? Because he hit thousands and thousands of them as a kid.
@@ -111,16 +108,14 @@ technique, it's the discipline, it's the work ethic. It's that whole
 combination that creates a tennis player, and maybe if you're really
 lucky, a champion.
 
-![A couple of girls playing tennis Description automatically generated
-with medium
-confidence](media_discipline/media/image3.webp)
+![A couple of girls playing tennis Description automatically generated with medium confidence](media_discipline/media/image3.webp)
 
 **Basically there is only one zone to hit; hard, crosscourt, and deep.**
 
 **Zoning**
 
 One part of the discipline of becoming a player that is really
-overlooked is what I call \"zoning.\" Nobody knows what it is, nobody
+overlooked is what I call "zoning." Nobody knows what it is, nobody
 ever talks about it. But it's a critical part of learning how to hit
 the ball well, how to hit through the ball and how to penetrate the
 court.
@@ -155,13 +150,12 @@ huge relation! **And the great guys can hit it hard and low. The
 not-so-great guys can't and that's why they hit the ball in the net,
 or high with topspin.**
 
-Often the first thing you hear somebody say to a kid, is, \"Give
+Often the first thing you hear somebody say to a kid, is, "Give
 yourself a little bit more margin over the net. Go higher over the
-net.\" This is fine for recreational players. But it won't work if you
+net." This is fine for recreational players. But it won't work if you
 want to develop a lot of power.
 
-![A person holding a tennis racket Description automatically
-generated](media_discipline/media/image4.webp)
+![A person holding a tennis racket Description automatically generated](media_discipline/media/image4.webp)
 
 **Go high over the net and you can forget hitting hard.**
 
@@ -171,8 +165,8 @@ top guys, when they hit the ball, the ball goes low over the net and
 they don't miss.**
 
 I had a young woman player come to me. She thought she was good enough
-to play on the tour, but she said she had one problem. \"You know
-Robert, I don't seem to be able to put the ball away.\"
+to play on the tour, but she said she had one problem. "You know
+Robert, I don't seem to be able to put the ball away."
 
 So we hit some balls, and I asked her to hit a couple of cross-courts.
 The girl was hitting the ball six feet over the net, at least, maybe
@@ -182,17 +176,15 @@ Then I said, why don't you go down the line? She starts hitting the
 ball a foot higher over the net! Now she's going eight feet over the
 net down the line.
 
-So I ask her \"Why are you going that much higher over the net down the
-line?\" And she answers, \"Well isn't the net higher down the line?\"
+So I ask her "Why are you going that much higher over the net down the
+line?" And she answers, "Well isn't the net higher down the line?"
 
 And I stood there, and I thought to myself, I cannot believe what I am
 hearing. I just cannot believe this girl thinks she's going to play the
 tour when this is what her concept is. Of course, you can never put a
 ball away when you go seven or eight feet over the net.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_discipline/media/image5.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_discipline/media/image5.webp)
 
 **Going down the line, the ball still has to travel low over the net to
 be a winner.**
@@ -208,11 +200,11 @@ for the zones.
 Almost every player has experienced the power of targets. For example,
 you're playing someone that doesn't seem to hit the ball that well,
 but then you go up to the net and he rips it by you. And you think,
-\"where did that come from?\"
+"where did that come from?"
 
 **The answer is you gave him a target. That's what I'm doing in
-reverse. I put the target down, and say, \"Okay, let's aim at the
-target.\" \"Let's actually develop the zone.\"**
+reverse. I put the target down, and say, "Okay, let's aim at the
+target." "Let's actually develop the zone."**
 
 Most kids can hit it one, two, maybe three targets out of ten. **But
 if you can't hit the target, then you can't hit your ball in the zone,
@@ -220,11 +212,10 @@ it's as simple as that.**
 
 Some of the kids love it. I have a funny story, about Justin Gimelstob
 when he was in the juniors. Just before he went to Kalamazoo and won the
-national 18s, he had a lesson. At the end of the lesson, I said, \"Okay,
-let's hit some targets.\"
+national 18s, he had a lesson. At the end of the lesson, I said, "Okay,
+let's hit some targets."
 
-![A person holding a tennis racket Description automatically
-generated](media_discipline/media/image6.jpg)
+![A person holding a tennis racket Description automatically generated](media_discipline/media/image6.jpg)
 
 **Justin Gimelstob set a record for backhand targets, then won the
 junior nationals.**
@@ -233,7 +224,7 @@ So, on his one-handed backhand, the guy hits the can eight out of 10
 times. It was just phenomenal. His aim was so good that he'd just swing
 and know exactly where the zone was.
 
-So I told him \"If you cannot win Kalamazoo now, forget it.\" And he
+So I told him "If you cannot win Kalamazoo now, forget it." And he
 went and won Kalamazoo.
 
 Some people find the targets create a little pressure and they might not
@@ -251,7 +242,7 @@ have a lot of discipline to develop the strokes and to develop the
 zones.
 
 **If a kid has a concentration problem, it's not going to help just
-to \"ask\" the kid to do it right. If you just let it go and act like
+to "ask" the kid to do it right. If you just let it go and act like
 everything is fine, the kid is never going to
 concentrate.**
 
@@ -270,9 +261,7 @@ It makes the student stale. The kid doesn't think any more. He doesn't
 think any more about what he has to do, because the coach is doing it
 for him.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_discipline/media/image7.jpg)
+![A person playing tennis Description automatically generated with medium confidence](media_discipline/media/image7.jpg)
 
 **It took Russian phenom Maria Sharapova a period of years to develop
 her hitting zones.**
@@ -290,8 +279,8 @@ ridiculous to see the coach every day.
 I am very tough on kids, but I also believe that ultimately the kid has
 to do it for himself. I'm there to give them the way to hit the ball. I
 want the kid to show me he can do it 10 times in a row. Then I tell
-them, \"Look when you come back next time, the first ball better look
-the same way.\"
+them, "Look when you come back next time, the first ball better look
+the same way."
 
 But then it's up to the kid. So now the kid will go and the kid will
 actually think about it and work it. Because sometimes it takes time to
@@ -308,9 +297,7 @@ He'd go out with his mother who would feed balls, and he'd work for an
 hour or two hours - the same shot over and over, until he finally had
 one of the best forehands in the game.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_discipline/media/image8.jpg)
+![A person playing tennis Description automatically generated with medium confidence](media_discipline/media/image8.jpg)
 
 **Jeff worked very hard to internalize what I taught him and developed a
 great forehand.**
@@ -331,7 +318,7 @@ got confidence. They have the confidence that I am willing to spend time
 with them. How is that possible? I thought he only takes champions. And
 I take anybody, basically. It doesn't make any difference. I don't
 seek out the great kids. When a parent calls me, my first instinct is
-usually, \"Sure I'll try to help your kid.\"
+usually, "Sure I'll try to help your kid."
 
 I love the interaction with the kid. That's why I don't have a huge
 academy. It's just me and the kid. That's why I'm still doing it. A
@@ -341,7 +328,7 @@ kid's about.
 Yes, sometimes it's an act. Sometimes it's funny. I can be a great
 actor, I won't deny it. The kid can hit one ball. And I take my racquet
 and I'll walk over to the other side of the net, and walk right up to
-him and say \"What the hell are you doing?\"
+him and say "What the hell are you doing?"
 
 And the kid's mind is probably racing. He's wondering what the hell is
 happening. But he is so full of attention, he's just like putty in my
@@ -351,9 +338,7 @@ respect.
 I'm just very strict and I expect the kid to do exactly what I want him
 to do, and I won't put up with any attitude.
 
-![A person holding a tennis racket Description automatically generated
-with medium
-confidence](media_discipline/media/image9.jpg)
+![A person holding a tennis racket Description automatically generated with medium confidence](media_discipline/media/image9.jpg)
 
 **I can be a great actor, but I show kids respect.**
 
@@ -370,14 +355,14 @@ said, sure, send him out.
 So the kid flies out, and in his first lesson I see he's not a bad
 player, but a little overweight and maybe a little out of shape.
 
-After about 20 minutes, I said, \"Okay let's hit some wide forehands
-and backhands.\" So I hit him 10 or 15 wide forehands. Then we start on
+After about 20 minutes, I said, "Okay let's hit some wide forehands
+and backhands." So I hit him 10 or 15 wide forehands. Then we start on
 the backhands. After about 5 forehands he missed a ball. And he just
-stops dead in his tracks and starts swearing. \"Goddamn it!\" And then
+stops dead in his tracks and starts swearing. "Goddamn it!" And then
 he throws his racket down.
 
-So I said: \"Hey, you see that gate over there?\" \"Get off this court
-and go back to Texas.\" I threw him out.
+So I said: "Hey, you see that gate over there?" "Get off this court
+and go back to Texas." I threw him out.
 
 The guy came all the way from Texas, and after 20 minutes with me, I
 threw him out. I was not going to take that kind attitude from a 13-year
@@ -385,19 +370,21 @@ old, who missed just one ball.
 
 And so the kid leaves the court. He actually goes back to Texas. The
 next day the phone rings and it's the father. And I thought to myself,
-\"OK Robert, be ready, because this guy is going to rip you to shreds.\"
+"OK Robert, be ready, because this guy is going to rip you to shreds."
 
-But instead, he says \"Mr. Lansdorp, let me thank you very much for the
+But instead, he says "Mr. Lansdorp, let me thank you very much for the
 way you handled my son and I really appreciate it. And if you ever have
 kids that come to Texas, we have a big house and please feel free to
-call, because they're welcome to stay in my house.\"
+call, because they're welcome to stay in my house."
 
 Now if that had happened today, most coaches would just ignored it and
-said something like \"Come on now, it's OK, just relax and try a little
-harder.\" That's probably how other coaches have always treated that
+said something like "Come on now, it's OK, just relax and try a little
+harder." That's probably how other coaches have always treated that
 kid from Texas.
 
-![link](media_discipline/media/image10.png)
+![Video demonstration](media_discipline/media/image10.png)
+
+*Video demonstration — the original video for this article was hosted on TennisPlayer.net.*
 
 **Click photo to hear Robert Lansdorp talk about how long it really
 takes to develop discipline.**
@@ -426,25 +413,23 @@ back.
 
 This boy never had a feeling like he played. If he lost it was because
 he didn't listen and if he won it was because he listened to his smart
-father. I told the father early on, \"You ought to let your son play.
+father. I told the father early on, "You ought to let your son play.
 Don't go watch your son's practice matches. Let him do his thing. Let
-him learn from his own mistakes.\"
+him learn from his own mistakes."
 
 I had another student once, who wasn't that good, but he started
 getting better. All of a sudden, the mom starts talking differently,
-saying \"we\" this and \"we\" that. Where did she get this concept? The
+saying "we" this and "we" that. Where did she get this concept? The
 parent never even picked up a racket.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_discipline/media/image11.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_discipline/media/image11.webp)
 
 **If you start kids my way, they'll hit the ball well for the rest of
 their lives.**
 
-It's pretty common to hear that. It's always \"we\" won but \"he\"
-lost. You'll never hear a parent saying \"we lost and we played very
-stupidly.\"
+It's pretty common to hear that. It's always "we" won but "he"
+lost. You'll never hear a parent saying "we lost and we played very
+stupidly."
 
 The kid walks onto my court and the parent is carrying the bag. That's
 a telltale sign. Do they think that's going to make the kid a champion?
@@ -465,12 +450,7 @@ telling you if you start out the kids the way I start them out, in the
 long run, you have a hell of a shot versus any other way. It's a simple
 thing and it's a proven fact.
 
-  ----------------------------------------------------------------------------------------------------------------------------------------------------
-  ![A person hitting a ball with a tennis racket Description automatically
-  generated](media_discipline/media/image12.gif)
-  ----------------------------------------------------------------------------------------------------------------------------------------------------
-
-  ----------------------------------------------------------------------------------------------------------------------------------------------------
+![A person hitting a ball with a tennis racket Description automatically generated](media_discipline/media/image12.gif)
 
 Robert Lansdorp is the legendary Southern California coach who has
 developed dozens of world class junior and professional players.

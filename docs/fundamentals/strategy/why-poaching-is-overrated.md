@@ -2,9 +2,7 @@
 
 ### Bill Previdi
 
-![A couple of men playing tennis Description automatically generated
-with medium
-confidence](media_why-poaching-is-overrated/media/image1.webp)
+![A couple of men playing tennis Description automatically generated with medium confidence](media_why-poaching-is-overrated/media/image1.webp)
 
 **Is poaching overrated?**
 
@@ -37,9 +35,7 @@ It's too risky to poach when you're losing. If everything else is
 going so badly that you want to try something different just to change
 your luck that rarely turns out well.
 
-![A couple of men playing tennis Description automatically generated
-with medium
-confidence](media_why-poaching-is-overrated/media/image2.webp)
+![A couple of men playing tennis Description automatically generated with medium confidence](media_why-poaching-is-overrated/media/image2.webp)
 
 **Be ahead in the game when you poach---or at least even.**
 
@@ -78,9 +74,7 @@ it's appropriate.
 
 **The Ropes**
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_why-poaching-is-overrated/media/image3.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_why-poaching-is-overrated/media/image3.webp)
 
 **Learn your area of responsibility between the ropes!**
 
@@ -114,8 +108,7 @@ Also notice that it's easier to touch both ropes as you get closer to
 the person hitting the ball. When your opponent is about to hit, face
 them and make a split step toward them.
 
-![A person running on a tennis court Description automatically
-generated](media_why-poaching-is-overrated/media/image4.webp)
+![A person running on a tennis court Description automatically generated](media_why-poaching-is-overrated/media/image4.webp)
 
 **Balls you should take are not far away when you are in position.**
 
@@ -147,20 +140,18 @@ and part of their brain on you too. Your potential poach is now a factor
 in every point, even if you never take another
 ball.**
 
-![A couple of men playing tennis Description automatically generated
-with medium
-confidence](media_why-poaching-is-overrated/media/image5.webp)
+![A couple of men playing tennis Description automatically generated with medium confidence](media_why-poaching-is-overrated/media/image5.webp)
 
 **When you do poach move forward aggressively and cut the ball off.**
 
 **Another situation to try the poach is on second serve returns when
 the opponent's second serve is weak or if your partner has an
-especially effective return.** **[[When your
+especially effective return.** **[When your
 partner is about to hit the return, move forward well into the service
 box so you're in better position to start the poach.] [If you
 start at the service line like most players do, you will rarely have
 time to get to get the ball in time or position to make a decisive
-volley.]]**
+volley.]**
 
 **Remember all the opportunities to poach should be based on your
 evaluation of the overall match situation---the score, your partner, and
@@ -174,36 +165,60 @@ will be able to win even if you aren't able to do a lot of poaching. It
 will make you more confident at covering your own responsibilities and
 more capable of going beyond that from time to time.
 
-| ![A picture containing person, person, standing, outdoor Description automatically | Bill Previdi has been playing |
-| --- | --- |
-| generated](media_why-poaching-is-overrated/media/image6.jpeg) | his life. He played his |
-|  | collegiate tennis at St. John's |
-|  | University in New York and has |
-|  | been nationally ranked in |
-|  | singles, doubles and Father-Son |
-|  | Doubles. Bill has been a Head |
-|  | Pro and Director of Tennis at |
-|  | several clubs since 1981 and has |
-|  | also coached high school and |
-|  | college tennis. He lives in |
-|  | Branford, CT. He can be |
-|  | contacted at: |
-|  | <previdib@gmail.com> |
-|  |  |
-|  | Matt Previdi is a high |
-|  | performance coach in La Jolla, |
-|  | California and the head coach of |
-|  | the La Jolla High boys' tennis |
-|  | team, which in the the past 6 |
-|  | years he has led to a 72-8 |
-|  | record and 2 sectional titles. |
-|  | Matt is a Master Racquet |
-|  | Technician, the head of the |
-|  | Solinco national stringing team, |
-|  | as well as the Solinco player |
-|  | liason and brand representative. |
-|  | He can be contacted at: |
-|  | <mprevidi@gmail.com> |
+![A picture containing person, person, standing, outdoor Description automatically generated](media_why-poaching-is-overrated/media/image6.jpeg)
 
+Bill Previdi has been playing
 
-------------------------------------------------------------------------
+his life. He played his
+
+collegiate tennis at St. John's
+
+University in New York and has
+
+been nationally ranked in
+
+singles, doubles and Father-Son
+
+Doubles. Bill has been a Head
+
+Pro and Director of Tennis at
+
+several clubs since 1981 and has
+
+also coached high school and
+
+college tennis. He lives in
+
+Branford, CT. He can be
+
+contacted at:
+
+<previdib@gmail.com>
+
+Matt Previdi is a high
+
+performance coach in La Jolla,
+
+California and the head coach of
+
+the La Jolla High boys' tennis
+
+team, which in the the past 6
+
+years he has led to a 72-8
+
+record and 2 sectional titles.
+
+Matt is a Master Racquet
+
+Technician, the head of the
+
+Solinco national stringing team,
+
+as well as the Solinco player
+
+liason and brand representative.
+
+He can be contacted at:
+
+<mprevidi@gmail.com>

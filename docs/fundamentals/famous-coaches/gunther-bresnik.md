@@ -12,7 +12,7 @@ Gunther is one of the most low key and probably most intelligent coaches
 I've meet in my meanderings through the tennis world. Hear him talk
 about his background and his work with both players in this exclusive
 Tennisplayer interview. Included are his views on two of his players'
-notable strokes. First the Ernests Gulbis \"swim\" forehand. ([Click
+notable strokes. First the Ernests Gulbis "swim" forehand. ([Click
 here](http://www.tennisplayer.net/bulletin/showthread.php?t=2318) to
 check that out.) Second Dominic Thiem's gorgeous one-handed backhand.
 ([link](http://www.tennisplayer.net/bulletin/showthread.php?t=2626) to see

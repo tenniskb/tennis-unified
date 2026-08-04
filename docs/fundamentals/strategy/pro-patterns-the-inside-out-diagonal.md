@@ -2,11 +2,7 @@
 
 ### Craig Cignarelli
 
-------------------------------------------------------------------------
-
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_pro-patterns-the-inside-out-diagonal/media/image1.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_pro-patterns-the-inside-out-diagonal/media/image1.webp)
 
 **Playing inside forehands is basic at the world class level.**
 
@@ -25,7 +21,9 @@ archive. Even players like Agassi or David Nalbandian who play more from
 the center of the court still hit 20% or more of their forehands from
 the inside position.
 
-![link](media_pro-patterns-the-inside-out-diagonal/media/image2.webp)\
+![Video demonstration](media_pro-patterns-the-inside-out-diagonal/media/image2.webp)
+
+*Video demonstration — the original video for this article was hosted on TennisPlayer.net.*
 **Even if they tend to play from the center, top players like Agassi
 still hit 20% of their forehands from an inside position.**
 
@@ -47,9 +45,7 @@ pros have obvious weaknesses on their backhand sides, yet they still
 chose to move around and play a large percentage of balls from the
 inside out position.**
 
-![A couple of men playing tennis Description automatically generated
-with low
-confidence](media_pro-patterns-the-inside-out-diagonal/media/image3.webp)\
+![A couple of men playing tennis Description automatically generated with low confidence](media_pro-patterns-the-inside-out-diagonal/media/image3.webp)\
 **If so many pros use the inside out to hit to the backhand, what about
 club players?**
 
@@ -57,7 +53,7 @@ Let's think about what that means from the perspective of the average
 player. How many club players can honestly say that that their backhand
 side is as strong as their forehand? In almost cases, the backhand is
 the weaker side. This applies to most club players, and it applies to
-their opponent's as well\--other club players with similarly weaker
+their opponent's as well--other club players with similarly weaker
 backhands. How much of an advantage would it be in the average club
 match to use your strength to hit to your opponent's weakness as the
 basic diagonal in backcourt exchanges?
@@ -69,12 +65,11 @@ on the ad side, a few feet to the left of center. From this position you
 rip inside-out forehands crosscourt, making decisions with every shot.
 If your opponent can keep you close to your singles sideline, you rip it
 back crosscourt to his backhand. If he hits a higher ball towards the
-middle, you can destroy it inside in\--that is down the singles sideline
+middle, you can destroy it inside in--that is down the singles sideline
 to your opponent's forehand. Or you can approach inside-out to his
 backhand.**
 
-![A person playing tennis Description automatically
-generated](media_pro-patterns-the-inside-out-diagonal/media/image4.webp)\
+![A person playing tennis Description automatically generated](media_pro-patterns-the-inside-out-diagonal/media/image4.webp)\
 **Dominating inside out produces balls to destroy inside in.**
 
 **There are many other options. If your opponent hits short and low,
@@ -102,9 +97,7 @@ apparent vulnerability into an offensive opportunity. Often pro players
 will try to drive the ball deep crosscourt to get to the backhand of an
 opponent in the inside position.
 
-![Tennis players on a court Description automatically generated with
-medium
-confidence](media_pro-patterns-the-inside-out-diagonal/media/image5.webp)
+![Tennis players on a court Description automatically generated with medium confidence](media_pro-patterns-the-inside-out-diagonal/media/image5.webp)
 
 **Sampras used the slice backhand to set up the inside in forehand.**
 
@@ -115,9 +108,7 @@ bait, this allowed him to hit his incredible running forehand, driving
 it crosscourt with severe pace and/or angle, or hitting down the line
 behind his opponent, who had moved to cover the forehand crosscourt.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_pro-patterns-the-inside-out-diagonal/media/image6.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_pro-patterns-the-inside-out-diagonal/media/image6.webp)
 
 **Sampras dared his opponents to hit into the open court and answered
 with his running forehand.**
@@ -127,9 +118,7 @@ crosscourt short, inviting, his opponent to come to the net off a low
 ball against his forehand passing shot. We all know the result as
 Roger's forehand pass is one of the best in the game.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_pro-patterns-the-inside-out-diagonal/media/image7.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_pro-patterns-the-inside-out-diagonal/media/image7.webp)
 
 **Federer uses the slice to invite his opponent in, then passes with his
 running forehand.**
@@ -140,11 +129,9 @@ ahead to finish hitting inside in. When opponent's hit to her backhand,
 she would bide her time slicing back crosscourt hitting wide and/or
 short until she could go around the ball and attack with her forehand.
 
-![A tennis player in the middle of a match Description automatically
-generated with low
-confidence](media_pro-patterns-the-inside-out-diagonal/media/image8.webp)
+![A tennis player in the middle of a match Description automatically generated with low confidence](media_pro-patterns-the-inside-out-diagonal/media/image8.webp)
 
-**Steffi Graf was the master of setting up her inside forehand\--one of
+**Steffi Graf was the master of setting up her inside forehand--one of
 the biggest weapons in the history of the women's game.**
 
 Alternatively, against her opponent's drives deep to her backhand,
@@ -170,9 +157,7 @@ and short enough, you can go on the attack. If it is not, then simply
 return it back inside-out and wait for a better ball to
 attack.**
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_pro-patterns-the-inside-out-diagonal/media/image9.webp)\
+![A person playing tennis Description automatically generated with medium confidence](media_pro-patterns-the-inside-out-diagonal/media/image9.webp)\
 **The slice counterplay up the line and the forehand volley winner.**
 
 That covers all of the tactical options. So, let's review. What are the
@@ -181,7 +166,7 @@ patterns and shot combinations you need to master inside play?
 **These are:**
 
 - **Inside out rally ball, varying depth, height, angle, pace and
-  spin.**
+spin.**
 
 - **Backhand slice crosscourt, varying height and angle.**
 
@@ -193,8 +178,7 @@ patterns and shot combinations you need to master inside play?
 
 - **Backhand chip down the line with volley combination.**
 
-![A person playing tennis Description automatically
-generated](media_pro-patterns-the-inside-out-diagonal/media/image10.webp)
+![A person playing tennis Description automatically generated](media_pro-patterns-the-inside-out-diagonal/media/image10.webp)
 
 **Learn to attack or defend from the inside out position, like the
 game's masters.**
@@ -208,8 +192,7 @@ the baseline. In the next article, we will look at utilizing the serve
 and return to establish control of the diagonals at the start of the
 point. Stay Tuned.
 
-![A person holding a tennis racket Description automatically
-generated](media_pro-patterns-the-inside-out-diagonal/media/image11.jpeg)
+![A person holding a tennis racket Description automatically generated](media_pro-patterns-the-inside-out-diagonal/media/image11.jpeg)
 
 Craig Cignarelli is one of the most prolific and successful
 developmental coaches in the country. His original analysis of
@@ -219,5 +202,5 @@ personally nurtured 4 junior players from the beginning of their careers
 who have gone on to achieve #1 national rankings. Currently he is
 working with a cadre of aspiring WTA and ATP players, as well as
 competitive juniors at all levels. Versed in 4 languages, Craig is
-completing his first book \"What Champions Know,\" which forms the basis
+completing his first book "What Champions Know," which forms the basis
 for his articles on Tennisplayer.

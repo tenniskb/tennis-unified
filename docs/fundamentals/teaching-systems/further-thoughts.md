@@ -5,9 +5,7 @@ The Serve**
 
 **John Yandell**
 
-![A picture containing text, sport, outdoor, athletic game Description
-automatically
-generated](media_further-thoughts/media/image1.webp)
+![A picture containing text, sport, outdoor, athletic game Description automatically generated](media_further-thoughts/media/image1.webp)
 
 **I have continued to learn as we continue to film the most complex
 motions in sports.**
@@ -21,7 +19,7 @@ It's impossible to disagree with that. That of course applies to the
 serve, maybe especially.
 
 We first filmed Pete Sampras in high speed video in 1997. Since then
-we've have filmed several dozen of the world's best servers \-- Greg
+we've have filmed several dozen of the world's best servers -- Greg
 Rusedski, Andy Roddick, Roger Federer, John Isner, and many more. It's
 all there in the archives. ([link](https://www.tennisplayer.net/bulletin/forum/tennisplayer/63935-interactive-forum-june-2017-nick-krygios-first-serve),
 for example, to see Nick Krygios's serve this month in the Interactive
@@ -43,13 +41,11 @@ not all.
 
 With each of those elements you can find elite servers with slightly or
 even wildly different variations and emphases. A legitimate question is
-whether a certain server is effective because of technique\--or in spite
+whether a certain server is effective because of technique--or in spite
 of technique---and how much better could they be if they changed---or
 how much worse they could be if they changed.
 
-![A tennis player in a green shirt Description automatically generated
-with low
-confidence](media_further-thoughts/media/image2.webp)
+![A tennis player in a green shirt Description automatically generated with low confidence](media_further-thoughts/media/image2.webp)
 
 **What if we taught a Rafa clone the Federer serve?**
 
@@ -61,7 +57,7 @@ Rafa Nadal and teach him Federer's stance or windup and see if he'd
 gain 15 mph and 1000rpm---although in my opinion he could.
 
 But in the past few months I have further clarified several complex,
-interrelated issues. These clarifications\--or evolutions really\--are
+interrelated issues. These clarifications--or evolutions really--are
 based on talking in detail with Brian Gordon recently when I saw him in
 Florida during the Miami Open, and also talking with Dr. Ben Kilber when
 I saw him at the PTR convention in South Carolina. ([link](https://www.tennisplayer.net/members/biomechanics/ben_kibler/the_push_serve_pull_serve/) for
@@ -80,28 +76,26 @@ and collaborators.
 **Three Things**
 
 So what am I actually talking about? Three things. First, the so called
-\"shoulder over shoulder rotation\" which is a major power source in the
+"shoulder over shoulder rotation" which is a major power source in the
 motion, how to create that, and how it's critically related to the role
 of the back foot. Second, how setting up shoulder over shoulder also
 relates to the tossing motion. And third, again interrelated, how the
-so-called \"trophy position\" and the start of the upward swing relate
+so-called "trophy position" and the start of the upward swing relate
 to the coiling and uncoiling of the legs.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_further-thoughts/media/image3.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_further-thoughts/media/image3.webp)
 
-**The much discussed \"shoulder over shoulder\" rotation. Watch the
+**The much discussed "shoulder over shoulder" rotation. Watch the
 relative height of the front and back shoulders reverse in a few
 fractions of a second.**
 
 **Shoulder Over Shoulder**
 
 In one of the great, original Tennisplayer articles going back 12 years,
-Dr. Bruce Elliott makes this statement: \"The key to one of the great,
+Dr. Bruce Elliott makes this statement: "The key to one of the great,
 original Tennisplayer articles going back 12 years, Dr. Bruce Elliott
-makes this statement: \"The key to a good service action is that you
-rotate shoulder over shoulder.\" [link](https://www.tennisplayer.net/members/biomechanics/bruce_elliot/BE_Power_Serve_P1/BE_Power_Serve_Part1.pg2.html)
+makes this statement: "The key to a good service action is that you
+rotate shoulder over shoulder." [link](https://www.tennisplayer.net/members/biomechanics/bruce_elliot/BE_Power_Serve_P1/BE_Power_Serve_Part1.pg2.html)
 
 So what is that precisely---shoulder over shoulder rotation? The
 simplest way to explain it is to look at, when the tossing arm reaches
@@ -117,7 +111,7 @@ til the right shoulder is elevated above the left.
 
 Now the line across the shoulders is pointing downward at the court,
 again at about 45 degrees or a little more. The reversal of the angle of
-this line is \"shoulder over shoulder\" rotation.
+this line is "shoulder over shoulder" rotation.
 
 Note however that shoulder over shoulder rotation doesn't happen in
 isolation. Shoulder over shoulder rotation happens simultaneously with
@@ -125,16 +119,15 @@ another torso rotation, and this makes it difficult to isolate.
 
 At the same time the height of the shoulders is changing, the entire
 torso is also rotating counterclockwise around the axis of the spine. So
-as the shoulders rotate \"over\" each other, the shoulders are also both
-rotating \"around.\"
+as the shoulders rotate "over" each other, the shoulders are also both
+rotating "around."
 
 This means shoulder over shoulder isn't simply directly forward up and
 over. Still there no doubt and there is a definite and significant
 reversal in the angle of the shoulder tilt and this is important to
 understand.
 
-![A person playing tennis Description automatically generated with low
-confidence](media_further-thoughts/media/image4.webp)
+![A person playing tennis Description automatically generated with low confidence](media_further-thoughts/media/image4.webp)
 
 **Should you manipulate the shoulder heights mechanically or is shoulder
 over shoulder a consequence?**
@@ -157,10 +150,10 @@ old student who had been studying YouTube lessons on this exact topic.
 If you actually know anything about tennis, the terrible advice you see
 on YouTube will the lmake you question the validity of all advice on the
 internet on any topic. Could all those other experts be as stupid as the
-YouTube \"experts\" in tennis?
+YouTube "experts" in tennis?
 
 In any case, my former student was convinced he wasn't getting enough
-\"shoulder over shoulder.\" It was driving him crazy trying to flip that
+"shoulder over shoulder." It was driving him crazy trying to flip that
 back shoulder forward, yet his serve was coming apart.
 
 **So How Really?**
@@ -169,9 +162,7 @@ So what's the actual way this happens in high level serving? Here is
 where my talk with Ben Kibler clarified the critical role of the back
 leg in all this. [link](https://www.tennisplayer.net/members/biomechanics/ben_kibler/the_serving_nodes/)
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_further-thoughts/media/image5.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_further-thoughts/media/image5.webp)
 
 **Gorgeous, equal distribution of the weight at the coiling of the
 knees**
@@ -218,9 +209,7 @@ hip out and get that front shoulder even higher and get that back
 shoulder even lower? Won't that make shoulder over shoulder even
 better?
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_further-thoughts/media/image6.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_further-thoughts/media/image6.webp)
 
 **Why not push shoulder tilt with artificial front hip lean?**
 
@@ -233,7 +222,7 @@ negative effects when players serve. Later contact. Less leg thrust. A
 lurching forward and over at the waist.
 
 What I learned from Ben took this argument against the Archer's Bow to
-a new level of certainty. Ben Kibler calls it \"front hip lean.\" The
+a new level of certainty. Ben Kibler calls it "front hip lean." The
 research shows this artificial tilt backward at the hips reduces the
 critical loading of the back leg.
 
@@ -243,14 +232,13 @@ into a position that drastically reduces its ability to drive upward off
 the court. This lack of back leg drive in turn reduces the critical
 upward acceleration of the back hip.
 
-This results in what Ben calls the \"pull\" serve, in which the player
+This results in what Ben calls the "pull" serve, in which the player
 uses his abdominals to pull the body back to upright and then through
-the motion. This contrasts with the \"Push\" serve in which the
+the motion. This contrasts with the "Push" serve in which the
 explosion of the back leg upward of the court creates the maximum
 contribution to energy in the bio mechanical chain. [link](https://www.tennisplayer.net/members/biomechanics/ben_kibler/the_push_serve_pull_serve/)
 
-![A picture containing outdoor, automaton Description automatically
-generated](media_further-thoughts/media/image7.jpg)
+![A picture containing outdoor, automaton Description automatically generated](media_further-thoughts/media/image7.jpg)
 
 **Is the trophy position real?**
 
@@ -283,9 +271,7 @@ It turns out the key to understanding the trophy position is
 understanding how it relates to the leg drive. And this is stuff you may
 or may not have ever heard.
 
-![A tennis player about to serve the ball Description automatically
-generated with medium
-confidence](media_further-thoughts/media/image8.webp)
+![A tennis player about to serve the ball Description automatically generated with medium confidence](media_further-thoughts/media/image8.webp)
 
 **Look at the angle of the racket diagonally across the back just before
 Novak leaves the court.**
@@ -318,8 +304,7 @@ the backward external rotation of the arm, and this in turn will now be
 translated into the upward swing. So the leg drive in effect
 supercharges racket speed.
 
-![A person playing tennis Description automatically
-generated](media_further-thoughts/media/image9.webp)
+![A person playing tennis Description automatically generated](media_further-thoughts/media/image9.webp)
 
 **A Berdych ace. How bad can making the trophy position really be?**
 
@@ -348,8 +333,7 @@ None the less if you look at where he racket is when his front foot
 leaves the court, he is well past the lowest point in the swing. So
 maybe his serve could be even better than it is already.
 
-![A person playing tennis Description automatically
-generated](media_further-thoughts/media/image10.webp)
+![A person playing tennis Description automatically generated](media_further-thoughts/media/image10.webp)
 
 **Andy and John---not the classic trophy position for sure.**
 
@@ -366,7 +350,7 @@ and out of the racket drop ever. [link](https://www.tennisplayer.net/members/tou
 And in the current generation, Isner is probably right there with Andy.
 
 At the moment when the racket is supposed to be in the traditional
-trophy position---tossing arm extended and knees coiled\--both these
+trophy position---tossing arm extended and knees coiled--both these
 players still have the arm and racket well to their right.
 
 That means their rackets have to travel further in roughly the same
@@ -379,8 +363,7 @@ knee bend, explode upward and drive the arm and racket backward and down
 at make the crucial meeting between the lowest racket tip point and the
 lift off from the court.
 
-![A person hitting a ball with a tennis racket Description automatically
-generated](media_further-thoughts/media/image11.webp)
+![A person hitting a ball with a tennis racket Description automatically generated](media_further-thoughts/media/image11.webp)
 
 **Isner: a compact outside backswing but perfect intersection of racket
 position and leg drive.**
@@ -413,14 +396,12 @@ elite servers don't quite get there. And that's great to understand.
 If gives a new checkpoint to look at in evaluating players, particularly
 high level players.
 
-![A picture containing sport, athletic game, player, tennis Description
-automatically
-generated](media_further-thoughts/media/image12.webp)
+![A picture containing sport, athletic game, player, tennis Description automatically generated](media_further-thoughts/media/image12.webp)
 
 **How is the timing between Roger's coiling and Roger's racket?**
 
-It would be a mistake to say to someon \"Hey the legs and the tossing
-arm look good but your racket is a little behind the trophy position,\"
+It would be a mistake to say to someon "Hey the legs and the tossing
+arm look good but your racket is a little behind the trophy position,"
 when actually your racket was in a preferred position. What you want to
 do first is look at the intersection between the low point with the
 racket and the push off the court.
@@ -446,7 +427,9 @@ possible modifications, is still the best model. [link](https://www.tennisplayer
 But I plan to keep further thoughts coming as long as I continue to
 study this amazing game. And keep writing about them here.
 
-![link](media_further-thoughts/media/image13.jpeg)
+![Video demonstration](media_further-thoughts/media/image13.jpeg)
+
+*Video demonstration — the original video for this article was hosted on TennisPlayer.net.*
 
 John Yandell is widely acknowledged as one of the leading videographers
 and students of the modern game of professional tennis. His high speed

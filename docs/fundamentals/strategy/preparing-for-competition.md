@@ -4,10 +4,7 @@
 
 ### Nick Wheatley
 
-------------------------------------------------------------------------
-
-![A person playing tennis Description automatically generated with low
-confidence](media_preparing-for-competition/media/image1.webp)
+![A person playing tennis Description automatically generated with low confidence](media_preparing-for-competition/media/image1.webp)
 
 **Start your pre-match warmup with a limited number of easy rallies.**
 
@@ -16,7 +13,7 @@ strengths of your game in matches in ways that lead to winning that
 extra handful of critical points that are the difference in close
 matches. In this article, let's see how you can create additional
 marginal gains during your preparation for those matches. As the saying
-goes \"If you fail to prepare, then prepare to fail.\"
+goes "If you fail to prepare, then prepare to fail."
 
 We could at this point delve deep into things like physical fitness,
 diet, and nutrition. This is not my area of expertise, and should you
@@ -33,9 +30,7 @@ I'm not talking about the 5 minutes you'll get with your opponent(s).
 To me preparation means warming up for 30-45 minutes at some point prior
 to the match.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_preparing-for-competition/media/image2.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_preparing-for-competition/media/image2.webp)
 
 **The Down the Line Live game---start crosscourt and the point begins
 when the first player takes the ball down the line.**
@@ -50,8 +45,8 @@ Let's say you've allocated 30 minutes for the pre-match warmup.
 Here's an example of how you can make best use of this time based on
 some of the drills and practices already covered in this series.
 
-Start with no more than 3-4 minutes of hitting. Then move onto \"down
-the line live\" game we outlined in a previous article. 
+Start with no more than 3-4 minutes of hitting. Then move onto "down
+the line live" game we outlined in a previous article. 
 You may only get to play first to 5 points on each cross-court pattern,
 but it will be invaluable.
 
@@ -59,9 +54,7 @@ Then it's time for some specific volley practice, and how this is done
 will depend on whether you are playing singles or doubles. If singles,
 you will want to incorporate your approach to the net in the practice.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_preparing-for-competition/media/image3.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_preparing-for-competition/media/image3.webp)
 
 **Practice your approaches and volleys for either singles or doubles.**
 
@@ -85,16 +78,15 @@ If time is more restricted, a shorter pre-match warm-up is still far
 better than none at all. You may want to focus on what is most relevant
 to your game. Serve and return will always be included, but as a
 baseliner playing singles, you could cut out the volley practice, and as
-a serve and volleyer playing doubles, you could leave out \"down the
-line live.\"
+a serve and volleyer playing doubles, you could leave out "down the
+line live."
 
-![A person holding a tennis racket Description automatically
-generated](media_preparing-for-competition/media/image4.webp)
+![A person holding a tennis racket Description automatically generated](media_preparing-for-competition/media/image4.webp)
 
 **Practice the serve and the split step.**
 
 If you have more time, then you can extend some of the drills. You can
-also add in the \"first 4 shot\" drill to transition from serve and
+also add in the "first 4 shot" drill to transition from serve and
 return practice to playing full points. In first 4 shots practice, you
 play only the first 4 shots, or however many shots the rally lasts if it
 doesn't reach 4. If the 4th shot is in, the point is awarded to the
@@ -115,9 +107,7 @@ your game. A proper warm-up will build your confidence because you know
 that you have made a marginal gain by being fully prepared when the
 match gets underway.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_preparing-for-competition/media/image5.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_preparing-for-competition/media/image5.webp)
 
 **If you have time play a series of 4 shot games.**
 
@@ -142,25 +132,34 @@ The combination of a specific warmup with this mental preparation can
 make a huge difference. In the next article I will detail how it worked
 for my club team in a match we won against a very strong rival.
 
-| ![A person holding a tennis racket Description automatically | Nick Wheatley is an LTA Performance Coach and |
-| --- | --- |
-| generated](media_preparing-for-competition/media/image6.jpeg) | His junior teams, the Hawker Jets, have won 44 |
-|  | competitions since formation, and over the last 2 |
-|  | years alone, his junior players have won 19 |
-|  | singles tournaments between them at county level. |
-|  |  |
-|  | He has been ranked in the top 75 nationally in 35 |
-|  | and over singles and in the top 5 in Surrey |
-|  | county. Nick has done video analysis for numerous |
-|  | players at all levels, including former British |
-|  | Top 10 player Marcus Willis. |
-|  |  |
-|  | His unique teaching video series, covering every |
-|  | aspect of the game, is available on his website |
-|  | [www.nickwtennis.com](http://www.nickwtennis.com) |
-|  |  |
-|  | You can also contact Nick directly via the |
-|  | homepage of his website. |
+![A person holding a tennis racket Description automatically generated](media_preparing-for-competition/media/image6.jpeg)
 
+Nick Wheatley is an LTA Performance Coach and
 
-------------------------------------------------------------------------
+His junior teams, the Hawker Jets, have won 44
+
+competitions since formation, and over the last 2
+
+years alone, his junior players have won 19
+
+singles tournaments between them at county level.
+
+He has been ranked in the top 75 nationally in 35
+
+and over singles and in the top 5 in Surrey
+
+county. Nick has done video analysis for numerous
+
+players at all levels, including former British
+
+Top 10 player Marcus Willis.
+
+His unique teaching video series, covering every
+
+aspect of the game, is available on his website
+
+[www.nickwtennis.com](http://www.nickwtennis.com)
+
+You can also contact Nick directly via the
+
+homepage of his website.

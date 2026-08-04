@@ -2,9 +2,7 @@
 
 ### Dennis Ralston
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_point-of-contact/media/image1.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_point-of-contact/media/image1.webp)
 
 **Can something as simple as the drop and hit really help you improve
 your contact point?**
@@ -30,8 +28,7 @@ soon. It's amazing how many people shank the ball or pull the ball
 crosscourt because of this. My solution comes from watching thousands of
 players struggle with this common problem of hitting too early.
 
-![A person playing tennis Description automatically
-generated](media_point-of-contact/media/image2.webp)
+![A person playing tennis Description automatically generated](media_point-of-contact/media/image2.webp)
 
 **If you were in position to catch and drop and hit every forehand,
 you'd never miss.**
@@ -39,7 +36,7 @@ you'd never miss.**
 **Late?**
 
 When I ask club players why they missed a certain ball, one of the
-standard answers is \"I was late.\" My observation is that **they may
+standard answers is "I was late." My observation is that **they may
 have been late preparing, but the real problem was that they were too
 fast at the hit**.
 
@@ -58,8 +55,7 @@ to find it consistently in match play.**
 you say exactly where?]** What I am talking about is refining the
 concept of contact to a more precise area.
 
-![A person holding a tennis racket Description automatically
-generated](media_point-of-contact/media/image3.webp)
+![A person holding a tennis racket Description automatically generated](media_point-of-contact/media/image3.webp)
 
 **The same image on the backhand: positioned to catch and make a perfect
 drop and hit.**
@@ -95,8 +91,7 @@ you to develop a strong feeling for proper positioning and contact in
 real time, hitting a real live ball. The more difficult the ball, the
 greater the payoff.
 
-![A person holding a tennis racket Description automatically
-generated](media_point-of-contact/media/image4.webp)
+![A person holding a tennis racket Description automatically generated](media_point-of-contact/media/image4.webp)
 
 **The same key for the volleys. Positioned to catch and create perfect
 contact.**
@@ -124,29 +119,40 @@ when you are playing, wherever you are on the court.* You]**
 your shots become consistent, ball after
 ball]**]******
 
-  ---------------- -----------------------------------------------------
+![A person wearing a white shirt Description automatically generated with low confidence](media_point-of-contact/media/image5.jpeg)
 
-  ---------------- -----------------------------------------------------
+Few people in tennis can match Dennis Ralston's
 
-| ![A person wearing a white shirt Description automatically generated with low | Few people in tennis can match Dennis Ralston's |
-| --- | --- |
-| confidence](media_point-of-contact/media/image5.jpeg) | national junior champion in 1958, twice NCAA singles |
-|  | and doubles champion, and 5 time Grand Slam doubles |
-|  | champion in the 1960s and 1970s. Dennis played with |
-|  | legendary partners including Chuck McKinley, Rafael |
-|  | Osuna, and Billie Jean King, and was also a Wimbledon |
-|  | singles finalist in 1966, losing to the great Manola |
-|  | Santana. |
-|  |  |
-|  | Dennis played on the winning U.S. Davis Cup team that |
-|  | defeated Australia in 1963, and was Davis Cup captain |
-|  | in the victory over Romania in 1972. Dennis was also |
-|  | men's tennis coach at SMU for 15 years. He has |
-|  | coached numerous top pro players including Chris |
-|  | Evert, Roscoe Tanner, Brian Gottfried, Yannick Noah |
-|  | and Gabriela Sabatini. |
-|  |  |
-|  | For information about working directly with Dennis, |
-|  | contact him directly at: 760-636-4055. Or visit: |
-|  | [www.ralstontennis.com](http://www.ralstontennis.com) |
+national junior champion in 1958, twice NCAA singles
 
+and doubles champion, and 5 time Grand Slam doubles
+
+champion in the 1960s and 1970s. Dennis played with
+
+legendary partners including Chuck McKinley, Rafael
+
+Osuna, and Billie Jean King, and was also a Wimbledon
+
+singles finalist in 1966, losing to the great Manola
+
+Santana.
+
+Dennis played on the winning U.S. Davis Cup team that
+
+defeated Australia in 1963, and was Davis Cup captain
+
+in the victory over Romania in 1972. Dennis was also
+
+men's tennis coach at SMU for 15 years. He has
+
+coached numerous top pro players including Chris
+
+Evert, Roscoe Tanner, Brian Gottfried, Yannick Noah
+
+and Gabriela Sabatini.
+
+For information about working directly with Dennis,
+
+contact him directly at: 760-636-4055. Or visit:
+
+[www.ralstontennis.com](http://www.ralstontennis.com)

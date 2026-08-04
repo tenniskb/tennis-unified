@@ -22,8 +22,7 @@ the consistency and effectiveness of your deep down the middle returns
 and how to build points off them in a way that will translate into
 better returns in match play.
 
-![A person holding a tennis racket Description automatically
-generated](media_ultimate-drill-games-the-magic-box/media/image1.jpeg)
+![A person holding a tennis racket Description automatically generated](media_ultimate-drill-games-the-magic-box/media/image1.jpeg)
 
 Jorge Capestany is one of eleven people worldwide that have earned the
 distinction of Master Professional with the USPTA and International
@@ -48,18 +47,27 @@ and Jorge has been the personal coach to many nationally ranked juniors
 in the US including three national champions. He speaks regularly at
 coaching conventions around the world.
 
-| +-------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+ |  |  |  |
-| --- | --- | --- | --- |
-|  | **Tennisplayer Forum** | ![forum](media_ultimate-drill-games-the-magic-box/media/image2.gif) |  |
-| +-------------------------------------------------------------------------------------------------------------------------------------+ |  |  |  |
-|  | **Let's Talk About this Article!\ |  |  |
-|  | \ |  |  |
-|  | Share Your Thoughts with our Subscribers and Authors!\ |  |  |
-|  | \ |  |  |
-|  | [[Click |  |  |
-|  | Here]](https://www.tennisplayer.net/bulletin/forum/tennisplayer/80586-ultimate-drill-games-the-magic-box?view=stream)** |  |  |
-| +=====================================================================================================================================+===========================================================================================================================================================================================+ |  |  |  |
++-------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
++-------------------------------------------------------------------------------------------------------------------------------------+
+
++=====================================================================================================================================+===========================================================================================================================================================================================+
+
+**Tennisplayer Forum**
+
+**Let's Talk About this Article!\
+
+\
+
+Share Your Thoughts with our Subscribers and Authors!\
+
+\
+
+[[Click
+
+Here]](https://www.tennisplayer.net/bulletin/forum/tennisplayer/80586-ultimate-drill-games-the-magic-box?view=stream)**
+
+![forum](media_ultimate-drill-games-the-magic-box/media/image2.gif)
 
 © Tennisplayer 2019. All Rights Reserved.\
 \
@@ -73,8 +81,7 @@ many of 10 hit the box?
 Work back and forth between the boxes. If you can routinely make all 6
 in a row, that's world class accuracy.
 
-![A person holding a tennis racket Description automatically
-generated](media_ultimate-drill-games-the-magic-box/media/image1.jpeg)
+![A person holding a tennis racket Description automatically generated](media_ultimate-drill-games-the-magic-box/media/image1.jpeg)
 
 Jorge Capestany is one of eleven people worldwide that have earned the
 distinction of Master Professional with the USPTA and International
@@ -99,18 +106,27 @@ and Jorge has been the personal coach to many nationally ranked juniors
 in the US including three national champions. He speaks regularly at
 coaching conventions around the world.
 
-| +---------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+ |  |  |  |
-| --- | --- | --- | --- |
-|  | **Tennisplayer Forum** | ![forum](media_ultimate-drill-games-the-magic-box/media/image2.gif) |  |
-| +---------------------------------------------------------------------------------------------------------------------------------------+ |  |  |  |
-|  | **Let's Talk About this Article!\ |  |  |
-|  | \ |  |  |
-|  | Share Your Thoughts with our Subscribers and Authors!\ |  |  |
-|  | \ |  |  |
-|  | [[Click |  |  |
-|  | Here]](https://www.tennisplayer.net/bulletin/forum/tennisplayer/81726-ultimate-drill-games-cuban-davis-cup?view=stream)** |  |  |
-| +=======================================================================================================================================+===========================================================================================================================================================================================+ |  |  |  |
++---------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
++---------------------------------------------------------------------------------------------------------------------------------------+
+
++=======================================================================================================================================+===========================================================================================================================================================================================+
+
+**Tennisplayer Forum**
+
+**Let's Talk About this Article!\
+
+\
+
+Share Your Thoughts with our Subscribers and Authors!\
+
+\
+
+[[Click
+
+Here]](https://www.tennisplayer.net/bulletin/forum/tennisplayer/81726-ultimate-drill-games-cuban-davis-cup?view=stream)**
+
+![forum](media_ultimate-drill-games-the-magic-box/media/image2.gif)
 
 © Tennisplayer 2019. All Rights Reserved.\
 \

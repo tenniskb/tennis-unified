@@ -2,16 +2,12 @@
 
 ### Andy Durham
 
-------------------------------------------------------------------------
-
-![A baseball player holding a bat Description automatically generated
-with medium
-confidence](media_using-statistics-in-coaching/media/image1.jpg)
+![A baseball player holding a bat Description automatically generated with medium confidence](media_using-statistics-in-coaching/media/image1.jpg)
 
 **What didn't Mickey Mantle understand about baseball?**
 
 Over the last 70 years, statistics have exploded in sports at all
-levels\--in high school, in college and especially in professional
+levels--in high school, in college and especially in professional
 sports. Where would baseball, the NFL, all the other sports leagues, and
 the pro golf tours be without all the data they collect?
 
@@ -22,8 +18,8 @@ their own and their opponent's statistics.
 
 Data collection can be important for every level of athlete no matter
 what sport. As Mickey Mantle once said about baseball when he began to
-learn about statistics: \"It's unbelievable how much you don't know
-about a game you've played all your life.\"
+learn about statistics: "It's unbelievable how much you don't know
+about a game you've played all your life."
 
 **The Same Page**
 
@@ -32,8 +28,7 @@ on the same page. Statistics should not dominate the conversation but
 can quantify it. This way the whole team has solid data to help make
 decisions.
 
-![A person hitting a ball with a tennis racket Description automatically
-generated](media_using-statistics-in-coaching/media/image2.png)
+![A person hitting a ball with a tennis racket Description automatically generated](media_using-statistics-in-coaching/media/image2.png)
 
 **Statistics in junior tennis can put the whole team on the same page.**
 
@@ -65,9 +60,7 @@ will introduce a new app I have created that can allow any player and
 coach at any level to develop a statistical picture, either for free or
 a more detailed picture for minimal additional cost.
 
-![A person sitting at a desk with a computer Description automatically
-generated with medium
-confidence](media_using-statistics-in-coaching/media/image3.jpg)
+![A person sitting at a desk with a computer Description automatically generated with medium confidence](media_using-statistics-in-coaching/media/image3.jpg)
 
 **Bill Jacobson with the original CompuTennis scoring computer.**
 
@@ -97,8 +90,7 @@ The advent of portable computers was just coming about and he designed a
 four pound laptop to allow a scorer to enter key match information. He
 founded a company based on this new technology and named it CompuTennis.
 
-![A person holding a trophy Description automatically
-generated](media_using-statistics-in-coaching/media/image4.jpg)
+![A person holding a trophy Description automatically generated](media_using-statistics-in-coaching/media/image4.jpg)
 
 **CompuTennis tracked every John McEnroe match when he won the U.S. Open
 in 1984.**
@@ -133,9 +125,7 @@ In that same year Bill developed a concept he called the Aggressive
 Margin. For each player this was the combination of winners and forced
 errors less unforced errors.
 
-![A couple of men holding a trophy Description automatically generated
-with low
-confidence](media_using-statistics-in-coaching/media/image5.jpg)
+![A couple of men holding a trophy Description automatically generated with low confidence](media_using-statistics-in-coaching/media/image5.jpg)
 
 **How did Federer really win the historic 2006 Wimbledon final?**
 
@@ -170,9 +160,7 @@ This difference is the key to understanding the match. When you add in
 the forced errors, Federer actually won a total of 133 points---20 more
 total points than Nadal.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_using-statistics-in-coaching/media/image6.jpg)
+![A person playing tennis Description automatically generated with medium confidence](media_using-statistics-in-coaching/media/image6.jpg)
 
 **Statistics are important or more important at all levels below pro
 tennis.**
@@ -209,9 +197,7 @@ CompuTennis scoring system, and worked personally with many players at
 all levels, including a player named Sara Gomer, helping her to reach #2
 in the United Kingdom.
 
-![A person holding a sign Description automatically generated with
-medium
-confidence](media_using-statistics-in-coaching/media/image7.jpg)
+![A person holding a sign Description automatically generated with medium confidence](media_using-statistics-in-coaching/media/image7.jpg)
 
 **In 2015 Bill Jacobson's contributions were recognized when he was
 voted in the USTA Norcal Hall of Fame.**
@@ -249,9 +235,7 @@ statistics from the recent French Open women's final between Sofia
 Kenin and Iga Swiatek. I will also explain how this kind of analysis can
 apply to all the other levels.
 
-![A person holding a tennis racket Description automatically generated
-with medium
-confidence](media_using-statistics-in-coaching/media/image8.jpeg)
+![A person holding a tennis racket Description automatically generated with medium confidence](media_using-statistics-in-coaching/media/image8.jpeg)
 
 Andy Durham is the founder of RacketStats.com, an app allowing parents,
 players and coaches an easy system to chart and get access to vital
@@ -259,5 +243,3 @@ statistics. He is a member of the USPTA, PTR and has been teaching for
 48 years, many of his students rising to college, WTA and ATP levels.
 Currently he is the Director of Tennis at the Cindy Hummel Tennis Center
 in Auburndale, Florida. You can reach Andy at <info@racketstats.com>
-
-------------------------------------------------------------------------

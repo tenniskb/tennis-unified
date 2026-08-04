@@ -9,9 +9,7 @@ In singles you might see a player stay on the baseline hitting moonballs
 and lobs, but in doubles he goes to the net on every ball and he wins
 matches.
 
-![A group of men playing tennis Description automatically generated with
-medium
-confidence](media_playing-winning-doubles-service-games/media/image1.webp)
+![A group of men playing tennis Description automatically generated with medium confidence](media_playing-winning-doubles-service-games/media/image1.webp)
 
 **Singles and doubles are different games due to their fundamental
 geometric differences.**
@@ -29,9 +27,7 @@ single sideline. The doubles alley adds another four and half feet on
 either side. So that's an extra nine feet total, making the width of
 the doubles court 36 feet.
 
-![A group of people play tennis Description automatically generated with
-medium
-confidence](media_playing-winning-doubles-service-games/media/image2.webp)
+![A group of people play tennis Description automatically generated with medium confidence](media_playing-winning-doubles-service-games/media/image2.webp)
 
 **The geometric dimensions of doubles mean each partner covers only 18
 feet.**
@@ -54,9 +50,7 @@ volley your incentive to come to the net would increase dramatically,
 because it becomes so much harder for your opponent to pass. That in
 effect is what happens in doubles.**
 
- ![A group of people play tennis Description automatically generated
-with medium
-confidence](media_playing-winning-doubles-service-games/media/image3.webp)
+![A group of people play tennis Description automatically generated with medium confidence](media_playing-winning-doubles-service-games/media/image3.webp)
 
 **Geometry governs every strategic principle, starting with the serve.**
 
@@ -76,9 +70,7 @@ line and the net and about half way between the center service line and
 the side line. This position should be adjusted depending on the
 tendency of the receiver and what he does with his returns.
 
-![A group of people playing football Description automatically generated
-with low
-confidence](media_playing-winning-doubles-service-games/media/image4.webp)
+![A group of people playing football Description automatically generated with low confidence](media_playing-winning-doubles-service-games/media/image4.webp)
 
 **Cut down the area for the crosscourt return by moving to the middle.**
 
@@ -102,8 +94,7 @@ returns that force volley errors from the server or intimidate him into
 staying back. The returner may be able to move in behind his own returns
 and take control of the net first.
 
- ![A person playing tennis Description automatically generated with low
-confidence](media_playing-winning-doubles-service-games/media/image5.webp)
+![A person playing tennis Description automatically generated with low confidence](media_playing-winning-doubles-service-games/media/image5.webp)
 
 **The second general rule: serve 80%.**
 
@@ -116,9 +107,7 @@ the receiver to pass the partner at the net. It also reduces the angle
 on the return back to the server. Third, it enables the server's
 partner to poach more easily.
 
-![A group of people play tennis Description automatically generated with
-low
-confidence](media_playing-winning-doubles-service-games/media/image6.webp)
+![A group of people play tennis Description automatically generated with low confidence](media_playing-winning-doubles-service-games/media/image6.webp)
 
 **Geometrically, the serve down the middle is the best play in both
 courts.**
@@ -132,13 +121,7 @@ return.**
 strong return on the other side. Serving wide to a clearly weaker stroke
 will set up easier first volleys for the server.**
 
- 
-
- 
-
- ![A group of people play tennis Description automatically generated
-with low
-confidence](media_playing-winning-doubles-service-games/media/image7.webp)
+![A group of people play tennis Description automatically generated with low confidence](media_playing-winning-doubles-service-games/media/image7.webp)
 
 **Poaching wins quick points and undermines your opponents'
 confidence.**
@@ -159,9 +142,7 @@ Poaching is valuable for two reasons. The first is it wins quick points.
 The second is it undermines your opponent's
 confidence.**
 
- ![A couple of men playing tennis Description automatically generated
-with medium
-confidence](media_playing-winning-doubles-service-games/media/image8.webp)
+![A couple of men playing tennis Description automatically generated with medium confidence](media_playing-winning-doubles-service-games/media/image8.webp)
 
 **Poaching is the key to dominating at the net.**
 
@@ -180,8 +161,7 @@ quickly.**
 can't afford to let your opponents get the ball back. You're committed
 to aggression, so volley decisively.**
 
- ![A person playing tennis Description automatically
-generated](media_playing-winning-doubles-service-games/media/image9.webp)
+![A person playing tennis Description automatically generated](media_playing-winning-doubles-service-games/media/image9.webp)
 
 **Your movement is diagonal but also forward.**
 
@@ -203,9 +183,7 @@ being passed too frequently down the line, wait a fraction of a second
 longer. If you're crossing but not able to reach the return, leave a
 fraction of a second sooner.**
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_playing-winning-doubles-service-games/media/image10.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_playing-winning-doubles-service-games/media/image10.webp)
 
 **Work to find the timing that balances the risk of being passed with
 the risk of not cutting off the return.**
@@ -230,9 +208,7 @@ opponents. You want to go when your opponents think you won't or when
 there's so much pressure that they lack the nerve to return down the
 line, for example, when they have break point**.
 
-** **![A group of people play tennis Description automatically generated
-with low
-confidence](media_playing-winning-doubles-service-games/media/image11.webp)
+** **![A group of people play tennis Description automatically generated with low confidence](media_playing-winning-doubles-service-games/media/image11.webp)
 
 **When to poach is a guessing game.**
 
@@ -270,9 +246,7 @@ side of the center line. The net person is now responsible for the right
 side of the court, and the server the left, the reverse of the
 conventional doubles formation.
 
-![A group of people play tennis Description automatically generated with
-medium
-confidence](media_playing-winning-doubles-service-games/media/image12.webp)
+![A group of people play tennis Description automatically generated with medium confidence](media_playing-winning-doubles-service-games/media/image12.webp)
 
 **Changing to the Australian formation can shake things up and produce
 errors.**
@@ -297,9 +271,7 @@ rhythm of your opponent's play. It can force them into a completely
 different pattern of exchanges and this can reverse the flow of the
 match.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_playing-winning-doubles-service-games/media/image13.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_playing-winning-doubles-service-games/media/image13.webp)
 
 **Don't let negative thoughts paralyze you-take an aggressive
 attitude.**
@@ -323,52 +295,68 @@ Read More From Allen!
 
 Visit him at [www.allenfoxtennis.net](http://www.allenfoxtennis.net) 
 
-| ![A picture containing text, newspaper Description automatically | **Winning the Mental Match Dr. Allen Fox** |
-| --- | --- |
-| generated](media_playing-winning-doubles-service-games/media/image14.jpeg) | Tennis is mentally the most difficult sport due to it's personal nature which makes winning and losing feel more important than |
-|  | they are. In this new book, Allen offers his proven solutions to problems such as choking, reducing stress, finishing matches, and |
-|  | developing confidence. Based on a lifetime of high level play and coaching success, it's a must for all competitive players. |
-|  |  |
-|  | [[ to |
-|  | Order]](http://www.amazon.com/Tennis-Winning-Mental-Allen-Fox/dp/0615407765/ref=sr_1_1?ie=UTF8&qid=1336083459&sr=8-1). |
+![A picture containing text, newspaper Description automatically generated](media_playing-winning-doubles-service-games/media/image14.jpeg)
 
+**Winning the Mental Match Dr. Allen Fox**
 
-| ![Text Description automatically | Winning may not be everything, but Dr. Allen Fox points out that, if we |
-| --- | --- |
-| generated](media_playing-winning-doubles-service-games/media/image15.jpeg) | losing. In his new book, The Winner's Mind, Allen lays out an original |
-|  | step-by-step plan for succeeding at any of life's endeavors, based on |
-|  | his first hand and very personal observations of the careers of both |
-|  | world-class tennis players and successful businessman. The bottom line |
-|  | is that even if you are not a born champion\--and only a tiny percentage |
-|  | of us are\--you can still use the success strategies of champions to |
-|  | tilt the odds in your favor. Writing with brutal honesty and dry humor, |
-|  | Fox lays out the common mental characteristics of winners in sports and |
-|  | in life. He explains the critical role of intellect over emotion. He |
-|  | analyzes the struggle between ambition and fear and the insidious and |
-|  | pervasive fear of failure that undermines so many of us. He then outline |
-|  | how to confront and overcome these fears in your life and career, even |
-|  | when they are initially subconscious. Must reading from one of the great |
-|  | thinkers in tennis, and a Renaissance Man in life. [[ to |
-|  | Order]](http://www.tennis-warehouse.com/descpage-MIND.html). |
-|  |  |
-|  | To purchase this book you can also send a check for \$17.95 to Allen |
-|  | Fox, 1120 Inverness Place, San Luis Obispo, CA. 93401. The price |
-|  | includes shipping. |
+Tennis is mentally the most difficult sport due to it's personal nature which makes winning and losing feel more important than
 
+they are. In this new book, Allen offers his proven solutions to problems such as choking, reducing stress, finishing matches, and
 
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![A person holding a tennis racket Description automatically                                                                                                                          Allen Fox PhD is a former world class player, a coach, a
-  generated](media_playing-winning-doubles-service-games/media/image16.gif)                                                                                                                                                         insightful analysts in modern tennis. A top 10 American
-                                                                                                                                                                                        player from the glory days before Open tennis, Fox
-                                                                                                                                                                                        played many of the legendary greats, among them Roy
-                                                                                                                                                                                        Emerson, Rod Laver, Stan Smith, and Arthur Ashe. At
-                                                                                                                                                                                        Pepperdine he developed the men's tennis program into
-                                                                                                                                                                                        an elite contender for national titles, and gave Brad
-                                                                                                                                                                                        Gilbert the insights that became the foundation for
-                                                                                                                                                                                        \"Winning Ugly\". His book Think to Win is a modern
-                                                                                                                                                                                        classic. He has also starred in a series of acclaimed
-                                                                                                                                                                                        videos, including Pro Secrets of Match Play and Allen
-                                                                                                                                                                                        Fox's Ultimate Tennis Lesson.
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- --------------------------------------------------------
+developing confidence. Based on a lifetime of high level play and coaching success, it's a must for all competitive players.
 
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[[ to
+
+Order]](http://www.amazon.com/Tennis-Winning-Mental-Allen-Fox/dp/0615407765/ref=sr_1_1?ie=UTF8&qid=1336083459&sr=8-1).
+
+![Text Description automatically generated](media_playing-winning-doubles-service-games/media/image15.jpeg)
+
+Winning may not be everything, but Dr. Allen Fox points out that, if we
+
+losing. In his new book, The Winner's Mind, Allen lays out an original
+
+step-by-step plan for succeeding at any of life's endeavors, based on
+
+his first hand and very personal observations of the careers of both
+
+world-class tennis players and successful businessman. The bottom line
+
+is that even if you are not a born champion--and only a tiny percentage
+
+of us are--you can still use the success strategies of champions to
+
+tilt the odds in your favor. Writing with brutal honesty and dry humor,
+
+Fox lays out the common mental characteristics of winners in sports and
+
+in life. He explains the critical role of intellect over emotion. He
+
+analyzes the struggle between ambition and fear and the insidious and
+
+pervasive fear of failure that undermines so many of us. He then outline
+
+how to confront and overcome these fears in your life and career, even
+
+when they are initially subconscious. Must reading from one of the great
+
+thinkers in tennis, and a Renaissance Man in life. [[ to
+
+Order]](http://www.tennis-warehouse.com/descpage-MIND.html).
+
+To purchase this book you can also send a check for $17.95 to Allen
+
+Fox, 1120 Inverness Place, San Luis Obispo, CA. 93401. The price
+
+includes shipping.
+
+![A person holding a tennis racket Description automatically                                                                                                                          Allen Fox PhD is a former world class player, a coach, a generated](media_playing-winning-doubles-service-games/media/image16.gif)                                                                                                                                                         insightful analysts in modern tennis. A top 10 American
+player from the glory days before Open tennis, Fox
+played many of the legendary greats, among them Roy
+Emerson, Rod Laver, Stan Smith, and Arthur Ashe. At
+Pepperdine he developed the men's tennis program into
+an elite contender for national titles, and gave Brad
+Gilbert the insights that became the foundation for
+"Winning Ugly". His book Think to Win is a modern
+classic. He has also starred in a series of acclaimed
+videos, including Pro Secrets of Match Play and Allen
+Fox's Ultimate Tennis Lesson.

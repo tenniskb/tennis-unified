@@ -2,15 +2,11 @@
 
 ### Keith Hayes
 
-------------------------------------------------------------------------
+--
 
-  --
+--
 
-  --
-
-![A person and a child holding tennis rackets Description automatically
-generated with medium
-confidence](media_family-tennis/media/image1.jpg)
+![A person and a child holding tennis rackets Description automatically generated with medium confidence](media_family-tennis/media/image1.jpg)
 
 **How is it the sport for life can tear tennis families apart?**
 
@@ -25,7 +21,7 @@ opponents had figured out that they could lob over the wife whenever her
 husband charged in on his serve. Later that afternoon, I tried to
 console her as she sat glumly beneath a tree.
 
-\"That's the last time,\" was all she said, and the sheer hatred in her
+"That's the last time," was all she said, and the sheer hatred in her
 voice and expression chilled me. Within months, the two were divorced.
 
 Tennis can be just as brutal on parents and their kids - especially
@@ -37,9 +33,7 @@ family. Mom tries to teach Brittany, but Brittany just ignores her and
 talks back. Johnny and his dad play a set, and by two-all they're ready
 to choke each other.
 
-![A couple of people stand near each other holding tennis rackets
-Description automatically generated with low
-confidence](media_family-tennis/media/image2.jpg)
+![A couple of people stand near each other holding tennis rackets Description automatically generated with low confidence](media_family-tennis/media/image2.jpg)
 
 Love off the court - and also on??
 
@@ -61,15 +55,13 @@ also understood that doing so would not have helped our relationship.
 Meanwhile, I didn't want to hit the ball without purpose because Ami
 couldn't control it as well as I could.
 
-As a tennis instructor, I'm used to students trying to \"beat\" me. I
+As a tennis instructor, I'm used to students trying to "beat" me. I
 hit the ball smoothly and evenly right to them and they play out their
 little fantasy by running me all over the countryside. If people want to
 pay me for the thrill, that's fine. But not when I'm off the clock and
-with my family\--and especially not on an ongoing basis.
+with my family--and especially not on an ongoing basis.
 
-![A couple of girls playing tennis Description automatically generated
-with low
-confidence](media_family-tennis/media/image3.webp)
+![A couple of girls playing tennis Description automatically generated with low confidence](media_family-tennis/media/image3.webp)
 
 **Collaborative goals to break rally records: the secret to family
 tennis, and also a great teaching drill.**
@@ -101,9 +93,7 @@ doing anything with someone you love? Meeting your own needs, or
 building a relationship? If I want to try to blast someone's brains
 out, I'll call up another player my own level.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_family-tennis/media/image4.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_family-tennis/media/image4.webp)
 
 **The stronger player can get an aerobic benefit and work on footwork
 and form.**
@@ -135,11 +125,9 @@ player and it hasn't hurt my game a bit. It got me into better shape
 and it actually helped to prepare me for steady players I might face
 later in competition.
 
-![A couple of men holding tennis rackets Description automatically
-generated with medium
-confidence](media_family-tennis/media/image5.jpg)
+![A couple of men holding tennis rackets Description automatically generated with medium confidence](media_family-tennis/media/image5.jpg)
 
-Record holders Angelo and Ettore Rosetti: 25,944 hits\--no fights.
+Record holders Angelo and Ettore Rosetti: 25,944 hits--no fights.
 
 After all, how many of my opponents could claim to have kept a single
 ball in play for over 600 shots? Most importantly, Ami and I are still
@@ -162,23 +150,32 @@ Rosetti brothers. Identical twins Angelo and Ettore hold the world
 record at 25,944. It took them fourteen and a half hours and they never
 fought once.
 
-| ![A person smiling for the camera Description automatically generated with medium | USPTA instructor Keith Hayes attended Pepperdine |
-| --- | --- |
-| confidence](media_family-tennis/media/image6.jpeg) | Tennis Coach Allen Fox and became a counselor at his |
-|  | summer tennis camps, beginning a tennis teaching |
-|  | career - and a friendship with Allen - that has |
-|  | continued ever since. After Pepperdine, Keith went to |
-|  | work in the San Francisco Bay Area advertising and |
-|  | graphic design industries. Later he also became an |
-|  | English teacher. As head coach of the Marin Catholic |
-|  | High School women's tennis team, Keith won |
-|  | back-to-back Division II North Coast Section titles |
-|  | in 2008 and 2009. When he's not teaching tennis, |
-|  | Keith continues to work as a freelance writer and |
-|  | designer. In addition to Tennisplayer.net, his |
-|  | stories have also appeared in TENNIS magazine. |
-|  |  |
-|  |  |
+![A person smiling for the camera Description automatically generated with medium confidence](media_family-tennis/media/image6.jpeg)
 
+USPTA instructor Keith Hayes attended Pepperdine
 
-------------------------------------------------------------------------
+Tennis Coach Allen Fox and became a counselor at his
+
+summer tennis camps, beginning a tennis teaching
+
+career - and a friendship with Allen - that has
+
+continued ever since. After Pepperdine, Keith went to
+
+work in the San Francisco Bay Area advertising and
+
+graphic design industries. Later he also became an
+
+English teacher. As head coach of the Marin Catholic
+
+High School women's tennis team, Keith won
+
+back-to-back Division II North Coast Section titles
+
+in 2008 and 2009. When he's not teaching tennis,
+
+Keith continues to work as a freelance writer and
+
+designer. In addition to Tennisplayer.net, his
+
+stories have also appeared in TENNIS magazine.

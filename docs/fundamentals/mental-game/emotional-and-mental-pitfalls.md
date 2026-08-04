@@ -4,11 +4,7 @@
 
 ### Ben Loeb
 
-------------------------------------------------------------------------
-
-![A picture containing fence, person, outdoor, player Description
-automatically
-generated](media_emotional-and-mental-pitfalls/media/image1.jpg)
+![A picture containing fence, person, outdoor, player Description automatically generated](media_emotional-and-mental-pitfalls/media/image1.jpg)
 
 **How can you as a player or a coach work to overcome emotional
 obstacles faced in competitive matches?**
@@ -22,7 +18,7 @@ overcome in that pursuit.
 
 **The first pitfall is learned helplessness.**
 Learned helplessness is the belief that you can't change the course of
-negative events\--that failure is inevitable and insurmountable. This is
+negative events--that failure is inevitable and insurmountable. This is
 an ego protection mechanism.
 
 When an athlete sees himself as victimized by the circumstances, he
@@ -52,9 +48,7 @@ fate. They feel they have influence on an outcome even if they cannot
 control it. When circumstances that affect their performance arise, they
 need to react to that challenge.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_emotional-and-mental-pitfalls/media/image2.jpg)
+![A person playing tennis Description automatically generated with medium confidence](media_emotional-and-mental-pitfalls/media/image2.jpg)
 
 **Fear of failure can damage self-esteem.**
 
@@ -96,9 +90,7 @@ them.**
 
 - **Third, set performance goals to move beyond fear of failure.**
 
-![A picture containing person, outdoor, player, sport Description
-automatically
-generated](media_emotional-and-mental-pitfalls/media/image3.jpg)
+![A picture containing person, outdoor, player, sport Description automatically generated](media_emotional-and-mental-pitfalls/media/image3.jpg)
 
 **Most athletes in all sports have struggled with doubt and fear of
 failure.**
@@ -125,13 +117,13 @@ If the athlete fears they cannot handle it, they may back off from going
 all in to play a top position.**
 
 **The solution? Focus on maximizing your own potential than
-\"winning\" itself.** See yourself as a successful
+"winning" itself.** See yourself as a successful
 person if you gave your best and competed hard throughout. Separate
-\"self-worth\" from the outcome.
+"self-worth" from the outcome.
 
 You should still see yourself as worthy whether you win or lose. Be
 willing to emotionally risk going to a higher level of expectation to
-explore the unknown. This is a way of life for those with a \"winning\"
+explore the unknown. This is a way of life for those with a "winning"
 attitude.
 
 **Perfectionism**
@@ -147,9 +139,7 @@ skating, diving, or cheerleading are geared toward striving for perfect
 scores. Some of these athletes are never satisfied, because it's nearly
 impossible to be perfect.
 
-![A picture containing text, person, sport, track and field Description
-automatically
-generated](media_emotional-and-mental-pitfalls/media/image4.jpg)
+![A picture containing text, person, sport, track and field Description automatically generated](media_emotional-and-mental-pitfalls/media/image4.jpg)
 
 **Some sports require perfection to succeed---but not tennis.**
 
@@ -159,25 +149,23 @@ outcome you are likely to lose roughly as many points as you win.
 
 **Failure to be perfect can result in burnout or a drop in motivation
 to achieve.** According to Randy Frost, a leading
-researcher on perfection, **\"Striving for perfection is fine. The issue
+researcher on perfection, **"Striving for perfection is fine. The issue
 is how you interpret your own inevitable mistakes and failings. Do they
-make you feel bad about yourself in a global sense?\"**
+make you feel bad about yourself in a global sense?"**
 
 **To avoid the drawbacks of perfectionism, remember the following
 points.**
 
 - **Mistakes are part of the game and part of the
-  process.**
+process.**
 
 - **How you deal with mistakes is critical to how much stress you
-  incur and how much enjoyment you experience.**
+incur and how much enjoyment you experience.**
 
 - **It's okay to strive for personal excellence but realize that you
-  will be imperfect along the way.**
+will be imperfect along the way.**
 
-![A person smiling for the camera Description automatically generated
-with medium
-confidence](media_emotional-and-mental-pitfalls/media/image5.jpeg)
+![A person smiling for the camera Description automatically generated with medium confidence](media_emotional-and-mental-pitfalls/media/image5.jpeg)
 
 Ben Loeb has been the varsity tennis coach for the boys' and girls'
 teams at Rock Bridge High School in Columbia, Missouri for over 30
@@ -188,8 +176,7 @@ and has used the principles he has developed to help hundreds of players
 to overcome the mental and emotional challenges of playing winning
 competitive tennis.
 
-![A cover of a book Description automatically generated with medium
-confidence](media_emotional-and-mental-pitfalls/media/image6.jpeg)
+![A cover of a book Description automatically generated with medium confidence](media_emotional-and-mental-pitfalls/media/image6.jpeg)
 
 **Next-Level Coaching!**
 
@@ -201,5 +188,3 @@ and plans of action to help any player our coach use sports psychology
 to reach the next level.
 
 To Order Next-Level Coaching, [!](https://www.amazon.com/Next-Level-Coaching-Psychology-Student-Athlete-Performance/dp/1632991772/ref=sr_1_1?crid=2XO9EVQF6XBZA&keywords=ben+loeb&qid=1552685920&s=gateway&sprefix=Ben+Loeb%2Caps%2C187&sr=8-1)
-
-------------------------------------------------------------------------

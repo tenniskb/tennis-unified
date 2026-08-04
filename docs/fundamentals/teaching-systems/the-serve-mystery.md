@@ -5,8 +5,7 @@ Hit Up or Hit Down?**
 
 **John Yandell**
 
-![A person playing tennis Description automatically generated with low
-confidence](media_the-serve-mystery/media/image1.webp)
+![A person playing tennis Description automatically generated with low confidence](media_the-serve-mystery/media/image1.webp)
 
 **A slight downward angle off the racket, but what does that mean in
 terms of intention?**
@@ -37,9 +36,7 @@ The serve motion from the racket drop to the contact is complex. It's
 affected by multiple factors. Whatever the racket head angle at contact,
 the various motions until just before contact are all upward.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_the-serve-mystery/media/image2.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_the-serve-mystery/media/image2.webp)
 
 **Upward motion components: legs, torso rotation, right shoulder
 elevation, elbow extension, arm rotation.**
@@ -73,9 +70,7 @@ of the hitting arm in the shoulder joint. At contact, the arm is not
 straight up and down, or perpendicular to the court. It's tilted
 slightly forward.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_the-serve-mystery/media/image3.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_the-serve-mystery/media/image3.webp)
 
 **The hitting arm tilts slightly forward past perpendicular at
 contact.**
@@ -99,12 +94,10 @@ Why? Because this forward arm tilt is required to reach the location of
 the tossed ball. To a greater or lesser extent, all the players are
 tossing the ball forward into the court. At contact, the ball is
 anywhere from a few inches up to a foot inside the baseline. Or if we
-look at a player like John Isner, up to 4 feet inside the baseline\--as
+look at a player like John Isner, up to 4 feet inside the baseline--as
 Jim Fawcette's measurements show.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_the-serve-mystery/media/image4.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_the-serve-mystery/media/image4.webp)
 
 **Upward motion components: legs, torso rotation, right shoulder
 elevation, elbow extension, arm rotation**.
@@ -136,9 +129,7 @@ again, because it has to be to reach the ball.
 
 **What About Rafa Though?**
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_the-serve-mystery/media/image5.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_the-serve-mystery/media/image5.webp)
 
 **A toss contact point over the head with minimal forward arm angle.**
 
@@ -157,7 +148,7 @@ downward hit. We know Rafa is touchy about taking advice on his
 serve---and sued a Spanish coach who went public about filming him and
 giving him input. But tossing the ball slightly more into the court and
 making contact more in front might be a suggestion for him to
-consider\...
+consider...
 
 **Conclusion**
 
@@ -174,7 +165,9 @@ If you are having trouble with your percentages, and especially if you
 are hitting faults into the net, try focusing on the dominant upward
 dimensions and then reaching forward to the ball at contact.
 
-![link](media_the-serve-mystery/media/image6.jpeg)
+![Video demonstration](media_the-serve-mystery/media/image6.jpeg)
+
+*Video demonstration — the original video for this article was hosted on TennisPlayer.net.*
 
 John Yandell is widely acknowledged as one of the leading videographers
 and students of the modern game of professional tennis. His high speed

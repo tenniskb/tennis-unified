@@ -28,8 +28,7 @@ Again you can specify that one or both players have to get around every
 ball and hit only forehands, which helps facilitate movement and
 positioning.
 
-![A person holding a tennis racket Description automatically
-generated](media_ultimate-drill-games-groundstroke-diagonals/media/image1.jpeg)
+![A person holding a tennis racket Description automatically generated](media_ultimate-drill-games-groundstroke-diagonals/media/image1.jpeg)
 
 Jorge Capestany is one of eleven people worldwide that have earned the
 distinction of Master Professional with the USPTA and International
@@ -54,18 +53,27 @@ and Jorge has been the personal coach to many nationally ranked juniors
 in the US including three national champions. He speaks regularly at
 coaching conventions around the world.
 
-| +---------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+ |  |  |  |
-| --- | --- | --- | --- |
-|  | **Tennisplayer Forum** | ![forum](media_ultimate-drill-games-groundstroke-diagonals/media/image2.gif) |  |
-| +---------------------------------------------------------------------------------------------------------------------------------------+ |  |  |  |
-|  | **Let's Talk About this Article!\ |  |  |
-|  | \ |  |  |
-|  | Share Your Thoughts with our Subscribers and Authors!\ |  |  |
-|  | \ |  |  |
-|  | [[Click |  |  |
-|  | Here]](https://www.tennisplayer.net/bulletin/forum/tennisplayer/81726-ultimate-drill-games-cuban-davis-cup?view=stream)** |  |  |
-| +=======================================================================================================================================+====================================================================================================================================================================================================+ |  |  |  |
++---------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
++---------------------------------------------------------------------------------------------------------------------------------------+
+
++=======================================================================================================================================+====================================================================================================================================================================================================+
+
+**Tennisplayer Forum**
+
+**Let's Talk About this Article!\
+
+\
+
+Share Your Thoughts with our Subscribers and Authors!\
+
+\
+
+[[Click
+
+Here]](https://www.tennisplayer.net/bulletin/forum/tennisplayer/81726-ultimate-drill-games-cuban-davis-cup?view=stream)**
+
+![forum](media_ultimate-drill-games-groundstroke-diagonals/media/image2.gif)
 
 © Tennisplayer 2019. All Rights Reserved.\
 \

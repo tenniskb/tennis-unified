@@ -4,14 +4,11 @@
 
 ### Craig Cignarelli
 
-------------------------------------------------------------------------
-
-![A person playing tennis Description automatically
-generated](media_situational-and-scenario-analysis-part-1/media/image1.webp)
+![A person playing tennis Description automatically generated](media_situational-and-scenario-analysis-part-1/media/image1.webp)
 
 **Learning to win means learning to adapt.**
 
-Young players on tour talk about \"learning to win.\" Learning to win
+Young players on tour talk about "learning to win." Learning to win
 starts with exposure to the various game styles in the pro world, a big
 change from the much more limited exposure to high level tennis that is
 possible as a junior competitor.
@@ -35,7 +32,7 @@ own experience.
 
 **We'll assume the scenarios all occur on a medium paced hardcourt,
 with an average ball bounce height. They are far from exhaustive, and
-the goal should not be to memorize the \"answers.\" The goal is to learn
+the goal should not be to memorize the "answers." The goal is to learn
 techniques for assessing situations and creating solutions for the
 myriad of interesting problems you will encounter in your playing
 career.**
@@ -46,9 +43,7 @@ opponents. You will find that thinking on your feet and creating new
 scenarios that lead to victories is tremendously
 satisfying.**
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_situational-and-scenario-analysis-part-1/media/image2.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_situational-and-scenario-analysis-part-1/media/image2.webp)
 
 **What if your opponent is like Safin, powerful and consistent?**
 
@@ -87,9 +82,7 @@ winners will often frustrate a more powerful opponent and can lead to a
 stream of errors that swing a close match in your
 favor.**
 
-![A picture containing sport, athletic game, tennis, court Description
-automatically
-generated](media_situational-and-scenario-analysis-part-1/media/image3.webp)
+![A picture containing sport, athletic game, tennis, court Description automatically generated](media_situational-and-scenario-analysis-part-1/media/image3.webp)
 
 **What if your opponent has you pinned with a superior backhand?**
 
@@ -98,7 +91,7 @@ backhand corner and you are stuck hitting inside out forehands to her
 backhand and are losing the battle. Pro Example: Venus Williams.
 
 **If you are pinned in an unfavorable exchange, you have to change the
-diagonal of the rally.** **[[If your forehand is
+diagonal of the rally.** **[If your forehand is
 your strength, hitting a heavy, deep topspin inside in forehand will
 probably force your opponent to go crosscourt creating the
 forehand-to-forehand rally you desire. The height and spin will also
@@ -106,9 +99,9 @@ prevent your opponent from creating an angle, since you are giving her a
 ball above the hitting zone.] [You should attempt to make this
 switch when the ball is closer to the middle than the sideline, so you
 have more room for your shot and so your recovery distance is
-shorter.]]**
+shorter.]**
 
-**[[You may also try an inside out forehand angle with a little less
+**[You may also try an inside out forehand angle with a little less
 pace, to try to get the ball low and make the opponent contact the ball
 below the level of the net. The opponent will have to use less pace, and
 hit up, generally hitting this ball crosscourt.] [This can take
@@ -116,7 +109,7 @@ the pressure off the exchange. It may give you an opening to hit an
 inside in winner. Another option is to hit a down the line slice
 approach shot off the same ball, while your opponent attempts to recover
 all the way back across their baseline to pass
-you.]]**
+you.]**
 
 **You can also try to hit a drive down the middle to see if your
 opponent will choose the crosscourt forehand, giving you the
@@ -131,9 +124,7 @@ retreats or try to take the ball on the rise. If she back ups, look for
 a shorter, looping ball and move forward and cut it off with a swinging
 volley.**
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_situational-and-scenario-analysis-part-1/media/image4.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_situational-and-scenario-analysis-part-1/media/image4.webp)
 
 **On tough low returns, stop, hit an approach, then finish.**
 
@@ -150,15 +141,13 @@ Andre Agassi.
 If your opponent is handling your serve and making you hit tough first
 volleys, you should begin to hit more into the body serves to take away
 his power and angles. Since your opponent is driving low to the feet,
-you may choose to \"stop and pop.\" By this I mean wait for the return
+you may choose to "stop and pop." By this I mean wait for the return
 to bounce and take it as an approach shot since it will be a short ball.
 Close and finish from there.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_situational-and-scenario-analysis-part-1/media/image5.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_situational-and-scenario-analysis-part-1/media/image5.webp)
 
-**Against fast, consistent players, the match has to get shorter\--or
+**Against fast, consistent players, the match has to get shorter--or
 longer.**
 
 You should also be mixing up your pace, depth, and spins on serves to
@@ -182,8 +171,7 @@ and look to finish at the net on short balls rather than hitting
 groundstroke winners. Your plan is to make the opponent hit four passing
 shots before you can hit four volley or overhead winners.
 
-![A person playing tennis Description automatically generated with low
-confidence](media_situational-and-scenario-analysis-part-1/media/image6.webp)
+![A person playing tennis Description automatically generated with low confidence](media_situational-and-scenario-analysis-part-1/media/image6.webp)
 
 **How do you counter great backhand angles?**
 
@@ -206,9 +194,7 @@ court to retrieve the slice. A third choice: hit high and deep to the
 backhand as the angle is more difficult to hit off a high ball than one
 in the hitting zone.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_situational-and-scenario-analysis-part-1/media/image7.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_situational-and-scenario-analysis-part-1/media/image7.webp)
 
 **Facing the big bomb, adjust your position and/or float the return.**
 
@@ -230,9 +216,7 @@ frustration will set in quickly as they are forced to play every point.
 but your opponent seems to be getting in a little more often than you
 and she is winning a close match. Pro Example: Amelie Mauresmo.
 
-![A person holding a tennis racket Description automatically generated
-with medium
-confidence](media_situational-and-scenario-analysis-part-1/media/image8.webp)
+![A person holding a tennis racket Description automatically generated with medium confidence](media_situational-and-scenario-analysis-part-1/media/image8.webp)
 
 **What if your opponent is beating you to the net?**
 
@@ -248,15 +232,14 @@ on even if your results are mixed. See how your opponent handles this
 variety. In the extreme case, you can become a temporary serve and
 volley player even if you are normally a committed baseliner.
 
-In all these scenarios, you are trying to assess\--and implement\--your
+In all these scenarios, you are trying to assess--and implement--your
 best chance to win a particular match against a particular opponent.
 That's the underlying theme. It's learning to think about your match
 play from a broader, more flexible and creative perspective than most
 players ever develop in the juniors. Stay tuned for more situational
 play examples in Part 2!
 
-![A person holding a tennis racket Description automatically
-generated](media_situational-and-scenario-analysis-part-1/media/image9.jpeg)
+![A person holding a tennis racket Description automatically generated](media_situational-and-scenario-analysis-part-1/media/image9.jpeg)
 
 Craig Cignarelli is one of the most prolific and successful
 developmental coaches in the country. His original analysis of
@@ -266,5 +249,5 @@ personally nurtured 4 junior players from the beginning of their careers
 who have gone on to achieve #1 national rankings. Currently he is
 working with a cadre of aspiring WTA and ATP players, as well as
 competitive juniors at all levels. Versed in 4 languages, Craig is
-completing his first book \"What Champions Know,\" which forms the basis
+completing his first book "What Champions Know," which forms the basis
 for his articles on Tennisplayer.

@@ -2,15 +2,11 @@
 
 ### Keith Hayes
 
-------------------------------------------------------------------------
+--
 
-  --
+--
 
-  --
-
-![A close-up of a person's feet Description automatically generated
-with low
-confidence](media_the-look/media/image1.jpg)
+![A close-up of a person's feet Description automatically generated with low confidence](media_the-look/media/image1.jpg)
 
 **Can Roger Federer's shoes make you a player?**
 
@@ -20,27 +16,22 @@ player?
 
 I coach a high school team and my number one player definitely has The
 Look. He wears the exact same shoes as Roger Federer (List price:
-\$120), the same socks (\$8/pair), the same shirts (\$80 apiece) and the
-same shorts (\$50).
+$120), the same socks ($8/pair), the same shirts ($80 apiece) and the
+same shorts ($50).
 
 He's tall and handsome, he walks with a swagger and he carries a
-collection of state-of-the-art Wilson rackets (\$179) in a
-state-of-the-art Wilson racket bag (\$60).
+collection of state-of-the-art Wilson rackets ($179) in a
+state-of-the-art Wilson racket bag ($60).
 
 In case you're wondering, a player doesn't dress exactly like Roger
 Federer by accident. Anyone can walk into a sporting goods store and buy
 a Nike polo shirt, but good luck finding the one that Federer wears with
-the little \"RF\" symbol below the bottom button - a shirt that performs
+the little "RF" symbol below the bottom button - a shirt that performs
 no better than the one in the sporting goods store but which costs over
 twice as much.
 
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                   ![A picture containing person Description automatically
-   generated](media_the-look/media/image2.jpg)
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------
-                                             **Have you got the shirt with the logo under button number three?**
-
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------
+![A picture containing person Description automatically generated](media_the-look/media/image2.jpg)
+**Have you got the shirt with the logo under button number three?**
 
 No, in order to dress just like Roger Federer, a player must (a) have
 studied Federer closely enough to discern his exact equipment, (b) have
@@ -60,17 +51,12 @@ the slightest distraction can send him into an irreversible tailspin.
 Although he loses almost every match he plays, his most spectacular
 losses come against awkward opponents - opponents who don't have The
 Look. Meanwhile, when he loses to a player who does have The Look, he
-feels okay about the result because at least it was \"good tennis.\" In
+feels okay about the result because at least it was "good tennis." In
 other words, losing isn't always losing; if you look good while losing,
 then, in a way, you still win.
 
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------
-                                      ![A person holding a tennis racket Description automatically generated with medium
-   confidence](media_the-look/media/image3.jpg)
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                  **You can act like Roddick, but can you compete like him?**
-
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person holding a tennis racket Description automatically generated with medium confidence](media_the-look/media/image3.jpg)
+**You can act like Roddick, but can you compete like him?**
 
 Even this player's on-court meltdowns have The Look; he curses at just
 the right moments, he rolls his eyes skyward and he throws up his hands
@@ -94,13 +80,8 @@ competed against - and I copied their clothes, their strokes, and even
 their mannerisms. I walked like a pro and I talked like a pro, but I
 didn't play or compete like one.
 
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![A white shirt with a red tie Description automatically generated with medium
-  confidence](media_the-look/media/image4.jpg)
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------
-  **As a junior, I badgered my way to Fila pinstripes.**
-
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------
+![A white shirt with a red tie Description automatically generated with medium confidence](media_the-look/media/image4.jpg)
+**As a junior, I badgered my way to Fila pinstripes.**
 
 I've found that having The Look guarantees one thing and only one
 thing: that a player will have The Look. People who have The Look may
@@ -123,13 +104,8 @@ Upon sober reflection, I concluded that my game needed work, and that it
 was wiser to develop my skills than my image. That decision ushered in
 my Shabby Look.
 
-  -------------------------------------------------------------------------------------------------------------------------------------------
-                                      ![A picture containing clothing, footwear Description automatically
-   generated](media_the-look/media/image5.jpg)
-  -------------------------------------------------------------------------------------------------------------------------------------------
-                                           **High top sneakers - a key element in the Shabby look**
-
-  -------------------------------------------------------------------------------------------------------------------------------------------
+![A picture containing clothing, footwear Description automatically generated](media_the-look/media/image5.jpg)
+**High top sneakers - a key element in the Shabby look**
 
 During my Shabby period, I worked hard to overhaul my flimsy tennis game
 but I also made a point of looking as sloppy and as unkempt as possible
@@ -148,13 +124,8 @@ of sorts who deceived opponents into thinking he was worse than he
 actually was. I won a few more matches with the Shabby Look, but I was
 still decidedly posing.
 
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                 ![A person holding a tennis racket Description automatically
-   generated](media_the-look/media/image6.jpg)
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                        Today I'm at peace with the Respectable Look.
-
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person holding a tennis racket Description automatically generated](media_the-look/media/image6.jpg)
+Today I'm at peace with the Respectable Look.
 
 I stayed with the Shabby Look through college and for the next several
 years. While I never made a conscious decision to abandon the Shabby
@@ -187,13 +158,8 @@ have an opponent play his hardest anyway. If I lose, I can deal with it,
 but I'd rather try to beat an opponent at his best than steal the match
 because I somehow suckered him into taking it too lightly.
 
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![A person in a white lab coat Description automatically generated with medium
-  confidence](media_the-look/media/image7.jpg)
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------
-  **Your Look should only matter to you.**
-
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person in a white lab coat Description automatically generated with medium confidence](media_the-look/media/image7.jpg)
+**Your Look should only matter to you.**
 
 **My journey has led me to my current look, but the real point is that
 the clothes I wear on the court shouldn't matter to anyone but me. I
@@ -218,23 +184,32 @@ wearing it with confidence.**
 finally started showing me the respect I tried so desperately to earn
 when I was young and searching for a Look.**
 
-| ![A person smiling for the camera Description automatically generated with medium | USPTA instructor Keith Hayes attended Pepperdine |
-| --- | --- |
-| confidence](media_the-look/media/image8.jpeg) | Tennis Coach Allen Fox and became a counselor at his |
-|  | summer tennis camps, beginning a tennis teaching |
-|  | career - and a friendship with Allen - that has |
-|  | continued ever since. After Pepperdine, Keith went to |
-|  | work in the San Francisco Bay Area advertising and |
-|  | graphic design industries. Later he also became an |
-|  | English teacher. As head coach of the Marin Catholic |
-|  | High School women's tennis team, Keith won |
-|  | back-to-back Division II North Coast Section titles |
-|  | in 2008 and 2009. When he's not teaching tennis, |
-|  | Keith continues to work as a freelance writer and |
-|  | designer. In addition to Tennisplayer.net, his |
-|  | stories have also appeared in TENNIS magazine. |
-|  |  |
-|  |  |
+![A person smiling for the camera Description automatically generated with medium confidence](media_the-look/media/image8.jpeg)
 
+USPTA instructor Keith Hayes attended Pepperdine
 
-------------------------------------------------------------------------
+Tennis Coach Allen Fox and became a counselor at his
+
+summer tennis camps, beginning a tennis teaching
+
+career - and a friendship with Allen - that has
+
+continued ever since. After Pepperdine, Keith went to
+
+work in the San Francisco Bay Area advertising and
+
+graphic design industries. Later he also became an
+
+English teacher. As head coach of the Marin Catholic
+
+High School women's tennis team, Keith won
+
+back-to-back Division II North Coast Section titles
+
+in 2008 and 2009. When he's not teaching tennis,
+
+Keith continues to work as a freelance writer and
+
+designer. In addition to Tennisplayer.net, his
+
+stories have also appeared in TENNIS magazine.

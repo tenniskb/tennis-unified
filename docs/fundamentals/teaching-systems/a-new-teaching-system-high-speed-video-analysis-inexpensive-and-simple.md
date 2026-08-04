@@ -2,11 +2,9 @@
 
 ### John Yandell
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_a-new-teaching-system-high-speed-video-analysis-inexpensive-and-simple/media/image1.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_a-new-teaching-system-high-speed-video-analysis-inexpensive-and-simple/media/image1.webp)
 
-**A high speed file\--the kind you can create for yourself.**
+**A high speed file--the kind you can create for yourself.**
 
 Do you think high speed video analysis is an exotic, costly process you
 (only) wish you could apply in your game? What about doing side by side
@@ -23,17 +21,16 @@ yourself. Then in the next article we'll talk about how to compare
 yourself to top players and evaluate the key positions in your strokes.
 
 The cost? All you need is a laptop plus one of amazing new generation
-high speed cameras, some with prices around \$300. Yep, \$300.
+high speed cameras, some with prices around $300. Yep, $300.
 
-To do the side by side, you'll need an additional \$30 software upgrade
+To do the side by side, you'll need an additional $30 software upgrade
 from Apple to Quick Time Pro. (You already have regular Quick Time if
 you can see the Stroke Archive.)
 
-![A picture containing wall Description automatically
-generated](media_a-new-teaching-system-high-speed-video-analysis-inexpensive-and-simple/media/image2.webp)
+![A picture containing wall Description automatically generated](media_a-new-teaching-system-high-speed-video-analysis-inexpensive-and-simple/media/image2.webp)
 
-**John McEnroe used video analysis\--and footage of himself as a
-model\--to recover his serving motion.**
+**John McEnroe used video analysis--and footage of himself as a
+model--to recover his serving motion.**
 
 And, of course, you need your invaluable subscription to Tennisplayer to
 download the pro model clips. Plus the ability to follow a few simple
@@ -62,11 +59,9 @@ our sport, which has multiple basic strokes and an almost infinite
 number of possible variations. All of which require great technical
 precision.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_a-new-teaching-system-high-speed-video-analysis-inexpensive-and-simple/media/image3.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_a-new-teaching-system-high-speed-video-analysis-inexpensive-and-simple/media/image3.webp)
 
-**A common response: \"I had no idea what I was really doing!\"**
+**A common response: "I had no idea what I was really doing!"**
 
 In my own coaching work I have seen the magic of video with junior
 players, college players, and tour players, including players such as
@@ -87,7 +82,7 @@ it gets to be automatic. You can't talk your way through a forehand on
 set point. But you can visualize your way using positive imagery.
 
 Unfortunately the information in traditional tennis lessons comes in a
-different medium\--as a constant verbal barrage. Pros feed balls and
+different medium--as a constant verbal barrage. Pros feed balls and
 verbal tips. Over and over again, hour after lesson hour. A lot of
 effort and good intention is expended on both sides of the net, but
 sometimes players' games look exactly the same after years.
@@ -95,8 +90,8 @@ sometimes players' games look exactly the same after years.
 (For my article on the Myth of the Tennis Tip, [link](https://www.tennisplayer.net/members/avancedtennis/john_yandell/the_myth/the_myth_of_the_tennis_tip_images/the_myth_of_the_tennis_tip.html).)
 
 Video shifts the experience into a new dimension. Hundreds of times
-I've heard players say something like \"Oh, is that what I am really
-doing? Wow! I had no idea.\" Yet a teaching pro may have been describing
+I've heard players say something like "Oh, is that what I am really
+doing? Wow! I had no idea." Yet a teaching pro may have been describing
 the exact same problem to them for years.
 
 **Cameras**
@@ -106,27 +101,23 @@ film running through cameras at up to 240 frames a second. It was an
 instructional video with John McEnroe and Ivan Lendl. Check out the
 music videos that were the heart of that project. ([link](https://www.tennisplayer.net/members/music_videos/mac_lendl_walking/mac_lendl_walking_large.html).)
 
-![A white camera with a green light Description automatically generated
-with low
-confidence](media_a-new-teaching-system-high-speed-video-analysis-inexpensive-and-simple/media/image4.jpg)
+![A white camera with a green light Description automatically generated with low confidence](media_a-new-teaching-system-high-speed-video-analysis-inexpensive-and-simple/media/image4.jpg)
 
 One of the incredible Casio high speed cameras that allow anyone to film
 their tennis in high speed.
 
-In two days of filming, we burned through about \$75,000 of 35mm film
+In two days of filming, we burned through about $75,000 of 35mm film
 stock, not counting the cost of the cameras and crew. Over a decade
 later, I was at the opening of Arthur Ashe Stadium at the U.S. Open with
 the first high speed video system capable of storing footage on tape.
-Costs were now down to about \$5,000 a day!
+Costs were now down to about $5,000 a day!
 
-![A black camera with a green light Description automatically generated
-with medium
-confidence](media_a-new-teaching-system-high-speed-video-analysis-inexpensive-and-simple/media/image5.jpg)
+![A black camera with a green light Description automatically generated with medium confidence](media_a-new-teaching-system-high-speed-video-analysis-inexpensive-and-simple/media/image5.jpg)
 
 One of the original Casio cameras that allows manual control-still
 available on the web.
 
-And now? For \$300 you own the camera.
+And now? For $300 you own the camera.
 
 Although other companies have come into the market, Casio is the company
 that pioneered consumer high speed video with the Exilim line.
@@ -134,7 +125,7 @@ that pioneered consumer high speed video with the Exilim line.
 These cameras have the two characteristics you need to see your strokes
 clearly. The first is a high speed frame rate. Regular video is 30
 frames a second. But with 30 frames you don't have enough information
-to easily see what is happening\--you catch the contact on about 1 out
+to easily see what is happening--you catch the contact on about 1 out
 of 8 hits.
 
 The Casio cameras how will film at 240 frames a second or even faster.
@@ -147,15 +138,13 @@ shutter to stop the motion and see all those frames clearly. 1/1000 of a
 second is great for club players, though we use 1/2000 or higher for the
 swings of the pros whenever possible in our pro match filming.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_a-new-teaching-system-high-speed-video-analysis-inexpensive-and-simple/media/image6.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_a-new-teaching-system-high-speed-video-analysis-inexpensive-and-simple/media/image6.webp)
 
 **High speed indoor footage---grainy but still incredible.**
 
 The Casios can do both-film at a high frame rate with a high speed
 shutter. The EX-ZR200 is the starting point in the line, and it costs
-about \$300 on a site like Amazon. ([link](http://www.amazon.com/Casio-Exilim-Ex-zr200-Digital-Ex-zr200we/dp/B006596OUA/ref=sr_1_3?ie=UTF8&qid=1370386404&sr=8-3&keywords=casio+zr200).)
+about $300 on a site like Amazon. ([link](http://www.amazon.com/Casio-Exilim-Ex-zr200-Digital-Ex-zr200we/dp/B006596OUA/ref=sr_1_3?ie=UTF8&qid=1370386404&sr=8-3&keywords=casio+zr200).)
 
 With this particular camera you pick the frame rate. 240 frames is
 preferable, but even 120 frames a second will give you great
@@ -173,9 +162,7 @@ the right conditions, the camera will do everything you need.
 
 **Upgrade**
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_a-new-teaching-system-high-speed-video-analysis-inexpensive-and-simple/media/image7.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_a-new-teaching-system-high-speed-video-analysis-inexpensive-and-simple/media/image7.webp)
 
 Without a high speed shutter you only see blur.
 
@@ -184,7 +171,7 @@ investing more in the camera. The Casio EX-FH 25, for example. This
 camera is an incredible tool.
 
 Unfortunately it's been discontinued. But you can still get it on line.
-The problem is the cost keeps going up and they are now around \$1500. A
+The problem is the cost keeps going up and they are now around $1500. A
 few years ago that would seem like a ridiculously low price and to me.
 So I still think it's still a bargain. What makes the camera better is
 that it has greater light sensitivity.
@@ -201,7 +188,7 @@ was actually filmed at that convention.
 
 The picture may be somewhat grainy, but the teaching power is there,
 because you can still freeze the frames and see what is actually
-happening. And again the camera is the key\--not the analysis software.
+happening. And again the camera is the key--not the analysis software.
 
 I was at another indoor club recently that had spent thousands for a
 complete video system and software package. The goal was to provide
@@ -217,8 +204,7 @@ contact, all we could see was an extended blur. Frequently I have the
 exact same problem when players or coaches send me footage for possible
 analysis in Your Strokes.
 
-![A picture containing text Description automatically
-generated](media_a-new-teaching-system-high-speed-video-analysis-inexpensive-and-simple/media/image8.jpeg)
+![A picture containing text Description automatically generated](media_a-new-teaching-system-high-speed-video-analysis-inexpensive-and-simple/media/image8.jpeg)
 
 Use Class 10 storage cards. I like the 8 gig size.
 
@@ -238,7 +224,7 @@ You can get the cards in every size from 4 gig to 64 gigs. Personally,
 although it's not quite as economical, I like to use the smaller size
 cards and record one session or one player per card. Typically I use
 8gig cards-the brand is probably irrelevant. If you order them in bulk
-they are about \$10 or less per card.
+they are about $10 or less per card.
 
 Why not 64 gigs which allow you to save money? It's about keeping track
 of what you have filmed. If you label your cards and keep them
@@ -247,9 +233,7 @@ want it.
 
 **Camera Angles**
 
-![A picture containing athletic game, sport, tennis, court Description
-automatically
-generated](media_a-new-teaching-system-high-speed-video-analysis-inexpensive-and-simple/media/image9.webp)
+![A picture containing athletic game, sport, tennis, court Description automatically generated](media_a-new-teaching-system-high-speed-video-analysis-inexpensive-and-simple/media/image9.webp)
 
 **On the groundstrokes start with a three quarter front view and then
 move to the side.**
@@ -282,8 +266,7 @@ The card comes up on the screen. Open the card, create a folder and then
 drag the files to a folder on the desk top-it's harder to play video
 smoothly from an external source.
 
-![Graphical user interface Description automatically
-generated](media_a-new-teaching-system-high-speed-video-analysis-inexpensive-and-simple/media/image10.jpg)
+![Graphical user interface Description automatically generated](media_a-new-teaching-system-high-speed-video-analysis-inexpensive-and-simple/media/image10.jpg)
 
 **Drop the card into the slot and see yourself in high speed.**
 
@@ -317,9 +300,7 @@ cameras, recording at 240 frames per second. As with the compact
 cameras, that rate can be enough to accurately assess what is actually
 happening in the critical moments of tennis strokes.
 
-![A picture containing tennis, sport, athletic game, road Description
-automatically
-generated](media_a-new-teaching-system-high-speed-video-analysis-inexpensive-and-simple/media/image11.webp)
+![A picture containing tennis, sport, athletic game, road Description automatically generated](media_a-new-teaching-system-high-speed-video-analysis-inexpensive-and-simple/media/image11.webp)
 
 **Modern phones can shoot high speed video at up to 240 frames a second,
 but with important limitations.**
@@ -370,9 +351,7 @@ the pros! Stay tuned!
 
 # 
 
-![A person smiling for the camera Description automatically generated
-with medium
-confidence](media_a-new-teaching-system-high-speed-video-analysis-inexpensive-and-simple/media/image12.jpeg)
+![A person smiling for the camera Description automatically generated with medium confidence](media_a-new-teaching-system-high-speed-video-analysis-inexpensive-and-simple/media/image12.jpeg)
 
 John Yandell is widely acknowledged as one of the leading videographers
 and students of the modern game of professional tennis. His high speed

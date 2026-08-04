@@ -2,10 +2,7 @@
 
 ### Nick Wheatley
 
-------------------------------------------------------------------------
-
-![A trophy on a table Description automatically generated with medium
-confidence](media_the-cup/media/image1.jpg)
+![A trophy on a table Description automatically generated with medium confidence](media_the-cup/media/image1.jpg)
 
 **A Davis Cup style competition.**
 
@@ -42,9 +39,7 @@ and this is what it involved. First, training sessions in the 2 weeks
 prior to the event involved trying to recreate the unique environment we
 would be in.
 
-![A couple of men holding a trophy Description automatically generated
-with medium
-confidence](media_the-cup/media/image2.jpg)
+![A couple of men holding a trophy Description automatically generated with medium confidence](media_the-cup/media/image2.jpg)
 
 **Pre match preparation made for fast starts and led to some upset
 victories.**
@@ -70,7 +65,7 @@ for the article on what to do in the pre-match warmup.)
 
 When they arrived, they were fully prepared, warmed-up, and knew what to
 expect. Of course, you can never cover all scenarios that might play out
-on the day, so I always add the phrase "expect the unexpected\" so our
+on the day, so I always add the phrase "expect the unexpected" so our
 players are ready to stay calm when things happen that we couldn't have
 foreseen.
 
@@ -86,8 +81,7 @@ starts that we might not have done otherwise. Since the scoring format
 was that every match was one full set to 6, fast starts were extremely
 valuable indeed.
 
-![A group of people posing for a photo Description automatically
-generated](media_the-cup/media/image3.jpg)
+![A group of people posing for a photo Description automatically generated](media_the-cup/media/image3.jpg)
 
 **Our team after the victory.**
 
@@ -113,8 +107,7 @@ over the line. No outcome is guaranteed, but a 65% chance of winning is
 always better than a 64% chance, just like a 10% chance of winning is
 better than a 9% chance.
 
-![A picture containing indoor Description automatically
-generated](media_the-cup/media/image4.jpg)
+![A picture containing indoor Description automatically generated](media_the-cup/media/image4.jpg)
 
 **We won again in 2019---called a Three Peat in American sports.**
 
@@ -133,30 +126,39 @@ cup win by the narrowest of margins once again!
 
 Next, moving to the final section in this series, I will next take a
 look at how you can achieve some marginal gains during play, once the
-"start of point\" has played out, and the rally isn't yet over. Also,
+"start of point" has played out, and the rally isn't yet over. Also,
 handling both minor and major momentum shifts in matches so that you can
 take more advantage of them when they go in your favour, while
 restricting the damage when you're on the receiving end.
 
-| ![A person holding a tennis racket Description automatically | Nick Wheatley is an LTA Performance Coach and |
-| --- | --- |
-| generated](media_the-cup/media/image5.jpeg) | His junior teams, the Hawker Jets, have won 44 |
-|  | competitions since formation, and over the last 2 |
-|  | years alone, his junior players have won 19 |
-|  | singles tournaments between them at county level. |
-|  |  |
-|  | He has been ranked in the top 75 nationally in 35 |
-|  | and over singles and in the top 5 in Surrey |
-|  | county. Nick has done video analysis for numerous |
-|  | players at all levels, including former British |
-|  | Top 10 player Marcus Willis. |
-|  |  |
-|  | His unique teaching video series, covering every |
-|  | aspect of the game, is available on his website |
-|  | [www.nickwtennis.com](http://www.nickwtennis.com) |
-|  |  |
-|  | You can also contact Nick directly via the |
-|  | homepage of his website. |
+![A person holding a tennis racket Description automatically generated](media_the-cup/media/image5.jpeg)
 
+Nick Wheatley is an LTA Performance Coach and
 
-------------------------------------------------------------------------
+His junior teams, the Hawker Jets, have won 44
+
+competitions since formation, and over the last 2
+
+years alone, his junior players have won 19
+
+singles tournaments between them at county level.
+
+He has been ranked in the top 75 nationally in 35
+
+and over singles and in the top 5 in Surrey
+
+county. Nick has done video analysis for numerous
+
+players at all levels, including former British
+
+Top 10 player Marcus Willis.
+
+His unique teaching video series, covering every
+
+aspect of the game, is available on his website
+
+[www.nickwtennis.com](http://www.nickwtennis.com)
+
+You can also contact Nick directly via the
+
+homepage of his website.

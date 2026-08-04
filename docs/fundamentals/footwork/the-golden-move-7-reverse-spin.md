@@ -16,9 +16,13 @@ Golden Move in his new series. ([link](https://www.tennisplayer.net/members/foot
 For more on the Spin Moves [link](https://www.tennisplayer.net/members/footwork/david_bailey/contact_move/spin_moves/spin_moves.html).
 And to see David analyze pro footwork with live match footage, [link](https://www.tennisplayer.net/members/footwork/david_bailey/footwork.html).
 
-![link](media_the-golden-move-7-reverse-spin/media/image1.png)
+![Video demonstration](media_the-golden-move-7-reverse-spin/media/image1.png)
 
-![link](media_the-golden-move-7-reverse-spin/media/image2.jpeg)
+*Video demonstration — the original video for this article was hosted on TennisPlayer.net.*
+
+![Video demonstration](media_the-golden-move-7-reverse-spin/media/image2.jpeg)
+
+*Video demonstration — the original video for this article was hosted on TennisPlayer.net.*
 
 David Bailey is a native Australian who has spent 15 years studying
 tennis at the professional level. He has developed a new language for

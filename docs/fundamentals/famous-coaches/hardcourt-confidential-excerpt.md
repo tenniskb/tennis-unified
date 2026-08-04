@@ -6,8 +6,7 @@
 
 **Patrick McEnroe**
 
-![A group of people posing for a photo Description automatically
-generated](media_hardcourt-confidential-excerpt/media/image1.jpg)
+![A group of people posing for a photo Description automatically generated](media_hardcourt-confidential-excerpt/media/image1.jpg)
 
 **Being from a tennis family helped prepare me to run player
 development.**
@@ -20,11 +19,11 @@ agent that enabled our success in tennis. Either way, we'd lived a
 typical tennis family's life, and stood out mostly because of John's
 extreme talent.
 
-You could substitute the words \"parent management\" for \"player
-development,\" because the road to success with a promising player, runs
+You could substitute the words "parent management" for "player
+development," because the road to success with a promising player, runs
 through parents especially in more recent times. The stakes have been
 driven sky high. Today, God forbid you play any other sport by the time
-you're twelve or thirteen. Perish the thought of going to a \"regular\"
+you're twelve or thirteen. Perish the thought of going to a "regular"
 school. It's a very different world from the one in which I grew up.
 
 Parents do-and don't-understand this. I take a lot of time trying to
@@ -37,18 +36,14 @@ part more or less right. And he believes that his twelve-year-old should
 only play against collegiate players because it will lift his game
 quicker. He thinks he's out there at the cutting edge.
 
-|  |
-| --- |
-| ![A person with his hand on his face next to another person Description automatically generated with low |
-| confidence](media_hardcourt-confidential-excerpt/media/image2.jpg) |
-|  |
-| **Even lone wolf parents like Yuri Sharapov and Peter Graf have used coaches.** |
+![A person with his hand on his face next to another person Description automatically generated with low confidence](media_hardcourt-confidential-excerpt/media/image2.jpg)
 
+**Even lone wolf parents like Yuri Sharapov and Peter Graf have used coaches.**
 
-So I was like, \"Great, your kid is a monster, fitness wise. But does he
+So I was like, "Great, your kid is a monster, fitness wise. But does he
 know how to play tennis? Because that still counts. Does he know how to
 compete? Someday, he's going to have to learn how to beat kids his own
-age, which is where the pressure really lies.\"
+age, which is where the pressure really lies."
 
 Your classic lone-wolf parent has enjoyed some success, especially in
 the women's game (think Monica Seles, Steffi Graf, or Maria Sharapova),
@@ -66,9 +61,7 @@ at tennis. That kind of thing still happens, and it always will. But
 it's more and more the exception. And when it does happen, it takes a
 wise parent to know what to do next.
 
-![A couple of men playing tennis Description automatically generated
-with medium
-confidence](media_hardcourt-confidential-excerpt/media/image3.webp)
+![A couple of men playing tennis Description automatically generated with medium confidence](media_hardcourt-confidential-excerpt/media/image3.webp)
 
 **American Sam Querry: the exception who concentrated late on tennis.**
 
@@ -89,13 +82,8 @@ from directly above. It's a 360-degree game, meaning that today's
 player needs to know how to move in every direction in response to any
 given shot.
 
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                                ![A picture containing person Description automatically
-   generated](media_hardcourt-confidential-excerpt/media/image4.jpg)
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                      **Jose has worked with players at the world class level with all styles.**
-
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A picture containing person Description automatically generated](media_hardcourt-confidential-excerpt/media/image4.jpg)
+**Jose has worked with players at the world class level with all styles.**
 
 That's a lot different from focusing exclusively on stepping forward
 and into the ball, and that's where the battle of development goes
@@ -105,7 +93,7 @@ stress-all things that come into play when a player has to spend a lot
 of time reacting and playing good defense with an eye to making the
 transition to offense.
 
-Jose was one of the notorious \"clay-court specialists\" of an era awash
+Jose was one of the notorious "clay-court specialists" of an era awash
 with them. He was legendary for his work ethic, setting standards that a
 fleet of Spanish stars would soon emulate. I felt that the New World
 desperately needed a dose of his Old World work ethic.
@@ -118,9 +106,7 @@ the spring of 2008, Jose was the first man I wanted to call and the last
 one I did call after interviewing other candidates and half-a-dozen long
 talks with Jose himself. He agreed to be my Director of Coaching.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_hardcourt-confidential-excerpt/media/image5.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_hardcourt-confidential-excerpt/media/image5.webp)
 
 **New strings, big swings, massive topspin.**
 
@@ -144,13 +130,8 @@ success on all surfaces, including grass. Granted, Rafa is a rare
 individual talent. But Jose saw that much of what he did was based on
 general ideas that could be taught.
 
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                        ![A person holding a person Description automatically generated with low
-   confidence](media_hardcourt-confidential-excerpt/media/image6.jpg)
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                     **Jose's relationship with Toni Nadal has helped us learn to train juniors**.
-
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person holding a person Description automatically generated with low confidence](media_hardcourt-confidential-excerpt/media/image6.jpg)
+**Jose's relationship with Toni Nadal has helped us learn to train juniors**.
 
 Jose has a long-standing friendship with Rafa and his coach, mentor, and
 uncle, Toni Nadal. He knows Toni's philosophy of the game, and what he
@@ -161,8 +142,8 @@ He has to dig the ball out and fire it back over the net, but with
 enough topspin to make it fall within the court. It's a drill that Rafa
 did relentlessly, since the time he was about ten.
 
-In our program, we like to develop an ability we call going \"in and
-out.\" A player needs to know what to do when he's moving in
+In our program, we like to develop an ability we call going "in and
+out." A player needs to know what to do when he's moving in
 aggressively, or finds himself getting pushed back, or out. It applies
 to moving and hitting side-to-side as well. The idea is that you play
 tennis in a circle, and you need to develop sound technique for this
@@ -174,8 +155,7 @@ for Jose: the farther back you are on the court, the more height you
 want on the ball crossing the net. The closer you are to the net, the
 less clearance you want.
 
-![A person playing tennis Description automatically
-generated](media_hardcourt-confidential-excerpt/media/image7.webp)
+![A person playing tennis Description automatically generated](media_hardcourt-confidential-excerpt/media/image7.webp)
 
 **In the modern game, players learn to be aggressive moving in all
 directions.**
@@ -190,7 +170,7 @@ volley short, your opponent has to come up with the ball but still hit
 it with enough pace and spin to pass you and drop it into your court.
 
 Back in the day, the idea of actually teaching someone how to hit an
-aggressive shot while backing up would have been considered heresy\--if
+aggressive shot while backing up would have been considered heresy--if
 the very idea could even have been conceived. But this is the era of
 heresy; teaching American kids the Spanish way to play, but with a
 greater emphasis on finishing points, is just part of it. And while
@@ -198,18 +178,32 @@ things in the near term look a little shaky for our mature juniors,
 we're very encouraged by the performance of the kids in our sixteen and
 fourteen-and-under age divisions.
 
-| ![A person in a suit Description automatically generated with low | As a player, Patrick McEnroe reached the |
-| --- | --- |
-| confidence](media_hardcourt-confidential-excerpt/media/image8.jpeg) | winning numerous pro doubles titles with multiple |
-|  | partners. He has been a long time commentator on |
-| **Photo: ESPN Photography** | ESPN covering the world tour. As American Davis |
-|  | Cup captain, he molded young players including |
-|  | Andy Roddick, James Blake, and the Bryan Brothers |
-|  | into a team brought the cup home in 2007. In his |
-|  | latest undertaking as head of USTA Player |
-|  | Development, he is remaking the way young |
-|  | American players are trained following the model |
-|  | of countries like Spain. And, oh yeah, he also |
-|  | has brother who was a pretty good player in his |
-|  | own right. |
+![A person in a suit Description automatically generated with low confidence](media_hardcourt-confidential-excerpt/media/image8.jpeg)
 
+**Photo: ESPN Photography**
+
+As a player, Patrick McEnroe reached the
+
+winning numerous pro doubles titles with multiple
+
+partners. He has been a long time commentator on
+
+ESPN covering the world tour. As American Davis
+
+Cup captain, he molded young players including
+
+Andy Roddick, James Blake, and the Bryan Brothers
+
+into a team brought the cup home in 2007. In his
+
+latest undertaking as head of USTA Player
+
+Development, he is remaking the way young
+
+American players are trained following the model
+
+of countries like Spain. And, oh yeah, he also
+
+has brother who was a pretty good player in his
+
+own right.

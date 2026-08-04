@@ -6,13 +6,8 @@
 
 ### Robert Lansdorp
 
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                    ![A person holding a microphone Description automatically generated with medium
-   confidence](media_the-lansdorp-2-handed-backhand/media/image1.webp)
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-              **Lindsay Davenport is a player I developed. Now, at the top of the game, she hits through the ball using the exact method I'm outlining in this article.**
-
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person holding a microphone Description automatically generated with medium confidence](media_the-lansdorp-2-handed-backhand/media/image1.webp)
+**Lindsay Davenport is a player I developed. Now, at the top of the game, she hits through the ball using the exact method I'm outlining in this article.**
 
 ### One Hand or Two?
 
@@ -36,13 +31,8 @@ the two-hander, and then we'll talk about the one-hander in the next
 article, as well as how to make the transition from two hands to one, if
 that's what the player wants.
 
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                              ![An old person playing tennis Description automatically generated with medium
-   confidence](media_the-lansdorp-2-handed-backhand/media/image2.jpg)
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                **The key to hitting through the ball on the two-hander is the follow-through, just like on the forehand.**
-
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![An old person playing tennis Description automatically generated with medium confidence](media_the-lansdorp-2-handed-backhand/media/image2.jpg)
+**The key to hitting through the ball on the two-hander is the follow-through, just like on the forehand.**
 
 ### Similarity with the Forehand
 
@@ -85,19 +75,12 @@ semi-western grip with the left hand.** **The
 grip with the left hand should match the grip the player uses with his
 right hand on his forehand.**
 
-| ![A person holding a tennis racket Description automatically generated with medium | ![A person playing tennis Description automatically generated with low |
-| --- | --- |
-| confidence](media_the-lansdorp-2-handed-backhand/media/image3.jpg) |  |
-| **Two views of the two-handed grip. The left hand grip should match the forehand grip, either an eastern or a semi-western. The right hand grip should be a continental.** |  |
+![A person holding a tennis racket Description automatically generated with medium confidence](media_the-lansdorp-2-handed-backhand/media/image3.jpg)
 
+**Two views of the two-handed grip. The left hand grip should match the forehand grip, either an eastern or a semi-western. The right hand grip should be a continental.**
 
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                             ![A person holding a tennis racket Description automatically
-   generated](media_the-lansdorp-2-handed-backhand/media/image5.jpg)
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                     **The best take back on the two-hander is between the hip and the shoulder.**
-
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person holding a tennis racket Description automatically generated](media_the-lansdorp-2-handed-backhand/media/image5.jpg)
+**The best take back on the two-hander is between the hip and the shoulder.**
 
 **Preparation**
 
@@ -136,11 +119,9 @@ the last second.
 
 ### Follow-through
 
-| ![A person playing tennis Description automatically generated with medium | ![A person holding a tennis racket Description automatically |
-| --- | --- |
-| confidence](media_the-lansdorp-2-handed-backhand/media/image7.jpg) |  |
-| **When a player hits through the ball both arms come straight and all the way out. After this, it's ok to bring the racquet up and around the neck.** |  |
+![A person playing tennis Description automatically generated with medium confidence](media_the-lansdorp-2-handed-backhand/media/image7.jpg)
 
+**When a player hits through the ball both arms come straight and all the way out. After this, it's ok to bring the racquet up and around the neck.**
 
 **The follow-through is the most important part in learning to hit
 through the ball on the backhand and developing
@@ -152,8 +133,8 @@ few people really pay attention to what the follow-through means.
 **The follow-through should come straight out, just like on the
 forehand, with both arms straight.**
 
-Just like on the forehand, I teach players to \"hold the racquet out
-front\" to see if they really hit all the way through the ball.
+Just like on the forehand, I teach players to "hold the racquet out
+front" to see if they really hit all the way through the ball.
 
 That's the hardest thing to make players do on the two hander, because
 they feel like they can bring the left arm straight out but not the
@@ -163,13 +144,8 @@ you stick with it you can learn to bring the arms out together. After
 that then it's fine and even natural for the player to bring the
 racquet up and around the neck.
 
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                 ![A person playing tennis Description automatically generated with medium
-   confidence](media_the-lansdorp-2-handed-backhand/media/image9.jpg)
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                     **One way to learn the follow-through is to let go with the left hand at the finish so the right arm can come all the way out.**
-
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person playing tennis Description automatically generated with medium confidence](media_the-lansdorp-2-handed-backhand/media/image9.jpg)
+**One way to learn the follow-through is to let go with the left hand at the finish so the right arm can come all the way out.**
 
 Sometimes if a player is struggling with this, I'll have them actually
 let go with the left hand at the finish.
@@ -189,17 +165,12 @@ Watch how well Lindsay extends through the shot. That's why her ball on
 the two-hander moves and goes through the court, and why some other
 player's balls tend to sit up.
 
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                     ![A picture containing outdoor, athletic game, sport Description automatically
-   generated](media_the-lansdorp-2-handed-backhand/media/image10.webp)
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                      **If it had been up to me, Pete would have kept his great two-handed backhand. Would that have that made a difference at the French Open?**
-
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A picture containing outdoor, athletic game, sport Description automatically generated](media_the-lansdorp-2-handed-backhand/media/image10.webp)
+**If it had been up to me, Pete would have kept his great two-handed backhand. Would that have that made a difference at the French Open?**
 
 I know a lot of coaches today like to stress the wrap on the
-followthrough. They tell their players to \"Show me the butt of the
-racquet.\" In my opinion this couldn't be more wrong. Really, they
+followthrough. They tell their players to "Show me the butt of the
+racquet." In my opinion this couldn't be more wrong. Really, they
 should be asking the player to leave the racquet out front. That's what
 it takes to develop real pace on the shot, so that's what I do with all
 my students, beginner, world class player, it doesn't matter.
@@ -214,16 +185,7 @@ changed, his father brought him back to me so he could actually learn
 how to drive the ball with one-hand, but that's a story for the next
 article.
 
-  ------------------
-
-  ------------------
-
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![A person hitting a ball with a tennis racket Description automatically
-  generated](media_the-lansdorp-2-handed-backhand/media/image11.gif)
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person hitting a ball with a tennis racket Description automatically generated](media_the-lansdorp-2-handed-backhand/media/image11.gif)
 
 Robert Lansdorp is the legendary Southern California coach who has
 developed dozens of world class junior and professional players.

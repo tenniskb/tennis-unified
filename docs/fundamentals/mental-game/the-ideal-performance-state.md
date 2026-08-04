@@ -2,10 +2,7 @@
 
 ### Jim Loehr
 
-------------------------------------------------------------------------
-
-![A person holding a tennis racket Description automatically
-generated](media_the-ideal-performance-state/media/image1.jpg)
+![A person holding a tennis racket Description automatically generated](media_the-ideal-performance-state/media/image1.jpg)
 
 **In close matches, mental toughness is usually the determining
 factor.**
@@ -25,17 +22,15 @@ Of the thousands of hours most competitive tennis players devote to the
 game, only a fraction are spent developing the mental game.
 
 Players dream of hitting forehands like Andre Agassi or serving like
-Pete Sampras. But the most important key to winning\--consistent mental
-toughness\--is within any player's reach.
+Pete Sampras. But the most important key to winning--consistent mental
+toughness--is within any player's reach.
 
 In this Tennisplayer.net series, we will train you to develop the same
 mental skills as the top pros to play winning tennis. More importantly,
 these skills will allow you to enjoy the game and the competitive
 experience in a way you might not have known possible.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_the-ideal-performance-state/media/image2.jpg)
+![A person playing tennis Description automatically generated with medium confidence](media_the-ideal-performance-state/media/image2.jpg)
 
 **You may never have Agassi's forehand, but his mental toughness is
 within your reach.**
@@ -71,9 +66,7 @@ right internal mental climate is the key to playing winning tennis.
 Time after time I found athletes reported feeling some or all of the
 following:
 
-![A person holding a guitar Description automatically generated with
-medium
-confidence](media_the-ideal-performance-state/media/image3.webp)
+![A person holding a guitar Description automatically generated with medium confidence](media_the-ideal-performance-state/media/image3.webp)
 
 **The Ideal Performance State: when tennis is fun top athletes play
 their best and enjoy it the most.**
@@ -112,9 +105,7 @@ characteristics of IPS in the middle of a tough match? No matter what
 you may have heard or believe, mental toughness is not something you are
 born with, it's something you learn.
 
-![A person sitting in a chair Description automatically generated with
-medium
-confidence](media_the-ideal-performance-state/media/image4.jpg)
+![A person sitting in a chair Description automatically generated with medium confidence](media_the-ideal-performance-state/media/image4.jpg)
 
 **Great players play well in big matches because they don't feel
 pressure in the same way as average players.**
@@ -151,8 +142,7 @@ Almost any player from the 3.0 level up can argue the theory of how to
 hit the forehand or the serve. Most of them are completely unaware of
 the importance of training the mental dimension.
 
-![A person holding a tennis racket Description automatically
-generated](media_the-ideal-performance-state/media/image5.jpg)
+![A person holding a tennis racket Description automatically generated](media_the-ideal-performance-state/media/image5.jpg)
 
 **How you play is directly related to how you feel inside.**
 
@@ -168,20 +158,19 @@ State.
 We'll see how you can use the between point times to become the
 mentally tough player that you really want to be.
 
-I call this process of learning to use the time between points \"The 16
-Second Cure.\" I'll present a detailed explanation of how the pros use
+I call this process of learning to use the time between points "The 16
+Second Cure." I'll present a detailed explanation of how the pros use
 this time to stay mentally tough. And then I'll show you step by step
 how you can develop the same ability.
 
-![A person holding a tennis racket Description automatically
-generated](media_the-ideal-performance-state/media/image6.webp)\
+![A person holding a tennis racket Description automatically generated](media_the-ideal-performance-state/media/image6.webp)\
 **The 16 Second Cure: using the time between points to become the player
 you really want to be.**
 
 I'll also take the opportunity to respond to some of the criticisms of
-\"The 16 Second Cure\" voiced by another TennisPlayer contributor, Dr.
-Roland Carlstedt in his article \"The 8 Greatest Myth of Sports
-Psychology.\" Stay tuned.
+"The 16 Second Cure" voiced by another TennisPlayer contributor, Dr.
+Roland Carlstedt in his article "The 8 Greatest Myth of Sports
+Psychology." Stay tuned.
 
 In future articles I'll address the other major elements of the mental
 game, including the following:
@@ -195,29 +184,23 @@ game, including the following:
 | - **From Positive to Negative: Learning how to transform your energy |
 | on court.** |
 |  |
-| - **Bad Calls: Dealing with opponents\--and with yourself \--when |
+| - **Bad Calls: Dealing with opponents--and with yourself --when |
 | you get bad calls.** |
 |  |
 | - **In Your Mind's Eye: Can you see yourself becoming the player |
 | you want to be?** |
 
-
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![A person smiling for the camera Description automatically generated with medium                                                                                               Jim Loehr is a legendary pioneer in the field of
-  confidence](media_the-ideal-performance-state/media/image7.jpeg)                                                                                                                                                  himself who still competes nationally in USTA
-                                                                                                                                                                                  events, Jim created the field of Mental
-                                                                                                                                                                                  Toughness training with his revolutionary study
-                                                                                                                                                                                  of elite pro players. He has been one of the
-                                                                                                                                                                                  most influential voices in tennis and tennis
-                                                                                                                                                                                  coaching for over 30 years, and is the author of
-                                                                                                                                                                                  multiple best selling books. He has expanded his
-                                                                                                                                                                                  influence far beyond sports with the creation of
-                                                                                                                                                                                  the Human Performance Institute where he and his
-                                                                                                                                                                                  staff have worked with hundreds of leaders in
-                                                                                                                                                                                  business, law enforcement, and military special
-                                                                                                                                                                                  forces. For the last decade he has also directed
-                                                                                                                                                                                  an academy for junior players helping young
-                                                                                                                                                                                  people learn what winning in life really means.
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ------------------------------------------------
-
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person smiling for the camera Description automatically generated with medium                                                                                               Jim Loehr is a legendary pioneer in the field of confidence](media_the-ideal-performance-state/media/image7.jpeg)                                                                                                                                                  himself who still competes nationally in USTA
+events, Jim created the field of Mental
+Toughness training with his revolutionary study
+of elite pro players. He has been one of the
+most influential voices in tennis and tennis
+coaching for over 30 years, and is the author of
+multiple best selling books. He has expanded his
+influence far beyond sports with the creation of
+the Human Performance Institute where he and his
+staff have worked with hundreds of leaders in
+business, law enforcement, and military special
+forces. For the last decade he has also directed
+an academy for junior players helping young
+people learn what winning in life really means.

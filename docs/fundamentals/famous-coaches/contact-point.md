@@ -47,11 +47,11 @@ size of the backswing without changing the point of contact.
 
 Watch the video below for an illustration of the point of contact.
 
-![link](media_contact-point/media/image1.png)
+![Video demonstration](media_contact-point/media/image1.png)
 
-![A person wearing a baseball hat Description automatically generated
-with low
-confidence](media_contact-point/media/image2.png) Ean Meyer, a professional tennis coach
+*Video demonstration — the original video for this article was hosted on TennisPlayer.net.*
+
+![A person wearing a baseball hat Description automatically generated with low confidence](media_contact-point/media/image2.png) Ean Meyer, a professional tennis coach
 since 1987. Over the years, I've worked with every level of player from
 beginner to professional, coaching tennis for over 25 years and have
 worked with many different levels of juniors and adults. In this time I

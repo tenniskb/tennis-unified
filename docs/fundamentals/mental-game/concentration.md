@@ -2,37 +2,30 @@
 
 ### By Michael Friedman, USPTA
 
-------------------------------------------------------------------------
-
 When my students ask me what is concentration on the tennis court, this
 is the story I tell them. When I was growing up on the courts of Los
-Angeles and someone would say to me \"come on CONCENTRATE!\" I would see
+Angeles and someone would say to me "come on CONCENTRATE!" I would see
 the word imprinted on the side of an orange juice can, frozen in time
 and space. I really had no idea what it meant. Over my many years of
 playing and teaching tennis I have come to understand what I think
-concentration truly is. And it is much more than \"Watch the ball!\"
+concentration truly is. And it is much more than "Watch the ball!"
 Concentration is the direct link between what the eyes see and how the
 body, feet, and hands REACT, JUDGE, and TIME the ball. Of course the
 ball is what we as tennis players must focus on but in the correct state
 of mind.
 
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                             ![A picture containing graphical user interface Description automatically
-   generated](media_concentration/media/image1.jpg)
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------
-     **As a kid, when I was told to concentrate, all I could picture was a can of frozen orange juice with the word plastered across it in capital letters.**
-
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A picture containing graphical user interface Description automatically generated](media_concentration/media/image1.jpg)
+**As a kid, when I was told to concentrate, all I could picture was a can of frozen orange juice with the word plastered across it in capital letters.**
 
 **In order to focus your thoughts and perform at your best you have to
 tell yourself what to think about, rather than what not to think
 about.** For instance, if you tell yourself not to
 think about a pink elephant, it would be difficult to get a pink
-elephant out of your thoughts. **I once heard it described as \"There
-is always a party going on in my head!\" That may be so, but learning to
+elephant out of your thoughts. **I once heard it described as "There
+is always a party going on in my head!" That may be so, but learning to
 control that party will make you a better player.**
-**So, rather than telling yourself what not to think, such as, \"I
-only have to win two more points and I'll win the set!\", learn to
+**So, rather than telling yourself what not to think, such as, "I
+only have to win two more points and I'll win the set!", learn to
 focus on the task at hand. This can be accomplished through a series of
 questions you can ask yourself and answer very
 quickly.**
@@ -61,12 +54,7 @@ The contact point is a point in space where you can comfortably hit the
 ball. This, like the strike zone in baseball, is somewhere between the
 shoulders and knees.
 
-  -----------------------------------------------------------------------------------------------------------------------------------------------------
-  ![A person playing tennis Description automatically generated with medium
-  confidence](media_concentration/media/image2.jpg)
-  -----------------------------------------------------------------------------------------------------------------------------------------------------
-
-  -----------------------------------------------------------------------------------------------------------------------------------------------------
+![A person playing tennis Description automatically generated with medium confidence](media_concentration/media/image2.jpg)
 
 ### Establishing the Contact Zone
 
@@ -109,13 +97,8 @@ for beginners. Hence, instead of allowing the ball to come down to them
 they are forced to make contact high above the strike zone. More often
 than not, the result is an awkward stroke and a weak return.
 
-  -----------------------------------------------------------------------------------------------------------------------------------------------------
-                                        ![A person playing tennis Description automatically generated with medium
-   confidence](media_concentration/media/image3.jpg)
-  -----------------------------------------------------------------------------------------------------------------------------------------------------
-                                          **For the forehand, use the back foot to judge your contact point.**
-
-  -----------------------------------------------------------------------------------------------------------------------------------------------------
+![A person playing tennis Description automatically generated with medium confidence](media_concentration/media/image3.jpg)
+**For the forehand, use the back foot to judge your contact point.**
 
 ### When do I hit?
 
@@ -128,12 +111,12 @@ deep or long!
 
 After finishing your swing, keep your eyes on the contact point then
 pick up the ball heading towards your opponent's racquet and ask
-yourself again \...What is it? Most beginner and intermediate players
+yourself again ...What is it? Most beginner and intermediate players
 look up too soon and don't complete the shot by keeping their head
 down. They are more interested in looking to see if their shot is going
 in, or if their opponent is going to get to it. Some just stand like
 statues admiring their shot! If you are watching the ball before your
-opponent hits it and are asking yourself, What is it?\... you are in the
+opponent hits it and are asking yourself, What is it?... you are in the
 right state of mind!
 
 This all happens very fast, but as you get better time seems to stretch

@@ -41,13 +41,8 @@ course, finish out the follow through.
 
 ### Approach Down the Line
 
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![A person playing tennis Description automatically generated with medium
-  confidence](media_the-approach-and-volley/media/image2.webp)\
-  **Mac slices the approach down the line then easily covers the crosscourt pass.**
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person playing tennis Description automatically generated with medium confidence](media_the-approach-and-volley/media/image2.webp)\
+**Mac slices the approach down the line then easily covers the crosscourt pass.**
 
 **Most approach shots should be hit down the
 line.** **[That's the safest position to hit the
@@ -79,13 +74,8 @@ Remember to keep moving through the ball as you hit it. That gets you to
 the net quicker and allows you to close down the passing
 angles]**.
 
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![A person hitting a ball with a tennis racket Description automatically
-  generated](media_the-approach-and-volley/media/image3.jpg)\
-  **Pete must hit the ball up over the net on this difficult low volley, so he can't hit the ball too hard if he's going to keep it in play.**
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person hitting a ball with a tennis racket Description automatically generated](media_the-approach-and-volley/media/image3.jpg)\
+**Pete must hit the ball up over the net on this difficult low volley, so he can't hit the ball too hard if he's going to keep it in play.**
 
 ### The Volley
 
@@ -124,12 +114,10 @@ he/she can hit down on the ball and create extremely sharp angles. From
 further away from the net, the volleyer's angles are reduced and it
 becomes more difficult to end the point.**
 
-  -----------------------------------------------------------------------------------------------------------------------------------------
-  ![link](media_the-approach-and-volley/media/image4.png)\
-  **Click Photo to see what Allen Fox has to say about closing the net.**
-  -----------------------------------------------------------------------------------------------------------------------------------------
+![Video demonstration](media_the-approach-and-volley/media/image4.png)
 
-  -----------------------------------------------------------------------------------------------------------------------------------------
+*Video demonstration — the original video for this article was hosted on TennisPlayer.net.*
+**Click Photo to see what Allen Fox has to say about closing the net.**
 
 **Also, hanging back allows the ball to drop lower forcing the
 volleyer to hit up over the net so the ball can't hit the ball very
@@ -160,27 +148,22 @@ is relatively simple. **But during a match, you are rarely standing
 still when volleying. You're always moving forward and that's the way
 the volley should be practiced.**
 
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![A person playing tennis Description automatically generated with medium
-  confidence](media_the-approach-and-volley/media/image5.webp)\
-  **Most club players practice their volleys standing still but that's not the way the game is played.**
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person playing tennis Description automatically generated with medium confidence](media_the-approach-and-volley/media/image5.webp)\
+**Most club players practice their volleys standing still but that's not the way the game is played.**
 
 **The volley is a coordination of eye, leg, and hands all
 together.**
 
 1.  **The eyes see the ball coming and try to distinguish whether
-    it's a lob or a ground stroke.**
+it's a lob or a ground stroke.**
 
 2.  **When the eye decides it's a ground stroke, it transmits the
-    message to the legs and you start to move
-    forward.**
+message to the legs and you start to move
+forward.**
 
 3.  **Then you get the hands in place, and your legs drive you
-    through. You're getting a great deal of your power from your legs
-    alone.**
+through. You're getting a great deal of your power from your legs
+alone.**
 
 ### The Stroke
 
@@ -201,13 +184,8 @@ about half as far as you would hit a groundstroke. Also, the ball's got
 a lot of energy because it hasn't hit the court yet so you don't have
 to add much energy of your own.
 
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![A person playing tennis Description automatically generated with medium
-  confidence](media_the-approach-and-volley/media/image6.webp)\
-  **Even on low volleys, Venus hits down and through the ball.**
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person playing tennis Description automatically generated with medium confidence](media_the-approach-and-volley/media/image6.webp)\
+**Even on low volleys, Venus hits down and through the ball.**
 
 **It's important to stay relaxed and well balanced at the
 net**. A lot of people make the mistake of trying
@@ -233,57 +211,92 @@ then you don't have to worry about the next shot. Get to the net as
 fast as you can right on top of the net if possible and knock it
 off.**
 
-| ![A picture containing text, newspaper Description automatically | Winning the Mental Match Dr. Allen Fox |
-| --- | --- |
-| generated](media_the-approach-and-volley/media/image7.jpeg) | Tennis is mentally the most difficult sport due to it's personal nature which makes winning and losing feel more |
-|  | important than they are. In this new book, Allen offers his proven solutions to problems such as choking, reducing |
-|  | stress, finishing matches, and developing confidence. Based on a life time of high level play and coaching success, |
-|  | it's a must for all competitive players. |
-|  |  |
-|  | [ to |
-|  | Order](http://www.amazon.com/Tennis-Winning-Mental-Allen-Fox/dp/0615407765/ref=sr_1_1?ie=UTF8&qid=1336083459&sr=8-1). |
+![A picture containing text, newspaper Description automatically generated](media_the-approach-and-volley/media/image7.jpeg)
 
+Winning the Mental Match Dr. Allen Fox
 
-| ![Text Description automatically | Winning may not be everything, but Dr. Allen Fox points out |
-| --- | --- |
-| generated](media_the-approach-and-volley/media/image8.jpeg) | eminently preferable to losing. In his new book, The |
-|  | Winner's Mind, Allen lays out an original step-by-step |
-|  | plan for succeeding at any of life's endeavors, based on |
-|  | his first hand and very personal observations of the |
-|  | careers of both world-class tennis players and successful |
-|  | businessman. The bottom line is that even if you are not a |
-|  | born champion\--and only a tiny percentage of us are\--you |
-|  | can still use the success strategies of champions to tilt |
-|  | the odds in your favor. Writing with brutal honesty and dry |
-|  | humor, Fox lays out the common mental characteristics of |
-|  | winners in sports and in life. He explains the critical |
-|  | role of intellect over emotion. He analyzes the struggle |
-|  | between ambition and fear and the insidious and pervasive |
-|  | fear of failure that undermines so many of us. He then |
-|  | outline how to confront and overcome these fears in your |
-|  | life and career, even when they are initially subconscious. |
-|  | Must reading from one of the great thinkers in tennis, and |
-|  | a Renaissance Man in life. [ to |
-|  | Order](http://www.tennis-warehouse.com/descpage-MIND.html). |
-|  |  |
-|  | To purchase this book you can also send a check for \$17.95 |
-|  | to Allen Fox, 1120 Inverness Place, San Luis Obispo, CA. |
-|  | 93401. The price includes shipping. |
+Tennis is mentally the most difficult sport due to it's personal nature which makes winning and losing feel more
 
+important than they are. In this new book, Allen offers his proven solutions to problems such as choking, reducing
 
-| ![A person holding a tennis racket Description automatically | Allen Fox PhD is a former world class player, a coach, |
-| --- | --- |
-| generated](media_the-approach-and-volley/media/image9.gif) | insightful analysts in modern tennis. A top 10 |
-|  | American player from the glory days before Open |
-|  | tennis, Fox played many of the legendary greats, among |
-|  | them Roy Emerson, Rod Laver, Stan Smith, and Arthur |
-|  | Ashe. At Pepperdine he developed the men's tennis |
-|  | program into an elite contender for national titles, |
-|  | and gave Brad Gilbert the insights that became the |
-|  | foundation for \"Winning Ugly\". His book Think to Win |
-|  | is a modern classic. He has also starred in a series |
-|  | of acclaimed videos, including Pro Secrets of Match |
-|  | Play and Allen Fox's Ultimate Tennis Lesson. |
-|  |  |
-|  |  |
+stress, finishing matches, and developing confidence. Based on a life time of high level play and coaching success,
 
+it's a must for all competitive players.
+
+[ to
+
+Order](http://www.amazon.com/Tennis-Winning-Mental-Allen-Fox/dp/0615407765/ref=sr_1_1?ie=UTF8&qid=1336083459&sr=8-1).
+
+![Text Description automatically generated](media_the-approach-and-volley/media/image8.jpeg)
+
+Winning may not be everything, but Dr. Allen Fox points out
+
+eminently preferable to losing. In his new book, The
+
+Winner's Mind, Allen lays out an original step-by-step
+
+plan for succeeding at any of life's endeavors, based on
+
+his first hand and very personal observations of the
+
+careers of both world-class tennis players and successful
+
+businessman. The bottom line is that even if you are not a
+
+born champion--and only a tiny percentage of us are--you
+
+can still use the success strategies of champions to tilt
+
+the odds in your favor. Writing with brutal honesty and dry
+
+humor, Fox lays out the common mental characteristics of
+
+winners in sports and in life. He explains the critical
+
+role of intellect over emotion. He analyzes the struggle
+
+between ambition and fear and the insidious and pervasive
+
+fear of failure that undermines so many of us. He then
+
+outline how to confront and overcome these fears in your
+
+life and career, even when they are initially subconscious.
+
+Must reading from one of the great thinkers in tennis, and
+
+a Renaissance Man in life. [ to
+
+Order](http://www.tennis-warehouse.com/descpage-MIND.html).
+
+To purchase this book you can also send a check for $17.95
+
+to Allen Fox, 1120 Inverness Place, San Luis Obispo, CA.
+
+93401. The price includes shipping.
+
+![A person holding a tennis racket Description automatically generated](media_the-approach-and-volley/media/image9.gif)
+
+Allen Fox PhD is a former world class player, a coach,
+
+insightful analysts in modern tennis. A top 10
+
+American player from the glory days before Open
+
+tennis, Fox played many of the legendary greats, among
+
+them Roy Emerson, Rod Laver, Stan Smith, and Arthur
+
+Ashe. At Pepperdine he developed the men's tennis
+
+program into an elite contender for national titles,
+
+and gave Brad Gilbert the insights that became the
+
+foundation for "Winning Ugly". His book Think to Win
+
+is a modern classic. He has also starred in a series
+
+of acclaimed videos, including Pro Secrets of Match
+
+Play and Allen Fox's Ultimate Tennis Lesson.

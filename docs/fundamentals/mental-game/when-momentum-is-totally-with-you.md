@@ -4,11 +4,7 @@
 
 ### By Alistair Higham
 
-------------------------------------------------------------------------
-
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_when-momentum-is-totally-with-you/media/image1.webp)\
+![A person playing tennis Description automatically generated with medium confidence](media_when-momentum-is-totally-with-you/media/image1.webp)\
 **Even when momentum is totally with you, are there things you should do
 to keep it that way?**
 
@@ -28,13 +24,8 @@ least if you wish to keep it that way.
 
 **When Momentum is Totally with You**
 
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                             ![A person swinging a tennis racket Description automatically
-   generated](media_when-momentum-is-totally-with-you/media/image2.jpg)
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                             **When things are going your way it can all seem very easy.**
-
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person swinging a tennis racket Description automatically generated](media_when-momentum-is-totally-with-you/media/image2.jpg)
+**When things are going your way it can all seem very easy.**
 
 When things are going totally for you, it seems like easy sailing - you
 can afford to relax a little because you have a cushion. Even if a few
@@ -46,7 +37,7 @@ totally with you, you are in control. You feel confident because you are
 able to do most of the things you try, and your shots and movement seem
 to require less effort. In addition, your opponent may well be
 frustrated and is probably showing signs of it. Indeed, later we will
-see how you can even try a bit of gambling\--but first a word of
+see how you can even try a bit of gambling--but first a word of
 warning.
 
 If your opponent is a player at a similar level, it's very possible
@@ -72,7 +63,6 @@ your side as much as possible you need to know how to:
 | --- | --- |
 | Know How You Got There | Step It Up a Gear |
 
-
 **Avoid the Dangers**
 
 The momentum may switch but at least make sure it's because your
@@ -83,8 +73,7 @@ are lulled into a sense of false security when things are heavily in
 their favour. They are playing well, their opponent may be playing
 badly, and it seems fine to relax and enjoy completing the win.
 
-![A person playing tennis Description automatically
-generated](media_when-momentum-is-totally-with-you/media/image3.webp)
+![A person playing tennis Description automatically generated](media_when-momentum-is-totally-with-you/media/image3.webp)
 
 **A few careless errors and suddenly you're frustrated while the match
 gets much closer.**
@@ -110,9 +99,7 @@ team in the lead would be easing off, attempting to keep free from
 injury, saving themselves for the next match, coasting and probably
 playing relaxed exhibition football.
 
-![A picture containing text, outdoor, sport, player Description
-automatically
-generated](media_when-momentum-is-totally-with-you/media/image4.webp)
+![A picture containing text, outdoor, sport, player Description automatically generated](media_when-momentum-is-totally-with-you/media/image4.webp)
 
 **Unlike other sports, you can't ease off when you have the lead.**
 
@@ -144,9 +131,7 @@ On the other hand, if you got to 4-1 up because of your own tactics and
 superior play, you can relax a little (but not too much) because you
 understand why you are 4-1 ahead.
 
-![A person running on a track Description automatically generated with
-low
-confidence](media_when-momentum-is-totally-with-you/media/image5.webp)
+![A person running on a track Description automatically generated with low confidence](media_when-momentum-is-totally-with-you/media/image5.webp)
 
 **When the momentum starts to turn, you have to be prepared to fight.**
 
@@ -179,8 +164,7 @@ when you are playing a tired opponent, can encourage or discourage them
 at a time when they may be clinging onto any last signs of hope before
 they lose heart.
 
-![A person playing tennis Description automatically
-generated](media_when-momentum-is-totally-with-you/media/image6.webp)
+![A person playing tennis Description automatically generated](media_when-momentum-is-totally-with-you/media/image6.webp)
 
 **When you have the lead winning the first point can kill your
 opponent's hope.**
@@ -204,20 +188,18 @@ combat them well.
 As long as you are aware of everything we've talked about so far, now
 is the time you can gamble, take more risks and try to step up a gear.
 
-![A person swinging a tennis racket Description automatically generated
-with medium
-confidence](media_when-momentum-is-totally-with-you/media/image7.webp)
+![A person swinging a tennis racket Description automatically generated with medium confidence](media_when-momentum-is-totally-with-you/media/image7.webp)
 
 **You can try to step it up a gear to finish the match when you have a
 cushion.**
 
-**[[You can use the cushion of a lead to try and kill off the match if
+**[You can use the cushion of a lead to try and kill off the match if
 it's getting near the end. Or if it's not near the end, you may step
 up and play so well that your opponent thinks you are invincible, which
 in turn may have a big effect on the outcome of the match.] [He
 may give up more quickly. Some players make it a policy to step up every
 time they have created some daylight between them and their opponent for
-just this reason.]]**
+just this reason.]**
 
 **Tactically, you can afford to gamble a little. You can go for it -
 take the ball earlier, hit big returns off first serves, serve and
@@ -232,12 +214,10 @@ they'll just remember that you may vary it.**
 
 **The danger here is gambling for too long and giving your opponent
 cheap points by trying to hit too many winners. Cheap points, of course,
-are exactly what your opponent wants when he is far behind \-- it's
+are exactly what your opponent wants when he is far behind -- it's
 easier climbing steep hills with a helping hand.**
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_when-momentum-is-totally-with-you/media/image8.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_when-momentum-is-totally-with-you/media/image8.webp)
 
 **When momentum is totally with you, experiment to find your
 potential.**
@@ -245,8 +225,8 @@ potential.**
 Mentally, you can afford to try to step it up as well. The best way to
 do this is to relax your mind and allow yourself the freedom of going
 for your shots. An international junior coach from Croatia once told me:
-\"Talent is inside you. It stays trapped inside when your mind and body
-are tense. It only can flow out when you are relaxed.\"
+"Talent is inside you. It stays trapped inside when your mind and body
+are tense. It only can flow out when you are relaxed."
 
 This relaxed state of focus sometimes makes it possible to take your
 game to higher levels. Many tennis players and athletes have experienced
@@ -262,9 +242,7 @@ When the momentum is totally with you, it's a good time to begin
 learning about this ability to step up a gear and experimenting to find
 your full potential.
 
-![A person with his eyes closed Description automatically generated with
-low
-confidence](media_when-momentum-is-totally-with-you/media/image9.jpeg)
+![A person with his eyes closed Description automatically generated with low confidence](media_when-momentum-is-totally-with-you/media/image9.jpeg)
 
 Alistair Higham is the National Manager of Coach Development for the
 LTA, the governing body for tennis in Great Britain. He is the author of
@@ -276,8 +254,7 @@ junior circuit, where he has had the unique opportunity to make a close
 study of the hidden force that dictates so much in the outcome of
 competitive tennis matches.
 
-![Map Description automatically generated with low
-confidence](media_when-momentum-is-totally-with-you/media/image10.jpeg)
+![Map Description automatically generated with low confidence](media_when-momentum-is-totally-with-you/media/image10.jpeg)
 
 **Momentum: The Hidden Force in Tennis Alistair Higham**
 

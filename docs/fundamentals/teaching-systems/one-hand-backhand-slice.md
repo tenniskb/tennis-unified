@@ -72,15 +72,12 @@ Compare all that to the incoming topspin balls they were hitting which
 were in the mid torso area, about 48 inches or 4 feet give or take. So
 the slice balls were bouncing about half as high.
 
-  -----------------------------------------------
-      ** **       **Spin**    **Bounce Height**
-  ------------- ------------ --------------------
-     Karsten      1500rpm         29 inches
+** **       **Spin**    **Bounce Height**
+Karsten      1500rpm         29 inches
 
-      Scott       2000rpm         27 inches
+Scott       2000rpm         27 inches
 
-    Giancarlo     3200rpm         24 inches
-  -----------------------------------------------
+Giancarlo     3200rpm         24 inches
 
 That's a big height adjustment for the opponent. It's a factor that
 can make the slice a tactical weapon. It's much harder to unload on
@@ -96,7 +93,7 @@ therefore topspin is superior.
 It does appear in watching great modern slice players like Roger Federer
 that the extreme slice velocity is significantly less than a topspin
 drive. It would be great if the ATP had a comprehensive public data base
-on this\--which they don't.
+on this--which they don't.
 
 At the high NTRP level, a topspin backhand might be 10% higher than
 velocity than a slice.
@@ -178,9 +175,7 @@ classic slice. That's what this series has been about!
 So next we'll create some detailed physical and mental models for doing
 that. Stay tuned.
 
-![A person smiling for the camera Description automatically generated
-with medium
-confidence](media_one-hand-backhand-slice/media/image1.jpeg)
+![A person smiling for the camera Description automatically generated with medium confidence](media_one-hand-backhand-slice/media/image1.jpeg)
 
 John Yandell is widely acknowledged as one of the leading videographers
 and students of the modern game of professional tennis. His high speed

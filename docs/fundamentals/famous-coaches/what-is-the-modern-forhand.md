@@ -2,17 +2,15 @@
 
 ### Brett Hobden with Gord Runtz
 
-![A picture containing text, tennis, athletic game, sport Description
-automatically
-generated](media_what-is-the-modern-forhand/media/image1.webp)
+![A picture containing text, tennis, athletic game, sport Description automatically generated](media_what-is-the-modern-forhand/media/image1.webp)
 
 **The modern forehand(s): technical solutions tailored to each tactical
 problem.**
 
 It's a fair question: is there such a thing as THE modern forehand? If
 there is, then how do we explain all the variations in the swings and
-footwork of the top players? Do they simply reflect different \"hitting
-styles\"? The answer is no. The variations in the modern forehand are
+footwork of the top players? Do they simply reflect different "hitting
+styles"? The answer is no. The variations in the modern forehand are
 not a question of hitting styles. They are a reflection of the specific
 tactical shots the players are trying to hit. In other words, **the
 pros have developed specific technical solutions to address the wide
@@ -30,9 +28,7 @@ differences in the motions become clear.** You can
 learn to see the technical solutions they find to overcome tactical
 challenges.
 
-![A picture containing tennis, sport, athletic game, outdoor Description
-automatically
-generated](media_what-is-the-modern-forhand/media/image2.webp)
+![A picture containing tennis, sport, athletic game, outdoor Description automatically generated](media_what-is-the-modern-forhand/media/image2.webp)
 
 **Three of the seven topspin shot types.**
 
@@ -76,15 +72,13 @@ a flatter trajectory than the arc.]*** **The ball is quick
 through the air and difficult to reach when hit into an
 opening.**
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_what-is-the-modern-forhand/media/image3.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_what-is-the-modern-forhand/media/image3.webp)
 
-**The \"bender\", a trademark shot of Pete Sampras.**
+**The "bender", a trademark shot of Pete Sampras.**
 
 **The bender** is typically ***[hit on the run from a low contact
 point.]*** **It has a combination of topspin and sidespin,
-causing the ball to \"bend\" inwards (curving from right to left for a
+causing the ball to "bend" inwards (curving from right to left for a
 right-handed player).**
 
 **The dip drive** is hit ***[from a high contact point, usually around
@@ -97,17 +91,16 @@ also on a passing shot.**
 
 That's just a brief overview and, obviously, there is a lot more to say
 to understand each of these shot types. As you can see there really is
-no such thing as \"the\" modern forehand. In this series, for the first
+no such thing as "the" modern forehand. In this series, for the first
 time anywhere, we will examine video of the technical components of all
 seven topspin deliveries in detail, explain how you can develop them
 yourself, and also when and how to use them in match play.
 
 **Direction of Movement**
 
-![A person playing tennis Description automatically
-generated](media_what-is-the-modern-forhand/media/image4.webp)
+![A person playing tennis Description automatically generated](media_what-is-the-modern-forhand/media/image4.webp)
 
-**Andre moving to the right: the \"right- right\" footwork.**
+**Andre moving to the right: the "right- right" footwork.**
 
 **[Understanding the variations is made more complex because of the
 footwork patterns that can be used to hit them]**. Again there
@@ -117,29 +110,31 @@ some combination of these (for example both forward and to the
 left).** They can also be hit from a relatively
 stationary position, when the ball has been hit near the receiving
 player and minimal movement to the ball is required. **The optimal
-footwork \-- both for the shot and for the all-important recovery that
-follows it \-- depends on the player's direction of movement to the
+footwork -- both for the shot and for the all-important recovery that
+follows it -- depends on the player's direction of movement to the
 ball.**
 
 Watch in the Agassi animation how Andre is moving to the right as he
-hits. ***[This requires a footwork pattern, we call the \"right-right\".
+hits. ***[This requires a footwork pattern, we call the "right-right".
 Here players initiate the shot pushing off their right foot, but also
 land on the right foot to stop their sideways momentum and begin their
 recovery.]***
 
-![link](media_what-is-the-modern-forhand/media/image5.webp)
+![Video demonstration](media_what-is-the-modern-forhand/media/image5.webp)
 
-**Roddick moving to the left: the \"right-left\" footwork.**
+*Video demonstration — the original video for this article was hosted on TennisPlayer.net.*
 
-Watch in the animation that Roddick is hitting **a \"run-around\"
+**Roddick moving to the left: the "right-left" footwork.**
+
+Watch in the animation that Roddick is hitting **a "run-around"
 forehand, moving to the left as he makes the
 shot.** This requires a different footwork pattern
-we call the \"right-left\". ***[Again the players initiate the shot
+we call the "right-left". ***[Again the players initiate the shot
 pushing off their right foot. The difference is that they land on their
 left foot to stop their sideways momentum and initiate their
 recovery.]*** (For left-handed players, the above footwork
-patterns would of course be \"left-left\" when moving to the left, and
-\"left-right\" when moving to the right.)
+patterns would of course be "left-left" when moving to the left, and
+"left-right" when moving to the right.)
 
 **Grips**
 
@@ -160,14 +155,16 @@ slightly as the situation requires, for example [rotating the racquet
 hand slightly in the western direction for very high impact points or
 when delivering extreme topspin.]]**
 
-![link](media_what-is-the-modern-forhand/media/image6.webp)
+![Video demonstration](media_what-is-the-modern-forhand/media/image6.webp)
+
+*Video demonstration — the original video for this article was hosted on TennisPlayer.net.*
 
 **Grips have a large influence on where the players finish the
 forehand.**
 
 How can grip differences affect the racquet path? Again, compare Agassi
 and Roddick in the animations. They are receiving similar balls and
-hitting similar shots \-- in both cases a drive (that is, a deep
+hitting similar shots -- in both cases a drive (that is, a deep
 penetrating shot with low net clearance and moderate topspin.) Note the
 difference in the finishes. The more the grip is shifted toward the
 semi-western or western the more the finish will be across and around
@@ -194,18 +191,16 @@ versatility you'll need to hit all the shots of the modern game.
 
 **The racket path can also vary with the type of ball received. When
 the oncoming ball is difficult** (for example, very
-fast, very wide, or with an unpredictable bounce\...), you'll generally
+fast, very wide, or with an unpredictable bounce...), you'll generally
 see a **shorter backswing.** This is also true
 when the player is **pressed for time.**
 
-![A person running on a tennis court Description automatically generated
-with medium
-confidence](media_what-is-the-modern-forhand/media/image7.webp)
+![A person running on a tennis court Description automatically generated with medium confidence](media_what-is-the-modern-forhand/media/image7.webp)
 
 **Pro players shorten the backswing to deal with speed and/or lack of
 time.**
 
-For example, have a look at players with the best returns-of-serve \--
+For example, have a look at players with the best returns-of-serve --
 especially on the faster first serves in the men's game. Shortening the
 backswing is the key adaptation players must make to successfully return
 a fast or otherwise difficult ball. For example, here we see Agassi and
@@ -213,18 +208,16 @@ Federer, both returning a fast first serve.
 
 **Impact Height**
 
-Finally, the **[[racquet path can vary with the height of the impact
+Finally, the **[racquet path can vary with the height of the impact
 point. With] [modern technique, players can hit aggressive
-forehands from low, medium and high impact points \-- all the way from
-shin to head level.]]** When time permits, players
+forehands from low, medium and high impact points -- all the way from
+shin to head level.]** When time permits, players
 can even choose the height of their impact point simply by moving
 forward or backward on the court. In general, higher impact points
 require higher racquet preparations, while lower impact points require
 lower preparations.
 
-![A picture containing sport, athletic game, tennis Description
-automatically
-generated](media_what-is-the-modern-forhand/media/image8.webp)
+![A picture containing sport, athletic game, tennis Description automatically generated](media_what-is-the-modern-forhand/media/image8.webp)
 
 **Impact heights can range from shin to head level.**
 
@@ -239,21 +232,19 @@ different shots in different circumstances.** If
 you're going to play the modern game successfully, you must learn to
 continually adapt your stroke and your footwork to the situation and the
 shot you're attempting! Unlike in Frodo's Middle Earth, one ring
-(i.e., one forehand technique) does not \"rule all\".
+(i.e., one forehand technique) does not "rule all".
 
 In tennis magazines and websites today, you'll see many articles
-analyzing the strokes of pro players. When you read such an article \--
-for example, on a particular player's forehand \-- ask yourself this
+analyzing the strokes of pro players. When you read such an article --
+for example, on a particular player's forehand -- ask yourself this
 question: **Which forehand is the author analyzing? Is the player
-hitting a drive, an arc, a loop, a dip drive\...?**
+hitting a drive, an arc, a loop, a dip drive...?**
 **[What kind of grip is the player using? What direction are they moving
 to meet the ball? What kind of ball are they receiving, and what's the
 height of the impact point they've selected? [No player on the pro tour
 has a single forehand!]]**
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_what-is-the-modern-forhand/media/image9.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_what-is-the-modern-forhand/media/image9.webp)
 
 **What kind of ball are you receiving?**
 
@@ -261,7 +252,7 @@ Similarly, when you read articles comparing the strokes of two or more
 players, always ask yourself: Are the players hitting the same type of
 shot? in the same circumstances? Moving in the same direction? Using the
 same grip? In other words, make sure that the author is comparing
-\"apples to apples\", not \"apples to oranges\". If it's the latter,
+"apples to apples", not "apples to oranges". If it's the latter,
 chances are the analysis will mislead you.
 
 **Working on Your Forehand**
@@ -281,9 +272,7 @@ will likely have a great deal of difficulty moving from the training
 court to the playing court. What worked so well in training may not work
 at all in live play.
 
-![A person playing lacrosse Description automatically generated with
-medium
-confidence](media_what-is-the-modern-forhand/media/image10.webp)
+![A person playing lacrosse Description automatically generated with medium confidence](media_what-is-the-modern-forhand/media/image10.webp)
 
 **What shot are you trying to hit?**
 
@@ -294,7 +283,7 @@ shots you can hit. A little concerned about injury with the more
 athletic-looking stroke? No worries! If you learn the technique
 properly, in our experience, the modern forehand will actually reduce
 your risk of injury. In fact, it can even eliminate some current
-problems you may be having \-- particularly tennis elbow and lower back
+problems you may be having -- particularly tennis elbow and lower back
 problems, and some shoulder and wrist injuries. **We have found that
 modern hitting techniques aren't only for advanced players, they have a
 lot to offer to all ages and levels.**
@@ -303,15 +292,10 @@ If you learn the technique properly, you'll greatly expand the range of
 situations you can deal with, and the range shots you can hit. Once you
 start down this path, you'll never look back!
 
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![A person wearing a red shirt Description automatically generated with medium                                                                                        Bret Hobden is the founder of
-  confidence](media_what-is-the-modern-forhand/media/image11.jpeg)                                                                                                                                        website dedicated to providing coaches and players
-                                                                                                                                                                        with the knowledge required to teach and play
-                                                                                                                                                                        modern tennis successfully. Two DVDs are now
-                                                                                                                                                                        available, the first in a new series on teaching
-                                                                                                                                                                        and playing the modern game. ([link](http://www.moderntennis.com)) Anyone
-                                                                                                                                                                        wishing to contact the authors can also do so
-                                                                                                                                                                        directly through their website.
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------- --------------------------------------------------
-
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person wearing a red shirt Description automatically generated with medium                                                                                        Bret Hobden is the founder of confidence](media_what-is-the-modern-forhand/media/image11.jpeg)                                                                                                                                        website dedicated to providing coaches and players
+with the knowledge required to teach and play
+modern tennis successfully. Two DVDs are now
+available, the first in a new series on teaching
+and playing the modern game. ([link](http://www.moderntennis.com)) Anyone
+wishing to contact the authors can also do so
+directly through their website.

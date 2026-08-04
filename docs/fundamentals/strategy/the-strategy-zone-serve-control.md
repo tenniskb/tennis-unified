@@ -2,10 +2,7 @@
 
 ### Nick Bollettierri with Lance Luciani
 
-------------------------------------------------------------------------
-
-![A person playing tennis Description automatically
-generated](media_the-strategy-zone-serve-control/media/image1.webp)
+![A person playing tennis Description automatically generated](media_the-strategy-zone-serve-control/media/image1.webp)
 
 **How do top players use the serve to create Control?**
 
@@ -36,9 +33,7 @@ control by using the serve as the first shot in a
 sequence.** **Every serve must be hit with a
 purpose.**
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_the-strategy-zone-serve-control/media/image2.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_the-strategy-zone-serve-control/media/image2.webp)
 
 **The Wide serve and the T serve: foundations of Control.**
 
@@ -47,10 +42,10 @@ in the point first wins seven out of ten times. If you can learn to use
 your serve to do this, you will have a higher winning percentage than
 you could ever dream of hitting aces and unreturnable serves.
 
-**[[As with all the shots, it's one thing to identify the patterns, and
+**[As with all the shots, it's one thing to identify the patterns, and
 another to execute them in match play.] [Too many players acquire
 new information and believe they can implement it immediately in
-competition. This is a recipe for failure.]]**
+competition. This is a recipe for failure.]**
 
 To develop the foundation for building your strategy zone system, you
 must work in progressive levels of drills. First you must master the
@@ -65,9 +60,7 @@ deuce and ad courts. The wide serve allows you to stretch out your
 opponent.** **Often with the wide serve, you take
 control from the very first ball.**
 
-![A tennis player hitting a ball Description automatically generated
-with low
-confidence](media_the-strategy-zone-serve-control/media/image3.webp)
+![A tennis player hitting a ball Description automatically generated with low confidence](media_the-strategy-zone-serve-control/media/image3.webp)
 
 **To serve wide in the Deuce court, cut the ball in half with your
 racket edge.**
@@ -86,17 +79,14 @@ left in command of the court.**
 the path and target area of the serve, and also the path of your racket
 as it moves upward to contact.**
 
-**[[In the deuce court, you must imagine that you are leading your swing
+**[In the deuce court, you must imagine that you are leading your swing
 with the edge of the racket. Visualize that you are using the edge of
 the racket to literally cut the ball in half. This will create the
-additional sidespin or slice necessary to hit this shot.]
-[Remember that even though you come to the ball with the edge of the
+additional sidespin or slice necessary to hit this shot.] [Remember that even though you come to the ball with the edge of the
 racket, there will still be some pronation in the
-finish.]]**
+finish.]**
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_the-strategy-zone-serve-control/media/image4.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_the-strategy-zone-serve-control/media/image4.webp)
 
 **To kick the ball wide, visualize brushing up.**
 
@@ -128,8 +118,7 @@ area**. **It's important on the T serves that the toss be somewhat
 into the court and not too far back or too close to the
 player.**
 
-![A person playing tennis Description automatically
-generated](media_the-strategy-zone-serve-control/media/image5.webp)
+![A person playing tennis Description automatically generated](media_the-strategy-zone-serve-control/media/image5.webp)
 
 **When going down the T it is important that the toss is slightly into
 the court and not too far back.**
@@ -157,7 +146,7 @@ building blocks.
 **The Control Challenge**
 
 As a starting point you can test your ability to hit the two wide serves
-and the two T serves. If you set up targets or \"runways\" as shown in
+and the two T serves. If you set up targets or "runways" as shown in
 the animations, how many serves out of 5 can you get to land in the
 target area?
 
@@ -168,8 +157,7 @@ reaches the baseline?
 **[The shorter the ball lands within the runway, the wider off the court
 it will take your opponent.]**
 
-![A person playing tennis Description automatically generated with low
-confidence](media_the-strategy-zone-serve-control/media/image6.webp)
+![A person playing tennis Description automatically generated with low confidence](media_the-strategy-zone-serve-control/media/image6.webp)
 
 **Runway targets will help develop and sharpen your placements.**
 
@@ -194,9 +182,7 @@ In the Strategy Zone package, we also outline a comprehensive series of
 additional drills and games that will let you develop this ability step
 by step. [link](http://www.nicksstrategyzone.com/)
 
-![A tennis player is serving the ball Description automatically
-generated with low
-confidence](media_the-strategy-zone-serve-control/media/image7.webp)
+![A tennis player is serving the ball Description automatically generated with low confidence](media_the-strategy-zone-serve-control/media/image7.webp)
 
 **Can you read where Henman is going with the serve from the ball
 toss?**
@@ -225,56 +211,46 @@ to go with the serve.
 Next, we'll take a look at developing control on the return. Stay
 tuned.
 
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![A couple of men holding tennis rackets Description automatically generated with medium                                                                                         Nick Bollettieri (right) is the legendary coach
-  confidence](media_the-strategy-zone-serve-control/media/image8.jpeg)                                                                                                                                                   Seles, Andre Agassi, Jim Courier, and Maria
-                                                                                                                                                                                   Sharapova. Nick is the creator of the tennis
-                                                                                                                                                                                   academy concept and has watched his vision grow
-                                                                                                                                                                                   for over 30 years into the world's premier
-                                                                                                                                                                                   tennis training ground at IMG Bollettieri in
-                                                                                                                                                                                   Bradenton, Florida. Over the years Nick has
-                                                                                                                                                                                   collaborated with many of the leading innovators
-                                                                                                                                                                                   in coaching, introducing and incorporating their
-                                                                                                                                                                                   concepts into training programs at the Academy.\
-                                                                                                                                                                                   \
-                                                                                                                                                                                   Lance Luciani (left), the founder of Strategy
-                                                                                                                                                                                   Zone, is one of the world's leading analysts of
-                                                                                                                                                                                   statistics and strategy, and the Head of
-                                                                                                                                                                                   Strategy and Tactics at IMG/Bollettieri
-                                                                                                                                                                                   Academies. Lance was a pioneer in the video
-                                                                                                                                                                                   analysis of match play at all levels of the
-                                                                                                                                                                                   game. At the Academy he has created the cutting
-                                                                                                                                                                                   edge system used by players to study the
-                                                                                                                                                                                   patterns of their points from real time play.
-                                                                                                                                                                                   This system is revolutionizing how competitors
-                                                                                                                                                                                   develop and improve their strategic style.
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ------------------------------------------------
+![A couple of men holding tennis rackets Description automatically generated with medium                                                                                         Nick Bollettieri (right) is the legendary coach confidence](media_the-strategy-zone-serve-control/media/image8.jpeg)                                                                                                                                                   Seles, Andre Agassi, Jim Courier, and Maria
+Sharapova. Nick is the creator of the tennis
+academy concept and has watched his vision grow
+for over 30 years into the world's premier
+tennis training ground at IMG Bollettieri in
+Bradenton, Florida. Over the years Nick has
+collaborated with many of the leading innovators
+in coaching, introducing and incorporating their
+concepts into training programs at the Academy.\
+\
+Lance Luciani (left), the founder of Strategy
+Zone, is one of the world's leading analysts of
+statistics and strategy, and the Head of
+Strategy and Tactics at IMG/Bollettieri
+Academies. Lance was a pioneer in the video
+analysis of match play at all levels of the
+game. At the Academy he has created the cutting
+edge system used by players to study the
+patterns of their points from real time play.
+This system is revolutionizing how competitors
+develop and improve their strategic style.
 
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![A couple of men holding tennis rackets Description automatically generated with medium                                                                                         Nick Bollettieri (right) is the legendary coach
-  confidence](media_the-strategy-zone-serve-control/media/image8.jpeg)                                                                                                                                                   Seles, Andre Agassi, Jim Courier, and Maria
-                                                                                                                                                                                   Sharapova. Nick is the creator of the tennis
-                                                                                                                                                                                   academy concept and has watched his vision grow
-                                                                                                                                                                                   for over 30 years into the world's premier
-                                                                                                                                                                                   tennis training ground at IMG Bollettieri in
-                                                                                                                                                                                   Bradenton, Florida. Over the years Nick has
-                                                                                                                                                                                   collaborated with many of the leading innovators
-                                                                                                                                                                                   in coaching, introducing and incorporating their
-                                                                                                                                                                                   concepts into training programs at the Academy.\
-                                                                                                                                                                                   \
-                                                                                                                                                                                   Lance Luciani (left), the founder of Strategy
-                                                                                                                                                                                   Zone, is one of the world's leading analysts of
-                                                                                                                                                                                   statistics and strategy, and the Head of
-                                                                                                                                                                                   Strategy and Tactics at IMG/Bollettieri
-                                                                                                                                                                                   Academies. Lance was a pioneer in the video
-                                                                                                                                                                                   analysis of match play at all levels of the
-                                                                                                                                                                                   game. At the Academy he has created the cutting
-                                                                                                                                                                                   edge system used by players to study the
-                                                                                                                                                                                   patterns of their points from real time play.
-                                                                                                                                                                                   This system is revolutionizing how competitors
-                                                                                                                                                                                   develop and improve their strategic style.
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ------------------------------------------------
-
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A couple of men holding tennis rackets Description automatically generated with medium                                                                                         Nick Bollettieri (right) is the legendary coach confidence](media_the-strategy-zone-serve-control/media/image8.jpeg)                                                                                                                                                   Seles, Andre Agassi, Jim Courier, and Maria
+Sharapova. Nick is the creator of the tennis
+academy concept and has watched his vision grow
+for over 30 years into the world's premier
+tennis training ground at IMG Bollettieri in
+Bradenton, Florida. Over the years Nick has
+collaborated with many of the leading innovators
+in coaching, introducing and incorporating their
+concepts into training programs at the Academy.\
+\
+Lance Luciani (left), the founder of Strategy
+Zone, is one of the world's leading analysts of
+statistics and strategy, and the Head of
+Strategy and Tactics at IMG/Bollettieri
+Academies. Lance was a pioneer in the video
+analysis of match play at all levels of the
+game. At the Academy he has created the cutting
+edge system used by players to study the
+patterns of their points from real time play.
+This system is revolutionizing how competitors
+develop and improve their strategic style.

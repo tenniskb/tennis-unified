@@ -18,9 +18,10 @@ patterns demonstrated by David and skilled players he has worked with
 and learn how to improve your court coverage and the speed of your
 movement going wide.
 
-![link](media_the-golden-move-11-the-mogul-move/media/image1.png)
 
-![link](media_the-golden-move-11-the-mogul-move/media/image2.jpeg)
+![Video demonstration](media_the-golden-move-11-the-mogul-move/media/image2.jpeg)
+
+*Video demonstration — the original video for this article was hosted on TennisPlayer.net.*
 
 David Bailey is a native Australian who has spent 15 years studying
 tennis at the professional level. He has developed a new language for

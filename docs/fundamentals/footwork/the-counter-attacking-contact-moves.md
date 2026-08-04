@@ -5,8 +5,7 @@ Contact Moves**
 
 **David Bailey**
 
-![A person playing tennis Description automatically
-generated](media_the-counter-attacking-contact-moves/media/image1.webp)
+![A person playing tennis Description automatically generated](media_the-counter-attacking-contact-moves/media/image1.webp)
 
 **The Two Foot and the One Foot Pivot: the two predominant
 counterattacking Contact Moves.**
@@ -46,9 +45,7 @@ opponent a difficult ball. This could be a ball that forces the opponent
 on time. Or a heavily spun ball that bounces above shoulder level. Or a
 hard hit flatter ball, often hit directly at the body.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_the-counter-attacking-contact-moves/media/image2.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_the-counter-attacking-contact-moves/media/image2.webp)
 
 **In the women's game players use the two foot pivot on both the
 forehand and the two handed backhand.**
@@ -84,9 +81,7 @@ degrees angle or sometimes even more. During the swing, the legs uncoil
 and partially straighten. But during the followthrough the player drops
 the knees down again for balance.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_the-counter-attacking-contact-moves/media/image3.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_the-counter-attacking-contact-moves/media/image3.webp)
 
 **In the men's game the One Foot Pivot is the more common
 counterattacking Contact Move.**
@@ -97,8 +92,8 @@ In the men's game, the Two Foot Pivot is rare and the One Foot Pivot is
 much more common. Typically the ball is coming up too high and fast to
 hit with both feet on the ground.
 
-On these balls, the players keep one foot\--the outside foot or the foot
-closer to the ball\--on the court and pivot on it through the shot. The
+On these balls, the players keep one foot--the outside foot or the foot
+closer to the ball--on the court and pivot on it through the shot. The
 opposite leg and the opposite foot come upwards into the air often with
 a pronounced knee bend. This increased elevation allows players to deal
 with a higher contact point without having to go completely airborne.
@@ -118,9 +113,7 @@ Although it is more much more common on the forehand, you will also see
 the One Foot Pivot used on the two-handed backhand. Again it's
 typically when the ball is hit hard, deep and not especially high.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_the-counter-attacking-contact-moves/media/image4.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_the-counter-attacking-contact-moves/media/image4.webp)
 
 **Although rarer, you see the One Foot Pivot on the two-hander at
 times.**
@@ -146,7 +139,9 @@ degrees, or until it points forward at the net.
 So that's it for our third category: the Counter Attacking Moves. Stay
 tuned for the Defensive Contact Moves!
 
-![link](media_the-counter-attacking-contact-moves/media/image5.jpeg)
+![Video demonstration](media_the-counter-attacking-contact-moves/media/image5.jpeg)
+
+*Video demonstration — the original video for this article was hosted on TennisPlayer.net.*
 
 David Bailey is a native Australian who has spent 15 years studying
 tennis at the professional level. He has developed a new language for

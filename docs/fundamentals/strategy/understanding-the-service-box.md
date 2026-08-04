@@ -2,11 +2,7 @@
 
 ### Paul Lockwood
 
-------------------------------------------------------------------------
-
-![A picture containing text, person, person, standing Description
-automatically
-generated](media_understanding-the-service-box/media/image1.jpg)
+![A picture containing text, person, person, standing Description automatically generated](media_understanding-the-service-box/media/image1.jpg)
 
 **Mr. Chuck Straley: math teacher, tennis coach, guide to the service
 box.**
@@ -34,22 +30,20 @@ learned to develop all three serves to the left half and the right half.
 So that meant you would have 6 serves to each side for a total of 12
 different options.
 
-![A picture containing athletic game, sport, tennis, court Description
-automatically
-generated](media_understanding-the-service-box/media/image2.webp)
+![A picture containing athletic game, sport, tennis, court Description automatically generated](media_understanding-the-service-box/media/image2.webp)
 
 **Complete serving means understanding all thirds of the box.**
 
-But then Mr. Straley said, **\"Paul we're going to get you to the
-point where you can divide that box into thirds.\" So that meant having
+But then Mr. Straley said, **"Paul we're going to get you to the
+point where you can divide that box into thirds." So that meant having
 all three serves wide, and all three serves to the T. But it also meant
 have all three serves to the middle third of the
 box.**
 
 Mr.Straley thought if you couldn't serve the middle third in both
 boxes, you weren't really a complete server, and to this day, I believe
-he was right. \"So now Paul,\" he said, \"you are going to have 18
-options in the delivery of your serve.\" And it's funny now after
+he was right. "So now Paul," he said, "you are going to have 18
+options in the delivery of your serve." And it's funny now after
 playing the juniors, playing college tennis, and coaching at the
 Division 1 level for over 20 years, that's the one lesson I remember
 the most.
@@ -64,9 +58,7 @@ sprinkling in only a kick serve to the 'T' or a slice serve to the
 'T' or whatever, just as a change-up. But I would primarily go right
 back to what was working.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_understanding-the-service-box/media/image3.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_understanding-the-service-box/media/image3.webp)
 
 **Like pitching mix your serves to keep the returner off balance.**
 
@@ -92,9 +84,7 @@ So, I learned at a young age that there are many ways to win a point.
 It's rare that it's by aces. It's usually by getting a lot of
 different deliveries that present problems for your opponent.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_understanding-the-service-box/media/image4.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_understanding-the-service-box/media/image4.webp)
 
 **The middle third is the most under used part of the box.**
 
@@ -127,9 +117,7 @@ Those serves allow you to force errors with the element of surprise. The
 returner will at best just try to get the ball back, and that can allow
 you to take control of the point on the first ball.
 
-![A picture containing text, tennis, athletic game, sport Description
-automatically
-generated](media_understanding-the-service-box/media/image5.webp)
+![A picture containing text, tennis, athletic game, sport Description automatically generated](media_understanding-the-service-box/media/image5.webp)
 
 **Hitting a different serve at the right moment takes courage and can
 win matches.**
@@ -143,8 +131,8 @@ guy got to match point, but I could feel that it was important to get
 the match on the first try and that the momentum was in danger of
 swinging.
 
-So, before the point, I went over to the fence and told him, \"Kick the
-first serve down the T.\" And my player kicked the ball perfectly to the
+So, before the point, I went over to the fence and told him, "Kick the
+first serve down the T." And my player kicked the ball perfectly to the
 T, and his opponent charged it, expecting the lower bouncing slice,
 moving away from him. Instead, the ball bounced up and into him and
 almost hit his armpit. He missed the return and that was the match.
@@ -157,20 +145,30 @@ to deviate from the slider and execute a different serve. But the bottom
 line was he did something unexpected at a critical moment and allowed
 him to win a big match.
 
-| ![A person in a white shirt Description automatically generated with low | Paul Lockwood retired this year as men's |
-| --- | --- |
-| confidence](media_understanding-the-service-box/media/image6.jpeg) | Sooners to 325 wins in 22 years. As a player |
-|  | at OU, he won the conference #1 singles and |
-|  | #1 doubles title in his senior year, leading |
-|  | his team to the conference championship as |
-|  | well. He was a highly nationally ranked |
-|  | junior and trained with contemporaries such |
-|  | as Brian Gottfried at the original Nick |
-|  | Bollettieri academy in Port Washington, New |
-|  | York. Currently he is the director of the |
-|  | new Gregg Wadley Tennis Pavillion in Norman, |
-|  | where he also has a select private coaching |
-|  | practice. |
-|  |  |
-|  |  |
+![A person in a white shirt Description automatically generated with low confidence](media_understanding-the-service-box/media/image6.jpeg)
 
+Paul Lockwood retired this year as men's
+
+Sooners to 325 wins in 22 years. As a player
+
+at OU, he won the conference #1 singles and
+
+#1 doubles title in his senior year, leading
+
+his team to the conference championship as
+
+well. He was a highly nationally ranked
+
+junior and trained with contemporaries such
+
+as Brian Gottfried at the original Nick
+
+Bollettieri academy in Port Washington, New
+
+York. Currently he is the director of the
+
+new Gregg Wadley Tennis Pavillion in Norman,
+
+where he also has a select private coaching
+
+practice.

@@ -5,8 +5,7 @@ Offensive Contact Moves**
 
 **David Bailey**
 
-![A person playing tennis Description automatically
-generated](media_return-of-serve-offensive-contact-moves/media/image1.webp)
+![A person playing tennis Description automatically generated](media_return-of-serve-offensive-contact-moves/media/image1.webp)
 
 **Offensive Contact Moves mean attacking the return with your feet.**
 
@@ -20,32 +19,43 @@ There are three for the forehand: the Forward Transfer, the Run Around
 Forward Transfer, and the Step Down. Then there are two offensive
 contact moves for the backhand: the Forward Transfer and the Step Down.
 
-|  | **For each of these Contact Moves we will outline:** |  |  |  |
-| --- | --- | --- | --- | --- |
-|  | 1\. Type ball |  |  |  |
-|  |  |  |  |  |
-|  | 2\. Out steps |  |  |  |
-|  |  |  |  |  |
-|  | 3\. Hitting Stance |  |  |  |
-|  |  |  |  |  |
-|  | 4\. Contact Move itself |  |  |  |
-|  |  |  |  |  |
-|  | 5\. Balance Move |  |  |  |
-|  |  |  |  |  |
-|  | 6\. Recovery Steps |  |  |  |
-| **Backhand Transfer |  | +--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+ |  |  |
-| Preparation:** |  |  |  |  |
-|  |  | +:====================================================================================================================================================================================:+ |  |  |
-|  Split Step |  |  | ![A person playing tennis Description automatically |  |
-|  |  |  | generated](media_return-of-serve-offensive-contact-moves/media/image2.webp) |  |
-|  |  |  |  |  |
-|  Outside Foot at 45 |  |  | **The open stance set up with the front foot at 45 degrees and a deep knee bend.** |  |
-| Degrees |  | +--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+ |  |  |
-|  |  |  |  |  |
-|  Open Stance |  |  |  |  |
-|  |  |  |  |  |
-|  Deep Knee Bend |  |  |  |  |
+**Backhand Transfer
 
+Preparation:**
+
+ Split Step
+
+ Outside Foot at 45
+
+Degrees
+
+ Open Stance
+
+ Deep Knee Bend
+
+**For each of these Contact Moves we will outline:**
+
+1. Type ball
+
+2. Out steps
+
+3. Hitting Stance
+
+4. Contact Move itself
+
+5. Balance Move
+
+6. Recovery Steps
+
++--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
++:====================================================================================================================================================================================:+
+
++--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+![A person playing tennis Description automatically generated](media_return-of-serve-offensive-contact-moves/media/image2.webp)
+
+**The open stance set up with the front foot at 45 degrees and a deep knee bend.**
 
 **Forehand Forward Transfer**
 
@@ -69,24 +79,21 @@ create this set up, use gravity to your advantage and don't try to
 force the bend. Think of just relaxing and letting the legs go down. The
 posture is upright with a vertical body alignment.
 
-| ![A person playing tennis Description automatically |  |  |
-| --- | --- | --- |
-| generated](media_return-of-serve-offensive-contact-moves/media/image3.webp) |  |  |
-|  |  |  |
-| **Backhand Transfer Swing:** |  |  |
-|  |  |  |
-|  Push Off with Outside Foot |  |  |
-|  |  |  |
-|  Step Forward with Front Foot |  |  |
-|  |  |  |
-|  Contact in Air |  |  |
-|  |  |  |
-|  Front Foot Landing and Kick Back |  |  |
-|  |  |  |
-|  Breaking Step |  |  |
-|  |  |  |
-|  Crossover Recovery |  |  |
+![A person playing tennis Description automatically generated](media_return-of-serve-offensive-contact-moves/media/image3.webp)
 
+**Backhand Transfer Swing:**
+
+ Push Off with Outside Foot
+
+ Step Forward with Front Foot
+
+ Contact in Air
+
+ Front Foot Landing and Kick Back
+
+ Breaking Step
+
+ Crossover Recovery
 
 As the forward swing starts, the weight transfers directly into the
 shot. The outside leg uncoils, propelling the player's entire body
@@ -114,28 +121,25 @@ If the return is hit particularly well then the Forward Transfer is also
 great to follow into the net as the weight is already going forward with
 the player already inside the baseline.
 
-| ![A person playing tennis Description automatically |  |  |
-| --- | --- | --- |
-| generated](media_return-of-serve-offensive-contact-moves/media/image4.webp) |  |  |
-|  |  |  |
-| **Forehand Run Around Transfer:** |  |  |
-|  |  |  |
-|  Split Step |  |  |
-|  |  |  |
-|  Shuffle Steps Around Ball |  |  |
-|  |  |  |
-|  Semi Open Stance |  |  |
-|  |  |  |
-|  Push Off and Transfer Step |  |  |
-|  |  |  |
-|  Contact in Air |  |  |
-|  |  |  |
-|  Front Foot Landing with Kick Back |  |  |
-|  |  |  |
-|  Breaking Step |  |  |
-|  |  |  |
-|  Shuffle Recovery |  |  |
+![A person playing tennis Description automatically generated](media_return-of-serve-offensive-contact-moves/media/image4.webp)
 
+**Forehand Run Around Transfer:**
+
+ Split Step
+
+ Shuffle Steps Around Ball
+
+ Semi Open Stance
+
+ Push Off and Transfer Step
+
+ Contact in Air
+
+ Front Foot Landing with Kick Back
+
+ Breaking Step
+
+ Shuffle Recovery
 
 **Runaround Forehand Transfer**
 
@@ -169,26 +173,23 @@ The Run around Forward Transfer move is equally great to follow into the
 net on a well hit return, as already the weight is going forward and you
 finish the shot well inside the baseline.
 
-| ![A person playing tennis Description automatically generated with medium |  |  |
-| --- | --- | --- |
-| confidence](media_return-of-serve-offensive-contact-moves/media/image5.webp) |  |  |
-|  |  |  |
-| **Forehand Step Down:** |  |  |
-|  |  |  |
-|  Step Out |  |  |
-|  |  |  |
-|  Shuffle Adjusting Step |  |  |
-|  |  |  |
-|  Neutral Stance |  |  |
-|  |  |  |
-|  Front Foot on Court at Contact |  |  |
-|  |  |  |
-|  Rear Leg Kick Back |  |  |
-|  |  |  |
-|  Breaking Step |  |  |
-|  |  |  |
-|  Crossover Recovery |  |  |
+![A person playing tennis Description automatically generated with medium confidence](media_return-of-serve-offensive-contact-moves/media/image5.webp)
 
+**Forehand Step Down:**
+
+ Step Out
+
+ Shuffle Adjusting Step
+
+ Neutral Stance
+
+ Front Foot on Court at Contact
+
+ Rear Leg Kick Back
+
+ Breaking Step
+
+ Crossover Recovery
 
 **Forehand Step Down Return**
 
@@ -238,26 +239,23 @@ great to follow into the net. As with the forward transfer, the weight
 is already going forward and the player is typically already inside the
 baseline.
 
-| ![A person playing tennis Description automatically generated with medium |  |  |
-| --- | --- | --- |
-| confidence](media_return-of-serve-offensive-contact-moves/media/image6.webp) |  |  |
-|  |  |  |
-| **Backhand Transfer Semi Open:** |  |  |
-|  |  |  |
-|  Split Step |  |  |
-|  |  |  |
-|  Outside Foot at 45 Degrees |  |  |
-|  |  |  |
-|  Semi Open Stance |  |  |
-|  |  |  |
-|  Semi Open |  |  |
-|  |  |  |
-|  Transfer Step |  |  |
-|  |  |  |
-|  Kick Back |  |  |
-|  |  |  |
-|  Shuffle Step Recovery |  |  |
+![A person playing tennis Description automatically generated with medium confidence](media_return-of-serve-offensive-contact-moves/media/image6.webp)
 
+**Backhand Transfer Semi Open:**
+
+ Split Step
+
+ Outside Foot at 45 Degrees
+
+ Semi Open Stance
+
+ Semi Open
+
+ Transfer Step
+
+ Kick Back
+
+ Shuffle Step Recovery
 
 **Backhand Transfer Return**
 
@@ -294,30 +292,27 @@ heel of the back leg coming upwards. This createsgood body balance and
 helps the player extend through the swing. The finish is with the elbow
 high and in front and the hips and front toe ending up facing the net.
 
-| ![A picture containing tennis, sport, athletic game, road Description automatically |  |  |
-| --- | --- | --- |
-| generated](media_return-of-serve-offensive-contact-moves/media/image7.webp) |  |  |
-|  |  |  |
-| **Back Transfer Open Stance:** |  |  |
-|  |  |  |
-|  Split Step |  |  |
-|  |  |  |
-|  Outside Foot at 45 Degrees |  |  |
-|  |  |  |
-|  Deeper Knee Bend |  |  |
-|  |  |  |
-|  Open Stance |  |  |
-|  |  |  |
-|  Contact in Air |  |  |
-|  |  |  |
-|  Front Foot Landing |  |  |
-|  |  |  |
-|  Kick Back |  |  |
-|  |  |  |
-|  Break Step |  |  |
-|  |  |  |
-|  Reverse Crossover Recovery |  |  |
+![A picture containing tennis, sport, athletic game, road Description automatically generated](media_return-of-serve-offensive-contact-moves/media/image7.webp)
 
+**Back Transfer Open Stance:**
+
+ Split Step
+
+ Outside Foot at 45 Degrees
+
+ Deeper Knee Bend
+
+ Open Stance
+
+ Contact in Air
+
+ Front Foot Landing
+
+ Kick Back
+
+ Break Step
+
+ Reverse Crossover Recovery
 
 After the followthrough, the back foot typically swings around, lands,
 and brakes the player. The player then pushes off to recover. The type
@@ -330,30 +325,27 @@ If the return is hit aggressively enough, the backhand transfer move is
 great to follow into the net as the weight is going forward and the
 player finishes the shot well inside the baseline.
 
-| ![A person playing tennis Description automatically generated with medium |  |  |
-| --- | --- | --- |
-| confidence](media_return-of-serve-offensive-contact-moves/media/image8.webp) |  |  |
-|  |  |  |
-| **1 Hand Backhand Transfer:** |  |  |
-|  |  |  |
-|  Split Step |  |  |
-|  |  |  |
-|  Body Turn |  |  |
-|  |  |  |
-|  Outside Foot at 45 Degrees |  |  |
-|  |  |  |
-|  Open Stance with Knee Bend |  |  |
-|  |  |  |
-|  Transfer Step Forward and Sideways |  |  |
-|  |  |  |
-|  Contact in Air |  |  |
-|  |  |  |
-|  Front Foot Landing |  |  |
-|  |  |  |
-|  Kick Back to Sideline |  |  |
-|  |  |  |
-|  Break Step with Rear Foot |  |  |
+![A person playing tennis Description automatically generated with medium confidence](media_return-of-serve-offensive-contact-moves/media/image8.webp)
 
+**1 Hand Backhand Transfer:**
+
+ Split Step
+
+ Body Turn
+
+ Outside Foot at 45 Degrees
+
+ Open Stance with Knee Bend
+
+ Transfer Step Forward and Sideways
+
+ Contact in Air
+
+ Front Foot Landing
+
+ Kick Back to Sideline
+
+ Break Step with Rear Foot
 
 **One Hand Backhand**
 
@@ -376,26 +368,23 @@ After the balance move the rear leg comes around to break the motion,
 though usually not as far around as on the two hander. From here the
 player is ready to move in the appropriate recovery pattern.
 
-| ![A person holding a tennis racket Description automatically |  |  |
-| --- | --- | --- |
-| generated](media_return-of-serve-offensive-contact-moves/media/image9.webp) |  |  |
-|  |  |  |
-| **1 Hand Backhand Step Down On Rise:** |  |  |
-|  |  |  |
-|  Split Step |  |  |
-|  |  |  |
-|  Pivot with Knee Bend |  |  |
-|  |  |  |
-|  Outside Foot at 45 Degrees |  |  |
-|  |  |  |
-|  Step Down into Neutral Stance |  |  |
-|  |  |  |
-|  Front Foot on Court at Contact |  |  |
-|  |  |  |
-|  Rear Leg Sideways Kick Back |  |  |
-|  |  |  |
-|  Shuffle Step Recovery |  |  |
+![A person holding a tennis racket Description automatically generated](media_return-of-serve-offensive-contact-moves/media/image9.webp)
 
+**1 Hand Backhand Step Down On Rise:**
+
+ Split Step
+
+ Pivot with Knee Bend
+
+ Outside Foot at 45 Degrees
+
+ Step Down into Neutral Stance
+
+ Front Foot on Court at Contact
+
+ Rear Leg Sideways Kick Back
+
+ Shuffle Step Recovery
 
 **One Handed Backhand Step Down**
 
@@ -424,26 +413,23 @@ toward the sideline on the step down. After the shot is complete, the
 back leg comes around positioning the player to recover in either
 direction using a variety of possible recovery steps.
 
-| ![A person playing tennis Description automatically |  |
-| --- | --- |
-| generated](media_return-of-serve-offensive-contact-moves/media/image10.webp) |  |
-|  |  |
-| **1 Hand Backhand Step Down Moves Back:** |  |
-|  |  |
-|  Split Step and Steps Back |  |
-|  |  |
-|  Shuffle Step Body Turn |  |
-|  |  |
-|  Neutral Stance |  |
-|  |  |
-|  Front Foot on Court at Contact |  |
-|  |  |
-|  Kick Back to Sideline |  |
-|  |  |
-|  Breaking Step |  |
-|  |  |
-|  Crossover Recovery |  |
+![A person playing tennis Description automatically generated](media_return-of-serve-offensive-contact-moves/media/image10.webp)
 
+**1 Hand Backhand Step Down Moves Back:**
+
+ Split Step and Steps Back
+
+ Shuffle Step Body Turn
+
+ Neutral Stance
+
+ Front Foot on Court at Contact
+
+ Kick Back to Sideline
+
+ Breaking Step
+
+ Crossover Recovery
 
 As I noted in the first article, the variety of step and movement
 patterns on the returns, as in all shots, is much more complex than has
@@ -470,7 +456,9 @@ a step by step methodology for causing this improvement to occur.
 So that's it for the aggressive return Contact Moves! Next we'll move
 on to neutral and then defensive moves. Stay tuned for that!
 
-![link](media_return-of-serve-offensive-contact-moves/media/image11.jpeg)
+![Video demonstration](media_return-of-serve-offensive-contact-moves/media/image11.jpeg)
+
+*Video demonstration — the original video for this article was hosted on TennisPlayer.net.*
 
 David Bailey is a native Australian who has spent 15 years studying
 tennis at the professional level. He has developed a new language for

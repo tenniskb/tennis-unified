@@ -2,11 +2,7 @@
 
 ### By Allen Fox, Ph.D.
 
-------------------------------------------------------------------------
-
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_unrealistic-perfectionism/media/image1.jpg)
+![A person playing tennis Description automatically generated with medium confidence](media_unrealistic-perfectionism/media/image1.jpg)
 
 **Highly motivated players can be too hard on themselves.**
 
@@ -20,18 +16,13 @@ their tournament wins or strong performances. They look at players
 ranked above them as proof that they are not doing as well as they
 should.
 
-They will tell me, \"I should have beaten so and so.\" or \"I am playing
+They will tell me, "I should have beaten so and so." or "I am playing
 so much better in practice than in tournaments. I should be doing better
-and ranked higher.\" No matter what their ranking is, they are
+and ranked higher." No matter what their ranking is, they are
 dissatisfied, thinking they are somehow remiss and ought to be higher.
 
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                  ![A person holding a trophy Description automatically generated with medium
-   confidence](media_unrealistic-perfectionism/media/image2.jpg)
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                             **A key is to learn to really enjoy your successes.**
-
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person holding a trophy Description automatically generated with medium confidence](media_unrealistic-perfectionism/media/image2.jpg)
+**A key is to learn to really enjoy your successes.**
 
 **With these highly motivated individuals their strong points are also
 their weak points. Having high goals and being powerfully motivated
@@ -53,13 +44,8 @@ It is important, then, for these people to develop better perspective so
 that they can appreciate their successes, recover quickly from their
 failures, and enjoy the process of working hard to improve their games.
 
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                          ![A person sitting in a chair Description automatically generated with medium
-   confidence](media_unrealistic-perfectionism/media/image3.jpg)
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                          **Perfectionism and stress can actually lead to clinical mental disorders.**
-
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person sitting in a chair Description automatically generated with medium confidence](media_unrealistic-perfectionism/media/image3.jpg)
+**Perfectionism and stress can actually lead to clinical mental disorders.**
 
 The fact is that prolonged stress has harmful physical effects. Our
 bodies and nervous systems were not designed to handle constant stress
@@ -83,13 +69,8 @@ sources of stress) is not terribly important in the greater scheme of
 our lives. The most substantial problem most of us really have is the
 stress itself.
 
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                        ![A picture containing text, indoor Description automatically
-   generated](media_unrealistic-perfectionism/media/image4.jpg)
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                    **What does it mean when a 3.9 grade point average not good enough?**
-
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A picture containing text, indoor Description automatically generated](media_unrealistic-perfectionism/media/image4.jpg)
+**What does it mean when a 3.9 grade point average not good enough?**
 
 As an example, I was working with a junior, call him Sam, who was ranked
 about #25 in Southern California. Sam was dissatisfied with his
@@ -101,7 +82,7 @@ felt he should be.
 His high-achieving father was a powerful influence and pushed him for
 better results on the tennis court as well as in the classroom. He did
 it with the best of intentions and was in no way abusive, but the
-message was clear, \"You can do better!\" (Sam carried a grade-point
+message was clear, "You can do better!" (Sam carried a grade-point
 average of 3.9 on a 4.0 scale.)
 
 When I first met Sam, the depressed, negative look on his face was
@@ -112,13 +93,8 @@ behind, and felt the match slipping away. The problems were even working
 their way into his practices, where he was finding it more and more
 difficult to put in a productive day's effort.
 
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                  ![A person with his mouth open Description automatically generated with low
-   confidence](media_unrealistic-perfectionism/media/image5.jpg)
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                  **Blowing a fuse often stems from the overwhelming urge to escape stress.**
-
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person with his mouth open Description automatically generated with low confidence](media_unrealistic-perfectionism/media/image5.jpg)
+**Blowing a fuse often stems from the overwhelming urge to escape stress.**
 
 Particularly unhelpful were his father's well-intentioned suggestions
 and exhortations. As a non-player himself he simply couldn't understand
@@ -146,20 +122,15 @@ brought on, in my opinion, by setting his expectations too high and
 abasing himself for not achieving them. He was unaware of the damage he
 was doing to himself, but his body and mind were simply rebelling.
 
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                  ![A person holding a trophy Description automatically generated with medium
-   confidence](media_unrealistic-perfectionism/media/image6.jpg)
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                    **Tennis is a game you are playing for fun. Everything else is gravy.**
-
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person holding a trophy Description automatically generated with medium confidence](media_unrealistic-perfectionism/media/image6.jpg)
+**Tennis is a game you are playing for fun. Everything else is gravy.**
 
 Although most of the admirable, super-motivated achiever types are able
 to handle the pressures of their extraordinarily high goals, a few are
 not. As happened with Sam, some of the others I've worked had their
 debilitating symptoms surface in their late teens, and, like Sam, they
 tended to be the non-rebellious, people-pleasing kinds of kids, often
-described by others as \"the nicest kid in the world.\"
+described by others as "the nicest kid in the world."
 
 **Advising Sam**
 
@@ -180,13 +151,8 @@ ultimately be satisfying. If you don't enjoy it, quit. You can get in
 shape by running on a treadmill. The stress comes from making tennis
 more important than it really is.
 
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                  ![A person hitting a ball with his tennis racket Description automatically
-   generated](media_unrealistic-perfectionism/media/image7.jpg)
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                       Fact: at any level, there will always be players better than you.
-
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person hitting a ball with his tennis racket Description automatically generated](media_unrealistic-perfectionism/media/image7.jpg)
+Fact: at any level, there will always be players better than you.
 
 **There will always be players better than you. As for the thought
 that you should be better and beat this person or that person - there is
@@ -194,7 +160,7 @@ no end to it. Regardless of how good you get, there will always be
 players who can beat you.**
 
 **All you have to do is keep working to get better than you are. And
-if playing tournaments and other matches that \"count\" stress you,
+if playing tournaments and other matches that "count" stress you,
 don't play them.** **They are meaningless
 anyway.** But if you do decide to play, recognize
 that you never have anything to lose. Tournaments are all upside because
@@ -209,13 +175,8 @@ players, of which there is an endless supply. You can see there is no
 end to the process, so take pride in and enjoy your actual
 accomplishments at whatever level they may be.
 
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                              ![A person running on a tennis court Description automatically generated with medium
-   confidence](media_unrealistic-perfectionism/media/image8.jpg)
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                     **Improving is enjoyable and the ultimate objective is satisfaction.**
-
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person running on a tennis court Description automatically generated with medium confidence](media_unrealistic-perfectionism/media/image8.jpg)
+**Improving is enjoyable and the ultimate objective is satisfaction.**
 
 **Make improving your tennis a long-term project. It is a mistake to
 measure your results from day to day, match to match or tournament to
@@ -225,7 +186,7 @@ view.**
 
 **Remember, the ultimate object of the process is self-satisfaction.
 Getting good is enjoyable. If your progress seems to have stalled,
-recall your start as a player \-- when you would have been happy to just
+recall your start as a player -- when you would have been happy to just
 hit the ball in the court twice in a row, and recognize how far you have
 come - and take pride in your progress.**
 
@@ -244,61 +205,92 @@ Read More From Allen!
 
 Visit him at [www.allenfoxtennis.net](http://www.allenfoxtennis.net)
 
- 
+![A picture containing text, newspaper Description automatically generated](media_unrealistic-perfectionism/media/image9.jpeg)
 
-| ![A picture containing text, newspaper Description automatically | Winning the Mental Match Dr. Allen Fox |
-| --- | --- |
-| generated](media_unrealistic-perfectionism/media/image9.jpeg) | Tennis is mentally the most difficult sport due to it's personal nature which makes winning and losing feel more |
-|  | important than they are. In this new book, Allen offers his proven solutions to problems such as choking, reducing |
-|  | stress, finishing matches, and developing confidence. Based on a life time of high level play and coaching success, |
-|  | it's a must for all competitive players. |
-|  |  |
-|  | [ to |
-|  | Order](http://www.amazon.com/Tennis-Winning-Mental-Allen-Fox/dp/0615407765/ref=sr_1_1?ie=UTF8&qid=1336083459&sr=8-1). |
+Winning the Mental Match Dr. Allen Fox
 
+Tennis is mentally the most difficult sport due to it's personal nature which makes winning and losing feel more
 
-| ![Text Description automatically | Winning may not be everything, but Dr. Allen Fox points out |
-| --- | --- |
-| generated](media_unrealistic-perfectionism/media/image10.jpeg) | eminently preferable to losing. In his new book, The |
-|  | Winner's Mind, Allen lays out an original step-by-step |
-|  | plan for succeeding at any of life's endeavors, based on |
-|  | his first hand and very personal observations of the |
-|  | careers of both world-class tennis players and successful |
-|  | businessman. The bottom line is that even if you are not a |
-|  | born champion\--and only a tiny percentage of us are\--you |
-|  | can still use the success strategies of champions to tilt |
-|  | the odds in your favor. Writing with brutal honesty and dry |
-|  | humor, Fox lays out the common mental characteristics of |
-|  | winners in sports and in life. He explains the critical |
-|  | role of intellect over emotion. He analyzes the struggle |
-|  | between ambition and fear and the insidious and pervasive |
-|  | fear of failure that undermines so many of us. He then |
-|  | outline how to confront and overcome these fears in your |
-|  | life and career, even when they are initially subconscious. |
-|  | Must reading from one of the great thinkers in tennis, and |
-|  | a Renaissance Man in life. [ to |
-|  | Order](http://www.tennis-warehouse.com/descpage-MIND.html). |
-|  |  |
-|  | To purchase this book you can also send a check for \$17.95 |
-|  | to Allen Fox, 1120 Inverness Place, San Luis Obispo, CA. |
-|  | 93401. The price includes shipping. |
+important than they are. In this new book, Allen offers his proven solutions to problems such as choking, reducing
 
+stress, finishing matches, and developing confidence. Based on a life time of high level play and coaching success,
 
-| ![A person holding a tennis racket Description automatically | Allen Fox PhD is a former world class player, a coach, |
-| --- | --- |
-| generated](media_unrealistic-perfectionism/media/image11.gif) | insightful analysts in modern tennis. A top 10 |
-|  | American player from the glory days before Open |
-|  | tennis, Fox played many of the legendary greats, among |
-|  | them Roy Emerson, Rod Laver, Stan Smith, and Arthur |
-|  | Ashe. At Pepperdine he developed the men's tennis |
-|  | program into an elite contender for national titles, |
-|  | and gave Brad Gilbert the insights that became the |
-|  | foundation for \"Winning Ugly\". His book Think to Win |
-|  | is a modern classic. He has also starred in a series |
-|  | of acclaimed videos, including Pro Secrets of Match |
-|  | Play and Allen Fox's Ultimate Tennis Lesson. |
-|  |  |
-|  |  |
+it's a must for all competitive players.
 
+[ to
 
-------------------------------------------------------------------------
+Order](http://www.amazon.com/Tennis-Winning-Mental-Allen-Fox/dp/0615407765/ref=sr_1_1?ie=UTF8&qid=1336083459&sr=8-1).
+
+![Text Description automatically generated](media_unrealistic-perfectionism/media/image10.jpeg)
+
+Winning may not be everything, but Dr. Allen Fox points out
+
+eminently preferable to losing. In his new book, The
+
+Winner's Mind, Allen lays out an original step-by-step
+
+plan for succeeding at any of life's endeavors, based on
+
+his first hand and very personal observations of the
+
+careers of both world-class tennis players and successful
+
+businessman. The bottom line is that even if you are not a
+
+born champion--and only a tiny percentage of us are--you
+
+can still use the success strategies of champions to tilt
+
+the odds in your favor. Writing with brutal honesty and dry
+
+humor, Fox lays out the common mental characteristics of
+
+winners in sports and in life. He explains the critical
+
+role of intellect over emotion. He analyzes the struggle
+
+between ambition and fear and the insidious and pervasive
+
+fear of failure that undermines so many of us. He then
+
+outline how to confront and overcome these fears in your
+
+life and career, even when they are initially subconscious.
+
+Must reading from one of the great thinkers in tennis, and
+
+a Renaissance Man in life. [ to
+
+Order](http://www.tennis-warehouse.com/descpage-MIND.html).
+
+To purchase this book you can also send a check for $17.95
+
+to Allen Fox, 1120 Inverness Place, San Luis Obispo, CA.
+
+93401. The price includes shipping.
+
+![A person holding a tennis racket Description automatically generated](media_unrealistic-perfectionism/media/image11.gif)
+
+Allen Fox PhD is a former world class player, a coach,
+
+insightful analysts in modern tennis. A top 10
+
+American player from the glory days before Open
+
+tennis, Fox played many of the legendary greats, among
+
+them Roy Emerson, Rod Laver, Stan Smith, and Arthur
+
+Ashe. At Pepperdine he developed the men's tennis
+
+program into an elite contender for national titles,
+
+and gave Brad Gilbert the insights that became the
+
+foundation for "Winning Ugly". His book Think to Win
+
+is a modern classic. He has also starred in a series
+
+of acclaimed videos, including Pro Secrets of Match
+
+Play and Allen Fox's Ultimate Tennis Lesson.

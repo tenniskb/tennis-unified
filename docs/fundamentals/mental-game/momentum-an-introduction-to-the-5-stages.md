@@ -2,8 +2,6 @@
 
 ### By Alistair Higham
 
-------------------------------------------------------------------------
-
 Why are tennis matches often so unpredictable? What makes them twist and
 turn in such surprising and unexpected ways?
 
@@ -12,9 +10,7 @@ hitting winners with ease, looking calm and in control. 25 minutes
 later, she had lost the second set and was down 1-5 in the third.
 Nothing was working and now it was her opponent who couldn't miss.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_momentum-an-introduction-to-the-5-stages/media/image1.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_momentum-an-introduction-to-the-5-stages/media/image1.webp)
 
 **Momentum: an invisible force that comes from the flow of energy
 between players.**
@@ -47,13 +43,13 @@ reveal that even the best players in the world say they have played only
 a handful of matches when it felt as if everything was going their way
 for the entire match.
 
-| ![A person in a sports uniform Description automatically generated with medium | ![A person holding a tennis racket Description automatically | ![A picture containing person, sport, crowd Description automatically |
-| --- | --- | --- |
-| confidence](media_momentum-an-introduction-to-the-5-stages/media/image2.JPG) |  |  |
-| Images by J. Gregory Swendsen |  |  |
-| **In these articles you will learn to recognize momentum and respond to turning\ |  |  |
-| points to improve your results.** |  |  |
+![A person in a sports uniform Description automatically generated with medium confidence](media_momentum-an-introduction-to-the-5-stages/media/image2.JPG)
 
+Images by J. Gregory Swendsen
+
+**In these articles you will learn to recognize momentum and respond to turning\
+
+points to improve your results.**
 
 In the vast majority of matches, both players will encounter difficult
 situations, where things go against them. The real test of a player is
@@ -101,18 +97,14 @@ often see the unexpected reverses in matches described above.
 | - When momentum is **totally |
 | against you.** |
 
-
 The flow of momentum can move through these stages sometimes in a
 straight line, but also in a twisting line, which turns back on itself.
 Momentum can move from one stage to another very quickly if something
-significant happens, or slowly if nothing significant happens. ![A
-person holding a tennis racket Description automatically
-generated](media_momentum-an-introduction-to-the-5-stages/media/image5.jpg) ![A person playing tennis Description
+significant happens, or slowly if nothing significant happens. ![A person holding a tennis racket Description automatically generated](media_momentum-an-introduction-to-the-5-stages/media/image5.jpg) ![A person playing tennis Description
 automatically generated with medium
 confidence](media_momentum-an-introduction-to-the-5-stages/media/image6.png)
 
-![A person wearing a hat Description automatically generated with low
-confidence](media_momentum-an-introduction-to-the-5-stages/media/image7.jpg) ![A person playing tennis Description
+![A person wearing a hat Description automatically generated with low confidence](media_momentum-an-introduction-to-the-5-stages/media/image7.jpg) ![A person playing tennis Description
 automatically generated with medium
 confidence](media_momentum-an-introduction-to-the-5-stages/media/image8.png)
 
@@ -155,9 +147,7 @@ to understand and manage momentum you will develop the ability to raise
 your overall level of play and improve your match results on a
 consistent basis.**
 
-![A person with his eyes closed Description automatically generated with
-low
-confidence](media_momentum-an-introduction-to-the-5-stages/media/image9.jpeg)
+![A person with his eyes closed Description automatically generated with low confidence](media_momentum-an-introduction-to-the-5-stages/media/image9.jpeg)
 
 Alistair Higham is the National Manager of Coach Development for the
 LTA, the governing body for tennis in Great Britain. He is the author of
@@ -169,8 +159,7 @@ junior circuit, where he has had the unique opportunity to make a close
 study of the hidden force that dictates so much in the outcome of
 competitive tennis matches.
 
-![Map Description automatically generated with low
-confidence](media_momentum-an-introduction-to-the-5-stages/media/image10.jpeg)
+![Map Description automatically generated with low confidence](media_momentum-an-introduction-to-the-5-stages/media/image10.jpeg)
 
 **Momentum: The Hidden Force in Tennis Alistair Higham**
 

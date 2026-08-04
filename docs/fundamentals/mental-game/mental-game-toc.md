@@ -17,7 +17,7 @@ Jim Loehr virtually invented the concept of mental toughness. His work
 has been so seminal and so influential, that top pro players routinely
 model themselves on his work without even knowing the original source.
 Taking your time between points, learning to stay positive with your
-body language\--today there are hundreds of coaches and sports
+body language--today there are hundreds of coaches and sports
 psychologists who appropriate his insights and terminology everyday.
 
 Here you can see Jim's complete system, presented by the master
@@ -37,7 +37,7 @@ work of so many coaches who are parroting the insights of others. Based
 on years of keen observation on the international tour at both the
 professional and junior level, Alistair's work allows us to comprehend
 the powerful but hidden forces that control virtually all competitive
-matches\--and most interestingly to learn to how influence and/or shape
+matches--and most interestingly to learn to how influence and/or shape
 these forces.
 
 **David Sammel**

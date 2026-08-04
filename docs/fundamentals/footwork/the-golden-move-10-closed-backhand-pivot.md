@@ -16,9 +16,10 @@ this closed stance and how to recover. Watch David's demos---and then
 watch the Closed Backhand Pivot executed for the two hander and the one
 hander by players coached by David!
 
-![link](media_the-golden-move-10-closed-backhand-pivot/media/image1.png)
 
-![link](media_the-golden-move-10-closed-backhand-pivot/media/image2.jpeg)
+![Video demonstration](media_the-golden-move-10-closed-backhand-pivot/media/image2.jpeg)
+
+*Video demonstration — the original video for this article was hosted on TennisPlayer.net.*
 
 David Bailey is a native Australian who has spent 15 years studying
 tennis at the professional level. He has developed a new language for

@@ -6,22 +6,19 @@ The Slice Backhand**
 **John Yandell**
 
 All players need a slice, whether they hit with one hand or two. But is
-the \"modern\" slice hit with its radical downward swing the right model
+the "modern" slice hit with its radical downward swing the right model
 for most players? Let's take a look.
 
 The speed and especially spin in the modern game has forced an adaption
-in the slice swing patterns from its classical predecessors\--backhands
+in the slice swing patterns from its classical predecessors--backhands
 hit by players such as Ken Rosewall, Pancho Gonzales, Jack Kramer, and
 Don Budge.
 
 But those fundamental classical elements are still the blue print for
 most players in developing a sound and effective slice backhand.
 
-![link](media_ultimate-fundamentals-the-slice-backhand/media/image1.png)
 
-![A person smiling for the camera Description automatically generated
-with medium
-confidence](media_ultimate-fundamentals-the-slice-backhand/media/image2.jpeg)
+![A person smiling for the camera Description automatically generated with medium confidence](media_ultimate-fundamentals-the-slice-backhand/media/image2.jpeg)
 
 John Yandell is widely acknowledged as one of the leading videographers
 and students of the modern game of professional tennis. His high speed

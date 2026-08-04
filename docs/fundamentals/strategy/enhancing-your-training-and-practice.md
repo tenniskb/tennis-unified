@@ -2,11 +2,7 @@
 
 ### Nick Wheatley
 
-------------------------------------------------------------------------
-
-![A picture containing outdoor, road, sky, sport Description
-automatically
-generated](media_enhancing-your-training-and-practice/media/image1.webp)
+![A picture containing outdoor, road, sky, sport Description automatically generated](media_enhancing-your-training-and-practice/media/image1.webp)
 
 **There is little developmental benefit in simply hitting balls back and
 forth.**
@@ -37,9 +33,7 @@ shot with intent and get a winner or forced error, then the 3 points are
 yours. You can also claim the points if your top shot sets up a simple
 put away.
 
-![A picture containing road, outdoor, athletic game, sport Description
-automatically
-generated](media_enhancing-your-training-and-practice/media/image2.webp)
+![A picture containing road, outdoor, athletic game, sport Description automatically generated](media_enhancing-your-training-and-practice/media/image2.webp)
 
 **If your forehand down the line is your top shot, give yourself 3
 points for a winner.**
@@ -66,9 +60,7 @@ benefit of going to a right handed opponent's backhand. With the
 understanding you have built, straight away your tennis brain is
 thinking more productively through this type of practice game.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_enhancing-your-training-and-practice/media/image3.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_enhancing-your-training-and-practice/media/image3.webp)
 
 **You can also claim the 3 points if your top shot sets up an easy put
 away.**
@@ -93,9 +85,7 @@ pattern, asking players to decide which is their favoured pattern when
 they take into account not only their game but that of their opponent,
 assuming they know the opponent well enough.
 
-![A picture containing outdoor, sport, athletic game, tennis Description
-automatically
-generated](media_enhancing-your-training-and-practice/media/image4.webp)
+![A picture containing outdoor, sport, athletic game, tennis Description automatically generated](media_enhancing-your-training-and-practice/media/image4.webp)
 
 **The feed goes to your top shot and then you approach.**
 
@@ -127,9 +117,7 @@ first. In other words, they can't run around their backhand to hit a
 forehand from the feed. However, they can use this option on their
 second and subsequent shots.
 
-![A picture containing sky, outdoor, grass, athletic game Description
-automatically
-generated](media_enhancing-your-training-and-practice/media/image5.webp)
+![A picture containing sky, outdoor, grass, athletic game Description automatically generated](media_enhancing-your-training-and-practice/media/image5.webp)
 
 **In Down the Line Live, the scoring starts only when one player hits
 down the line.**
@@ -159,9 +147,7 @@ gone live. Secondly, quality crosscourt play may also lead to your
 opponent dropping the ball a little shorter and giving you a clearer
 opportunity to take the ball down the line.
 
-![A picture containing road, outdoor, athletic game, sport Description
-automatically
-generated](media_enhancing-your-training-and-practice/media/image6.webp)
+![A picture containing road, outdoor, athletic game, sport Description automatically generated](media_enhancing-your-training-and-practice/media/image6.webp)
 
 **Down the Line Live is about getting the rally to the crucial point of
 changing direction.**
@@ -181,9 +167,7 @@ successfully used their strengths to win points.
 
 **Serve and Return**
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_enhancing-your-training-and-practice/media/image7.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_enhancing-your-training-and-practice/media/image7.webp)
 
 **A serve, a return and then a split step.**
 
@@ -235,25 +219,34 @@ successfully used their strengths within the first 4 shots, enabling
 them to fully understand how they can do this in different scenarios,
 and that is what the next article is all about!
 
-| ![A person holding a tennis racket Description automatically | Nick Wheatley is an LTA Performance Coach and |
-| --- | --- |
-| generated](media_enhancing-your-training-and-practice/media/image8.jpeg) | His junior teams, the Hawker Jets, have won 44 |
-|  | competitions since formation, and over the last 2 |
-|  | years alone, his junior players have won 19 |
-|  | singles tournaments between them at county level. |
-|  |  |
-|  | He has been ranked in the top 75 nationally in 35 |
-|  | and over singles and in the top 5 in Surrey |
-|  | county. Nick has done video analysis for numerous |
-|  | players at all levels, including former British |
-|  | Top 10 player Marcus Willis. |
-|  |  |
-|  | His unique teaching video series, covering every |
-|  | aspect of the game, is available on his website |
-|  | [www.nickwtennis.com](http://www.nickwtennis.com) |
-|  |  |
-|  | You can also contact Nick directly via the |
-|  | homepage of his website. |
+![A person holding a tennis racket Description automatically generated](media_enhancing-your-training-and-practice/media/image8.jpeg)
 
+Nick Wheatley is an LTA Performance Coach and
 
-------------------------------------------------------------------------
+His junior teams, the Hawker Jets, have won 44
+
+competitions since formation, and over the last 2
+
+years alone, his junior players have won 19
+
+singles tournaments between them at county level.
+
+He has been ranked in the top 75 nationally in 35
+
+and over singles and in the top 5 in Surrey
+
+county. Nick has done video analysis for numerous
+
+players at all levels, including former British
+
+Top 10 player Marcus Willis.
+
+His unique teaching video series, covering every
+
+aspect of the game, is available on his website
+
+[www.nickwtennis.com](http://www.nickwtennis.com)
+
+You can also contact Nick directly via the
+
+homepage of his website.

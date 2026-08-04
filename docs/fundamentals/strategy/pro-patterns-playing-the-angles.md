@@ -2,8 +2,6 @@
 
 ### Craig Cignarelli
 
-------------------------------------------------------------------------
-
 The beauty of tennis lies in its attack and counterattack possibilities.
 It is often compared to chess and boxing. The first four articles dealt
 in this series dealt with basic patterns from the baseline, and also on
@@ -144,8 +142,6 @@ open court drive with the forehand.
 
 All players have favorite patterns on big points.
 
- 
-
 Similarly, during your own matches, you should search for any patterns,
 which will illuminate opportunities later in the match. The top players
 in the world will mix up their responses so the opponent will not be
@@ -154,8 +150,7 @@ favorite response on big points. At lower levels, the patterns are much
 more predictable, as is your opportunity to exploit them in order to
 succeed in competitive match play.
 
-![A person holding a tennis racket Description automatically
-generated](media_pro-patterns-playing-the-angles/media/image1.jpeg)
+![A person holding a tennis racket Description automatically generated](media_pro-patterns-playing-the-angles/media/image1.jpeg)
 
 Craig Cignarelli is one of the most prolific and successful
 developmental coaches in the country. His original analysis of
@@ -165,5 +160,5 @@ personally nurtured 4 junior players from the beginning of their careers
 who have gone on to achieve #1 national rankings. Currently he is
 working with a cadre of aspiring WTA and ATP players, as well as
 competitive juniors at all levels. Versed in 4 languages, Craig is
-completing his first book \"What Champions Know,\" which forms the basis
+completing his first book "What Champions Know," which forms the basis
 for his articles on Tennisplayer.

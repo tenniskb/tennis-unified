@@ -2,14 +2,11 @@
 
 ### Keith Hayes
 
-------------------------------------------------------------------------
+--
 
-  --
+--
 
-  --
-
-![A person riding a horse Description automatically generated with low
-confidence](media_the-anti-champions/media/image1.jpg)
+![A person riding a horse Description automatically generated with low confidence](media_the-anti-champions/media/image1.jpg)
 
 **What was the real price of staying an undefeated Gladiator?**
 
@@ -19,7 +16,7 @@ before and had followed enough other teams, both pro and amateur, to
 understand how elusive an undefeated season can be.
 
 And yet, in my second year as a high school tennis coach, I found myself
-at the helm of a team - we'll call them the \"Gladiators\" - that stood
+at the helm of a team - we'll call them the "Gladiators" - that stood
 an excellent chance of winning every match.
 
 In our pre-season meeting, I expressed this to the team, and declared
@@ -59,24 +56,19 @@ scrappiness.
 
 The Gladiators established their own distinct values and etiquette. For
 some reason, they took a strange pride in the fact that they didn't
-practice. \"Mike,\" for example, our number one player, enjoyed boasting
+practice. "Mike," for example, our number one player, enjoyed boasting
 that he hadn't picked up a racket since the previous season; he liked
 the idea that he could beat people without practicing and he wanted
 others to know it.
 
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                         ![A picture containing text Description automatically
-   generated](media_the-anti-champions/media/image2.jpg)
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                               **The ideal high school tennis uniform?**
-
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A picture containing text Description automatically generated](media_the-anti-champions/media/image2.jpg)
+**The ideal high school tennis uniform?**
 
 As for clothing, players made a point of looking grungy and irreverent.
 They wore old Led Zeppelin shirts, sunglasses, skate shoes - anything
 but proper tennis attire. The Gladiators were rowdy and undisciplined,
-and they seemed to relish their status as the outlaws, the \"rock &
-roll\" team of our league.
+and they seemed to relish their status as the outlaws, the "rock &
+roll" team of our league.
 
 During my first season with the Gladiators, a part of me admittedly had
 a soft spot for the rock & roll thing. I was brand new at coaching, and
@@ -110,7 +102,7 @@ that, as usual, they took a certain pride in it.
 
 About halfway through the program, just as we were learning about the
 premature death of Sampras' close friend and coach, Tim Gullikson, I
-asked Mike, \"Brad,\" and \"Jeff\" - my top three players - to leave the
+asked Mike, "Brad," and "Jeff" - my top three players - to leave the
 room because they couldn't stop laughing.
 
 Later that afternoon, I called them all at their homes and explained
@@ -123,12 +115,10 @@ Mike, Brad, and Jeff to watch the Sampras DVD from the beginning in
 silence. In hindsight this may not have been my finest hour, but I
 wanted to make a point.
 
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------
-   ![link](media_the-anti-champions/media/image3.jpg)
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                    **When Sampras lost his coach, the Gladiators laughed.**
+![Video demonstration](media_the-anti-champions/media/image3.jpg)
 
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------
+*Video demonstration — the original video for this article was hosted on TennisPlayer.net.*
+**When Sampras lost his coach, the Gladiators laughed.**
 
 **Off to the Races**
 
@@ -147,7 +137,7 @@ definite end to the behavior.
 Meanwhile, few Gladiators saw the point in practicing, let alone
 practicing hard, when we could beat our opponents anyway. Brad, our
 number two player and self-appointed team spokesman, would regularly
-suggest days off or \"fun\" days whenever we won a match - no matter how
+suggest days off or "fun" days whenever we won a match - no matter how
 weak our opponent may have been.
 
 When I explained to the Gladiators that great teams, real champions,
@@ -167,7 +157,7 @@ remain undefeated, I just needed to keep Brad in check.
 The worst problem, though, was that certain players - can you guess
 which ones? - would pick on others.
 
-One player, \"Charlie,\" had a learning disability and teammates would
+One player, "Charlie," had a learning disability and teammates would
 toss balls at him when he wasn't looking - not to injure him, just to
 bother him. Charlie was a nice kid and a surprisingly competent player,
 but he had the maturity level and reasoning skills of a third grader.
@@ -180,7 +170,7 @@ home. When Charlie wasn't at practice, I bluntly reminded the team that
 it was both weak and cowardly to pick on Charlie.
 
 During these talks, players would nod and agree philosophically, but the
-behavior never stopped. Another player, \"Joe,\" was simply a little
+behavior never stopped. Another player, "Joe," was simply a little
 different. He was a nice kid, but players outwardly marginalized him.
 They'd ignore him when he spoke, they wouldn't let him play on their
 court, and they'd make jokes about him without caring whether he heard
@@ -191,15 +181,10 @@ walked to the storage room, Brad noticed that Joe, who regularly
 volunteered to help, had decided to join us.
 
 When Joe tried to make conversation, Brad turned to him and scoffed,
-\"Why are you walking with us?\"
+"Why are you walking with us?"
 
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                   ![A picture containing text, queen, box Description automatically
-   generated](media_the-anti-champions/media/image4.jpg)
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                  **Devouring snacks and leaving the trash\--a Gladiator trademark**.
-
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A picture containing text, queen, box Description automatically generated](media_the-anti-champions/media/image4.jpg)
+**Devouring snacks and leaving the trash--a Gladiator trademark**.
 
 Embarrassed, Joe retreated. I started to say something, but I decided
 just to let it go. It seemed like every recent exchange I had with Brad
@@ -223,35 +208,30 @@ together, our goal was still within reach.
 
 Like most coaches, I don't like excuses, and one of my worst blowouts
 with the Gladiators took place when a player who lost a match told me he
-had \"had a bad day.\" I advised him that (a) he still could've won,
+had "had a bad day." I advised him that (a) he still could've won,
 and (b) suggesting that he played poorly was an insult to his opponent.
-Later, I sat the whole team down and explained to them that \"I had a
-bad day\" is probably the worst and most common excuse in sports.
+Later, I sat the whole team down and explained to them that "I had a
+bad day" is probably the worst and most common excuse in sports.
 
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                         ![A picture containing text Description automatically
-   generated](media_the-anti-champions/media/image5.jpg)
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                     **Bullying\--some I witnessed and probably plenty I did not.**
+![A picture containing text Description automatically generated](media_the-anti-champions/media/image5.jpg)
+**Bullying--some I witnessed and probably plenty I did not.**
 
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------
+"Why?" Brad protested. "Sometimes you really do have a bad day! What
+if it's true?!"
 
-\"Why?\" Brad protested. \"Sometimes you really do have a bad day! What
-if it's true?!\"
-
-\"Of course it's true,\" I countered. \"We all have bad days, but that
+"Of course it's true," I countered. "We all have bad days, but that
 doesn't mean we have to lose. Once you agree to step onto the court,
 you're telling your opponent you're ready to play. After that, you
 need to accept whatever happens. If you can't to do that, then don't
-step on the court.\"
+step on the court."
 
-\"Okay, fine,\" said another player, \"but if it's true that I had a
-bad day, then it's still not an excuse!\"
+"Okay, fine," said another player, "but if it's true that I had a
+bad day, then it's still not an excuse!"
 
-\"Yes, it is,\" I sighed. \"The trouble is that we start telling
+"Yes, it is," I sighed. "The trouble is that we start telling
 ourselves what a bad day we're having before the match is even over.
 Instead of problem solving, like champions do, we start preparing to
-lose.\" I reminded the Gladiators of the Pete Sampras DVD. I asked them
+lose." I reminded the Gladiators of the Pete Sampras DVD. I asked them
 if they ever heard Sampras making excuses, and of course they hadn't.
 
 I reminded them of the moment when something popped in Sampras' leg in
@@ -265,8 +245,8 @@ effects of which would wear off halfway through each match - and that he
 still went on to win his record-breaking seventh Wimbledon title that
 year.
 
-\"Yeah,\" argued one of the more annoying Gladiators, \"but it's not
-really fair to compare us to Pete Sampras.\"
+"Yeah," argued one of the more annoying Gladiators, "but it's not
+really fair to compare us to Pete Sampras."
 
 What, I wondered, was wrong with these kids? I had never met a young
 athlete in any sport who didn't want to be like the best player in the
@@ -274,21 +254,16 @@ world. Don't young basketball players try to copy Kobe Bryant? Young
 baseball players copy Derek Jeter and young golfers want to be Tiger
 Woods, but all the Gladiators wanted was to cling to their excuses.
 
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                ![A person holding a tennis racket Description automatically
-   generated](media_the-anti-champions/media/image6.jpg)
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                    **Was it fair to compare the Gladiators to Sampras?**
-
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person holding a tennis racket Description automatically generated](media_the-anti-champions/media/image6.jpg)
+**Was it fair to compare the Gladiators to Sampras?**
 
 **9 Win 0 Losses**
 
-Toward the end of the season, \"Peter,\" one of our starting doubles
+Toward the end of the season, "Peter," one of our starting doubles
 players, quit the team because Mike, our number one player, had been
 harassing him both verbally and physically. To be honest, I had seen
 some of this harrassment in its gentler forms over the course of the
-season, but I had pretty much written it off as \"guy stuff.\"
+season, but I had pretty much written it off as "guy stuff."
 
 Mike was a tall kid and a loudmouth; he was cocky, highly intelligent,
 very funny when he wanted to be, and he pretty much messed with
@@ -317,17 +292,12 @@ want to choke him for being such a knucklehead, I appreciated his keen
 insights in class.
 
 The principal and I had long, tense discussions with Mike, and he
-justified his behavior by claiming that Peter was \"annoying.\" We tried
+justified his behavior by claiming that Peter was "annoying." We tried
 every angle to get Mike to apologize for what he'd done, but he'd only
 agree - grudgingly - to leave Peter alone.
 
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                         ![A picture containing text Description automatically
-   generated](media_the-anti-champions/media/image7.jpg)
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                             **Another favorite pastime: tossing balls at a teammate with a disability.**
-
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A picture containing text Description automatically generated](media_the-anti-champions/media/image7.jpg)
+**Another favorite pastime: tossing balls at a teammate with a disability.**
 
 Despite our best efforts, the principal and I failed to reconcile the
 two, and Peter never returned to the team. Throughout the ordeal, the
@@ -390,17 +360,12 @@ minutes in the hopes that Joe would catch up. No one, including Joe's
 classmates earlier that day, had reminded Joe about our departure time,
 nor did anyone offer to try and find him.
 
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                         ![A picture containing wall Description automatically
-   generated](media_the-anti-champions/media/image8.jpg)
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                          **Was an undefeated season a comprehensive waste?**
-
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A picture containing wall Description automatically generated](media_the-anti-champions/media/image8.jpg)
+**Was an undefeated season a comprehensive waste?**
 
 Instead, Brad, our self-appointed team spokesman, made a suggestion so
-that one of his \"cool\" friends could play instead: \"Let's hurry up
-and leave before Joe gets here.\"
+that one of his "cool" friends could play instead: "Let's hurry up
+and leave before Joe gets here."
 
 At that point, all I wanted to do was get off the bus and let the
 Gladiators fend for themselves. If I weren't legally bound to stay with
@@ -408,7 +373,7 @@ the team, I would've driven myself home right then. At the very least,
 I should've sent Brad home and let him miss the championships, but I
 guess I was too numb by that time to act with any authority. Either way,
 if I wasn't sure before Brad's comment, I now knew beyond a doubt that
-our \"perfect\" season had been a comprehensive waste.
+our "perfect" season had been a comprehensive waste.
 
 It should come as no shock that we lost 7-0 in the first round of the
 tournament. What did we expect? We were seeded 15th out of 16 teams, we
@@ -461,23 +426,32 @@ blocked out by those who experienced it. Do me a favor and save this
 story. Without it, my rare and elusive undefeated season will disappear
 forever.
 
-| ![A person smiling for the camera Description automatically generated with medium | USPTA instructor Keith Hayes attended Pepperdine |
-| --- | --- |
-| confidence](media_the-anti-champions/media/image9.jpeg) | Tennis Coach Allen Fox and became a counselor at his |
-|  | summer tennis camps, beginning a tennis teaching |
-|  | career - and a friendship with Allen - that has |
-|  | continued ever since. After Pepperdine, Keith went to |
-|  | work in the San Francisco Bay Area advertising and |
-|  | graphic design industries. Later he also became an |
-|  | English teacher. As head coach of the Marin Catholic |
-|  | High School women's tennis team, Keith won |
-|  | back-to-back Division II North Coast Section titles |
-|  | in 2008 and 2009. When he's not teaching tennis, |
-|  | Keith continues to work as a freelance writer and |
-|  | designer. In addition to Tennisplayer.net, his |
-|  | stories have also appeared in TENNIS magazine. |
-|  |  |
-|  |  |
+![A person smiling for the camera Description automatically generated with medium confidence](media_the-anti-champions/media/image9.jpeg)
 
+USPTA instructor Keith Hayes attended Pepperdine
 
-------------------------------------------------------------------------
+Tennis Coach Allen Fox and became a counselor at his
+
+summer tennis camps, beginning a tennis teaching
+
+career - and a friendship with Allen - that has
+
+continued ever since. After Pepperdine, Keith went to
+
+work in the San Francisco Bay Area advertising and
+
+graphic design industries. Later he also became an
+
+English teacher. As head coach of the Marin Catholic
+
+High School women's tennis team, Keith won
+
+back-to-back Division II North Coast Section titles
+
+in 2008 and 2009. When he's not teaching tennis,
+
+Keith continues to work as a freelance writer and
+
+designer. In addition to Tennisplayer.net, his
+
+stories have also appeared in TENNIS magazine.

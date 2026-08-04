@@ -2,14 +2,7 @@
 
 ### By Frank Brennan
 
-------------------------------------------------------------------------
-
-  ------------------------------------------------------------------------------------------------------------------------------------------
-   ![link](media_timeless-principles-of-strategy/media/image1.png)
-  ------------------------------------------------------------------------------------------------------------------------------------------
-                                        **Click Photo. What are the advantages of all court tennis?**
-
-  ------------------------------------------------------------------------------------------------------------------------------------------
+**Click Photo. What are the advantages of all court tennis?**
 
 Tennis players tend to over-exaggerate the importance of how they hit
 the ball, and overlook the importance of how they play the game. Proper
@@ -29,8 +22,7 @@ strategic player? To win from the back court like Andre Agassi; to win
 attacking the net like Pete Sampras, and to have the flexibility to do
 both like Roger Fededer?
 
-![A picture containing person Description automatically
-generated](media_timeless-principles-of-strategy/media/image2.webp)
+![A picture containing person Description automatically generated](media_timeless-principles-of-strategy/media/image2.webp)
 
 **What does it take it become a consistent, strategic, all court
 player?**
@@ -50,11 +42,9 @@ win the match.
 
 **Geometry of the Court**
 
-![A picture containing sport, athletic game, floor, court Description
-automatically
-generated](media_timeless-principles-of-strategy/media/image3.webp)
+![A picture containing sport, athletic game, floor, court Description automatically generated](media_timeless-principles-of-strategy/media/image3.webp)
 
-**Hitting crosscourt with consistency and accuracy \-- the most basic
+**Hitting crosscourt with consistency and accuracy -- the most basic
 principle.**
 
 Besides hitting to an obvious weakness, there are other reasons hitting
@@ -79,8 +69,7 @@ your opponent forces you wide. On the other hand, a down-the-line shot
 leaves a considerably longer distance to the center of your opponent's
 return.
 
-![A picture containing text, green, sign Description automatically
-generated](media_timeless-principles-of-strategy/media/image4.webp)
+![A picture containing text, green, sign Description automatically generated](media_timeless-principles-of-strategy/media/image4.webp)
 
 **Learn to think of the court as a triangle, not a rectangle.**
 
@@ -100,8 +89,7 @@ your opponent's angles, while moving up reduces them. In addition,
 playing on the baseline gives your opponent less time to recover between
 shots.
 
-![A picture containing text, green, sign Description automatically
-generated](media_timeless-principles-of-strategy/media/image5.webp)
+![A picture containing text, green, sign Description automatically generated](media_timeless-principles-of-strategy/media/image5.webp)
 
 **When you move back, you must cover more court. You also give your
 opponent better angles.**
@@ -125,8 +113,7 @@ also stay on the centerline, bisecting your opponent's two widest
 returns. At the net, this will place you on the same side of the court
 as your opponent.
 
-![A picture containing text, green Description automatically
-generated](media_timeless-principles-of-strategy/media/image6.webp)
+![A picture containing text, green Description automatically generated](media_timeless-principles-of-strategy/media/image6.webp)
 
 **At the net you must again bisect your opponent's angles.**
 
@@ -140,15 +127,11 @@ you can assume that he can't or won't, and move in appropriately.
 Remember, the center theory is always an operation. So, maintain your
 position in the center of your opponent's best returns.
 
-![A couple of people play tennis Description automatically generated
-with low
-confidence](media_timeless-principles-of-strategy/media/image7.webp)
+![A couple of people play tennis Description automatically generated with low confidence](media_timeless-principles-of-strategy/media/image7.webp)
 
 **Approach down the line and put the ball away crosscourt.**
 
-![A picture containing sport, athletic game, green, tennis Description
-automatically
-generated](media_timeless-principles-of-strategy/media/image8.webp)
+![A picture containing sport, athletic game, green, tennis Description automatically generated](media_timeless-principles-of-strategy/media/image8.webp)
 
 **A good lob is one of the many components in a complete tactical
 game.**
@@ -175,9 +158,7 @@ What if you come to the net when your opponent stays back? Or are the
 odds most in your favor when you bring your opponent in and then either
 try to pass or lob?
 
-![A couple of men playing football Description automatically generated
-with low
-confidence](media_timeless-principles-of-strategy/media/image9.webp)
+![A couple of men playing football Description automatically generated with low confidence](media_timeless-principles-of-strategy/media/image9.webp)
 
 **Successful all court play means executing the shot combinations that
 are in your favor against a particular opponent.**
@@ -197,9 +178,7 @@ Timing and pacing are two critical elements in playing winning tennis.
 Great players ease into matches, develop their shot rhythm gradually and
 identify the opponent's strengths and weaknesses.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_timeless-principles-of-strategy/media/image10.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_timeless-principles-of-strategy/media/image10.webp)
 
 **Learn to take your time between points and develop a comfortable pace
 in your matches.**
@@ -217,9 +196,7 @@ anxiousness.
 **You can only play as fast as the slowest player. It might as well be
 you.**
 
-![A picture containing tennis, person, player, court Description
-automatically
-generated](media_timeless-principles-of-strategy/media/image11.webp)
+![A picture containing tennis, person, player, court Description automatically generated](media_timeless-principles-of-strategy/media/image11.webp)
 
 **A doubles player is part of a team, and a positive team attitude is a
 huge key.**
@@ -244,9 +221,7 @@ balls that allow you to approach the net yourself. Your goal on the
 return of serve is to get every return into play, to return cross court
 to the server and to return low.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_timeless-principles-of-strategy/media/image12.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_timeless-principles-of-strategy/media/image12.webp)
 
 **Stay in front of the ball to intercept as many balls as possible.**
 
@@ -264,12 +239,12 @@ shot.** **Good doubles players attack the middle,
 move to the middle and protect the middle of the
 court.**
 
-**[[At the net, your goal is to intercept as many balls as possible and
+**[At the net, your goal is to intercept as many balls as possible and
 volley them to the opening between your opponents in the middle of the
 court for winners.] [As you become confident at the net, you
 increase your range of movement - moving further toward the middle or
 even your partner's side to pick off weak
-returns.]]**
+returns.]**
 
 **As you play better and better doubles, you will want to get to the
 net as quickly as possible. This means coming in on cross court rallies
@@ -277,9 +252,7 @@ and on the return of serve.** **Developing a
 solid reliable slice will help keep the ball low and lead to shoulder
 high volleys.**
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_timeless-principles-of-strategy/media/image13.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_timeless-principles-of-strategy/media/image13.webp)
 
 **Following your serve to the net is basic in advanced doubles.**
 
@@ -303,9 +276,7 @@ at your closest opponent. If your partner is a good poacher, serve down
 the middle to both the duce and add courts, giving your partner a better
 angle to volley your opponent's returns.
 
-![A group of people play tennis Description automatically generated with
-medium
-confidence](media_timeless-principles-of-strategy/media/image14.webp)
+![A group of people play tennis Description automatically generated with medium confidence](media_timeless-principles-of-strategy/media/image14.webp)
 
 **When the court isn't open, hit your volleys at the closest
 opponent.**
@@ -323,12 +294,7 @@ The easiest way to win the receiving game is to return consistently and
 again, get help from your partner poaching on your good returns. The
 keys are obvious - consistency and help.
 
-  ------------------------------------------------------------------------------------------------------------------------------------------
-   ![link](media_timeless-principles-of-strategy/media/image1.png)
-  ------------------------------------------------------------------------------------------------------------------------------------------
-                                 **Click Photo to hear 4 final points about winning in singles and doubles.**
-
-  ------------------------------------------------------------------------------------------------------------------------------------------
+**Click Photo to hear 4 final points about winning in singles and doubles.**
 
 **\
 Know Yourself**
@@ -339,21 +305,16 @@ making consistently in practice. If you have weaknesses, work hard to
 eliminate them. Never be afraid to lose. Just make the effort to play
 the way you are capable of playing every time you go on the court.
 
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![A picture containing outdoor, tree, person, person Description automatically                                                                                                  Frank Brennan was the most successful women's
-  generated](media_timeless-principles-of-strategy/media/image15.jpeg)                                                                                                                                                  the director of one of the nation's
-                                                                                                                                                                                  outstanding junior camps for over three
-                                                                                                                                                                                  decades. As women's varsity coach at Stanford
-                                                                                                                                                                                  University, Brennan led the Cardinal to a
-                                                                                                                                                                                  record five consecutive NCAA team titles. His
-                                                                                                                                                                                  teams won a total of 10 team titles overall,
-                                                                                                                                                                                  producing a long series of All-American and
-                                                                                                                                                                                  professional players. As director of his own
-                                                                                                                                                                                  tennis camps in New Jersey, and later of the
-                                                                                                                                                                                  Nike Tennis Camp at Stanford, Frank helped
-                                                                                                                                                                                  hundreds of junior players at all levels
-                                                                                                                                                                                  understand every phase of the game, including
-                                                                                                                                                                                  the principles of winning strategy.
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ----------------------------------------------
-
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A picture containing outdoor, tree, person, person Description automatically                                                                                                  Frank Brennan was the most successful women's generated](media_timeless-principles-of-strategy/media/image15.jpeg)                                                                                                                                                  the director of one of the nation's
+outstanding junior camps for over three
+decades. As women's varsity coach at Stanford
+University, Brennan led the Cardinal to a
+record five consecutive NCAA team titles. His
+teams won a total of 10 team titles overall,
+producing a long series of All-American and
+professional players. As director of his own
+tennis camps in New Jersey, and later of the
+Nike Tennis Camp at Stanford, Frank helped
+hundreds of junior players at all levels
+understand every phase of the game, including
+the principles of winning strategy.

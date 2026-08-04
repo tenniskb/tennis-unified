@@ -2,8 +2,7 @@
 
 **By Allen Fox, Ph.D.**
 
-![A person playing tennis Description automatically
-generated](media_winning-matches-the-transition-volley/media/image1.webp)
+![A person playing tennis Description automatically generated](media_winning-matches-the-transition-volley/media/image1.webp)
 
 **The latest strategical evolution; transition volleys.**
 
@@ -32,8 +31,7 @@ Instead, he serves and volleys sporadically, just enough to keep his
 opponent guessing and insecure about hitting low-risk, deep, floating
 returns.**
 
-![A person playing tennis Description automatically
-generated](media_winning-matches-the-transition-volley/media/image2.webp)
+![A person playing tennis Description automatically generated](media_winning-matches-the-transition-volley/media/image2.webp)
 
 **Nalbandian: on the look out to jump unwary opponents.**
 
@@ -57,9 +55,7 @@ two years and finally seems to be getting under control. It is, I
 believe, the volley that will separate more and more of the strong
 baseliners from the pack.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_winning-matches-the-transition-volley/media/image3.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_winning-matches-the-transition-volley/media/image3.webp)
 
 **Santoro: off the tour without his transition attacks.**
 
@@ -89,8 +85,7 @@ a winner with a groundstroke. Because of time and distance
 considerations, this shot must be hit very hard and close to the lines,
 imposing greater risk of error.**
 
-![A person playing tennis Description automatically generated with low
-confidence](media_winning-matches-the-transition-volley/media/image4.webp)
+![A person playing tennis Description automatically generated with low confidence](media_winning-matches-the-transition-volley/media/image4.webp)
 
 **Another important element: occasional serve and volley.**
 
@@ -121,8 +116,7 @@ invitation to come to net.) **Now the serve returns and passing shots
 are hit too hard and too accurately for players to venture forward other
 than behind substantial heat.**
 
-![A person playing tennis Description automatically
-generated](media_winning-matches-the-transition-volley/media/image5.webp)
+![A person playing tennis Description automatically generated](media_winning-matches-the-transition-volley/media/image5.webp)
 
 **The current winning style: power baseline tennis with transition
 attacking.**
@@ -170,52 +164,68 @@ Read More From Allen!
 
 Visit him at [www.allenfoxtennis.net](http://www.allenfoxtennis.net) 
 
-| ![A picture containing text, newspaper Description automatically | **Winning the Mental Match Dr. Allen Fox** |
-| --- | --- |
-| generated](media_winning-matches-the-transition-volley/media/image6.jpeg) | Tennis is mentally the most difficult sport due to it's personal nature which makes winning and losing feel more important than |
-|  | they are. In this new book, Allen offers his proven solutions to problems such as choking, reducing stress, finishing matches, and |
-|  | developing confidence. Based on a lifetime of high level play and coaching success, it's a must for all competitive players. |
-|  |  |
-|  | [[ to |
-|  | Order]](http://www.amazon.com/Tennis-Winning-Mental-Allen-Fox/dp/0615407765/ref=sr_1_1?ie=UTF8&qid=1336083459&sr=8-1). |
+![A picture containing text, newspaper Description automatically generated](media_winning-matches-the-transition-volley/media/image6.jpeg)
 
+**Winning the Mental Match Dr. Allen Fox**
 
-| ![Text Description automatically | Winning may not be everything, but Dr. Allen Fox points out that, if we |
-| --- | --- |
-| generated](media_winning-matches-the-transition-volley/media/image7.jpeg) | losing. In his new book, The Winner's Mind, Allen lays out an original |
-|  | step-by-step plan for succeeding at any of life's endeavors, based on |
-|  | his first hand and very personal observations of the careers of both |
-|  | world-class tennis players and successful businessman. The bottom line |
-|  | is that even if you are not a born champion\--and only a tiny percentage |
-|  | of us are\--you can still use the success strategies of champions to |
-|  | tilt the odds in your favor. Writing with brutal honesty and dry humor, |
-|  | Fox lays out the common mental characteristics of winners in sports and |
-|  | in life. He explains the critical role of intellect over emotion. He |
-|  | analyzes the struggle between ambition and fear and the insidious and |
-|  | pervasive fear of failure that undermines so many of us. He then outline |
-|  | how to confront and overcome these fears in your life and career, even |
-|  | when they are initially subconscious. Must reading from one of the great |
-|  | thinkers in tennis, and a Renaissance Man in life. [[ to |
-|  | Order]](http://www.tennis-warehouse.com/descpage-MIND.html). |
-|  |  |
-|  | To purchase this book you can also send a check for \$17.95 to Allen |
-|  | Fox, 1120 Inverness Place, San Luis Obispo, CA. 93401. The price |
-|  | includes shipping. |
+Tennis is mentally the most difficult sport due to it's personal nature which makes winning and losing feel more important than
 
+they are. In this new book, Allen offers his proven solutions to problems such as choking, reducing stress, finishing matches, and
 
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![A person holding a tennis racket Description automatically                                                                                                                         Allen Fox PhD is a former world class player, a coach, a
-  generated](media_winning-matches-the-transition-volley/media/image8.gif)                                                                                                                                                        insightful analysts in modern tennis. A top 10 American
-                                                                                                                                                                                       player from the glory days before Open tennis, Fox
-                                                                                                                                                                                       played many of the legendary greats, among them Roy
-                                                                                                                                                                                       Emerson, Rod Laver, Stan Smith, and Arthur Ashe. At
-                                                                                                                                                                                       Pepperdine he developed the men's tennis program into
-                                                                                                                                                                                       an elite contender for national titles, and gave Brad
-                                                                                                                                                                                       Gilbert the insights that became the foundation for
-                                                                                                                                                                                       \"Winning Ugly\". His book Think to Win is a modern
-                                                                                                                                                                                       classic. He has also starred in a series of acclaimed
-                                                                                                                                                                                       videos, including Pro Secrets of Match Play and Allen
-                                                                                                                                                                                       Fox's Ultimate Tennis Lesson.
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ --------------------------------------------------------
+developing confidence. Based on a lifetime of high level play and coaching success, it's a must for all competitive players.
 
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[[ to
+
+Order]](http://www.amazon.com/Tennis-Winning-Mental-Allen-Fox/dp/0615407765/ref=sr_1_1?ie=UTF8&qid=1336083459&sr=8-1).
+
+![Text Description automatically generated](media_winning-matches-the-transition-volley/media/image7.jpeg)
+
+Winning may not be everything, but Dr. Allen Fox points out that, if we
+
+losing. In his new book, The Winner's Mind, Allen lays out an original
+
+step-by-step plan for succeeding at any of life's endeavors, based on
+
+his first hand and very personal observations of the careers of both
+
+world-class tennis players and successful businessman. The bottom line
+
+is that even if you are not a born champion--and only a tiny percentage
+
+of us are--you can still use the success strategies of champions to
+
+tilt the odds in your favor. Writing with brutal honesty and dry humor,
+
+Fox lays out the common mental characteristics of winners in sports and
+
+in life. He explains the critical role of intellect over emotion. He
+
+analyzes the struggle between ambition and fear and the insidious and
+
+pervasive fear of failure that undermines so many of us. He then outline
+
+how to confront and overcome these fears in your life and career, even
+
+when they are initially subconscious. Must reading from one of the great
+
+thinkers in tennis, and a Renaissance Man in life. [[ to
+
+Order]](http://www.tennis-warehouse.com/descpage-MIND.html).
+
+To purchase this book you can also send a check for $17.95 to Allen
+
+Fox, 1120 Inverness Place, San Luis Obispo, CA. 93401. The price
+
+includes shipping.
+
+![A person holding a tennis racket Description automatically                                                                                                                         Allen Fox PhD is a former world class player, a coach, a generated](media_winning-matches-the-transition-volley/media/image8.gif)                                                                                                                                                        insightful analysts in modern tennis. A top 10 American
+player from the glory days before Open tennis, Fox
+played many of the legendary greats, among them Roy
+Emerson, Rod Laver, Stan Smith, and Arthur Ashe. At
+Pepperdine he developed the men's tennis program into
+an elite contender for national titles, and gave Brad
+Gilbert the insights that became the foundation for
+"Winning Ugly". His book Think to Win is a modern
+classic. He has also starred in a series of acclaimed
+videos, including Pro Secrets of Match Play and Allen
+Fox's Ultimate Tennis Lesson.

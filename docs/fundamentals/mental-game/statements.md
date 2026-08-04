@@ -2,11 +2,7 @@
 
 ### David Sammel
 
-------------------------------------------------------------------------
-
-![A person holding a tennis racket Description automatically generated
-with medium
-confidence](media_statements/media/image1.jpg)
+![A person holding a tennis racket Description automatically generated with medium confidence](media_statements/media/image1.jpg)
 
 Nadal's ferocious commitment has often unsettled Federer.
 
@@ -37,9 +33,7 @@ Counterattacking off your opponent's best shot.
 Other ways include, dictating the pace of the match between points and
 on the changeovers. Showing energy by jogging from your chair.
 
-![A group of airplanes flying in the sky Description automatically
-generated with medium
-confidence](media_statements/media/image2.jpg)
+![A group of airplanes flying in the sky Description automatically generated with medium confidence](media_statements/media/image2.jpg)
 
 **Counter attacking under bombardment changed the World War II air war
 between Germany and Britain.**
@@ -71,7 +65,7 @@ competition:**
 - **Drive the advantage.**
 
 - **Recognize a good opponent will address this imbalance with his own
-  statements.**
+statements.**
 
 - **Absorb any change in momentum.**
 
@@ -85,11 +79,9 @@ Most players can easily recall the last time they practiced their
 backhand or their serve. These same players would be quick to admit that
 the mental game is often what separates levels.
 
-![A collage of a person playing tennis Description automatically
-generated with medium
-confidence](media_statements/media/image3.jpg)
+![A collage of a person playing tennis Description automatically generated with medium confidence](media_statements/media/image3.jpg)
 
-**Serena's clear statement of intent \"Hold, Kill, Smile.\"**
+**Serena's clear statement of intent "Hold, Kill, Smile."**
 
 But few can tell you when if ever they practiced it, for example, by
 visualizing the myriad of competitive situations they will inevitably
@@ -98,46 +90,69 @@ face, and how to deal with them.
 My experience coaching on tour has taught me that it makes a huge
 difference when a player goes on court knowing the exact statements they
 will make. Here for example is a statement of intent from Serena
-Williams: \"Hold serve. Focus. Be confident. Move up. Attack. Kill.
-Smile.\"
+Williams: "Hold serve. Focus. Be confident. Move up. Attack. Kill.
+Smile."
 
-| ![A picture containing person, person, indoor, posing Description automatically | David Sammel is a registered ATP tour coach |
-| --- | --- |
-| generated](media_statements/media/image4.jpeg) | professional sport. He has spent 25 years |
-|  | coaching international players, has been a |
-|  | national coach for the Lawn Tennis |
-|  | Association, and was named one of the world's |
-|  | top 50 coaches by Nike. He is the head coach |
-|  | of Team Bath-Monte Carlo Tennis Academy |
-|  | located at the University of Bath, Bath |
-|  | England. He is a regular contributor in |
-|  | British media and tennis commentary and an |
-|  | editor for Tennishead Magazine. |
-|  |  |
-|  | [link](http://www.teambathmcta.com/) for |
-|  | More Information on the Academy |
+![A picture containing person, person, indoor, posing Description automatically generated](media_statements/media/image4.jpeg)
 
+David Sammel is a registered ATP tour coach
 
-| ![A person holding a microphone Description automatically generated with medium | When you think about the most successful |
-| --- | --- |
-| confidence](media_statements/media/image5.jpeg) | one of them has a certain aura and invincibility |
-|  | in the way they present themselves in sport and |
-|  | to the world. Sometimes mistaken for arrogance, |
-|  | this self-belief is essential in succeeding in |
-|  | professional sport and in life in general too. |
-|  |  |
-|  | The best believe they're the best and they make |
-|  | their opponents believe they're the best too. |
-|  | Locker Room Power: Building an Athlete's Mind, |
-|  | describes and examines David's coaching |
-|  | philosophy, which is drawn from his relentless |
-|  | drive to help people improve at their game, |
-|  | utilizing his vast experience, knowledge and |
-|  | understanding of the mental aptitude required to |
-|  | succeed as a professional sportsperson. |
-|  |  |
-|  | [ to |
-|  | Order!](http://www.lockerroompower.com/buy-now/) |
+professional sport. He has spent 25 years
 
+coaching international players, has been a
 
-------------------------------------------------------------------------
+national coach for the Lawn Tennis
+
+Association, and was named one of the world's
+
+top 50 coaches by Nike. He is the head coach
+
+of Team Bath-Monte Carlo Tennis Academy
+
+located at the University of Bath, Bath
+
+England. He is a regular contributor in
+
+British media and tennis commentary and an
+
+editor for Tennishead Magazine.
+
+[link](http://www.teambathmcta.com/) for
+
+More Information on the Academy
+
+![A person holding a microphone Description automatically generated with medium confidence](media_statements/media/image5.jpeg)
+
+When you think about the most successful
+
+one of them has a certain aura and invincibility
+
+in the way they present themselves in sport and
+
+to the world. Sometimes mistaken for arrogance,
+
+this self-belief is essential in succeeding in
+
+professional sport and in life in general too.
+
+The best believe they're the best and they make
+
+their opponents believe they're the best too.
+
+Locker Room Power: Building an Athlete's Mind,
+
+describes and examines David's coaching
+
+philosophy, which is drawn from his relentless
+
+drive to help people improve at their game,
+
+utilizing his vast experience, knowledge and
+
+understanding of the mental aptitude required to
+
+succeed as a professional sportsperson.
+
+[ to
+
+Order!](http://www.lockerroompower.com/buy-now/)

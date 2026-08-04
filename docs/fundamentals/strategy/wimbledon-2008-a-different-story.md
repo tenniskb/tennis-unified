@@ -2,13 +2,9 @@
 
 ### John Yandell
 
-------------------------------------------------------------------------
+![A person holding a trophy Description automatically generated](media_wimbledon-2008-a-different-story/media/image1.jpg)
 
-| ![A person holding a trophy Description automatically | ![A picture containing person, person, indoor Description automatically |
-| --- | --- |
-| generated](media_wimbledon-2008-a-different-story/media/image1.jpg) |  |
-| **What story did the numbers tell about the outcome of this match?** |  |
-
+**What story did the numbers tell about the outcome of this match?**
 
 So after about 7 and a half hours, Roger and Rafa started the decisive
 fifth set in the 2008 Wimbledon final. At that point, the total number
@@ -23,16 +19,14 @@ games, Nadal won 58 points and Roger won 53. That's a 5-point
 difference. So, about every 3 games in that fifth set, Rafa won one more
 point than Roger. One more point every 3 games. That was the difference.
 
-They say that \"big points\" determine matches. And it's hard to argue
+They say that "big points" determine matches. And it's hard to argue
 that because we have all seen dramatic turning points and how a tight
 match can shift on one shot. But what determines who wins the big
 points?
 
-![A picture containing sport, athletic game, tennis, court Description
-automatically
-generated](media_wimbledon-2008-a-different-story/media/image3.webp)
+![A picture containing sport, athletic game, tennis, court Description automatically generated](media_wimbledon-2008-a-different-story/media/image3.webp)
 
-**Unforced errors\--yes, but what else determined this match?**
+**Unforced errors--yes, but what else determined this match?**
 
 In virtually every match I've ever charted from Grand Slam finals down
 to 4.0 club matches consider this. The player who won the most total
@@ -43,7 +37,7 @@ usually the cumulative effect of all those individual points that leads
 to the key moments that turn matches.
 
 The 2008 Wimbledon final may or may not have been the greatest pro match
-of all time\--more on that later\--but in that respect it wasn't any
+of all time--more on that later--but in that respect it wasn't any
 different than the hundreds of other matches I've charted. The player
 who won the most total points won the match. In the end Federer and
 Nadal played 413 points. Rafa won 209 and Roger won 204.
@@ -56,7 +50,7 @@ explaining the match in terms of the official statistics on the
 Wimbledon site or in the New York Times, you might come away thinking
 you got the winner wrong.
 
-This is what the \"official\" stat line showed. Nadal hit 66 winners.
+This is what the "official" stat line showed. Nadal hit 66 winners.
 Federer made 54 unforced errors. So, add those together that's 120
 points for Nadal.
 
@@ -72,25 +66,22 @@ the outcome and someone showed you these numbers, who would you say won?
 | Total | 144 | 120 |
 | Do These Numbers Make Sense? |  |  |
 
-
 So, the so-called key statistics of winners and unforced errors don't
 square with the point totals. Nadal won 209 total points. 120 of them
-are reflected in the stat line. What about the other 89 points\--almost
+are reflected in the stat line. What about the other 89 points--almost
 a third of his total? How did he win those? Roger won 204 points, and
 only 144 are accounted for by official statistics. What about his other
 60 points?
 
-![A person hitting a ball with a tennis racket Description automatically
-generated with low
-confidence](media_wimbledon-2008-a-different-story/media/image4.webp)
+![A person hitting a ball with a tennis racket Description automatically generated with low confidence](media_wimbledon-2008-a-different-story/media/image4.webp)
 
 **How could Roger hit 50 more winners and still lose the match?**
 
-**The Unknown Statistic\--Again**
+**The Unknown Statistic--Again**
 
 If you've read my previous articles on match statistics, you already
 know where I am going with all this. Right to the undisclosed gray area
-in official match numbers, what I've called the \"Unknown Statistic.\"
+in official match numbers, what I've called the "Unknown Statistic."
 And that's the Forced Error.
 
 Forced errors are what explain the discrepancies. A forced error is a
@@ -106,9 +97,7 @@ And that isn't unusual. Forced errors play a similar role in all pro
 matches and matches at every other level. When you add in the forced
 errors, now you can see how Nadal won more total points.
 
-![A tennis player in the middle of a game Description automatically
-generated with low
-confidence](media_wimbledon-2008-a-different-story/media/image5.webp)
+![A tennis player in the middle of a game Description automatically generated with low confidence](media_wimbledon-2008-a-different-story/media/image5.webp)
 
 **Forced errors: one key to understanding Nadal's victory.**
 
@@ -124,14 +113,12 @@ me. And yes, it does take a lot longer than just watching the match the
 first time, pondering all those gray areas.
 
 And one more thing, it can also lead to some discrepancies with the
-\"official\" statistics. Why? Because the difference between a forced
+"official" statistics. Why? Because the difference between a forced
 error and an unforced error is often a matter of judgment. So, in
 charting this match, I had to decide these often subtle differences on
 dozens and dozens of points.
 
-![A picture containing sport, athletic game, tennis, player Description
-automatically
-generated](media_wimbledon-2008-a-different-story/media/image6.webp)
+![A picture containing sport, athletic game, tennis, player Description automatically generated](media_wimbledon-2008-a-different-story/media/image6.webp)
 
 **How would you score this point? I say a Forced Error.**
 
@@ -159,9 +146,7 @@ the court for sure but Federer was standing right there, so he tried to
 thread the needle behind Federer by going back down the line, and he
 missed. I say in the context of that point, that's a Forced Error.
 
-![A picture containing sport, athletic game, outdoor, tennis Description
-automatically
-generated](media_wimbledon-2008-a-different-story/media/image7.webp)
+![A picture containing sport, athletic game, outdoor, tennis Description automatically generated](media_wimbledon-2008-a-different-story/media/image7.webp)
 
 **Two returns. I called the first one unforced and the second forced.**
 
@@ -200,13 +185,12 @@ important in this match than the holes in the official stats show.
 | Total | 204 | 209 |
 | When I charted the entire match with the forced errors, it looked like this. |  |  |
 
-
 So now the statistics finally make sense. Roger had almost as many
-forced errors as winners\--obviously the forced errors he was able to
+forced errors as winners--obviously the forced errors he was able to
 generate were huge for him. But they were even bigger for Nadal. Nadal
 had significantly fewer winners than Federer, but almost exactly the
 same number of forced errors. And for the purposes of judging aggressive
-play (as we'll see below)\--not to mention winning matches\--a forced
+play (as we'll see below)--not to mention winning matches--a forced
 error is as good as a winner. Nadal hit only 58 winners, but his
 whopping 78 forced errors showed how many points he really won through
 aggressive play.
@@ -224,9 +208,7 @@ match, set by set.
 
 But first a brief and possibly equally critical psychological interlude.
 
-![A person holding a baseball bat Description automatically generated
-with low
-confidence](media_wimbledon-2008-a-different-story/media/image8.webp)
+![A person holding a baseball bat Description automatically generated with low confidence](media_wimbledon-2008-a-different-story/media/image8.webp)
 
 **Rafa controlled the tempo of the match beginning with the coin flip.**
 
@@ -245,7 +227,7 @@ Guess what? This year at Wimbledon was no different. Did you see the
 coin flip? Although I had it on DVR, I didn't pay attention to it until
 my friend the Sports Illustrated writer Jon Wertheim pointed it out to
 me. He'd read what I had written about other Nadal pre-match
-tactics\--and I have to thank him for pointing out something equally
+tactics--and I have to thank him for pointing out something equally
 significant I missed the first time around.
 
 When I looked at the coin flip again, I amazed to see what happened.
@@ -258,9 +240,9 @@ And where was Rafa? Instead of going out there with everyone else, he
 sat down, had some water, then calmly ate part of an energy bar. Then he
 took the time to arrange his water bottles. Then he took off his warmup
 jacket and folded it very carefully. Finally, he joined them at the net.
-So Rafa made the kid, the umpire and Federer\--and the 15,000 fans and
-the international TV audience\--all wait for over a minute. That's
-pretty much an eternity\--not to mention the price of that minute of
+So Rafa made the kid, the umpire and Federer--and the 15,000 fans and
+the international TV audience--all wait for over a minute. That's
+pretty much an eternity--not to mention the price of that minute of
 network time he monopolized.
 
 If you were Roger would have that pissed you off? You have to think yes.
@@ -270,9 +252,7 @@ mystique. The guy was determined (that's too mild a word) to control
 the tempo of this match, starting from the coin flip, and he succeeded.
 Long term, I think his control of tempo had an impact.
 
-![A couple of men playing tennis Description automatically generated
-with low
-confidence](media_wimbledon-2008-a-different-story/media/image9.webp)
+![A couple of men playing tennis Description automatically generated with low confidence](media_wimbledon-2008-a-different-story/media/image9.webp)
 
 **Roger started out hitting some confident forehands.**
 
@@ -291,14 +271,12 @@ dipping Nadal pass. Rafa held in that game, but serving at 1-1, Roger
 also hit another forehand volley winner. I thought that was a good
 trend.
 
-But there was no early payoff\--in fact the opposite\--because at 30 all
+But there was no early payoff--in fact the opposite--because at 30 all
 in the next game, Roger made a backhand unforced error, then missed
 another backhand on a near whiff on what was probably a bad bounce.
 Bang, Nadal had the first break.
 
-![A picture containing sport, athletic game, player, outdoor Description
-automatically
-generated](media_wimbledon-2008-a-different-story/media/image10.webp)
+![A picture containing sport, athletic game, player, outdoor Description automatically generated](media_wimbledon-2008-a-different-story/media/image10.webp)
 
 **Two missed backhands and the first break.**
 
@@ -317,15 +295,13 @@ off emotionally in the long run if Rafa had just held routinely? I
 thought back to that again when they got to the fifth set.
 
 And the numbers? There was exactly one point difference in the set. Rafa
-won 34 points, Roger 33. Rafa had only 7 winners\--but he created 11
+won 34 points, Roger 33. Rafa had only 7 winners--but he created 11
 forced errors. So that was key. The unknown statistic was critical as
 usual. But another more obvious number also stood out. Rafa also won 11
 points on unforced errors from Federer's backhand. That wasn't a good
 omen for Roger fans.
 
-![A baseball player running on a field Description automatically
-generated with low
-confidence](media_wimbledon-2008-a-different-story/media/image11.webp)
+![A baseball player running on a field Description automatically generated with low confidence](media_wimbledon-2008-a-different-story/media/image11.webp)
 
 **A great passing shot and Roger had a break in the second.**
 
@@ -349,9 +325,7 @@ then hit a short backhand approach. Rafa drilled a backhand down the
 line and Roger couldn't handle the high backhand volley. Suddenly it
 was back on serve at 3-4.
 
-![A picture containing athletic game, sport, tennis, grass Description
-automatically
-generated](media_wimbledon-2008-a-different-story/media/image12.webp)
+![A picture containing athletic game, sport, tennis, grass Description automatically generated](media_wimbledon-2008-a-different-story/media/image12.webp)
 
 **When Rafa broke back it seemed to deflate Federer.**
 
@@ -375,19 +349,17 @@ advantage instead and was serving for the set.
 What a next game. Nadal had a set point. But Roger erased it with the
 hardest, lowest, slice crosscourt backhand I've ever seen him hit,
 drawing an error from Nadal, who tried to hit up on that ultra low ball
-with that extreme grip\--but couldn't. It was gorgeous\--and probably
+with that extreme grip--but couldn't. It was gorgeous--and probably
 bounced no higher than a foot off the court.
 
-![A picture containing sport, athletic game, tennis, court Description
-automatically
-generated](media_wimbledon-2008-a-different-story/media/image13.webp)
+![A picture containing sport, athletic game, tennis, court Description automatically generated](media_wimbledon-2008-a-different-story/media/image13.webp)
 
 **The puzzle of the slice backhand: tremendous asset or inconsistent
 liability?**
 
 Then Roger had a break point but couldn't get it in an incredible
 scrambling point for both players. At one point it loked as if Roger had
-hit a forehand winner for sure\--but no, it came back. Then another
+hit a forehand winner for sure--but no, it came back. Then another
 Federer backhand error, and suddenly, it was 2 sets for Nadal and
 looking very bleak for Federer fans.
 
@@ -400,7 +372,7 @@ slice issue re-emerged later on though, as we'll see.
 And again the numbers. In set 2 Rafa had 8 winners, but 16 forced
 errors. Fully 9 were on serves Federer couldn't handle, and 6 were
 forehands. Rafa won two more total points, 32 to 30 for Roger. And half
-those had come on the \"unknown statistic.\"
+those had come on the "unknown statistic."
 
 You could really feel how close the first two sets were, and that Roger
 had been in them, and that definitely he could have or maybe even should
@@ -431,7 +403,9 @@ on a second serve and hit a forehand return Rafa couldn't handle. Now
 for the first time you really thought Roger was going to win the third
 set.
 
-![link](media_wimbledon-2008-a-different-story/media/image14.webp)
+![Video demonstration](media_wimbledon-2008-a-different-story/media/image14.webp)
+
+*Video demonstration — the original video for this article was hosted on TennisPlayer.net.*
 
 **An amazing inside out winner while moving the other way.**
 
@@ -452,17 +426,19 @@ when Roger got down 0-30 serving at 4-5. But a great serve, two big
 forehands and a rare Nadal unforced error got him out of it. And they
 stayed on serve all the way to 6 all.
 
-![link](media_wimbledon-2008-a-different-story/media/image15.webp)
+![Video demonstration](media_wimbledon-2008-a-different-story/media/image15.webp)
+
+*Video demonstration — the original video for this article was hosted on TennisPlayer.net.*
 
 **The slice backhand reappeared with mixed results.**
 
 But there were some fascinating exchanges in this set that once again
-raised tactical questions about how Federer plays Nadal\--or how he
+raised tactical questions about how Federer plays Nadal--or how he
 doesn't. And you couldn't help but wonder if Roger was flirting with
 the magic missing piece to improving his results.
 
-The game Nadal served at 1-1 saw the mysterious reappearance\--followed
-shortly thereafter by the disappearance\--of Roger's backhand slice. On
+The game Nadal served at 1-1 saw the mysterious reappearance--followed
+shortly thereafter by the disappearance--of Roger's backhand slice. On
 the first two points, seemingly out of nowhere, Roger decided to hit two
 slice backhands returns, and it worked on the second point as he drew
 Nadal in and passed him. Then in the next point, Roger hit three slice
@@ -481,13 +457,13 @@ short angled crosscourt slice that was almost a drop shot, but Rafa got
 there easily and hit a drop shot of his own that Federer was not able to
 get back up over the net.
 
-What did it all mean? **[[Obviously, the results were mixed. The slice
-points that worked\--as in the case of the one hard slice drive, he hit
-in the second set\--looked really, really good.] [As in good
+What did it all mean? **[Obviously, the results were mixed. The slice
+points that worked--as in the case of the one hard slice drive, he hit
+in the second set--looked really, really good.] [As in good
 enough to be the difference. The one's that didn't work looked almost
 equally bad. Could he perfect that tactic? Maybe. And maybe the final
-outcome of this historic match will make him think about it\--or
-not.]]**
+outcome of this historic match will make him think about it--or
+not.]**
 
 More on all this below, because that discussion is getting ahead of the
 story, and the fourth set tiebreaker was about as tense as it can get in
@@ -505,9 +481,7 @@ forehand, 4-2. They played a long backcourt point that included one
 Nadal forehand that was probably out, but Nadal won the point when Roger
 couldn't handle a backhand down the line.
 
-![A couple of men playing tennis Description automatically generated
-with low
-confidence](media_wimbledon-2008-a-different-story/media/image16.webp)
+![A couple of men playing tennis Description automatically generated with low confidence](media_wimbledon-2008-a-different-story/media/image16.webp)
 
 **How many players can laugh off a double fault at 5-2 in the breaker?**
 
@@ -536,9 +510,7 @@ from the ball it seemed there was no way he could catch up with it, but
 not only did he somehow get there, he hit a dominating pass that Federer
 didn't touch. Match point number 2, and this time with Rafa serving.
 
-![A picture containing athletic game, sport, tennis, court Description
-automatically
-generated](media_wimbledon-2008-a-different-story/media/image17.webp)
+![A picture containing athletic game, sport, tennis, court Description automatically generated](media_wimbledon-2008-a-different-story/media/image17.webp)
 
 **The two best back to back passing shots ever in a Slam Final?**
 
@@ -566,9 +538,7 @@ give Rafa a deuce point. Federer had another ad but Rafa forced a second
 deuce with a drop shot. But two Nadal errors kept it on serve, with Rafa
 now serving at 1-2. Nadal held losing only one point for 2 all.
 
-![A picture containing sport, athletic game, grass, player Description
-automatically
-generated](media_wimbledon-2008-a-different-story/media/image18.webp)
+![A picture containing sport, athletic game, grass, player Description automatically generated](media_wimbledon-2008-a-different-story/media/image18.webp)
 
 **Two aces after the rain delay? Amazing.**
 
@@ -585,11 +555,9 @@ Roger was finally going to break through. At 30 all, he absolutely
 tagged a down the line forehand winner to get a break point to serve for
 the match. The look on his face just before Rafa served was that
 familiar, quiet confidence you see when he thinks he is in control or
-about to take control\--something that had been absent for most the day.
+about to take control--something that had been absent for most the day.
 
-![A person with a white headband Description automatically generated
-with low
-confidence](media_wimbledon-2008-a-different-story/media/image19.webp)
+![A person with a white headband Description automatically generated with low confidence](media_wimbledon-2008-a-different-story/media/image19.webp)
 
 **Break point at 3-4 and unbelievable determination.**
 
@@ -618,9 +586,7 @@ seem that important at the time, but may have decided the mental battle
 in Rafa's favor, even though Roger actually eventually held in the game
 to get to 7-6.
 
-![A picture containing athletic game, sport, tennis, court Description
-automatically
-generated](media_wimbledon-2008-a-different-story/media/image20.webp)
+![A picture containing athletic game, sport, tennis, court Description automatically generated](media_wimbledon-2008-a-different-story/media/image20.webp)
 
 **What if Roger had made this volley?**
 
@@ -644,14 +610,12 @@ exhaustion. I honestly believe if he had made that volley, he would have
 inflicted some pain on Nadal and at the same time, have saved some
 fight, maybe even enough to have that sixth title in hand today.
 
-![A picture containing sport, athletic game, tennis, court Description
-automatically
-generated](media_wimbledon-2008-a-different-story/media/image21.webp)
+![A picture containing sport, athletic game, tennis, court Description automatically generated](media_wimbledon-2008-a-different-story/media/image21.webp)
 
 **Part of the emotional tipping point in the first point of game 15?**
 
 At 6-7, Rafa held once again in a game that featured a couple of
-incredible, exhausting all court points\--both won by Nadal. Then with
+incredible, exhausting all court points--both won by Nadal. Then with
 Roger serving 7-7, Rafa hit a huge forehand winner and you saw Roger's
 head go down. Then Roger missed another forehand. At 15-30, Nadal
 blasted one of those flat backhand lasers crosscourt behind Federer to
@@ -672,18 +636,16 @@ that? And he hit a forehand volley winner. Then he worked his way in on
 the next point and did it again. 2 forehand volley winners in a row to
 get to 30-15 at 8-7 in the fifth.
 
-![A group of men playing tennis Description automatically generated with
-low
-confidence](media_wimbledon-2008-a-different-story/media/image22.webp)
+![A group of men playing tennis Description automatically generated with low confidence](media_wimbledon-2008-a-different-story/media/image22.webp)
 
-**Rafa's first serve and volley\--at 8-7 in the fifth.**
+**Rafa's first serve and volley--at 8-7 in the fifth.**
 
 Rafa hit a high backhand volley in the next point on a ball that looked
 like it was going out, missed and it was 30 all. But then Roger made a
 bad backhand error. Match point.
 
-Now there was one more magical moment\--one of the greatest clutch shots
-I have ever seen, period\--Roger's gorgeous, fluid, backhand crosscourt
+Now there was one more magical moment--one of the greatest clutch shots
+I have ever seen, period--Roger's gorgeous, fluid, backhand crosscourt
 return winner to get back to deuce. But you just could feel that he had
 been fighting for too long. Two good Nadal serves and it was over.
 Rafael Nadal, Wimby champ 2008.
@@ -708,10 +670,9 @@ Roger hit more clean winners, but Nadal more than equalized that by
 giving Roger difficult balls he was able to touch or hit but not
 control.
 
-![A person playing tennis Description automatically generated with low
-confidence](media_wimbledon-2008-a-different-story/media/image23.webp)
+![A person playing tennis Description automatically generated with low confidence](media_wimbledon-2008-a-different-story/media/image23.webp)
 
-**A backhand that Roger loves to hit\--maybe too much.**
+**A backhand that Roger loves to hit--maybe too much.**
 
 And then there is the issue of Roger's backhand. Is there something
 wrong with it? In my opinion it's one of the most technically pure
@@ -727,7 +688,7 @@ frustrated or discouraged, and then he makes errors, errors that seem
 random or unexpected.
 
 In 5 sets he hit 30 unforced errors on his backhand. Nadal had 13
-backhand errors. That's a 17 point differential\--more than 3 times the
+backhand errors. That's a 17 point differential--more than 3 times the
 point margin in the whole match. Theoretically if Roger had just
 eliminated a handful of those errors, he would have won more total
 points, and maybe the match. So yeah, you could say he lost the
@@ -743,7 +704,7 @@ start.
 
 And then there's the slice thing. He's proved that he can change it up
 and use the slice very effectively. But not consistently. And the
-question is whether he will adapt and try to do this over time\--learn
+question is whether he will adapt and try to do this over time--learn
 to hit the slice at the right time and put the ball in the right place
 where it causes Nadal real difficulties. Or is that even really
 possible? Is that just one more adaptation Nadal will make when and if
@@ -759,21 +720,20 @@ Those of you who've followed my analysis over the last few years know
 that there another statistic I compile that tells the story in matches.
 Once you have the Forced Errors, you can compute the big picture.
 
-  -------------------------------------------------------------------------
-  Wimbledon 2008                                                      
-  --------------------------- ------ ------ ------ ------ ------ ----------
-  Aggressive Margin By Set      1      2      3      4      5     Average
+Wimbledon 2008                                                      
+Aggressive Margin By Set      1      2      3      4      5     Average
 
-  Roger Federer                +13    +13    +26    +20    +24     +19.8
+Roger Federer                +13    +13    +26    +20    +24     +19.8
 
-  Rafael Nadal                 +14    +18    +23    +22    +29     +21.2
-  -------------------------------------------------------------------------
+Rafael Nadal                 +14    +18    +23    +22    +29     +21.2
 
-![link](media_wimbledon-2008-a-different-story/media/image24.webp)
+![Video demonstration](media_wimbledon-2008-a-different-story/media/image24.webp)
 
-**Was it the greatest\--and what does that mean?**
+*Video demonstration — the original video for this article was hosted on TennisPlayer.net.*
 
-This is the \"Aggressive Margin.\" You add up a player's winners and
+**Was it the greatest--and what does that mean?**
+
+This is the "Aggressive Margin." You add up a player's winners and
 forced errors, and then subtract his unforced errors. That gives you a
 hard measure of how aggressive each player was, and how successful.
 ([link](http://www.tennisplayer.net/members/strategy/john_yandell/understanding_statistics/Yandell_Aggressive_Margin_images/Yandell_Aggressive_Margin.html).)
@@ -788,7 +748,7 @@ the highest quality statistical match I've studied.
 
 And in terms of drama, it was up there as well. If Roger had actually
 won that 5th set I would have said it was the greatest match I'd ever
-seen\--for the simple fact that he had to come from so far down.
+seen--for the simple fact that he had to come from so far down.
 
 But because Nadal was so far ahead so early, the whole match had an
 anti-climatic feel. Realistically, we were all just waiting for the
@@ -801,7 +761,9 @@ all the other confrontations between them in the last few years? I said
 it last year and I'll say it again. How fantastic if the next rematch
 was in the U.S. Open final.
 
-![link](media_wimbledon-2008-a-different-story/media/image25.jpeg)
+![Video demonstration](media_wimbledon-2008-a-different-story/media/image25.jpeg)
+
+*Video demonstration — the original video for this article was hosted on TennisPlayer.net.*
 
 John Yandell is widely acknowledged as one of the leading videographers
 and students of the modern game of professional tennis. His high speed
@@ -814,5 +776,3 @@ Henin-Hardenne, Taylor Dent and John McEnroe, among others.
 In addition to his role as Editor of Tennisplayer he is the author of
 the critically acclaimed book Visual Tennis. The John Yandell Tennis
 School is located in San Francisco, California.
-
-------------------------------------------------------------------------

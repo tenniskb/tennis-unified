@@ -9,7 +9,7 @@ Last month I presented the Service Box 6 Target Game [link](https://www.tennispl
 Now let's use those same 6 boxes to play another serve drill game:
 Horse! As a kid you may have played this in basketball. One player takes
 a shot from somewhere on the court. If he makes it the other play has to
-do the same, or he gets the first letter, \"H.\" When the first shooter
+do the same, or he gets the first letter, "H." When the first shooter
 misses it's the second shooter's turn to pick the spot. It goes back
 and forth until one player spells Horse.
 
@@ -20,8 +20,7 @@ and helps players identify their strengths and weaknesses in placing the
 serve as well as giving them another way to work on improving their
 control serving to all areas of both boxes.
 
-![A person holding a tennis racket Description automatically
-generated](media_ultimate-drill-games-horse/media/image1.jpeg)
+![A person holding a tennis racket Description automatically generated](media_ultimate-drill-games-horse/media/image1.jpeg)
 
 Jorge Capestany is one of eleven people worldwide that have earned the
 distinction of Master Professional with the USPTA and International
@@ -46,25 +45,33 @@ and Jorge has been the personal coach to many nationally ranked juniors
 in the US including three national champions. He speaks regularly at
 coaching conventions around the world.
 
-| +-----------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+ |  |  |  |
-| --- | --- | --- | --- |
-|  | **Tennisplayer Forum** | ![forum](media_ultimate-drill-games-horse/media/image2.gif) |  |
-| +-----------------------------------------------------------------------------------------------------------------------------+ |  |  |  |
-|  | **Let's Talk About this Article!\ |  |  |
-|  | \ |  |  |
-|  | Share Your Thoughts with our Subscribers and Authors!\ |  |  |
-|  | \ |  |  |
-|  | [[Click |  |  |
-|  | Here]](https://www.tennisplayer.net/bulletin/forum/tennisplayer/79971-ultimate-drill-games-horse?view=stream)** |  |  |
-| +=============================================================================================================================+===================================================================================================================================================================================+ |  |  |  |
++-----------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
++-----------------------------------------------------------------------------------------------------------------------------+
+
++=============================================================================================================================+===================================================================================================================================================================================+
+
+**Tennisplayer Forum**
+
+**Let's Talk About this Article!\
+
+\
+
+Share Your Thoughts with our Subscribers and Authors!\
+
+\
+
+[[Click
+
+Here]](https://www.tennisplayer.net/bulletin/forum/tennisplayer/79971-ultimate-drill-games-horse?view=stream)**
+
+![forum](media_ultimate-drill-games-horse/media/image2.gif)
 
 © Tennisplayer 2019. All Rights Reserved.\
 \
 Contact Tennisplayer directly: jyandell@tennisplayer.net
 
-![A person holding a tennis racket Description automatically
-generated](media_ultimate-drill-games-horse/media/image1.jpeg)
+![A person holding a tennis racket Description automatically generated](media_ultimate-drill-games-horse/media/image1.jpeg)
 
 Jorge Capestany is one of eleven people worldwide that have earned the
 distinction of Master Professional with the USPTA and International
@@ -89,18 +96,27 @@ and Jorge has been the personal coach to many nationally ranked juniors
 in the US including three national champions. He speaks regularly at
 coaching conventions around the world.
 
-| +-------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+ |  |  |  |
-| --- | --- | --- | --- |
-|  | **Tennisplayer Forum** | ![forum](media_ultimate-drill-games-horse/media/image2.gif) |  |
-| +-------------------------------------------------------------------------------------------------------------------------------------+ |  |  |  |
-|  | **Let's Talk About this Article!\ |  |  |
-|  | \ |  |  |
-|  | Share Your Thoughts with our Subscribers and Authors!\ |  |  |
-|  | \ |  |  |
-|  | [[Click |  |  |
-|  | Here]](https://www.tennisplayer.net/bulletin/forum/tennisplayer/80586-ultimate-drill-games-the-magic-box?view=stream)** |  |  |
-| +=====================================================================================================================================+===================================================================================================================================================================================+ |  |  |  |
++-------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
++-------------------------------------------------------------------------------------------------------------------------------------+
+
++=====================================================================================================================================+===================================================================================================================================================================================+
+
+**Tennisplayer Forum**
+
+**Let's Talk About this Article!\
+
+\
+
+Share Your Thoughts with our Subscribers and Authors!\
+
+\
+
+[[Click
+
+Here]](https://www.tennisplayer.net/bulletin/forum/tennisplayer/80586-ultimate-drill-games-the-magic-box?view=stream)**
+
+![forum](media_ultimate-drill-games-horse/media/image2.gif)
 
 © Tennisplayer 2019. All Rights Reserved.\
 \
@@ -114,8 +130,7 @@ many of 10 hit the box?
 Work back and forth between the boxes. If you can routinely make all 6
 in a row, that's world class accuracy.
 
-![A person holding a tennis racket Description automatically
-generated](media_ultimate-drill-games-horse/media/image1.jpeg)
+![A person holding a tennis racket Description automatically generated](media_ultimate-drill-games-horse/media/image1.jpeg)
 
 Jorge Capestany is one of eleven people worldwide that have earned the
 distinction of Master Professional with the USPTA and International
@@ -140,18 +155,27 @@ and Jorge has been the personal coach to many nationally ranked juniors
 in the US including three national champions. He speaks regularly at
 coaching conventions around the world.
 
-| +---------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+ |  |  |  |
-| --- | --- | --- | --- |
-|  | **Tennisplayer Forum** | ![forum](media_ultimate-drill-games-horse/media/image2.gif) |  |
-| +---------------------------------------------------------------------------------------------------------------------------------------+ |  |  |  |
-|  | **Let's Talk About this Article!\ |  |  |
-|  | \ |  |  |
-|  | Share Your Thoughts with our Subscribers and Authors!\ |  |  |
-|  | \ |  |  |
-|  | [[Click |  |  |
-|  | Here]](https://www.tennisplayer.net/bulletin/forum/tennisplayer/81726-ultimate-drill-games-cuban-davis-cup?view=stream)** |  |  |
-| +=======================================================================================================================================+===================================================================================================================================================================================+ |  |  |  |
++---------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
++---------------------------------------------------------------------------------------------------------------------------------------+
+
++=======================================================================================================================================+===================================================================================================================================================================================+
+
+**Tennisplayer Forum**
+
+**Let's Talk About this Article!\
+
+\
+
+Share Your Thoughts with our Subscribers and Authors!\
+
+\
+
+[[Click
+
+Here]](https://www.tennisplayer.net/bulletin/forum/tennisplayer/81726-ultimate-drill-games-cuban-davis-cup?view=stream)**
+
+![forum](media_ultimate-drill-games-horse/media/image2.gif)
 
 © Tennisplayer 2019. All Rights Reserved.\
 \

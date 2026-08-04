@@ -2,21 +2,14 @@
 
 ### By Jim Loehr
 
-------------------------------------------------------------------------
-
 Take a deep breath. Feel better? The breath of life. What could be
 easier and more natural, right? You come into the world breathing deeply
 from your gut, but, for most people, that doesn't last. In our
 fast-paced society, with its ever-increasing levels of stress, good
 breathing habits are actually rare.
 
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                     ![A person swinging a baseball bat Description automatically
-   generated](media_breathing-and-the-mental-game/media/image1.webp)
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                           **Many players, even at high levels, restrict their breathing under pressure.**
-
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person swinging a baseball bat Description automatically generated](media_breathing-and-the-mental-game/media/image1.webp)
+**Many players, even at high levels, restrict their breathing under pressure.**
 
 Most people breath with short, restricted breaths, instead of using the
 deeper, slower abdominal breathing that facilitates relaxation and high
@@ -39,13 +32,8 @@ fun, so that we fuel our performance from our positive emotions. In a
 literal sense, the key to emotional control and creating and sustaining
 our ideal performance state is breath control.
 
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                           ![A person holding a tennis racket Description automatically
-   generated](media_breathing-and-the-mental-game/media/image2.jpg)
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                   **Breath control is central to fueling your tennis from positive emotions.**
-
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person holding a tennis racket Description automatically generated](media_breathing-and-the-mental-game/media/image2.jpg)
+**Breath control is central to fueling your tennis from positive emotions.**
 
 ### Breath Control
 
@@ -73,20 +61,15 @@ hitting. Exhale through your mouth at the contact point. The flow of air
 should be aggressive and long.
 
 If you are doing it correctly, you will naturally make the long sound of
-\"ah\" as you hit. It will feel as if you are attacking the ball with
+"ah" as you hit. It will feel as if you are attacking the ball with
 your breath.
 
 To develop this breathing pattern, an auditory cue will make the
 learning process much easier. As you strike the ball in practice,
-pronounce the word \"yes\" at the contact point.
+pronounce the word "yes" at the contact point.
 
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                     ![A person playing tennis Description automatically generated with medium
-   confidence](media_breathing-and-the-mental-game/media/image3.webp)
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                         **With proper exhalation, you attack the ball with your breath.**
-
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person playing tennis Description automatically generated with medium confidence](media_breathing-and-the-mental-game/media/image3.webp)
+**With proper exhalation, you attack the ball with your breath.**
 
 If you have a long habit of holding your breath, it may take two to
 three weeks of practice to get your breathing synchronized. As a result,
@@ -119,13 +102,8 @@ left side of the brain, which is logical and sequential, to the right
 side which is free flowing and spontaneous. No athlete can reach his
 full potential without using both sides of the brain.
 
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                        ![A person standing in front of a microphone Description automatically generated with low
-   confidence](media_breathing-and-the-mental-game/media/image4.webp)
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                  **Between point breathing as important as breathing during points.**
-
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person standing in front of a microphone Description automatically generated with low confidence](media_breathing-and-the-mental-game/media/image4.webp)
+**Between point breathing as important as breathing during points.**
 
 Breathing correctly between points is as important as breathing
 correctly during points. Deep breaths are crucial to relaxing and
@@ -163,13 +141,8 @@ all of it to recover and to sustain your mental toughness through the
 course of a match. Sit down. Towel off. Drink water. And focus on your
 breathing.
 
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                             ![A picture containing person Description automatically
-   generated](media_breathing-and-the-mental-game/media/image5.webp)
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                   **On the changeovers, towel off, drink water, and focus on your breathing.**
-
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A picture containing person Description automatically generated](media_breathing-and-the-mental-game/media/image5.webp)
+**On the changeovers, towel off, drink water, and focus on your breathing.**
 
 Here is a special breath to help relax. Inhale slowly through your nose
 to the count of four. Now, hold that breath for two seconds. Now exhale
@@ -190,22 +163,17 @@ for restoring your ideal performance state under a tense, competitive
 pressure. Practice these techniques and watch how they can affect your
 play and enjoyment of the game.
 
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![A person smiling for the camera Description automatically generated with medium                                                                                                 Jim Loehr is a legendary pioneer in the field of
-  confidence](media_breathing-and-the-mental-game/media/image6.jpeg)                                                                                                                                                    himself who still competes nationally in USTA
-                                                                                                                                                                                    events, Jim created the field of Mental
-                                                                                                                                                                                    Toughness training with his revolutionary study
-                                                                                                                                                                                    of elite pro players. He has been one of the
-                                                                                                                                                                                    most influential voices in tennis and tennis
-                                                                                                                                                                                    coaching for over 30 years, and is the author of
-                                                                                                                                                                                    multiple best selling books. He has expanded his
-                                                                                                                                                                                    influence far beyond sports with the creation of
-                                                                                                                                                                                    the Human Performance Institute where he and his
-                                                                                                                                                                                    staff have worked with hundreds of leaders in
-                                                                                                                                                                                    business, law enforcement, and military special
-                                                                                                                                                                                    forces. For the last decade he has also directed
-                                                                                                                                                                                    an academy for junior players helping young
-                                                                                                                                                                                    people learn what winning in life really means.
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ------------------------------------------------
-
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person smiling for the camera Description automatically generated with medium                                                                                                 Jim Loehr is a legendary pioneer in the field of confidence](media_breathing-and-the-mental-game/media/image6.jpeg)                                                                                                                                                    himself who still competes nationally in USTA
+events, Jim created the field of Mental
+Toughness training with his revolutionary study
+of elite pro players. He has been one of the
+most influential voices in tennis and tennis
+coaching for over 30 years, and is the author of
+multiple best selling books. He has expanded his
+influence far beyond sports with the creation of
+the Human Performance Institute where he and his
+staff have worked with hundreds of leaders in
+business, law enforcement, and military special
+forces. For the last decade he has also directed
+an academy for junior players helping young
+people learn what winning in life really means.

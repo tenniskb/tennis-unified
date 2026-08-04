@@ -4,11 +4,7 @@
 
 ### Craig Cignarelli
 
-------------------------------------------------------------------------
-
-![A tennis player on a court Description automatically generated with
-medium
-confidence](media_pro-patterns-basic-diagonals-part-2-switching-the-rally/media/image1.webp)
+![A tennis player on a court Description automatically generated with medium confidence](media_pro-patterns-basic-diagonals-part-2-switching-the-rally/media/image1.webp)
 
 **The battle for control of the diagonals can make pro patterns
 complicated.**
@@ -31,9 +27,7 @@ patterns are the three crosscourt diagonals: forehand to forehand,
 backhand to backhand, and inside out forehand to backhand. But this is
 far from the whole story.
 
-![A picture containing sport, athletic game, court, blue Description
-automatically
-generated](media_pro-patterns-basic-diagonals-part-2-switching-the-rally/media/image2.webp)
+![A picture containing sport, athletic game, court, blue Description automatically generated](media_pro-patterns-basic-diagonals-part-2-switching-the-rally/media/image2.webp)
 
 **Pro tennis is a constant battle for diagonal control.**
 
@@ -51,15 +45,13 @@ article we'll start by analyzing the forehand and backhand diagonals.
 The next article will be devoted to a full analysis of the inside out
 position which has become such a dominant force in the modern game.
 
-![A picture containing sport, tennis, athletic game, road Description
-automatically
-generated](media_pro-patterns-basic-diagonals-part-2-switching-the-rally/media/image3.webp)\
+![A picture containing sport, tennis, athletic game, road Description automatically generated](media_pro-patterns-basic-diagonals-part-2-switching-the-rally/media/image3.webp)\
 **To switch the rally players must hit down the line.**
 
 **Switching the Rally**
 
 When your opponent finds himself in an unfavorable crosscourt
-exchange\--if he understands patterns\--he will undoubtedly try to
+exchange--if he understands patterns--he will undoubtedly try to
 switch the rally to one that favors him. Let's say you are in a
 forehand-to-forehand rally, which is your strength, and your opponent
 would prefer to hit backhand to backhand.
@@ -70,9 +62,7 @@ and the court is shorter down the line. Moreover, changing direction on
 the ball is more difficult than hitting it back on the angle it came
 from.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_pro-patterns-basic-diagonals-part-2-switching-the-rally/media/image4.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_pro-patterns-basic-diagonals-part-2-switching-the-rally/media/image4.webp)
 
 **Switching the rally on a ball in the middle gives you more room for
 error.**
@@ -86,9 +76,7 @@ which favors him. If you can achieve this, then you will play your
 favorable crosscourt rally and should win the
 match.**
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_pro-patterns-basic-diagonals-part-2-switching-the-rally/media/image4.webp)\
+![A person playing tennis Description automatically generated with medium confidence](media_pro-patterns-basic-diagonals-part-2-switching-the-rally/media/image4.webp)\
 **Pinning your opponent in the corner keeps him from switching the
 rally.**
 
@@ -111,8 +99,7 @@ can step into the ball, a hard drive crosscourt will force your opponent
 to move quickly and may give you an immediate advantage or a clean
 winner.
 
-![A picture containing match Description automatically
-generated](media_pro-patterns-basic-diagonals-part-2-switching-the-rally/media/image5.webp)
+![A picture containing match Description automatically generated](media_pro-patterns-basic-diagonals-part-2-switching-the-rally/media/image5.webp)
 
 **If you are balanced and can step in, punish your opponent's attempt
 to switch the rally.**
@@ -131,9 +118,7 @@ intention, tempting the opponent to hit down the line. From here
 Teltscher could use his wonderful backhand crosscourt drive for the
 winning shot.
 
-![A close-up of a football goal Description automatically generated with
-low
-confidence](media_pro-patterns-basic-diagonals-part-2-switching-the-rally/media/image6.webp)
+![A close-up of a football goal Description automatically generated with low confidence](media_pro-patterns-basic-diagonals-part-2-switching-the-rally/media/image6.webp)
 
 **A change of pace response to the down the line is the soft cross court
 roll.**
@@ -150,9 +135,7 @@ opponent has succeeded in changing the diagonal. He has gained the
 advantage of a crosscourt rally that favors him. A good player learns
 quickly whether he can use this shot.
 
-![A picture containing tennis, sport, athletic game, road Description
-automatically
-generated](media_pro-patterns-basic-diagonals-part-2-switching-the-rally/media/image7.webp)\
+![A picture containing tennis, sport, athletic game, road Description automatically generated](media_pro-patterns-basic-diagonals-part-2-switching-the-rally/media/image7.webp)\
 **A crosscourt response is the best defense to a forcing down the
 line.**
 
@@ -176,9 +159,7 @@ crosscourt rally advantage. But there are other options. When your
 opponent tries to change the crosscourt rally by hitting down the line,
 you actually have other choices, besides hitting crossing court.
 
-![A picture containing floor, blue, athletic game, sport Description
-automatically
-generated](media_pro-patterns-basic-diagonals-part-2-switching-the-rally/media/image8.webp)
+![A picture containing floor, blue, athletic game, sport Description automatically generated](media_pro-patterns-basic-diagonals-part-2-switching-the-rally/media/image8.webp)
 
 **One option: answer the down the line with a down the line loop.**
 
@@ -202,9 +183,7 @@ line shot may be disguised a split second longer than the crosscourt
 shot, giving your opponent less time to react, and increasing the chance
 of catching him moving the wrong way.
 
-![A picture containing sport, tennis, green, match Description
-automatically
-generated](media_pro-patterns-basic-diagonals-part-2-switching-the-rally/media/image9.webp)
+![A picture containing sport, tennis, green, match Description automatically generated](media_pro-patterns-basic-diagonals-part-2-switching-the-rally/media/image9.webp)
 
 **Going back down the line can catch the opponent moving the wrong
 way.**
@@ -226,9 +205,7 @@ club player. When Rafael Nadal is two feet from the sideline, he might
 drive a shot back down the line, knowing his power of shot, and speed of
 foot will allow him to stay in the point.
 
-![A picture containing athletic game, sport, tennis Description
-automatically
-generated](media_pro-patterns-basic-diagonals-part-2-switching-the-rally/media/image10.webp)
+![A picture containing athletic game, sport, tennis Description automatically generated](media_pro-patterns-basic-diagonals-part-2-switching-the-rally/media/image10.webp)
 
 **Power and speed lets Nadal hit down the line and stay in the point.**
 
@@ -246,9 +223,7 @@ attacking position. If your opponent hits down the line, you can respond
 with a crosscourt angle or a deep ball crosscourt forcing him to run
 again.
 
-![A tennis player in the middle of a match Description automatically
-generated with low
-confidence](media_pro-patterns-basic-diagonals-part-2-switching-the-rally/media/image11.webp)
+![A tennis player in the middle of a match Description automatically generated with low confidence](media_pro-patterns-basic-diagonals-part-2-switching-the-rally/media/image11.webp)
 
 **A crosscourt angle off the down the line can drive your opponent off
 the court.**
@@ -276,9 +251,7 @@ experiment against many opponents, especially if their forward movement
 is suspect. You may uncover a pattern that can yield you a few extra
 points, something that can be critical in close matches.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_pro-patterns-basic-diagonals-part-2-switching-the-rally/media/image12.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_pro-patterns-basic-diagonals-part-2-switching-the-rally/media/image12.webp)
 
 **You can answer a down the line with a drop shot, and sometimes follow
 that up with an approach.**
@@ -289,8 +262,7 @@ Graf to Roger Federer, have produced Grand Slam titles playing from the
 inside out forehand position, and how that position has become a
 dominant force in the modern game.
 
-![A person holding a tennis racket Description automatically
-generated](media_pro-patterns-basic-diagonals-part-2-switching-the-rally/media/image13.jpeg)
+![A person holding a tennis racket Description automatically generated](media_pro-patterns-basic-diagonals-part-2-switching-the-rally/media/image13.jpeg)
 
 Craig Cignarelli is one of the most prolific and successful
 developmental coaches in the country. His original analysis of
@@ -300,5 +272,5 @@ personally nurtured 4 junior players from the beginning of their careers
 who have gone on to achieve #1 national rankings. Currently he is
 working with a cadre of aspiring WTA and ATP players, as well as
 competitive juniors at all levels. Versed in 4 languages, Craig is
-completing his first book \"What Champions Know,\" which forms the basis
+completing his first book "What Champions Know," which forms the basis
 for his articles on Tennisplayer.

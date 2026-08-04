@@ -6,22 +6,20 @@
 
 Top of Form
 
-![A person smiling for the camera Description automatically generated
-with medium
-confidence](media_footwork-toc/media/image1.jpeg)
+![A person smiling for the camera Description automatically generated with medium confidence](media_footwork-toc/media/image1.jpeg)
 
 John Yandell\
 Editor
 
-Few topics in playing and coaching are as complex, confusing\--and
-generally overlooked\--as footwork and court movement.
+Few topics in playing and coaching are as complex, confusing--and
+generally overlooked--as footwork and court movement.
 
 In this section of TPA, we are beginning to redress that
-problem by looking closely at every aspect of how player's move\--and
-should move\--in all dimensions of play.
+problem by looking closely at every aspect of how player's move--and
+should move--in all dimensions of play.
 
 Bob Hansen was far ahead of his time when he and I first worked together
-over 10 years ago presenting his \"controversial\" theories of how to
+over 10 years ago presenting his "controversial" theories of how to
 position to the ball. It's similar to what happened to Jim Loehr's
 theories of mental toughness. The things Bob understood a long time ago
 are no longer considered controversial. They've been widely adopted and
@@ -156,7 +154,7 @@ Hop](Contact%20Moves%20-%20The%20Front%20Foot%20Hop.docx)
 
 [Court Movement: The Volley](Court%20Movement%20-%20The%20Volley.docx)
 
-[Court Movement: The \"Float\"
+[Court Movement: The "Float"
 Move](Court%20Movement%20-%20The%20Float.docx)
 
 [Court Movement: The

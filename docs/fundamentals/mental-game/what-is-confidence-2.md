@@ -2,10 +2,7 @@
 
 ### By Craig Kardon
 
-------------------------------------------------------------------------
-
-![A person playing tennis Description automatically
-generated](media_what-is-confidence-2/media/image1.webp)
+![A person playing tennis Description automatically generated](media_what-is-confidence-2/media/image1.webp)
 
 **Confidence means learning to believe your game will be successful.**
 
@@ -34,8 +31,7 @@ matter of the quality of your shots. A player I worked with, Xavier
 Malisse, would get on a roll and be fantastic. He had a great forehand,
 great movement, played really deep defense.
 
-![A person swinging a tennis racket Description automatically
-generated](media_what-is-confidence-2/media/image2.webp)
+![A person swinging a tennis racket Description automatically generated](media_what-is-confidence-2/media/image2.webp)
 
 **Even with a big forehand, confidence can suddenly fade.**
 
@@ -63,8 +59,7 @@ feel that you can be a little more aggressive, and you're going to get
 errors. That's a visible sign of your opponent not being as confident
 as you might assume.
 
-![A person playing tennis Description automatically
-generated](media_what-is-confidence-2/media/image3.webp)
+![A person playing tennis Description automatically generated](media_what-is-confidence-2/media/image3.webp)
 
 **Visible frustration shows a lack of confidence.**
 
@@ -92,9 +87,7 @@ really more confident. In women's tennis, you can just tell more easily
 by watching, who is hitting the ball harder, who is more confident.
 It's all a bit more visibly apparent.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_what-is-confidence-2/media/image4.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_what-is-confidence-2/media/image4.webp)
 
 **In women's tennis, the emotions can be more transparent.**
 
@@ -125,9 +118,7 @@ not making unforced errors at the wrong times. You can't play loose
 points when you're confident. This is one very important way of
 protecting your confidence - don't give away points no matter what.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_what-is-confidence-2/media/image5.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_what-is-confidence-2/media/image5.webp)
 
 **Be aggressive with your footwork - no matter what.**
 
@@ -149,9 +140,7 @@ great example of this. She was a great front runner. When she would get
 on a roll, she would keep coming and she would just bury opponents, just
 bury them.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_what-is-confidence-2/media/image6.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_what-is-confidence-2/media/image6.webp)
 
 **Put the ball away with authority.**
 
@@ -175,9 +164,7 @@ She simply wasn't playing her best, and I could tell, was focusing on
 the negative. There was a rain delay and she started complaining about
 all the errors that she was making.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_what-is-confidence-2/media/image6.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_what-is-confidence-2/media/image6.webp)
 
 **Keep track of the points you are winning, and how.**
 
@@ -202,8 +189,7 @@ were up there, then his confidence went up. But what was interesting was
 what happened when his statistics were lower - even if he was winning
 matches at the time.
 
-![A person playing tennis Description automatically
-generated](media_what-is-confidence-2/media/image7.webp)
+![A person playing tennis Description automatically generated](media_what-is-confidence-2/media/image7.webp)
 
 **Focus on the positive things you are doing on court, not the
 negative.**
@@ -224,9 +210,7 @@ more confident.
 
 **Assumption and Belief**
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_what-is-confidence-2/media/image8.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_what-is-confidence-2/media/image8.webp)
 
 **Loss of confidence is a disbelief in success.**
 
@@ -251,13 +235,8 @@ But probably the best way to do this is to put yourself in winning
 situations, and this means organizing things so that your player meets
 other players you know they can beat.
 
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                 ![A person playing tennis Description automatically generated with medium
-   confidence](media_what-is-confidence-2/media/image9.jpg)
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                              **Why did Bill Scanlon play local pro events?**
-
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person playing tennis Description automatically generated with medium confidence](media_what-is-confidence-2/media/image9.jpg)
+**Why did Bill Scanlon play local pro events?**
 
 A great example is what a former top ten player Bill Scanlon would do.
 Scanlon beat John McEnroe and had a winning record against Boris Becker.
@@ -288,13 +267,8 @@ is only partially true. If you are serious about rebuilding or
 increasing your confidence, you need to do what Bill Scanlon did and
 find a way to execute the shots you need over and over.
 
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                 ![A person playing tennis Description automatically generated with medium
-   confidence](media_what-is-confidence-2/media/image10.jpg)
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                    **Tommy Haas pumped himself up to build confidence at the French.**
-
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person playing tennis Description automatically generated with medium confidence](media_what-is-confidence-2/media/image10.jpg)
+**Tommy Haas pumped himself up to build confidence at the French.**
 
 **Tommy Haas**
 
@@ -319,8 +293,7 @@ The point is he found something positive to build his confidence on.
 Literally he was able to change the way he felt during the match. It was
 like he expected good things to happen, and they happened.
 
-![A person playing tennis Description automatically
-generated](media_what-is-confidence-2/media/image11.webp)
+![A person playing tennis Description automatically generated](media_what-is-confidence-2/media/image11.webp)
 
 **Recognize the opportunity to believe when you do something good.**
 
@@ -338,18 +311,24 @@ Next, I'll tell the story of my work coaching Ana Ivanovic and how all
 these issues about confidence relate to her game and the ups and downs
 talented players sometimes experience at the top of the game.
 
-| ![A person wearing a white hat Description automatically generated with low | Craig Kardon is the touring coach and |
-| --- | --- |
-| confidence](media_what-is-confidence-2/media/image12.jpeg) | in Irving, Texas. He is also the coach of the |
-|  | Philadelphia Freedoms in World Team Tennis. As a |
-|  | tour coach he has worked with many of the |
-|  | world's top players, including Martina |
-|  | Navratilova, whom he coached to multiple Grand |
-|  | Slam titles, as well as Jennifer Capriati, |
-|  | Xavier Malisse, and Ana Ivanovic. |
-|  |  |
-|  | Craig can be contacted directly at: |
-|  | <Clkardon@aol.com>. |
-|  |  |
-|  |  |
+![A person wearing a white hat Description automatically generated with low confidence](media_what-is-confidence-2/media/image12.jpeg)
 
+Craig Kardon is the touring coach and
+
+in Irving, Texas. He is also the coach of the
+
+Philadelphia Freedoms in World Team Tennis. As a
+
+tour coach he has worked with many of the
+
+world's top players, including Martina
+
+Navratilova, whom he coached to multiple Grand
+
+Slam titles, as well as Jennifer Capriati,
+
+Xavier Malisse, and Ana Ivanovic.
+
+Craig can be contacted directly at:
+
+<Clkardon@aol.com>.

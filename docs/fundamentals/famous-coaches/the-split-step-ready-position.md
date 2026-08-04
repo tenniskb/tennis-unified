@@ -6,7 +6,7 @@
 
 In my first article ([link](The%20Framework%20-%20A%20New%20Paradigm%20for%20Technique%20and%20Movement.docx).)
 I proposed that most educational resources make an unhelpful separation
-between technique\--the swing of the racquet\--and movement to the ball.
+between technique--the swing of the racquet--and movement to the ball.
 I further proposed that this separation has led to poor teaching and
 that only by marrying technique and movement can we develop an effective
 teaching model.
@@ -21,9 +21,7 @@ stages. Each stage has a stroke component and a movement component. The
 first stage is the Split Step / Ready Position or what I call the Split
 / Ready.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_the-split-step-ready-position/media/image1.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_the-split-step-ready-position/media/image1.webp)
 
 **Movement and the swing are inseparable parts of all shots.**
 
@@ -33,15 +31,13 @@ The idea of the Split / Ready has often been an after thought in tennis,
 almost a cliché. It has been the poorest stepchild in a teaching world
 that fetishizes glossy finishes.
 
-![A person running on a track Description automatically generated with
-medium
-confidence](media_the-split-step-ready-position/media/image2.webp)
+![A person running on a track Description automatically generated with medium confidence](media_the-split-step-ready-position/media/image2.webp)
 
 **The Split / Ready is misunderstood and under emphasized.**
 
 It is perhaps the most misunderstood, underemphasized and under
 practiced element of the game. How often have you heard a TV announcer
-bark, \"Wow, what a great split step!\" Or, \"She mistimed her split!\"
+bark, "Wow, what a great split step!" Or, "She mistimed her split!"
 
 Few instructional videos focus on the Split / Ready, much less its
 variations. **[Coaches are often asked where the racquet should finish
@@ -64,13 +60,12 @@ greatness begins!
 
 **Immersion**
 
-![A person playing tennis Description automatically
-generated](media_the-split-step-ready-position/media/image3.webp)
+![A person playing tennis Description automatically generated](media_the-split-step-ready-position/media/image3.webp)
 
 **The complexity of one shot can almost defy description.**
 
 **So now let's begin to immerse ourselves in the
-specifics.** I use the word \"specifics\" with
+specifics.** I use the word "specifics" with
 caution. I am humbled by the reality that each shot, even just one shot,
 is an unfolding of elements so complex as to almost defy comprehension.
 Variations even in two like-looking hits are often fantastic at close
@@ -89,7 +84,7 @@ at particular times.
 **What Happens First and Last**
 
 I revel in watching club and public park players imitate their favorite
-pros. The Rafa disciples whip their racquets upward along the \"wrong\"
+pros. The Rafa disciples whip their racquets upward along the "wrong"
 side of their head on the forehand follow through in homage to the
 Spaniard.
 
@@ -99,11 +94,10 @@ shots end up half way up the net. These impersonations make great public
 theatre.
 
 Yet these wannabes (and most teachers) would be better off studying and
-practicing what the greats do at the start of each shot \--or at the end
+practicing what the greats do at the start of each shot --or at the end
 of each shot, depending on how you look at it. This is the Split /Ready.
 
-![A person playing tennis Description automatically
-generated](media_the-split-step-ready-position/media/image4.webp)
+![A person playing tennis Description automatically generated](media_the-split-step-ready-position/media/image4.webp)
 
 **The Split / Ready: it happens first and it happens last.**
 
@@ -155,10 +149,7 @@ through the lens of the four rules of the Framework.
 | and foot speed. In fact eliminating variables will increase both.** |  |
 | ** ** |  |
 
-
-![A picture containing tennis, person, athletic game, sport Description
-automatically
-generated](media_the-split-step-ready-position/media/image5.webp)
+![A picture containing tennis, person, athletic game, sport Description automatically generated](media_the-split-step-ready-position/media/image5.webp)
 
 **A Great Split / Ready puts the body in motion with the strongest, best
 timed push.**
@@ -185,8 +176,7 @@ they do.
 
 **Posture and Stability**
 
-![A person playing tennis Description automatically
-generated](media_the-split-step-ready-position/media/image6.webp)
+![A person playing tennis Description automatically generated](media_the-split-step-ready-position/media/image6.webp)
 
 **Perfect posture: head and torso aligned above the hips and legs.**
 
@@ -213,8 +203,7 @@ The longer the point, the more complications that are created by
 excessive lean forward. McHale and others struggle when forced to move
 backward and forward.
 
-![A person playing tennis Description automatically
-generated](media_the-split-step-ready-position/media/image7.webp)
+![A person playing tennis Description automatically generated](media_the-split-step-ready-position/media/image7.webp)
 
 **Despite his athleticism, Gael Monfils is limited by poor posture.**
 
@@ -235,11 +224,10 @@ makes playing in the biggest moments even more nerve wracking.)
 
 So what are the specific benefits Federer and Djokovic enjoy because of
 their posture? Getting into the correct position---the same position for
-every shot\--helps reduce the number of variables that any athlete needs
+every shot--helps reduce the number of variables that any athlete needs
 to figure out.
 
-![A person playing tennis Description automatically
-generated](media_the-split-step-ready-position/media/image8.webp)
+![A person playing tennis Description automatically generated](media_the-split-step-ready-position/media/image8.webp)
 
 **Leaning forward on her forehand compromises Wozniacki's power and
 balance.**
@@ -270,20 +258,18 @@ The third parameter is height. The height of the jump is related to the
 timing. There is quite a bit of variation in the height. It can vary
 from 3 inches or more to barely coming off the ground.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_the-split-step-ready-position/media/image9.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_the-split-step-ready-position/media/image9.webp)
 
 **Federer leaves the ground before contact, and his split peaks at the
 hit.**
 
 Deep in the back of the court (when their opponent is in the backcourt)
 the player has more time and the increased height allows the player to
-\"sink\" further into the court and then generate more power with a
+"sink" further into the court and then generate more power with a
 stronger initial push to the shot.
 
 When close up to the net or when up close to the baseline a players has
-less time to \"hang in the air.\" The lower height of the split means a
+less time to "hang in the air." The lower height of the split means a
 quicker reaction time. The down side is that the player has less time to
 turn her feet in the direction she must move before she lands.
 
@@ -298,9 +284,7 @@ a player's legs are apart when they land the split. In general a player
 wants to get as wide as possible and still be able to push off to the
 shot with power, balance and rhythm.
 
-![A picture containing grass, athletic game, tennis, sport Description
-automatically
-generated](media_the-split-step-ready-position/media/image10.webp)
+![A picture containing grass, athletic game, tennis, sport Description automatically generated](media_the-split-step-ready-position/media/image10.webp)
 
 **Increased height on the split allows the player to sink further into
 the court.**
@@ -328,9 +312,7 @@ feet in the direction the player wants to move can happen either in the
 air or after the landing. It can also happen in the next stage we will
 explore, the Unit Turn / Grip Change.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_the-split-step-ready-position/media/image11.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_the-split-step-ready-position/media/image11.webp)
 
 **The split is wider on returns and volleys.**
 
@@ -343,25 +325,24 @@ far back in the court.
 In addition to the five movement parameters, there are three parameters
 for understanding the racket work in the ready position.
 
-1\. The racquet is gently held with both the dominant hand and
+1. The racquet is gently held with both the dominant hand and
 non-dominant hand. For those with a one-handed backhand the non-dominant
 hand cradles the throat. For two handers, this can be the same, or the
 non-dominant hand can slide down, close to or touching the dominant
 hand.
 
-2\. The arms are hanging down with a bend at the elbows and with a few
+2. The arms are hanging down with a bend at the elbows and with a few
 inches between the between the elbows and torso. These few inches are
 critical because when the unit turn is done properly the racquet is
 automatically ready to start the swing without any further movement of
 the arms below the elbow.
 
-![A person playing tennis Description automatically
-generated](media_the-split-step-ready-position/media/image12.webp)
+![A person playing tennis Description automatically generated](media_the-split-step-ready-position/media/image12.webp)
 
 **The greats often turn the feet in the air in the direction of their
 movement.**
 
-3\. The racquet head is above the hands. There is some variety as to how
+3. The racquet head is above the hands. There is some variety as to how
 low the racquet head should go. Most pros have the head significantly
 above the grip. Notable exceptions have included Rod Laver and John
 McEnroe.
@@ -386,13 +367,12 @@ dancers, great tennis movers seem to soften the ground as they power to
 a shot. Explosiveness is married to flow, balance, and seamless movement
 into recovery.
 
-![A person playing tennis Description automatically
-generated](media_the-split-step-ready-position/media/image13.webp)
+![A person playing tennis Description automatically generated](media_the-split-step-ready-position/media/image13.webp)
 
 **The racquet work parameters facilitate the beginning of the swing.**
 
 At their best and most elegant, Wilander, Laver, Henin, Goolagong,
-Agassi, Murray, and a few others \"partner\" with the ball. They take
+Agassi, Murray, and a few others "partner" with the ball. They take
 control when they can, leading the dance if you will. When on the
 defensive, they absorb or follow.
 
@@ -421,8 +401,7 @@ Why? As we see in Rule 3 great tennis is marked by rapid but smooth
 acceleration and deceleration. And after the recovery this happens in
 reverse.
 
-![A person playing tennis Description automatically
-generated](media_the-split-step-ready-position/media/image14.webp)
+![A person playing tennis Description automatically generated](media_the-split-step-ready-position/media/image14.webp)
 
 **The Split / Ready punctuates the start and the finish of every
 mini-dance.**
@@ -434,7 +413,7 @@ equilibrium. Federer and Djokovic do this ball after ball.
 
 Watch even slightly lesser players like Berdych who often struggle (just
 slightly) to absorb and stabilize. This is one reason why there have
-been no truly great tall players over 6' 4\". This is also why I have
+been no truly great tall players over 6' 4". This is also why I have
 great respect for players like John Isner. The work involved in changing
 directions is more difficult the larger the athlete.
 
@@ -463,8 +442,7 @@ beginning of every shot. Think of how a skier stays still in his upper
 body even when navigating moguls. This stillness allows the parameters
 of the Ready Position to be maintained.
 
-![A person playing tennis Description automatically
-generated](media_the-split-step-ready-position/media/image15.webp)
+![A person playing tennis Description automatically generated](media_the-split-step-ready-position/media/image15.webp)
 
 **After every shot, deceleration, absorption, acceleration.**
 
@@ -489,8 +467,7 @@ great movement and great strokes are not possible. If we coaches want
 our students to win high level rallies, they must learn the meticulous
 execution of this first stage.
 
-![A person holding a tennis racket Description automatically
-generated](media_the-split-step-ready-position/media/image16.jpeg)
+![A person holding a tennis racket Description automatically generated](media_the-split-step-ready-position/media/image16.jpeg)
 
 Following a legendary professional playing career, Tim Mayotte is now
 focused on developing the best tennis training program in America. For

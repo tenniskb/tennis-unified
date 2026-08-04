@@ -20,21 +20,34 @@ issue of the starting stance.
 
 We're excited to have back Jeff as a Tennisplayer contributor!
 
-![link](media_the-set-up-and-stance/media/image1.png)
+![Video demonstration](media_the-set-up-and-stance/media/image1.png)
 
-| ![A person smiling for the camera Description automatically generated with medium | Jeff Salzenstein is the founder of Tennis |
-| --- | --- |
-| confidence](media_the-set-up-and-stance/media/image2.jpeg) | training program on the web for players of all |
-|  | levels. Jeff was an elite American junior player |
-|  | who went on to become a two time All American at |
-|  | Stanford. Over the course of his pro career he |
-|  | won 5 Challenger titles, played in the main draw |
-|  | at all four Grand Slams, and was ranked in the |
-|  | top 100 on the ATP Tour. He has career wins over |
-|  | players including Fernando Verdasco, Mikhael |
-|  | Tillstrom, Jiri Novak, and Greg Rusedski. |
-|  |  |
-|  | To Visit Jeff at Tennis Evolution and Learn More |
-|  | About His Coaching and Training, [Click |
-|  | Here!](http://www.tennisevolution.com) |
+*Video demonstration — the original video for this article was hosted on TennisPlayer.net.*
 
+![A person smiling for the camera Description automatically generated with medium confidence](media_the-set-up-and-stance/media/image2.jpeg)
+
+Jeff Salzenstein is the founder of Tennis
+
+training program on the web for players of all
+
+levels. Jeff was an elite American junior player
+
+who went on to become a two time All American at
+
+Stanford. Over the course of his pro career he
+
+won 5 Challenger titles, played in the main draw
+
+at all four Grand Slams, and was ranked in the
+
+top 100 on the ATP Tour. He has career wins over
+
+players including Fernando Verdasco, Mikhael
+
+Tillstrom, Jiri Novak, and Greg Rusedski.
+
+To Visit Jeff at Tennis Evolution and Learn More
+
+About His Coaching and Training, [Click
+
+Here!](http://www.tennisevolution.com)

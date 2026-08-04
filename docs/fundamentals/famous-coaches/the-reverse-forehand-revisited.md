@@ -2,13 +2,12 @@
 
 ### Robert Lansdorp
 
-![A person playing tennis Description automatically
-generated](media_the-reverse-forehand-revisited/media/image1.webp)
+![A person playing tennis Description automatically generated](media_the-reverse-forehand-revisited/media/image1.webp)
 
 **The reverse forehand: where Nadal gets his game.**
 
-A few years ago, I wrote an article for Tennisplayer on the \"Reverse
-Forehand.\"  It was the first article that really explained the shot,
+A few years ago, I wrote an article for Tennisplayer on the "Reverse
+Forehand."  It was the first article that really explained the shot,
 which has become one of the most important shots in pro tennis.  I
 called it the reverse forehand because during the followthrough the
 racket goes upward and backward, finishing on the right side of the
@@ -23,12 +22,11 @@ that day seems to have arrived with Rafael Nadal. 
 But, after all these years, it still amazes me how poorly the reverse
 forehand is understood by the so-called experts.  You never read about
 the reverse forehand in the magazines. You never hear any of the
-television commentators talk about it.  This is because the \"experts\"
+television commentators talk about it.  This is because the "experts"
 never take the time to study it, so they don't understand what they
 see.  
 
-![A person playing tennis Description automatically
-generated](media_the-reverse-forehand-revisited/media/image2.webp)
+![A person playing tennis Description automatically generated](media_the-reverse-forehand-revisited/media/image2.webp)
 
 **The finish is the key to understanding Pete's running forehand.**
 
@@ -56,9 +54,7 @@ to hit the reverse forehand are greater. Being able to hit a reverse
 forehand can save you 10 points a set. That's more than enough to
 change who wins most matches.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_the-reverse-forehand-revisited/media/image3.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_the-reverse-forehand-revisited/media/image3.webp)
 
 **The reverse allows Maria to defuse the power of players like Serena.**
 
@@ -82,8 +78,7 @@ her reverse forehand was hit harder than you can imagine. She could rip
 the reverse. I still remember it. So, it's not necessarily that the
 reverse is a slower shot.
 
-![A person playing tennis Description automatically
-generated](media_the-reverse-forehand-revisited/media/image4.webp)
+![A person playing tennis Description automatically generated](media_the-reverse-forehand-revisited/media/image4.webp)
 
 **Capriati could rip the reverse.**
 
@@ -112,8 +107,7 @@ ball is low. With the reverse, players with these grips can curve the
 ball into the court, or they can angle it. With the reverse finish on
 these balls they actually seem to extend through the shot better.
 
-![A person playing tennis Description automatically
-generated](media_the-reverse-forehand-revisited/media/image5.webp)
+![A person playing tennis Description automatically generated](media_the-reverse-forehand-revisited/media/image5.webp)
 
 **With an extreme grip, you need the reverse of fast wide and/or low
 balls.**
@@ -149,8 +143,7 @@ Federer has such a hard time with Nadal. When Nadal hits the left-handed
 reverse forehand to Federer's backhand, the ball never sits in the same
 place. It jumps, and it jumps differently than a regular topspin.
 
-![A person playing tennis Description automatically
-generated](media_the-reverse-forehand-revisited/media/image6.webp)
+![A person playing tennis Description automatically generated](media_the-reverse-forehand-revisited/media/image6.webp)
 
 **The type of spin on Nadal's forehand causes problems for Federer, not
 just the amount.**
@@ -171,8 +164,7 @@ considering his grip. But in my opinion Nadal doesn't get his game from
 hitting a great regular forehand drive. He gets his game from the
 reverse.
 
-![A person playing tennis Description automatically
-generated](media_the-reverse-forehand-revisited/media/image7.webp)
+![A person playing tennis Description automatically generated](media_the-reverse-forehand-revisited/media/image7.webp)
 
 **Depending on the shot, Nadal can extend quite well when he reverses.**
 
@@ -197,9 +189,7 @@ lobs for example.** The reverse forehand is the
 best way to hit a topspin lob. You see it all the time on TV. Almost
 every time you see a perfect lob, it's reversed.
 
-![A picture containing text, tennis, road, sport Description
-automatically
-generated](media_the-reverse-forehand-revisited/media/image8.webp)
+![A picture containing text, tennis, road, sport Description automatically generated](media_the-reverse-forehand-revisited/media/image8.webp)
 
 **The reverse is the best possible way to hit a topspin lob.**
 
@@ -217,13 +207,11 @@ approaches.
 
 Once players understand the reverse, the reverse approach is simple.
 Once I see a player is able to hit a reverse forehand from the baseline,
-I'll just hit them a short ball and say, \"reverse it.\" And maybe they
+I'll just hit them a short ball and say, "reverse it." And maybe they
 miss the first one. But you don't have to explain that much. Once they
 understand the reverse, they adjust and make it work.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_the-reverse-forehand-revisited/media/image9.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_the-reverse-forehand-revisited/media/image9.webp)
 
 **The reverse has many advantages on the approach.**
 
@@ -262,9 +250,7 @@ kids, you have to actually teach them to put a little more spin on it
 and sometimes get the ball a little bit higher over the
 net.**
 
-![A picture containing text, tennis, sport, athletic game Description
-automatically
-generated](media_the-reverse-forehand-revisited/media/image10.webp)
+![A picture containing text, tennis, sport, athletic game Description automatically generated](media_the-reverse-forehand-revisited/media/image10.webp)
 
 **With Sharapova - and everyone else - I integrate the reverse into my
 teaching so it becomes a natural shot at the right time.**
@@ -295,12 +281,7 @@ to hit them all, including the reverse.  That's the only way to give
 them the tools they need to compete in the game the way it's played
 today.
 
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![A person hitting a ball with a tennis racket Description automatically
-  generated](media_the-reverse-forehand-revisited/media/image11.gif)
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person hitting a ball with a tennis racket Description automatically generated](media_the-reverse-forehand-revisited/media/image11.gif)
 
 Robert Lansdorp is the legendary Southern California coach who has
 developed dozens of world class junior and professional players.

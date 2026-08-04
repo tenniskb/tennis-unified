@@ -37,18 +37,18 @@ them, cars going by, and other movement or objects in the environment.
 
 Balance is the secret to power. **A body is balanced when the center
 of gravity is directly over the base of support, the
-feet**. **[[The feet need to be well
+feet**. **[The feet need to be well
 grounded] [and the head has to be centered in order to be
-properly balanced]]**. Move your head off of center
+properly balanced]**. Move your head off of center
 and you are no longer in balance.
 
 **Balance is about the way you move before, during and after the
 swing.** Footwork has a lot to do with balance.
 However, working on footwork is not the best way to actually improve
 your footwork. The way to better footwork is actually to work on
-balance. **[[Good footwork results when you are balanced, not the other
+balance. **[Good footwork results when you are balanced, not the other
 way around.] [Focus on improving your balance and your feet will
-move accordingly.]]**
+move accordingly.]**
 
 ***[Balance and timing are interrelated.]*** Swinging with poor
 timing throws you off balance and being off balance will disrupt your
@@ -140,15 +140,15 @@ categories. These categories are based on the stroke's most significant
 source of power.
 
 - **Swinging strokes** (ground strokes, serves, swing volleys) **use
-  angular momentum where hip and shoulder rotation is the most
-  significant source of power.**
+angular momentum where hip and shoulder rotation is the most
+significant source of power.**
 
 - **Punching strokes** (volleys, half volleys, difficult returns) **use
-  linear momentum where weight transfer is the most significant source
-  of power.**
+linear momentum where weight transfer is the most significant source
+of power.**
 
 - **Some strokes require a balanced combination of both sources
-  (approach shots and high volleys).**
+(approach shots and high volleys).**
 
 **In angular momentum, the hips and shoulders are literally the
 central gears of the swing system.** **An
@@ -228,16 +228,12 @@ spins. **[A topspin ball landing at the service line will bounce past
 the baseline. A backspin ball landing on the service line will bounce
 inside the baseline.]**
 
-| ![A picture containing text, athletic game, sport, tennis Description automatically | ![link](media_tennis-principles-and-foundations/media/image2.png) |  |
-| --- | --- | --- |
 
 +--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+                                                                                                                                                                               |
-| **Magnus Force** |  |
-| --- | --- |
-|  |  |
-| ![Diagram, schematic Description automatically |  |
-| generated](media_tennis-principles-and-foundations/media/image3.png) |  |
 
+**Magnus Force**
+
+![Diagram, schematic Description automatically generated](media_tennis-principles-and-foundations/media/image3.png)
 
 **Use backspin as your control spin and topspin as your power
 spin.**
@@ -354,15 +350,15 @@ write down what you see.
 - **Do they have a good first serve, but weak second serve?**
 
 - **Can they hit a good cross court forehand, but their down-the-line is
-  weak?**
+weak?**
 
 - **How do they handle high balls?**
 
 - **What do they do when the ball is short -- where do they hit to and
-  what kind of spin do they use?**
+what kind of spin do they use?**
 
 - **When you hit an approach shot, do they pass cross court or down the
-  line?**
+line?**
 
 - **How often do they lob and when?**
 
@@ -475,11 +471,11 @@ that is off balance. It means your body has an inefficient base of
 support due to poor footwork or knee flexion.
 
 **Fatigue and laziness are the causes of "leg
-lapse".** **[[The most common "leg lapse" occurs
+lapse".** **[The most common "leg lapse" occurs
 when a shot is wide to either side of the body and you simply "reach"
 for it instead of moving your feet.] [The second most common leg
 lapse occurs when a shot is low and you flex at the waist without
-flexing the knees.]]** **The best way to avoid
+flexing the knees.]** **The best way to avoid
 fatigue and laziness is to condition your lower
 body.**
 
@@ -917,10 +913,10 @@ you must arrive behind the bounce before the ball
 does.** **If you arrive late, your momentum will
 take you beyond contact and affect your recovery.**
 **Many players hit well, but their movement back is slower than their
-movement to the ball.** **[[It should be the same
+movement to the ball.** **[It should be the same
 speed.] [Recovery is in fact part of your swing. Your stroke is
 not completed until you're in position for the next
-shot.]]**
+shot.]**
 
 **Thirdly, you must anticipate your opponent's shots by keeping your
 eyes glued on them. Become sensitive to small cues which give away the
@@ -1050,38 +1046,38 @@ treasure of knowledge if we choose to see and accept it that way.
 **Tips for Handling Fear**
 
 - Take a look at fear and ask yourself "What is the worst that could
-  happen if I followed through on this fear-producing situation?" **If
-  you can live with the worst-case scenario, you can go beyond your
-  fear.**
+happen if I followed through on this fear-producing situation?" **If
+you can live with the worst-case scenario, you can go beyond your
+fear.**
 
 - Vigorous exercise coupled with relaxation or meditation helps to put
-  fear into perspective.
+fear into perspective.
 
 - Understand that it is impossible for anyone to be thoroughly competent
-  and achieving all the time. Failure is part of the process of living.
+and achieving all the time. Failure is part of the process of living.
 
 - Patience and persistence will bring you from failure to success in
-  most ventures.
+most ventures.
 
 - Real failure is the unwillingness to take a chance.
 
 - See failure as an opportunity to learn. How would you do it
-  differently next time?
+differently next time?
 
 - Expectations with regard to outcomes are setups for failure. Establish
-  strong preferences instead.
+strong preferences instead.
 
 **Myths about Fear**
 
 1.  **Myth 1:** If you work hard enough you can avoid failure. Not true.
-    The best of the best couldn't escape failure, how can you?
+The best of the best couldn't escape failure, how can you?
 
 2.  **Myth 2:** Failure is worthless. Not true. Failure is a necessary
-    prerequisite for success.
+prerequisite for success.
 
 3.  **Myth 3:** Failure is devastating. It is disappointing yes, but
-    generally the feelings that result from setback and failure are
-    exaggerated.
+generally the feelings that result from setback and failure are
+exaggerated.
 
 **Obstacles to Optimal Performance: Fear of Success**
 
@@ -1121,10 +1117,10 @@ later, go for it now while you're still capable.*]**
 
 In a match you cannot think about or experiment with your strokes.
 Practice is the time to experiment, but you should mostly rehearse your
-strokes, so they become familiar and dependable. **[[A rehearsed stroke
+strokes, so they become familiar and dependable. **[A rehearsed stroke
 is acquired through practice at a comfortable pace.] [An
 improvised stroke is a spontaneous reaction that occurs during match
-play or fast paced drills.]]**
+play or fast paced drills.]**
 
 **Do not rely on your ability to improvise.**
 **Rehearsing your strokes will never make you unimaginative. To the
@@ -1132,10 +1128,10 @@ contrary, the more situations you rehearse, the more imaginative your
 range of options.**
 
 **A tennis stroke is not a collection of disconnected
-actions.** **[[An efficient stroke is a series of
+actions.** **[An efficient stroke is a series of
 actions that flow in an instantaneous sequence.] [Your muscles
 must be appropriately relaxed in order for the separate actions of the
-stroke to flow.]]** **Whether swinging or punching,
+stroke to flow.]** **Whether swinging or punching,
 the force of an efficient swing travels from your center of gravity to
 the racket head in an instantaneous sequence.** A
 loss of balance at the beginning of the stroke will inhibit your body's
@@ -1159,7 +1155,7 @@ for:**
 - How well can you place your serve?
 
 - How well do you return crosscourt down the line and down the middle
-  deep?
+deep?
 
 - Can you hit the 7 target areas?
 
@@ -1265,24 +1261,24 @@ want to become. As we get older, these dreams are usually replaced by
 dreams:
 
 - **[Lack of support]** -- in reality society does not want us to
-  achieve above the limits that it has conveniently ordained. Most
-  people don't want you to become more successful than what they are. In
-  the process you consistently receive negative messages from others
-  about your ability to rise to the top. This affects your confidence
-  and self-esteem, and you stop believing in yourself.
+achieve above the limits that it has conveniently ordained. Most
+people don't want you to become more successful than what they are. In
+the process you consistently receive negative messages from others
+about your ability to rise to the top. This affects your confidence
+and self-esteem, and you stop believing in yourself.
 
 - [**Lack of opportunity**.] Many people don't follow their
-  dreams because of lack of resources. You need enough money to pay for
-  coaching and to be able to travel. Many times, people have to relocate
-  to a different area to get the services they need. This is not always
-  affordable.
+dreams because of lack of resources. You need enough money to pay for
+coaching and to be able to travel. Many times, people have to relocate
+to a different area to get the services they need. This is not always
+affordable.
 
 - **[Fear.]** Dealing with the pain of failure is the one factor
-  that holds most people back from going after their dreams.
+that holds most people back from going after their dreams.
 
 - But, believe it or not, **the main reason most talented people don't
-  commit to fulfilling their visions, is laziness or lack of
-  desire.**
+commit to fulfilling their visions, is laziness or lack of
+desire.**
 
 There are basically 3 groups of people in the world. Your job is to
 create a vision of which group you want to belong to:
@@ -1431,11 +1427,11 @@ frustrated or depressed.
 **[Remember that:]**
 
 - commitment is the effort and energy that goes into turning goals into
-  reality.
+reality.
 
 - the intensity of one's commitment tends to be stronger when it comes
-  from within, although there are external motives and rewards to
-  encourage this internal drive.
+from within, although there are external motives and rewards to
+encourage this internal drive.
 
 - commitment is a vital ingredient in achieving success.
 
@@ -1579,33 +1575,33 @@ positive phrases "I can do this". Use present tense "I am calm and
 confident".
 
 - **Practice with purpose.** The purpose of training is to meet the
-  demands of the competition you are going to take part in. Train at a
-  competitive pace and with purpose. Set up competitive situations in
-  practice. It is not possible to be confident if you are not competent.
+demands of the competition you are going to take part in. Train at a
+competitive pace and with purpose. Set up competitive situations in
+practice. It is not possible to be confident if you are not competent.
 
 - **Ensure success.** Experiencing success builds confidence. Sometimes
-  you need to enter competitions where you know you will do well. Many
-  times, tennis players want to compete "up" at the next level or age
-  group to avoid pressure or to gain experience. Make sure you win 75%
-  percent of your matches at the level you enter. Losing on a regular
-  basis creates losing habits and makes you lose confidence.
+you need to enter competitions where you know you will do well. Many
+times, tennis players want to compete "up" at the next level or age
+group to avoid pressure or to gain experience. Make sure you win 75%
+percent of your matches at the level you enter. Losing on a regular
+basis creates losing habits and makes you lose confidence.
 
 - When you see your training and competition program planned, you are
-  more likely to feel confident about what you are doing.
-  Disorganization undermines confidence.
+more likely to feel confident about what you are doing.
+Disorganization undermines confidence.
 
 <!-- -->
 
 - **Training partner.** Train with people who are positive and have the
-  same goals as you do. Your coach should be knowledgeable, organized
-  and challenging. Train with people who are serious and have the same
-  ability as you. If you train with people who are much superior to you,
-  you can easily lose confidence when you continually compare yourself
-  to them.
+same goals as you do. Your coach should be knowledgeable, organized
+and challenging. Train with people who are serious and have the same
+ability as you. If you train with people who are much superior to you,
+you can easily lose confidence when you continually compare yourself
+to them.
 
 - **Look and act confident.** Always walk tall with your chin up. Be
-  proud of who you are. Take care of the equipment you use and the
-  clothes you wear. Be aware of your body language.
+proud of who you are. Take care of the equipment you use and the
+clothes you wear. Be aware of your body language.
 
 Remember, when you are confident, you expect to perform well. Many of
 these expectations stem from your beliefs. If your beliefs are negative,
@@ -1633,11 +1629,11 @@ situations.]**
 how this impacts your performance is a key ingredient in maximizing your
 potential.** Many talented athletes have failed to
 reach their full potential simply because they could not control their
-thoughts and feelings. **[[Negative thinking and emotions such as fear,
+thoughts and feelings. **[Negative thinking and emotions such as fear,
 anger, and anxiety destroy self- confidence and concentration and
 eventually weaken commitment.] [Not only do they affect mental
 fitness, but they can also diminish your physical
-performance.]]** **A negative internal environment
+performance.]** **A negative internal environment
 creates stress and tension which can cause muscle tightness and poor
 coordination.**
 
@@ -1673,16 +1669,16 @@ is tough, but I am excited to put all of my hard work into action and
 win.
 
 - **[The first set of reactions are based on fear.]** **Fear of
-  looking foolish and self-doubt can lead to anxiety which of course can
-  lead to getting uptight and nervous.** In this
-  situation most players will play it safe and let their opponent take
-  control of the match.
+looking foolish and self-doubt can lead to anxiety which of course can
+lead to getting uptight and nervous.** In this
+situation most players will play it safe and let their opponent take
+control of the match.
 
 - **[In the second set of reactions, the player is coming from a
-  position of strength, rather than fear.]** **This player is
-  excited for the challenge and calm and ready to play. They are more
-  likely to dictate play rather than just reacting to their
-  opponent.**
+position of strength, rather than fear.]** **This player is
+excited for the challenge and calm and ready to play. They are more
+likely to dictate play rather than just reacting to their
+opponent.**
 
 **It takes practice and awareness to gain self-control over your
 thoughts and emotions.** Consider how you react
@@ -1713,20 +1709,20 @@ These include critical times during the match like set points, after a
 major error or when you are trying too hard.
 
 - **Slow down.** Take time before you serve or return to reframe your
-  internal dialogue.
+internal dialogue.
 
 - **Use cue words.** Choose words like "calm", confident" or "relax" and
-  repeat them to yourself.
+repeat them to yourself.
 
 - **Stay in the present.** Many players get uptight when they make a
-  mistake. Use a cue word or slap yourself on the leg as a signal to get
-  back in the present.
+mistake. Use a cue word or slap yourself on the leg as a signal to get
+back in the present.
 
 - **Loosen up.** Shake your muscles out. Repeat this several times until
-  the tension eases.
+the tension eases.
 
 - **Choose your internal dialogue.** Think about what you want to happen
-  instead of what you don't want to happen.
+instead of what you don't want to happen.
 
 **[Train Under Pressure]**
 
@@ -1805,10 +1801,10 @@ and training your right brain is ready to unleash.
 
 How do you do it? **I was taught this by a sports psychologist famous
 for helping professional golfers, Dr Bob Rotella.**
-**[[You have to learn to control stress through a process called
+**[You have to learn to control stress through a process called
 "Centering Down".] [Centering down works by switching from left
 brain to right brain thinking. You take yourself from words and
-instructions to images and sensations.]]**
+instructions to images and sensations.]**
 
 Your first task is to learn proper abdominal breathing. Lie on the floor
 with one hand on your chest and the other on your stomach. Breathe in
@@ -1959,9 +1955,9 @@ emotion of fear.
 conquer.** Courage, developed through action
 conquers fear. Courage is like a muscle. It atrophies through fear and
 inaction atrophies and flexes and strengthens through action.
-**[[Instinct can be overcome by second nature, but it takes significant
+**[Instinct can be overcome by second nature, but it takes significant
 practice and repetition. Merriam-Webster] [defines second nature
-as "an acquired deeply ingrained habit or skill".]]**
+as "an acquired deeply ingrained habit or skill".]**
 **While fear is an instinctive response, you can train to make courage
 your second nature.** Just like you use workouts to
 develop strength and flexibility, you can create workouts to develop
@@ -1990,50 +1986,50 @@ face of fear. Here are some things you can do to build this trust in
 yourself:**
 
 - **Establish shorter-term performance goals**
-  that are measurable instead of longer-term outcome goals. Sometimes
-  the enormity of a task can be overwhelming. If you set short term
-  goals that are achievable, you slowly build the courage to eventually
-  face bigger tasks. Plan your work and work your plan.
+that are measurable instead of longer-term outcome goals. Sometimes
+the enormity of a task can be overwhelming. If you set short term
+goals that are achievable, you slowly build the courage to eventually
+face bigger tasks. Plan your work and work your plan.
 
 - **Sweat in peace.** In the military there is a saying: 'The more you
-  sweat in peacetime, the less you bleed in war". Whenever you're afraid
-  of something coming up, find a way to do something even harder and
-  scarier. Your workouts need to be vigorous. Make your training twice
-  as hard as the actual competition. Do repetition until whatever you're
-  working on becomes second nature. You can always stage a bigger battle
-  than the one you have to face. Before big title fights, Muhammed Ali
-  sparred against the best boxers he could find. He made his workouts so
-  hard that the actual title fight felt easy.
+sweat in peacetime, the less you bleed in war". Whenever you're afraid
+of something coming up, find a way to do something even harder and
+scarier. Your workouts need to be vigorous. Make your training twice
+as hard as the actual competition. Do repetition until whatever you're
+working on becomes second nature. You can always stage a bigger battle
+than the one you have to face. Before big title fights, Muhammed Ali
+sparred against the best boxers he could find. He made his workouts so
+hard that the actual title fight felt easy.
 
 - **Remind yourself of past experiences that took courage.** Knowing
-  that you've handled something difficult before is a formidable weapon
-  against fear. Some people like to keep a journal or a diary where they
-  write down daily experiences. Write down things that filled you with
-  fear that you went ahead and did anyway. The "courage journal" serves
-  as a reminder that you have taken risks and handled consequences, both
-  good and bad.
+that you've handled something difficult before is a formidable weapon
+against fear. Some people like to keep a journal or a diary where they
+write down daily experiences. Write down things that filled you with
+fear that you went ahead and did anyway. The "courage journal" serves
+as a reminder that you have taken risks and handled consequences, both
+good and bad.
 
 - **Surround yourself with symbols** that took courage like trophies,
-  diplomas, and photos of accomplishment. Symbols serve as a mental
-  "trigger". They make you aware of tests passed, tournaments won, or
-  ordeals endured. One glance at a symbol and your fear instantly
-  dissipates. Remember, perception is everything. Perception may not be
-  actual reality, but it is our perception of reality that influences
-  our actions. When we perceive evidence of past courage, then we feel
-  the confidence to take further risk.
+diplomas, and photos of accomplishment. Symbols serve as a mental
+"trigger". They make you aware of tests passed, tournaments won, or
+ordeals endured. One glance at a symbol and your fear instantly
+dissipates. Remember, perception is everything. Perception may not be
+actual reality, but it is our perception of reality that influences
+our actions. When we perceive evidence of past courage, then we feel
+the confidence to take further risk.
 
 - **Tell yourself a true lie.** Most of us are unable to see the truth
-  of who we could be. Form a picture in your mind of whom, or what, you
-  want to be. Now act as if you are that person. Your subconscious mind
-  does not know that you're fantasizing. Fake it till you make it. The
-  lie will become a truth.
+of who we could be. Form a picture in your mind of whom, or what, you
+want to be. Now act as if you are that person. Your subconscious mind
+does not know that you're fantasizing. Fake it till you make it. The
+lie will become a truth.
 
 - **Loose your cool.** Show me a guy who's afraid to look bad and I'll
-  show you a guy you can beat every time. Learn to lose your cool and
-  take some risks.
+show you a guy you can beat every time. Learn to lose your cool and
+take some risks.
 
 - **Run toward your fear.** The world's best kept secret is that on the
-  other side of fear there is freedom.
+other side of fear there is freedom.
 
 These tips will get your "courage muscle" in shape to face the fire. You
 won't be rid of your fears necessarily, but you will no longer be
@@ -2078,9 +2074,9 @@ narrowing the target.**
 **Bring the Retriever to the net**
 
 **You can also get them out of their comfort zone by drawing them
-towards the net. Let [[them show some volleys,
+towards the net. Let [them show some volleys,
 overheads, or maybe half volleys.] [To do this, you will have to
-hit some short balls.]]** How do you do it? Well,
+hit some short balls.]** How do you do it? Well,
 you've done it numerous times unintentionally in practice, now try to do
 it on purpose.
 
@@ -2093,32 +2089,27 @@ off the ball against Retrievers.**
 
 **[Hit your second serve first]**
 
-Once again, **[[by hitting the second serve first, it robs them of
+Once again, **[by hitting the second serve first, it robs them of
 pace.] [It will make them have to take a swing at the
-ball,]]** **which is exactly what they want to
+ball,]** **which is exactly what they want to
 avoid.**
 
 **[To be continued...]**
 
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![A person wearing a baseball hat Description automatically generated with low                                                                                               Ean Meyer, a professional tennis coach since
-  confidence](media_tennis-principles-and-foundations/media/image4.png)                                                                                                                                               level of player from beginner to professional,
-                                                                                                                                                                               coaching tennis for over 25 years and have worked
-                                                                                                                                                                               with many different levels of juniors and adults.
-                                                                                                                                                                               In this time I have worked at high performance
-                                                                                                                                                                               academies including Bollettieri's,
-                                                                                                                                                                               Seguso-Bassett, Evert Tennis Academy and most
-                                                                                                                                                                               recently, the Harold Solomon Tennis Institute.
-                                                                                                                                                                               I've been published in tennis magazines in
-                                                                                                                                                                               Brazil, Venezuela, Italy, South Africa and the
-                                                                                                                                                                               U.S. and have conducted seminars for coaches in
-                                                                                                                                                                               different countries. My coaching philosophy is
-                                                                                                                                                                               very simple: Develop strong Fundamentals in 4
-                                                                                                                                                                               areas -- Technical, Tactical, Mental and
-                                                                                                                                                                               Physical.
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -------------------------------------------------
-
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person wearing a baseball hat Description automatically generated with low                                                                                               Ean Meyer, a professional tennis coach since confidence](media_tennis-principles-and-foundations/media/image4.png)                                                                                                                                               level of player from beginner to professional,
+coaching tennis for over 25 years and have worked
+with many different levels of juniors and adults.
+In this time I have worked at high performance
+academies including Bollettieri's,
+Seguso-Bassett, Evert Tennis Academy and most
+recently, the Harold Solomon Tennis Institute.
+I've been published in tennis magazines in
+Brazil, Venezuela, Italy, South Africa and the
+U.S. and have conducted seminars for coaches in
+different countries. My coaching philosophy is
+very simple: Develop strong Fundamentals in 4
+areas -- Technical, Tactical, Mental and
+Physical.
 
 Visit his website at: <https://eanmeyertennis.com> and
 <https://tennis.pro/>

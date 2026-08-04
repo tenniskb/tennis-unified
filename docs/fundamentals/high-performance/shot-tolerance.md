@@ -2,10 +2,7 @@
 
 ### Elliot Teltscher
 
-------------------------------------------------------------------------
-
-![A person playing tennis Description automatically
-generated](media_shot-tolerance/media/image1.webp)
+![A person playing tennis Description automatically generated](media_shot-tolerance/media/image1.webp)
 
 **What is Shot Tolerance and how does it decide matches?**
 
@@ -31,8 +28,7 @@ something. There were other players I studied that I found had a lower
 shot tolerance than I did. So I knew, as long as I stayed in long
 enough, in the end I would win because they would miss.
 
-![A person swinging a tennis racket Description automatically
-generated](media_shot-tolerance/media/image2.webp)
+![A person swinging a tennis racket Description automatically generated](media_shot-tolerance/media/image2.webp)
 
 **Ivan Lendl: a high shot tolerance and the ability to finish.**
 
@@ -45,7 +41,7 @@ long enough and made him play enough balls, he would miss. The longer
 the points, the better it was for me.
 
 When we walked on the court, there were guys I played who I know were
-thinking, \"I don't want to hit this many balls.\" They walked on the
+thinking, "I don't want to hit this many balls." They walked on the
 court hating that. And, you know, that was an edge, knowing that my shot
 tolerance was better than most of the people that I played. They'd
 start missing before the match started.
@@ -56,9 +52,7 @@ the point. I would attack off the second serve. As the rallies got
 longer, it became harder and harder to create something. So I would try
 to do it earlier.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_shot-tolerance/media/image3.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_shot-tolerance/media/image3.webp)
 
 **Better shot tolerance was one key to Andre's greatest success.**
 
@@ -84,9 +78,7 @@ to play points. He learned to move people around. He stopped trying to
 end the point so quickly. And this is the same thing Brad seems to be
 doing for Andy Murray.**
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_shot-tolerance/media/image4.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_shot-tolerance/media/image4.webp)
 
 **Did Nadal's shot tolerance get under Roger's skin?**
 
@@ -117,9 +109,7 @@ I feel the concept of shot tolerance is just as valid now as it was when
 I was playing, at the pro level and also in junior tennis. As big as
 everybody hits the ball today, it's still the same.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_shot-tolerance/media/image5.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_shot-tolerance/media/image5.webp)
 
 **Even Joachim Johansson couldn't hit 48 winners.**
 
@@ -142,8 +132,7 @@ Agassi won the match because the errors went the other way. Agassi made
 very few unforced errors, and eventually Johansson couldn't hit enough
 winners, and hit his way out of the match.
 
-![A person playing tennis Description automatically
-generated](media_shot-tolerance/media/image6.webp)
+![A person playing tennis Description automatically generated](media_shot-tolerance/media/image6.webp)
 
 **No matter what the score, you have to have the confidence to hit.**
 
@@ -164,8 +153,7 @@ work points. As they get older, I want them to learn to develop a shot
 tolerance level so they're not making bunches of unforced errors. That
 is what will beat people.
 
-![A person playing tennis Description automatically
-generated](media_shot-tolerance/media/image7.webp)
+![A person playing tennis Description automatically generated](media_shot-tolerance/media/image7.webp)
 
 **How many balls to reach your opponent's tolerance?**
 
@@ -181,21 +169,20 @@ you've got to hit quality balls to have a chance to get there.
 
 I remember once telling a player I was coaching to play another guy's
 forehand. So he starts hitting the ball short to the guy's forehand and
-the guy starts hitting winners. And he starts yelling at me, \"good
-coaching.\" But unfortunately, he missed the point. You can't just hit
+the guy starts hitting winners. And he starts yelling at me, "good
+coaching." But unfortunately, he missed the point. You can't just hit
 the ball short and soft, because your opponent is going to end the point
 long before you push him to his tolerance level.
 
-![A person holding a tennis racket Description automatically
-generated](media_shot-tolerance/media/image8.webp)
+![A person holding a tennis racket Description automatically generated](media_shot-tolerance/media/image8.webp)
 
 **Go for it on the right ball.**
 
 **Take the Right Shot**
 
 **One of the things I always try to teach people is this: don't be
-scared of missing. A lot of people say \"that seems like a
-contradiction.\" But it's not. If you get the right shot, you get a
+scared of missing. A lot of people say "that seems like a
+contradiction." But it's not. If you get the right shot, you get a
 short forehand, and you've got an open court, you should go for a
 winner. Because if you get that shot ten times, you might miss it once
 or twice but you're going to make it eight or nine
@@ -209,8 +196,7 @@ like playing blackjack. No matter how well it's going, if you play long
 enough, eventually the odds will catch up with
 you.**
 
-![A person playing tennis Description automatically
-generated](media_shot-tolerance/media/image9.webp)
+![A person playing tennis Description automatically generated](media_shot-tolerance/media/image9.webp)
 
 **As basic as it gets: hard deep and crosscourt.**
 
@@ -224,8 +210,8 @@ deep, and cross court at any time. I don't want them to bring it in
 because now it's getting tighter.
 
 This way they'll know what to do when they get the same feeling in
-matches. \"I'm now at four all in the tiebreaker in the third. I've
-already been through this at nine.\" I want them to have the mentality
+matches. "I'm now at four all in the tiebreaker in the third. I've
+already been through this at nine." I want them to have the mentality
 that they can play the same way no matter what the score.
 
 **I want them to hit. I don't want them to be scared of missing. I
@@ -233,9 +219,7 @@ want them to hit the same at three as they do at nine, but I also don't
 want them missing. You've got to be able to hit the ball hard
 regardless of the score.**
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_shot-tolerance/media/image10.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_shot-tolerance/media/image10.webp)
 
 **A variation: one player can do anything, the other can't. Then the
 reverse.**
@@ -256,8 +240,7 @@ results end up about the same. It doesn't matter if we do it with 13
 year old boys, or if we do it with pro players. So it shows the real
 value of staying in the points.
 
-![A person running on a tennis court Description automatically
-generated](media_shot-tolerance/media/image11.webp)
+![A person running on a tennis court Description automatically generated](media_shot-tolerance/media/image11.webp)
 
 **Sometimes even top players could play a few more balls.**
 
@@ -282,8 +265,7 @@ besides, obviously, helping with the slice backhand. It helps with shot
 tolerance because the players know they're not going to hit many slice
 backhand winners.
 
-![A person playing tennis Description automatically
-generated](media_shot-tolerance/media/image12.webp)
+![A person playing tennis Description automatically generated](media_shot-tolerance/media/image12.webp)
 
 **Another variation: the players take turns hitting all slice
 backhands.**
@@ -307,14 +289,12 @@ too far behind the baseline and tries to play too steady, and eventually
 he gets moved around and loses points. When this happens to him, he
 sometimes tries to hit winners from ridiculous places.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_shot-tolerance/media/image13.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_shot-tolerance/media/image13.webp)
 
 **Could a great attacking player like Pat Rafter rush Roger?**
 
-I told him once: \"I don't want your points lasting more than five
-shots.\" The way I wanted him to end the points was at the net. I
+I told him once: "I don't want your points lasting more than five
+shots." The way I wanted him to end the points was at the net. I
 didn't think he should try to hit winners from the baseline. Within
 five shots I wanted him at the net. To beat him up there, someone's got
 to hit a passing shot.
@@ -324,8 +304,7 @@ better. If you have a lower shot tolerance but you have the legitimate
 weapons to finish points you can be very successful. It's a question of
 tailoring your shot tolerance to your abilities.
 
-![A person playing tennis Description automatically
-generated](media_shot-tolerance/media/image14.webp)
+![A person playing tennis Description automatically generated](media_shot-tolerance/media/image14.webp)
 
 **High shot tolerance, incredible shot making.**
 
@@ -334,7 +313,7 @@ generated](media_shot-tolerance/media/image14.webp)
 I think even now that on a faster court a great attacking player with a
 low shot tolerance would have a chance against Roger Federer. Someone
 like Stefan Edberg, or Patrick Rafter, or Pete Sampras. A player that
-could possibly rush him\--rush his second serve, and rush his backhand,
+could possibly rush him--rush his second serve, and rush his backhand,
 but everybody plays the same way now, so at this moment we don't really
 have an answer for that question.
 
@@ -343,21 +322,32 @@ because he combines the best of both worlds, incredible shot making and,
 when he needs it, a very high shot tolerance. That's a tough
 combination to beat.**
 
-| ![A person wearing sunglasses Description automatically generated with medium |  |
-| --- | --- |
-| confidence](media_shot-tolerance/media/image15.jpeg) | Elliot Teltscher was a world top 10 player who has |
-|  | gone on to a distinguished coaching career at the |
-|  | highest levels of the game. A UCLA All American, |
-|  | Elliot won 10 ATP titles in his playing career. He |
-|  | was ranked 6th in the world and played Davis Cup |
-|  | three times for the United States. |
-|  |  |
-|  | The former Director of High Performance for the |
-|  | USTA, he was instrumental in the development and |
-|  | the launch of the USTA training center in Carson, |
-|  | California. Known for his unique perspective on |
-|  | match tactics, Elliot has worked with dozens of |
-|  | elite junior and professional players over the |
-|  | years, including, among others, players such as |
-|  | Pete Sampras and Taylor Dent. |
+![A person wearing sunglasses Description automatically generated with medium confidence](media_shot-tolerance/media/image15.jpeg)
 
+Elliot Teltscher was a world top 10 player who has
+
+gone on to a distinguished coaching career at the
+
+highest levels of the game. A UCLA All American,
+
+Elliot won 10 ATP titles in his playing career. He
+
+was ranked 6th in the world and played Davis Cup
+
+three times for the United States.
+
+The former Director of High Performance for the
+
+USTA, he was instrumental in the development and
+
+the launch of the USTA training center in Carson,
+
+California. Known for his unique perspective on
+
+match tactics, Elliot has worked with dozens of
+
+elite junior and professional players over the
+
+years, including, among others, players such as
+
+Pete Sampras and Taylor Dent.

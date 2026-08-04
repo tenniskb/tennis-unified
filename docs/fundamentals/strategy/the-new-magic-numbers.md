@@ -4,10 +4,7 @@
 
 ### Craig O'Shannessy
 
-------------------------------------------------------------------------
-
-![A person playing tennis Description automatically
-generated](media_the-new-magic-numbers/media/image1.webp)
+![A person playing tennis Description automatically generated](media_the-new-magic-numbers/media/image1.webp)
 
 **What percentage of overall points would make you Novak Djokovic?**
 
@@ -44,9 +41,7 @@ In any given match it can be one or two points. When Novak Djokovic
 defeated Roger Federer in the finals of the U.S. Open in 2015, the two
 played a total of 192 points. Federer won 145. Novak won 147.
 
-![A person standing on a tennis court Description automatically
-generated with medium
-confidence](media_the-new-magic-numbers/media/image2.webp)
+![A person standing on a tennis court Description automatically generated with medium confidence](media_the-new-magic-numbers/media/image2.webp)
 
 **What is the difference in winning percentage between being number 1 in
 the world and number 20?**
@@ -68,7 +63,7 @@ How does that compare to number two? Andy Murray has won 52% of his
 career points. John Isner has won 51% and that makes him number 17.
 Kevin Anderson has won 50% and that makes him number 20.
 
-So if a junior player asks \"How do I become number one in the world?\"
+So if a junior player asks "How do I become number one in the world?"
 the answer is simple. Go out tomorrow and win 55% of your points in your
 next match, and keep doing that at every level for the rest of your
 career, and if you do, eventually you will be number one in the world.
@@ -85,11 +80,9 @@ won the event the first time he ever played it. He won it 9 out of 10
 times. He lost one match in 10 years. That means he won 99% of his
 matches.
 
-![A person standing on a tennis court Description automatically
-generated with medium
-confidence](media_the-new-magic-numbers/media/image2.webp)
+![A person standing on a tennis court Description automatically generated with medium confidence](media_the-new-magic-numbers/media/image2.webp)
 
-**How long are rallies in pro tennis\--really?**
+**How long are rallies in pro tennis--really?**
 
 What percentage of points did he win in the most dominant run our sport
 has ever seen? He won 56% of his points.
@@ -128,8 +121,7 @@ are what I call first strike points. A serve. A serve and a return. A
 serve and a return and one or two more shots. More on this in future
 articles. \\
 
-![A person playing tennis Description automatically
-generated](media_the-new-magic-numbers/media/image3.webp)
+![A person playing tennis Description automatically generated](media_the-new-magic-numbers/media/image3.webp)
 
 **What is the real ratio of winners to errors?**
 
@@ -161,8 +153,7 @@ speed and the spin on the passing shots are too formidable.
 And it's true the number of approaches is limited to a small percentage
 of points. But is that because those approaches are ineffective?
 
-![A person playing tennis Description automatically
-generated](media_the-new-magic-numbers/media/image4.webp)
+![A person playing tennis Description automatically generated](media_the-new-magic-numbers/media/image4.webp)
 
 **Is approaching the net really a losing strategy in junior tennis?**
 
@@ -173,7 +164,7 @@ Let's look at the pros first. The percentage of points won on
 approaches at the U.S. Open in 2015 was 65%.
 
 And another amazing statistic, on overall approaches to the backhand the
-winning percentage is even higher\--over 70%. We'll have more to say
+winning percentage is even higher--over 70%. We'll have more to say
 about that in this series.
 
 As with the other statistics, the shocking thing is that they apply in
@@ -199,30 +190,35 @@ articles in this series, we'll look at how to re-conceive your
 understanding of the game, how you practice, and especially, how to
 apply all this to win matches.
 
-| ![A person smiling for the camera Description automatically generated with low | Craig O'Shannessy is widely recognized as |
-| --- | --- |
-| confidence](media_the-new-magic-numbers/media/image5.jpg) | statistics, tennis strategy, and applying |
-|  | his insights in coaching. His research has |
-|  | uncovered the real magic numbers in winning |
-|  | tennis across all levels of the game. He |
-|  | writes for the ATP Tour website and the New |
-|  | York Times among others elite publications. |
-|  |  |
-|  | He has coached on the tour for 20 years |
-|  | working with players including Kevin |
-|  | Anderson, Amer Delic, and Rajeev Ram. His |
-|  | website Brain Game Tennis offers detailed |
-|  | analysis and training programs based on his |
-|  | research that have helped thousands of |
-|  | players around the world. |
+![A person smiling for the camera Description automatically generated with low confidence](media_the-new-magic-numbers/media/image5.jpg)
 
+Craig O'Shannessy is widely recognized as
 
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![Diagram Description automatically generated with medium                                                                                                             [Click
-  confidence](media_the-new-magic-numbers/media/image6.jpg)                                                                                                                                        to visit Craig's site and check out his
-                                                                                                                                                                        amazing training products!
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------- ----------------------------------------
+statistics, tennis strategy, and applying
 
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+his insights in coaching. His research has
 
-------------------------------------------------------------------------
+uncovered the real magic numbers in winning
+
+tennis across all levels of the game. He
+
+writes for the ATP Tour website and the New
+
+York Times among others elite publications.
+
+He has coached on the tour for 20 years
+
+working with players including Kevin
+
+Anderson, Amer Delic, and Rajeev Ram. His
+
+website Brain Game Tennis offers detailed
+
+analysis and training programs based on his
+
+research that have helped thousands of
+
+players around the world.
+
+![Diagram Description automatically generated with medium                                                                                                             [Click confidence](media_the-new-magic-numbers/media/image6.jpg)                                                                                                                                        to visit Craig's site and check out his
+amazing training products!

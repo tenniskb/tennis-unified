@@ -2,8 +2,7 @@
 
 ### Dave Hagler
 
-![A person playing tennis Description automatically generated with low
-confidence](media_ultimate-drill-games-developing-drop-shots/media/image1.webp)
+![A person playing tennis Description automatically generated with low confidence](media_ultimate-drill-games-developing-drop-shots/media/image1.webp)
 
 **Mastery of spin gives the ability to make a drop shot bounce back to
 your side.**
@@ -27,9 +26,7 @@ probably want something close to a 1 -1 or an eastern backhand grip.
 If you are hitting a backhand drop shot that bounces backwards you
 should be somewhere near a 3 -- 3, or an eastern forehand grip.
 
-![A tennis player holding a racket Description automatically generated
-with medium
-confidence](media_ultimate-drill-games-developing-drop-shots/media/image2.webp)
+![A tennis player holding a racket Description automatically generated with medium confidence](media_ultimate-drill-games-developing-drop-shots/media/image2.webp)
 
 **Grips for the forehand and backhand drop shots.**
 
@@ -53,10 +50,9 @@ right if you are a right handed player. This is true for both inside out
 and outside in spin.
 
 To take the pace off the ball, particularly if it is rising, think of
-your catching skills. You want to \"absorb\" with soft hands.
+your catching skills. You want to "absorb" with soft hands.
 
-![A child playing tennis Description automatically generated with low
-confidence](media_ultimate-drill-games-developing-drop-shots/media/image3.webp)
+![A child playing tennis Description automatically generated with low confidence](media_ultimate-drill-games-developing-drop-shots/media/image3.webp)
 
 **On underspin drop shots the swing is primarily forward. On drop shots
 with more sidespin the swing is more from the outside to the inside.**
@@ -76,21 +72,16 @@ selection is predicated on hitting the right shot at the right time. If
 you understand court positioning and the characteristics of the incoming
 ball, this will help you achieve success.
 
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![A person holding a tennis racket Description automatically                                                                                                                                           Dave Hagler is a Tennis Professional based
-  generated](media_ultimate-drill-games-developing-drop-shots/media/image4.jpeg)                                                                                                                                                                         players of all ages, but he has a special
-                                                                                                                                                                                                         passion for junior development. He has
-                                                                                                                                                                                                         coached numerous sectionally and nationally
-                                                                                                                                                                                                         ranked junior players and several national
-                                                                                                                                                                                                         champions. Dave is a USPTA Master
-                                                                                                                                                                                                         Professional and National Tester, a PTR
-                                                                                                                                                                                                         Master of Tennis -- Performance, and was
-                                                                                                                                                                                                         one of the first 100 coaches to complete
-                                                                                                                                                                                                         the USTA's High Performance Coaching
-                                                                                                                                                                                                         Program. He has been the USPTA California
-                                                                                                                                                                                                         Division Pro of the Year and one of 5
-                                                                                                                                                                                                         National Recipients of the "Pro of the
-                                                                                                                                                                                                         Year" award from Head and the PTR.
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ -------------------------------------------
-
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person holding a tennis racket Description automatically                                                                                                                                           Dave Hagler is a Tennis Professional based generated](media_ultimate-drill-games-developing-drop-shots/media/image4.jpeg)                                                                                                                                                                         players of all ages, but he has a special
+passion for junior development. He has
+coached numerous sectionally and nationally
+ranked junior players and several national
+champions. Dave is a USPTA Master
+Professional and National Tester, a PTR
+Master of Tennis -- Performance, and was
+one of the first 100 coaches to complete
+the USTA's High Performance Coaching
+Program. He has been the USPTA California
+Division Pro of the Year and one of 5
+National Recipients of the "Pro of the
+Year" award from Head and the PTR.

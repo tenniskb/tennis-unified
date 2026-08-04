@@ -2,16 +2,12 @@
 
 ### Joey Johnson
 
-------------------------------------------------------------------------
+![A picture containing person, dancer, player, sport Description automatically generated](media_resistance-points-and-breakthrough-points/media/image1.jpg)
 
-![A picture containing person, dancer, player, sport Description
-automatically
-generated](media_resistance-points-and-breakthrough-points/media/image1.jpg)
-
-**The "zone"\--allegedly where the maestro conducts a perfect
+**The "zone"--allegedly where the maestro conducts a perfect
 symphony.**
 
-In the world of performance, there is a popular term: \"the zone.\"
+In the world of performance, there is a popular term: "the zone."
 According to the theory, when you are in the zone everything comes
 together like a maestro directing a perfect symphony.
 
@@ -41,18 +37,13 @@ highest levels even with the toughest competitors like Serena Williams
 in the last two U.S. Opens, and in the remarkable turn around in this
 year's semifinal between Novak Djokovic and Roger Federer.
 
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                     ![A picture containing person, sport, player, athletic game Description automatically
-   generated](media_resistance-points-and-breakthrough-points/media/image2.jpg)
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                     **Every match, even at the highest levels, has momentum shifts in both directions.**
-
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A picture containing person, sport, player, athletic game Description automatically generated](media_resistance-points-and-breakthrough-points/media/image2.jpg)
+**Every match, even at the highest levels, has momentum shifts in both directions.**
 
 To understand these shifts in momentum, we need to understand two
 concepts: resistance points and breakthrough points. So let's examine
 them in this article and see how to use them to move toward your
-potential without worrying that you have to be in the \"zone\" in order
+potential without worrying that you have to be in the "zone" in order
 to have breakthrough results.
 
 **Resistance Points**
@@ -74,13 +65,8 @@ hitting a forehand winner, she had the point taken away for pumping
 herself up before the point was technically finished, hindering her
 opponent Sam Stosur.
 
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                                ![A picture containing person, sport Description automatically
-   generated](media_resistance-points-and-breakthrough-points/media/image3.jpg)
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                         **Even a player like Serena can be blindsided by unexpected developments.**
-
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A picture containing person, sport Description automatically generated](media_resistance-points-and-breakthrough-points/media/image3.jpg)
+**Even a player like Serena can be blindsided by unexpected developments.**
 
 Even a player like Serena was blindsided by this unexpected development,
 and unprepared to deal with the emotional consequences. With Serena on
@@ -95,7 +81,7 @@ How well you are prepared to handle uncertainty will determine whether
 or not you can stay focused throughout the entire performance. Preparing
 for uncertainty will keep you grounded and give you the chance to build
 a solid foundation without feeling the need to have the near perfect
-\"zone performance\" every time you compete.
+"zone performance" every time you compete.
 
 This is the pathway will provide you with the foundation and focus you
 need to gain precious momentum. If managed correctly a resistance point
@@ -109,20 +95,15 @@ practice to shift momentum back in a positive direction. When you can do
 this under match pressure you will start to have the breakthroughs you
 desire.
 
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![A picture containing person, outdoor, crowd, player Description automatically
-  generated](media_resistance-points-and-breakthrough-points/media/image4.jpg)
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  **Serena reached a resistance point she could not overcome when called for a foot fault in the 2010 Open.**
-
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A picture containing person, outdoor, crowd, player Description automatically generated](media_resistance-points-and-breakthrough-points/media/image4.jpg)
+**Serena reached a resistance point she could not overcome when called for a foot fault in the 2010 Open.**
 
 **Resistance Examples**
 
 **A common resistance point in competitive tennis occurs when players
 lose emotional control by getting angry at line
 calls.** Again, this can affect even the best
-players in the world\--think of Serena's reaction to the foot fault call
+players in the world--think of Serena's reaction to the foot fault call
 against her last year at the Open in 2010. One of the best competitors
 and most mentally tough players ever to play professional tennis,
 reached another resistance point she could not overcome at a critical
@@ -131,67 +112,57 @@ world, how much more so at all other levels?
 
 To give an example from my own coaching experience, a talented but
 mentally undisciplined college player I was working with developed a
-habit of blaming losses on the fact that she was being \"cheated\" out
+habit of blaming losses on the fact that she was being "cheated" out
 of matches.
 
 I asked her to tell me about how this resistance point usually presented
-itself. Her response was predictable, \"When I play these higher ranked
+itself. Her response was predictable, "When I play these higher ranked
 players there will inevitably be a few line calls on big points that
-drive me into fits of anger during the match.\"
+drive me into fits of anger during the match."
 
-\"Once I realize they will not hesitate to make those calls I feel a
+"Once I realize they will not hesitate to make those calls I feel a
 sense of hopelessness mixed with anger because I know that I will most
-likely lose the match or be put at an extreme disadvantage.\"
+likely lose the match or be put at an extreme disadvantage."
 
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                          ![A person holding a tennis racket Description automatically
-   generated](media_resistance-points-and-breakthrough-points/media/image5.jpg)
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                     **Resistance points caused by line calling is common at all levels.**
+![A person holding a tennis racket Description automatically generated](media_resistance-points-and-breakthrough-points/media/image5.jpg)
+**Resistance points caused by line calling is common at all levels.**
 
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+I then asked, "What do you normally do when a line call you disagree
+with is made?"
 
-I then asked, \"What do you normally do when a line call you disagree
-with is made?\"
-
-Her response was: \"I try to be aggressive with these types of players
+Her response was: "I try to be aggressive with these types of players
 by telling them that their call was blatantly wrong and I will often get
 so angry that I will respond in an angry tone by saying things like,
-\"Are you for real? That ball was so in! Come on, stop cheating every
-time a big point is played.\"
+"Are you for real? That ball was so in! Come on, stop cheating every
+time a big point is played."
 
-I then asked, \"How effective is your approach to this resistance
-point?\"
+I then asked, "How effective is your approach to this resistance
+point?"
 
-\"Not very effective,\" she replied. \"Most of the time I am the one who
+"Not very effective," she replied. "Most of the time I am the one who
 get's emotionally upset and after I get angry I begin to lose focus on
-executing my shots\".
+executing my shots".
 
 The key in this example is to learn to challenge the adversity the
-resistance point creates. I told this player, \"Your approach is victim
+resistance point creates. I told this player, "Your approach is victim
 oriented and your lashing out at your opponent gives them power over
-you.\"
+you."
 
-\"In order to challenge this resistance you need the right strategy.
+"In order to challenge this resistance you need the right strategy.
 Begin by doing this: Motion to have your opponent come up to net so that
 you can clearly look her square in the eye. This alone will usually make
 them feel uncomfortable and this is exactly what you want them to
 feel---that you have caught them doing something they know they
-shouldn't be doing.\"
+shouldn't be doing."
 
-Then test them by asking, \"was the ball long or wide?\" Usually from
+Then test them by asking, "was the ball long or wide?" Usually from
 their response they will give away the true intentions of the call they
-made. If for example they say, \"wide\" and you are certain it was not
+made. If for example they say, "wide" and you are certain it was not
 wide, let them know that the ball was not wide and that they missed the
 call. Then ask them to watch the lines more closely because you will be.
 
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                     ![A person playing tennis Description automatically generated with medium
-   confidence](media_resistance-points-and-breakthrough-points/media/image6.jpg)
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                 **Frustration and anger are often the result of resistance points around goals.**
-
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person playing tennis Description automatically generated with medium confidence](media_resistance-points-and-breakthrough-points/media/image6.jpg)
+**Frustration and anger are often the result of resistance points around goals.**
 
 If you feel you need to press harder with this opponent you can tell
 them you will give them one more chance then call in a line judge. This
@@ -200,7 +171,7 @@ puts you in control and sets a clear boundary with this opponent.
 As importantly, it allows you to feel that you have handled the
 situation and effectively faced the adversity without giving in to
 becoming mentally and emotionally victimized. So, now that you have
-handled the \"cheating\" situation you are free to compete without
+handled the "cheating" situation you are free to compete without
 carrying the baggage attached to the all to common resistance point of
 bad line calls during match play.
 
@@ -208,72 +179,62 @@ bad line calls during match play.
 
 Here is another resistance point example. I recently received a phone
 call from a junior player on a car ride home from a tournament match. I
-asked the player, \"How did you play in your match?\"
+asked the player, "How did you play in your match?"
 
-\"It didn't go well,\" was his response in a disappointed tone. He
-continued to explain, \"I was ahead 3-0 in the first set and somehow
+"It didn't go well," was his response in a disappointed tone. He
+continued to explain, "I was ahead 3-0 in the first set and somehow
 lost the lead and before I knew it, it was over. I had lost the first
-set 3-6 and then the next set as well.\"
+set 3-6 and then the next set as well."
 
-Then came worse news. \"I broke my racket at a moment of frustration
-during the first set!\"
+Then came worse news. "I broke my racket at a moment of frustration
+during the first set!"
 
-\"What were you thinking about prior to your outburst of anger?\" I
-asked. His reply explained everything. \"I was thinking about a goal I
+"What were you thinking about prior to your outburst of anger?" I
+asked. His reply explained everything. "I was thinking about a goal I
 had set to finish in the top 3 or 4 in the tournament and that I may
 lose this -- I knew if I lost this match it would be over and I would
-not reach my objective.\"
+not reach my objective."
 
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                                 ![A person holding a tennis racket Description automatically
-   generated](media_resistance-points-and-breakthrough-points/media/image7.jpg)
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                                   **Resistance points can actually start before matches.**
+![A person holding a tennis racket Description automatically generated](media_resistance-points-and-breakthrough-points/media/image7.jpg)
+**Resistance points can actually start before matches.**
 
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-\"As I began to lose one game after another I couldn't help but think
+"As I began to lose one game after another I couldn't help but think
 more and more about the fact that I may not accomplish my goal. I felt
 defeated inside before the set was even over and powerless to stop this
 shift in momentum and it made me so angry that I just lost control.
-That's when I cracked my racket!\"
+That's when I cracked my racket!"
 
 You could hear the total disappointment with himself in his voice and
 the regret of completely losing it on the court.
 
 I then explained the steps to challenge this resistance point.
 
-\"The bad news is that you had a very painful experience today. The good
+"The bad news is that you had a very painful experience today. The good
 news is that you have a great opportunity to understand what went wrong
 in that first set so the next time this happens you are prepared to
 shift momentum back your way.
 
-\"In fact,\" I said, \"this resistance point may have started before
-your match.\"
+"In fact," I said, "this resistance point may have started before
+your match."
 
-\"What do you mean?\" he asked. \"Were you thinking before this match
+"What do you mean?" he asked. "Were you thinking before this match
 that you needed to beat this guy, you know, that it had to happen or
-else?\" \"Yes, that is pretty much what was in my mind.\"
+else?" "Yes, that is pretty much what was in my mind."
 
-\"So, as you prepare for the match, the inner tension builds, and by the
+"So, as you prepare for the match, the inner tension builds, and by the
 time you get into the match you are feeling tight and anxious, concerned
 about the expectations you have set that you have convinced yourself you
-must make happen.\"
+must make happen."
 
 The key in dealing with this resistance point is that when you first
-start thinking that you \"need\" to win you recognize that this mindset
+start thinking that you "need" to win you recognize that this mindset
 will lead you toward forcing your performance. By recognizing this early
 you can begin the process of finding a more performance based mentality
 -- one that focuses on the basic steps that you will need to execute to
 play your best.
 
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                       ![A picture containing person, person, outdoor, player Description automatically
-   generated](media_resistance-points-and-breakthrough-points/media/image8.jpg)
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                                  **Djokovic had a breakthrough point with a single return.**
-
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A picture containing person, person, outdoor, player Description automatically generated](media_resistance-points-and-breakthrough-points/media/image8.jpg)
+**Djokovic had a breakthrough point with a single return.**
 
 Once you recognize it, you need to create some distance from it by
 observing your thinking rather that reacting to what you feel you have
@@ -299,17 +260,12 @@ Many observers were shocked by the turn around in the fourth set when
 understanding resistance and breakthrough points can give you a
 perspective on what happened.
 
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                       ![A picture containing person, outdoor, person, crowd Description automatically
-   generated](media_resistance-points-and-breakthrough-points/media/image9.jpg)
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                          **Novak's return created a resistance point Federer could not overcome.**
-
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A picture containing person, outdoor, person, crowd Description automatically generated](media_resistance-points-and-breakthrough-points/media/image9.jpg)
+**Novak's return created a resistance point Federer could not overcome.**
 
 **Djokovic was down 3-5, 15-40 in the fourth. With one blistering
-forehand return winner he made breakthrough by hitting that \"go for
-broke\" return. He then used this to engage the crowd and further create
+forehand return winner he made breakthrough by hitting that "go for
+broke" return. He then used this to engage the crowd and further create
 a positive feeling within himself. That one return changed the momentum
 of the match.**
 
@@ -335,21 +291,16 @@ There are also many examples of how breakthrough points happen on their
 own in their own time, and aren't tied to resistance points.
 
 An example I remember from my college years at Ole Miss is how our coach
-would have us play a lot of tiebreakers. He said, \"We are going to be
-tougher than anyone else in tiebreakers.\" We did this by playing
+would have us play a lot of tiebreakers. He said, "We are going to be
+tougher than anyone else in tiebreakers." We did this by playing
 breakers all the time in practice.
 
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                                  ![A picture containing text, sign Description automatically
-   generated](media_resistance-points-and-breakthrough-points/media/image10.jpg)
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                                 **Your beliefs about tiebreakers can lead to breakthroughs.**
-
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A picture containing text, sign Description automatically generated](media_resistance-points-and-breakthrough-points/media/image10.jpg)
+**Your beliefs about tiebreakers can lead to breakthroughs.**
 
 As a result of this constant practice and the belief instilled by my
 coach, my tiebreaker record improved considerably. If I got to 6-6, my
-thinking would immediately shift to \"it's time for a breakthrough\"
+thinking would immediately shift to "it's time for a breakthrough"
 and the breakthroughs occurred frequently when I was able to get into
 that mindset.
 
@@ -376,13 +327,8 @@ first step is to write down your own points of resistance in matches
 when you confront issues, problems and situations that turn your
 momentum in the wrong direction.
 
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                     ![A picture containing person, sport, athletic game, player Description automatically
-   generated](media_resistance-points-and-breakthrough-points/media/image11.jpg)
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                                **Consistent momentum will lead to realizing your potential.**
-
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A picture containing person, sport, athletic game, player Description automatically generated](media_resistance-points-and-breakthrough-points/media/image11.jpg)
+**Consistent momentum will lead to realizing your potential.**
 
 Now formulate the solution. You are now in the position to rehearse the
 solutions physically and mentally over and over in practice.
@@ -407,29 +353,19 @@ you need to breakthrough and take your game to the next level. And when
 you reach the next level, you can start the process over again to
 continue to rise to your full potential.**
 
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![A person in a black shirt Description automatically generated with medium                                                                                                                   For the past 30 years, Joey Johnson has been competing,
-  confidence](media_resistance-points-and-breakthrough-points/media/image12.jpeg)                                                                                                                                                                 Growing up in frigid Northern Minnesota, he discovered
-                                                                                                                                                                                                tennis at the age of 11 and went on to an All American
-                                                                                                                                                                                                career at Ole Miss. He has coached and played on the ATP
-                                                                                                                                                                                                tour, coached at Brigham Young University, and worked with
-                                                                                                                                                                                                amateur, Olympic, and professional athletes in a variety of
-                                                                                                                                                                                                sports. He is the author of Worthy to Win: Emerging from
-                                                                                                                                                                                                Fear and Self Doubt. Want to learn more about Joey's Worthy
-                                                                                                                                                                                                to Win training and consulting programs? [!](http://www.worthytowin.com/Worthy_to_Win/Book.html)
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------
+![A person in a black shirt Description automatically generated with medium                                                                                                                   For the past 30 years, Joey Johnson has been competing, confidence](media_resistance-points-and-breakthrough-points/media/image12.jpeg)                                                                                                                                                                 Growing up in frigid Northern Minnesota, he discovered
+tennis at the age of 11 and went on to an All American
+career at Ole Miss. He has coached and played on the ATP
+tour, coached at Brigham Young University, and worked with
+amateur, Olympic, and professional athletes in a variety of
+sports. He is the author of Worthy to Win: Emerging from
+Fear and Self Doubt. Want to learn more about Joey's Worthy
+to Win training and consulting programs? [!](http://www.worthytowin.com/Worthy_to_Win/Book.html)
 
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![Website Description automatically generated with low                                                                                                                                         In Worthy to Win, Joey Johnson shows how at the core of
-  confidence](media_resistance-points-and-breakthrough-points/media/image13.jpeg)                                                                                                                                                                 mindset creates the belief and confidence that will propel
-                                                                                                                                                                                                 you toward your potential. Worthy to Win outlines 8 steps
-                                                                                                                                                                                                 that will revolutionize the way you prepare for matches and
-                                                                                                                                                                                                 lead to the breakthroughs and big wins you dream about.
-                                                                                                                                                                                                 Learn to tap into the power of pressure, ride the
-                                                                                                                                                                                                 performance wave, and much more. For more information and to
-                                                                                                                                                                                                 order, [!](http://www.worthytowin.com/Worthy_to_Win/Home.html)
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------
-
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![Website Description automatically generated with low                                                                                                                                         In Worthy to Win, Joey Johnson shows how at the core of confidence](media_resistance-points-and-breakthrough-points/media/image13.jpeg)                                                                                                                                                                 mindset creates the belief and confidence that will propel
+you toward your potential. Worthy to Win outlines 8 steps
+that will revolutionize the way you prepare for matches and
+lead to the breakthroughs and big wins you dream about.
+Learn to tap into the power of pressure, ride the
+performance wave, and much more. For more information and to
+order, [!](http://www.worthytowin.com/Worthy_to_Win/Home.html)

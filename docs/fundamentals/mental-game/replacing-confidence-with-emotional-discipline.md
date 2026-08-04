@@ -2,11 +2,7 @@
 
 ### By Allen Fox, Ph.D.
 
-------------------------------------------------------------------------
-
-![A picture containing tennis, person, person, player Description
-automatically
-generated](media_replacing-confidence-with-emotional-discipline/media/image1.jpg)
+![A picture containing tennis, person, person, player Description automatically generated](media_replacing-confidence-with-emotional-discipline/media/image1.jpg)
 
 **Confidence is a key to reaching your potential.**
 
@@ -41,8 +37,7 @@ How do you discipline your play? Play more consistently and
 conservatively than you would if you were at your best. Resist the urge
 to get creative with your shot selection.
 
-![A person holding a tennis racket Description automatically
-generated](media_replacing-confidence-with-emotional-discipline/media/image2.jpg)
+![A person holding a tennis racket Description automatically generated](media_replacing-confidence-with-emotional-discipline/media/image2.jpg)
 
 **How can you escape from a negative mind set?**
 
@@ -64,8 +59,7 @@ matter how you really feel increases the odds of you getting the win or
 wins you need to reverse the losing cycle. Ironcially this can lead to a
 recover of the confidence you have previously lost.
 
-![A person holding a tennis racket Description automatically
-generated](media_replacing-confidence-with-emotional-discipline/media/image3.jpg)
+![A person holding a tennis racket Description automatically generated](media_replacing-confidence-with-emotional-discipline/media/image3.jpg)
 
 Disciplining yourself can produce results no matter how you really feel
 inside.
@@ -86,7 +80,7 @@ new information coming from a fresh angle can be helpful.
 
 Equally or even more important is the fact that the new voice can have a
 positive psychological impact. A new coach may lead a struggling player
-to hope in that there is a bit of \"magic\" advice in the offing that
+to hope in that there is a bit of "magic" advice in the offing that
 can break the negative cycle. **The belief that this new information
 can help functions somewhat like a placebo
 effect.**
@@ -98,8 +92,7 @@ gives Dumbo a feather and tells him it is magic, and whenever he holds
 it in his trunk he will be able to fly. So Dumbo flaps his huge ears
 and, believing in the magical powers of the feather, does, in fact, fly.
 
-![A close-up of a mouse Description automatically generated with low
-confidence](media_replacing-confidence-with-emotional-discipline/media/image4.jpg)
+![A close-up of a mouse Description automatically generated with low confidence](media_replacing-confidence-with-emotional-discipline/media/image4.jpg)
 
 **A new coach can help you fly with a magic feather.**
 
@@ -123,11 +116,9 @@ Part of the reason is that Gilbert is a strategic genius, but as
 important or more important was that he gave his players renewed hope
 and motivation. Not only were they hearing a new voice and new technical
 information, but Gilbert also acted, at least in the beginning, as a
-\"magic feather.\"
+"magic feather."
 
-![A picture containing person, sport, person, athletic game Description
-automatically
-generated](media_replacing-confidence-with-emotional-discipline/media/image5.jpeg) ![A couple of men holding tennis rackets
+![A picture containing person, sport, person, athletic game Description automatically generated](media_replacing-confidence-with-emotional-discipline/media/image5.jpeg) ![A couple of men holding tennis rackets
 on a tennis court Description automatically generated with medium
 confidence](media_replacing-confidence-with-emotional-discipline/media/image6.jpg)
 
@@ -145,9 +136,7 @@ Having absorbed much of Gilbert's wisdom, both players eventually left
 him for other coaches. (They parted on friendly terms with great mutual
 respect, as was proper with all such good people.)
 
-![A person with his head in his hands Description automatically
-generated with low
-confidence](media_replacing-confidence-with-emotional-discipline/media/image7.jpg)
+![A person with his head in his hands Description automatically generated with low confidence](media_replacing-confidence-with-emotional-discipline/media/image7.jpg)
 
 **Time can be therapeutic when you feel like this.**
 
@@ -182,61 +171,92 @@ Read More From Allen!
 
 Visit him at [www.allenfoxtennis.net](http://www.allenfoxtennis.net)
 
- 
+![A picture containing text, newspaper Description automatically generated](media_replacing-confidence-with-emotional-discipline/media/image8.jpeg)
 
-| ![A picture containing text, newspaper Description automatically | Winning the Mental Match Dr. Allen Fox |
-| --- | --- |
-| generated](media_replacing-confidence-with-emotional-discipline/media/image8.jpeg) | Tennis is mentally the most difficult sport due to it's personal nature which makes winning and losing feel more |
-|  | important than they are. In this new book, Allen offers his proven solutions to problems such as choking, reducing |
-|  | stress, finishing matches, and developing confidence. Based on a life time of high level play and coaching success, |
-|  | it's a must for all competitive players. |
-|  |  |
-|  | [ to |
-|  | Order](http://www.amazon.com/Tennis-Winning-Mental-Allen-Fox/dp/0615407765/ref=sr_1_1?ie=UTF8&qid=1336083459&sr=8-1). |
+Winning the Mental Match Dr. Allen Fox
 
+Tennis is mentally the most difficult sport due to it's personal nature which makes winning and losing feel more
 
-| ![Text Description automatically | Winning may not be everything, but Dr. Allen Fox points out |
-| --- | --- |
-| generated](media_replacing-confidence-with-emotional-discipline/media/image9.jpeg) | eminently preferable to losing. In his new book, The |
-|  | Winner's Mind, Allen lays out an original step-by-step |
-|  | plan for succeeding at any of life's endeavors, based on |
-|  | his first hand and very personal observations of the |
-|  | careers of both world-class tennis players and successful |
-|  | businessman. The bottom line is that even if you are not a |
-|  | born champion\--and only a tiny percentage of us are\--you |
-|  | can still use the success strategies of champions to tilt |
-|  | the odds in your favor. Writing with brutal honesty and dry |
-|  | humor, Fox lays out the common mental characteristics of |
-|  | winners in sports and in life. He explains the critical |
-|  | role of intellect over emotion. He analyzes the struggle |
-|  | between ambition and fear and the insidious and pervasive |
-|  | fear of failure that undermines so many of us. He then |
-|  | outline how to confront and overcome these fears in your |
-|  | life and career, even when they are initially subconscious. |
-|  | Must reading from one of the great thinkers in tennis, and |
-|  | a Renaissance Man in life. [ to |
-|  | Order](http://www.tennis-warehouse.com/descpage-MIND.html). |
-|  |  |
-|  | To purchase this book you can also send a check for \$17.95 |
-|  | to Allen Fox, 1120 Inverness Place, San Luis Obispo, CA. |
-|  | 93401. The price includes shipping. |
+important than they are. In this new book, Allen offers his proven solutions to problems such as choking, reducing
 
+stress, finishing matches, and developing confidence. Based on a life time of high level play and coaching success,
 
-| ![A person holding a tennis racket Description automatically | Allen Fox PhD is a former world class player, a coach, |
-| --- | --- |
-| generated](media_replacing-confidence-with-emotional-discipline/media/image10.gif) | insightful analysts in modern tennis. A top 10 |
-|  | American player from the glory days before Open |
-|  | tennis, Fox played many of the legendary greats, among |
-|  | them Roy Emerson, Rod Laver, Stan Smith, and Arthur |
-|  | Ashe. At Pepperdine he developed the men's tennis |
-|  | program into an elite contender for national titles, |
-|  | and gave Brad Gilbert the insights that became the |
-|  | foundation for \"Winning Ugly\". His book Think to Win |
-|  | is a modern classic. He has also starred in a series |
-|  | of acclaimed videos, including Pro Secrets of Match |
-|  | Play and Allen Fox's Ultimate Tennis Lesson. |
-|  |  |
-|  |  |
+it's a must for all competitive players.
 
+[ to
 
-------------------------------------------------------------------------
+Order](http://www.amazon.com/Tennis-Winning-Mental-Allen-Fox/dp/0615407765/ref=sr_1_1?ie=UTF8&qid=1336083459&sr=8-1).
+
+![Text Description automatically generated](media_replacing-confidence-with-emotional-discipline/media/image9.jpeg)
+
+Winning may not be everything, but Dr. Allen Fox points out
+
+eminently preferable to losing. In his new book, The
+
+Winner's Mind, Allen lays out an original step-by-step
+
+plan for succeeding at any of life's endeavors, based on
+
+his first hand and very personal observations of the
+
+careers of both world-class tennis players and successful
+
+businessman. The bottom line is that even if you are not a
+
+born champion--and only a tiny percentage of us are--you
+
+can still use the success strategies of champions to tilt
+
+the odds in your favor. Writing with brutal honesty and dry
+
+humor, Fox lays out the common mental characteristics of
+
+winners in sports and in life. He explains the critical
+
+role of intellect over emotion. He analyzes the struggle
+
+between ambition and fear and the insidious and pervasive
+
+fear of failure that undermines so many of us. He then
+
+outline how to confront and overcome these fears in your
+
+life and career, even when they are initially subconscious.
+
+Must reading from one of the great thinkers in tennis, and
+
+a Renaissance Man in life. [ to
+
+Order](http://www.tennis-warehouse.com/descpage-MIND.html).
+
+To purchase this book you can also send a check for $17.95
+
+to Allen Fox, 1120 Inverness Place, San Luis Obispo, CA.
+
+93401. The price includes shipping.
+
+![A person holding a tennis racket Description automatically generated](media_replacing-confidence-with-emotional-discipline/media/image10.gif)
+
+Allen Fox PhD is a former world class player, a coach,
+
+insightful analysts in modern tennis. A top 10
+
+American player from the glory days before Open
+
+tennis, Fox played many of the legendary greats, among
+
+them Roy Emerson, Rod Laver, Stan Smith, and Arthur
+
+Ashe. At Pepperdine he developed the men's tennis
+
+program into an elite contender for national titles,
+
+and gave Brad Gilbert the insights that became the
+
+foundation for "Winning Ugly". His book Think to Win
+
+is a modern classic. He has also starred in a series
+
+of acclaimed videos, including Pro Secrets of Match
+
+Play and Allen Fox's Ultimate Tennis Lesson.

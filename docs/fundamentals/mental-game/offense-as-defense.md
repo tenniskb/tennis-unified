@@ -2,10 +2,7 @@
 
 ### By Barry Buss
 
-------------------------------------------------------------------------
-
-![A picture containing weapon Description automatically
-generated](media_offense-as-defense/media/image1.jpg)
+![A picture containing weapon Description automatically generated](media_offense-as-defense/media/image1.jpg)
 
 **Could you be the new Navy Seal at your club?**
 
@@ -33,8 +30,7 @@ there is a reason. It is very, very successful.
 Does that mean that your goal should be to morph yourself into an NTRP
 version of David Ferrer? Sure if you want to. But I don't think so.
 
-![A person playing tennis Description automatically
-generated](media_offense-as-defense/media/image2.webp)
+![A person playing tennis Description automatically generated](media_offense-as-defense/media/image2.webp)
 
 **Is becoming the NTRP David Ferrer the only way to win?**
 
@@ -64,8 +60,7 @@ pusher.**
 every slow ball. This is the suicide bomber approach and it will end in
 suicide in most matches.**
 
-![A person playing tennis Description automatically
-generated](media_offense-as-defense/media/image3.webp)
+![A person playing tennis Description automatically generated](media_offense-as-defense/media/image3.webp)
 
 **Do you pick the right time to go for winners?**
 
@@ -93,9 +88,7 @@ one-dimensional player and coming up against an opponent who does
 exactly what you do better than you. Don't complain about the way the
 opponent plays. Take it as a challenge to add dimensions to your game.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_offense-as-defense/media/image4.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_offense-as-defense/media/image4.webp)
 
 **When attacking be ready and able to put overheads away from deeper in
 the court.**
@@ -130,8 +123,7 @@ opponents cannot attack your weakness if you have them running corner to
 corner chasing down ammunition fired from your
 weapon.**
 
-![A person playing tennis Description automatically
-generated](media_offense-as-defense/media/image5.webp)
+![A person playing tennis Description automatically generated](media_offense-as-defense/media/image5.webp)
 
 **Club players should move around the backhand for the same reasons as
 pros.**
@@ -157,9 +149,7 @@ very effective. I'm talking about a net charger who keeps you under
 relentless pressure. The common solution is to focus on making passing
 shots, hitting lobs, and getting returns down low. All well and good.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_offense-as-defense/media/image6.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_offense-as-defense/media/image6.webp)
 
 **Attack an attacking player even if attack isn't your strength.**
 
@@ -181,19 +171,14 @@ anything in the long run if he has to attempt 50 more.
 
 **All is Fair in Tennis?**
 
-All is fair in war\--and in tennis. Or so many players believe.
+All is fair in war--and in tennis. Or so many players believe.
 
 Whatever you may think about it, the reality in tennis matches is that
 not all weapons in tennis are stroke related. There are many ways to
 skin an opponent's hide.
 
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                      ![A person holding a tennis racket Description automatically
-   generated](media_offense-as-defense/media/image7.jpg)
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                       **\"Come on!\": an ultra annoying weapon, but a weapon.**
-
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person holding a tennis racket Description automatically generated](media_offense-as-defense/media/image7.jpg)
+**"Come on!": an ultra annoying weapon, but a weapon.**
 
 To list a few of the famous non-stroke weapons in the pro game. Swede
 Mats Wilander's brain - the brain of the consummate tactician. Rafael
@@ -203,17 +188,17 @@ a match through his obsessive rituals.
 Jimmy Connors' ability to work a crowd to achieve a home court
 advantage. Bjorn Borg's icy composure under pressure.
 
-Lleyton Hewitt's ultra-annoying \"come ons,\" just the kind of irritant
+Lleyton Hewitt's ultra-annoying "come ons," just the kind of irritant
 to push an edgy player off the edge. And of course, John McEnroe's
 infamous temper tantrums, which always seemed to erupt strategically to
 escalate the tension of an already tense match.
 
 Guerilla tennis tacticians from the masters. Not of course that you
-would consider trying the Hewitt or the McEnroe approach\--right?
+would consider trying the Hewitt or the McEnroe approach--right?
 
 But there is no doubt that how you carry yourself, what you say, how you
 respond to the unexpected during matches can be as much of a weapon as a
-huge forehand. For example, it's well known that\--like Rafa\--the
+huge forehand. For example, it's well known that--like Rafa--the
 player that controls the overall pace of the match is establishing
 mental dominance, and often wins.
 
@@ -222,9 +207,7 @@ know how you want to behave, and as important, how you'll react if you
 encounter some version of the tactics described above from the person on
 the other side.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_offense-as-defense/media/image8.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_offense-as-defense/media/image8.webp)
 
 **Define who you are and how you behave on the tennis court through
 ritual.**
@@ -257,34 +240,35 @@ fair. No matter what happens, don't pull the trigger on any bad line
 calls. That will result in a tennis court martial with a dishonorable
 discharge from the band of tennis brothers (and sisters.)
 
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![A person smiling for the camera Description automatically generated with medium                                                                                     Barry Buss is the author of \"First in a Field of
-  confidence](media_offense-as-defense/media/image9.jpeg)                                                                                                                                        compelling inside look at the psychological
-                                                                                                                                                                        realities of competitive junior tennis. Growing up
-                                                                                                                                                                        in Boston and Los Angeles, Barry become a national
-                                                                                                                                                                        ranked junior player at the age of 12, and a member
-                                                                                                                                                                        of the elite USTA Junior Davis Cup Team. As a
-                                                                                                                                                                        college player he tied the legendary Jimmy Connors
-                                                                                                                                                                        22 match win streak at UCLA. Barry is an independent
-                                                                                                                                                                        teaching pro working in the greater Los Angeles.
-                                                                                                                                                                        areas. You can read his blog by Clicking Here. Or
-                                                                                                                                                                        contact him directly at: barrybuss1964@yahoo.com.
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------- ----------------------------------------------------
+![A person smiling for the camera Description automatically generated with medium                                                                                     Barry Buss is the author of "First in a Field of confidence](media_offense-as-defense/media/image9.jpeg)                                                                                                                                        compelling inside look at the psychological
+realities of competitive junior tennis. Growing up
+in Boston and Los Angeles, Barry become a national
+ranked junior player at the age of 12, and a member
+of the elite USTA Junior Davis Cup Team. As a
+college player he tied the legendary Jimmy Connors
+22 match win streak at UCLA. Barry is an independent
+teaching pro working in the greater Los Angeles.
+areas. You can read his blog by Clicking Here. Or
+contact him directly at: barrybuss1964@yahoo.com.
 
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![Graphical user interface Description automatically generated](media_offense-as-defense/media/image10.jpeg)
 
-| ![Graphical user interface Description automatically | **First in a Field of Two: A Junior Tennis Memoir** |
-| --- | --- |
-| generated](media_offense-as-defense/media/image10.jpeg) | An elite American junior, a legendary college player, Barry Buss tells an |
-|  | archetypal story about success, failure, pain, and recovery. Written with |
-|  | direct and graceful literary style, this book exposes the secret family |
-|  | dysfunction that so often accompanies amazing tennis success. Compelling |
-|  | and essential for anyone interested in understanding the realities and the |
-|  | horrifying potential dangers in junior tournament tennis. With a forward |
-|  | by Dr. Allen Fox. |
-|  |  |
-|  | [ to |
-|  | Order!](http://www.amazon.com/First-Field-Two-Junior-Tennis/dp/1467558370) |
+**First in a Field of Two: A Junior Tennis Memoir**
 
+An elite American junior, a legendary college player, Barry Buss tells an
 
-------------------------------------------------------------------------
+archetypal story about success, failure, pain, and recovery. Written with
+
+direct and graceful literary style, this book exposes the secret family
+
+dysfunction that so often accompanies amazing tennis success. Compelling
+
+and essential for anyone interested in understanding the realities and the
+
+horrifying potential dangers in junior tournament tennis. With a forward
+
+by Dr. Allen Fox.
+
+[ to
+
+Order!](http://www.amazon.com/First-Field-Two-Junior-Tennis/dp/1467558370)

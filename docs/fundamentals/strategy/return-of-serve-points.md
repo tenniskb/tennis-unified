@@ -2,11 +2,11 @@
 
 ### Nick Wheatley
 
-------------------------------------------------------------------------
+![Video demonstration](media_return-of-serve-points/media/image1.webp)
 
-![link](media_return-of-serve-points/media/image1.webp)
+*Video demonstration — the original video for this article was hosted on TennisPlayer.net.*
 
-**It's obvious\--though not to a lot of players\--move back to return a
+**It's obvious--though not to a lot of players--move back to return a
 big first serve.**
 
 Let's now move onto the start of point scenario where you are returning
@@ -35,9 +35,7 @@ Positioning can be the difference. If you are struggling to make returns
 back in play, then take a few steps further back to give you a little
 more time to see the ball and make your return.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_return-of-serve-points/media/image2.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_return-of-serve-points/media/image2.webp)
 
 **A deep return should land in the back third of the court.**
 
@@ -71,8 +69,7 @@ in. In this case you will be looking to keep your returns lower, and
 perhaps risk taking the ball earlier to reduce the time your opponent
 has to close down the net.
 
-![A person playing tennis Description automatically
-generated](media_return-of-serve-points/media/image3.webp)
+![A person playing tennis Description automatically generated](media_return-of-serve-points/media/image3.webp)
 
 **Make a serve and volley player hit a low volley off your return.**
 
@@ -99,9 +96,7 @@ These skills take time to develop, but with a little added concentration
 you will develop them faster. I promise you'll like the results when
 you get it right!
 
-![A person in an orange shirt Description automatically generated with
-low
-confidence](media_return-of-serve-points/media/image4.webp)
+![A person in an orange shirt Description automatically generated with low confidence](media_return-of-serve-points/media/image4.webp)
 
 **Work to make your split step a fraction earlier.**
 
@@ -131,9 +126,7 @@ a right-handed player who favours his forehand. On the deuce side, you
 can afford to move to the left a step or two, and perhaps forwards a
 little bit too.
 
-![A person in an orange shirt Description automatically generated with
-low
-confidence](media_return-of-serve-points/media/image4.webp)
+![A person in an orange shirt Description automatically generated with low confidence](media_return-of-serve-points/media/image4.webp)
 
 **On a second serve, try starting further left in the deuce court.**
 
@@ -156,9 +149,7 @@ Does he try to exploit the space on the forehand side, and is he at all
 successful? If you aren't being troubled, then you can stand even
 another step to your left to return.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_return-of-serve-points/media/image5.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_return-of-serve-points/media/image5.webp)
 
 **Another deuce court option---run around the serve to hit forehands.**
 
@@ -186,8 +177,7 @@ as your opponent will be forced into a defensive reply from your return.
 
 **Down the Middle**
 
-![A person playing tennis Description automatically
-generated](media_return-of-serve-points/media/image6.webp)
+![A person playing tennis Description automatically generated](media_return-of-serve-points/media/image6.webp)
 
 **Consider hitting backhand crosscourt returns in the ad court.**
 
@@ -210,9 +200,7 @@ middle of the court, it's also an awkward move to get the body out of
 the way to make room for your next shot, and an error from the server on
 their next shot can often arise as a result.**
 
-![A picture containing sport, athletic game, floor, player Description
-automatically
-generated](media_return-of-serve-points/media/image7.webp)
+![A picture containing sport, athletic game, floor, player Description automatically generated](media_return-of-serve-points/media/image7.webp)
 
 **A deep down the middle return can produce errors, even from Roger
 Federer.**
@@ -239,9 +227,7 @@ kick so much, that aggressive returns are very difficult. With a potent
 mixture of side and top spin, the ball becomes very hard to read after
 the bounce.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_return-of-serve-points/media/image8.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_return-of-serve-points/media/image8.webp)
 
 **Moving back on second serves as Nadal sometimes does can neutralize
 the effect of a strong kick serve.**
@@ -270,25 +256,34 @@ The court surface will also play a factor, with faster lower bouncing
 courts favouring an early strike, and higher bouncing courts favouring
 standing even further back.
 
-| ![A person holding a tennis racket Description automatically | Nick Wheatley is an LTA Performance Coach and |
-| --- | --- |
-| generated](media_return-of-serve-points/media/image9.jpeg) | His junior teams, the Hawker Jets, have won 44 |
-|  | competitions since formation, and over the last 2 |
-|  | years alone, his junior players have won 19 |
-|  | singles tournaments between them at county level. |
-|  |  |
-|  | He has been ranked in the top 75 nationally in 35 |
-|  | and over singles and in the top 5 in Surrey |
-|  | county. Nick has done video analysis for numerous |
-|  | players at all levels, including former British |
-|  | Top 10 player Marcus Willis. |
-|  |  |
-|  | His unique teaching video series, covering every |
-|  | aspect of the game, is available on his website |
-|  | [www.nickwtennis.com](http://www.nickwtennis.com) |
-|  |  |
-|  | You can also contact Nick directly via the |
-|  | homepage of his website. |
+![A person holding a tennis racket Description automatically generated](media_return-of-serve-points/media/image9.jpeg)
 
+Nick Wheatley is an LTA Performance Coach and
 
-------------------------------------------------------------------------
+His junior teams, the Hawker Jets, have won 44
+
+competitions since formation, and over the last 2
+
+years alone, his junior players have won 19
+
+singles tournaments between them at county level.
+
+He has been ranked in the top 75 nationally in 35
+
+and over singles and in the top 5 in Surrey
+
+county. Nick has done video analysis for numerous
+
+players at all levels, including former British
+
+Top 10 player Marcus Willis.
+
+His unique teaching video series, covering every
+
+aspect of the game, is available on his website
+
+[www.nickwtennis.com](http://www.nickwtennis.com)
+
+You can also contact Nick directly via the
+
+homepage of his website.

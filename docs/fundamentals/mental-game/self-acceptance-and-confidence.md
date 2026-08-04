@@ -2,17 +2,13 @@
 
 ### Ben Loeb
 
-------------------------------------------------------------------------
-
-![A picture containing grass, outdoor, sky, person Description
-automatically
-generated](media_self-acceptance-and-confidence/media/image1.jpg)
+![A picture containing grass, outdoor, sky, person Description automatically generated](media_self-acceptance-and-confidence/media/image1.jpg)
 
 **The sports psychology principles I have developed have helped my high
 school teams win 17 state titles---so far.**
 
 The boys' and girls' high school tennis teams I have coached have had
-thirty-eight final four appearances and won seventeen state titles\--and
+thirty-eight final four appearances and won seventeen state titles--and
 counting. The successes of these teams have come in part by the
 application of concepts and techniques I developed to systematically
 explore and improve the mental and emotional elements in my players'
@@ -35,19 +31,17 @@ the match and predetermine who was likely to win. If the outcome was in
 doubt near the end of the match, my pecking order mentality too often
 affected the match outcome.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_self-acceptance-and-confidence/media/image2.jpg)
+![A person playing tennis Description automatically generated with medium confidence](media_self-acceptance-and-confidence/media/image2.jpg)
 
 **The origin of my work lies in my own experience as a player.**
 
 My mother, who was not sports oriented, gave me the best advice I've
 ever heard. Before I'd leave the house to go to the tennis tournament,
-she would always say, \"Relax and have fun.\"
+she would always say, "Relax and have fun."
 
 Simple Advice
 
-It was such simple advice. At the time I thought the \"have fun\" part
+It was such simple advice. At the time I thought the "have fun" part
 was naive. I was not out there flying kites or recreationally throwing
 horseshoes; I was experiencing a clash in my head between wanting to win
 and being afraid of losing.
@@ -69,9 +63,7 @@ perform at a higher level and to actually embrace the competitive arena.
 It drove me to explore sport psychology for myself and to help other
 athletes minimize the pitfalls that I had experienced.
 
-![A picture containing person, sport, outdoor, athletic game Description
-automatically
-generated](media_self-acceptance-and-confidence/media/image3.jpg)
+![A picture containing person, sport, outdoor, athletic game Description automatically generated](media_self-acceptance-and-confidence/media/image3.jpg)
 
 **In 30 years I have worked with hundreds of players on overcoming
 mental and emotional obstacles.**
@@ -105,8 +97,7 @@ have a psychological tug-of-war with fear undermining your ability to
 stay connected to yourself. Fear and frustration is normal at times and
 it's a matter of how the athlete will deal with it.
 
-![A person hitting a ball with a tennis racket Description automatically
-generated](media_self-acceptance-and-confidence/media/image4.jpg)
+![A person hitting a ball with a tennis racket Description automatically generated](media_self-acceptance-and-confidence/media/image4.jpg)
 
 **Accepting yourself sets you free.**
 
@@ -149,8 +140,7 @@ conditions are ideal, and when you're competing against someone you're
 better than. The real test of confidence, however, is how you respond
 when things aren't going your way.
 
-![A person holding a tennis racket Description automatically
-generated](media_self-acceptance-and-confidence/media/image5.jpg)
+![A person holding a tennis racket Description automatically generated](media_self-acceptance-and-confidence/media/image5.jpg)
 
 **Genuine confidence is a sureness you can do it.**
 
@@ -185,8 +175,7 @@ There are several keys to mastering the confidence challenge. First,
 develop the attitude that demanding situations are challenges that
 should be sought out.
 
-![A person holding a tennis racket Description automatically
-generated](media_self-acceptance-and-confidence/media/image6.jpg)
+![A person holding a tennis racket Description automatically generated](media_self-acceptance-and-confidence/media/image6.jpg)
 
 **When it comes to your confidence level, round up!**
 
@@ -203,8 +192,8 @@ Confidence can be a difficult attribute to attain. Many athletes and
 non-athletes struggle with having genuine confidence, especially when
 they need it most. Here are some ideas to help the not-so-confident.
 
-Remember back in school you were taught in math class to \"round up\" on
-decimals? For example, 89.5 percent would round up to 90.0 percent\--the
+Remember back in school you were taught in math class to "round up" on
+decimals? For example, 89.5 percent would round up to 90.0 percent--the
 nearest whole number.
 
 **You can apply the same principle with your confidence level. Round
@@ -215,9 +204,7 @@ up.** Think, I can. Give yourself a 90 percent
 rating or higher. When do this you are using what's called realistic
 positive conviction.
 
-![A person smiling for the camera Description automatically generated
-with medium
-confidence](media_self-acceptance-and-confidence/media/image7.jpeg)
+![A person smiling for the camera Description automatically generated with medium confidence](media_self-acceptance-and-confidence/media/image7.jpeg)
 
 Ben Loeb has been the varsity tennis coach for the boys' and girls'
 teams at Rock Bridge High School in Columbia, Missouri for over 30
@@ -228,8 +215,7 @@ and has used the principles he has developed to help hundreds of players
 to overcome the mental and emotional challenges of playing winning
 competitive tennis.
 
-![A cover of a book Description automatically generated with medium
-confidence](media_self-acceptance-and-confidence/media/image8.jpeg)
+![A cover of a book Description automatically generated with medium confidence](media_self-acceptance-and-confidence/media/image8.jpeg)
 
 **Next-Level Coaching!**
 
@@ -241,5 +227,3 @@ and plans of action to help any player our coach use sports psychology
 to reach the next level.
 
 To Order Next-Level Coaching, [!](https://www.amazon.com/Next-Level-Coaching-Psychology-Student-Athlete-Performance/dp/1632991772/ref=sr_1_1?crid=2XO9EVQF6XBZA&keywords=ben+loeb&qid=1552685920&s=gateway&sprefix=Ben+Loeb%2Caps%2C187&sr=8-1)
-
-------------------------------------------------------------------------

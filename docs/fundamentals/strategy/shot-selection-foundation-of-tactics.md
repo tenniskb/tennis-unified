@@ -2,13 +2,9 @@
 
 ### Dave Hagler 
 
-------------------------------------------------------------------------
+![A person playing tennis Description automatically generated with medium confidence](media_shot-selection-foundation-of-tactics/media/image1.webp)
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_shot-selection-foundation-of-tactics/media/image1.webp)
-
-**When is the running down the line actually the \"high percentage\"
+**When is the running down the line actually the "high percentage"
 shot?**
 
 Here's what seems like a simple question. Which is better, a shot that
@@ -39,8 +35,7 @@ stepping in and picking up your ball and pushing you further out of
 court. Now you're a few feet behind the baseline and out in the alley.
 What do you do?
 
-![A person playing tennis Description automatically
-generated](media_shot-selection-foundation-of-tactics/media/image2.webp)
+![A person playing tennis Description automatically generated](media_shot-selection-foundation-of-tactics/media/image2.webp)
 
 **What if your opponent keeps stepping in and beating you crosscourt?**
 
@@ -55,23 +50,21 @@ know you can make either one, but you also know you're almost certain
 to lose the point either way if you do. The 30% shot in this case is a
 hard, go for broke running down the line forehand.
 
-**So, which is really the percentage play? If you play the \"safe\"
+**So, which is really the percentage play? If you play the "safe"
 shot, you are going to win 1 point out of ten. But if you play the more
 dangerous shot, you will 3 points.** Suddenly the
-\"riskier\" down the line shot looks like the percentage play, because
+"riskier" down the line shot looks like the percentage play, because
 on balance, it is going to yield more points.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_shot-selection-foundation-of-tactics/media/image3.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_shot-selection-foundation-of-tactics/media/image3.webp)
 
-**Could enough \"low percentage\" shots be the difference over 3 sets?**
+**Could enough "low percentage" shots be the difference over 3 sets?**
 
 And it's not just this one scenario with forehand cross-courts that
 have these kinds of outcomes. There are many other similar situations
-where you face similar choices. \"High percentage\" shots where you are
-likely to lose the point, versus \"low percentage\" shots, where you are
-likely to win\--if you actually make the shot.
+where you face similar choices. "High percentage" shots where you are
+likely to lose the point, versus "low percentage" shots, where you are
+likely to win--if you actually make the shot.
 
 Let's say over the course of a 3-set match, you're in one of these
 situations 10 times per set. Let's say that in each case you try that
@@ -87,8 +80,7 @@ close match. So even though you might miss a certain shot 7 out of every
 win. That may sound surprising, but when you think about it, it also
 makes perfect sense.
 
-![A person playing tennis Description automatically
-generated](media_shot-selection-foundation-of-tactics/media/image4.webp)
+![A person playing tennis Description automatically generated](media_shot-selection-foundation-of-tactics/media/image4.webp)
 
 **When is looping down the line really the better play?**
 
@@ -103,31 +95,27 @@ great match players just know the difference.
 So, let's outline how you can develop this same knowledge and become a
 great or at least a better match player, by assessing the various
 situations you will find yourself in more clearly. As a start let's
-look at all the potential shots in terms of their \"desirability.\" In
+look at all the potential shots in terms of their "desirability." In
 other words, if you could hit any shot you wanted in a given situation
 what would be that hierarchy of shots?
 
-  --------------------------------------------------------------------
-  **Shot Hierarchy**
-  --------------------------------------------------------------------
-  **From the top down the shot hierarchy goes like this:**
+**Shot Hierarchy**
+**From the top down the shot hierarchy goes like this:**
 
   1.  Winner
 
   2.  Shot that forces an error
 
   3.  Shot that puts or keep your opponent on the defensive, makes him
-  hit a shot he does not like, adds to or creates a positional
-  advantage, limits his options, or sets up a potential winner
+hit a shot he does not like, adds to or creates a positional
+advantage, limits his options, or sets up a potential winner
 
   4.  Shot that keeps you neutral or negates or partially negates an
-  opponent's advantage (gets you to neutral)
+opponent's advantage (gets you to neutral)
 
   5.  Shot where you force the opponent to hit one more shot
-  --------------------------------------------------------------------
 
-![A person playing tennis Description automatically
-generated](media_shot-selection-foundation-of-tactics/media/image5.webp)
+![A person playing tennis Description automatically generated](media_shot-selection-foundation-of-tactics/media/image5.webp)
 
 **Most shots are in the middle of the hierarchy.**
 
@@ -163,11 +151,9 @@ to get around the ball himself, but you have him off balance and are
 able to play the balls consistently deep and/or wide with your inside
 out forehand.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_shot-selection-foundation-of-tactics/media/image6.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_shot-selection-foundation-of-tactics/media/image6.webp)
 
-**The inside in finish can have the same risk as another inside out\--or
+**The inside in finish can have the same risk as another inside out--or
 not.**
 
 So, what are your options now? You may feel that you can just break down
@@ -201,12 +187,11 @@ set. So this is a great example of the kind of percentage decision we
 talked about at the top. You get to choose between 100% shots and 30%
 shots, but the consequences are now reversed. Now the higher percentage
 shot yields more points in the long run. But you make the decision for
-the exact same reason\--because it gives you the greatest likelihood of
+the exact same reason--because it gives you the greatest likelihood of
 winning the most points from the position you are in with the choices
 you have.
 
-![A person playing tennis Description automatically
-generated](media_shot-selection-foundation-of-tactics/media/image7.webp)
+![A person playing tennis Description automatically generated](media_shot-selection-foundation-of-tactics/media/image7.webp)
 
 **What's the calculation on a slice approach?**
 
@@ -228,9 +213,7 @@ can change from one opponent to the next. Former college star Cecil
 Mamitt is actually 3 -1 lifetime against Max Mirnyi. Max has a career
 high of #18 in singles and Cecil has a career high of #72.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_shot-selection-foundation-of-tactics/media/image8.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_shot-selection-foundation-of-tactics/media/image8.webp)
 
 **The same shots do not have the same effect on different players.**
 
@@ -240,7 +223,7 @@ a certain extent I'll buy that. He's also 2- 0 against Mark Woodforde,
 another accomplished serve and volleyer. So maybe Cecil's game is just
 ideally suited to play against serve and volley.
 
-But then consider the fact that he is 0\--3 against Tim Henman. So is it
+But then consider the fact that he is 0--3 against Tim Henman. So is it
 purely the style match up? Not likely. The more likely answer is that
 the balance in the exchanges shifts when he plays Henman. Cecil may like
 targets, but there is a limit to the difficulty of the targets he can
@@ -256,9 +239,7 @@ passes versus Max. So it all varies. What is good enough against Mirnyi
 may not be good enough against Henman, and this may cause Cecil to try
 lower percentage shots and make more errors.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_shot-selection-foundation-of-tactics/media/image9.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_shot-selection-foundation-of-tactics/media/image9.webp)
 
 **Should you continue to drive the ball in a crosscourt exchange?**
 
@@ -287,9 +268,7 @@ But even though you have a ball you can hit, you may feel, or experience
 against this opponent may show, that this exchange is more to his
 advantage. What are your other choices?
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_shot-selection-foundation-of-tactics/media/image10.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_shot-selection-foundation-of-tactics/media/image10.webp)
 
 **How about a low, wide slice?**
 
@@ -313,8 +292,7 @@ down the line with pace.** The one-handed backhand
 down the line is one of the most difficult but also most beautiful shots
 in tennis.
 
-![A picture containing sport, athletic game Description automatically
-generated](media_shot-selection-foundation-of-tactics/media/image11.webp)
+![A picture containing sport, athletic game Description automatically generated](media_shot-selection-foundation-of-tactics/media/image11.webp)
 
 **Guga negated crosscourts with big backhands down the line.**
 
@@ -339,10 +317,9 @@ time when you get a solid, crosscourt rally ball to hit, as in the
 example we are discussing? On this type of ball, is it closer to a 100%
 shot, or more like a 30% shot?
 
-![A person playing tennis Description automatically
-generated](media_shot-selection-foundation-of-tactics/media/image12.webp)
+![A person playing tennis Description automatically generated](media_shot-selection-foundation-of-tactics/media/image12.webp)
 
-**How good is your backhand down the line\--really?**
+**How good is your backhand down the line--really?**
 
 The next question is, if you can hit it, and you do hit it, how is your
 opponent's court coverage? Can you hit some winners, or at least
@@ -362,9 +339,7 @@ is the same. How comfortable and confident am I making this shot?
 That's something you basically should know coming into any match. Is it
 the 100% shot, or the 30% shot or somewhere in between?
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_shot-selection-foundation-of-tactics/media/image13.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_shot-selection-foundation-of-tactics/media/image13.webp)
 
 **What if it's neutral but then you get pushed back?**
 
@@ -382,8 +357,7 @@ at the least, make your opponent hit one more ball.]** Or, under
 somewhat extreme circumstances such as the scenario at the top of the
 article, it may make sense to go for broke and attempt to hit a winner.
 
-![A person playing tennis Description automatically
-generated](media_shot-selection-foundation-of-tactics/media/image14.webp)
+![A person playing tennis Description automatically generated](media_shot-selection-foundation-of-tactics/media/image14.webp)
 
 **The most aggressive choice: take the ball early up the line.**
 
@@ -409,8 +383,7 @@ attack.** Depending on how well you hit it, he may
 have to try to neutralize your ball and lose the advantage. Or he may be
 overeager and overhit and donate the point with an error.
 
-![A person playing tennis Description automatically
-generated](media_shot-selection-foundation-of-tactics/media/image15.webp)
+![A person playing tennis Description automatically generated](media_shot-selection-foundation-of-tactics/media/image15.webp)
 
 **How do you recover to neutral?**
 
@@ -433,8 +406,7 @@ On the other hand, you may find that the time you buy by putting the
 ball up is enough to recover to your forehand side. Now you are on a
 different exchange, forehand to forehand.
 
-![A person playing tennis Description automatically generated with low
-confidence](media_shot-selection-foundation-of-tactics/media/image16.webp)
+![A person playing tennis Description automatically generated with low confidence](media_shot-selection-foundation-of-tactics/media/image16.webp)
 
 **A less fearsome forehand on the deuce diagonal.**
 
@@ -456,14 +428,13 @@ forehand from a less favorable position. This had the added advantage of
 opening up his backhand side, and forcing him to hit more backhands on
 the run, which was a relative weakness in his game.
 
-![A person playing tennis Description automatically
-generated](media_shot-selection-foundation-of-tactics/media/image17.webp)
+![A person playing tennis Description automatically generated](media_shot-selection-foundation-of-tactics/media/image17.webp)
 
 **Great players sense the when the 30% shot is the right option.**
 
 **It's a great example of how the exchanges and patterns are all
 relative. What makes this so interesting is there again is no definitive
-answer. The \"best\" shot will vary from opponent to opponent, from day
+answer. The "best" shot will vary from opponent to opponent, from day
 to day and even from point to point. Geometry is obviously a big part of
 it, but execution, pace, and court movement are all factors that can tip
 the outcome of the exchange.**
@@ -474,7 +445,7 @@ aware, the choices they make indicate cognizance of the probable results
 of each option. They seem to know when that 30% shot is their best
 option.**
 
-**There is no perfect choice \-- it depends on what you can do, the
+**There is no perfect choice -- it depends on what you can do, the
 skill level and individual strengths and weaknesses of your opponent.
 The specific skills of each player create match-ups, and match-ups are
 one thing that makes the game so fascinating to play and to watch. It is
@@ -482,21 +453,16 @@ a matter of being able to force your opponent into situations that he
 does not like (or that you do) with enough frequency that you can
 control the match physically and psychologically.**
 
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![A person holding a tennis racket Description automatically                                                                                                                         Dave Hagler is a Tennis Professional based
-  generated](media_shot-selection-foundation-of-tactics/media/image18.jpeg)                                                                                                                                                                  players of all ages, but he has a special
-                                                                                                                                                                                       passion for junior development. He has
-                                                                                                                                                                                       coached numerous sectionally and nationally
-                                                                                                                                                                                       ranked junior players and several national
-                                                                                                                                                                                       champions. Dave is a USPTA Master
-                                                                                                                                                                                       Professional and National Tester, a PTR
-                                                                                                                                                                                       Master of Tennis -- Performance, and was
-                                                                                                                                                                                       one of the first 100 coaches to complete
-                                                                                                                                                                                       the USTA's High Performance Coaching
-                                                                                                                                                                                       Program. He has been the USPTA California
-                                                                                                                                                                                       Division Pro of the Year and one of 5
-                                                                                                                                                                                       National Recipients of the "Pro of the
-                                                                                                                                                                                       Year" award from Head and the PTR.
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ -------------------------------------------
-
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person holding a tennis racket Description automatically                                                                                                                         Dave Hagler is a Tennis Professional based generated](media_shot-selection-foundation-of-tactics/media/image18.jpeg)                                                                                                                                                                  players of all ages, but he has a special
+passion for junior development. He has
+coached numerous sectionally and nationally
+ranked junior players and several national
+champions. Dave is a USPTA Master
+Professional and National Tester, a PTR
+Master of Tennis -- Performance, and was
+one of the first 100 coaches to complete
+the USTA's High Performance Coaching
+Program. He has been the USPTA California
+Division Pro of the Year and one of 5
+National Recipients of the "Pro of the
+Year" award from Head and the PTR.

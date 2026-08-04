@@ -165,7 +165,7 @@ muscles. Hold the position up for a count of five or do five one inch
 bounces while in this position. This exercise can also be performed
 using a single leg balance on the ball.
 
-3\. "Superman Toss"
+3. "Superman Toss"
 
 Start: This drill requires a partner. Lie on your stomach facing your
 partner, extending your torso backward so that your arms and legs are
@@ -175,7 +175,7 @@ between you with your arms fully extended.
 Action: Keeping your arms and legs suspended, pass the ball to your
 partner from about chin level. Continue passing the ball 10-15 times.
 
-4\. "Reverse Hyperextension"
+4. "Reverse Hyperextension"
 
 Start: This exercise requires a table with a level surface. Begin by
 lying on your stomach with your legs hanging off the end of the table.
@@ -184,7 +184,7 @@ Grip the sides of the table firmly.
 Action: Raise your legs, holding them straight until they are just above
 parallel to the floor. Lower your legs quickly and repeat the action.
 
-5\. "Rotation with Extension"
+5. "Rotation with Extension"
 
 Start: This exercise is performed by starting in a "V" sit position with
 the medicine ball held behind the head.
@@ -194,7 +194,7 @@ left knee. Return to the sitting position by reversing the direction of
 movement. Alternate the right and left elbows and accelerate the return
 to the starting position.
 
-6\. "Backwards Toss"
+6. "Backwards Toss"
 
 Start: This drill can be performed using a partner or by throwing the
 ball against a solid wall. Hold the ball in front of you while standing.
@@ -204,7 +204,7 @@ reverse the squat and accelerate upward so that you throw the ball over
 your head to your partner or at the wall. Be careful to bend your knees,
 bend from your hips and keep your back straight throughout the motion.
 
-7\. "Over and Under"
+7. "Over and Under"
 
 Start: This drill requires a partner. Stand back to back with your
 partner with 18 inches between you. One person holds the ball over their
@@ -216,7 +216,7 @@ the action for the prescribed number of repetitions.
 
 **[Trunk Rotation Exercises]**
 
-1\. "Trunk Rotations"
+1. "Trunk Rotations"
 
 Start: Sit with your legs extended out in front of you, holding the
 ball.
@@ -227,7 +227,7 @@ direction. This exercise can also be done with a partner. Sit back to
 back, twist and pass the ball in a circle. Increasing the distance
 between you and your partner requires more twisting of your upper body.
 
-2\. "Hip Rolls"
+2. "Hip Rolls"
 
 Start: Lie on your back with your knees at 90 degrees and hold the ball
 by squeezing it between your knees. Extend arms out to the sides for
@@ -238,7 +238,7 @@ lightly touch the floor on each side. A variation of this exercise is
 obtained by sitting with your back at 45 degrees and to the floor while
 you rotate your hips.
 
-3\. "Russian Twist"
+3. "Russian Twist"
 
 Start: Sit with your back at a 45 degree angle to the floor, knees bent
 and together, and feet apart for balance.
@@ -246,7 +246,7 @@ and together, and feet apart for balance.
 Action: While holding the ball out in front of you with your arms fully
 extended, rotate your upper body and move the ball from side to side.
 
-4\. "Side Toss"
+4. "Side Toss"
 
 Start: This exercise requires a partner. Holding the ball on your right
 side, stand with your feet shoulder width apart.
@@ -255,7 +255,7 @@ Action: Swing the ball to your right and then forcefully reverse
 directions to your left and release it. You may toss the ball to a
 partner or throw it against a solid wall.
 
-5\. "Double Pump Toss"
+5. "Double Pump Toss"
 
 Start: This exercise requires a partner or a solid wall. Stand so that
 you are facing in opposite directions of your partner.
@@ -264,7 +264,7 @@ Action: Perform as a motion similar to the Side Toss. However, this time
 you rotate to both sides (rotate over and back) prior to releasing the
 ball on the throw. Repeat the exercise on both sides.
 
-6\. "Wall Push-Off"
+6. "Wall Push-Off"
 
 Start: Stand with your feet shoulder width apart and your back two feet
 from a wall.
@@ -275,7 +275,7 @@ so that your body is as close to parallel as possible. Push off the wall
 and twist your upper body left all the way around to reach the wall.
 Push off and repeat.
 
-7\. "Side-lying Leg Lifts"
+7. "Side-lying Leg Lifts"
 
 Start: This exercise requires a Swiss ball or table. Begin by lying on
 your side with your legs hanging off the end of Swiss ball or table. Be
@@ -302,41 +302,38 @@ that extra edge!
 
 **[References:]**
 
-1\. Chu, D.A., Plyometric Exercises with the Medicine Ball" 2nd Edition,
+1. Chu, D.A., Plyometric Exercises with the Medicine Ball" 2nd Edition,
 Bittersweet Publishing 2003
 
-2\. Ebben, W.P. and Watts, P.B. A Review of Combined Weight Training and
+2. Ebben, W.P. and Watts, P.B. A Review of Combined Weight Training and
 Plyometric Training Modes: Complex Training. Strength and Conditioning.
 18-26. Oct. 1998.
 
-3\. O'Connor, D.P. Application of Plyometrics to the Trunk. Athletic
+3. O'Connor, D.P. Application of Plyometrics to the Trunk. Athletic
 Therapy Today.
 
 4(3):36-40.1999.
 
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                                                                        ![A person in a suit smiling Description automatically generated with low
-        confidence](media_improving-core-strength-in-tennis-players/media/image1.jpeg)Donald Chu received his Ph.D. from Stanford University in 1974. His degree in Physical Therapy is also from Stanford. He has a Masters in
-  Kinesiology & Physical Education from CSU, Hayward. He is a professor emeritus from CSU, Hayward after a teaching career spanning over twenty years. During the time from 1997-
-   2001, Dr. Chu served as the Program Director of the Ohlone College Physical Therapist Assistant program. From 2001-2003, Dr. Chu served as the Director of Athletic Training &
-                                                                   Rehabilitation at Stanford University. He is currently Clinic Director of Athercare Fitness & Rehabilitation.\
-                                                                                                                                                                                \
-  He holds certifications as an Athletic Trainer (ATC) from the National Athletic Trainers Association (NATA) and as a Certified Strength and Conditioning Specialist (CSCS) from
-     the National Strength & Conditioning Association (NSCA). He has served on the Board of Directors for both organizations, and is a Past-President of the NSCA. Currently, Dr.
-              Chu is the President of the California State Board of Physical Therapy, and serves as a public member on the Board of Interior Design for the State of California.\
-                                                                                                                                                                                \
-     He is the author of "Jumping into Plyometrics, 2nd edition", "Power Tennis Training", "Explosive Strength & Power" (Human Kinetics publisher) and "Plyometric exercises with
-      the Medicine Ball, 2nd edition" (Bittersweet publishing). He has authored several chapters in books on Sports Medicine, particularly in both the area of rehabilitation and
-                                                                                                                                                        performance enhancement.\
-                                                                                                                                                                                \
-   Dr. Chu has consulted with elite athletes at every level on the development of training and conditioning programs. His past clients include athletes from the 1984, 88, 92, 96
-      and 2000 Summer Olympics, and Professional athletes from the NFL, NBA, and MLB. He designed training programs for 2002 Winter Olympic hopefuls in the skeleton, and bobsled
-        events. He also designed the strength & conditioning programs for Erica Wheeler, 2003 US National Champion in the Women's Javelin. He developed strength and conditioning
-                                                                                               programs for the Bronze Medal winning 2004 US Olympic Synchronized Swimming team.\
-                                                                                                                                                                                \
-   In addition to his specific work with athletes he does consulting with Physical Therapy practices on improving patient care, business development and expansion into the areas
-                                  of performance enhancement. He is also serving as an Expert Witness in litigation involving rehabilitation, fitness and physical therapy areas.
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-    ![link](media_improving-core-strength-in-tennis-players/media/image2.gif)
+![A person in a suit smiling Description automatically generated with low confidence](media_improving-core-strength-in-tennis-players/media/image1.jpeg)Donald Chu received his Ph.D. from Stanford University in 1974. His degree in Physical Therapy is also from Stanford. He has a Masters in
+Kinesiology & Physical Education from CSU, Hayward. He is a professor emeritus from CSU, Hayward after a teaching career spanning over twenty years. During the time from 1997-
+2001, Dr. Chu served as the Program Director of the Ohlone College Physical Therapist Assistant program. From 2001-2003, Dr. Chu served as the Director of Athletic Training &
+Rehabilitation at Stanford University. He is currently Clinic Director of Athercare Fitness & Rehabilitation.\
+\
+He holds certifications as an Athletic Trainer (ATC) from the National Athletic Trainers Association (NATA) and as a Certified Strength and Conditioning Specialist (CSCS) from
+the National Strength & Conditioning Association (NSCA). He has served on the Board of Directors for both organizations, and is a Past-President of the NSCA. Currently, Dr.
+Chu is the President of the California State Board of Physical Therapy, and serves as a public member on the Board of Interior Design for the State of California.\
+\
+He is the author of "Jumping into Plyometrics, 2nd edition", "Power Tennis Training", "Explosive Strength & Power" (Human Kinetics publisher) and "Plyometric exercises with
+the Medicine Ball, 2nd edition" (Bittersweet publishing). He has authored several chapters in books on Sports Medicine, particularly in both the area of rehabilitation and
+performance enhancement.\
+\
+Dr. Chu has consulted with elite athletes at every level on the development of training and conditioning programs. His past clients include athletes from the 1984, 88, 92, 96
+and 2000 Summer Olympics, and Professional athletes from the NFL, NBA, and MLB. He designed training programs for 2002 Winter Olympic hopefuls in the skeleton, and bobsled
+events. He also designed the strength & conditioning programs for Erica Wheeler, 2003 US National Champion in the Women's Javelin. He developed strength and conditioning
+programs for the Bronze Medal winning 2004 US Olympic Synchronized Swimming team.\
+\
+In addition to his specific work with athletes he does consulting with Physical Therapy practices on improving patient care, business development and expansion into the areas
+of performance enhancement. He is also serving as an Expert Witness in litigation involving rehabilitation, fitness and physical therapy areas.
+![Video demonstration](media_improving-core-strength-in-tennis-players/media/image2.gif)
 
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+*Video demonstration — the original video for this article was hosted on TennisPlayer.net.*

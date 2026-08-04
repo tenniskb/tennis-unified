@@ -2,9 +2,7 @@
 
 **Section Overview**
 
-![A person smiling for the camera Description automatically generated
-with medium
-confidence](media_strategy-toc/media/image1.jpeg)
+![A person smiling for the camera Description automatically generated with medium confidence](media_strategy-toc/media/image1.jpeg)
 
 John Yandell\
 Editor
@@ -22,8 +20,8 @@ statistics.
 
 The perspective I created for myself helped me beat players that I was
 losing to. It helped me beat players I wanted to beat (sometimes badly).
-It helped me beat players who considered themselves \"better\" than I
-wasand that many observers considered \"better\" as well.
+It helped me beat players who considered themselves "better" than I
+wasand that many observers considered "better" as well.
 
 So why is then that so many players would rather obsess over the details
 of their topspin backhand? What I've learned over the years, is that
@@ -40,10 +38,10 @@ making similar assessments of your opponents, and then putting two and
 two together.
 
 To give one example: in a high school tournament I showed up at the
-match of our #3 player to find her down 6-2, 1-0. \"She's just too
-good. She keeps killing her forehand!\" Caroline explained to me. I
-watched two games and on the changeover I told here one thing. \"From
-now on you will hit every ball to her backhand, period.\" The girl did
+match of our #3 player to find her down 6-2, 1-0. "She's just too
+good. She keeps killing her forehand!" Caroline explained to me. I
+watched two games and on the changeover I told here one thing. "From
+now on you will hit every ball to her backhand, period." The girl did
 have a great forehand, but surprisingly, a one-handed backhand with an
 extreme grip that she absolutely could not keep in the court.
 
@@ -54,8 +52,6 @@ win matches even if that inevitably meant some painful losses.
 
 So how about you? Do you care about your results as much as Caroline? If
 so dive in and get ready to get much happier with your results.
-
-------------------------------------------------------------------------
 
 **Craig O'Shannessy**
 
@@ -141,7 +137,7 @@ Control](The%20Strategy%20Zone%20-%20Serve%20Control.docx)
 Control](The%20Strategy%20Zone%20-%20Return%20Control.docx)
 
 [The Strategy Zone Phase 2:
-\"Hurt\"](The%20Strategy%20Zone%20-%20Phase%202%20Hurt.docx)
+"Hurt"](The%20Strategy%20Zone%20-%20Phase%202%20Hurt.docx)
 
 [The Strategy Zone: The Groundstroke
 Finishes](The%20Strategy%20Zone%20-%20Groundstroke%20Finishes.docx)

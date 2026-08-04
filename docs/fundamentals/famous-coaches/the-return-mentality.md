@@ -2,9 +2,7 @@
 
 ### Nick Bollettieri
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_the-return-mentality/media/image1.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_the-return-mentality/media/image1.webp)
 
 **The return of serve begins with attitude.**
 
@@ -23,9 +21,7 @@ plan.**
 In this article we'll start with the mind set. In the articles that
 follow we'll take about technique and game plans.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_the-return-mentality/media/image2.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_the-return-mentality/media/image2.webp)
 
 **You can't over emphasize the importance of making the server play.**
 
@@ -55,9 +51,7 @@ challenge!** This attitude underlies the
 sensational returns we see at critical moments in the pro matches. It's
 the attitude of players like Andre Agassi and Roger Federer.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_the-return-mentality/media/image3.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_the-return-mentality/media/image3.webp)
 
 **At the pro level, a little more than half second between serve and
 return.**
@@ -82,14 +76,12 @@ anticipate the action before it happens.**
 
 **To develop your anticipation skills and be able to execute the
 return, you must study how the server thinks.**
-**[[You do this by zeroing in on] [the server's patterns of
+**[You do this by zeroing in on] [the server's patterns of
 play. Like a super computer, great returners log the data of previous
 points played, looking for any trends or tendencies that may help them
-anticipate what the server will do.]]**
+anticipate what the server will do.]**
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_the-return-mentality/media/image4.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_the-return-mentality/media/image4.webp)
 
 **How accurate to all areas of the box?**
 
@@ -107,7 +99,7 @@ in their arsenal and the level of strategy he can employ.
 - **[Does this change when he is behind?]**
 
 - **[Is there a predictable pattern to the types and locations of his
-  first/and or second serves?]**
+first/and or second serves?]**
 
 **An intuitive returner can determine the server's preferred
 placements under pressure, as well as the placements that are more
@@ -124,9 +116,7 @@ almost all servers have them. Usually they are not difficult to
 recognize. Recognizing them is mainly a matter of awareness and
 discipline. Again this is where the majority of players fall short.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_the-return-mentality/media/image5.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_the-return-mentality/media/image5.webp)
 
 **Is there a pattern to the server's placement rotation?**
 
@@ -141,10 +131,10 @@ placements.**
 rotation**.
 
 - ***[A constant rotation means varying the placements, speeds and spins
-  as randomly as possible.]***
+as randomly as possible.]***
 
 - ***[A setup rotation means working one primary target more often to
-  setup better opportunities to attack the other targets.]***
+setup better opportunities to attack the other targets.]***
 
 Here is an example of a set up rotation. The server might attack your
 backhand side three or four points in a row. This may create an
@@ -153,8 +143,7 @@ force you to adjust your court position to better cover the backhand
 side. This is the point where the server will attack your forehand side,
 taking advantage of the opening you've created for him.
 
-![A person playing tennis Description automatically
-generated](media_the-return-mentality/media/image6.webp)
+![A person playing tennis Description automatically generated](media_the-return-mentality/media/image6.webp)
 
 **Constant rotation: spin, speed, and placement variation.**
 
@@ -181,9 +170,7 @@ he'll throw. Like the best pitchers, **the best servers try to keep
 the returner guessing and off balance by being unpredictable and rarely
 delivering the exact serve the returner expects.**
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_the-return-mentality/media/image7.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_the-return-mentality/media/image7.webp)
 
 **Be patient and establish your return rhythm.**
 
@@ -195,10 +182,10 @@ your return and creating chances to break.**
 
 In the beginning, give yourself time to adjust to what the server
 actually can do. Don't rush, take your time, and establish a feeling
-for your return against all his options. **[[The more variety he has,
+for your return against all his options. **[The more variety he has,
 the longer it may take to develop a rhythm.] [But developing a
 return rhythm is the goal, more than trying to gain an immediate
-break.]]** If that early break comes, great. But if
+break.]** If that early break comes, great. But if
 you aren't able to break serve early in the match, you cannot allow
 yourself to become frustrated.
 
@@ -206,8 +193,7 @@ You have to respect the good servers and give them credit. Remember,
 **if you can successfully hold your serve each time, all you need is
 one break of serve to win the set.**
 
-![A person playing tennis Description automatically
-generated](media_the-return-mentality/media/image8.webp)
+![A person playing tennis Description automatically generated](media_the-return-mentality/media/image8.webp)
 
 **Challenge the server with rhythm, timing, and court position.**
 
@@ -233,8 +219,7 @@ to float the return deep and neutralize the serves] of
 players like Andy Roddick who serve bombs but play from behind the
 baseline.**
 
-![A person playing tennis Description automatically generated with low
-confidence](media_the-return-mentality/media/image9.webp)
+![A person playing tennis Description automatically generated with low confidence](media_the-return-mentality/media/image9.webp)
 
 **The slice return neutralizes big servers who stay back.**
 
@@ -268,9 +253,7 @@ So now we've seen how the right mentality is a critical prerequisite
 for your return. Next let's look at return technique, and then, return
 game plans. Stay tuned.
 
-![A person wearing sunglasses Description automatically generated with
-medium
-confidence](media_the-return-mentality/media/image10.jpeg)
+![A person wearing sunglasses Description automatically generated with medium confidence](media_the-return-mentality/media/image10.jpeg)
 
 Nick Bollettieri is the legendary coach who invented the concept of the
 tennis academy more than 30 years ago. He has trained thousands of elite

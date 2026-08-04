@@ -1,7 +1,5 @@
 # Tennis Science
 
-------------------------------------------------------------------------
-
 **Joshua Speckman**
 
 Applying What We Know About Copoly

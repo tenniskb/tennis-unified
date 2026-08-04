@@ -28,12 +28,12 @@
 
 - 
 
-> [[\[Fundamental#2\] The Figure 8:
+> [[[Fundamental#2] The Figure 8:
 > Introduction]](javascript:void(0);)
 
 - 
 
-> [[\[Lesson\] How to Do the Figure 8]](javascript:void(0);)
+> [[[Lesson] How to Do the Figure 8]](javascript:void(0);)
 
 - 
 
@@ -44,7 +44,7 @@
 
 - 
 
-> [[\[Fundamental\] Core Fundamental 3: Sine
+> [[[Fundamental] Core Fundamental 3: Sine
 > Wave]](javascript:void(0);)
 
 - 
@@ -174,12 +174,12 @@
 
 - 
 
-> [[\[Drill\] "Castles" Knock 'em
+> [[[Drill] "Castles" Knock 'em
 > Down]](javascript:void(0);)
 
 - 
 
-> [[\[Drill\] 45º Short Court Hustle]](javascript:void(0);)
+> [[[Drill] 45º Short Court Hustle]](javascript:void(0);)
 
 - 
 
@@ -198,7 +198,7 @@
 
 - 
 
-> [[\[Drill\] Bump Up and Across
+> [[[Drill] Bump Up and Across
 > Volleys]](javascript:void(0);)
 
 - 
@@ -212,22 +212,22 @@
 
 - 
 
-> [[\[Drill\] La Crosse Training]](javascript:void(0);)
+> [[[Drill] La Crosse Training]](javascript:void(0);)
 
 - 
 
-> [[\[Drill\] The Clacker Drill for
+> [[[Drill] The Clacker Drill for
 > Volleys]](javascript:void(0);)
 
 ##### • Serve Drills 
 
 - 
 
-> [[\[Drill\] Step & Toss and Serve]](javascript:void(0);)
+> [[[Drill] Step & Toss and Serve]](javascript:void(0);)
 
 - 
 
-> [[\[Drill\] Toss and Catch Serve]](javascript:void(0);)
+> [[[Drill] Toss and Catch Serve]](javascript:void(0);)
 
 - 
 
@@ -245,7 +245,7 @@
 
 - 
 
-> [[\[Drill\] Two Racket Drills: Clacker and
+> [[[Drill] Two Racket Drills: Clacker and
 > 8]](javascript:void(0);)
 
 ##### • Trick Shots 
@@ -282,12 +282,9 @@
 
 - [[Volleys and Overhead]](javascript:void(0);)
 
-![A picture containing graphical user interface Description
-automatically
-generated](media_non-linear-tennis-system/media/image1.jpeg)
+![A picture containing graphical user interface Description automatically generated](media_non-linear-tennis-system/media/image1.jpeg)
 
-![Jack Broudy - Founder of the Non-Linear Tennis
-System](media_non-linear-tennis-system/media/image2.jpeg)
+![Jack Broudy - Founder of the Non-Linear Tennis System](media_non-linear-tennis-system/media/image2.jpeg)
 
 Jack Broudy from Broudy Tennis. Jack is a tennis player, coach, author,
 speaker, and inventor. He's coached college national champions, top US

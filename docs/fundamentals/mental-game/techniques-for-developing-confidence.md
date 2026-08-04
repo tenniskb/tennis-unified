@@ -4,11 +4,7 @@
 
 ### Ben Loeb
 
-------------------------------------------------------------------------
-
-![A group of people in green uniforms Description automatically
-generated with low
-confidence](media_techniques-for-developing-confidence/media/image1.jpg)
+![A group of people in green uniforms Description automatically generated with low confidence](media_techniques-for-developing-confidence/media/image1.jpg)
 
 **You can use the same techniques to build your confidence as I have
 with my state championship teams.**
@@ -39,8 +35,7 @@ starts well before actual play.
 Visualize yourself or you and your teammates going through your pre-game
 stretch and movement routine. Then visualize your warm-up.
 
-![A person hitting a ball with a tennis racket Description automatically
-generated](media_techniques-for-developing-confidence/media/image2.jpg)
+![A person hitting a ball with a tennis racket Description automatically generated](media_techniques-for-developing-confidence/media/image2.jpg)
 
 **Tell yourself you will hit a great return when you have break point.**
 
@@ -83,7 +78,9 @@ the contest, and it also allows you to imagine how you will handle any
 type of adversity. Use mental imagery to picture yourself being relaxed
 and in a state of flow.
 
-![link](media_techniques-for-developing-confidence/media/image3.jpg)
+![Video demonstration](media_techniques-for-developing-confidence/media/image3.jpg)
+
+*Video demonstration — the original video for this article was hosted on TennisPlayer.net.*
 
 **The color blue represents, confidence, boldness, calmness.**
 
@@ -98,8 +95,8 @@ refocus on your current task from a strong and stable peace of mind.
 **Present Focus**
 
 Focusing on the present helps with confidence because it keeps you away
-from \"what ifs.\" What if I double fault?\" The list of possible
-negative consequences and \"what-if\" scenarios goes on and on in
+from "what ifs." What if I double fault?" The list of possible
+negative consequences and "what-if" scenarios goes on and on in
 tennis.
 
 **If you focus on the here and now, you perform in the moment. When
@@ -109,15 +106,14 @@ confidence.**
 **To achieve this focus on process, you must concentrate on the things
 that you can control. Some examples of these are practice efficiency and
 intensity, routines, game plans, technique assessment, and reaction to
-your own thoughts and feelings\--even your reaction to the ebbs and
+your own thoughts and feelings--even your reaction to the ebbs and
 flows in your confidence itself.**
 
 **Focus on these controllable elements, instead of uncontrollable
 factors like the weather, what other people think or say, or the
 coaches' decisions.**
 
-![A person hitting a ball with a tennis racket Description automatically
-generated](media_techniques-for-developing-confidence/media/image4.jpg)
+![A person hitting a ball with a tennis racket Description automatically generated](media_techniques-for-developing-confidence/media/image4.jpg)
 
 **Do you think Rafa looks focused on the process?**
 
@@ -139,7 +135,7 @@ your own performance and personal improvement physically, mentally, and
 emotionally. Focus on what you need to do to improve individually or as
 a team. When you experience improvement, your confidence will grow.
 
-In discovering \"the right process for you,\" you will come to realize
+In discovering "the right process for you," you will come to realize
 that your confidence will fluctuate. Consequently, don't get upset with
 yourself when your confidence goes down. Focus on what you need to do
 and how you need to think to get your confidence going again.
@@ -150,9 +146,7 @@ It is common in competitive athletics to be results oriented. Some
 players are obsessed with results. We absolutely hate to lose, and we
 love to win.
 
-![A person and person holding a plaque Description automatically
-generated with low
-confidence](media_techniques-for-developing-confidence/media/image5.jpg)
+![A person and person holding a plaque Description automatically generated with low confidence](media_techniques-for-developing-confidence/media/image5.jpg)
 
 **The paradox is that to achieve results you have to ignore them.**
 
@@ -188,8 +182,7 @@ from your optimal focus in the moment and creates unnecessary stress.
 The bottom line is that when an athlete focuses on the outcome, they are
 far less likely to get the outcome they want.
 
-![A person hitting a ball with a tennis racket Description automatically
-generated](media_techniques-for-developing-confidence/media/image6.jpg)
+![A person hitting a ball with a tennis racket Description automatically generated](media_techniques-for-developing-confidence/media/image6.jpg)
 
 **Focusing on the process that creates winning, not winning itself.**
 
@@ -226,9 +219,7 @@ part of your tennis life. They have the proven potential to help you
 deal with whatever arises in your matches and play your best regardless
 of circumstances.
 
-![A person smiling for the camera Description automatically generated
-with medium
-confidence](media_techniques-for-developing-confidence/media/image7.jpeg)
+![A person smiling for the camera Description automatically generated with medium confidence](media_techniques-for-developing-confidence/media/image7.jpeg)
 
 Ben Loeb has been the varsity tennis coach for the boys' and girls'
 teams at Rock Bridge High School in Columbia, Missouri for over 30
@@ -239,8 +230,7 @@ and has used the principles he has developed to help hundreds of players
 to overcome the mental and emotional challenges of playing winning
 competitive tennis.
 
-![A cover of a book Description automatically generated with medium
-confidence](media_techniques-for-developing-confidence/media/image8.jpeg)
+![A cover of a book Description automatically generated with medium confidence](media_techniques-for-developing-confidence/media/image8.jpeg)
 
 **Next-Level Coaching!**
 
@@ -252,5 +242,3 @@ and plans of action to help any player our coach use sports psychology
 to reach the next level.
 
 To Order Next-Level Coaching, [!](https://www.amazon.com/Next-Level-Coaching-Psychology-Student-Athlete-Performance/dp/1632991772/ref=sr_1_1?crid=2XO9EVQF6XBZA&keywords=ben+loeb&qid=1552685920&s=gateway&sprefix=Ben+Loeb%2Caps%2C187&sr=8-1)
-
-------------------------------------------------------------------------

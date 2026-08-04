@@ -6,11 +6,10 @@
 
 When it comes to the backhand volley, we'll see that many of the same
 principles we learned on the forehand volleys still apply. There are
-also a variety of backhand volleys\--block volleys, low volleys, drop
+also a variety of backhand volleys--block volleys, low volleys, drop
 volleys, even the swinging backhand volley. So let's get started!
 
-![A person playing tennis Description automatically
-generated](media_the-backhand-volley/media/image1.webp)
+![A person playing tennis Description automatically generated](media_the-backhand-volley/media/image1.webp)
 
 **What are the basic principles of a great backhand volley?**
 
@@ -25,36 +24,30 @@ Maintaining this strong wrist position provides solid support to the
 racquet face at contact for the various types of backhand volleys. Watch
 how it never breaks down in the course of the motion.
 
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                             ![A person holding a tennis racket Description automatically generated with medium                                                                                             ![A person playing tennis Description automatically generated with medium
-   confidence](media_the-backhand-volley/media/image2.jpg)
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                             **The continental grip is more critical on the backhand than the forehand volley.**                                                                                              **The \"Big L\" position is the key to supporting the racquet face.**
+![A person holding a tennis racket Description automatically generated with medium                                                                                             ![A person playing tennis Description automatically generated with medium confidence](media_the-backhand-volley/media/image2.jpg)
+**The continental grip is more critical on the backhand than the forehand volley.**                                                                                              **The "Big L" position is the key to supporting the racquet face.**
 
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**Preparation**
 
-| **Preparation** |  |
-| --- | --- |
-|  |  |
-| Let's look first at the preparation. |  |
-|  |  |
-| To execute the basic **one handed backhand volley**, **[your first reaction is a hip and shoulder turn so that your body is facing the point of contact.]** |  |
-| **[The first move is [with the feet and the torso], not the racket.] With the help of your opposite hand on the throat of the racquet**, **you |  |
-| prepare the racquet head so that it is positioned back near your opposite shoulder.** You want to **avoid taking the racquet head too far |  |
-| back, getting it behind your body in your preparation.** |  |
-|  |  |
-| In this position, **your hitting arm is bent and your elbow is centered between your shoulders.** |  |
-|  |  |
-| ![A person playing ping pong Description automatically generated with medium |  |
-| confidence](media_the-backhand-volley/media/image4.webp) |  |
+Let's look first at the preparation.
 
-|                                                                                                                                                                         +------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-|  | ![A picture containing sky, outdoor, sport, athletic game Description automatically |
-| --- | --- |
-|  | generated](media_the-backhand-volley/media/image5.webp) |
-|  |  |
-|  | **The backhand volley begins with a hip and shoulder turn.** |
+To execute the basic **one handed backhand volley**, **[your first reaction is a hip and shoulder turn so that your body is facing the point of contact.]**
 
+**[The first move is [with the feet and the torso], not the racket.] With the help of your opposite hand on the throat of the racquet**, **you
+
+prepare the racquet head so that it is positioned back near your opposite shoulder.** You want to **avoid taking the racquet head too far
+
+back, getting it behind your body in your preparation.**
+
+In this position, **your hitting arm is bent and your elbow is centered between your shoulders.**
+
+![A person playing ping pong Description automatically generated with medium confidence](media_the-backhand-volley/media/image4.webp)
+
++------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+![A picture containing sky, outdoor, sport, athletic game Description automatically generated](media_the-backhand-volley/media/image5.webp)
+
+**The backhand volley begins with a hip and shoulder turn.**
 
 **Volley standing close to the back fence to test the size of your
 backswing.**
@@ -67,9 +60,7 @@ reflex volley with your partner. If your racquet head hits the fence in
 your preparation, you have too much back swing. Make yourself come
 forward to volley in this drill, then recover back against the fence.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_the-backhand-volley/media/image6.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_the-backhand-volley/media/image6.webp)
 
 **Contact is between the shoulders with the arm straightening out and
 the face slightly open.**
@@ -85,8 +76,7 @@ between the shoulders.** **You want to make
 contact just before your arm straightens out completely which leaves you
 with a minimal follow through after contact.**\
 \
-![A person playing tennis Description automatically
-generated](media_the-backhand-volley/media/image7.webp)
+![A person playing tennis Description automatically generated](media_the-backhand-volley/media/image7.webp)
 
 **The arms move in opposite directions keeping the shoulders sideways.**
 
@@ -101,8 +91,7 @@ posture stays upright and strong. You'll find in the heat of battle
 that your opposite arm will work naturally to help you control your
 balance.
 
-![A person playing tennis Description automatically
-generated](media_the-backhand-volley/media/image8.webp)
+![A person playing tennis Description automatically generated](media_the-backhand-volley/media/image8.webp)
 
 **On the drop volley the racket head recoils taking pace off the shot.**
 
@@ -119,9 +108,7 @@ and racquet again work like a shock absorber.** **On impact, the
 racquet head will flex and recoil, taking the majority of the pace off
 the ball.**
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_the-backhand-volley/media/image9.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_the-backhand-volley/media/image9.webp)
 
 **Moving the contact forward creates the angle volley.**
 
@@ -131,29 +118,27 @@ Depending on the situation, you can create angle volleys two different
 ways.
 
 1.  When the ball is well within your reach, **[by moving your contact
-    point forward and making contact earlier]**, you can
-    position the racquet face at the desired angle to create the shot.
+point forward and making contact earlier]**, you can
+position the racquet face at the desired angle to create the shot.
 
-**\<\<Using shoulder turn and legs drive to generate the
-momentum\>\>**
+**<<Using shoulder turn and legs drive to generate the
+momentum>>**
 
 2.  Or you can **[create the angle in the racquet face by changing your
-    wrist position,]** a technique you must learn to be able
-    to angle on the full reaching lunge volleys. When the ball is nearly
-    out of reach, the opposite arm will separate early to help maintain
-    upper body control and balance as you reach beyond your stance.
+wrist position,]** a technique you must learn to be able
+to angle on the full reaching lunge volleys. When the ball is nearly
+out of reach, the opposite arm will separate early to help maintain
+upper body control and balance as you reach beyond your stance.
 
-**\<\< Using the wrist snap to change the ball direction and create
-the momentum \>\>**
+**<< Using the wrist snap to change the ball direction and create
+the momentum >>**
 
 Be confident that you'll regain your balance after making contact on a
 full lunge, or fear will keep you from going for it. Even if you can't
 make the shot, you'll still establish in the opponent's mind that you
 can create a wider wall of defense and range of coverage.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_the-backhand-volley/media/image10.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_the-backhand-volley/media/image10.webp)
 
 **The low volley: good knee bend and a slightly open racquet face.**
 
@@ -168,9 +153,7 @@ depth.**
 ***[Remember, the opponent has you in a forcing situation. Don't rush
 through it or you will increase your risk of error.]***
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_the-backhand-volley/media/image11.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_the-backhand-volley/media/image11.webp)
 
 **A perfect example of positioning the racquet face behind the bounce on
 the half volley.**
@@ -192,8 +175,7 @@ pass freely, like a pendulum across the body. Using the block technique,
 you maintain firmness in your arm and racquet to achieve depth on the
 volley.**
 
-![A person playing tennis Description automatically
-generated](media_the-backhand-volley/media/image12.webp)
+![A person playing tennis Description automatically generated](media_the-backhand-volley/media/image12.webp)
 
 **Line up the butt of the racquet with the ball and drive it forward and
 down on the high volley.**
@@ -203,14 +185,12 @@ down on the high volley.**
 **On the high backhand volley, when the incoming ball is more of a
 floater and you need to add some pop to fill the opening in the court,
 you prepare the butt of the racquet so that it points more upward
-towards contact.** **[[The forward action begins by
+towards contact.** **[The forward action begins by
 driving the butt of the racquet forward and down, sending the racquet
 face up into contact as] [you maintain the L shaped position of
-leverage in your wrist.]]**
+leverage in your wrist.]**
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_the-backhand-volley/media/image13.webp)\
+![A person playing tennis Description automatically generated with medium confidence](media_the-backhand-volley/media/image13.webp)\
 **The swinging backhand volley is a compact version of the
 groundstroke.**
 
@@ -238,9 +218,7 @@ attacking tennis into your overall game. For that reason we let a lot of
 junior players volley with two hands at first, and later on go to one
 hand.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_the-backhand-volley/media/image14.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_the-backhand-volley/media/image14.webp)
 
 **Using two hands can help young players develop the backhand volley.**
 
@@ -252,9 +230,7 @@ bottom hand works to control the racquet head, the top hand provides
 added support through contact, then releases off the racquet after
 contact.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_the-backhand-volley/media/image15.webp)\
+![A person playing tennis Description automatically generated with medium confidence](media_the-backhand-volley/media/image15.webp)\
 \
 **Eventually a one-handed volley is essential for coverage and reach.**
 
@@ -268,9 +244,7 @@ maximize your threat at net.** **So you must
 develop the skill of working with just one hand as
 well.**
 
-![A person wearing sunglasses Description automatically generated with
-medium
-confidence](media_the-backhand-volley/media/image16.jpeg)
+![A person wearing sunglasses Description automatically generated with medium confidence](media_the-backhand-volley/media/image16.jpeg)
 
 Nick Bollettieri is the legendary coach who invented the concept of the
 tennis academy more than 30 years ago. He has trained thousands of elite

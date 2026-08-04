@@ -2,9 +2,7 @@
 
 ### with John Yandell
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_learning-from-the-pros/media/image1.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_learning-from-the-pros/media/image1.webp)
 
 **People overlook the fact that my style was based on playing the
 percentages and forcing opponent's to beat me with better shot
@@ -38,13 +36,8 @@ Sampras's serve. Usually at the club level players have glaring
 weaknesses that can be exploited by playing the right shots and/or
 patterns.
 
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                   ![A person playing tennis Description automatically generated with medium
-   confidence](media_learning-from-the-pros/media/image2.jpg)
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                     **For Hewitt, court coverage is a weapon that wears down opponents.**
-
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person playing tennis Description automatically generated with medium confidence](media_learning-from-the-pros/media/image2.jpg)
+**For Hewitt, court coverage is a weapon that wears down opponents.**
 
 ### Strategy and Percentages
 
@@ -68,13 +61,8 @@ Being left-handed, I developed the ability to serve wide, especially in
 the ad court, and this led to a lot of easy volleys and easy points on
 my serve. Other players have their own favorite patterns.
 
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                   ![A person playing tennis Description automatically generated with medium
-   confidence](media_learning-from-the-pros/media/image3.jpg)
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                               **One reason Pete's first serve has been so great: it goes in 60% of the time.**
-
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person playing tennis Description automatically generated with medium confidence](media_learning-from-the-pros/media/image3.jpg)
+**One reason Pete's first serve has been so great: it goes in 60% of the time.**
 
 Agassi can work the backhand crosscourt until he gets ahead and goes
 down the line. Or he can run around his backhand and smack forehands
@@ -101,13 +89,8 @@ them. If you follow just these simple points and are able to incorporate
 them, you'll be way ahead of the game and will probably start to win a
 lot more matches.
 
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                           ![A person sitting at a table Description automatically generated with medium
-   confidence](media_learning-from-the-pros/media/image4.webp)
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                       **If your forehand is your weapon, run around your backhand and attack short balls.**
-
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person sitting at a table Description automatically generated with medium confidence](media_learning-from-the-pros/media/image4.webp)
+**If your forehand is your weapon, run around your backhand and attack short balls.**
 
 **Serving a high percentage on your first serve:** Watch Pete. Over his
 career he's served around 60% on his first serve, and he always seems
@@ -133,25 +116,20 @@ in. You don't necessarily have to blast the ball. Most club players
 have much better forehands than backhands, but you rarely see them run
 around the ball.
 
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                    ![A picture containing text, outdoor, person Description automatically
-   generated](media_learning-from-the-pros/media/image5.webp)
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                             **You don't have to blast return winners to take advantage of weak second serves.**
-
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A picture containing text, outdoor, person Description automatically generated](media_learning-from-the-pros/media/image5.webp)
+**You don't have to blast return winners to take advantage of weak second serves.**
 
 **Trying to pressure weak serves:** Watch all the successful pros!
 Breaking serve is obviously critical in pro tennis. It could be even
 more important in club tennis, since fewer players hold serve routinely.
 
-**[[To return well at the club level, it's generally a matter of just
+**[To return well at the club level, it's generally a matter of just
 getting a high percentage of serves back in play. It doesn't help to
 hit huge returns that hit the fence in the air. But you should
 definitely pressure weaker serves, especially the second.] [This
 is more a matter of getting ahead with a good placement, or chipping and
 going in, or even hitting a drop shot against a really soft
-serve.]]**
+serve.]**
 
 ### Be Flexible - Change a Losing Strategy
 
@@ -159,13 +137,8 @@ These are some of the elements you need to consider in deciding how to
 play certain opponents. One general point: if your strategy isn't
 working, you need to be flexible.
 
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                         ![A person holding a tennis racket Description automatically
-   generated](media_learning-from-the-pros/media/image6.jpg)
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                        **If you hang in matches when you're behind, like Andre at the French, anything can happen!**
-
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person holding a tennis racket Description automatically generated](media_learning-from-the-pros/media/image6.jpg)
+**If you hang in matches when you're behind, like Andre at the French, anything can happen!**
 
 At a time in my career when I was losing to Ivan Lendl, the great Don
 Budge gave me a suggestion. Come in down the middle to take away the
@@ -174,7 +147,7 @@ reverse his dominance of our rivalry. You can have the most brilliant
 strategy in the world but if it doesn't work, then it doesn't really
 matter how brilliant it was.
 
-One final, intangible factor is what I call \"tennis guts.\" This can
+One final, intangible factor is what I call "tennis guts." This can
 really be the difference. A lot of players, even at the pro level, tend
 to give up when they get behind or things aren't going their way. In my
 career I won a lot of matches just on my intensity. You never know

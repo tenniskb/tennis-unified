@@ -23,9 +23,13 @@ David's work is based on two decades of study of the world's best
 players. Check out his articles in the Footwork section with footage
 from live pro play! ([!](https://www.tennisplayer.net/members/footwork/footwork.html))
 
-![link](media_the-golden-move-4-the-back-foot-hop/media/image1.png)
+![Video demonstration](media_the-golden-move-4-the-back-foot-hop/media/image1.png)
 
-![link](media_the-golden-move-4-the-back-foot-hop/media/image2.jpeg)
+*Video demonstration — the original video for this article was hosted on TennisPlayer.net.*
+
+![Video demonstration](media_the-golden-move-4-the-back-foot-hop/media/image2.jpeg)
+
+*Video demonstration — the original video for this article was hosted on TennisPlayer.net.*
 
 David Bailey is a native Australian who has spent 15 years studying
 tennis at the professional level. He has developed a new language for

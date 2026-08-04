@@ -2,11 +2,7 @@
 
 ### David Sammel
 
-------------------------------------------------------------------------
-
-![A person holding a light up in front of a crowd Description
-automatically generated with low
-confidence](media_the-ladder-of-gain/media/image1.jpg)
+![A person holding a light up in front of a crowd Description automatically generated with low confidence](media_the-ladder-of-gain/media/image1.jpg)
 
 **Winning one more set made Nadal Wimbledon champion.**
 
@@ -19,15 +15,15 @@ has to lose, only at what he has to gain.
 An example is his 5 set Wimbledon win over Roger Federer in 2008. In
 that match he had lead two sets to love and missed out on two match
 points. After the match a tennis writer asked how he overcame that
-\"disappointment.\"
+"disappointment."
 
 **His answer was this:**
 
-\"Disappointment? Are you crazy? I have only one more set to win. All my
+"Disappointment? Are you crazy? I have only one more set to win. All my
 life I dream of winning Wimbledon and still the opportunity is so big! I
 focus on holding my serve and I know that if I can hold my serve then
 when we are maybe 3-3 Roger must know he must beat me. And this is
-difficult, no?\"
+difficult, no?"
 
 Nadal played to gain a Wimbledon title and he succeeded. But how does
 the average player acquire this mentality? How can you develop an
@@ -37,9 +33,7 @@ My suggestion is to picture and understand the following. Visualize a
 ladder that you have to climb to the top of a 250 meter building. There
 is a resting platform every 30 meters.
 
-![A picture containing sky, outdoor, clouds, cloudy Description
-automatically
-generated](media_the-ladder-of-gain/media/image2.jpeg)
+![A picture containing sky, outdoor, clouds, cloudy Description automatically generated](media_the-ladder-of-gain/media/image2.jpeg)
 
 **Visualize a ladder to the top of the building.**
 
@@ -71,9 +65,7 @@ problems. You begin to compare yourself to other players and how far
 they are up their own ladders. You notice the wind and worry how it will
 feel higher up.
 
-![A picture containing green, building, roulette, stadium Description
-automatically
-generated](media_the-ladder-of-gain/media/image3.jpg)
+![A picture containing green, building, roulette, stadium Description automatically generated](media_the-ladder-of-gain/media/image3.jpg)
 
 **As you climb the ground can start to seem a long way down.**
 
@@ -94,17 +86,15 @@ keep working until you are capable of climbing to the next rung.
 
 Whatever the score, do everything you can to gain the next point. If you
 can enough points you gain a game. Again, in the words of Rafael Nadal
-\"you just try to play tough and focus point for point. Sounds so boring
-but it's the right thing to do.\"
+"you just try to play tough and focus point for point. Sounds so boring
+but it's the right thing to do."
 
 There is little value in focusing on how long you have been stuck on the
 same rung. The job is to get better and stronger. Every player faces
 obstacles and is tempted to quit, or go back down the ladder, or settle
 at one of the resting places.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_the-ladder-of-gain/media/image4.jpg)
+![A person playing tennis Description automatically generated with medium confidence](media_the-ladder-of-gain/media/image4.jpg)
 
 **Focus point to point: boring but right.**
 
@@ -136,9 +126,7 @@ keep focused on your climb.**
 comes the responsibility to choose widely. Who do you tune
 into?**
 
-![A couple of men playing tennis Description automatically generated
-with medium
-confidence](media_the-ladder-of-gain/media/image5.jpg)
+![A couple of men playing tennis Description automatically generated with medium confidence](media_the-ladder-of-gain/media/image5.jpg)
 
 **Between stages take only an occasional glance down.**
 
@@ -172,8 +160,7 @@ are too many distractions. Tiger Woods was an example of a dominant
 force whose ability to perform was weakened due to the huge disruptions
 in his private life.**
 
-![A picture containing person Description automatically
-generated](media_the-ladder-of-gain/media/image6.jpg)
+![A picture containing person Description automatically generated](media_the-ladder-of-gain/media/image6.jpg)
 
 **A dominant force can be weakened by disruptions in private life.**
 
@@ -205,43 +192,66 @@ block the destructive voices. Keep it simple no matter where you are on
 the ladder. Gain the next point, the next game, the next set, and the
 next match.**
 
-| ![A picture containing person, person, indoor, posing Description automatically | David Sammel is a registered ATP tour coach |
-| --- | --- |
-| generated](media_the-ladder-of-gain/media/image7.jpeg) | professional sport. He has spent 25 years |
-|  | coaching international players, has been a |
-|  | national coach for the Lawn Tennis |
-|  | Association, and was named one of the world's |
-|  | top 50 coaches by Nike. He is the head coach |
-|  | of Team Bath-Monte Carlo Tennis Academy |
-|  | located at the University of Bath, Bath |
-|  | England. He is a regular contributor in |
-|  | British media and tennis commentary and an |
-|  | editor for Tennishead Magazine. |
-|  |  |
-|  | [link](http://www.teambathmcta.com/) for |
-|  | More Information on the Academy |
+![A picture containing person, person, indoor, posing Description automatically generated](media_the-ladder-of-gain/media/image7.jpeg)
 
+David Sammel is a registered ATP tour coach
 
-| ![A person holding a microphone Description automatically generated with medium | When you think about the most successful |
-| --- | --- |
-| confidence](media_the-ladder-of-gain/media/image8.jpeg) | one of them has a certain aura and invincibility |
-|  | in the way they present themselves in sport and |
-|  | to the world. Sometimes mistaken for arrogance, |
-|  | this self-belief is essential in succeeding in |
-|  | professional sport and in life in general too. |
-|  |  |
-|  | The best believe they're the best and they make |
-|  | their opponents believe they're the best too. |
-|  | Locker Room Power: Building an Athlete's Mind, |
-|  | describes and examines David's coaching |
-|  | philosophy, which is drawn from his relentless |
-|  | drive to help people improve at their game, |
-|  | utilizing his vast experience, knowledge and |
-|  | understanding of the mental aptitude required to |
-|  | succeed as a professional sportsperson. |
-|  |  |
-|  | [ to |
-|  | Order!](http://www.lockerroompower.com/buy-now/) |
+professional sport. He has spent 25 years
 
+coaching international players, has been a
 
-------------------------------------------------------------------------
+national coach for the Lawn Tennis
+
+Association, and was named one of the world's
+
+top 50 coaches by Nike. He is the head coach
+
+of Team Bath-Monte Carlo Tennis Academy
+
+located at the University of Bath, Bath
+
+England. He is a regular contributor in
+
+British media and tennis commentary and an
+
+editor for Tennishead Magazine.
+
+[link](http://www.teambathmcta.com/) for
+
+More Information on the Academy
+
+![A person holding a microphone Description automatically generated with medium confidence](media_the-ladder-of-gain/media/image8.jpeg)
+
+When you think about the most successful
+
+one of them has a certain aura and invincibility
+
+in the way they present themselves in sport and
+
+to the world. Sometimes mistaken for arrogance,
+
+this self-belief is essential in succeeding in
+
+professional sport and in life in general too.
+
+The best believe they're the best and they make
+
+their opponents believe they're the best too.
+
+Locker Room Power: Building an Athlete's Mind,
+
+describes and examines David's coaching
+
+philosophy, which is drawn from his relentless
+
+drive to help people improve at their game,
+
+utilizing his vast experience, knowledge and
+
+understanding of the mental aptitude required to
+
+succeed as a professional sportsperson.
+
+[ to
+
+Order!](http://www.lockerroompower.com/buy-now/)

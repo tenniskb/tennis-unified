@@ -2,10 +2,7 @@
 
 ### Nick Bollettierri with Lance Luciani
 
-------------------------------------------------------------------------
-
-![A person playing tennis Description automatically
-generated](media_the-strategy-zone-introduction/media/image1.webp)
+![A person playing tennis Description automatically generated](media_the-strategy-zone-introduction/media/image1.webp)
 
 **Winning tennis is much more than just hitting the ball.**
 
@@ -30,9 +27,7 @@ the game. Hitting the ball to certain places is another part of the
 game. Putting these two factors together creates the total package you,
 or any player, needs to win.**
 
-![A person holding a tennis racket Description automatically generated
-with medium
-confidence](media_the-strategy-zone-introduction/media/image2.webp)
+![A person holding a tennis racket Description automatically generated with medium confidence](media_the-strategy-zone-introduction/media/image2.webp)
 
 **How do the world's best players develop their games strategically?**
 
@@ -53,7 +48,7 @@ Finish.**
 The Strategy Zone then shows you how these 3 phases can be combined to
 build points intelligently. **If you want to win matches, your goal
 should be to use these phases to set up routine winners, winners that
-you can hit match in and match out\--not just the highlight shots on
+you can hit match in and match out--not just the highlight shots on
 television.**
 
 Strategy Zone is the first complete system developed to build these
@@ -62,9 +57,7 @@ involved in competitive tennis at all levels: coaches, players, and
 parents. And now we are going to share that system with you here on
 Tennisplayer.
 
-![A picture containing athletic game, tennis, match Description
-automatically
-generated](media_the-strategy-zone-introduction/media/image3.webp)
+![A picture containing athletic game, tennis, match Description automatically generated](media_the-strategy-zone-introduction/media/image3.webp)
 
 **Control, Hurt, Finish: Andre shows how it's done.**
 
@@ -112,9 +105,7 @@ ball.** **By serving down the T you give your
 opponent less time to prepare, and quite often they will give you a
 defensive shot giving you control.**
 
-![A tennis player is holding a racket Description automatically
-generated with low
-confidence](media_the-strategy-zone-introduction/media/image4.webp)
+![A tennis player is holding a racket Description automatically generated with low confidence](media_the-strategy-zone-introduction/media/image4.webp)
 
 **Serve placements let you take control with the first shot.**
 
@@ -124,9 +115,7 @@ placements.** **Justine Henin uses her serve like
 a magician to do the same thing. She gains control with the T serve, and
 with 2 additional shots she wins the point.**
 
-![A tennis player is swinging his racket Description automatically
-generated with low
-confidence](media_the-strategy-zone-introduction/media/image5.webp)
+![A tennis player is swinging his racket Description automatically generated with low confidence](media_the-strategy-zone-introduction/media/image5.webp)
 
 **Placing your return is the second aspect of control.**
 
@@ -141,11 +130,11 @@ control.**
 
 **The sharp angled return of serve, particularly on the second serve,
 can take your opponent wide out of the court and put them on the
-defensive.** **[[The goal is to take him inside the
+defensive.** **[The goal is to take him inside the
 baseline, and outside the singles sideline.] [Don't think only
 of returning north and south on the second ball. This angled return can
 also put mental pressure on the server and make him more tentative in
-his delivery.]]** Agassi and Monica Seles were
+his delivery.]** Agassi and Monica Seles were
 masters of this return, as is Serena Williams.
 
 **Control from a Neutral Exchange**
@@ -156,8 +145,7 @@ the rallies when the point begins with a more neutral exchange. **This
 means learning to use angles, loops, and drop
 shots.**
 
-![A person playing tennis Description automatically
-generated](media_the-strategy-zone-introduction/media/image6.webp)
+![A person playing tennis Description automatically generated](media_the-strategy-zone-introduction/media/image6.webp)
 
 **Off speed angles can establish control in baseline rallies.**
 
@@ -182,14 +170,14 @@ behind the baseline. It's another way of opening the court and getting
 control of the point that is part of a complete strategic
 game.**
 
-**All these shots and patterns in the Control Phase\--the serve and
+**All these shots and patterns in the Control Phase--the serve and
 the serve return placements, the groundstroke drives, angles, loops and
-drop shots\--are designed to lead to weak replies.
+drop shots--are designed to lead to weak replies.
 This is what allows you to move on to Phase 2.**
 
 **Phase 2: Hurt**
 
-**We call Phase 2 \"Hurt.\" Hurt is nothing more than a pattern that
+**We call Phase 2 "Hurt." Hurt is nothing more than a pattern that
 follows or is attached to a control shot.** **You
 must learn to recognize when you have control of the center of the
 court. Then you must learn to pressure the opponent with these
@@ -197,9 +185,7 @@ patterns.** **In the Hurt Phase, your goal is to
 produce a feeling of physical and mental discomfort in the
 opponent.**
 
-![A picture containing athletic game, sport, green, tennis Description
-automatically
-generated](media_the-strategy-zone-introduction/media/image7.webp)
+![A picture containing athletic game, sport, green, tennis Description automatically generated](media_the-strategy-zone-introduction/media/image7.webp)
 
 **Andre Agassi loved to run his opponents from Bradenton to Vegas.**
 
@@ -207,33 +193,31 @@ generated](media_the-strategy-zone-introduction/media/image7.webp)
 don't know what's coming. You** **have already
 gained control, now keep it that way.** **You're
 not necessarily trying to hit a winner. You are trying to work a pattern
-that may set up a winner.** **[[If you control the
+that may set up a winner.** **[If you control the
 patterns, eventually your opponent will give you a ball that will allow
 you to move on to Phase 3.] [As players learn to master Phase 2,
 to relax and hit combinations instead of rushing to finish, they make
-huge jumps in their results.]]**
+huge jumps in their results.]**
 
 **One strategy for hurting your opponent is learning to move him side
 to side with drives to the corners.** **This will
 exhaust him not only physically but mentally.**
 When I traveled with Andre Agassi, it was almost like a show. He enjoyed
 punishing the opponent even when he had opportunities to finish the
-point early. He called this the \"Bradenton to Las Vegas\" strategy.
+point early. He called this the "Bradenton to Las Vegas" strategy.
 That was his personality, but there are other more direct ways to set up
 the finish by hitting shot combinations.
 
 **In the Hurt Phase, you will learn two basic types of combinations to
-set up the finish. The first is what we call a \"1-1
-Combination.\"** **You hit a set up shot, and
+set up the finish. The first is what we call a "1-1
+Combination."** **You hit a set up shot, and
 then a second shot that hurts the opponent sufficiently to allow you to
 move on to the Finish Phase. The 1-1 Combination is usually based on
 simple change of direction: hitting crosscourt and to open the court and
 then taking advantage of the opening by hitting down the
 line.**
 
-![A picture containing athletic game, sport, green, tennis Description
-automatically
-generated](media_the-strategy-zone-introduction/media/image7.webp)
+![A picture containing athletic game, sport, green, tennis Description automatically generated](media_the-strategy-zone-introduction/media/image7.webp)
 
 **Shot combinations set up the finish.**
 
@@ -265,8 +249,7 @@ shots and try to finish at the wrong time from the wrong places on the
 court.** Understanding the Control and Hurt Phases
 leads to better understanding of when to try to hit the put away shot.
 
-![A person playing tennis Description automatically
-generated](media_the-strategy-zone-introduction/media/image8.webp)
+![A person playing tennis Description automatically generated](media_the-strategy-zone-introduction/media/image8.webp)
 
 **Great players know when and how to finish.**
 
@@ -294,22 +277,20 @@ game. But it works at all levels and for club players, it puts fear into
 the pushers who like to hit those high floating
 shots.**
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_the-strategy-zone-introduction/media/image9.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_the-strategy-zone-introduction/media/image9.webp)
 
-**\"Experts\" thought the swing volley was crazy, but now it's
+**"Experts" thought the swing volley was crazy, but now it's
 standard.**
 
 **The third finish is the Transition and Net
 Finish.** [**Look at Roger Federer or Tim
 Henman**.] **A fluid transition is imperative. Especially
 in the modern game you must have a weak shot to
-attack.** **[[You must be able to pressure your
+attack.** **[You must be able to pressure your
 opponent so that he attempts his passing shot on the run.] [But
 you should vary the transition shot, coming in off both sides and
 occasionally hitting behind your opponent to keep him
-guessing.]]** **The all-around game is the key to
+guessing.]** **The all-around game is the key to
 success today.**
 
 **The fourth finish is the Serve and Volley
@@ -320,8 +301,7 @@ surprise change of tactic to pressure the opponent to come up with a big
 pass in a tight situation when he may least expect
 it.**
 
-![A person playing tennis Description automatically
-generated](media_the-strategy-zone-introduction/media/image10.webp)
+![A person playing tennis Description automatically generated](media_the-strategy-zone-introduction/media/image10.webp)
 
 **The serve and volley finish takes courage and commitment.**
 
@@ -330,11 +310,11 @@ certain times. **A big part of the reason players struggle is they
 don't connect the finishing volley with the first two Phases of Control
 and Hurt.** **To be effective, the serve and
 volley must begin with a well-placed serve. But the placement of the
-first volley is critical.** **[[You must know when
+first volley is critical.** **[You must know when
 to volley to the open court and when to hit back behind the
 opponent.] [As with the approach a volley you must put your
 opponent in the position of trying a difficult
-pass.]]**
+pass.]**
 
 The most effective serve and volleyers have the courage to commit to
 this play. Pete Sampras, Boris Becker, and our own Max Mirni from the
@@ -350,8 +330,7 @@ relaxed. When your opponent is out of position, you have more
 opportunities to hit winners further inside the
 lines.**
 
-![A person playing tennis Description automatically
-generated](media_the-strategy-zone-introduction/media/image11.webp)
+![A person playing tennis Description automatically generated](media_the-strategy-zone-introduction/media/image11.webp)
 
 **The result: more easy winners.**
 
@@ -363,38 +342,32 @@ ball really hard to the open court. You winners will look easier and
 will be easier to execute.**
 
 **Again, forget about those highlight winners.**
-**[[They will come on their own. You cannot force them to occur.]
-[Your best days are when you control and stretch your opponents, exhaust
-them, and then, almost mercifully, finish them\--the culmination of the
-Strategy Zone process.]]**
+**[They will come on their own. You cannot force them to occur.] [Your best days are when you control and stretch your opponents, exhaust
+them, and then, almost mercifully, finish them--the culmination of the
+Strategy Zone process.]**
 
 In the future articles we'll be showing you how to build all these
 varied components of a winning game. So stay tuned. It's time for you
 to start winning more matches.
 
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![A couple of men holding tennis rackets Description automatically generated with medium                                                                                         Nick Bollettieri (right) is the legendary coach
-  confidence](media_the-strategy-zone-introduction/media/image12.jpeg)                                                                                                                                                   Seles, Andre Agassi, Jim Courier, and Maria
-                                                                                                                                                                                   Sharapova. Nick is the creator of the tennis
-                                                                                                                                                                                   academy concept and has watched his vision grow
-                                                                                                                                                                                   for over 30 years into the world's premier
-                                                                                                                                                                                   tennis training ground at IMG Bollettieri in
-                                                                                                                                                                                   Bradenton, Florida. Over the years Nick has
-                                                                                                                                                                                   collaborated with many of the leading innovators
-                                                                                                                                                                                   in coaching, introducing and incorporating their
-                                                                                                                                                                                   concepts into training programs at the Academy.\
-                                                                                                                                                                                   \
-                                                                                                                                                                                   Lance Luciani (left), the founder of Strategy
-                                                                                                                                                                                   Zone, is one of the world's leading analysts of
-                                                                                                                                                                                   statistics and strategy, and the Head of
-                                                                                                                                                                                   Strategy and Tactics at IMG/Bollettieri
-                                                                                                                                                                                   Academies. Lance was a pioneer in the video
-                                                                                                                                                                                   analysis of match play at all levels of the
-                                                                                                                                                                                   game. At the Academy he has created the cutting
-                                                                                                                                                                                   edge system used by players to study the
-                                                                                                                                                                                   patterns of their points from real time play.
-                                                                                                                                                                                   This system is revolutionizing how competitors
-                                                                                                                                                                                   develop and improve their strategic style.
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ------------------------------------------------
-
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A couple of men holding tennis rackets Description automatically generated with medium                                                                                         Nick Bollettieri (right) is the legendary coach confidence](media_the-strategy-zone-introduction/media/image12.jpeg)                                                                                                                                                   Seles, Andre Agassi, Jim Courier, and Maria
+Sharapova. Nick is the creator of the tennis
+academy concept and has watched his vision grow
+for over 30 years into the world's premier
+tennis training ground at IMG Bollettieri in
+Bradenton, Florida. Over the years Nick has
+collaborated with many of the leading innovators
+in coaching, introducing and incorporating their
+concepts into training programs at the Academy.\
+\
+Lance Luciani (left), the founder of Strategy
+Zone, is one of the world's leading analysts of
+statistics and strategy, and the Head of
+Strategy and Tactics at IMG/Bollettieri
+Academies. Lance was a pioneer in the video
+analysis of match play at all levels of the
+game. At the Academy he has created the cutting
+edge system used by players to study the
+patterns of their points from real time play.
+This system is revolutionizing how competitors
+develop and improve their strategic style.

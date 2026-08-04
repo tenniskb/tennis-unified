@@ -2,26 +2,22 @@
 
 ### John Yandell
 
-------------------------------------------------------------------------
+![A person holding a trophy Description automatically generated with low confidence](media_how-roger-federer-won-wimbledon-2006/media/image1.jpg)
 
-| ![A person holding a trophy Description automatically generated with low | ![A person with the mouth open Description automatically generated with medium | ![Two people shaking hands Description automatically generated with medium |
-| --- | --- | --- |
-| confidence](media_how-roger-federer-won-wimbledon-2006/media/image1.jpg) |  |  |
-| **Courage, incredible serving, and fashion style?** |  |  |
-
+**Courage, incredible serving, and fashion style?**
 
 Wow. It may not have been the Roger Slam, but still, what an amazing
 accomplishment. Think about it. If you are Roger Federer, obviously you
-know exactly what 4 titles in a row means\--Wimbledon immortality with
+know exactly what 4 titles in a row means--Wimbledon immortality with
 Bjorn Borg and Pete Sampras. Then, think about who is over there on the
-other side\--the giant teenager with the biceps and the attitude and the
-winning record against you\--the player that everyone says is 'in your
+other side--the giant teenager with the biceps and the attitude and the
+winning record against you--the player that everyone says is 'in your
 kitchen' as a certain pro coach I know likes to put it.
 
 And Roger pulled it off. He held it together and played such a
 courageous match. His serving was incredible, and he hit so many clutch
 shots at key times. Yeah, he made some tight errors, but it wasn't like
-Paris\--there wasn't that same stream of almost inexplicable unforced
+Paris--there wasn't that same stream of almost inexplicable unforced
 errors on the backhand side. Plus he had that blazer going for him,
 which I think actually did have something to do with it. Still, I
 wasn't sure until almost the last point. Because it was obvious that
@@ -29,13 +25,8 @@ after that first set, Nadal was hovering on the verge of turning the
 match around in every game. Does it sound like I was for Roger? Yes, and
 I want him to win in Paris too. And I want Nadal to win Wimbledon.
 
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                        ![A person in a white shirt Description automatically generated with low
-   confidence](media_how-roger-federer-won-wimbledon-2006/media/image4.jpg)
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                                 To what extent was Nadal actually in Roger's kitchen?
-
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person in a white shirt Description automatically generated with low confidence](media_how-roger-federer-won-wimbledon-2006/media/image4.jpg)
+To what extent was Nadal actually in Roger's kitchen?
 
 So what did the numbers show about how Roger won the match? And what
 were the differences between Paris and Wimbledon?
@@ -60,13 +51,12 @@ again, the winner and unforced errors only accounted for about 60% of
 the points. They aren't usually enough to tell the story. So, what
 about those other 100 or so points? Who won those and how?
 
-![A person playing tennis Description automatically
-generated](media_how-roger-federer-won-wimbledon-2006/media/image5.webp)
+![A person playing tennis Description automatically generated](media_how-roger-federer-won-wimbledon-2006/media/image5.webp)
 
 **Roger's serving was phenomenal.**
 
 It wasn't straight winners and errors, so what was it? Right, the
-Forced Errors\--points Roger won by creating pressure on Nadal, or vice
+Forced Errors--points Roger won by creating pressure on Nadal, or vice
 versa. That's the missing statistic we need to really understand what
 is happening in pro matches, as Patrick McEnroe keeps pointing out. A
 forced error is as good as a winner, and has the same value when we
@@ -84,14 +74,11 @@ pretty close, with Nadal ahead by 3 points. When we add in the Forced
 Errors it all makes sense. The big difference was the 23 more points for
 Federer on Forced Errors.
 
-  ------------------------------------------------------------------------
-                Winners     Forced Errors         Opponents\        Total
-                                                Unforced Errors    
-  ----------- ----------- ------------------ --------------------- -------
-  Federer         43              61                  29             133
+Winners     Forced Errors         Opponents\        Total
+Unforced Errors    
+Federer         43              61                  29             133
 
-  Nadal           42              38                  33             113
-  ------------------------------------------------------------------------
+Nadal           42              38                  33             113
 
 How did Roger create them? It was in large part his phenomenal serving.
 That fluid, minimal motion that we have already looked at in technical
@@ -120,7 +107,6 @@ errors, that gives you the Aggressive Margin. For the match, Federer was
 | Federer Wimbledon | +10 | -0- | +12 | +42 |
 | Nadal Wimbledon | +2 | +12 | +7 | +23 |
 
-
 But besides the serve, how did Roger get to +16/set? We saw that in
 Paris that Federer actually won the match statistically if you just
 excluded the backhand. Interestingly it was similar at Wimbledon.
@@ -130,8 +116,7 @@ horrifying 36 unforced backhand errors. In both matches he had 10
 backhand winners. The difference was that at Wimbledon he only had 10
 unforced errors, not 36.
 
-![A person playing tennis Description automatically
-generated](media_how-roger-federer-won-wimbledon-2006/media/image6.webp)
+![A person playing tennis Description automatically generated](media_how-roger-federer-won-wimbledon-2006/media/image6.webp)
 
 **Verus Paris: no inexplicable backhands.**
 
@@ -150,13 +135,10 @@ the serve. He also won on the forehand, which was actually a reversal of
 Paris. He came up big with quite a few of those forehands when he really
 needed them. Finally, he made a few clutch volleys at key times.
 
-  -------------------------------------------------------------------------
-  Aggressive Margin              Forehand       Backhand     Net    Serve
-  --------------------------- -------------- -------------- ------ --------
-  Federer Paris                     +5            -26        +13     +18
+Aggressive Margin              Forehand       Backhand     Net    Serve
+Federer Paris                     +5            -26        +13     +18
 
-  Nadal Pairs                      +10             -3         +3     +18
-  -------------------------------------------------------------------------
+Nadal Pairs                      +10             -3         +3     +18
 
 **Backhand Slice**
 
@@ -167,9 +149,7 @@ Obviously, Nadal's ball was a lot lower on the grass which made it less
 difficult to deal with on the backhand side, but the way Roger mixed it
 up also seemed to have a big impact on the mental struggle.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_how-roger-federer-won-wimbledon-2006/media/image7.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_how-roger-federer-won-wimbledon-2006/media/image7.webp)
 
 **Was the mix of slice backhands another key?**
 
@@ -192,9 +172,7 @@ He mistimed the ball, made a bad unforced error into the net, and let
 out a loud, agonized groan. He hadn't sounded like that before and it
 meant something.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_how-roger-federer-won-wimbledon-2006/media/image8.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_how-roger-federer-won-wimbledon-2006/media/image8.webp)
 
 **Nadal's forehand: a few errors came at critical times.**
 
@@ -216,7 +194,9 @@ the line forehand with the court open. That got Federer to 3-3 when it
 looked like Nadal might take over the breaker. But Roger blunted the
 onslaught.
 
-![link](media_how-roger-federer-won-wimbledon-2006/media/image9.webp)
+![Video demonstration](media_how-roger-federer-won-wimbledon-2006/media/image9.webp)
+
+*Video demonstration — the original video for this article was hosted on TennisPlayer.net.*
 
 **A few clutch volleys at the right times.**
 
@@ -224,7 +204,7 @@ There were other similar points and exchanges in the final two sets were
 Roger seemed able to use his variety to neutralize Nadal and then finish
 with that gorgeous, signature aggressive play. And his topspin backhand
 looked about 50 times better than in Paris, didn't it? I mean just the
-way he looked when he hit it\--and that was reflected in the numbers.
+way he looked when he hit it--and that was reflected in the numbers.
 
 Like McEnroe said, Nadal didn't give up even after that second set, and
 his will was enough to carry him through the third set and win the
@@ -235,8 +215,7 @@ also missed a forehand off another deep, floating slice. Then on break
 point Nadal hit that easy overhead out of the park. That made it 3-1
 Federer.
 
-![A person playing tennis Description automatically
-generated](media_how-roger-federer-won-wimbledon-2006/media/image10.webp)
+![A person playing tennis Description automatically generated](media_how-roger-federer-won-wimbledon-2006/media/image10.webp)
 
 **Another difference: forcing more errors with aggressive forehand's.**
 
@@ -261,13 +240,8 @@ how much was it the pressure of a first Wimbledon final for Rafael, and
 how much was it Roger's higher confidence level given all of these
 factors? And what about the blazer?
 
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                    ![A picture containing person, player, outdoor, sport Description automatically
-   generated](media_how-roger-federer-won-wimbledon-2006/media/image11.jpg)
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                           **An image and a feeling\--part of the mentality of a champion?**
-
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A picture containing person, player, outdoor, sport Description automatically generated](media_how-roger-federer-won-wimbledon-2006/media/image11.jpg)
+**An image and a feeling--part of the mentality of a champion?**
 
 I say it was some of all of that. It seems that the pundits were
 somewhat right. The change in tactics seemed to pay off at critical
@@ -285,15 +259,15 @@ Federer's mental state on Wimbledon center court. Maybe that mental
 state is what produced the improved tactics and execution and the better
 numbers.
 
-Or maybe it really was the blazer\--don't laugh, I think that was part
+Or maybe it really was the blazer--don't laugh, I think that was part
 of the whole deal. Personally I thought it looked ultra sharp. When you
 look good you feel good, right? Something like that was definitely going
 on for Roger. I think that cream blazer had something to do with his
-perspective on who he was and how he felt\--or wanted to feel\--at
+perspective on who he was and how he felt--or wanted to feel--at
 Wimbledon. Remember the blazer was his idea not Nike's. He literally
 recreated his image in a way that tied him to tennis history. Don't try
 to tell me that same process is not going on with Rafael. He looks like
-no one else on the court\--and he plays the same way. Image isn't
+no one else on the court--and he plays the same way. Image isn't
 everything, but image does reflect and influence reality.
 
 If you've read some of the articles on the great champions of the past,
@@ -301,13 +275,8 @@ If you've read some of the articles on the great champions of the past,
 you may have noticed the pictures of the original 'tennis blazers'
 that were worn by the top players all the way through the 1940s.
 
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                     ![A picture containing text, tennis, person, racket Description automatically
-   generated](media_how-roger-federer-won-wimbledon-2006/media/image12.jpg)
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                                 **Another final: too much to hope for in New York?**
-
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A picture containing text, tennis, person, racket Description automatically generated](media_how-roger-federer-won-wimbledon-2006/media/image12.jpg)
+**Another final: too much to hope for in New York?**
 
 I've been predicting for a few years that since everything in fashion
 is retro something or other, they'd have to be back at some point. And
@@ -328,9 +297,7 @@ finals in the upcoming years like the ones we've been lucky enough to
 witness in 2006. In fact I hope Federer wins the next time they play in
 Paris, and Rafa when they play in England.
 
-![A person smiling for the camera Description automatically generated
-with medium
-confidence](media_how-roger-federer-won-wimbledon-2006/media/image13.jpeg)
+![A person smiling for the camera Description automatically generated with medium confidence](media_how-roger-federer-won-wimbledon-2006/media/image13.jpeg)
 
 John Yandell is widely acknowledged as one of the leading videographers
 and students of the modern game of professional tennis. His high speed

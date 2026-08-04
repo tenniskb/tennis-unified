@@ -2,10 +2,7 @@
 
 ### Dave Hagler 
 
-------------------------------------------------------------------------
-
-![A person playing tennis Description automatically
-generated](media_playing-styles-revisited/media/image1.webp)
+![A person playing tennis Description automatically generated](media_playing-styles-revisited/media/image1.webp)
 
 **Is the power men's game the right model ?**
 
@@ -18,7 +15,7 @@ about playing styles and see how they apply to the game at all levels.
 In men's tennis, variety of game seems to be on the increase with
 players such as Novak Djokovic and Jo-Wilfried Tsonga joining the
 incomparable Roger Federer in the ability to hit any shot from anywhere
-on the court. But this variety remains largely situational\--it happens
+on the court. But this variety remains largely situational--it happens
 in some points in some matches.
 
 Men's tennis remains mainly a power game based on huge serves and huge
@@ -27,15 +24,13 @@ players find mesmerizing. Women's tennis, however, offers a different
 and more flexible paradigm. Studying the women's game should inspire
 the average player and provide a realistic path to winning more matches.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_playing-styles-revisited/media/image2.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_playing-styles-revisited/media/image2.webp)
 
 **Is women's tennis a better paradigm for improving?**
 
 Recently I had the privilege of traveling in Australia and observing the
 women's pro tour firsthand, coaching a player competing in a series of
-\$25,000 tournaments. This gave me the opportunity to watch dozens of
+$25,000 tournaments. This gave me the opportunity to watch dozens of
 matches involving players from all over the world, players with every
 combination of style, strengths, and weaknesses you could possibly
 imagine.
@@ -43,7 +38,7 @@ imagine.
 I learned not only from watching but by talking with other coaches,
 players, and knowledgeable observers of the game. This grass roots
 experience broadened my understanding of the game and reinforced some
-thoughts that challenge traditional beliefs about \"playing style.\"
+thoughts that challenge traditional beliefs about "playing style."
 
 **Playing Style Categories**
 
@@ -58,9 +53,7 @@ the French Open with a defensive, counter punching style. John McEnroe
 and Martina Navratilova were dominant as pure serve and volley players.
 But both those styles are virtually non-existent on the current tour.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_playing-styles-revisited/media/image3.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_playing-styles-revisited/media/image3.webp)
 
 **One dimensional styles are disappearing in the pro game.**
 
@@ -68,8 +61,8 @@ When we say Aggressive Baseliner, do we mean a player like Federer or
 Djokovic who stands in? Or do we mean a player like Fernando Gonzales
 who plays further back and takes huge swings?
 
-Or compare Lindsay Davenport and Steffi Graf, both \"aggressive
-baseliners.\" Graf played with a one-handed slice which she used to set
+Or compare Lindsay Davenport and Steffi Graf, both "aggressive
+baseliners." Graf played with a one-handed slice which she used to set
 up as many inside forehands as possible. Davenport plays in the center
 and can punish opponents off either side with her forehand or her great
 semi-flat two-hander.
@@ -82,14 +75,12 @@ transitions to offense, sometimes on the dead run.
 You get the idea. The lines are blurry and vary with individual players.
 This corresponds perfectly with what I saw in my Australian sojourn. I
 saw players who in some cases were highly skilled in some areas but much
-less in others. Some of these players had \"opponent dependent\" games.
+less in others. Some of these players had "opponent dependent" games.
 Against a given player they would win easily. However, against someone
 with a similar or lower ranking but with a different style, they would
 lose badly.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_playing-styles-revisited/media/image4.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_playing-styles-revisited/media/image4.webp)
 
 **The are many elements that can be integrated in a baseline style.**
 
@@ -105,14 +96,13 @@ matches.
 
 **The American Versus Clay Court Style**
 
-On the women's tour, the rest of the world talks about the \"American
-Style.\" Players who utilize this style drive the ball hard and
+On the women's tour, the rest of the world talks about the "American
+Style." Players who utilize this style drive the ball hard and
 relatively flat through the back of the court. They try to take the ball
 early whenever possible and look to dictate play. This game works best
 on moderate or fast hardcourts.
 
-![A person playing tennis Description automatically
-generated](media_playing-styles-revisited/media/image5.webp)
+![A person playing tennis Description automatically generated](media_playing-styles-revisited/media/image5.webp)
 
 **American Style: hard, flat hitting through the baseline.**
 
@@ -120,8 +110,8 @@ A key point here is that the vast majority of the balls hit with the
 American style cross the baseline before they cross the sideline.
 Lindsay Davenport, Maria Sharapova and Ana Ivanovic all play this style,
 as did Jennifer Capriati. Often these players are better ball strikers
-than they are \"movers.\" Because movement is often not their strength,
-they tend to play what is known as \"first strike\" tennis.
+than they are "movers." Because movement is often not their strength,
+they tend to play what is known as "first strike" tennis.
 
 **Clay Court Style**
 
@@ -139,9 +129,7 @@ used as both as building blocks and finishing shots. This is true on
 hardcourts as well as clay. In fact, we could also call this the short
 angle style.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_playing-styles-revisited/media/image6.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_playing-styles-revisited/media/image6.webp)
 
 **Clay Court Style players attack with angles.**
 
@@ -167,14 +155,13 @@ Petrova. This is an even more effective tactic at the club level.
 **Forehand Players**
 
 The other basic distinction is between Forehand Players and Backhand
-Players. \"Forehand Players\" utilize inside forehands to open up the
+Players. "Forehand Players" utilize inside forehands to open up the
 court and try to hit as many forehands as possible. Steffi Graf's
 coach, Heinz Gunthardt, said that Steffi's goal was to hit 70% of her
 shots with her forehand. They both felt that if she was able to do this,
 she would beat anyone.
 
-![A person playing tennis Description automatically
-generated](media_playing-styles-revisited/media/image7.webp)
+![A person playing tennis Description automatically generated](media_playing-styles-revisited/media/image7.webp)
 
 **Forehand Players get around the ball to play inside.**
 
@@ -186,7 +173,7 @@ and attack.
 Forehand Players dominate on the men's side. But for many women it's
 the opposite. Rather than running around to play inside forehands, many
 women take as many balls as possible on their backhands because it is
-their stronger side. These are \"Backhand Players.\" The inside out
+their stronger side. These are "Backhand Players." The inside out
 backhand is hit almost exclusively on the women's side.
 
 Players like Jelena Jankovic (who is thought of as not having a lot of
@@ -206,34 +193,32 @@ they are only part of the story. The reality is that in today's game
 most every player is some type of baseliner, but there are other factors
 to consider in categorizing a player's game:
 
-![A person playing tennis Description automatically
-generated](media_playing-styles-revisited/media/image8.webp)
+![A person playing tennis Description automatically generated](media_playing-styles-revisited/media/image8.webp)
 
 **Backhand Players attack down the line.**
 
 1.  **There are different baseline attacking styles.\
-    \
+\
     2. There are variations in the way players defend.\
-    \
+\
     3. Players may play first strike in one match and be far more
-    patient in another.\
-    \
+patient in another.\
+\
     4. Sometimes players switch tactics in the same match.\
-    \
+\
     5. More swing volleys are being employed, off both wings.\
-    \
+\
     6. Players rarely serve and volley, but they volley
-    opportunistically to finish points.\
-    \
-    \**
-    Players can plug these elements in and out of their games at will.
-    They can be utilized within either the American Style or Short Angle
-    Style. They can be incorporated by both Forehand and Backhand
-    Players. This blurring and compounding of styles is what makes the
-    old categories less applicable.
+opportunistically to finish points.\
+\
+\**
+Players can plug these elements in and out of their games at will.
+They can be utilized within either the American Style or Short Angle
+Style. They can be incorporated by both Forehand and Backhand
+Players. This blurring and compounding of styles is what makes the
+old categories less applicable.
 
-![A person playing tennis Description automatically
-generated](media_playing-styles-revisited/media/image9.webp)
+![A person playing tennis Description automatically generated](media_playing-styles-revisited/media/image9.webp)
 
 **Can you hit an aggressive drop shot?**
 
@@ -258,8 +243,7 @@ hard and flat and also hard with heavy topspin. They will be comfortable
 in all areas of the court and with slicing, swing volleying and
 volleying. They will have confident and effective drop shots.
 
-![A person holding a tennis racket Description automatically
-generated](media_playing-styles-revisited/media/image10.webp)
+![A person holding a tennis racket Description automatically generated](media_playing-styles-revisited/media/image10.webp)
 
 **Women who serve well have a huge advantage?**
 
@@ -291,8 +275,7 @@ shots and tactics. When Serena Williams is at her best you see a
 wonderfully complete player. Ana Ivanovic and Justine Henin play very
 different styles, but each has a game that still seems to be evolving.
 
-![A person playing tennis Description automatically
-generated](media_playing-styles-revisited/media/image11.webp)
+![A person playing tennis Description automatically generated](media_playing-styles-revisited/media/image11.webp)
 
 **Variety is the key to the evolution of the game.**
 
@@ -334,21 +317,16 @@ good first step is understanding the complex realities of playing
 styles. This is what the pro players do and if you understand them as
 well, it can be huge advantage.
 
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![A person holding a tennis racket Description automatically                                                                                                             Dave Hagler is a Tennis Professional based
-  generated](media_playing-styles-revisited/media/image12.jpeg)                                                                                                                                                      players of all ages, but he has a special
-                                                                                                                                                                           passion for junior development. He has
-                                                                                                                                                                           coached numerous sectionally and nationally
-                                                                                                                                                                           ranked junior players and several national
-                                                                                                                                                                           champions. Dave is a USPTA Master
-                                                                                                                                                                           Professional and National Tester, a PTR
-                                                                                                                                                                           Master of Tennis -- Performance, and was
-                                                                                                                                                                           one of the first 100 coaches to complete
-                                                                                                                                                                           the USTA's High Performance Coaching
-                                                                                                                                                                           Program. He has been the USPTA California
-                                                                                                                                                                           Division Pro of the Year and one of 5
-                                                                                                                                                                           National Recipients of the "Pro of the
-                                                                                                                                                                           Year" award from Head and the PTR.
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ -------------------------------------------
-
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person holding a tennis racket Description automatically                                                                                                             Dave Hagler is a Tennis Professional based generated](media_playing-styles-revisited/media/image12.jpeg)                                                                                                                                                      players of all ages, but he has a special
+passion for junior development. He has
+coached numerous sectionally and nationally
+ranked junior players and several national
+champions. Dave is a USPTA Master
+Professional and National Tester, a PTR
+Master of Tennis -- Performance, and was
+one of the first 100 coaches to complete
+the USTA's High Performance Coaching
+Program. He has been the USPTA California
+Division Pro of the Year and one of 5
+National Recipients of the "Pro of the
+Year" award from Head and the PTR.

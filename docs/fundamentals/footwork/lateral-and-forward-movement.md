@@ -2,9 +2,7 @@
 
 ### **Pat Doughert**
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_lateral-and-forward-movement/media/image1.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_lateral-and-forward-movement/media/image1.webp)
 
 **Most movement in tennis is lateral or side to side.**
 
@@ -35,9 +33,7 @@ the crossover pattern is effective for covering greater distances
 laterally whether moving to the ball or moving back on
 recovery.**
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_lateral-and-forward-movement/media/image2.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_lateral-and-forward-movement/media/image2.webp)
 
 **Players shuffle step on close balls, but the primary footwork pattern
 is the crossover.**
@@ -60,8 +56,7 @@ the stroke. Then as you begin your adjustment steps, your upper body
 momentum should become more neutral, centering your balance on the balls
 of the feet.
 
-![A person playing tennis Description automatically
-generated](media_lateral-and-forward-movement/media/image3.webp)
+![A person playing tennis Description automatically generated](media_lateral-and-forward-movement/media/image3.webp)
 
 **Slow motion shows you the adjusting steps you can often only hear.**
 
@@ -95,8 +90,7 @@ the right hand goes back behind the body into a deep backswing, the
 right foot will stay back with the right hand. This will cause the left
 foot to set up in a closed stance.**
 
-![A person playing tennis Description automatically
-generated](media_lateral-and-forward-movement/media/image4.webp)
+![A person playing tennis Description automatically generated](media_lateral-and-forward-movement/media/image4.webp)
 
 **Differences in the position of the hand in the backswing trigger
 different stances.**
@@ -128,9 +122,7 @@ You want to encourage the player to extend their arm and glove out as
 they reach to catch the ball. What you'll immediately notice is how
 well the player seems to establish the right distance from the ball.
 
-![A picture containing text, outdoor, player, court Description
-automatically
-generated](media_lateral-and-forward-movement/media/image5.webp)
+![A picture containing text, outdoor, player, court Description automatically generated](media_lateral-and-forward-movement/media/image5.webp)
 
 **The baseball glove drill teaches alignment with the outside foot.**
 
@@ -152,9 +144,7 @@ may take some time for them to adjust their swing to the optimal
 position and alignment. In time, they will see an improvement in power
 and control as a result of better leverage.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_lateral-and-forward-movement/media/image6.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_lateral-and-forward-movement/media/image6.webp)
 
 **With less torso rotation, players frequently hit the one-hander
 closed.**
@@ -176,12 +166,11 @@ over smaller players.
 
 The problem is that they are very slow and sluggish at getting up to
 speed. The end result is similar to starting a bike race in tenth gear
-rather than first, what I refer to as \"10th gear\" footwork. This is
+rather than first, what I refer to as "10th gear" footwork. This is
 another benefit of training with the A.P. Belt. It effectively corrects
 the over-striding habit through resistance feedback. ([link](http://www.active.com/event_detail.cfm?event_id=1175099)).
 
-![A person playing tennis Description automatically
-generated](media_lateral-and-forward-movement/media/image7.webp)
+![A person playing tennis Description automatically generated](media_lateral-and-forward-movement/media/image7.webp)
 
 **Unlike the forehand, advanced players regularly hit the two-hander
 from a closed stance.**
@@ -204,9 +193,7 @@ important role in the forward swing. This means there is slightly less
 hip rotation compared to the forehand. Because of this the stance
 doesn't block the natural rotation pattern as much.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_lateral-and-forward-movement/media/image8.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_lateral-and-forward-movement/media/image8.webp)
 
 **The neutral stance is ideal when you can step forward to hit.**
 
@@ -232,9 +219,7 @@ often necessary to hit on the rise in the pro game with the neutral
 stance, but this is much less true at lower levels of
 play.**
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_lateral-and-forward-movement/media/image9.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_lateral-and-forward-movement/media/image9.webp)
 
 **The pace of the modern game requires pro players to hit open stance.**
 
@@ -256,18 +241,17 @@ position of the foot.** Being able to effectively
 execute from the open stance is a required element in today's fast
 paced game on both the forehand and backhand sides.
 
-![A person playing tennis Description automatically
-generated](media_lateral-and-forward-movement/media/image10.webp)\
+![A person playing tennis Description automatically generated](media_lateral-and-forward-movement/media/image10.webp)\
 **Loading in the open and closed stances.**
 
 **On the forehand, for many if not most pro players, the open stance
 is the preferred stance, even when there might be time to step forward
 into the neutral.** **This has to do with the
 amount of body rotation players use with the more under the handle
-semi-western grips.** **[[It also has to do with
+semi-western grips.** **[It also has to do with
 the contact heights in the pro game which can reach shoulder level or
 even higher.] [It also has to do with
-time]]**. **In situations where you are under
+time]**. **In situations where you are under
 pressure with very little time to set up, the open stance is your best
 option.** The open stance also facilitates a
 quicker recovery after the hit. **To hit the open stance effectively,
@@ -275,9 +259,7 @@ you have to load the body weight on the foot closest to the ball and
 avoid transferring your body weight towards the other foot too
 soon.**
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_lateral-and-forward-movement/media/image11.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_lateral-and-forward-movement/media/image11.webp)
 
 **The shuffle recovery step is good for covering shorter distances.**
 
@@ -288,12 +270,12 @@ particular ball, but also to the position of the core body weight down
 in the stance.** **For an open stance, you want
 to be low in your athletic foundation and load the body weight over the
 foot nearest to the ball so that the heel of that foot naturally
-elevates slightly off the ground.** **[[In a
+elevates slightly off the ground.** **[In a
 neutral stance, your want your athletic foundation and body weight
 loaded into the back foot and prepared to transfer forward into the
 stroke with the step into the shot.] [This happens as well in the
 closed stance though possibly for a briefer period before the cross
-step.]]**
+step.]**
 
 **Recovery**
 
@@ -306,25 +288,21 @@ first one to two steps.** **They then make the
 transition to the shuffle steps as they you get closer to recovery
 position.**
 
-![A picture containing athletic game, tennis, sport, person Description
-automatically
-generated](media_lateral-and-forward-movement/media/image12.webp)\
+![A picture containing athletic game, tennis, sport, person Description automatically generated](media_lateral-and-forward-movement/media/image12.webp)\
 **The combination recovery pattern, the crossover step, followed the
 shuffle step.**
 
-**[[This combination of crossover and shuffle footwork patterns enables
+**[This combination of crossover and shuffle footwork patterns enables
 you to cover ground better.] [The initial cross step brings you
 back toward the middle quicker, and shuffling allows you to neutralize
 your body momentum and flow seamlessly into the split step footwork
-base.]]** **Too many players use shuffle footwork
+base.]** **Too many players use shuffle footwork
 in situations where they should also be incorporating crossover
 footwork. For instance, from a wide position in the court, they try to
 shuffle the whole way back on recovery, which is too slow to be
 effective.**
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_lateral-and-forward-movement/media/image13.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_lateral-and-forward-movement/media/image13.webp)
 
 **Another pro pattern, the cross behind step in the run around
 forehand.**
@@ -334,17 +312,16 @@ forehand.**
 The cross-behind pattern involves the opposite foot crossing behind the
 foot nearest to the direction of movement. This pattern is not used as
 commonly as the crossover. But the cross-behind step is a very versatile
-technique used in more situations than you might think. **[[You'll see
+technique used in more situations than you might think. **[You'll see
 the cross-behind step used to move laterally in the runaround
 forehand.] [This technique is also commonly used for the purpose
 of maintaining sideways alignment to the net when moving back to cover
 deep balls and on the follow-through when moving forward through slice
-approach shots.]]**
+approach shots.]**
 
 **Forward Sprint Footwork**
 
-![A person playing tennis Description automatically
-generated](media_lateral-and-forward-movement/media/image14.webp)
+![A person playing tennis Description automatically generated](media_lateral-and-forward-movement/media/image14.webp)
 
 **On sprints forward in the court, players stay low and limit stride
 length.**
@@ -352,7 +329,7 @@ length.**
 **To become quicker in your forward movement, you want to maintain a
 low center of gravity with your upper body momentum leading the way and
 limit the length of you strides.** **Players who
-are very quick use what I refer to as \"first gear\"
+are very quick use what I refer to as "first gear"
 footwork.** **That means they run primarily on
 the balls of the feet using short, choppy strides where the feet remain
 spread out approximately shoulder width apart. The concept is to take
@@ -366,8 +343,7 @@ you can pump the legs.
 
 **Kick Step**
 
-![A person playing tennis Description automatically
-generated](media_lateral-and-forward-movement/media/image15.webp)
+![A person playing tennis Description automatically generated](media_lateral-and-forward-movement/media/image15.webp)
 
 **In the kick step, the back foot can appear to actually kick the front
 foot forward.**
@@ -383,4 +359,3 @@ hit a shorter ball.**
 Stay tuned for Part 4 where you'll learn about hitting on the move, the
 running open stance, the reverse neutral stance, braking techniques and
 other critical information you need to know for quicker recovery.
-

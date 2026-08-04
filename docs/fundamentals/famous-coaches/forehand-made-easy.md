@@ -7,13 +7,8 @@ is, is there a right way to hit a particular stroke and a wrong way? Or
 is any way that feels good to a person really the way he/she should hit
 it?
 
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![A person holding a tennis racket Description automatically
-  generated](media_forehand-made-easy/media/image1.webp)\
-  **Stepping in adds three to five miles an hour racquethead velocity without sacrificing control. Notice the racquethead remains steady.**
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person holding a tennis racket Description automatically generated](media_forehand-made-easy/media/image1.webp)\
+**Stepping in adds three to five miles an hour racquethead velocity without sacrificing control. Notice the racquethead remains steady.**
 
 Because when you look at the pro circuit, you see many of the top
 players hitting the ball in very different ways. Is there a reason why
@@ -36,13 +31,8 @@ power, which you could equate with the racquet head velocity. The second
 is to maintain control. You've got to control the trajectory and the
 angle of the racquet head during the swing.**
 
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![A person holding a tennis racket Description automatically
-  generated](media_forehand-made-easy/media/image2.webp)\
-  **Rotating the body is another source of stable power. Again, the racquet head remains in a fixed position.**
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person holding a tennis racket Description automatically generated](media_forehand-made-easy/media/image2.webp)\
+**Rotating the body is another source of stable power. Again, the racquet head remains in a fixed position.**
 
 To begin with, tennis is a very difficult sport relative to most racquet
 sports. This is because the ball has to travel a long distance, 70 feet
@@ -65,13 +55,8 @@ two are much more difficult to control.
 legs.** Hold the racquet steady and step in. Notice
 the racquet's moving. That's giving you power.
 
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![A person playing tennis Description automatically generated with medium
-  confidence](media_forehand-made-easy/media/image3.webp)\
-  **Connors had one of the simplest forehands in the game. All body rotation and step in with very little arm and wrist movement.**
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person playing tennis Description automatically generated with medium confidence](media_forehand-made-easy/media/image3.webp)\
+**Connors had one of the simplest forehands in the game. All body rotation and step in with very little arm and wrist movement.**
 
 Set the face of the racquet and without swinging, step forward into the
 ball. You won't hit it very hard, however, because the head remains in
@@ -97,13 +82,8 @@ unstable.]]** **And remember, it only has to be off
 a quarter of an inch for you to lose control of the
 shot.**
 
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![A picture containing text, person, player, male Description automatically
-  generated](media_forehand-made-easy/media/image4.webp)\
-  **McEnroe's used his body to turn the racquet, the arm was sort of a passive element.**
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A picture containing text, person, player, male Description automatically generated](media_forehand-made-easy/media/image4.webp)\
+**McEnroe's used his body to turn the racquet, the arm was sort of a passive element.**
 
 **The final power source is the wrist.** ***[And
 again, this is not a terribly stable source, either.]*** **It
@@ -131,12 +111,7 @@ The arms should be relatively relaxed when you hit, they are moved by
 the shoulders. The stroke starts when you rotate the shoulders and step
 forward.
 
-  ------------------------------------------------------------------------------------------------------------------------------------
-  ![link](media_forehand-made-easy/media/image5.png)\
-  **Click Photo to see Allen Fox talk about the height of the backswing.**
-  ------------------------------------------------------------------------------------------------------------------------------------
-
-  ------------------------------------------------------------------------------------------------------------------------------------
+**Click Photo to see Allen Fox talk about the height of the backswing.**
 
 **A final question, when do you take the racquet back and how
 high?** **You take the racquet back by the time
@@ -152,13 +127,8 @@ through the stroke. **The reason they do that is to gain more power in
 the same way a softball pitcher takes a full round wind up so they can
 accelerate more.**
 
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![A person playing tennis Description automatically
-  generated](media_forehand-made-easy/media/image6.webp)\
-  **The Forehand is motored by the rotation of the shoulders and throwing the weight forward with the legs. The arm does very little.**
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person playing tennis Description automatically generated](media_forehand-made-easy/media/image6.webp)\
+**The Forehand is motored by the rotation of the shoulders and throwing the weight forward with the legs. The arm does very little.**
 
 **You may get more acceleration with a higher take- back but the
 trouble is, it makes it much more difficult to control the
@@ -179,68 +149,103 @@ have consistent timing.**
 
 **Approach the ball with your shoulders turned toward the net, then
 rotate and drive your weight into the ball.**
-**[[Notice the body weight going forward and the shoulders rotating
-heavily.] [The racquet goes back early, it's waiting. The
+**[Notice the body weight going forward and the shoulders rotating
+heavily.] [The racquet goes back early, it's waiting. The
 shoulders are turned by the time the ball hits the court, then there's
-a rotation forward and a leg drive forward.]]**
-**[[The arm's relaxed, the shoulders turned, the arm's thrown forward
+a rotation forward and a leg drive forward.]**
+**[The arm's relaxed, the shoulders turned, the arm's thrown forward
 by the shoulders and the legs and the weight goes forward nicely into
 the ball.] [This way, you can generate a lot of power without
-much effort.]]** Of course, if you'd rather make
+much effort.]** Of course, if you'd rather make
 your life more complex by imitating the Spanish players or Gustavo
 Kuerten, that's up to you.
 
-| ![A picture containing text, newspaper Description automatically | Winning the Mental Match Dr. Allen Fox |
-| --- | --- |
-| generated](media_forehand-made-easy/media/image7.jpeg) | Tennis is mentally the most difficult sport due to it's personal nature which makes winning and losing feel more |
-|  | important than they are. In this new book, Allen offers his proven solutions to problems such as choking, reducing |
-|  | stress, finishing matches, and developing confidence. Based on a life time of high level play and coaching success, |
-|  | it's a must for all competitive players. |
-|  |  |
-|  | [ to |
-|  | Order](http://www.amazon.com/Tennis-Winning-Mental-Allen-Fox/dp/0615407765/ref=sr_1_1?ie=UTF8&qid=1336083459&sr=8-1). |
+![A picture containing text, newspaper Description automatically generated](media_forehand-made-easy/media/image7.jpeg)
 
+Winning the Mental Match Dr. Allen Fox
 
-| ![Text Description automatically | Winning may not be everything, but Dr. Allen Fox points out |
-| --- | --- |
-| generated](media_forehand-made-easy/media/image8.jpeg) | eminently preferable to losing. In his new book, The |
-|  | Winner's Mind, Allen lays out an original step-by-step |
-|  | plan for succeeding at any of life's endeavors, based on |
-|  | his first hand and very personal observations of the |
-|  | careers of both world-class tennis players and successful |
-|  | businessman. The bottom line is that even if you are not a |
-|  | born champion\--and only a tiny percentage of us are\--you |
-|  | can still use the success strategies of champions to tilt |
-|  | the odds in your favor. Writing with brutal honesty and dry |
-|  | humor, Fox lays out the common mental characteristics of |
-|  | winners in sports and in life. He explains the critical |
-|  | role of intellect over emotion. He analyzes the struggle |
-|  | between ambition and fear and the insidious and pervasive |
-|  | fear of failure that undermines so many of us. He then |
-|  | outline how to confront and overcome these fears in your |
-|  | life and career, even when they are initially subconscious. |
-|  | Must reading from one of the great thinkers in tennis, and |
-|  | a Renaissance Man in life. [ to |
-|  | Order](http://www.tennis-warehouse.com/descpage-MIND.html). |
-|  |  |
-|  | To purchase this book you can also send a check for \$17.95 |
-|  | to Allen Fox, 1120 Inverness Place, San Luis Obispo, CA. |
-|  | 93401. The price includes shipping. |
+Tennis is mentally the most difficult sport due to it's personal nature which makes winning and losing feel more
 
+important than they are. In this new book, Allen offers his proven solutions to problems such as choking, reducing
 
-| ![A person holding a tennis racket Description automatically | Allen Fox PhD is a former world class player, a coach, |
-| --- | --- |
-| generated](media_forehand-made-easy/media/image9.gif) | insightful analysts in modern tennis. A top 10 |
-|  | American player from the glory days before Open |
-|  | tennis, Fox played many of the legendary greats, among |
-|  | them Roy Emerson, Rod Laver, Stan Smith, and Arthur |
-|  | Ashe. At Pepperdine he developed the men's tennis |
-|  | program into an elite contender for national titles, |
-|  | and gave Brad Gilbert the insights that became the |
-|  | foundation for \"Winning Ugly\". His book Think to Win |
-|  | is a modern classic. He has also starred in a series |
-|  | of acclaimed videos, including Pro Secrets of Match |
-|  | Play and Allen Fox's Ultimate Tennis Lesson. |
-|  |  |
-|  |  |
+stress, finishing matches, and developing confidence. Based on a life time of high level play and coaching success,
 
+it's a must for all competitive players.
+
+[ to
+
+Order](http://www.amazon.com/Tennis-Winning-Mental-Allen-Fox/dp/0615407765/ref=sr_1_1?ie=UTF8&qid=1336083459&sr=8-1).
+
+![Text Description automatically generated](media_forehand-made-easy/media/image8.jpeg)
+
+Winning may not be everything, but Dr. Allen Fox points out
+
+eminently preferable to losing. In his new book, The
+
+Winner's Mind, Allen lays out an original step-by-step
+
+plan for succeeding at any of life's endeavors, based on
+
+his first hand and very personal observations of the
+
+careers of both world-class tennis players and successful
+
+businessman. The bottom line is that even if you are not a
+
+born champion--and only a tiny percentage of us are--you
+
+can still use the success strategies of champions to tilt
+
+the odds in your favor. Writing with brutal honesty and dry
+
+humor, Fox lays out the common mental characteristics of
+
+winners in sports and in life. He explains the critical
+
+role of intellect over emotion. He analyzes the struggle
+
+between ambition and fear and the insidious and pervasive
+
+fear of failure that undermines so many of us. He then
+
+outline how to confront and overcome these fears in your
+
+life and career, even when they are initially subconscious.
+
+Must reading from one of the great thinkers in tennis, and
+
+a Renaissance Man in life. [ to
+
+Order](http://www.tennis-warehouse.com/descpage-MIND.html).
+
+To purchase this book you can also send a check for $17.95
+
+to Allen Fox, 1120 Inverness Place, San Luis Obispo, CA.
+
+93401. The price includes shipping.
+
+![A person holding a tennis racket Description automatically generated](media_forehand-made-easy/media/image9.gif)
+
+Allen Fox PhD is a former world class player, a coach,
+
+insightful analysts in modern tennis. A top 10
+
+American player from the glory days before Open
+
+tennis, Fox played many of the legendary greats, among
+
+them Roy Emerson, Rod Laver, Stan Smith, and Arthur
+
+Ashe. At Pepperdine he developed the men's tennis
+
+program into an elite contender for national titles,
+
+and gave Brad Gilbert the insights that became the
+
+foundation for "Winning Ugly". His book Think to Win
+
+is a modern classic. He has also starred in a series
+
+of acclaimed videos, including Pro Secrets of Match
+
+Play and Allen Fox's Ultimate Tennis Lesson.

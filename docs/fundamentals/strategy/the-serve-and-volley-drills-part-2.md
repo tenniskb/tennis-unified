@@ -2,13 +2,10 @@
 
 ### Kyle LaCroix 
 
-------------------------------------------------------------------------
-
-![A picture containing outdoor, athletic game Description automatically
-generated](media_the-serve-and-volley-drills-part-2/media/image1.webp)
+![A picture containing outdoor, athletic game Description automatically generated](media_the-serve-and-volley-drills-part-2/media/image1.webp)
 
 **The table not only allows you to practice serve and volley alone, it
-gives you a wide variety of \"returns.\"**
+gives you a wide variety of "returns."**
 
 In the last article we looked at three original drills I developed to
 incorporate serve and volley into your game ([link](The%20Serve%20and%20Volley%20Drills%20Part%201.docx)), part of my
@@ -23,7 +20,7 @@ player. The table drill solves this problem in a fabulous way.
 
 I invented the table drill of necessity over 20 years ago. At 12 years
 old, I was serving and volleying against the wall. But I had to bounce
-my serve in front of the wall to create a realistic \"return.\"
+my serve in front of the wall to create a realistic "return."
 
 Overtime this inevitably led to bad service mechanics. So, I found a way
 to do it on the court, by placing a hard table (or two) around the
@@ -34,7 +31,7 @@ unpredictable angles back to the server. This allows the player to serve
 into the box and then rush the net, hit a realistic volley, and most
 importantly generate an unlimited number of these repetitions.
 
-One of the great benefits is that the \"returns\" vary so much depending
+One of the great benefits is that the "returns" vary so much depending
 on exactly where the serve lands, and how hard it strikes the table. You
 don't need a partner, and the table never misses a return.
 
@@ -53,7 +50,7 @@ hit the first volley. One point if they make the location, one point to
 the table if they don't. I have them play games or even entire sets.
 
 Two players can also play against each other, taking turns serving to
-see who be the first to \"win\" 10 points with the correct placement.
+see who be the first to "win" 10 points with the correct placement.
 Despite it's surprising returning prowess, nobody wants to lose to a
 table!
 
@@ -69,9 +66,7 @@ these variations requires patience. Many players I see are pretty good
 at hitting the first volley, but if the ball comes back, they are
 frustrated and/or not prepared.
 
-![A person holding a tennis racket Description automatically generated
-with medium
-confidence](media_the-serve-and-volley-drills-part-2/media/image2.webp)
+![A person holding a tennis racket Description automatically generated with medium confidence](media_the-serve-and-volley-drills-part-2/media/image2.webp)
 
 **The 3 Variations Drill game teaches consistency, patience, and mental
 toughness.**
@@ -106,9 +101,7 @@ these drills create. Building high numbers of successful repetitions
 builds confidence, and ultimately confidence is what allows you to serve
 and volley successfully in your matches.
 
-![A person smiling for the camera Description automatically generated
-with low
-confidence](media_the-serve-and-volley-drills-part-2/media/image3.jpeg)
+![A person smiling for the camera Description automatically generated with low confidence](media_the-serve-and-volley-drills-part-2/media/image3.jpeg)
 
 Kyle LaCroix is a USPTA and PTR Certified Professional as well as
 receiving his United States Center For Coaching Excellence (USCCE)

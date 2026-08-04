@@ -2,11 +2,7 @@
 
 ### By Allen Fox, Ph.D.
 
-------------------------------------------------------------------------
-
-![A bear with its mouth open Description automatically generated with
-medium
-confidence](media_what-is-choking/media/image1.jpg)
+![A bear with its mouth open Description automatically generated with medium confidence](media_what-is-choking/media/image1.jpg)
 
 **The fight or flight response: good for dealing with bears, but not
 useful in tennis.**
@@ -31,9 +27,7 @@ Fortunately, it doesn't happen all the time and there are steps one can
 take to reduce the worst of its effects. Unfortunately, it is a problem
 that is never solved completely.
 
-![A picture containing outdoor, athletic game, sport, player Description
-automatically
-generated](media_what-is-choking/media/image2.webp)
+![A picture containing outdoor, athletic game, sport, player Description automatically generated](media_what-is-choking/media/image2.webp)
 
 **The desperate desire for a positive outcome causes choking.**
 
@@ -56,9 +50,7 @@ players to choke and, if one does choke, how to reduce its damage. The
 following is a kind of emotional autopsy of the match, intended to
 provide a framework for our discussion on choking.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_what-is-choking/media/image3.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_what-is-choking/media/image3.webp)
 
 **Federer was nervous at the start and had reason to be.**
 
@@ -80,21 +72,16 @@ defeated him in Montreal only a few weeks earlier and was a scary piece
 of work.
 
 What would everyone say if he lost? When he lost twice in a row to
-Guillermo Canas earlier that year the talk suddenly became, \"Well,
-Federer's good but not that good.\" It was enough to make anyone
+Guillermo Canas earlier that year the talk suddenly became, "Well,
+Federer's good but not that good." It was enough to make anyone
 nervous.
 
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![A person wearing a garment Description automatically generated with medium
-  confidence](media_what-is-choking/media/image4.jpg)
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------
-  **A serene demeanor helped Federer survive his own choking.**
-
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person wearing a garment Description automatically generated with medium confidence](media_what-is-choking/media/image4.jpg)
+**A serene demeanor helped Federer survive his own choking.**
 
 So Federer looked shaky in the first set - missing more than usual. When
 he is feeling good his game functions (I hesitate to say anything this
-trite, but\...) like a Swiss watch. He misses virtually nothing and
+trite, but...) like a Swiss watch. He misses virtually nothing and
 winners flow like rum-punch at a toga party.
 
 On the other hand, when he gets nervous his errors stand out blatantly
@@ -118,11 +105,9 @@ is at the finish that our nerves are most likely to become wobbly.
 Djokovic was no exception. He played the first set point cautiously, and
 Federer hit a winner.
 
-![A person hitting a ball with a tennis racket Description automatically
-generated with medium
-confidence](media_what-is-choking/media/image5.webp)
+![A person hitting a ball with a tennis racket Description automatically generated with medium confidence](media_what-is-choking/media/image5.webp)
 
-**\"Easy\" unforced errors are an indication of nerves among elite
+**"Easy" unforced errors are an indication of nerves among elite
 players.**
 
 Then the real trouble started. Federer hit two routine serve returns to
@@ -147,13 +132,8 @@ when, but for the nervous errors, he should have been up a set.
 Frustration and agitation boiled over as he dashed his water bottle to
 the ground in disgust.
 
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                        ![A person holding a trophy Description automatically
-   generated](media_what-is-choking/media/image6.jpg)
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                              **Was Federer thinking \"Soon I'll be tied with Emmo with 12 Slams?\"**
-
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person holding a trophy Description automatically generated](media_what-is-choking/media/image6.jpg)
+**Was Federer thinking "Soon I'll be tied with Emmo with 12 Slams?"**
 
 Among the more interested observers of this emotional disarray was, of
 course, Federer, who could see that Djokovic was on the verge of
@@ -161,14 +141,14 @@ self-destructing. All he had to do now was to start out the second set
 tough and squeeze him - a dose of solid pressure and Djokovic might
 crack completely.
 
-It would have been natural for Federer to think, \"Just play
+It would have been natural for Federer to think, "Just play
 high-percentage, low-error tennis and I'll be tied with Emmo with 12
-Slams.\" Unfortunately, these are just the kind of thoughts that get
+Slams." Unfortunately, these are just the kind of thoughts that get
 players into trouble, even geniuses like Federer.
 
 **When you see your opponent choking, you are often liable to start
-choking yourself. This is because you start to think, \"He's choking.
-I've got him as long as I don't screw up.\" But that thought will make
+choking yourself. This is because you start to think, "He's choking.
+I've got him as long as I don't screw up." But that thought will make
 you cautious and hesitant to take your normal
 risks.**
 
@@ -183,9 +163,7 @@ unless the serve is huge, he very rarely misses it. These were his
 conservative slices, and badly missed ones at that, so, again the easy
 unforced error showed he was obviously nervous.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_what-is-choking/media/image7.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_what-is-choking/media/image7.webp)
 
 **When Federer misses a slice return badly, nerves are in play.**
 
@@ -195,7 +173,7 @@ Djokovic play better other than giving him backrubs on changeovers.
 
 One thing he didn't do, however, was to lose his outward appearance of
 calm. Nevertheless, Djokovic was soon up 4-1 and had chances for a
-second \"insurance\" break on Federer's serve. But then Djokovic
+second "insurance" break on Federer's serve. But then Djokovic
 tightened up again, missed, and Federer held. Distressed at his latest
 blown opportunity, the shaken Djokovic immediately stumbled on his own
 serve and the set was now basically even.
@@ -209,9 +187,7 @@ Djokovic allowed in just enough creeping negativity to cost him the
 second set tiebreaker, and he was now down two sets to love instead of
 up two.
 
-![A picture containing text, athletic game, sport, tennis Description
-automatically
-generated](media_what-is-choking/media/image8.webp)
+![A picture containing text, athletic game, sport, tennis Description automatically generated](media_what-is-choking/media/image8.webp)
 
 **Creeping negativity and Djokovic was now down two sets.**
 
@@ -232,13 +208,9 @@ to win the match. Viewed from this perspective the first two sets were
 irrelevant. He was on the verge of winning the first of the three he
 needed.
 
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                              ![A person hitting a ball with a tennis racket Description automatically                                             
-   generated](media_what-is-choking/media/image9.jpg)                                                                   
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------- --
-                                   **Start of the match or two sets down, winning three sets would still mean the championship.**                                  
-
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person hitting a ball with a tennis racket Description automatically                                              generated](media_what-is-choking/media/image9.jpg)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------- --
+**Start of the match or two sets down, winning three sets would still mean the championship.**                                  
 
 But of course that is not how he saw it. He was just off-balance enough
 to blow an easy backhand, get down match point, and follow with an
@@ -257,9 +229,7 @@ forehands and lose some points. Both must be quickly and routinely
 accepted as simply a natural and inescapable part of the game. Then put
 it out of your mind.**
 
-![A picture containing text, athletic game, sport, tennis Description
-automatically
-generated](media_what-is-choking/media/image8.webp)
+![A picture containing text, athletic game, sport, tennis Description automatically generated](media_what-is-choking/media/image8.webp)
 
 **Accept choking as a routine and natural and inescapable.**
 
@@ -270,9 +240,9 @@ player in the world.
 
 Rod Laver said it well,
 
-**\"We all choke. That's all right. We're not machines. What you
+**"We all choke. That's all right. We're not machines. What you
 have to learn is to accept the fact and not panic. It's the panic that
-loses the matches, not the nerves.\"**
+loses the matches, not the nerves."**
 
 So if you choke, assume that nothing extraordinary has happened, and
 just keep plugging along. In this way the choking itself will only cost
@@ -283,26 +253,24 @@ that is going to make you lose.
 Choking, though obviously unhelpful, will not usually make you lose
 unless you overestimate its importance. People get themselves beaten by
 choking and reacting by feeling diminished, losing heart. They acquire,
-as Gordon Forbes so aptly put it in his classic book, \"A Handful of
-Summers,\" that dreaded \"sinking feeling.\"
+as Gordon Forbes so aptly put it in his classic book, "A Handful of
+Summers," that dreaded "sinking feeling."
 
 Realize that you can choke and win anyway. A factor that often makes
 choking worse is the stigma in the minds of most people that is attached
 to choking and to people who choke.
 
-![A couple of men playing tennis Description automatically generated
-with medium
-confidence](media_what-is-choking/media/image10.webp)
+![A couple of men playing tennis Description automatically generated with medium confidence](media_what-is-choking/media/image10.webp)
 
 **Do believe that there is a stigma to being a choking loser?**
 
 **We have all heard locker room snickers about people who are
-\"losers\" and who choke. It reminds me of the joke about Fred at the
+"losers" and who choke. It reminds me of the joke about Fred at the
 club who was reputed to have the ultimate loser's mentality. When he
 was ahead he eased up. When he was behind he got discouraged. When it
 was close, he choked!**
 
-Being considered a \"loser\" or \"choker\" hints of character deficiency
+Being considered a "loser" or "choker" hints of character deficiency
 and is embarrassing. We would all prefer to think of ourselves as
 Michael Jordan types, taking the final shot against Utah in the last
 second of the NBA championship game, sinking the jumper and walking off
@@ -312,13 +280,8 @@ But whether you have the nerves of a Michael Jordan or not, don't
 believe for a second that choking means you have a loser's mentality.
 You can certainly choke and win. Champions do it all the time.
 
-  ------------------------------------------------------------------------------------------------------------------------------------------------------
-                             ![A basketball player jumping to dunk a basketball Description automatically generated with low
-   confidence](media_what-is-choking/media/image11.jpg)
-  ------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                    **Not everyone has the nerves of Michael Jordan.**
-
-  ------------------------------------------------------------------------------------------------------------------------------------------------------
+![A basketball player jumping to dunk a basketball Description automatically generated with low confidence](media_what-is-choking/media/image11.jpg)
+**Not everyone has the nerves of Michael Jordan.**
 
 Reacting after you choke is what gets you beaten. Players often get
 themselves beaten by getting discouraged, angry, or otherwise
@@ -347,13 +310,8 @@ little as 3 or 4, so those few points a set were likely to have been
 just enough to get him beaten. In the last game this was obviously the
 case.
 
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![A picture containing person, outdoor, sport, crowd Description automatically
-  generated](media_what-is-choking/media/image12.jpg)
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------
-  **Roger may have choked, but didn't react or show Djokovic**
-
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A picture containing person, outdoor, sport, crowd Description automatically generated](media_what-is-choking/media/image12.jpg)
+**Roger may have choked, but didn't react or show Djokovic**
 
 Choking and failing to finish at your first opportunity can toughen you
 for your next one. Djokovic's subsequent confrontations with Federer
@@ -372,7 +330,7 @@ your opponent.
 In general, when players are down they can often swing away freely and
 play quite well, feeling they have nothing to lose. Of course they have
 plenty to lose, but it just doesn't feel like it. However, once they
-catch up the \"nothing to lose\" feeling goes away.
+catch up the "nothing to lose" feeling goes away.
 
 Now they suddenly have something to lose, and they often tighten up,
 fearing that if they lose their serve now they will have made their
@@ -380,15 +338,10 @@ comeback in vain and will be right back in the soup. If you have stayed
 motivated and alert you can often jump on them and break serve right
 back.
 
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![A person playing tennis Description automatically generated with medium
-  confidence](media_what-is-choking/media/image13.jpg)
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  **Serena rarely looks calm.**
+![A person playing tennis Description automatically generated with medium confidence](media_what-is-choking/media/image13.jpg)
+**Serena rarely looks calm.**
 
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-But even if your opponent does not experience the \"catch-up\" choke,
+But even if your opponent does not experience the "catch-up" choke,
 you still have a small advantage. Assuming you keep your cool, you have
 had a chance to accustom yourself to the pressures of finishing. Your
 opponent hasn't. If he or she should get in position to win, he/she is
@@ -409,13 +362,8 @@ chance to win. But unlike most of us, they are so far superior to their
 opponents physically that when they are not choking no one has a chance
 against them.
 
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![A person playing tennis Description automatically generated with medium
-  confidence](media_what-is-choking/media/image14.jpg)
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  **Athletic superiority, yes, but also never discouraged.**
-
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person playing tennis Description automatically generated with medium confidence](media_what-is-choking/media/image14.jpg)
+**Athletic superiority, yes, but also never discouraged.**
 
 The Williams sisters move as well or better than anyone else on the
 women's tour in addition to hitting the ball harder, serving better,
@@ -435,7 +383,7 @@ quiet down, and they are usually able to push it through.
 
 They never actually look calm, and often appear to struggle for
 emotional control, but determination increases their opportunities.
-Hence the saying, \"The harder you try, the luckier you get.\" And the
+Hence the saying, "The harder you try, the luckier you get." And the
 choking that they did earlier in the match now almost seems to help
 them, either by suggesting small adjustments in their games or simply
 because they have gotten used to playing under the pressure.
@@ -453,61 +401,92 @@ Read More From Allen!
 
 Visit him at [www.allenfoxtennis.net](http://www.allenfoxtennis.net)
 
- 
+![A picture containing text, newspaper Description automatically generated](media_what-is-choking/media/image15.jpeg)
 
-| ![A picture containing text, newspaper Description automatically | Winning the Mental Match Dr. Allen Fox |
-| --- | --- |
-| generated](media_what-is-choking/media/image15.jpeg) | Tennis is mentally the most difficult sport due to it's personal nature which makes winning and losing feel more |
-|  | important than they are. In this new book, Allen offers his proven solutions to problems such as choking, reducing |
-|  | stress, finishing matches, and developing confidence. Based on a life time of high level play and coaching success, |
-|  | it's a must for all competitive players. |
-|  |  |
-|  | [ to |
-|  | Order](http://www.amazon.com/Tennis-Winning-Mental-Allen-Fox/dp/0615407765/ref=sr_1_1?ie=UTF8&qid=1336083459&sr=8-1). |
+Winning the Mental Match Dr. Allen Fox
 
+Tennis is mentally the most difficult sport due to it's personal nature which makes winning and losing feel more
 
-| ![Text Description automatically | Winning may not be everything, but Dr. Allen Fox points out |
-| --- | --- |
-| generated](media_what-is-choking/media/image16.jpeg) | eminently preferable to losing. In his new book, The |
-|  | Winner's Mind, Allen lays out an original step-by-step |
-|  | plan for succeeding at any of life's endeavors, based on |
-|  | his first hand and very personal observations of the |
-|  | careers of both world-class tennis players and successful |
-|  | businessman. The bottom line is that even if you are not a |
-|  | born champion\--and only a tiny percentage of us are\--you |
-|  | can still use the success strategies of champions to tilt |
-|  | the odds in your favor. Writing with brutal honesty and dry |
-|  | humor, Fox lays out the common mental characteristics of |
-|  | winners in sports and in life. He explains the critical |
-|  | role of intellect over emotion. He analyzes the struggle |
-|  | between ambition and fear and the insidious and pervasive |
-|  | fear of failure that undermines so many of us. He then |
-|  | outline how to confront and overcome these fears in your |
-|  | life and career, even when they are initially subconscious. |
-|  | Must reading from one of the great thinkers in tennis, and |
-|  | a Renaissance Man in life. [ to |
-|  | Order](http://www.tennis-warehouse.com/descpage-MIND.html). |
-|  |  |
-|  | To purchase this book you can also send a check for \$17.95 |
-|  | to Allen Fox, 1120 Inverness Place, San Luis Obispo, CA. |
-|  | 93401. The price includes shipping. |
+important than they are. In this new book, Allen offers his proven solutions to problems such as choking, reducing
 
+stress, finishing matches, and developing confidence. Based on a life time of high level play and coaching success,
 
-| ![A person holding a tennis racket Description automatically | Allen Fox PhD is a former world class player, a coach, |
-| --- | --- |
-| generated](media_what-is-choking/media/image17.gif) | insightful analysts in modern tennis. A top 10 |
-|  | American player from the glory days before Open |
-|  | tennis, Fox played many of the legendary greats, among |
-|  | them Roy Emerson, Rod Laver, Stan Smith, and Arthur |
-|  | Ashe. At Pepperdine he developed the men's tennis |
-|  | program into an elite contender for national titles, |
-|  | and gave Brad Gilbert the insights that became the |
-|  | foundation for \"Winning Ugly\". His book Think to Win |
-|  | is a modern classic. He has also starred in a series |
-|  | of acclaimed videos, including Pro Secrets of Match |
-|  | Play and Allen Fox's Ultimate Tennis Lesson. |
-|  |  |
-|  |  |
+it's a must for all competitive players.
 
+[ to
 
-------------------------------------------------------------------------
+Order](http://www.amazon.com/Tennis-Winning-Mental-Allen-Fox/dp/0615407765/ref=sr_1_1?ie=UTF8&qid=1336083459&sr=8-1).
+
+![Text Description automatically generated](media_what-is-choking/media/image16.jpeg)
+
+Winning may not be everything, but Dr. Allen Fox points out
+
+eminently preferable to losing. In his new book, The
+
+Winner's Mind, Allen lays out an original step-by-step
+
+plan for succeeding at any of life's endeavors, based on
+
+his first hand and very personal observations of the
+
+careers of both world-class tennis players and successful
+
+businessman. The bottom line is that even if you are not a
+
+born champion--and only a tiny percentage of us are--you
+
+can still use the success strategies of champions to tilt
+
+the odds in your favor. Writing with brutal honesty and dry
+
+humor, Fox lays out the common mental characteristics of
+
+winners in sports and in life. He explains the critical
+
+role of intellect over emotion. He analyzes the struggle
+
+between ambition and fear and the insidious and pervasive
+
+fear of failure that undermines so many of us. He then
+
+outline how to confront and overcome these fears in your
+
+life and career, even when they are initially subconscious.
+
+Must reading from one of the great thinkers in tennis, and
+
+a Renaissance Man in life. [ to
+
+Order](http://www.tennis-warehouse.com/descpage-MIND.html).
+
+To purchase this book you can also send a check for $17.95
+
+to Allen Fox, 1120 Inverness Place, San Luis Obispo, CA.
+
+93401. The price includes shipping.
+
+![A person holding a tennis racket Description automatically generated](media_what-is-choking/media/image17.gif)
+
+Allen Fox PhD is a former world class player, a coach,
+
+insightful analysts in modern tennis. A top 10
+
+American player from the glory days before Open
+
+tennis, Fox played many of the legendary greats, among
+
+them Roy Emerson, Rod Laver, Stan Smith, and Arthur
+
+Ashe. At Pepperdine he developed the men's tennis
+
+program into an elite contender for national titles,
+
+and gave Brad Gilbert the insights that became the
+
+foundation for "Winning Ugly". His book Think to Win
+
+is a modern classic. He has also starred in a series
+
+of acclaimed videos, including Pro Secrets of Match
+
+Play and Allen Fox's Ultimate Tennis Lesson.

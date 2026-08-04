@@ -6,8 +6,7 @@
 
 **Jim Loehr**
 
-![A person holding a tennis racket Description automatically
-generated](media_love-the-battle-pathways-to-performing/media/image1.webp)
+![A person holding a tennis racket Description automatically generated](media_love-the-battle-pathways-to-performing/media/image1.webp)
 
 **Great competitors love the process, not just the winning.**
 
@@ -20,17 +19,17 @@ This mastery of myself, this battle of me against myself, these are not
 just competitive skills in sport. These are life skills.
 
 Pete Sampras says in his recent autobiography that he had a mantra
-coming up as a young player: \"It's all a learning experience.\" His
+coming up as a young player: "It's all a learning experience." His
 focus was never on results. He was never ranked at the top nationally in
 the juniors. Yet he went on to win the most Grand Slam titles in
 history. Why?
 
-\"It was always about playing the right way, trying to develop a game
-that would hold up throughout my career.\"
+"It was always about playing the right way, trying to develop a game
+that would hold up throughout my career."
 
-\"It wasn't about winning. **[[By putting pressure on myself to develop
+"It wasn't about winning. **[By putting pressure on myself to develop
 a great game, I had less preessure to win. That helped me enjoy the game
-and develop my maximum] [potential.\"]]**
+and develop my maximum] [potential."]**
 
 These two articles on Tennisplayer have been prepared to help you, no
 matter what your level, achieve your fullest potential as well, the same
@@ -49,9 +48,7 @@ of our talent and skill. And that was true. I fully understood how
 important the mental was, but I wasn't sure exactly how it all
 connected.
 
-![A person standing in front of a sign Description automatically
-generated with medium
-confidence](media_love-the-battle-pathways-to-performing/media/image2.webp)
+![A person standing in front of a sign Description automatically generated with medium confidence](media_love-the-battle-pathways-to-performing/media/image2.webp)
 
 **Emotions, positive and negative, are what run the show.**
 
@@ -74,9 +71,7 @@ the way in which we think and what we are visualizing and the images
 we're carrying at any particular time affect what we're experiencing
 emotionally.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_love-the-battle-pathways-to-performing/media/image3.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_love-the-battle-pathways-to-performing/media/image3.webp)
 
 **What we do physically is critical to how we feel.**
 
@@ -105,8 +100,7 @@ early part of my career was that the same feelings and emotions are
 present when athletes perform at their best, be it baseball, basketball,
 football, tennis, whatever.
 
-![A person playing tennis Description automatically
-generated](media_love-the-battle-pathways-to-performing/media/image4.webp)
+![A person playing tennis Description automatically generated](media_love-the-battle-pathways-to-performing/media/image4.webp)
 
 **Our best tennis occurs within a specific feeling climate.**
 
@@ -127,9 +121,7 @@ surfacing in one form or another, and deeply felt emotions have a real
 physiological, biochemical basis. Fear, anger, joy, challenge, disgust
 have their own unique physiological and biochemical profile.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_love-the-battle-pathways-to-performing/media/image5.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_love-the-battle-pathways-to-performing/media/image5.webp)
 
 **Feelings are the body talking and the body is always talking.**
 
@@ -148,11 +140,9 @@ released in the brain that's associated with positive emotion and joy
 is called **endorphin.** And we know that over
 200 varieties of that single chemical by itself is found in nearly every
 system of the body, including the immune system and the endocrine
-system\--200 varieties!
+system--200 varieties!
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_love-the-battle-pathways-to-performing/media/image6.webp) 
+![A person playing tennis Description automatically generated with medium confidence](media_love-the-battle-pathways-to-performing/media/image6.webp)
 
 **Emotions affect how we perceive what is happening.**
 
@@ -178,11 +168,9 @@ important it is to think and to visualize with great discipline when it
 comes to competition, because we really are moving our chemistry when we
 do so.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_love-the-battle-pathways-to-performing/media/image7.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_love-the-battle-pathways-to-performing/media/image7.webp)
 
-**Discipline\--for example, serving and return rituals\--are key to
+**Discipline--for example, serving and return rituals--are key to
 controlling your chemistry during competition.**
 
 I want to spend a little bit of time talking about the emotional state
@@ -213,14 +201,13 @@ have the sense of pressure or of nerves. You have a sense of freedom
 from that feeling. You have a tremendous sense of challenge. You love
 being there.
 
-![A person playing tennis Description automatically
-generated](media_love-the-battle-pathways-to-performing/media/image8.webp)
+![A person playing tennis Description automatically generated](media_love-the-battle-pathways-to-performing/media/image8.webp)
 
 **To stay relaxed you have to want to be there under pressure.**
 
 **Choking**
 
-Fear\--the word we use is choking\--completely short circuits this,
+Fear--the word we use is choking--completely short circuits this,
 whatever talents and whatever skill you have. And that's why athletes
 are so reluctant to even talk about choking, because it robs you of your
 talent and skill. And it's an emotional response. All those little
@@ -237,13 +224,12 @@ out there and stay relaxed and calm and loving what we're doing.
 
 That means you've got to think about what's happening to you in a very
 special way. You cannot be threatened. You've got to think about it in
-the context of \"I want to be here,\" \"I need this situation,\" \"I
-hate pushers, but I need to play this match,\" \"I need to go out there
+the context of "I want to be here," "I need this situation," "I
+hate pushers, but I need to play this match," "I need to go out there
 in the context of competition, and whatever you throw at me, I can
-handle, and in fact, I love it. Is this great stress or what?\"
+handle, and in fact, I love it. Is this great stress or what?"
 
-![A person holding a tennis racket Description automatically
-generated](media_love-the-battle-pathways-to-performing/media/image9.webp)
+![A person holding a tennis racket Description automatically generated](media_love-the-battle-pathways-to-performing/media/image9.webp)
 
 **When you body is in balance you can feel an overwhelming sense of
 optimism.**
@@ -266,16 +252,14 @@ happens sometimes when you're hungry, you're agitated, you're
 overstressed, all kinds of things can trigger it.**
 
 **And that's a very important understanding, that negative emotions
-serve a very real purpose\--they indicate issues that must be
+serve a very real purpose--they indicate issues that must be
 addressed.** **But we have to learn to put aside
 negative emotion in the context of competition. Then later we can
 address the needs those negative emotions reflect. Positive emotion
 simply reflects a healthy, normal state of operation internally. There
 aren't any great needs that are being expressed.**
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_love-the-battle-pathways-to-performing/media/image10.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_love-the-battle-pathways-to-performing/media/image10.webp)
 
 **Positive emotion reflects a normal internal state of operation.**
 
@@ -298,8 +282,7 @@ There's also a sense of spontaneity. You don't have to think it
 through. You're not forcing the performance. It's like coming from
 deep within you. You're just very spontaneous when you play.
 
-![A person playing tennis Description automatically
-generated](media_love-the-battle-pathways-to-performing/media/image11.webp)
+![A person playing tennis Description automatically generated](media_love-the-battle-pathways-to-performing/media/image11.webp)
 
 **We have to become great actors to summon the emotions that lead to
 confidence.**
@@ -318,19 +301,17 @@ deep inside you. It's a special kind of arousal.
 There's a sense of confidence. Confidence is perhaps the single most
 powerful emotion that we can talk about, because in the chemistry of
 confidence brings protection from nerves, brings a wonderful sense of
-\"I can\" to any arena and causes you to be aggressive, causes you to
+"I can" to any arena and causes you to be aggressive, causes you to
 take the ball early and not to play it safe and cause you to play to
 win.
 
-**It's like, \"I can do this\" and that feeling frees you. The
+**It's like, "I can do this" and that feeling frees you. The
 muscles remain more relaxed. You're in a situation you feel you can
 handle. We have to figure out how to get this feeling of confidence to
 surface, because confidence is a tremendously empowering
 emotion.**
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_love-the-battle-pathways-to-performing/media/image12.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_love-the-battle-pathways-to-performing/media/image12.webp)
 
 **Feelings of anger and defeat are always there, just waiting to grab
 you.**
@@ -338,8 +319,8 @@ you.**
 **Negative Emotions Abound**
 
 Disempowering emotions are everywhere. The feeling of hopelessness and
-helplessness and the feeling of low energy and the feeling of \"I just
-can't,\" the feelings of disgust and of anger and self-defeatism and so
+helplessness and the feeling of low energy and the feeling of "I just
+can't," the feelings of disgust and of anger and self-defeatism and so
 forth. Those emotions are just waiting out there to grab you.
 
 The ideal performance state doesn't happen just by jumping out of bed.
@@ -360,9 +341,7 @@ and people in the crowd make comments that infuriate us. Suddenly we
 have to bring ourselves right back to this very, very special state of
 emotion, to trigger this very unique emotional response.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_love-the-battle-pathways-to-performing/media/image13.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_love-the-battle-pathways-to-performing/media/image13.webp)
 
 **You must be able to summon the right kinds of emotion under
 adversity.**
@@ -377,7 +356,7 @@ can, and suddenly we find ourselves against all kinds of odds, things
 are not working. And for us at that point, to be able to continue to
 summon the kind of emotions which may eventually break us free, that
 struggle is perhaps the greatest struggle in competitive sport. That is
-the greatest battle\--if we can handle the emotions.
+the greatest battle--if we can handle the emotions.
 
 What we're really saying is we're dealing with this remarkable
 physiology of ours in a wonderfully sensitive way, that we're beginning
@@ -392,22 +371,17 @@ the emotional balance, the physiological balance that will ultimately
 give us our dreams in sport, to perform to the very best of whatever
 we're capable of doing.**
 
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![A person smiling for the camera Description automatically generated with medium                                                                                                           Jim Loehr is a legendary pioneer in the field of
-  confidence](media_love-the-battle-pathways-to-performing/media/image14.jpeg)                                                                                                                                                              himself who still competes nationally in USTA
-                                                                                                                                                                                              events, Jim created the field of Mental
-                                                                                                                                                                                              Toughness training with his revolutionary study
-                                                                                                                                                                                              of elite pro players. He has been one of the
-                                                                                                                                                                                              most influential voices in tennis and tennis
-                                                                                                                                                                                              coaching for over 30 years, and is the author of
-                                                                                                                                                                                              multiple best selling books. He has expanded his
-                                                                                                                                                                                              influence far beyond sports with the creation of
-                                                                                                                                                                                              the Human Performance Institute where he and his
-                                                                                                                                                                                              staff have worked with hundreds of leaders in
-                                                                                                                                                                                              business, law enforcement, and military special
-                                                                                                                                                                                              forces. For the last decade he has also directed
-                                                                                                                                                                                              an academy for junior players helping young
-                                                                                                                                                                                              people learn what winning in life really means.
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ------------------------------------------------
-
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person smiling for the camera Description automatically generated with medium                                                                                                           Jim Loehr is a legendary pioneer in the field of confidence](media_love-the-battle-pathways-to-performing/media/image14.jpeg)                                                                                                                                                              himself who still competes nationally in USTA
+events, Jim created the field of Mental
+Toughness training with his revolutionary study
+of elite pro players. He has been one of the
+most influential voices in tennis and tennis
+coaching for over 30 years, and is the author of
+multiple best selling books. He has expanded his
+influence far beyond sports with the creation of
+the Human Performance Institute where he and his
+staff have worked with hundreds of leaders in
+business, law enforcement, and military special
+forces. For the last decade he has also directed
+an academy for junior players helping young
+people learn what winning in life really means.

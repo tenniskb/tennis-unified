@@ -2,8 +2,7 @@
 
 ### **Michael Friedman**
 
-![A person playing tennis Description automatically
-generated](media_more-on-the-step-step-rip/media/image1.webp)
+![A person playing tennis Description automatically generated](media_more-on-the-step-step-rip/media/image1.webp)
 
 **Every shot in tennis has a two-step rhythm to that triggers the
 shot.**
@@ -17,18 +16,18 @@ rhythm is used throughout the game of tennis.
 The movement of your feet can serve as a timing mechanism to trigger all
 your shots, allowing you to hit with more power, precision, and
 consistency than you may have thought possible. **Coaches always
-preach the importance of moving your feet. \"Take a lot of little
-steps!\"** Most players know that they play better
+preach the importance of moving your feet. "Take a lot of little
+steps!"** Most players know that they play better
 when they do this. How many times have you missed a ball and felt as you
 hit it that your feet were set in concrete? What I want to show you is
 the way the top players use these smaller steps in many different
-combinations to judge, position to and rip the tennis ball. The \"Step,
-Step, Hit\" allows you to keep moving on any ball with a pro 2 step
+combinations to judge, position to and rip the tennis ball. The "Step,
+Step, Hit" allows you to keep moving on any ball with a pro 2 step
 pattern that will automatically trigger your rhythm and timing.
 
 The two steps will differ depending on the stroke and the situation. In
 this article, we'll explore the specific patterns to hit on the rise,
-to hit with an open stance, to hit the modern \"load and explode\"
+to hit with an open stance, to hit the modern "load and explode"
 forehand, to hit the one-handed backhand, and finally to hit the
 overhead smash.
 
@@ -46,13 +45,8 @@ into position with your back foot, then step with the right foot and hit
 the ball at a comfortable contact point on the
 rise.**
 
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                            ![A person playing tennis Description automatically
-   generated](media_more-on-the-step-step-rip/media/image2.webp)
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                 **The step with the right, the step with the left, the hit on the rise.**
-
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person playing tennis Description automatically generated](media_more-on-the-step-step-rip/media/image2.webp)
+**The step with the right, the step with the left, the hit on the rise.**
 
 **When you hit on the rise, a combination of footwork with a
 continuous backward and forward swing creates natural
@@ -63,13 +57,8 @@ generated as the ball comes up off the bounce. **For a right hander,
 the two-step pattern is: right foot step, left foot step, hit. Again,
 that's right foot, left foot, then rip!**
 
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                            ![A person playing tennis Description automatically
-   generated](media_more-on-the-step-step-rip/media/image3.webp)
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                **To hit on the rise with an open stance, the step pattern reversed: Right foot step, left foot step, hit.**
-
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person playing tennis Description automatically generated](media_more-on-the-step-step-rip/media/image3.webp)
+**To hit on the rise with an open stance, the step pattern reversed: Right foot step, left foot step, hit.**
 
 This two-step rhythm also applies when hitting on the rise from the full
 open stance. It's just that the sequence of the steps is usually
@@ -86,13 +75,8 @@ in, although it is also possible to use them to play the ball open.
 With more extreme semi-western grips, players will tend to hit on the
 rise from the open stance more exclusively.
 
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                            ![A person playing tennis Description automatically
-   generated](media_more-on-the-step-step-rip/media/image4.webp)
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                   **The model for the modern forehand: two steps to load and explode.**
-
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person playing tennis Description automatically generated](media_more-on-the-step-step-rip/media/image4.webp)
+**The model for the modern forehand: two steps to load and explode.**
 
 **Load and Explode**
 
@@ -101,7 +85,7 @@ pattern more frequently, even balls that are coming down or hit from
 behind on the baseline.
 
 David Nalbandian is an example of how to use this right, left pattern
-\"to load and explode\" on the forehand. His stroke is efficient,
+"to load and explode" on the forehand. His stroke is efficient,
 powerful and dependable. He hits it with great ease and confidence. To
 me he's a perfect model for the modern forehand.
 
@@ -112,13 +96,8 @@ ball.** Watch how he keeps the left leg in front of
 the body in the air until the swing is finished. So, it's left foot
 cross step, right foot load, then rip.
 
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                            ![A person playing tennis Description automatically
-   generated](media_more-on-the-step-step-rip/media/image5.webp)
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                           **A small adjusting step with the left foot, then a step to the ball with the right.**
-
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person playing tennis Description automatically generated](media_more-on-the-step-step-rip/media/image5.webp)
+**A small adjusting step with the left foot, then a step to the ball with the right.**
 
 This is the modern look for the forehand. It allows the body to load,
 explode, and recover in one smooth movement. In the open stance, the
@@ -136,18 +115,14 @@ drives off his left foot, stabilizes on his right leg with the knees
 coiled, and triggers his swing. **This is a perfect example of the
 step, step rhythm. Left step, right step, hit.**
 
-First the drive off the left leg. Then the right foot \"sticks the
-landing\" and resists moving, allowing the swing to accelerate through
+First the drive off the left leg. Then the right foot "sticks the
+landing" and resists moving, allowing the swing to accelerate through
 the contact point. Note how the back leg actually moves backwards away
 from the hit!
 
-|  |
-| --- |
-| ![A person running on a tennis court Description automatically |
-| generated](media_more-on-the-step-step-rip/media/image6.webp) |
-|  |
-| **The first step is the positioning step with the foot closest to the ball. The second step is forward into the volley.** |
+![A person running on a tennis court Description automatically generated](media_more-on-the-step-step-rip/media/image6.webp)
 
+**The first step is the positioning step with the foot closest to the ball. The second step is forward into the volley.**
 
 **The Volley**
 
@@ -164,17 +139,12 @@ If Tim only stepped across with his left foot, his timing would be off.
 **[[Once you allow yourself to step with the right foot first and get
 correct position to the ball then, you can then step in with the left.
 Again, there are two steps creating the step, step rhythm.]
-\<Read this article for more details on how to get correct position to
+<Read this article for more details on how to get correct position to
 the ball]
-[HERE](Court%20Movement%20-%20The%20Volley.docx)[\>]**
+[HERE](Court%20Movement%20-%20The%20Volley.docx)[>]**
 
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                  ![A person playing tennis Description automatically generated with medium
-   confidence](media_more-on-the-step-step-rip/media/image7.webp)
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                       **The Step, Step, Hit on an overhead moving backwards: A crossover with the right foot and then a launch upward off the left.**
-
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person playing tennis Description automatically generated with medium confidence](media_more-on-the-step-step-rip/media/image7.webp)
+**The Step, Step, Hit on an overhead moving backwards: A crossover with the right foot and then a launch upward off the left.**
 
 **Overhead Smash**
 
@@ -195,24 +165,20 @@ makes two subtle steps.** **The first is with his
 front foot from his left to his right. Then second is forward with his
 rear foot, triggering the swing.**
 
-|  |
-| --- |
-| ![A person playing tennis Description automatically generated with medium |
-| confidence](media_more-on-the-step-step-rip/media/image8.webp) |
-|  |
-| **On a lob where the ball bounces, watch Agassi step first from right to left, then from back to front!** |
+![A person playing tennis Description automatically generated with medium confidence](media_more-on-the-step-step-rip/media/image8.webp)
 
+**On a lob where the ball bounces, watch Agassi step first from right to left, then from back to front!**
 
 As we saw in the first article, the way to develop a feel for all these
-combinations is by actually saying \"Step, Step, Hit\" to yourself as
+combinations is by actually saying "Step, Step, Hit" to yourself as
 you practice. Rehearse the pattern of the steps for each shot. Now as
 your partner or teaching pro feeds you balls, coordinate the left and
-right foot steps with the verbal \"Step, Step, Hit.\" mantra. Say it to
+right foot steps with the verbal "Step, Step, Hit." mantra. Say it to
 yourself and let the words sync with the actual steps and the swing:
-\"Step, Step, Hit.\" Again, \"Step, Step, Hit.\" You will start the feel
+"Step, Step, Hit." Again, "Step, Step, Hit." You will start the feel
 the rhythm of this quite quickly. With practice you will find that the
 words, the steps, and the timing of the shot blend together as a smooth
-and continuous whole. You can use the words and feeling of the \"Step,
-Step, Hit\" focus on the process of executing your strokes and the shots
+and continuous whole. You can use the words and feeling of the "Step,
+Step, Hit" focus on the process of executing your strokes and the shots
 you want will tend to naturally follow. You have now developed a
 powerful new way to execute your shots under match pressure.

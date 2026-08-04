@@ -2,19 +2,12 @@
 
 ### By Jim Loehr
 
-------------------------------------------------------------------------
-
-\"Choking.\" Probably the most dreaded word in tennis. There was a time
+"Choking." Probably the most dreaded word in tennis. There was a time
 when players and coaches didn't even say the word, for fear they could
 spread the choking response like a virus.
 
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                            ![A person swinging a baseball bat Description automatically generated with medium
-   confidence](media_mastering-your-choking-response/media/image1.webp)
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                        **Choking is a biochemical event, not a character flaw.**
-
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person swinging a baseball bat Description automatically generated with medium confidence](media_mastering-your-choking-response/media/image1.webp)
+**Choking is a biochemical event, not a character flaw.**
 
 Today, we know enough to say that, without doubt, choking is not a
 character flaw or some permanent disability that isn't possible to
@@ -31,8 +24,8 @@ deceptive. The average player sees that the great players rarely choke
 and expects to perform in the same way. But what you are seeing is the
 exception, not the rule.
 
-One of the most common questions every teaching pro is asked is \"why do
-I always miss easy shots?\" But a better question is, if those shots are
+One of the most common questions every teaching pro is asked is "why do
+I always miss easy shots?" But a better question is, if those shots are
 so easy, why do so many players miss them so much of the time?
 
 Again, the great players are the exception. One of the things that makes
@@ -44,16 +37,11 @@ learn to master it yourself? Research in sports science shows us that
 choking is not a character weakness, but rather a highly specific
 physiological, biochemical state in your body.
 
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                         ![A person in a garment Description automatically generated with low
-   confidence](media_mastering-your-choking-response/media/image2.webp)
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                        **When you choke your breathing gets shorter and so do your strokes.**
-
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person in a garment Description automatically generated with low confidence](media_mastering-your-choking-response/media/image2.webp)
+**When you choke your breathing gets shorter and so do your strokes.**
 
 When you choke in tennis matches, your body's most primitive response
-mechanism has been triggered. Fear \-- the fight or flight response.
+mechanism has been triggered. Fear -- the fight or flight response.
 
 Choking is a biochemical event that can happen to anyone. When we choke,
 it is because we perceive the situation on the court as highly
@@ -75,8 +63,8 @@ been activated, your Ideal Performance State (IPS) is impossible to
 achieve or sustain. (For more on IPS, see Part 1 in this series).
 
 But there is a solution to allow you to tame this response. This
-alternative to the choking response is what we call the \"challenge
-response.\"
+alternative to the choking response is what we call the "challenge
+response."
 
 The challenge response means learning how to view the stress of
 competition, not as threatening, but rather as stimulating. It means
@@ -84,13 +72,8 @@ learning to love the competitive battle, to enjoy the problems that are
 part of the process, no matter how crazy or difficult things get on the
 court.
 
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                      ![A person playing tennis Description automatically generated with medium
-   confidence](media_mastering-your-choking-response/media/image3.jpg)
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                        **Learn to view competition as stimulating rather than threatening.**
-
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person playing tennis Description automatically generated with medium confidence](media_mastering-your-choking-response/media/image3.jpg)
+**Learn to view competition as stimulating rather than threatening.**
 
 It means learning to fuel your performance from your positive emotions,
 playing with the feeling of optimism, enthusiasm, fun and determination.
@@ -123,13 +106,8 @@ percent during your matches, looking strong and confident under stress,
 staying aggressive under pressure, and viewing adversity as a challenge
 and problem-solving opportunity.
 
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                      ![A person playing tennis Description automatically generated with medium
-   confidence](media_mastering-your-choking-response/media/image4.jpg)
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                    **No matter how you feel, project the image of a strong, confident fighter.**
-
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person playing tennis Description automatically generated with medium confidence](media_mastering-your-choking-response/media/image4.jpg)
+**No matter how you feel, project the image of a strong, confident fighter.**
 
 Performance goals allow you to find success in your losses and to
 facilitate the growth of confidence. Make your motto, win or lose,
@@ -186,7 +164,7 @@ For many players, the first error is not the problem. Instead, the
 emotional abuse they heap on themselves when they choke is what really
 perpetuates the negative cycle.**
 
-**Give yourself a key phrase, such as, \"only the ball.\" If you find
+**Give yourself a key phrase, such as, "only the ball." If you find
 yourself engaging in negative self-talk, say to yourself, let it go, and
 focus on the next point.**
 
@@ -195,13 +173,8 @@ be no past or future, only the present. In this framework, every point
 is of the same importance, and this reduces
 pressure.**
 
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                      ![A person playing tennis Description automatically generated with medium
-   confidence](media_mastering-your-choking-response/media/image5.webp)
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                            **Under pressure stay aggressive and execute your game plan.**
-
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person playing tennis Description automatically generated with medium confidence](media_mastering-your-choking-response/media/image5.webp)
+**Under pressure stay aggressive and execute your game plan.**
 
 **Don't try to think in words about what you're trying to do
 technically on the court or how to correct errors. Instead, think in
@@ -229,13 +202,8 @@ Finally, learn to transform the energy you are feeling into a positive
 source of motivation. Use the increased pressure you feel as a way to
 get inspired.
 
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                    ![A person holding a baseball bat Description automatically generated with low
-   confidence](media_mastering-your-choking-response/media/image6.webp)
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                              **What's the point of playing tennis if it's not fun?**
-
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person holding a baseball bat Description automatically generated with low confidence](media_mastering-your-choking-response/media/image6.webp)
+**What's the point of playing tennis if it's not fun?**
 
 Choose to feel the pressure as excitement and transform it into
 productive energy. Learn to love pressure situations.
@@ -257,22 +225,17 @@ have it reversed. Winning is a by product to the right attitude toward
 the game. Challenge yourself to have fun each and every time you go onto
 the court.
 
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![A person smiling for the camera Description automatically generated with medium                                                                                                   Jim Loehr is a legendary pioneer in the field of
-  confidence](media_mastering-your-choking-response/media/image7.jpeg)                                                                                                                                                      himself who still competes nationally in USTA
-                                                                                                                                                                                      events, Jim created the field of Mental
-                                                                                                                                                                                      Toughness training with his revolutionary study
-                                                                                                                                                                                      of elite pro players. He has been one of the
-                                                                                                                                                                                      most influential voices in tennis and tennis
-                                                                                                                                                                                      coaching for over 30 years, and is the author of
-                                                                                                                                                                                      multiple best selling books. He has expanded his
-                                                                                                                                                                                      influence far beyond sports with the creation of
-                                                                                                                                                                                      the Human Performance Institute where he and his
-                                                                                                                                                                                      staff have worked with hundreds of leaders in
-                                                                                                                                                                                      business, law enforcement, and military special
-                                                                                                                                                                                      forces. For the last decade he has also directed
-                                                                                                                                                                                      an academy for junior players helping young
-                                                                                                                                                                                      people learn what winning in life really means.
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ------------------------------------------------
-
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person smiling for the camera Description automatically generated with medium                                                                                                   Jim Loehr is a legendary pioneer in the field of confidence](media_mastering-your-choking-response/media/image7.jpeg)                                                                                                                                                      himself who still competes nationally in USTA
+events, Jim created the field of Mental
+Toughness training with his revolutionary study
+of elite pro players. He has been one of the
+most influential voices in tennis and tennis
+coaching for over 30 years, and is the author of
+multiple best selling books. He has expanded his
+influence far beyond sports with the creation of
+the Human Performance Institute where he and his
+staff have worked with hundreds of leaders in
+business, law enforcement, and military special
+forces. For the last decade he has also directed
+an academy for junior players helping young
+people learn what winning in life really means.

@@ -13,9 +13,13 @@ Now he's back to teach you the 12 Golden Moves. Watch his introduction
 to his original, powerful system, until now used by only a handful of
 elite coaches.
 
-![link](media_introduction-the-12-golden-moves/media/image1.png)
+![Video demonstration](media_introduction-the-12-golden-moves/media/image1.png)
 
-![link](media_introduction-the-12-golden-moves/media/image2.jpeg)
+*Video demonstration — the original video for this article was hosted on TennisPlayer.net.*
+
+![Video demonstration](media_introduction-the-12-golden-moves/media/image2.jpeg)
+
+*Video demonstration — the original video for this article was hosted on TennisPlayer.net.*
 
 David Bailey is a native Australian who has spent 15 years studying
 tennis at the professional level. He has developed a new language for

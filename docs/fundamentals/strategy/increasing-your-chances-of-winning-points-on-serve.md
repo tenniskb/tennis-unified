@@ -2,11 +2,7 @@
 
 ### Nick Wheatley
 
-------------------------------------------------------------------------
-
-![A person holding a tennis racket Description automatically generated
-with medium
-confidence](media_increasing-your-chances-of-winning-points-on-serve/media/image1.webp)
+![A person holding a tennis racket Description automatically generated with medium confidence](media_increasing-your-chances-of-winning-points-on-serve/media/image1.webp)
 
 **How can you use your knowledge of your game and court patterns to make
 critical marginal gains in service points won?**
@@ -37,9 +33,7 @@ your chances of winning the point are the most favourable of all the
 start of point scenarios, but how can you make the most of this
 advantage?
 
-![A picture containing text, sport, outdoor, athletic game Description
-automatically
-generated](media_increasing-your-chances-of-winning-points-on-serve/media/image2.webp)
+![A picture containing text, sport, outdoor, athletic game Description automatically generated](media_increasing-your-chances-of-winning-points-on-serve/media/image2.webp)
 
 **If your serve at your level is dominant like John Isner, it makes
 winning first serve points easier---but few players have that weapon.**
@@ -66,9 +60,7 @@ their technique. Which side looks more natural and easy for the player
 to produce their shots? Does one side have any quirks that may cause
 errors when the player is under pressure?
 
-![A picture containing tennis, athletic game, sport, court Description
-automatically
-generated](media_increasing-your-chances-of-winning-points-on-serve/media/image3.webp)
+![A picture containing tennis, athletic game, sport, court Description automatically generated](media_increasing-your-chances-of-winning-points-on-serve/media/image3.webp)
 
 **Typically serving to the backhand is the percentage play.**
 
@@ -99,9 +91,7 @@ they hurting you more with on returns? If one side is giving you more
 problems on your next shot than the other, then you have a good reason
 to target the side where the returns are coming back less threateningly.
 
-![A picture containing tennis, sport, athletic game, court Description
-automatically
-generated](media_increasing-your-chances-of-winning-points-on-serve/media/image4.webp)
+![A picture containing tennis, sport, athletic game, court Description automatically generated](media_increasing-your-chances-of-winning-points-on-serve/media/image4.webp)
 
 **If you are a left side player, the serve to the T can set up inside
 forehands.**
@@ -127,9 +117,7 @@ are a right-handed player, and your strengths is the left side pattern,
 where you can control points with your inside out and inside in
 forehands.
 
-![A couple of men playing tennis Description automatically generated
-with medium
-confidence](media_increasing-your-chances-of-winning-points-on-serve/media/image5.webp)
+![A couple of men playing tennis Description automatically generated with medium confidence](media_increasing-your-chances-of-winning-points-on-serve/media/image5.webp)
 
 **In the ad court a wide serve is the most likely to create a preferred
 left side pattern, especially if you stand a little left of center.**
@@ -159,8 +147,7 @@ the left, and also be ready to move left after your serve, to increase
 the chance of your next shot being an inside
 forehand.**
 
-![A person playing tennis Description automatically
-generated](media_increasing-your-chances-of-winning-points-on-serve/media/image6.webp)
+![A person playing tennis Description automatically generated](media_increasing-your-chances-of-winning-points-on-serve/media/image6.webp)
 
 **[A body serve forces the returner to move and may force a weak
 return.]**
@@ -188,9 +175,7 @@ strong, and you're able to achieve good spin on the ball, your mindset
 may shift towards looking to take control of the point as you would do
 if you made your first serve.
 
-![A couple of men playing tennis Description automatically generated
-with medium
-confidence](media_increasing-your-chances-of-winning-points-on-serve/media/image5.webp)
+![A couple of men playing tennis Description automatically generated with medium confidence](media_increasing-your-chances-of-winning-points-on-serve/media/image5.webp)
 
 **If your opponent is hurting you off your second serve, one goal is to
 get the point started with a neutral rally.**
@@ -224,8 +209,7 @@ may not have the time for this, but if you can, try to push back and do
 your split step behind the baseline, to give you a little more time and
 room to track down your opponent's return.
 
-![A person holding a tennis racket Description automatically
-generated](media_increasing-your-chances-of-winning-points-on-serve/media/image7.webp)
+![A person holding a tennis racket Description automatically generated](media_increasing-your-chances-of-winning-points-on-serve/media/image7.webp)
 
 **Another option against strong returns on your second serve is to split
 step back.**
@@ -254,8 +238,7 @@ Finally, don't forget the serve and volley option for first and second
 serves. This play is far from dead. It can be extremely effective,
 especially when used sparingly as a surprise tactic.
 
-![A person playing tennis Description automatically
-generated](media_increasing-your-chances-of-winning-points-on-serve/media/image8.webp)
+![A person playing tennis Description automatically generated](media_increasing-your-chances-of-winning-points-on-serve/media/image8.webp)
 
 **Don't be afraid to mix in some serve and volley as a surprise tactic
 on either first or second serve.**
@@ -285,25 +268,34 @@ can easily cause the returner to send the ball up on their return,
 giving you perhaps an easy high volley or a
 smash.**
 
-| ![A person holding a tennis racket Description automatically | Nick Wheatley is an LTA Performance Coach and |
-| --- | --- |
-| generated](media_increasing-your-chances-of-winning-points-on-serve/media/image9.jpeg) | His junior teams, the Hawker Jets, have won 44 |
-|  | competitions since formation, and over the last 2 |
-|  | years alone, his junior players have won 19 |
-|  | singles tournaments between them at county level. |
-|  |  |
-|  | He has been ranked in the top 75 nationally in 35 |
-|  | and over singles and in the top 5 in Surrey |
-|  | county. Nick has done video analysis for numerous |
-|  | players at all levels, including former British |
-|  | Top 10 player Marcus Willis. |
-|  |  |
-|  | His unique teaching video series, covering every |
-|  | aspect of the game, is available on his website |
-|  | [www.nickwtennis.com](http://www.nickwtennis.com) |
-|  |  |
-|  | You can also contact Nick directly via the |
-|  | homepage of his website. |
+![A person holding a tennis racket Description automatically generated](media_increasing-your-chances-of-winning-points-on-serve/media/image9.jpeg)
 
+Nick Wheatley is an LTA Performance Coach and
 
-------------------------------------------------------------------------
+His junior teams, the Hawker Jets, have won 44
+
+competitions since formation, and over the last 2
+
+years alone, his junior players have won 19
+
+singles tournaments between them at county level.
+
+He has been ranked in the top 75 nationally in 35
+
+and over singles and in the top 5 in Surrey
+
+county. Nick has done video analysis for numerous
+
+players at all levels, including former British
+
+Top 10 player Marcus Willis.
+
+His unique teaching video series, covering every
+
+aspect of the game, is available on his website
+
+[www.nickwtennis.com](http://www.nickwtennis.com)
+
+You can also contact Nick directly via the
+
+homepage of his website.

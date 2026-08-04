@@ -2,11 +2,7 @@
 
 ### Frank Giampaolo
 
-------------------------------------------------------------------------
-
-![A person wearing a white shirt Description automatically generated
-with medium
-confidence](media_the-art-of-winning/media/image1.jpg)
+![A person wearing a white shirt Description automatically generated with medium confidence](media_the-art-of-winning/media/image1.jpg)
 
 **What are the hidden protocols in the art of winning?**
 
@@ -33,9 +29,7 @@ score, their errors, and their strategies. Winners enjoy adapting to the
 ever changing challenges of closing out sets and matches. Winners
 maintain their poise under stress.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_the-art-of-winning/media/image2.jpg)
+![A person playing tennis Description automatically generated with medium confidence](media_the-art-of-winning/media/image2.jpg)
 
 **Tour players like Barbara Rettner may not be famous but can still
 defeat you with an A, B, or even C plan.**
@@ -53,21 +47,20 @@ set 4-6 with her Plan A, a hard hitting baseline style.
 
 At the beginning of the second set, Barbara shifted to her Plan B. She
 served and volleyed, and came to the net religiously. That didn't work
-either. Sarah went up 4-1. At that point I thought to myself, \"Nice,
-Sarah can win a match at the Open.\"
+either. Sarah went up 4-1. At that point I thought to myself, "Nice,
+Sarah can win a match at the Open."
 
 But then Barbara shifted to Plan C. This 30 year old, seasoned player
 started moonballing, hitting every shot as high as the top of the lights
 in front of a crowd 2000 people at the US Open.
 
 And guess who came back to win the second set and take the third with
-ease? Guess who won \$15,800.00 that day? You guessed it.
+ease? Guess who won $15,800.00 that day? You guessed it.
 
 Why? Because Barbara took the time to develop more than one style of
 play, and wasn't afraid to put that Plan C in play.
 
-![A person playing tennis Description automatically
-generated](media_the-art-of-winning/media/image3.webp)
+![A person playing tennis Description automatically generated](media_the-art-of-winning/media/image3.webp)
 
 **A world class forehand has defensive as well as offensive
 capability.**
@@ -76,7 +69,7 @@ capability.**
 
 A world class forehand has offensive, neutral, and defensive qualities.
 A player may have a monster offensive forehand but if he or she hasn't
-developed the neutral and defensive skill sets, this makes that \"big\"
+developed the neutral and defensive skill sets, this makes that "big"
 forehand attackable.
 
 Playing neutral and defensive balls will inevitably elicit errors.
@@ -97,8 +90,7 @@ When you identify this type of tendency, don't stop attacking weaknesses
 until a player has proven repeatedly that he has solved the problem.
 Stick with the same old boring way of winning points.
 
-![A person playing tennis Description automatically
-generated](media_the-art-of-winning/media/image4.webp)
+![A person playing tennis Description automatically generated](media_the-art-of-winning/media/image4.webp)
 
 **Most players are trained to pound 78 foot groundstrokes from baseline
 to baseline.**
@@ -129,10 +121,12 @@ game points. If the opponent's killing you with a certain pattern
 expect it on big points.
 
 If you've hurt an opponent with a system of play, keep attacking that
-wound relentlessly. In boxing, this is called \"stop the bleeding and
-cause more bleeding\".
+wound relentlessly. In boxing, this is called "stop the bleeding and
+cause more bleeding".
 
-![link](media_the-art-of-winning/media/image5.png)
+![Video demonstration](media_the-art-of-winning/media/image5.png)
+
+*Video demonstration — the original video for this article was hosted on TennisPlayer.net.*
 
 **Revisit winning patterns on game points.**
 
@@ -166,8 +160,7 @@ the pace of the match and the duration between points? It should be you.
 Once you've spotted things that make the opponent uncomfortable, revisit
 those tactics on big points.
 
-![A person holding a tennis racket Description automatically
-generated](media_the-art-of-winning/media/image6.jpg)
+![A person holding a tennis racket Description automatically generated](media_the-art-of-winning/media/image6.jpg)
 
 **Watch for negative emotions and body language in your opponent and
 repeat what causes this to happen.**
@@ -192,7 +185,7 @@ easily won the point.**
 These are just examples. But inappropriate shot selection is easy to fix
 and should be a leading focal point of advanced training.
 
-Start by having a friend or coach do a \"Cause of Error Chart\" during
+Start by having a friend or coach do a "Cause of Error Chart" during
 an upcoming match. Make four columns: 1) Stroke Mechanics. 2) Shot
 Selection. 3) Movement/Spacing. 4) Emotional/Focus Control. For every
 error in the match, a check mark is simply placed in the appropriate
@@ -205,8 +198,7 @@ handle a situation, they tend to follow it. To give one critical
 example: what is your opponent's short ball optional preference? What
 is yours?
 
-![A person playing tennis Description automatically
-generated](media_the-art-of-winning/media/image7.webp)
+![A person playing tennis Description automatically generated](media_the-art-of-winning/media/image7.webp)
 
 **What are your preferred short ball options---and what are your
 opponent's?**
@@ -242,11 +234,9 @@ necessary?
 
 Are you throwing the same 67 mph fastball, 2 feet over the net directly
 you're your opponent's wheelhouse over and over again? And then walking
-away from the match saying, \"I had no chance! His forehand was huge!\"
+away from the match saying, "I had no chance! His forehand was huge!"
 
-![A baseball player throwing a ball Description automatically generated
-with medium
-confidence](media_the-art-of-winning/media/image8.jpg)
+![A baseball player throwing a ball Description automatically generated with medium confidence](media_the-art-of-winning/media/image8.jpg)
 
 **How many pitches do you have to use and in what situations?**
 
@@ -272,12 +262,10 @@ opponent. I recommend using the allocated 90 seconds between games for
 this type of analysis.
 
 Proper between point rituals are just as important as changeover
-rituals. There are three \"doors\" to walk through while implementing
+rituals. There are three "doors" to walk through while implementing
 between point rituals.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_the-art-of-winning/media/image9.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_the-art-of-winning/media/image9.webp)
 
 **Proper between point rituals help you walk through 3 Doors.**
 
@@ -287,8 +275,8 @@ confidence](media_the-art-of-winning/media/image9.webp)
 time, noting any mistakes technically or tactically.
 
 2\) Planning the next point's pattern. At the higher levels, all sports
-teams strategize and run plays. High performance tennis\--and successful
-tennis at any level\--is no exception.
+teams strategize and run plays. High performance tennis--and successful
+tennis at any level--is no exception.
 
 3\) Applying pre-designed serve and return relaxation rituals. As Jim
 Loehr first pointed out, ([link](https://www.tennisplayer.net/members/jim_loehr/jim_loehr_16_second_cure_prt1_images/jim_loehr_16_second_cure_prt1.html))
@@ -318,4 +306,3 @@ going well.
 The ability to remain unflappable under stress is learned behavior.
 Winners practice these protocols with the same dedication they apply to
 their fundamental strokes.
-

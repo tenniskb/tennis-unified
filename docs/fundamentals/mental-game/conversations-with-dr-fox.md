@@ -2,15 +2,8 @@
 
 ### Keith Hayes
 
-------------------------------------------------------------------------
-
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                 ![A picture containing outdoor, tree, sky, nature Description automatically
-   generated](media_conversations-with-dr-fox/media/image1.jpg)
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                                  **It all started at Pepperdine in 1984.**
-
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A picture containing outdoor, tree, sky, nature Description automatically generated](media_conversations-with-dr-fox/media/image1.jpg)
+**It all started at Pepperdine in 1984.**
 
 Shrewd. I think that word actually landed me the job. In 1984, I was a
 freshman at Pepperdine University. During my second semester, I learned
@@ -38,18 +31,13 @@ Sure, he was just trying to get rid of me, but I kept hope alive. I
 returned to my dorm and crafted the most thoughtful and persuasive
 letter my 19 - year - old brain could compose. Though I spelled out my
 qualifications in glorious detail, my closing paragraph was the
-clincher. There, I deemed Dr. Fox \"a shrewd judge of human character,\"
+clincher. There, I deemed Dr. Fox "a shrewd judge of human character,"
 confidently assuring him he'd make a wise decision regardless of whom
 he hired. A few days later, Dr. Fox shrewdly signed me on as the final
 member of the 1984 Allen Fox Tennis Camp staff.
 
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![A group of tennis players pose for a photo Description automatically generated with medium
-  confidence](media_conversations-with-dr-fox/media/image2.jpg)
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  **Allen Fox, fourth from left in his college playing days at UCLA.**
-
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A group of tennis players pose for a photo Description automatically generated with medium confidence](media_conversations-with-dr-fox/media/image2.jpg)
+**Allen Fox, fourth from left in his college playing days at UCLA.**
 
 **Enlightenment**
 
@@ -57,37 +45,37 @@ Working for Dr. Fox was like entering a whole new realm. While I fancied
 myself an elegant striker of the ball, I soon discovered how little I
 really knew about tennis. Every evening at five o'clock, the entire
 camp would gather in the bleachers while Dr. Fox gave what he called a
-\"strategy talk.\" While these tidy ten-minute sermons did include
-strategy, the term \"strategy talk\" could hardly begin to describe
+"strategy talk." While these tidy ten-minute sermons did include
+strategy, the term "strategy talk" could hardly begin to describe
 them. No, these brief presentations, each delivered seamlessly with
 logic, wit and style, were downright lessons in life - part instruction
 and part philosophy. Little did the 8- to 16-yearold campers know it,
 but Dr. Fox was revealing hidden truths - secrets that, if applied
 wisely, could actually shape their destinies.
 
-For instance, there was the \"Water Fight\" speech. \"Most tennis
-matches,\" Dr. Fox would explain, \"are like water fights in a pool. The
-only way to win one is to keep on splashing until the other guy quits.\"
+For instance, there was the "Water Fight" speech. "Most tennis
+matches," Dr. Fox would explain, "are like water fights in a pool. The
+only way to win one is to keep on splashing until the other guy quits."
 
 Of course, we all laughed at the simple analogy, but then I remembered
 my undistinguished high school career. How many times had I given up
-\"splashing\" because I'd grown weary or disenchanted? How many times
+"splashing" because I'd grown weary or disenchanted? How many times
 had I actually quit trying because - like a water fight - things were
 becoming mildly unpleasant? Who knows? Maybe I believed that if I chose
-to quit, I wouldn't really be \"losing.\" Suddenly, I stopped laughing
+to quit, I wouldn't really be "losing." Suddenly, I stopped laughing
 and started listening.
 
-Then, there was the \"Expecting to Fly\" speech. \"How many of you,\"
-Dr. Fox would ask, pointing to the top of a nearby hill, \"think you
-could stand there, start flapping your arms\" (he'd flap his arms for
-emphasis) \"and then fly down here to the tennis courts?\" More
+Then, there was the "Expecting to Fly" speech. "How many of you,"
+Dr. Fox would ask, pointing to the top of a nearby hill, "think you
+could stand there, start flapping your arms" (he'd flap his arms for
+emphasis) "and then fly down here to the tennis courts?" More
 laughter.
 
-\"Would you be surprised if you couldn't? Dr. Fox would ask. \"Would it
-make you mad?\" More laughter. \"All right, then,\" he'd continue,
-\"how many of you think you can play an entire tennis match without
+"Would you be surprised if you couldn't? Dr. Fox would ask. "Would it
+make you mad?" More laughter. "All right, then," he'd continue,
+"how many of you think you can play an entire tennis match without
 missing any easy balls? Without your opponent hitting any lucky
-winners?\"
+winners?"
 
 Again, I thought about my own game. For years, I'd been honing my
 prodigious strokes only to forfeit untold points - let alone matches -
@@ -98,63 +86,58 @@ injustice to get the better of me. In my delusional state - in my
 fantasy - I'd honestly believe that these things shouldn't happen to
 me.
 
-Then, there was the \"Excuse Makers\" speech, a true Allen Fox classic.
-\"How many of you,\" Dr. Fox would ask, \"consider yourselves excuse
-makers?\" Silence.
+Then, there was the "Excuse Makers" speech, a true Allen Fox classic.
+"How many of you," Dr. Fox would ask, "consider yourselves excuse
+makers?" Silence.
 
-Dr. Fox would then turn the question around. \"How many of you know any
-excuse makers at this camp?\" Of course, all hands would go up.
-\"Okay,\" he'd continue, \"tell me a few excuses you've heard since
-you've been here.\"
+Dr. Fox would then turn the question around. "How many of you know any
+excuse makers at this camp?" Of course, all hands would go up.
+"Okay," he'd continue, "tell me a few excuses you've heard since
+you've been here."
 
-\"The sun was in my eyes!\"
+"The sun was in my eyes!"
 
-\"I had a blister!\"
+"I had a blister!"
 
-\"I got dehydrated!\"
+"I got dehydrated!"
 
-\"She cheated!\"
+"She cheated!"
 
-\"A plane flew over right as I was about to serve!\"
+"A plane flew over right as I was about to serve!"
 
-\"I had an off day!\"
+"I had an off day!"
 
 And so on. Once he'd heard enough, Dr. Fox would ask another question.
 
-\"Why do you suppose people make excuses?\"
+"Why do you suppose people make excuses?"
 
-\"Because they don't want to look bad?\"
+"Because they don't want to look bad?"
 
-\"Right!\" Dr. Fox would say. \"Now, how do excuse makers really look?
-Do they look better? Do you even care why your opponent lost?\" Again, I
+"Right!" Dr. Fox would say. "Now, how do excuse makers really look?
+Do they look better? Do you even care why your opponent lost?" Again, I
 looked within - and beheld a certified excuse maker. Why, I suddenly
 wondered, would my bad wrist only hurt when I started losing? And did a
 sore wrist necessarily mean I had to lose? While I'd always thought I
 wanted to win, I now realized that the prospect of trying my hardest and
 perhaps losing anyway was terrifying to me. As defeat seemed more
-likely, \"loser's limp\" would inevitably creep in.
+likely, "loser's limp" would inevitably creep in.
 
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![A picture containing text, outdoor, person, person Description automatically
-  generated](media_conversations-with-dr-fox/media/image3.jpg)
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  **Dr. Fox led the Waves to an NCAA team runner up finish twice, here receiving the trophy from former Secretary of State Dean Rusk.**
+![A picture containing text, outdoor, person, person Description automatically generated](media_conversations-with-dr-fox/media/image3.jpg)
+**Dr. Fox led the Waves to an NCAA team runner up finish twice, here receiving the trophy from former Secretary of State Dean Rusk.**
 
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+But the most devastating of all was Dr. Fox's famous "Dinker" speech.
+"How many of you," he'd ask, "have ever played a dinker? You know,
+someone who just runs down every ball and lobs it back over?" All hands
+would go up, accompanied by a chorus of groans. "Do you enjoy playing
+dinkers?" Dr. Fox would ask.
 
-But the most devastating of all was Dr. Fox's famous \"Dinker\" speech.
-\"How many of you,\" he'd ask, \"have ever played a dinker? You know,
-someone who just runs down every ball and lobs it back over?\" All hands
-would go up, accompanied by a chorus of groans. \"Do you enjoy playing
-dinkers?\" Dr. Fox would ask.
+More groans. "Why not?" he'd ask. "Because it's boring!" "Because
+they're scared to come to the net!" "Because they never miss!"
+"Because it isn't real tennis!" "Because they suck!"
 
-More groans. \"Why not?\" he'd ask. \"Because it's boring!\" \"Because
-they're scared to come to the net!\" \"Because they never miss!\"
-\"Because it isn't real tennis!\" \"Because they suck!\"
-
-Dr. Fox would listen patiently until the campers were through. \"You
-don't like playing dinkers,\" he'd calmly suggest, \"because they beat
-you. They beat you, don't they?\"
+Dr. Fox would listen patiently until the campers were through. "You
+don't like playing dinkers," he'd calmly suggest, "because they beat
+you. They beat you, don't they?"
 
 Ouch! Enough already!
 
@@ -164,22 +147,17 @@ drive me to madness. In my mind, I was convinced that dinking was
 inherently wrong and immoral. Even though dinking was actually safer,
 smarter, and, obviously, more effective than my own reckless
 strategies - if strategies they could be called - because I couldn't
-beat dinkers, I perceived them as \"bad.\"
+beat dinkers, I perceived them as "bad."
 
 While I carefully concealed my feelings, I wanted to crawl under a rock.
 How could this man who knew so little about me know so much about me?
 Shrewd judge of human character, my foot. This mysterious Dr. Fox had a
 window straight into my soul! Suddenly, I felt unworthy of the title
-\"tennis instructor.\" Who was I kidding? I was no tennis teacher. I was
+"tennis instructor." Who was I kidding? I was no tennis teacher. I was
 a hollow sham.
 
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                            ![A person playing tennis Description automatically generated with medium
-   confidence](media_conversations-with-dr-fox/media/image4.jpg)
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                     **Dr. Fox I found had a window straight into my soul.**
-
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person playing tennis Description automatically generated with medium confidence](media_conversations-with-dr-fox/media/image4.jpg)
+**Dr. Fox I found had a window straight into my soul.**
 
 **Preaching**
 
@@ -215,21 +193,16 @@ developing a deep and genuine respect for me and my tennis game.
 Proof of his admiration came one day toward the end of the summer, when
 he approached me with a proposition.
 
-\"Hey, Keith,\" Dr. Fox said cheerfully. \"Yes?\" \"You think you could
-beat me if I played left-handed?\"
+"Hey, Keith," Dr. Fox said cheerfully. "Yes?" "You think you could
+beat me if I played left-handed?"
 
 Gulp. Why was he asking me this? On one hand, I was offended; on the
 other hand, knowing Dr. Fox, I felt certain he wouldn't have challenged
-me if he didn't believe he could win. \"I hope so,\" I answered,
+me if he didn't believe he could win. "I hope so," I answered,
 meaning to sound more confident than I actually did.
 
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![A picture containing outdoor, grass, tree, green Description automatically
-  generated](media_conversations-with-dr-fox/media/image5.jpg)
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  **The remote Pepperdine Courts where Dr. Fox taught me his greatest lesson.**
-
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A picture containing outdoor, grass, tree, green Description automatically generated](media_conversations-with-dr-fox/media/image5.jpg)
+**The remote Pepperdine Courts where Dr. Fox taught me his greatest lesson.**
 
 With that, Dr. Fox led me to one of Pepperdine's more remote tennis
 courts, and we played. Since I'd seen him play left-handed before, I
@@ -274,8 +247,7 @@ I decided, I'd simply stay behind the baseline and out-steady Dr. Fox;
 I'd turn the match into a water fight! After all, I was 19 and Dr. Fox
 was about 50. Father Time was on my side. Wasn't he?
 
-![A person playing tennis Description automatically
-generated](media_conversations-with-dr-fox/media/image6.webp)
+![A person playing tennis Description automatically generated](media_conversations-with-dr-fox/media/image6.webp)
 
 **How good could this former world class player really be playing
 left-handed at age 50?**
@@ -291,7 +263,7 @@ Dr. Fox had effectively stripped me of my power. Worst of all, he was
 dictating the match - controlling every point! - with his wimpy and
 grotesque left-handed game. The longer we played, the more helpless and
 frustrated I felt. At one point, I considered throwing my racket, but
-then I recalled the \"Expecting to Fly\" speech. Since my enlightenment,
+then I recalled the "Expecting to Fly" speech. Since my enlightenment,
 I'd understood that racket throwing or any other perceptible display of
 mental or emotional fragility would only fuel the doctor's raging
 competitive fire. And so, I kept on fighting.
@@ -299,7 +271,7 @@ competitive fire. And so, I kept on fighting.
 And fighting. About an hour and a half into our contest, Dr. Fox had
 finally reached set point. Whatever you do, I told myself, don't give
 up now! That's just what the man wants! The next point was one of our
-longest. Just stay calm and wait for an opening\...And don't try
+longest. Just stay calm and wait for an opening...And don't try
 anything stupid! After about 20 shots, I saw what I perceived to be a
 small opening and went for a winner. The trouble with the dinking game
 is that, when a rare opportunity does present itself, one tends to get
@@ -309,7 +281,7 @@ intended winner went out and thus ended our excruciating clash of wills,
 
 I stood for a moment and wondered. Had I done everything I could? How
 many points had I thrown away in frustration? Had I given up
-\"splashing\" first? I didn't think I had, but one thing was certain:
+"splashing" first? I didn't think I had, but one thing was certain:
 Dr. Fox definitely never gave up - nor was he about to - and that had
 shaken me. I shook Dr. Fox's hand and made a conscious effort to avoid
 making excuses. Inside, though, I was embarrassed and angry. How could I
@@ -318,13 +290,8 @@ Especially when I'd seen him play before and known his weaknesses? When
 he'd already given me explicit instructions on how to handle his style
 of play?
 
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![A large group of people posing for a photo Description automatically
-  generated](media_conversations-with-dr-fox/media/image7.jpg)
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  **The Allen Fox Tennis Camp in 1986. In the third row, Allen is 6th from the left and I am fourth from the right.**
-
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A large group of people posing for a photo Description automatically generated](media_conversations-with-dr-fox/media/image7.jpg)
+**The Allen Fox Tennis Camp in 1986. In the third row, Allen is 6th from the left and I am fourth from the right.**
 
 And then it hit me: Whenever I'd watched Dr. Fox beating the campers
 left-handed, I always felt a certain smugness. Just look at the shrewd
@@ -361,23 +328,32 @@ how simple Dr. Fox's message was. For such a brilliant and illustrious
 guy, nine tenths of what he preached was common sense. You just had to
 be shrewd to see it.
 
-| ![A person smiling for the camera Description automatically generated with medium | USPTA instructor Keith Hayes attended Pepperdine |
-| --- | --- |
-| confidence](media_conversations-with-dr-fox/media/image8.jpeg) | Tennis Coach Allen Fox and became a counselor at his |
-|  | summer tennis camps, beginning a tennis teaching |
-|  | career - and a friendship with Allen - that has |
-|  | continued ever since. After Pepperdine, Keith went to |
-|  | work in the San Francisco Bay Area advertising and |
-|  | graphic design industries. Later he also became an |
-|  | English teacher. As head coach of the Marin Catholic |
-|  | High School women's tennis team, Keith won |
-|  | back-to-back Division II North Coast Section titles |
-|  | in 2008 and 2009. When he's not teaching tennis, |
-|  | Keith continues to work as a freelance writer and |
-|  | designer. In addition to Tennisplayer.net, his |
-|  | stories have also appeared in TENNIS magazine. |
-|  |  |
-|  |  |
+![A person smiling for the camera Description automatically generated with medium confidence](media_conversations-with-dr-fox/media/image8.jpeg)
 
+USPTA instructor Keith Hayes attended Pepperdine
 
-------------------------------------------------------------------------
+Tennis Coach Allen Fox and became a counselor at his
+
+summer tennis camps, beginning a tennis teaching
+
+career - and a friendship with Allen - that has
+
+continued ever since. After Pepperdine, Keith went to
+
+work in the San Francisco Bay Area advertising and
+
+graphic design industries. Later he also became an
+
+English teacher. As head coach of the Marin Catholic
+
+High School women's tennis team, Keith won
+
+back-to-back Division II North Coast Section titles
+
+in 2008 and 2009. When he's not teaching tennis,
+
+Keith continues to work as a freelance writer and
+
+designer. In addition to Tennisplayer.net, his
+
+stories have also appeared in TENNIS magazine.

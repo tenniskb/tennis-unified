@@ -2,11 +2,9 @@
 
 ### Nick Bollettieri
 
-![A picture containing tennis, athletic game, sport, player Description
-automatically
-generated](media_return-plan/media/image1.webp)
+![A picture containing tennis, athletic game, sport, player Description automatically generated](media_return-plan/media/image1.webp)
 
-**The return battle begins with rituals\--and strategies.**
+**The return battle begins with rituals--and strategies.**
 
 **[The battle between the server and the returner begins [long before
 the serve is ever hit.]]** As the players take their
@@ -16,7 +14,7 @@ times, then takes one last look at the returner before sending the toss
 into the air.
 
 Meanwhile, the returner readies himself with his own set of
-rituals\--ready steps, swaying back and forth, or possibly taking steps
+rituals--ready steps, swaying back and forth, or possibly taking steps
 forward and then backwards like the great Andre Agassi.
 
 But I'm here to tell you, you need a lot more than rituals to develop a
@@ -26,8 +24,7 @@ fundamentals of technique. [link](Return%20Technique.docx) Now
 let's look at the third part of developing a great return game: your
 return plan.
 
-![A person swinging a baseball bat Description automatically
-generated](media_return-plan/media/image2.webp)
+![A person swinging a baseball bat Description automatically generated](media_return-plan/media/image2.webp)
 
 **Is the return a forehand or a backhand?**
 
@@ -63,18 +60,17 @@ It may seem unrealistic to have this type of long mental checklist
 before every return, but with experience the right questions will begin
 to flow through your mind instinctively.
 
-![A person playing tennis Description automatically
-generated](media_return-plan/media/image3.webp)
+![A person playing tennis Description automatically generated](media_return-plan/media/image3.webp)
 
 **The return checklist becomes automatic.**
 
 Here's one example of how the check list can work in the mind of an
-experienced player. \"My opponent has been attacking the \"T\" with
+experienced player. "My opponent has been attacking the "T" with
 accurate placements and coming in nearly every first serve, so I better
 expect that to happen. The serve will likely be hard and flat so I'm
 prepared to chip the return down to his feet, straight back down the
 middle. This will force him to volley up and then give me the
-opportunity to pass him on the next ball.\"
+opportunity to pass him on the next ball."
 
 That's one example. But let's take a closer look at all of the factors
 so you can start to see how they call come into play in planning your
@@ -87,17 +83,16 @@ overwhelming power, block and chip returns are the most effective tools
 for your counter attack.**
 
 - **[Hitting flatter drive returns on the rise requires great
-  timing.]**
+timing.]**
 
 - **[Top spin drives take longer to execute but can be very effective in
-  the right circumstances.]**
+the right circumstances.]**
 
 **You should decide what type of return you want to hit in advance of
 the serve.** This is largely determined by factors
 we'll look at now.
 
-![A person playing tennis Description automatically
-generated](media_return-plan/media/image4.webp)
+![A person playing tennis Description automatically generated](media_return-plan/media/image4.webp)
 
 **The type of serve in part dictates the type of return.**
 
@@ -120,9 +115,7 @@ Yes Andre Agassi often steps in and absolutely cleans these serves on
 the rise. That's an advanced strategy and there is one way to know if
 it is effective for you. Can you execute it consistently?
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_return-plan/media/image5.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_return-plan/media/image5.webp)
 
 **One second serve option: run around and attack.**
 
@@ -143,15 +136,13 @@ you to challenge the ball.** **In this situation,
 trying to take the ball earlier makes more sense.**
 
 **Another option is to attack the net off the
-return.** **[[Change your position; move forward;
+return.** **[Change your position; move forward;
 chip and charge.] [Or get around the ball the way so many top
-players now do and hit that inside-out forehand.]]**
+players now do and hit that inside-out forehand.]**
 This part comes back to attitude. When you get the chance, I want you to
 send a message to the server.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_return-plan/media/image6.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_return-plan/media/image6.webp)
 
 **Another second serve option: chip and charge.**
 
@@ -182,9 +173,7 @@ times this is enough to draw a volley error. It may not seem glamorous
 compared to a 90mph return hit on the rise, but it is can be just as
 effective and is a much higher percentage play.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_return-plan/media/image7.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_return-plan/media/image7.webp)
 
 **Get the return low and pass on the second ball.**
 
@@ -220,9 +209,7 @@ find few opportunities to attack net in first serve situations. But
 very effective at applying pressure to the
 server.***
 
-![A picture containing sport, athletic game, tennis Description
-automatically
-generated](media_return-plan/media/image8.webp)
+![A picture containing sport, athletic game, tennis Description automatically generated](media_return-plan/media/image8.webp)
 
 **If the server can't hit the location, shift position.**
 
@@ -245,8 +232,7 @@ over hit and try to power through the returner. Or he may become more
 tentative. Either way, the returner is affecting the thinking of the
 server and can sometimes illicit a double fault or a weaker return.
 
-![A person playing tennis Description automatically
-generated](media_return-plan/media/image9.webp)
+![A person playing tennis Description automatically generated](media_return-plan/media/image9.webp)
 
 **With the right attitude, you'll time the big returns.**
 
@@ -254,7 +240,7 @@ This is just one example of the ways the returner can influence the
 server. A second is starting position from left to right. Typically,
 your normal starting position for the return will be halfway between the
 most extreme serve placements either wide or down the T. We call this
-position \"neutral\" because you favor no one particular side and leave
+position "neutral" because you favor no one particular side and leave
 no major openings to attack. **But as the match progresses and you
 begin to see the server neglecting specific serve targets, you should
 adjust your court position to facilitate attack.**
@@ -272,13 +258,11 @@ serve targets and effectively disguising these placements, sometimes you
 just have to become more patient to get an edge. I often talked to Andre
 Agassi about this. I'd tell him, don't worry about that big serve. You
 may miss a few returns. But don't show the server that you're
-emotionally upset. Make up your mind: \"I'm going to get the next
-one.\" Eventually, if you have that attitude, you'll connect on a few
+emotionally upset. Make up your mind: "I'm going to get the next
+one." Eventually, if you have that attitude, you'll connect on a few
 and that's all you need.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_return-plan/media/image10.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_return-plan/media/image10.webp)
 
 **Bait and switch, create and opening and take it away.**
 
@@ -312,17 +296,15 @@ now in your normal return position no matter where the serve is placed.
 Used sparingly, the bait and switch will work effectively, so try it
 when you need it the most.**
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_return-plan/media/image11.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_return-plan/media/image11.webp)
 
 **When the player looks up, make your move.**
 
-**[[A similar point applies if you are looking to run around your
+**[A similar point applies if you are looking to run around your
 backhand and hit an inside forehand return, wait until the server's
 eyes look up with the toss before you make your move.] [Once the
 server's looking up, they are more focused on executing the serve and
-are unable to see you make your move.]]**
+are unable to see you make your move.]**
 
 **Your court position depth can also be used as one of the most
 effective tools to break down the serve and volley attack. If you always
@@ -336,20 +318,18 @@ altering your strokes, change your position instead and you may find
 your opponent constantly searching for timing and
 rhythm.**
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_return-plan/media/image12.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_return-plan/media/image12.webp)
 
-**The classic club strategy: \"Blast and Push.\"**
+**The classic club strategy: "Blast and Push."**
 
 **Blast and Push**
 
 Here is a final aspect to the return game that applies at the club
-level, Many club players use a serving strategy we call \"Blast and
-Push.\" They lack the correct grips and motions to serve effectively
+level, Many club players use a serving strategy we call "Blast and
+Push." They lack the correct grips and motions to serve effectively
 with spin. So they blast away at the first serve hitting it as hard and
 flat as possible, usually with a forehand grip. When it doesn't go
-in\--and it usually doesn't\--then they push the second serve into
+in--and it usually doesn't--then they push the second serve into
 play, again hitting little or no spin.
 
 Since this strategy results in such a low first serve percentage, most
@@ -359,7 +339,7 @@ those cases, the strategy should be just to neutralize the first serve
 by chipping or just blocking the ball. The second serve can actually be
 difficult to deal with because the change in speed is so great compared
 to the first ball. This is where an inexperienced player can donate a
-lot of points trying to hit big returns agains \"easy\"
+lot of points trying to hit big returns agains "easy"
 serves.**
 
 **Remember that generating your own pace on the return is actually
@@ -372,9 +352,7 @@ turn the push second serve into a weapon for the server by making
 unforced errors because you think you should be able to blast the ball
 yourself.**
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_return-plan/media/image13.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_return-plan/media/image13.webp)
 
 **The return: mental, technical, tactical.**
 
@@ -389,9 +367,7 @@ systematically on developing them. Follow my advice in this article and
 the two other return on Tennisplayer ([link](Famous%20Coaches%20TOC.docx)) and you'll have a huge advantage
 over most of your opponents.
 
-![A person wearing sunglasses Description automatically generated with
-medium
-confidence](media_return-plan/media/image14.jpeg)
+![A person wearing sunglasses Description automatically generated with medium confidence](media_return-plan/media/image14.jpeg)
 
 Nick Bollettieri is the legendary coach who invented the concept of the
 tennis academy more than 30 years ago. He has trained thousands of elite

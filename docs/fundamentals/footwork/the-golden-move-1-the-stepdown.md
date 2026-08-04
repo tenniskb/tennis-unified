@@ -3,8 +3,8 @@
 **David Bailey**
 
 When you want to take time away from your opponent, take the ball early,
-or hit a ball that bounces low, the key footwork pattern\--or contact
-move\-- is the Step Down. In this article David shows you the patterns
+or hit a ball that bounces low, the key footwork pattern--or contact
+move-- is the Step Down. In this article David shows you the patterns
 of steps to move to, hit, and recover from a step down on the
 forehand---including forehands hit inside out and inside in---and both
 the two-handed and one handed backhand. Your distance from the ball
@@ -15,9 +15,13 @@ Hitting stances should also vary with distance to the ball and with the
 stroke itself. See it all in this incredible article based on David's
 decades of study of the footwork of the best players in the world.
 
-![link](media_the-golden-move-1-the-stepdown/media/image1.png)
+![Video demonstration](media_the-golden-move-1-the-stepdown/media/image1.png)
 
-![link](media_the-golden-move-1-the-stepdown/media/image2.jpeg)
+*Video demonstration — the original video for this article was hosted on TennisPlayer.net.*
+
+![Video demonstration](media_the-golden-move-1-the-stepdown/media/image2.jpeg)
+
+*Video demonstration — the original video for this article was hosted on TennisPlayer.net.*
 
 David Bailey is a native Australian who has spent 15 years studying
 tennis at the professional level. He has developed a new language for

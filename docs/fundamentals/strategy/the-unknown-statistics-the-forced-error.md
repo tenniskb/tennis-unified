@@ -2,15 +2,8 @@
 
 ### John Yandell
 
-------------------------------------------------------------------------
-
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                         ![A person hitting a ball with a tennis racket Description automatically
-   generated](media_the-unknown-statistics-the-forced-error/media/image1.jpg)
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                          **An \"unknown statistic\": Andre forced 26 errors with his forehand groundies, returns, and passes.**
-
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person hitting a ball with a tennis racket Description automatically generated](media_the-unknown-statistics-the-forced-error/media/image1.jpg)
+**An "unknown statistic": Andre forced 26 errors with his forehand groundies, returns, and passes.**
 
 What can statistics really tell us about tennis matches? What can we
 learn from the classic Agassi versus Sampras match at this year's U.S.
@@ -30,12 +23,12 @@ reverse the outcome in long standing rivalries if you understand what
 really pays on a percentage basis over the course of a match.
 
 In this new series we'll look at what statistics can tell us about how
-to win matches, starting with an analysis of what I call the \"unknown
-statistic,\" the forced error.
+to win matches, starting with an analysis of what I call the "unknown
+statistic," the forced error.
 
 **The Forced Error**
 
-**I call forced errors the \"unknown statistic,\" because
+**I call forced errors the "unknown statistic," because
 unfortunately they are not recorded by most official tournament scoring
 or in TV statistics.** **Yet it may be the most
 critical shot category, and usually decides matches at the pro level,
@@ -45,7 +38,7 @@ and every level below.**
 has at least the possibility of making a return, is able to execute
 something approximating a regular swing, but is unable to control and
 return the shot. The result is an error, but this is different than an
-unforced error. The error was \"forced,\" due to the pressure and/or
+unforced error. The error was "forced," due to the pressure and/or
 placement of the other player's ball.**
 
 A ball that gets by the player entirely or careens off the tip of his
@@ -88,11 +81,11 @@ percentages. You could even study the average serve speeds to all 4
 corners of the service box for every player. But not forced errors-and
 this is true of the television statistics as well.
 
-Another view of course would be to say: \"Hey it went to 4
-tiebreakers\--what effect could the overall stats have had on
-those\--isn't it more important to understand those 4 breakers?\"
-That's short-sighted. In reality the outcome of all matches\--even
-those with multiple tiebreakers\--usually depends on what happens in the
+Another view of course would be to say: "Hey it went to 4
+tiebreakers--what effect could the overall stats have had on
+those--isn't it more important to understand those 4 breakers?"
+That's short-sighted. In reality the outcome of all matches--even
+those with multiple tiebreakers--usually depends on what happens in the
 give and take of the individual points from game to game.
 
 Over 95% of all matches are won by the player who wins the most total
@@ -104,16 +97,11 @@ over long tough battle by a razor thin margin, and Sampras's
 unexpectedly strong play off the ground. The overall stats really do
 tell the tale, so let's see how and why.
 
-It turned out that the \"forced errors\" were the key to understanding
+It turned out that the "forced errors" were the key to understanding
 this match, as with most matches. So, let's examine why.
 
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                         ![A person hitting a ball with a tennis racket Description automatically
-   generated](media_the-unknown-statistics-the-forced-error/media/image2.jpg)
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                             **The big surprise was how well Pete's forehand matched up in critical crosscourt exchanges.**
-
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person hitting a ball with a tennis racket Description automatically generated](media_the-unknown-statistics-the-forced-error/media/image2.jpg)
+**The big surprise was how well Pete's forehand matched up in critical crosscourt exchanges.**
 
 Let's start by looking at some of the things the official statistics
 did tell us. First, the total number of points won by both players. Over
@@ -157,11 +145,10 @@ heat. So, what's going on here?
 | Errors |  |  |
 | Total | 124 | 124 |
 
-
 Note that the points on winners and errors in the official stats don't
 equal the total points won by either player. They account for only about
 75% of the total points played (248 out of 334 points). The remaining 86
-points-25% of the total points played\--are unaccounted for. And those
+points-25% of the total points played--are unaccounted for. And those
 86 points are more 7 times the point margin in the match.
 
 | ### What the Official Statistics Don't Show: |  |  |
@@ -171,19 +158,13 @@ points-25% of the total points played\--are unaccounted for. And those
 | Points Accounted For | 124 | 124 |
 | Unexplained Points | 49 | 37 |
 
-
 Although there is no official record, these unexplained points were
 presumably decided by forced errors. But without knowing the real
 numbers it's impossible to see the real statistical difference in the
 Sampras/Agassi match, or most close matches for that matter.
 
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                         ![A person hitting a ball with a tennis racket Description automatically
-   generated](media_the-unknown-statistics-the-forced-error/media/image3.jpg)
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                             **Agassi served better than expected, but was it good enough?**
-
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person hitting a ball with a tennis racket Description automatically generated](media_the-unknown-statistics-the-forced-error/media/image3.jpg)
+**Agassi served better than expected, but was it good enough?**
 
 Without the forced errors, the stats in some pro matches can even look
 crazy. The loser can look better statistically than the winner. For
@@ -223,13 +204,10 @@ call, but it also makes sense from the point of view of the Open, since
 counting more winners would help account for the outcome of more points
 and leave less of a gap in the statistical record.
 
-  ------------------------------------------------------------------------
-                                      **Pete**              **Andre**
-  ---------------------------- ----------------------- -------------------
-   Official Unaccounted Points           49                    37
+**Pete**              **Andre**
+Official Unaccounted Points           49                    37
 
-   Charted Forced Errors                 64                    54
-  ------------------------------------------------------------------------
+Charted Forced Errors                 64                    54
 
 In any case, my charting showed the forced errors were probably even
 more important than what can be inferred from the official stats. So,
@@ -239,16 +217,11 @@ According to my charting, Pete generated 64 forced errors, i.e., hit 64
 shots that were too much for Andre to handle. This was over a third of
 his entire point total.
 
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                         ![A person playing tennis Description automatically generated with medium
-   confidence](media_the-unknown-statistics-the-forced-error/media/image4.jpg)
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                              **Nothing Andre could do was enough to overcome the point advantage Pete created with his serve and serve and volley points.**
-
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person playing tennis Description automatically generated with medium confidence](media_the-unknown-statistics-the-forced-error/media/image4.jpg)
+**Nothing Andre could do was enough to overcome the point advantage Pete created with his serve and serve and volley points.**
 
 Andre created 54 forced errors of his own. This was almost the entire
-statistical difference in the match\--10 more forced errors generated by
+statistical difference in the match--10 more forced errors generated by
 Pete. Essentially Pete was able to win by creating 2 or 3 more forced
 errors per set.
 
@@ -295,7 +268,6 @@ forehand groundies, passes and returns.
 | Overhead | 1 | 0 |
 | Total | 64 | 54 |
 
-
 During the course of the match, USA commentator John McEnroe, as well as
 Sampras' coach Paul Annacone, stated that Pete should play more
 aggressively, i.e., chip and charge, and force the play at the net on
@@ -310,13 +282,8 @@ didn't. Pete obviously believed he could stay with Andre better on the
 ground than people thought. He obviously thought that was a better play
 than constantly attacking the net.
 
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                         ![A person hitting a ball with a tennis racket Description automatically
-   generated](media_the-unknown-statistics-the-forced-error/media/image5.jpg)
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                  **Andre was extremely consistent, but Pete virtually matched him when it came to backhand winners and forced errors.**
-
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person hitting a ball with a tennis racket Description automatically generated](media_the-unknown-statistics-the-forced-error/media/image5.jpg)
+**Andre was extremely consistent, but Pete virtually matched him when it came to backhand winners and forced errors.**
 
 More than once, Pete stood toe to toe with Agassi from the baseline and
 came out ahead. He hit running crosscourt forehands that surprised and
@@ -355,13 +322,8 @@ surprisingly well, but Sampras was even more surprising with his strong
 play off the ground. What Andre gained with his great serving, Pete more
 than made up with his success in the groundstroke exchanges.
 
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                         ![A person playing tennis Description automatically generated with medium
-   confidence](media_the-unknown-statistics-the-forced-error/media/image6.jpg)
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                           **Pete made difficult volleys and half volleys look routine\--all part of the statistical package.**
-
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person playing tennis Description automatically generated with medium confidence](media_the-unknown-statistics-the-forced-error/media/image6.jpg)
+**Pete made difficult volleys and half volleys look routine--all part of the statistical package.**
 
 Now don't misunderstand. Despite Andre's great serving, Pete still had
 a big statistical edge on the serve. And Andre still won the statistical
@@ -391,14 +353,12 @@ be easier to force errors there. Remember, a forced error counts just as
 much as a winner-you're one point closer to winning the match. More on
 all this as this series progresses.
 
-Next: Another \"unknown\" statistic: the aggressive margin. See how
-winners, unforced errors and forced errors combine into the \"aggressive
-margin\" and the \"magic numbers\" you need in this category to win
+Next: Another "unknown" statistic: the aggressive margin. See how
+winners, unforced errors and forced errors combine into the "aggressive
+margin" and the "magic numbers" you need in this category to win
 matches at all levels.
 
-![A person smiling for the camera Description automatically generated
-with medium
-confidence](media_the-unknown-statistics-the-forced-error/media/image7.jpeg)
+![A person smiling for the camera Description automatically generated with medium confidence](media_the-unknown-statistics-the-forced-error/media/image7.jpeg)
 
 John Yandell is widely acknowledged as one of the leading videographers
 and students of the modern game of professional tennis. His high speed
@@ -411,5 +371,3 @@ Henin-Hardenne, Taylor Dent and John McEnroe, among others.
 In addition to his role as Editor of Tennisplayer he is the author of
 the critically acclaimed book Visual Tennis. The John Yandell Tennis
 School is located in San Francisco, California.
-
-------------------------------------------------------------------------

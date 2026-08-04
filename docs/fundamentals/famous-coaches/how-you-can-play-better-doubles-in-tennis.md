@@ -61,14 +61,10 @@ positively in the right direction.
 to weathering a storm of tough results. His unwavering optimism keeps
 the morale of our team high and allows us to bounce back stronger."
 
-![A picture containing person, military uniform, couple, people
-Description automatically
-generated](media_how-you-can-play-better-doubles-in-tennis/media/image1.jpeg)
+![A picture containing person, military uniform, couple, people Description automatically generated](media_how-you-can-play-better-doubles-in-tennis/media/image1.jpeg)
 
 Mike (left) and Bob Bryan during the medal ceremony of the men's
 doubles at the 2012 Olympics.   -  AP
-
- 
 
 The greatest doubles team in men's tennis history appreciates
 Macpherson's astute coaching mind as much as his genial personality and
@@ -99,7 +95,7 @@ technique and tactics do you remember most from that training? And which
 fundamentals have you tried to inculcate most as a coach?**
 
 The great thing about being coached by Tony is that we learned to
-volley. There was such an era \[in the 1960s and 1970s\] of great
+volley. There was such an era [in the 1960s and 1970s] of great
 volleyers that we volleyed so much as kids, way more than the kids of
 today do in any of the other countries. We did a lot of volleying,
 reflex volleying, smashing and just playing the net in general. Because
@@ -118,7 +114,7 @@ Singles is a very lonely sport. So, as a coach, you feel an even greater
 onus to prepare your singles player for every eventuality. Because once
 they get out there on the court, they have to think for themselves.
 That's why you see a lot of singles players looking up at their
-\[Player's\] Box --- sometimes in agitation or bewilderment when things
+[Player's] Box --- sometimes in agitation or bewilderment when things
 are not going well.
 
 Whereas in doubles, for example, you prepare Bob and Mike, and if things
@@ -127,29 +123,26 @@ might say to Bob, "We worked on this, we talked about that, and Macca
 said, 'Go down the line' or whatever." It's helpful for a coach to know
 that they have that on-court communication and support.
 
-When I coach John \[Isner\] in singles, he's out there on an island. He
+When I coach John [Isner] in singles, he's out there on an island. He
 has to remember everything and execute everything that we talked about
 beforehand without anyone else's help. You prepare your singles player
 because he has no one to talk to during the match.
 
-![A person playing tennis Description automatically
-generated](media_how-you-can-play-better-doubles-in-tennis/media/image2.jpeg)
+![A person playing tennis Description automatically generated](media_how-you-can-play-better-doubles-in-tennis/media/image2.jpeg)
 
 John Isner adopted a serve-and-volley first approach to his grass-court
 strategy and came very close to reaching the final at Wimbledon 2018.
   -  Getty Images
-
- 
 
 **What have been the biggest changes in how doubles has been played on
 the ATP and WTA tours since 1985 when you turned pro?**
 
 Two things. First of all, there is now a lot more poaching by the net
 player when his partner serves. From the normal formation, the Bryan
-brothers took that to a whole new level. Certainly with \[John\]
-Newcombe and Roche \[in the 1960s and '70s\] and the Woodies \[Todd
-Woodbridge and Mark Woodforde in the 1990s\], those two great Australian
-teams, or even \[John\] McEnroe and \[Peter\] Fleming \[in the 1980s\],
+brothers took that to a whole new level. Certainly with [John]
+Newcombe and Roche [in the 1960s and '70s] and the Woodies [Todd
+Woodbridge and Mark Woodforde in the 1990s], those two great Australian
+teams, or even [John] McEnroe and [Peter] Fleming [in the 1980s],
 weren't anywhere near as active at net as Mike and Bob became. Then
 everyone copied the Bryans. Even though the women don't serve as big as
 the men, they're doing a lot more poaching these days. They're playing a
@@ -161,7 +154,7 @@ brothers had to adjust to because some teams came along in the 1990s and
 brought in the "I" formation. That's been a very effective tactic in
 men's doubles since then because it's not easy to return the ball into
 the alleys off big serves. So when you put your net player in the middle
-of the court \[on your service games\], it makes it difficult for the
+of the court [on your service games], it makes it difficult for the
 returner to hit the ball past the net player. That hasn't been
 aesthetically great for doubles because the points in men's doubles this
 decade have been a little too short. But it's a very effective tactic in
@@ -218,14 +211,10 @@ The junior player and the recreational player sometimes lack the
 footwork, confidence and anticipation to cut across the court where the
 ball is going to be. That comes instinctively to the pros.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_how-you-can-play-better-doubles-in-tennis/media/image3.jpeg)
+![A person playing tennis Description automatically generated with medium confidence](media_how-you-can-play-better-doubles-in-tennis/media/image3.jpeg)
 
 Roger Federer, along with Stefanos Tsitsipas, is one of the two best
 volleyers among the top 20 singles players.   -  AP
-
- 
 
 **The Bryan brothers are always in motion during the point. Why is this
 so critical?**
@@ -276,8 +265,8 @@ you think about the next shot. And you ask yourself which side of the
 court would I like to hit my most powerful and effective shot after the
 return.
 
-Then you have to factor in poaching. Most players have more \[movement\]
-range and \[shot\] power on their forehand side. Bob and Mike feel their
+Then you have to factor in poaching. Most players have more [movement]
+range and [shot] power on their forehand side. Bob and Mike feel their
 favourite return side is Bob on the deuce side and Mike on the ad side.
 But their decision is also based on poaching. Bob feels like if I put
 myself on the forehand court and Mike makes a good return, I have so
@@ -287,14 +276,10 @@ volley.
 So, after you consider these three factors, you decide which side is
 best for you.
 
-![A group of people posing for a photo Description automatically
-generated with medium
-confidence](media_how-you-can-play-better-doubles-in-tennis/media/image4.jpeg)
+![A group of people posing for a photo Description automatically generated with medium confidence](media_how-you-can-play-better-doubles-in-tennis/media/image4.jpeg)
 
-Martina had a nasty \[lefty\] serve, and Pam had a very good serve. They
+Martina had a nasty [lefty] serve, and Pam had a very good serve. They
 both had fantastic volleys.   -  The Hindu Photo Library
-
- 
 
 **When aspiring doubles players watch the pros play either at
 tournaments or on TV, what should they look for to improve their own
@@ -314,7 +299,7 @@ and returns serve.
 
 **Why is it smart to hit up the middle in doubles?**
 
-If you can keep the ball low and up the middle when two \[opposing\]
+If you can keep the ball low and up the middle when two [opposing]
 players are at net, then it's difficult for them to put the ball away.
 On the other hand, if you hit the ball too high over the net near the
 sidelines, it creates too much of a cross-court angle opportunity for
@@ -341,8 +326,8 @@ enough to deflect the ball away for a winner.
 
 In singles, you don't get to start up at net. You have to work your way
 forward to the net. So often, as a singles player, you will have to play
-your first volley around the service line \[which is 21ft from the
-net\]. It is much more difficult to volley from the service line than
+your first volley around the service line [which is 21ft from the
+net]. It is much more difficult to volley from the service line than
 from very close to the net.
 
 When you serve and volley in doubles, there will be plenty of first
@@ -358,8 +343,8 @@ players at net a lot of the time, so you should be in a good position to
 hit a solid volley.
 
 In singles, you have to come to net at the right time, and you also have
-to be athletic and anticipate well like \[Patrick\] Rafter and
-\[Stefan\] Edberg to cover the net. In doubles, quick reflexes are
+to be athletic and anticipate well like [Patrick] Rafter and
+[Stefan] Edberg to cover the net. In doubles, quick reflexes are
 paramount because sometimes the ball comes at you super quick. The best
 doubles players often have the best reflexes of all the players because
 they're so used to it.
@@ -379,45 +364,41 @@ don't need it to put away a volley.
 
 The Bryan brothers are the benchmark. They hit their forehand volleys so
 firm and flat, which a lot of players don't do. A lot of players slice
-their volleys too much. Their racket head starts too steep \[high\]
+their volleys too much. Their racket head starts too steep [high]
 above the ball, and they end up with over-sliced volleys, which lack
 power and penetration. These volleys pop up too high. The Bryans have
 the most classic forehand volleys. They have a little more slice
-\[underspin\] on their backhand volleys, which is normal. But they have
+[underspin] on their backhand volleys, which is normal. But they have
 the ability to flatten out their backhand volleys and get that
 penetration when they need to, as did the great Australians like Roche,
-\[Ken\] Rosewall and \[Fred\] Stolle.
+[Ken] Rosewall and [Fred] Stolle.
 
-![A picture containing person, tennis, person, athletic game Description
-automatically
-generated](media_how-you-can-play-better-doubles-in-tennis/media/image5.jpeg)
+![A picture containing person, tennis, person, athletic game Description automatically generated](media_how-you-can-play-better-doubles-in-tennis/media/image5.jpeg)
 
 It would be fascinating if we had a time machine that had Martina
 Navratilova and Pam Shriver play Venus and Serena Williams.   -  AP
 
- 
-
 **Besides Bob and Mike, which players today have excellent volleys?**
 
-\[Roger\] Federer and \[Stefanos\] Tsitsipas are the two best volleyers
+[Roger] Federer and [Stefanos] Tsitsipas are the two best volleyers
 among the top 20 singles players. Tsitsipas is fantastic. He plays good
-doubles as well as singles because he really wants \[to intercept\] the
+doubles as well as singles because he really wants [to intercept] the
 ball at net. He has the ability to "stick" his volleys when it's
 required or hit angles and touch volleys. Federer is often a brilliant
-volleyer. I'll never forget that \[2014\] Davis Cup final when he put on
+volleyer. I'll never forget that [2014] Davis Cup final when he put on
 a doubles clinic against the French team. His volleys were immaculate
-and spectacular that day. John \[Isner\] proved at Wimbledon last year
+and spectacular that day. John [Isner] proved at Wimbledon last year
 he is becoming an elite volleyer. He adopted a serve-and-volley first
 approach to his grass-court strategy and came very close to reaching the
-final. \[Grigor\] Dimitrov is also an excellent volleyer.
+final. [Grigor] Dimitrov is also an excellent volleyer.
 
 The one-handed players, like Federer, Tsitsipas and Dimitrov --- and
-Navratilova and \[Justine\] Henin, among the women --- are often very
+Navratilova and [Justine] Henin, among the women --- are often very
 good volleyers. Volleying is more challenging for the two-handed
 players, who do things primarily with their second hand, to be as
 instinctive and skilful with the backhand volley.
 
-Among the doubles standouts, \[Pierre-Hugues\] Herbert has very good
+Among the doubles standouts, [Pierre-Hugues] Herbert has very good
 volleying technique. He also has the ability to "stick" a volley.
 
 In general, though, today's players don't volley as well as the
@@ -457,14 +438,10 @@ is hit an occasional winner. If you're the player at the net, you should
 be desperate to volley whenever possible. That's the attitude you should
 have.
 
-![A couple of people play tennis Description automatically generated
-with medium
-confidence](media_how-you-can-play-better-doubles-in-tennis/media/image6.jpeg)
+![A couple of people play tennis Description automatically generated with medium confidence](media_how-you-can-play-better-doubles-in-tennis/media/image6.jpeg)
 
 Martina Hingis was a great example of someone with the ultimate shot
 variety. She could return the ball anywhere.   -  Getty Images
-
- 
 
 **Serving and volleying has almost disappeared in women's doubles on the
 WTA Tour. Why? Do you teach girls and young women how to serve and
@@ -490,7 +467,7 @@ serve and stay back in women's doubles.
 **I miss the superb serving and volleying of 1980s doubles greats
 Martina Navratilova and Pam Shriver.**
 
-Yeah, Martina had a nasty \[lefty\] serve, and Pam had a very good
+Yeah, Martina had a nasty [lefty] serve, and Pam had a very good
 serve. They both had fantastic volleys. They played in an era when no
 one hit the ball particularly hard. So serve-volleying for them was a
 high-percentage play. But these days the serve return is struck with
@@ -501,15 +478,15 @@ Martina was. And Pam was very good, too.
 It would have been interesting for them to play in this era. I'm sure
 they would still have been the best team in the world, but they would
 have had to deal with some more ferocious hitting on their first
-volleys. If you serve-volley against Serena \[Williams\], you better hit
+volleys. If you serve-volley against Serena [Williams], you better hit
 your spot. Otherwise Serena will hit a ball 100 miles an hour at your
 toes.
 
 **It would be fascinating if we had a time machine that had Martina and
 Pam play Venus and Serena.**
 
-Yeah, it would be a great match. Martina and Pam \[who won a team record
-20 Grand Slam titles\] were unbelievably good. I'm sure they'd more than
+Yeah, it would be a great match. Martina and Pam [who won a team record
+20 Grand Slam titles] were unbelievably good. I'm sure they'd more than
 hold their own. Their skills were just fantastic. But Venus and Serena
 hit the ball infinitely harder than anyone in the 1980s. Also, equipment
 has changed, and athletes have gotten faster and stronger.
@@ -534,22 +511,19 @@ His serve is his best shot. He's left-handed, and it's especially
 difficult to return. And Mike is the ultimate wizard at putting the ball
 away at net.
 
-![A group of men holding tennis rackets Description automatically
-generated](media_how-you-can-play-better-doubles-in-tennis/media/image7.jpeg)
+![A group of men holding tennis rackets Description automatically generated](media_how-you-can-play-better-doubles-in-tennis/media/image7.jpeg)
 
 John Bromwich (extreme right), a two-handed Australian player in the
 1930s and 1940s, had a deceptive serve return.   -  The Hindu Photo
 Library
 
- 
-
 **What are the "I" and Australian formations? And when should you use
 them?**
 
 In the "I" formation, if you're the net player, you crouch below the top
-of the net in the \[normal\] service box across from the returner. Then
+of the net in the [normal] service box across from the returner. Then
 your partner basically serves over you, and you pop up and cover
-whichever side \[right or left half of the court\] you and he
+whichever side [right or left half of the court] you and he
 predetermined.
 
 The Australian formation is where you stand more upright at the net and
@@ -579,14 +553,14 @@ That is the best way to defend against the Australian formation. He can
 take the ball early and possibly even follow it into the net to steal
 the net position, if the server stays back. That creates a difficult
 situation for the server if he stays at the baseline and is confronted
-with two players at the net. That exposes his partner \[who is alone\]
+with two players at the net. That exposes his partner [who is alone]
 at the net.
 
 If you use the Australian formation, the net player shouldn't always
 stay on the cross-court side. Sometimes they need to cut across and put
 away the down-the-line return in order to keep the returner guessing and
 off balance. The whole idea is that you never want the returner to know
-where your net man is going to end up \[positioned\].
+where your net man is going to end up [positioned].
 
 **So even recreational players who don't have advanced skills, because
 they're playing opponents who don't have advanced skills either, should
@@ -599,7 +573,7 @@ ad side of the court when she's serving to the ad side because most of
 the players at her level don't have very good backhand volleys. And so
 on the ad side of the court, the returner is able to hit the ball cross
 court without any fear of the net player reaching over and putting away
-a backhand volley. Then they \[the returning team\] just steal the net
+a backhand volley. Then they [the returning team] just steal the net
 position away from the server and win the point.
 
 So I advise her, from the ad side of the court to put her partner in the
@@ -614,14 +588,11 @@ A good tactic to defend against that is to hit the return quickly down
 the line and advance to the net behind it and try to put the server
 under pressure.
 
-![A picture containing text, posing Description automatically
-generated](media_how-you-can-play-better-doubles-in-tennis/media/image8.jpeg)
+![A picture containing text, posing Description automatically generated](media_how-you-can-play-better-doubles-in-tennis/media/image8.jpeg)
 
 Even the great Australian team of the Woodies, Todd Woodbridge and Mark
 Woodforde, wasn't anywhere near as active at net as Mike and Bob Bryan
 became.   -  The Hindu Photo Library
-
- 
 
 **What are the main advantages of the "two-back" formation, where both
 players position themselves close to the baseline?**
@@ -675,7 +646,7 @@ return as consistently as possible. But when you're playing a team with
 good volleyers, you sometimes have to take more risks. Sometimes the
 higher-percentage play is to return serve with more aggression. Maybe
 they will result in a lower percentage of returns, but the returns you
-do make will win points \[either outright or on the next shot\]. And
+do make will win points [either outright or on the next shot]. And
 that will give you a chance for a service break.
 
 So, high-percentage doubles can mean a lot of different things.
@@ -686,10 +657,10 @@ flat, to control the ball for consistency and accuracy.
 
 You do need some spin to control your returns. But if there is a
 poaching threat from the net player, you do need to hit with as much
-penetration \[power\] as possible. So returning in doubles needs to be a
+penetration [power] as possible. So returning in doubles needs to be a
 little more high risk than returning in singles, where you don't have a
-net player harassing you, so you can hit the ball with more margin \[for
-error\]. Specifically, in singles you can hit the ball higher over the
+net player harassing you, so you can hit the ball with more margin [for
+error]. Specifically, in singles you can hit the ball higher over the
 net and position yourself deeper behind the baseline to give yourself
 more time to get the ball in play.
 
@@ -702,21 +673,18 @@ singles players get so used to returning high over the net or chipping
 the return and playing well behind the baseline and giving up ground.
 But when they play doubles, they have to change all that.
 
-Some singles players adjust to that better than others. Rafa \[Nadal\]
+Some singles players adjust to that better than others. Rafa [Nadal]
 does a great job. When he plays doubles, he stands in much closer and
 rips the ball harder and flatter than he would in singles. He smart
 enough and flexible enough to do that, and he's won an Olympic gold
-medal and Masters titles in doubles. Rafa and Roger \[Federer\] have
+medal and Masters titles in doubles. Rafa and Roger [Federer] have
 skills, such as anticipating really well at net, that transfer really
 well to doubles.
 
-![A couple of men playing tennis Description automatically
-generated](media_how-you-can-play-better-doubles-in-tennis/media/image9.jpeg)
+![A couple of men playing tennis Description automatically generated](media_how-you-can-play-better-doubles-in-tennis/media/image9.jpeg)
 
 When Rafa Nadal plays doubles, he stands in much closer and rips the
 ball harder and flatter than he would in singles.   -  Getty Images
-
- 
 
 **"Your doubles game should be filled with sabotage and surprise,"
 advises Marty Smith in his excellent instruction book, *Absolute
@@ -751,7 +719,7 @@ Hingis]**](https://sportstar.thehindu.com/newstag/Martina_Hingis?utm=bodytag)
 was a marvel. She was an absolute genius. She was a great example of
 someone with the ultimate shot variety. She could return the ball
 anywhere. She was especially deadly off the backhand. Her forehand was
-good in doubles, too. The two Martinas \[Hingis and Navratilova\] were
+good in doubles, too. The two Martinas [Hingis and Navratilova] were
 the best volleyers in women's tennis history. Hingis was a spectacular
 doubles player. She was clever and a master at deception. Her hands were
 gold. She and the other Martina were the benchmarks.
@@ -768,10 +736,10 @@ with them has made me a better coach.
 Doubles is such a game of tactics and counter-tactics, and they helped
 me take that to the next level. I had to try to anticipate where their
 opponents were going to serve. For example, what percentage of the time
-would they serve down the middle to \[left-hander\] Bob's forehand, and
+would they serve down the middle to [left-hander] Bob's forehand, and
 what percentage would they take him wide to the backhand? And when they
 take him wide to the backhand, would the net man cover the line, or
-would he cover the lob? How much would they poach on \[right-hander\]
+would he cover the lob? How much would they poach on [right-hander]
 Mike's backhand?
 
 There is so much to try to anticipate about what their opponents would
@@ -780,25 +748,22 @@ and talk about it with the guys. Then, once the match starts, it's up to
 them to use that information and process it and sometimes adjust it if
 it's not working perfectly.
 
-![A picture containing text, person, outdoor Description automatically
-generated](media_how-you-can-play-better-doubles-in-tennis/media/image10.jpeg)
+![A picture containing text, person, outdoor Description automatically generated](media_how-you-can-play-better-doubles-in-tennis/media/image10.jpeg)
 
 Kent Carlsson ranked No. 6 in singles, but he was much weaker in
 doubles. So he played on the baseline when his partner served because
 his ground strokes were vastly superior to his volleys.   -  The Hindu
 Photo Library
 
- 
-
 **Do you use a lot of statistics to formulate your game plans?**
 
 I trust my eyes and my instincts a bit more because I watch a lot of
-tapes \[videos\] of previous match-ups involving other teams. I see what
+tapes [videos] of previous match-ups involving other teams. I see what
 plays they went to on the big points. I do use some stats. The USTA
 tabulates a lot of stats now, so they help me with stats.
 
 I didn't have that for the bulk of my coaching career. But that changed
-in the last couple of years when I've coached John \[Isner\]. The USTA
+in the last couple of years when I've coached John [Isner]. The USTA
 information tells me what percentage of the time a player serves to the
 forehand, the backhand, or the body, and all sorts of things.
 
@@ -834,9 +799,7 @@ game, when the serves get too big, the points can get a little too
 short. But there's nothing more attractive and exciting in tennis than a
 well-played doubles match.
 
-![A person with his hand on his face Description automatically generated
-with medium
-confidence](media_how-you-can-play-better-doubles-in-tennis/media/image11.jpeg)
+![A person with his hand on his face Description automatically generated with medium confidence](media_how-you-can-play-better-doubles-in-tennis/media/image11.jpeg)
 
 **David Macpherson, affectionately nicknamed "Macca," credits great
 chemistry for his extraordinary success with the Bryans.   -  Getty

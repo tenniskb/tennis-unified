@@ -2,11 +2,7 @@
 
 ### By Allen Fox, Ph.D.
 
-------------------------------------------------------------------------
-
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_reducing-stress/media/image1.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_reducing-stress/media/image1.webp)
 
 **Stress can lead to powerful counterproductive emotions.**
 
@@ -33,54 +29,44 @@ at specific examples I've observed in consulting with players, and
 these can illuminate the differences between accurate and inaccurate
 perspectives.
 
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                    ![A person holding a tennis racket Description automatically
-   generated](media_reducing-stress/media/image2.jpg)
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                          **Expectations dating from junior tennis can lead to shaky nerves years later.**
-
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person holding a tennis racket Description automatically generated](media_reducing-stress/media/image2.jpg)
+**Expectations dating from junior tennis can lead to shaky nerves years later.**
 
 Concern about what others will think is stressful. One of the most
 common stress amplifiers is concern over what other people will think if
-they lose. An example came to me in the person of \"Julie,\" (we'll
+they lose. An example came to me in the person of "Julie," (we'll
 call her) a world-ranked young lady on the WTA tour, who was getting
 excessively nervous during matches. She said the stress of the tour was
-getting to her, and my first question was, \"What is it, specifically,
-that worries you most?\" One might ordinarily think it would be the
+getting to her, and my first question was, "What is it, specifically,
+that worries you most?" One might ordinarily think it would be the
 money or ranking, but she said it was what other people would think if
 she lost.
 
 As a teenager Julie had been a promising star, quickly rising to a top
-100 world-ranking, and the press was touting her as the \"next big thing
-in US women's tennis.\" During these heady and exciting times, she had
+100 world-ranking, and the press was touting her as the "next big thing
+in US women's tennis." During these heady and exciting times, she had
 experienced little in the way of shaky nerves. But injuries and personal
 issues had sidelined her for the better part several years. At the time
 we worked together she was just 21, physically fit and well-practiced,
 but unable to perform up to her pre-injury level because of her shaky
 nerves.
 
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                     ![A picture containing text, old Description automatically
-   generated](media_reducing-stress/media/image3.jpg)
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                 **Human beings can be haunted by anxiety over how others see us.**
-
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A picture containing text, old Description automatically generated](media_reducing-stress/media/image3.jpg)
+**Human beings can be haunted by anxiety over how others see us.**
 
 Julie confided that she desperately wanted to prove to the other
 players, her managers, her equipment sponsors, and her friends that she
 again belonged in the higher levels of the game, worthy of notice and
 respect. She was haunted by the feeling that when she lost people were
-thinking, \"Poor Julie. She used to be a great prospect. Too bad she
-fizzled.\" Dogged by these thoughts, it's small wonder she was
+thinking, "Poor Julie. She used to be a great prospect. Too bad she
+fizzled." Dogged by these thoughts, it's small wonder she was
 excessively stressed and finding competition unpleasant.
 
 We can all identify with Julie because we are all, as a social species,
 genetically programmed to seek the approval of others. Oh sure, we are
 told that we shouldn't care what other people say about us, but try as
-we might, we still do. And we've all heard that old saying, \"Sticks
-and stones can break your bones but words can never harm you.\" It's
+we might, we still do. And we've all heard that old saying, "Sticks
+and stones can break your bones but words can never harm you." It's
 actually quite the opposite!
 
 Because concern about the opinions of others is so basic I will not
@@ -92,13 +78,8 @@ themselves. After you win they may congratulate and compliment you, and
 after you lose they may commiserate, but these are just social niceties.
 How deeply concerned are they really? Not very, I would venture.
 
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![A group of people stand on a tennis court Description automatically generated with low
-  confidence](media_reducing-stress/media/image4.jpg)
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------
-  **How deeply are others really concerned about your tennis? Not very.**
-
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A group of people stand on a tennis court Description automatically generated with low confidence](media_reducing-stress/media/image4.jpg)
+**How deeply are others really concerned about your tennis? Not very.**
 
 They would be more engrossed if the topic were their tennis rather than
 yours. You can appreciate this by turning the situation around. How
@@ -107,7 +88,7 @@ or wins? Of course, you may not admit it aloud, but higher on your list
 of priorities is what you are going to have for dinner.
 
 Moreover, your true friends will value you equally whether you win or
-lose. Anyone who doesn't is not worth having as a \"friend,\" and if
+lose. Anyone who doesn't is not worth having as a "friend," and if
 you are smart you will keep your distance from such people because they
 are likely to be shallow, insecure, and somewhat parasitic. (The only
 people who selflessly and significantly care about whether you win or
@@ -115,22 +96,21 @@ lose are your parents, your coach, and your spouse.
 
 So if, during play, you find your thoughts drifting towards what others
 will think if you lose, pause for a moment and say to yourself,
-**\"They couldn't care less! I'm playing for
-myself.\"** (And if you were wondering, Julie
+**"They couldn't care less! I'm playing for
+myself."** (And if you were wondering, Julie
 worked her way back into the top 100 and was again being talked up by
 the press and the other players. This time, however, she had a more
 accurate assessment of such praise as superficial and meaningless.)
 
-![A person playing tennis Description automatically
-generated](media_reducing-stress/media/image5.webp)
+![A person playing tennis Description automatically generated](media_reducing-stress/media/image5.webp)
 
 **Feeling compelled to control outcomes causes stress.**
 
 **Reduce stress by accepting that match outcomes are never completely
 controllable. Feeling compelled to control the outcome of a difficult
 match causes stress because it is an impossible task. Players make
-themselves anxious with thoughts like, \"I must win this point.\" or \"I
-must win this match.\"**
+themselves anxious with thoughts like, "I must win this point." or "I
+must win this match."**
 
 There is no need to become mentally entangled with such worries.
 Instead, it's best to accept the reality that the outcome of difficult
@@ -144,13 +124,8 @@ merely a probability issue. Instead of focusing on winning, focus on
 maximizing your probabilities of success on each point, one at a time.
 The ultimate outcome will then take care of itself.
 
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                     ![A group of people riding a roller coaster Description automatically generated with medium
-   confidence](media_reducing-stress/media/image6.jpg)
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                             **On a roller coaster you are going downhill whether you like it or not.**
-
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A group of people riding a roller coaster Description automatically generated with medium confidence](media_reducing-stress/media/image6.jpg)
+**On a roller coaster you are going downhill whether you like it or not.**
 
 **As a general rule, it is always wise to simply accept that which you
 can't control. This is liberating and calming. The situation is
@@ -177,13 +152,8 @@ its progress. For them being down 0-40 puts an entirely different
 emotional spin on a game than being up 40-0. An unfavorable score can be
 perturbing, whereas being ahead is uplifting.
 
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                             ![A picture containing text, grass, outdoor, sign Description automatically
-   generated](media_reducing-stress/media/image7.jpg)
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                  **Deep involvement with the scoreboard can only lead to stress.**
-
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A picture containing text, grass, outdoor, sign Description automatically generated](media_reducing-stress/media/image7.jpg)
+**Deep involvement with the scoreboard can only lead to stress.**
 
 This deep involvement in score would be productive if you were betting.
 Then you would want to know the exact odds and would bet accordingly.
@@ -212,13 +182,8 @@ as his game seemed to be getting worse instead of better. Miserable and
 unable to dig himself out of this morass of discontent, Frank was
 thinking quitting the team and transferring to a different school.
 
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                      ![A picture containing indoor, ceiling, scene, conference room Description automatically
-   generated](media_reducing-stress/media/image8.jpg)
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                          **College players may dream, unrealistically, of leaving the classroom behind.**
-
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A picture containing indoor, ceiling, scene, conference room Description automatically generated](media_reducing-stress/media/image8.jpg)
+**College players may dream, unrealistically, of leaving the classroom behind.**
 
 When trying to come to grips with issues like Frank's my first move is
 to try to understand the cause of the difficulties. Is there a common
@@ -245,9 +210,7 @@ classrooms, homework, and college tennis far behind. Unfortunately,
 barring his way was a horde of equally talented young players with the
 same ideas.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_reducing-stress/media/image9.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_reducing-stress/media/image9.webp)
 
 **Self-induced pressure can result in poor performance.**
 
@@ -279,9 +242,7 @@ they were, nonetheless, quite good enough to beat him when his attitude
 was so negative. Frank's various problems fed off of each other and
 created, in his head, a stressful and poisonous stew.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_reducing-stress/media/image10.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_reducing-stress/media/image10.webp)
 
 **Frustrated expectations can lead to a negative attitude.**
 
@@ -318,13 +279,8 @@ undeserving of respect. With this outlook, losses and a downward spiral
 were inevitable. Once he changed it, things gradually turned around for
 him.
 
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                               ![A person playing tennis Description automatically generated with medium
-   confidence](media_reducing-stress/media/image11.jpg)
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                   **Players need the right expectations to enjoy college tennis.**
-
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person playing tennis Description automatically generated with medium confidence](media_reducing-stress/media/image11.jpg)
+**Players need the right expectations to enjoy college tennis.**
 
 He began to realize that there was life outside of tennis, and that a
 college education and degree were valuable. He took his classes and
@@ -351,61 +307,92 @@ Read More From Allen!
 
 Visit him at [www.allenfoxtennis.net](http://www.allenfoxtennis.net)
 
- 
+![A picture containing text, newspaper Description automatically generated](media_reducing-stress/media/image12.jpeg)
 
-| ![A picture containing text, newspaper Description automatically | Winning the Mental Match Dr. Allen Fox |
-| --- | --- |
-| generated](media_reducing-stress/media/image12.jpeg) | Tennis is mentally the most difficult sport due to it's personal nature which makes winning and losing feel more |
-|  | important than they are. In this new book, Allen offers his proven solutions to problems such as choking, reducing |
-|  | stress, finishing matches, and developing confidence. Based on a life time of high level play and coaching success, |
-|  | it's a must for all competitive players. |
-|  |  |
-|  | [ to |
-|  | Order](http://www.amazon.com/Tennis-Winning-Mental-Allen-Fox/dp/0615407765/ref=sr_1_1?ie=UTF8&qid=1336083459&sr=8-1). |
+Winning the Mental Match Dr. Allen Fox
 
+Tennis is mentally the most difficult sport due to it's personal nature which makes winning and losing feel more
 
-| ![Text Description automatically | Winning may not be everything, but Dr. Allen Fox points out |
-| --- | --- |
-| generated](media_reducing-stress/media/image13.jpeg) | eminently preferable to losing. In his new book, The |
-|  | Winner's Mind, Allen lays out an original step-by-step |
-|  | plan for succeeding at any of life's endeavors, based on |
-|  | his first hand and very personal observations of the |
-|  | careers of both world-class tennis players and successful |
-|  | businessman. The bottom line is that even if you are not a |
-|  | born champion\--and only a tiny percentage of us are\--you |
-|  | can still use the success strategies of champions to tilt |
-|  | the odds in your favor. Writing with brutal honesty and dry |
-|  | humor, Fox lays out the common mental characteristics of |
-|  | winners in sports and in life. He explains the critical |
-|  | role of intellect over emotion. He analyzes the struggle |
-|  | between ambition and fear and the insidious and pervasive |
-|  | fear of failure that undermines so many of us. He then |
-|  | outline how to confront and overcome these fears in your |
-|  | life and career, even when they are initially subconscious. |
-|  | Must reading from one of the great thinkers in tennis, and |
-|  | a Renaissance Man in life. [ to |
-|  | Order](http://www.tennis-warehouse.com/descpage-MIND.html). |
-|  |  |
-|  | To purchase this book you can also send a check for \$17.95 |
-|  | to Allen Fox, 1120 Inverness Place, San Luis Obispo, CA. |
-|  | 93401. The price includes shipping. |
+important than they are. In this new book, Allen offers his proven solutions to problems such as choking, reducing
 
+stress, finishing matches, and developing confidence. Based on a life time of high level play and coaching success,
 
-| ![A person holding a tennis racket Description automatically | Allen Fox PhD is a former world class player, a coach, |
-| --- | --- |
-| generated](media_reducing-stress/media/image14.gif) | insightful analysts in modern tennis. A top 10 |
-|  | American player from the glory days before Open |
-|  | tennis, Fox played many of the legendary greats, among |
-|  | them Roy Emerson, Rod Laver, Stan Smith, and Arthur |
-|  | Ashe. At Pepperdine he developed the men's tennis |
-|  | program into an elite contender for national titles, |
-|  | and gave Brad Gilbert the insights that became the |
-|  | foundation for \"Winning Ugly\". His book Think to Win |
-|  | is a modern classic. He has also starred in a series |
-|  | of acclaimed videos, including Pro Secrets of Match |
-|  | Play and Allen Fox's Ultimate Tennis Lesson. |
-|  |  |
-|  |  |
+it's a must for all competitive players.
 
+[ to
 
-------------------------------------------------------------------------
+Order](http://www.amazon.com/Tennis-Winning-Mental-Allen-Fox/dp/0615407765/ref=sr_1_1?ie=UTF8&qid=1336083459&sr=8-1).
+
+![Text Description automatically generated](media_reducing-stress/media/image13.jpeg)
+
+Winning may not be everything, but Dr. Allen Fox points out
+
+eminently preferable to losing. In his new book, The
+
+Winner's Mind, Allen lays out an original step-by-step
+
+plan for succeeding at any of life's endeavors, based on
+
+his first hand and very personal observations of the
+
+careers of both world-class tennis players and successful
+
+businessman. The bottom line is that even if you are not a
+
+born champion--and only a tiny percentage of us are--you
+
+can still use the success strategies of champions to tilt
+
+the odds in your favor. Writing with brutal honesty and dry
+
+humor, Fox lays out the common mental characteristics of
+
+winners in sports and in life. He explains the critical
+
+role of intellect over emotion. He analyzes the struggle
+
+between ambition and fear and the insidious and pervasive
+
+fear of failure that undermines so many of us. He then
+
+outline how to confront and overcome these fears in your
+
+life and career, even when they are initially subconscious.
+
+Must reading from one of the great thinkers in tennis, and
+
+a Renaissance Man in life. [ to
+
+Order](http://www.tennis-warehouse.com/descpage-MIND.html).
+
+To purchase this book you can also send a check for $17.95
+
+to Allen Fox, 1120 Inverness Place, San Luis Obispo, CA.
+
+93401. The price includes shipping.
+
+![A person holding a tennis racket Description automatically generated](media_reducing-stress/media/image14.gif)
+
+Allen Fox PhD is a former world class player, a coach,
+
+insightful analysts in modern tennis. A top 10
+
+American player from the glory days before Open
+
+tennis, Fox played many of the legendary greats, among
+
+them Roy Emerson, Rod Laver, Stan Smith, and Arthur
+
+Ashe. At Pepperdine he developed the men's tennis
+
+program into an elite contender for national titles,
+
+and gave Brad Gilbert the insights that became the
+
+foundation for "Winning Ugly". His book Think to Win
+
+is a modern classic. He has also starred in a series
+
+of acclaimed videos, including Pro Secrets of Match
+
+Play and Allen Fox's Ultimate Tennis Lesson.

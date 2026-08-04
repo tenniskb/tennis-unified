@@ -4,10 +4,7 @@
 
 ### By Alistair Higham
 
-------------------------------------------------------------------------
-
-![A person playing tennis Description automatically
-generated](media_when-momentum-is-neutral/media/image1.webp)
+![A person playing tennis Description automatically generated](media_when-momentum-is-neutral/media/image1.webp)
 
 **Neutral Momentum can produce the most exciting matches.**
 
@@ -15,7 +12,7 @@ So far we've looked at the concept of Momentum, and how to react when
 momentum is with you, and when it is totally with you. ([link](http://www.tennisplayer.net/members/mentalgame/mentalgame.html).)
 In this article, let's look at the third stage of momentum: When
 Momentum is Neutral. Neutral momentum means that things are in the
-balance \--the scales are waiting to be tipped by one player or the
+balance --the scales are waiting to be tipped by one player or the
 other. It can be an unnerving or exciting feeling, because things could
 swing either way. This is the opportunity top players seize by stepping
 up and going for the victory.
@@ -33,9 +30,7 @@ deadlock continued. The crowd was at fever pitch, the television
 audience soared, and the players became gladiators more than tennis
 players.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_when-momentum-is-neutral/media/image2.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_when-momentum-is-neutral/media/image2.webp)
 
 **The momentum is also neutral when the players are sparring and feeling
 each other out.**
@@ -68,20 +63,18 @@ But whenever neutral momentum occurs, this is the time when there are
 chances for surging ahead, chances that can be created or taken. When
 the momentum is neutral, you need to be ready to grab it. The player who
 waits in this situation is like a sprinter waiting on the line for their
-rival to shout \"go\". You have to be looking to establish a flow of
+rival to shout "go". You have to be looking to establish a flow of
 momentum in your favor.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_when-momentum-is-neutral/media/image3.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_when-momentum-is-neutral/media/image3.webp)
 
 **Neutral momentum offers the chance to grab opportunities.**
 
 If you wait for your opponent to do something, it is possible that you
 will end up raising your game too late to win the set. In days gone by,
 it was more possible to wait, in the hope your opponent would try to
-seize momenturm first and make a mistake. These days, the saying \"he
-who hesitates is lost\" is more appropriate.
+seize momenturm first and make a mistake. These days, the saying "he
+who hesitates is lost" is more appropriate.
 
 You often hear of players nearly pulling off an upset, then consoling
 themselves with the thought that there was nothing they could do when it
@@ -101,12 +94,9 @@ is looking nervous, grabbing the momentum may mean showing them you are
 up for the fight and making them play every ball by playing percentage
 tennis.
 
-| ------------------------------------------------------------------------ | ![A tennis player holding a racket Description automatically generated with medium |
-| --- | --- |
-|  | confidence](media_when-momentum-is-neutral/media/image4.jpg)![A person holding tennis balls Description automatically generated with medium |
-|  | confidence](media_when-momentum-is-neutral/media/image5.jpg) |
-| The right attitude is critical to surge ahead when the opportunity comes. |  |
+The right attitude is critical to surge ahead when the opportunity comes.
 
+confidence](media_when-momentum-is-neutral/media/image5.jpg)
 
 On the other hand, there may be times when percentage tennis is not
 enough. Recently I was the on court captain for Britain when we played
@@ -129,14 +119,13 @@ happens, because the opportunity will disappear quickly against the
 better players. (If you don't like the idea of sticking the knife in
 you can always push them over the cliff or take the bull by the horns!)
 
-A phrase used by Tim Henman's former coach, David Felgate was \"step up
-to the plate.\" This came about after Tim lost a number of matches to
+A phrase used by Tim Henman's former coach, David Felgate was "step up
+to the plate." This came about after Tim lost a number of matches to
 better players early in his career and seemed happy to have played well.
 David felt he was never really in the match as a serious contender when
 key moments came up. That changed and Tim's results improved.
 
-![A picture containing text, player, sport Description automatically
-generated](media_when-momentum-is-neutral/media/image6.webp)
+![A picture containing text, player, sport Description automatically generated](media_when-momentum-is-neutral/media/image6.webp)
 
 **When momentum is neutral step up and stick in the knife.**
 
@@ -162,11 +151,9 @@ the momentum can switch again, and the player who has come back can
 lose. So, if you are the player who fights to draw level, be determined
 to keep fighting and surge ahead. Be aware that the game when the scores
 are level is key if you intend to win. Never draw level and wait to see
-what happens \-- come back and then go forward!
+what happens -- come back and then go forward!
 
-![A person with his eyes closed Description automatically generated with
-low
-confidence](media_when-momentum-is-neutral/media/image7.jpeg)
+![A person with his eyes closed Description automatically generated with low confidence](media_when-momentum-is-neutral/media/image7.jpeg)
 
 Alistair Higham is the National Manager of Coach Development for the
 LTA, the governing body for tennis in Great Britain. He is the author of
@@ -178,8 +165,7 @@ junior circuit, where he has had the unique opportunity to make a close
 study of the hidden force that dictates so much in the outcome of
 competitive tennis matches.
 
-![Map Description automatically generated with low
-confidence](media_when-momentum-is-neutral/media/image8.jpeg)
+![Map Description automatically generated with low confidence](media_when-momentum-is-neutral/media/image8.jpeg)
 
 **Momentum: The Hidden Force in Tennis Alistair Higham**
 

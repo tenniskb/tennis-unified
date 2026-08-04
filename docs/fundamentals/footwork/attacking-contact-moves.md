@@ -5,9 +5,7 @@ Contact Moves**
 
 **David Bailey**
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_attacking-contact-moves/media/image1.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_attacking-contact-moves/media/image1.webp)
 
 **Contact Moves with the feet and can't be explained simply in terms of
 traditional hitting stances.**
@@ -37,11 +35,9 @@ involved in hitting a tennis ball. It includes the traditionally
 analyzed elements of the steps to the ball and the set up of the hitting
 stance.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_attacking-contact-moves/media/image2.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_attacking-contact-moves/media/image2.webp)
 
-**\"Stepping down the court,\" the most basic attacking contact move.**
+**"Stepping down the court," the most basic attacking contact move.**
 
 But those factors alone are insufficient to describe what actually
 happens during the contact. In fact they can be misleading, for example,
@@ -68,9 +64,7 @@ groundstrokes. In this article let's look first at the range Attacking
 Contact Moves. These include shots in which the player keeps one or both
 feet on the ground, and others where they launch into the air.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_attacking-contact-moves/media/image3.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_attacking-contact-moves/media/image3.webp)
 
 **Two balance moves: the knee bend on a low ball, the kick back on a
 higher one.**
@@ -78,7 +72,7 @@ higher one.**
 **The Step Down**
 
 The first Attacking Move is the Step Down. The player steps into the
-ball with a neutral stance, what I call \"stepping down the court.\" The
+ball with a neutral stance, what I call "stepping down the court." The
 contact height allows the player to keep the front foot on the ground.
 
 Top players use the step down when they want to hit the ball on the
@@ -97,9 +91,7 @@ The Front Foot Hop is aggressive because you are using your feet to
 attack the ball. It's basically a more explosive version of the Step
 Down because it is hit off forward movement.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_attacking-contact-moves/media/image4.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_attacking-contact-moves/media/image4.webp)
 
 **A step into the ball, an explosion forward into the air, a front foot
 landing, a sideways kick back.**
@@ -132,8 +124,7 @@ Now let's look at aggressive contact moves off open stance set up in
 which the player strikes the ball in the air, starting with what I call
 the Forward Transfer.
 
-![A person playing tennis Description automatically
-generated](media_attacking-contact-moves/media/image5.webp)
+![A person playing tennis Description automatically generated](media_attacking-contact-moves/media/image5.webp)
 
 **The Forward Transfer: contact in the air at chest level with a forward
 landing.**
@@ -156,7 +147,7 @@ contact with the hips squaring to the net. The weight is propelled
 forward, moving through the shot.
 
 The followed by a characteristic Balance Move. As the racket moves
-forward, the back leg \"curls\" and kicks back behind the player. The
+forward, the back leg "curls" and kicks back behind the player. The
 player lands on the left front foot, with the back leg pointing behind.
 
 Typically, the front foot is pointing forward in the direction of the
@@ -166,8 +157,7 @@ in pro tennis.
 
 **Lateral Transfer**
 
-![A person playing tennis Description automatically
-generated](media_attacking-contact-moves/media/image6.webp)
+![A person playing tennis Description automatically generated](media_attacking-contact-moves/media/image6.webp)
 
 **With the Lateral Transfer, the weight moves to the player's side
 during the landing.**
@@ -194,8 +184,7 @@ The balance move is similar with a leg curl or kick back. But the leg
 kick back is also now more to the side. Again the rear leg comes around
 to reestablish balance and begin the recovery steps.
 
-![A person playing tennis Description automatically
-generated](media_attacking-contact-moves/media/image7.webp)
+![A person playing tennis Description automatically generated](media_attacking-contact-moves/media/image7.webp)
 
 **The backhand transfer: the future of aggression for two-handers?**
 
@@ -221,8 +210,7 @@ game, the depth and/or height of the balls often force players to move
 back in the initial movement phase as they set up the hitting stance. Or
 they may move back to get around a short ball to hit a forehand.
 
-![A person playing tennis Description automatically
-generated](media_attacking-contact-moves/media/image8.webp)
+![A person playing tennis Description automatically generated](media_attacking-contact-moves/media/image8.webp)
 
 **The Backwards Lateral Hop: movement around the ball, rotation in the
 air, a left foot landing that moves slightly backwards.**
@@ -251,7 +239,9 @@ So there we have our updated review of the aggressive contact moves.
 Let's discuss in the Forum. And stayed tuned for the next article on
 the Building Contact Moves!
 
-![link](media_attacking-contact-moves/media/image9.jpeg)
+![Video demonstration](media_attacking-contact-moves/media/image9.jpeg)
+
+*Video demonstration — the original video for this article was hosted on TennisPlayer.net.*
 
 David Bailey is a native Australian who has spent 15 years studying
 tennis at the professional level. He has developed a new language for

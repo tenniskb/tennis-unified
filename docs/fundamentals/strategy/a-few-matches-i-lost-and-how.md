@@ -2,11 +2,7 @@
 
 ### John Yandell
 
-------------------------------------------------------------------------
-
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_a-few-matches-i-lost-and-how/media/image1.jpg)
+![A person playing tennis Description automatically generated with medium confidence](media_a-few-matches-i-lost-and-how/media/image1.jpg)
 
 **Winning 52% of your total points makes you number one.**
 
@@ -38,9 +34,7 @@ pretty good but not great for his height. He served and volleyed but was
 awkward technically at the net. I knew that if I returned well, I would
 have a lot of chances for high percentage passes.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_a-few-matches-i-lost-and-how/media/image2.jpg)
+![A person playing tennis Description automatically generated with medium confidence](media_a-few-matches-i-lost-and-how/media/image2.jpg)
 
 **Richard had a good serve, but not a great serve.**
 
@@ -66,7 +60,7 @@ sat by the side of the court for about 45 minutes after the match.
 It's a cliché but true that you have to play one ball at a time. I once
 saw Jimmy Connors say in a press conference that the ball doesn't know
 when it's set point. Later when I worked with Jim Loehr and he wrote
-\"From Negative to Positive\" for Tennisplayer, I understood better what
+"From Negative to Positive" for Tennisplayer, I understood better what
 had happened to me. ([link](https://www.tennisplayer.net/members/mentalgame/jim_loehr/jim_loehr_from_negative_to_positive_images/jim_loehr_from_negative_to_positive.html).)
 
 **Rusty**
@@ -76,11 +70,10 @@ big guy, overweight, a lefty, and a big, big talker. He had been a
 college player---he said. Basically, he started telling me how great he
 was from the moment we got the balls. And he continued his commentary
 through the match, noting my misses, his winners, and making excuses for
-every point he lost. Annoyingly, he would address me by name, \"John
-this, John that.\" My mistake was listening to him.
+every point he lost. Annoyingly, he would address me by name, "John
+this, John that." My mistake was listening to him.
 
-![A person hitting a ball with a tennis racket Description automatically
-generated](media_a-few-matches-i-lost-and-how/media/image3.jpg)
+![A person hitting a ball with a tennis racket Description automatically generated](media_a-few-matches-i-lost-and-how/media/image3.jpg)
 
 **Rusty's goal was to get enraged and play his best.**
 
@@ -91,11 +84,11 @@ getting around the ball and hitting inside out forehands to his lefty
 forehand gave me a chance in the points.
 
 We got to five all in the third. And I missed an inside in forehand that
-probably would have been a winner. He said something like, \"You really
-had me there, John, too bad you choked that one.\"
+probably would have been a winner. He said something like, "You really
+had me there, John, too bad you choked that one."
 
-I'd been annoyed for over two hours, and finally I exploded. \"Why
-don't you just shut the fuck up and just play tennis?\"
+I'd been annoyed for over two hours, and finally I exploded. "Why
+don't you just shut the fuck up and just play tennis?"
 
 To my surprise, that was just what he wanted to hear. The guy was one of
 these rare guys who played his best when enraged. This was why he had
@@ -117,8 +110,7 @@ return for an alleged winner. I didn't go for the ball and immediately
 called the let. All of a sudden, he was in my face telling me only the
 returner could call a let. That's not true in an unofficiated match.
 
-![A tennis ball on a net Description automatically generated with low
-confidence](media_a-few-matches-i-lost-and-how/media/image4.jpg)
+![A tennis ball on a net Description automatically generated with low confidence](media_a-few-matches-i-lost-and-how/media/image4.jpg)
 
 **Who calls a let in unoffiated matches?**
 
@@ -159,8 +151,7 @@ found out tournament directors are prohibited from playing in their own
 tournaments. I went back to find the tournament director but he had
 left. I wrote him a letter later, but he never responded.
 
-![A close-up of a tennis racket Description automatically
-generated](media_a-few-matches-i-lost-and-how/media/image5.jpg)
+![A close-up of a tennis racket Description automatically generated](media_a-few-matches-i-lost-and-how/media/image5.jpg)
 
 **A new racket and a loss of shot and emotional control.**
 
@@ -179,11 +170,11 @@ hit a few balls into the net trying to get the new range.
 Rico was not a high-level opponent and I started worrying this match
 could really bring down my ranking. I got behind like 5-2 in the first
 and missed one more forehand. I said out loud something I usually say
-only to myself, \"Hit the fucking ball in the court.\" For emphasis I
+only to myself, "Hit the fucking ball in the court." For emphasis I
 slammed the racket down and cracked it.
 
-Suddenly out of nowhere I hear: \"Penalty point, racket abuse plus
-audible obscenity.\" I turned around and there was my very least
+Suddenly out of nowhere I hear: "Penalty point, racket abuse plus
+audible obscenity." I turned around and there was my very least
 favorite Norcal official, who was apparently serving as a roving judge.
 He had his arms crossed and was looking very stern.
 
@@ -193,24 +184,22 @@ Being anti-establishment, I started thinking about how this official was
 a petty tyrant, blah blah.
 
 And now he's camped out on my match, arms folded, not going anywhere
-and staring at me. I may have said something like, \"You really do enjoy
-your job, don't you?\" He said something like \"If you say one more
-word I will default you.\" Somehow his thick German accent made it all
+and staring at me. I may have said something like, "You really do enjoy
+your job, don't you?" He said something like "If you say one more
+word I will default you." Somehow his thick German accent made it all
 worse.
 
 You can guess the outcome. I felt like Woody Allen in the movie scene
 with the LA motorcycle cop who pulls him over after he smashes into a
 few cars and when the cop asks him for his license, Woody tears it up in
-his face and says something like, \"Sorry I have problems with
-authority.\"
+his face and says something like, "Sorry I have problems with
+authority."
 
 One more lesson about trying to stay in the moment in the face of
 unexpected unpleasant events. I should have remembered my own tractor
 story.
 
-![A person smiling for the camera Description automatically generated
-with medium
-confidence](media_a-few-matches-i-lost-and-how/media/image6.jpeg)
+![A person smiling for the camera Description automatically generated with medium confidence](media_a-few-matches-i-lost-and-how/media/image6.jpeg)
 
 John Yandell is widely acknowledged as one of the leading videographers
 and students of the modern game of professional tennis. His high speed

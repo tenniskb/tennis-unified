@@ -18,9 +18,10 @@ sophistication to teaching footwork that TPA has pioneered with
 stroke production. It's a critical piece in player development. And this
 is the only place to see it in fabulous detail.
 
-![link](media_the-golden-move-12-the-power-move/media/image1.png)
 
-![link](media_the-golden-move-12-the-power-move/media/image2.jpeg)
+![Video demonstration](media_the-golden-move-12-the-power-move/media/image2.jpeg)
+
+*Video demonstration — the original video for this article was hosted on TennisPlayer.net.*
 
 David Bailey is a native Australian who has spent 15 years studying
 tennis at the professional level. He has developed a new language for

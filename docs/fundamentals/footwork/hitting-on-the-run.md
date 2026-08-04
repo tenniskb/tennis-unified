@@ -4,9 +4,7 @@
 
 ### **Pat Doughert**
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_hitting-on-the-run/media/image1.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_hitting-on-the-run/media/image1.webp)
 
 **Nicole Vaidisova lunges and transfers her weight in a semi-open
 stance.**
@@ -46,12 +44,12 @@ talked it over with Gabriel Jaramillo, the Director of Tennis at
 IMG/Bollettieri. Gabe explained that this was how players were trained
 in the Czech system from the beginning.
 
-The more I thought about it, the more it made sense. **[[The Czechs are
+The more I thought about it, the more it made sense. **[The Czechs are
 teaching their players how to hit on the move from the very beginning,
 unlike American coaching who mostly teaches kids how to hit standing
 still.] [The end result is American kids can handle balls fed
 right to them but in the heat of battle, their strokes can break down
-under the forces of movement.]]**
+under the forces of movement.]**
 
 Now at the Academy we look specifically at the patterns of footwork
 players use on the run, and how they also relate to the ability to
@@ -61,8 +59,7 @@ top players in the world.
 
 **The Running Open Stance**
 
-![A person playing tennis Description automatically
-generated](media_hitting-on-the-run/media/image2.webp)
+![A person playing tennis Description automatically generated](media_hitting-on-the-run/media/image2.webp)
 
 **Roger: smooth, fluid with contact before the left foot touches.**
 
@@ -85,9 +82,7 @@ is made with the ball.** That's why it is not
 considered a closed stance. This crossing step works as a
 counter-balance to anchor the stroke.
 
-![A picture containing person, ball, athletic game, sport Description
-automatically
-generated](media_hitting-on-the-run/media/image3.webp)
+![A picture containing person, ball, athletic game, sport Description automatically generated](media_hitting-on-the-run/media/image3.webp)
 
 **Nadal: wide open when loading, to fully closed on the landing.**
 
@@ -112,9 +107,7 @@ is moving to the side. This technique works equally well on both the
 forehand and backhand sides, and for both the one- and two-handed
 backhands.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_hitting-on-the-run/media/image4.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_hitting-on-the-run/media/image4.webp)
 
 **Nadal increases explosiveness by landing and loading on the ball of
 his foot.**
@@ -137,9 +130,7 @@ understood.**
 
 **Stroke and Skid**
 
-![A picture containing sport, athletic game, outdoor, tennis Description
-automatically
-generated](media_hitting-on-the-run/media/image5.webp)
+![A picture containing sport, athletic game, outdoor, tennis Description automatically generated](media_hitting-on-the-run/media/image5.webp)
 
 **Watch how Coria controls the skid with his upper body posture.**
 
@@ -153,9 +144,7 @@ ankle.**
 
 **Anti-Lock Brakes**
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_hitting-on-the-run/media/image6.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_hitting-on-the-run/media/image6.webp)
 
 **On clay good movement requires sliding into your shots.**
 
@@ -169,9 +158,7 @@ high levels of stress on the lower body put you at extreme risk for
 injury. The kick out step is a less risky, healthier
 alternative.**
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_hitting-on-the-run/media/image7.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_hitting-on-the-run/media/image7.webp)
 
 **Players use the kick out step like anti-lock brakes, grabbing, letting
 go, and grabbing again.**
@@ -196,9 +183,7 @@ and is very fluid through the kick out step. Agassi also incorporates
 the drop step on the inside foot to take the driving first step on
 recovery.**
 
-![A picture containing tennis, athletic game, sport, player Description
-automatically
-generated](media_hitting-on-the-run/media/image8.webp)
+![A picture containing tennis, athletic game, sport, player Description automatically generated](media_hitting-on-the-run/media/image8.webp)
 
 **Watch Kuznetsova's lower body swing underneath her controlling
 momentum.**
@@ -206,7 +191,7 @@ momentum.**
 **Built-in Recovery Technique**
 
 One way to become quicker getting back for the next shot is to develop
-what I call **\"built in recovery\".** That means
+what I call **"built in recovery".** That means
 when you are stretched wide and have a long way to travel back, you
 build a lower body change of direction into the follow-through.
 Depending on the situation and surface, there are a few common
@@ -226,8 +211,7 @@ the directional momentum.
 
 **Neutral Stance Pivot Recovery**
 
-![A person playing tennis Description automatically
-generated](media_hitting-on-the-run/media/image9.webp)
+![A person playing tennis Description automatically generated](media_hitting-on-the-run/media/image9.webp)
 
 **The weight pushes forward on the front foot with the dominant side
 pivoting to face the net.**
@@ -243,16 +227,15 @@ ready position to begin recovery.**
 
 **Lateral Recovery Movement**
 
-![A person playing tennis Description automatically
-generated](media_hitting-on-the-run/media/image10.webp)
+![A person playing tennis Description automatically generated](media_hitting-on-the-run/media/image10.webp)
 
 **The shoulders should face the net whether the recovery steps are
 crossover steps or shuffle steps.**
 
-**[[Whatever the braking mechanism, proper body alignment is the key to
+**[Whatever the braking mechanism, proper body alignment is the key to
 the recovery movement back toward the middle.] [Your shoulder
 should remain facing the net. This is the key to protecting against your
-opponent hitting behind you.]]**
+opponent hitting behind you.]**
 
 **This is the opposite of reaction and movement out to the ball, where
 your shoulders face in the direction you are
@@ -263,4 +246,3 @@ or until the opponent is about to make contact.**
 split step at the opponent's contact to react on time to the next
 shot.** **If you fail to split step on time, you
 will be late on reacting to the next shot.**
-

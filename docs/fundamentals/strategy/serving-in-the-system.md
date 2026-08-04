@@ -2,11 +2,7 @@
 
 ### Bill Previdi
 
-------------------------------------------------------------------------
-
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_serving-in-the-system/media/image1.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_serving-in-the-system/media/image1.webp)
 
 **If you understand the principles of serving in doubles, you can hold
 consistently.**
@@ -47,9 +43,7 @@ the same serve over and over. You need to develop variety in spin and
 placement to keep opponent's guessing and off balance and to set up your
 partner.
 
-![A couple of men playing tennis Description automatically generated
-with medium
-confidence](media_serving-in-the-system/media/image2.webp)
+![A couple of men playing tennis Description automatically generated with medium confidence](media_serving-in-the-system/media/image2.webp)
 
 **Master variety in spin and placement.**
 
@@ -84,9 +78,7 @@ One of the ways you're going to make your opponent miss returns is to
 change speed on your serve. But this variety in ball speed comes from
 variety in the type and amount spin.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_serving-in-the-system/media/image3.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_serving-in-the-system/media/image3.webp)
 
 **It's a good idea to mix in first serves with a lot of spin.**
 
@@ -120,9 +112,7 @@ Most doubles teams have no service game plan. They don't understand how
 to work as a team and often play as if they were two separate players.
 (For more on the basic roles of the The Hunter and the Helper, [link](The%20Hunter%20and%20the%20Helper.docx).)
 
-![A group of people playing tennis Description automatically generated
-with medium
-confidence](media_serving-in-the-system/media/image4.webp)
+![A group of people playing tennis Description automatically generated with medium confidence](media_serving-in-the-system/media/image4.webp)
 
 **Few players hit all returns equally well.**
 
@@ -138,7 +128,7 @@ Here are some of the questions you want to answer and communicate with
 your partner.
 
 Which side, forehand or backhand, does each player prefer? What type of
-return\--flat, topspin, chip, lob---does each player hit, and where do
+return--flat, topspin, chip, lob---does each player hit, and where do
 they typically hit it? Does the type of return change when they are
 being aggressive---or defensive?
 
@@ -155,8 +145,7 @@ There are various ways to communicate with your partner. You can always
 get together for a quick chat or a word or two but I prefer hand
 signals.
 
-![A person holding a tennis racket Description automatically
-generated](media_serving-in-the-system/media/image5.webp)
+![A person holding a tennis racket Description automatically generated](media_serving-in-the-system/media/image5.webp)
 
 **The net player can call the direction of the serve.**
 
@@ -204,9 +193,7 @@ winner on game point. The returner will be relaxed and aggressive and
 you don't want to make it easy by giving him a serve with a lot of
 return options.
 
-![A group of people play tennis Description automatically generated with
-medium
-confidence](media_serving-in-the-system/media/image6.webp)
+![A group of people play tennis Description automatically generated with medium confidence](media_serving-in-the-system/media/image6.webp)
 
 **Making players return from the inside can set up easy volleys.**
 
@@ -237,7 +224,7 @@ strikes the return. Then move diagonally toward the returner, cutting
 off the alley.
 
 If they hit down the alley because they thought you were poaching,
-you'll be there and put the ball away\--and win the game. If they go
+you'll be there and put the ball away--and win the game. If they go
 cross-court you have learned something about what they will do under
 pressure and your partner can still handle the return.
 
@@ -258,36 +245,60 @@ easily attainable if you have the right approach. It should be fun to
 work with your partner to win your serve games, and when you can do this
 consistently, you will be formidable.
 
-| ![A picture containing person, person, standing, outdoor Description automatically | Bill Previdi has been playing |
-| --- | --- |
-| generated](media_serving-in-the-system/media/image7.jpeg) | his life. He played his |
-|  | collegiate tennis at St. John's |
-|  | University in New York and has |
-|  | been nationally ranked in |
-|  | singles, doubles and Father-Son |
-|  | Doubles. Bill has been a Head |
-|  | Pro and Director of Tennis at |
-|  | several clubs since 1981 and has |
-|  | also coached high school and |
-|  | college tennis. He lives in |
-|  | Branford, CT. He can be |
-|  | contacted at: |
-|  | <previdib@gmail.com> |
-|  |  |
-|  | Matt Previdi is a high |
-|  | performance coach in La Jolla, |
-|  | California and the head coach of |
-|  | the La Jolla High boys' tennis |
-|  | team, which in the the past 6 |
-|  | years he has led to a 72-8 |
-|  | record and 2 sectional titles. |
-|  | Matt is a Master Racquet |
-|  | Technician, the head of the |
-|  | Solinco national stringing team, |
-|  | as well as the Solinco player |
-|  | liason and brand representative. |
-|  | He can be contacted at: |
-|  | <mprevidi@gmail.com> |
+![A picture containing person, person, standing, outdoor Description automatically generated](media_serving-in-the-system/media/image7.jpeg)
 
+Bill Previdi has been playing
 
-------------------------------------------------------------------------
+his life. He played his
+
+collegiate tennis at St. John's
+
+University in New York and has
+
+been nationally ranked in
+
+singles, doubles and Father-Son
+
+Doubles. Bill has been a Head
+
+Pro and Director of Tennis at
+
+several clubs since 1981 and has
+
+also coached high school and
+
+college tennis. He lives in
+
+Branford, CT. He can be
+
+contacted at:
+
+<previdib@gmail.com>
+
+Matt Previdi is a high
+
+performance coach in La Jolla,
+
+California and the head coach of
+
+the La Jolla High boys' tennis
+
+team, which in the the past 6
+
+years he has led to a 72-8
+
+record and 2 sectional titles.
+
+Matt is a Master Racquet
+
+Technician, the head of the
+
+Solinco national stringing team,
+
+as well as the Solinco player
+
+liason and brand representative.
+
+He can be contacted at:
+
+<mprevidi@gmail.com>

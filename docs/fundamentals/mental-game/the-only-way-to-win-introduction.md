@@ -2,8 +2,6 @@
 
 ### Jim Loehr
 
-------------------------------------------------------------------------
-
 We are honored and excited to have this new series from my friend Jim
 Loehr, the man who created the term mental toughness and has continued
 to research and refine the relationships between head, heart, soul, and
@@ -13,24 +11,18 @@ life's work in perspective with a new book, The Only Way to Win.
 In this series he talks about what winning really is and how character
 is what counts in any field of endeavor.
 
-![link](media_the-only-way-to-win-introduction/media/image1.png)
 
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![A person smiling for the camera Description automatically generated with medium                                                                                                    Jim Loehr is a legendary pioneer in the field of
-  confidence](media_the-only-way-to-win-introduction/media/image2.jpeg)                                                                                                                                                       himself who still competes nationally in USTA
-                                                                                                                                                                                       events, Jim created the field of Mental
-                                                                                                                                                                                       Toughness training with his revolutionary study
-                                                                                                                                                                                       of elite pro players. He has been one of the
-                                                                                                                                                                                       most influential voices in tennis and tennis
-                                                                                                                                                                                       coaching for over 30 years, and is the author of
-                                                                                                                                                                                       multiple best selling books. He has expanded his
-                                                                                                                                                                                       influence far beyond sports with the creation of
-                                                                                                                                                                                       the Human Performance Institute where he and his
-                                                                                                                                                                                       staff have worked with hundreds of leaders in
-                                                                                                                                                                                       business, law enforcement, and military special
-                                                                                                                                                                                       forces. For the last decade he has also directed
-                                                                                                                                                                                       an academy for junior players helping young
-                                                                                                                                                                                       people learn what winning in life really means.
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ ------------------------------------------------
-
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person smiling for the camera Description automatically generated with medium                                                                                                    Jim Loehr is a legendary pioneer in the field of confidence](media_the-only-way-to-win-introduction/media/image2.jpeg)                                                                                                                                                       himself who still competes nationally in USTA
+events, Jim created the field of Mental
+Toughness training with his revolutionary study
+of elite pro players. He has been one of the
+most influential voices in tennis and tennis
+coaching for over 30 years, and is the author of
+multiple best selling books. He has expanded his
+influence far beyond sports with the creation of
+the Human Performance Institute where he and his
+staff have worked with hundreds of leaders in
+business, law enforcement, and military special
+forces. For the last decade he has also directed
+an academy for junior players helping young
+people learn what winning in life really means.

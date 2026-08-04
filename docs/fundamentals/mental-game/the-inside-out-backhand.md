@@ -2,11 +2,7 @@
 
 ### John Sherwood
 
-------------------------------------------------------------------------
-
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_the-inside-out-backhand/media/image1.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_the-inside-out-backhand/media/image1.webp)
 
 **The inside out backhand - valuable when you are pulled wide to recover
 on the forehand.**
@@ -44,9 +40,7 @@ set up for a high-level technical backhand. Note that the shoulders are
 turned in the direction of the inside out shot line, and the legs are
 set up and coiled in Serena's preferred semi open stance.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_the-inside-out-backhand/media/image2.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_the-inside-out-backhand/media/image2.webp)
 
 **The primary return in the deuce court is the inside out backhand.**
 
@@ -76,13 +70,12 @@ Watch the path of the racket head as it moves toward contact. It is
 perfectly aligned with the diagonal of the outgoing ball. These are
 powerful images for any player to model.
 
-It may appear that the contact is \"later\" on the inside out backhand
+It may appear that the contact is "later" on the inside out backhand
 than on other backhands. In reality, the whole body is turned toward the
 target and the relative relationship of the contact point to the body is
 fundamentally similar.
 
-![A person hitting a ball with a tennis racket Description automatically
-generated](media_the-inside-out-backhand/media/image3.webp)
+![A person hitting a ball with a tennis racket Description automatically generated](media_the-inside-out-backhand/media/image3.webp)
 
 **The third inside out backhand is on short balls left near the center
 of the court.**
@@ -115,16 +108,11 @@ situation that you may be presented within today's game. Matches can be
 won or lost on just a few key points. Sooner or later the inside out
 backhand will be the shot that makes the difference.
 
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![A person smiling for the camera Description automatically generated with medium                                                                                           John Sherwood is Director of High Performance
-  confidence](media_the-inside-out-backhand/media/image4.jpeg)                                                                                                                                               Chatham, N.J. John played varsity Division 1
-                                                                                                                                                                              tennis at the University of Toledo and has guided
-                                                                                                                                                                              hundreds of junior players into college and the
-                                                                                                                                                                              pro ranks, including traveling extensively on the
-                                                                                                                                                                              ITF junior and WTA professional circuits. He is a
-                                                                                                                                                                              USPTA Elite Professional and a graduate of the
-                                                                                                                                                                              USTA High Performance Coaching Program. You can
-                                                                                                                                                                              contact John directly at <J1Sherwood@aol.com>
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -------------------------------------------------
-
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person smiling for the camera Description automatically generated with medium                                                                                           John Sherwood is Director of High Performance confidence](media_the-inside-out-backhand/media/image4.jpeg)                                                                                                                                               Chatham, N.J. John played varsity Division 1
+tennis at the University of Toledo and has guided
+hundreds of junior players into college and the
+pro ranks, including traveling extensively on the
+ITF junior and WTA professional circuits. He is a
+USPTA Elite Professional and a graduate of the
+USTA High Performance Coaching Program. You can
+contact John directly at <J1Sherwood@aol.com>

@@ -2,11 +2,7 @@
 
 ### Bruce Elliott and Machar Reid
 
-------------------------------------------------------------------------
-
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_men-s-versus-women-s-serving/media/image1.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_men-s-versus-women-s-serving/media/image1.webp)
 
 **Could differences in internal rotation of the shoulder help account
 for the 20 percent difference in the speed of men's versus women's
@@ -36,9 +32,7 @@ impact in the male high performance serve.
 There is also comparative data suggesting the speed of this rotation
 accounts for the differences in the serves between men and women.
 
-![A picture containing text, ball, sport, athletic game Description
-automatically
-generated](media_men-s-versus-women-s-serving/media/image2.webp)
+![A picture containing text, ball, sport, athletic game Description automatically generated](media_men-s-versus-women-s-serving/media/image2.webp)
 
 **Internal shoulder rotation: watch the upper arm rotate in the shoulder
 joint.**
@@ -72,9 +66,13 @@ Internal rotation (IR) occurs during the forward swing to impact.
 Internal rotation then continues into the follow-through. This is the
 motion that most assists the generation of racket speed at impact.
 
-![link](media_men-s-versus-women-s-serving/media/image3.jpg)![link](media_men-s-versus-women-s-serving/media/image4.jpg)![A picture containing text, clipart
-Description automatically
-generated](media_men-s-versus-women-s-serving/media/image5.jpg)
+![A picture containing text, clipart Description automatically generated](media_men-s-versus-women-s-serving/media/image5.jpg)
+![Video demonstration](media_men-s-versus-women-s-serving/media/image3.jpg)
+
+*Video demonstration — the original video for this article was hosted on TennisPlayer.net.*
+![Video demonstration](media_men-s-versus-women-s-serving/media/image4.jpg)
+
+*Video demonstration — the original video for this article was hosted on TennisPlayer.net.*
 
 **The backward external rotation of the arm in the opposite direction in
 the backswing sets up the forward internal rotation of the arm to the
@@ -90,17 +88,13 @@ aspects of the service action and lay the foundations for appropriate
 internal rotation velocity development prior to puberty, so that they
 can most effectively use this aspect of the serve when they mature.
 
-![A picture containing person, person, outdoor, male Description
-automatically
-generated](media_men-s-versus-women-s-serving/media/image6.jpeg)
+![A picture containing person, person, outdoor, male Description automatically generated](media_men-s-versus-women-s-serving/media/image6.jpeg)
 
 Machar Reid is the innovation catalyst at Tennis Australia. He
 established the Sports Science and Medicine Unit there in 2008. He is
 the coauthor of several books on tennis sports science and coaching.
 
-![A person wearing glasses and a suit Description automatically
-generated with medium
-confidence](media_men-s-versus-women-s-serving/media/image7.jpeg)
+![A person wearing glasses and a suit Description automatically generated with medium confidence](media_men-s-versus-women-s-serving/media/image7.jpeg)
 
 Bruce Elliott is a senior research fellow in biomechanics at the
 University of Western Australia. He is the author of the Power Serve

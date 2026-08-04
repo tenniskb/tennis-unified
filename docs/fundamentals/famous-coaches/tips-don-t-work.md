@@ -105,17 +105,17 @@ through (dumb)...recover...load up (really dumb)."
 
 **[[Non-Linear:] ]**
 
-1\. Understand that **the 45º angle to the net is the optimal hitting
+1. Understand that **the 45º angle to the net is the optimal hitting
 point and balance point of every stroke in the game (except the "kick"
 serve.)** **Perfect in nature as it bisects the
 vertical and horizontal axis.**
 
-2\. **Your hips move in a slow and continuous figure 8 motion, leading
+2. **Your hips move in a slow and continuous figure 8 motion, leading
 every stroke -- creating a coil and release.** As
 in the strokes of Federer and Djokovic there are no digital abrupt
 motions (and no loading up!)
 
-3\. **Your arms ripples off of the figure 8 hip rotation in a
+3. **Your arms ripples off of the figure 8 hip rotation in a
 waveform** that is beautiful, easy to reproduce,
 controlled, powerful and relatively effortless. 
 
@@ -127,13 +127,13 @@ have basically given up on teaching the volley.)
 
 **Non-Linear Understanding:**
 
-1\. The 45º angle to the net is the optimal contact and balance point
+1. The 45º angle to the net is the optimal contact and balance point
 for every volley
 
-2\. The volley is a body shot -- not a punch -- initiated in your core
+2. The volley is a body shot -- not a punch -- initiated in your core
 (hips)
 
-3\. There should be a roundness "convex" in your arm at contact. Curved
+3. There should be a roundness "convex" in your arm at contact. Curved
 is stronger than straight, as in architecture.
 
 **Serve: **
@@ -150,21 +150,20 @@ stance..."
 
 **Non-Linear Understanding:**
 
-1\. **Line up the 45º and stay lined up throughout the contact --
+1. **Line up the 45º and stay lined up throughout the contact --
 balanced on the 45º to the net.**
 
-2\. **The tossing and hitting arms are inter-related throughout the
+2. **The tossing and hitting arms are inter-related throughout the
 stroke. The** **tossing arm cannot be isolated
 from the hitting arm or from the body.** **The
 toss actually plays off of the hips of a good
 player.**
 
-3\. **Wind (through hips) and unwind completely, letting the racket
+3. **Wind (through hips) and unwind completely, letting the racket
 trail and build momentum throughout the serve. Fluidity and balance are
 key ingredients to a big serve.**
 
-![Jack Broudy - Founder of the Non-Linear Tennis
-System](media_tips-don-t-work/media/image1.jpeg)
+![Jack Broudy - Founder of the Non-Linear Tennis System](media_tips-don-t-work/media/image1.jpeg)
 
 Jack Broudy from Broudy Tennis. Jack is a tennis player, coach, author,
 speaker, and inventor. He's coached college national champions, top US

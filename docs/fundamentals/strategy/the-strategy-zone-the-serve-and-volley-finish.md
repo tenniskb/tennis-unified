@@ -4,9 +4,7 @@
 
 ### Nick Bollettierri with Lance Luciani
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_the-strategy-zone-the-serve-and-volley-finish/media/image1.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_the-strategy-zone-the-serve-and-volley-finish/media/image1.webp)
 
 **Serve and volleyers: a rare breed in pro tennis.**
 
@@ -25,8 +23,7 @@ we'll outline exactly what we teach and how to incorporate it into your
 own game. ([link](The%20Strategy%20Zone%20-%20Introduction.docx)
 to see the whole series.)
 
-![A person playing tennis Description automatically
-generated](media_the-strategy-zone-the-serve-and-volley-finish/media/image2.webp)
+![A person playing tennis Description automatically generated](media_the-strategy-zone-the-serve-and-volley-finish/media/image2.webp)
 
 **Mixing in serve and volley points can yield points and create mental
 pressure on the opponent.**
@@ -55,22 +52,16 @@ and backhand sides.**
 
 **[The 4 components are:]**
 
-  ------------------------------------------------
-  **Serve Placement**     **Timing of Footwork**
-  ----------------------- ------------------------
-  **Anticipation of the   **Mastery of Target
-  Return**                Areas**
-
-  ------------------------------------------------
+**Serve Placement**     **Timing of Footwork**
+**Anticipation of the   **Mastery of Target
+Return**                Areas**
 
 **One placement or another may be particularly effective against a
 certain opponent and can be used repeatedly. At higher levels, a mixture
 of deliveries is usually required to keep opponents off balance and
 uncertain.**
 
-![A tennis player in the middle of a match Description automatically
-generated with low
-confidence](media_the-strategy-zone-the-serve-and-volley-finish/media/image3.webp)
+![A tennis player in the middle of a match Description automatically generated with low confidence](media_the-strategy-zone-the-serve-and-volley-finish/media/image3.webp)
 
 **Establishing control with the service placement is the first step.**
 
@@ -105,9 +96,7 @@ best players in the world, after landing on the serve, they take only
 one or two steps before the split in most
 sequences.**
 
-![A tennis player in the middle of a match Description automatically
-generated with low
-confidence](media_the-strategy-zone-the-serve-and-volley-finish/media/image4.webp)
+![A tennis player in the middle of a match Description automatically generated with low confidence](media_the-strategy-zone-the-serve-and-volley-finish/media/image4.webp)
 
 **The split occurs at roughly the time of the return.**
 
@@ -129,9 +118,7 @@ opponent's ball.** **Players at lower levels may
 actually be able to close further than the top players depending on the
 pace of the exchanges.**
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_the-strategy-zone-the-serve-and-volley-finish/media/image5.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_the-strategy-zone-the-serve-and-volley-finish/media/image5.webp)
 
 **It's not about getting closer to the net, it's about balance.**
 
@@ -166,9 +153,7 @@ angles. If you serve down the T or directly at the body, your approach
 is more directly forward, again following the line of your serve
 placement.
 
-![A picture containing athletic game, sport, tennis, player Description
-automatically
-generated](media_the-strategy-zone-the-serve-and-volley-finish/media/image6.webp)
+![A picture containing athletic game, sport, tennis, player Description automatically generated](media_the-strategy-zone-the-serve-and-volley-finish/media/image6.webp)
 
 **The 3 runways: behind the opponent, down the middle, and the open
 court.**
@@ -192,9 +177,7 @@ can hit successfully into a large target area and either hit a clean
 winner or force the opponent further at of position and/or into an
 error.**
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_the-strategy-zone-the-serve-and-volley-finish/media/image7.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_the-strategy-zone-the-serve-and-volley-finish/media/image7.webp)
 
 **Hitting at or behind the opponent can set up the finish on the second
 volley.**
@@ -222,9 +205,7 @@ To make these decisions you must first have the ability to execute all
 the options with confidence. This is why the Strategy Zone we give
 players a range of progressive drills to develop all these options.
 
-![A picture containing sport, athletic game, tennis, court Description
-automatically
-generated](media_the-strategy-zone-the-serve-and-volley-finish/media/image8.webp)
+![A picture containing sport, athletic game, tennis, court Description automatically generated](media_the-strategy-zone-the-serve-and-volley-finish/media/image8.webp)
 
 **Practicing all the options is the groundwork for execution in
 matches.**
@@ -257,29 +238,24 @@ Strategy Zone concepts and the three-point progression of control, hurt,
 and finish. [link](The%20Strategy%20Zone%20-%20Introduction.docx)
 to see a list of the whole series. See everyone later on Tennisplayer!
 
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![A couple of men holding tennis rackets Description automatically generated with medium                                                                                                       Nick Bollettieri (right) is the legendary coach
-  confidence](media_the-strategy-zone-the-serve-and-volley-finish/media/image9.jpeg)                                                                                                                                                                 Seles, Andre Agassi, Jim Courier, and Maria
-                                                                                                                                                                                                 Sharapova. Nick is the creator of the tennis
-                                                                                                                                                                                                 academy concept and has watched his vision grow
-                                                                                                                                                                                                 for over 30 years into the world's premier
-                                                                                                                                                                                                 tennis training ground at IMG Bollettieri in
-                                                                                                                                                                                                 Bradenton, Florida. Over the years Nick has
-                                                                                                                                                                                                 collaborated with many of the leading innovators
-                                                                                                                                                                                                 in coaching, introducing and incorporating their
-                                                                                                                                                                                                 concepts into training programs at the Academy.\
-                                                                                                                                                                                                 \
-                                                                                                                                                                                                 Lance Luciani (left), the founder of Strategy
-                                                                                                                                                                                                 Zone, is one of the world's leading analysts of
-                                                                                                                                                                                                 statistics and strategy, and the Head of
-                                                                                                                                                                                                 Strategy and Tactics at IMG/Bollettieri
-                                                                                                                                                                                                 Academies. Lance was a pioneer in the video
-                                                                                                                                                                                                 analysis of match play at all levels of the
-                                                                                                                                                                                                 game. At the Academy he has created the cutting
-                                                                                                                                                                                                 edge system used by players to study the
-                                                                                                                                                                                                 patterns of their points from real time play.
-                                                                                                                                                                                                 This system is revolutionizing how competitors
-                                                                                                                                                                                                 develop and improve their strategic style.
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ------------------------------------------------
-
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A couple of men holding tennis rackets Description automatically generated with medium                                                                                                       Nick Bollettieri (right) is the legendary coach confidence](media_the-strategy-zone-the-serve-and-volley-finish/media/image9.jpeg)                                                                                                                                                                 Seles, Andre Agassi, Jim Courier, and Maria
+Sharapova. Nick is the creator of the tennis
+academy concept and has watched his vision grow
+for over 30 years into the world's premier
+tennis training ground at IMG Bollettieri in
+Bradenton, Florida. Over the years Nick has
+collaborated with many of the leading innovators
+in coaching, introducing and incorporating their
+concepts into training programs at the Academy.\
+\
+Lance Luciani (left), the founder of Strategy
+Zone, is one of the world's leading analysts of
+statistics and strategy, and the Head of
+Strategy and Tactics at IMG/Bollettieri
+Academies. Lance was a pioneer in the video
+analysis of match play at all levels of the
+game. At the Academy he has created the cutting
+edge system used by players to study the
+patterns of their points from real time play.
+This system is revolutionizing how competitors
+develop and improve their strategic style.

@@ -2,10 +2,7 @@
 
 ### By Allen Fox, Ph.D.
 
-------------------------------------------------------------------------
-
-![A picture containing text, person Description automatically
-generated](media_fixing-stroke-phobias/media/image1.jpg)
+![A picture containing text, person Description automatically generated](media_fixing-stroke-phobias/media/image1.jpg)
 
 **Robbie Weiss: a great talent with a bit of a serve phobia.**
 
@@ -34,18 +31,16 @@ his phobia, played #1 for us, won the NCAA singles title, and as a
 professional, had a world-ranking high of 85 with wins over Lendl,
 Becker, Edberg, and Rafter at their peaks.
 
-![A tennis player hitting a ball with his racket Description
-automatically generated with medium
-confidence](media_fixing-stroke-phobias/media/image2.jpg)
+![A tennis player hitting a ball with his racket Description automatically generated with medium confidence](media_fixing-stroke-phobias/media/image2.jpg)
 
 **Elena Dementieva was able to overcome the yips.**
 
-The point is that stroke \"phobias\" can be fixed. Although versions of
-the \"afraid to hit a stroke\" syndrome afflict players of all levels,
+The point is that stroke "phobias" can be fixed. Although versions of
+the "afraid to hit a stroke" syndrome afflict players of all levels,
 including some of the top pros, it can usually be conquered over time
 with effort and intelligent discipline.
 
-A couple years ago, for example, Elena Dementieva got the \"yips\" on
+A couple years ago, for example, Elena Dementieva got the "yips" on
 her serve. Her toss went haywire, and she was often off-balance and
 chasing the ball to hit it. But eventually she recovered.
 
@@ -63,13 +58,12 @@ I was recently working with a talented junior (call him Tom) who has a
 beautiful backhand that he is afraid to hit. He thinks it is a bad shot,
 and his syndrome is typical of this problem.
 
-![A person playing tennis Description automatically
-generated](media_fixing-stroke-phobias/media/image3.jpg)
+![A person playing tennis Description automatically generated](media_fixing-stroke-phobias/media/image3.jpg)
 
 **When Serena misses she doesn't think here comes trouble.**
 
 He hits a few good ones but then misses one and has what I call the
-\"oh, oh here comes trouble\" response. The fear that was lurking in the
+"oh, oh here comes trouble" response. The fear that was lurking in the
 back of his mind quickly surfaces.
 
 Now his hands stiffen, his coordination falters and he starts to poke
@@ -81,7 +75,7 @@ rest of his game and disaster follows.
 
 By contrast, when he misses a forehand, a stroke in which he has
 confidence, there is no fear reaction. He shrugs it off. Clearly, Tom's
-problems are mostly due to the \"Oh, oh\" response itself.
+problems are mostly due to the "Oh, oh" response itself.
 
 **The Cure**
 
@@ -95,11 +89,9 @@ is to realize that almost everybody has a weaker stroke. There is
 nothing terribly wrong with this, other than worrying about it. It may
 cost you a few extra errors, but you can win with it anyway if it
 doesn't rattle you. Even Federer has a weaker backhand, but when he
-misses it you can bet he doesn't have the \"Oh, oh\" response.
+misses it you can bet he doesn't have the "Oh, oh" response.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_fixing-stroke-phobias/media/image4.jpg)
+![A person playing tennis Description automatically generated with medium confidence](media_fixing-stroke-phobias/media/image4.jpg)
 
 **Everyone has a weaker side, even Roger Federer.**
 
@@ -114,9 +106,9 @@ some shots than others. So what? This is true for everybody.
 Once you have done your best in practice to make your stroke as good as
 you can, forget about it in matches, and accept its errors with no more
 emotional reaction than you have with any of your other strokes (which
-should be none). Above all, get rid of the \"Oh, oh\" response.
+should be none). Above all, get rid of the "Oh, oh" response.
 
-\"You must believe in your strokes.\" You have heard top pros say
+"You must believe in your strokes." You have heard top pros say
 something this, but they mean something different by it from the common
 conception.
 
@@ -129,9 +121,7 @@ practice have made them. So you must now be content with your game as it
 is, rely on it, lean on it, and assume that your strokes it will
 function well enough for you to win the match.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_fixing-stroke-phobias/media/image5.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_fixing-stroke-phobias/media/image5.webp)
 
 **In a match, rely on your game and assume it is good enough to win.**
 
@@ -158,9 +148,7 @@ As we saw in the last article, one solution is to replace confidence
 with emotional discipline so you can avoid those total breakdowns that
 simply hand matches to your opponents.
 
-![A picture containing person, sport, athletic game, person Description
-automatically
-generated](media_fixing-stroke-phobias/media/image6.jpg)
+![A picture containing person, sport, athletic game, person Description automatically generated](media_fixing-stroke-phobias/media/image6.jpg)
 
 **Confidence leads to winning. Winning leads to confidence.**
 
@@ -196,61 +184,92 @@ Read More From Allen!
 
 Visit him at [www.allenfoxtennis.net](http://www.allenfoxtennis.net)
 
- 
+![A picture containing text, newspaper Description automatically generated](media_fixing-stroke-phobias/media/image7.jpeg)
 
-| ![A picture containing text, newspaper Description automatically | Winning the Mental Match Dr. Allen Fox |
-| --- | --- |
-| generated](media_fixing-stroke-phobias/media/image7.jpeg) | Tennis is mentally the most difficult sport due to it's personal nature which makes winning and losing feel more |
-|  | important than they are. In this new book, Allen offers his proven solutions to problems such as choking, reducing |
-|  | stress, finishing matches, and developing confidence. Based on a life time of high level play and coaching success, |
-|  | it's a must for all competitive players. |
-|  |  |
-|  | [ to |
-|  | Order](http://www.amazon.com/Tennis-Winning-Mental-Allen-Fox/dp/0615407765/ref=sr_1_1?ie=UTF8&qid=1336083459&sr=8-1). |
+Winning the Mental Match Dr. Allen Fox
 
+Tennis is mentally the most difficult sport due to it's personal nature which makes winning and losing feel more
 
-| ![Text Description automatically | Winning may not be everything, but Dr. Allen Fox points out |
-| --- | --- |
-| generated](media_fixing-stroke-phobias/media/image8.jpeg) | eminently preferable to losing. In his new book, The |
-|  | Winner's Mind, Allen lays out an original step-by-step |
-|  | plan for succeeding at any of life's endeavors, based on |
-|  | his first hand and very personal observations of the |
-|  | careers of both world-class tennis players and successful |
-|  | businessman. The bottom line is that even if you are not a |
-|  | born champion\--and only a tiny percentage of us are\--you |
-|  | can still use the success strategies of champions to tilt |
-|  | the odds in your favor. Writing with brutal honesty and dry |
-|  | humor, Fox lays out the common mental characteristics of |
-|  | winners in sports and in life. He explains the critical |
-|  | role of intellect over emotion. He analyzes the struggle |
-|  | between ambition and fear and the insidious and pervasive |
-|  | fear of failure that undermines so many of us. He then |
-|  | outline how to confront and overcome these fears in your |
-|  | life and career, even when they are initially subconscious. |
-|  | Must reading from one of the great thinkers in tennis, and |
-|  | a Renaissance Man in life. [ to |
-|  | Order](http://www.tennis-warehouse.com/descpage-MIND.html). |
-|  |  |
-|  | To purchase this book you can also send a check for \$17.95 |
-|  | to Allen Fox, 1120 Inverness Place, San Luis Obispo, CA. |
-|  | 93401. The price includes shipping. |
+important than they are. In this new book, Allen offers his proven solutions to problems such as choking, reducing
 
+stress, finishing matches, and developing confidence. Based on a life time of high level play and coaching success,
 
-| ![A person holding a tennis racket Description automatically | Allen Fox PhD is a former world class player, a coach, |
-| --- | --- |
-| generated](media_fixing-stroke-phobias/media/image9.gif) | insightful analysts in modern tennis. A top 10 |
-|  | American player from the glory days before Open |
-|  | tennis, Fox played many of the legendary greats, among |
-|  | them Roy Emerson, Rod Laver, Stan Smith, and Arthur |
-|  | Ashe. At Pepperdine he developed the men's tennis |
-|  | program into an elite contender for national titles, |
-|  | and gave Brad Gilbert the insights that became the |
-|  | foundation for \"Winning Ugly\". His book Think to Win |
-|  | is a modern classic. He has also starred in a series |
-|  | of acclaimed videos, including Pro Secrets of Match |
-|  | Play and Allen Fox's Ultimate Tennis Lesson. |
-|  |  |
-|  |  |
+it's a must for all competitive players.
 
+[ to
 
-------------------------------------------------------------------------
+Order](http://www.amazon.com/Tennis-Winning-Mental-Allen-Fox/dp/0615407765/ref=sr_1_1?ie=UTF8&qid=1336083459&sr=8-1).
+
+![Text Description automatically generated](media_fixing-stroke-phobias/media/image8.jpeg)
+
+Winning may not be everything, but Dr. Allen Fox points out
+
+eminently preferable to losing. In his new book, The
+
+Winner's Mind, Allen lays out an original step-by-step
+
+plan for succeeding at any of life's endeavors, based on
+
+his first hand and very personal observations of the
+
+careers of both world-class tennis players and successful
+
+businessman. The bottom line is that even if you are not a
+
+born champion--and only a tiny percentage of us are--you
+
+can still use the success strategies of champions to tilt
+
+the odds in your favor. Writing with brutal honesty and dry
+
+humor, Fox lays out the common mental characteristics of
+
+winners in sports and in life. He explains the critical
+
+role of intellect over emotion. He analyzes the struggle
+
+between ambition and fear and the insidious and pervasive
+
+fear of failure that undermines so many of us. He then
+
+outline how to confront and overcome these fears in your
+
+life and career, even when they are initially subconscious.
+
+Must reading from one of the great thinkers in tennis, and
+
+a Renaissance Man in life. [ to
+
+Order](http://www.tennis-warehouse.com/descpage-MIND.html).
+
+To purchase this book you can also send a check for $17.95
+
+to Allen Fox, 1120 Inverness Place, San Luis Obispo, CA.
+
+93401. The price includes shipping.
+
+![A person holding a tennis racket Description automatically generated](media_fixing-stroke-phobias/media/image9.gif)
+
+Allen Fox PhD is a former world class player, a coach,
+
+insightful analysts in modern tennis. A top 10
+
+American player from the glory days before Open
+
+tennis, Fox played many of the legendary greats, among
+
+them Roy Emerson, Rod Laver, Stan Smith, and Arthur
+
+Ashe. At Pepperdine he developed the men's tennis
+
+program into an elite contender for national titles,
+
+and gave Brad Gilbert the insights that became the
+
+foundation for "Winning Ugly". His book Think to Win
+
+is a modern classic. He has also starred in a series
+
+of acclaimed videos, including Pro Secrets of Match
+
+Play and Allen Fox's Ultimate Tennis Lesson.

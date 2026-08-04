@@ -2,10 +2,7 @@
 
 ### By Allen Fox, Ph.D.
 
-------------------------------------------------------------------------
-
-![A person playing tennis Description automatically
-generated](media_becoming-a-great-competitor/media/image1.webp)
+![A person playing tennis Description automatically generated](media_becoming-a-great-competitor/media/image1.webp)
 
 **Surprisingly few people are great natural competitors, but the average
 person can learn their techniques.**
@@ -28,11 +25,7 @@ willing to work on their minds and their emotional control. But I can
 guarantee that if you are really willing, if you can do the work that it
 takes, you will improve.
 
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![A picture containing road, person, outdoor, military uniform Description automatically
-  generated](media_becoming-a-great-competitor/media/image2.jpg)**Only 5% of fighter pilots are actually successful in shooting down enemy planes.**
-
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A picture containing road, person, outdoor, military uniform Description automatically generated](media_becoming-a-great-competitor/media/image2.jpg)**Only 5% of fighter pilots are actually successful in shooting down enemy planes.**
 
 **Components in the Mental Game**
 
@@ -47,9 +40,7 @@ chance of getting there. If you're going to get in a car and take a
 trip, you wouldn't just take off not knowing where you're going, would
 you? That may seem simple. But in tennis, people do this all the time.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_becoming-a-great-competitor/media/image3.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_becoming-a-great-competitor/media/image3.webp)
 
 **Getting angry will take you in exactly the opposite direction of your
 goal.**
@@ -57,8 +48,8 @@ goal.**
 **Component 1: Direction or Goal**
 
 Once you know specifically where you're going, you can apply Rule
-Number One: \"Never do anything that doesn't take you towards your
-goal.\" In a tennis match, obviously, this goal is winning. But over the
+Number One: "Never do anything that doesn't take you towards your
+goal." In a tennis match, obviously, this goal is winning. But over the
 years I have been amazed to see so many talented players ignore Rule
 Number One and engage in behaviors that took them in the exact opposite
 direction of their goal.
@@ -67,8 +58,8 @@ The one behavior that is most likely to take you in the opposite
 direction from this goal is getting angry. Does getting angry help you
 win matches? The answer is definitely not.
 
-You may say, \"What about John McEnroe? He got really mad. He won a lot
-of matches.\" It may have worked for John McEnroe, but I have yet to see
+You may say, "What about John McEnroe? He got really mad. He won a lot
+of matches." It may have worked for John McEnroe, but I have yet to see
 another person that it has worked for in the same way. It didn't work
 for me, and it never worked for anybody that played on my college tennis
 teams, or for players I had in my tennis camps. It deson't work for
@@ -76,12 +67,10 @@ example for Marat Safin who usually plays much worse when he gets angry.
 It's the same for all the other top players. So don't do it. It goes
 directly against Rule Number One.
 
-  -----------------------------------------------------------------------------------------------------------------------------------------
-   ![link](media_becoming-a-great-competitor/media/image4.png)
-  -----------------------------------------------------------------------------------------------------------------------------------------
-                                     **Click Photo to learn about the importance of individual points.**
+![Video demonstration](media_becoming-a-great-competitor/media/image4.png)
 
-  -----------------------------------------------------------------------------------------------------------------------------------------
+*Video demonstration — the original video for this article was hosted on TennisPlayer.net.*
+**Click Photo to learn about the importance of individual points.**
 
 But just following Rule Number One is not enough. To be a great
 competitor you never do anything that takes you away from your goal. But
@@ -98,9 +87,7 @@ order of play so that you know exactly what you're going to do when you
 get out there. I've outlined how to do this in some of my other
 articles on Tennisplayer. ([link](http://www.tennisplayer.net/members/strategy/strategy_and_statistics.html).)
 
-![A picture containing athletic game, sport, tennis Description
-automatically
-generated](media_becoming-a-great-competitor/media/image5.webp)\
+![A picture containing athletic game, sport, tennis Description automatically generated](media_becoming-a-great-competitor/media/image5.webp)\
 **Before you walk on the court have a game plan of how you plan to win
 your points.**
 
@@ -118,8 +105,7 @@ hours, as long as it may take to reach your goals. But 95% of all
 competitors become disenchanted somewhere along the line. They weaken.
 They can't keep their drive level up long enough.
 
-![A person playing tennis Description automatically
-generated](media_becoming-a-great-competitor/media/image6.webp)
+![A person playing tennis Description automatically generated](media_becoming-a-great-competitor/media/image6.webp)
 
 **You need to keep your drive and determination for as long as it takes
 to reach your goals.**
@@ -147,8 +133,7 @@ it's very, very tiring. And if you do that all match, you're going to
 lose the strength to continue on for the two, three, four hours that it
 may take to win.
 
-![A person playing tennis Description automatically
-generated](media_becoming-a-great-competitor/media/image7.webp)
+![A person playing tennis Description automatically generated](media_becoming-a-great-competitor/media/image7.webp)
 
 **Once the point starts your reactions take over.**
 
@@ -168,8 +153,7 @@ This is a reflection of true confidence, as we'll discuss below. But
 the top players tend to stay off the emotional roller coaster. in
 general they go through their matches keeping an even emotional keel.
 
-![A person in a white shirt Description automatically generated with low
-confidence](media_becoming-a-great-competitor/media/image8.webp)
+![A person in a white shirt Description automatically generated with low confidence](media_becoming-a-great-competitor/media/image8.webp)
 
 **Your emotions are the only thing you can control.**
 
@@ -187,13 +171,12 @@ competitive success. (What is it? [link](Be%20Wary%20of%20Hidden%20Fear.docx) to
 Fear.)
 
 All competition involves a conflict, a conflict of desire to win versus
-the fear of failure. Everybody would like to win all the time \--they
+the fear of failure. Everybody would like to win all the time --they
 would like to win in tennis and hockey and soccer and in business and in
-school and in everything \--they would like to be the best. But,
+school and in everything --they would like to be the best. But,
 unfortunately, that's not always possible.
 
-![A person playing tennis Description automatically
-generated](media_becoming-a-great-competitor/media/image9.webp)
+![A person playing tennis Description automatically generated](media_becoming-a-great-competitor/media/image9.webp)
 
 **Before the point starts learn to set the emotional stage.**
 
@@ -212,15 +195,13 @@ who's afraid of dying and they're so afraid of dying that rather than
 face their fear, they commit suicide. Now that's**
 **a very maladaptive response to the problem.**
 
-![A person in a white shirt Description automatically generated with
-medium
-confidence](media_becoming-a-great-competitor/media/image10.webp)
+![A person in a white shirt Description automatically generated with medium confidence](media_becoming-a-great-competitor/media/image10.webp)
 
 **Once the points starts, it's a matter of reaction.**
 
 **But in tennis, you see the same kind of maladaptation. For instance,
 you see somebody who's losing a match, and their response to that is to
-tank\-\--to quit.** **Now, to me, that's a very
+tank---to quit.** **Now, to me, that's a very
 poor reaction, but the reason they do it is because they don't want to
 accept the pain of fighting it all the way out and being disappointing
 and losing. So they accept failure early and they don't try so hard,
@@ -235,8 +216,7 @@ And so, as psychologist Jim Loehr was among the first to point out, you
 can only control the time between points. Once the point ends, your work
 as a controller of your own emotions begins.
 
-![A person playing tennis Description automatically generated with low
-confidence](media_becoming-a-great-competitor/media/image11.webp)
+![A person playing tennis Description automatically generated with low confidence](media_becoming-a-great-competitor/media/image11.webp)
 
 **Your goal is to have no emotional reaction no matter how the point
 ends.**
@@ -247,9 +227,9 @@ little different take on what exactly these stages should be. ([link](http://www
 see Jim's articles.) What I am going to suggest is a strategy of
 emotional control.
 
-Now you may ask, \"Wouldn't it help me if I got excited when I played
-well? I see Roger Federer raising his fist in the air and going \"yeah\"
-when he makes a great shot. Wouldn't that help me?\" And I would say
+Now you may ask, "Wouldn't it help me if I got excited when I played
+well? I see Roger Federer raising his fist in the air and going "yeah"
+when he makes a great shot. Wouldn't that help me?" And I would say
 this: you and I and most of us are not Roger Federer. Roger Federer is a
 champion and he doesn't have the type of fear and uncertainty that we
 have.
@@ -270,19 +250,17 @@ don't have to worry. Your reactions will be right. But for the ordinary
 person when there is that hidden fear, you need control. And once you
 let your emotions be uncontrolled, you're in the grip of this hidden
 fear. The genie gets out of the bottle. So you can't afford to get
-excited \-- win or lose the point.
+excited -- win or lose the point.
 
 The first step in learning to control your emotions is learning not to
 react after the point ends. Your goal is to learn how to literally feel
-nothing the instant the point ends\--that is to have no emotional
+nothing the instant the point ends--that is to have no emotional
 reaction to what just happened. At that very second, you don't feel
-happy, you don't feel sad, you don't feel positive or negative \-- you
+happy, you don't feel sad, you don't feel positive or negative -- you
 don't feel anything new or different about the outcome of that point.
 Your drive and determination are just the same.
 
- ![A person playing tennis Description automatically generated with
-medium
-confidence](media_becoming-a-great-competitor/media/image12.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_becoming-a-great-competitor/media/image12.webp)
 
 **When you have no reaction to an easy miss, you have developed
 emotional control.**
@@ -302,9 +280,7 @@ focus on something that's unemotional like your racket strings or your
 shoes and you spend the time rejuvenating and making yourself feel
 better and getting back to an equilibrium state.
 
-![A person holding a tennis racket Description automatically generated
-with medium
-confidence](media_becoming-a-great-competitor/media/image13.webp)
+![A person holding a tennis racket Description automatically generated with medium confidence](media_becoming-a-great-competitor/media/image13.webp)
 
 **Relax by doing the little things you need to do between points.**
 
@@ -326,9 +302,7 @@ and where you're going to hit your serve, and then all of your
 concentration goes into those little keys that help you the most in that
 particular stroke.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_becoming-a-great-competitor/media/image14.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_becoming-a-great-competitor/media/image14.webp)
 
 **Use imagery to psych up for the next point.**
 
@@ -348,24 +322,21 @@ is don't change your keys and change your sequences based on what
 happens on the court, just because you lose the point. Stick to what
 you're doing, stick to your keys, and that's the best you can do.
 
-![A person hitting a tennis ball with the racket Description
-automatically
-generated](media_becoming-a-great-competitor/media/image15.webp)
+![A person hitting a tennis ball with the racket Description automatically generated](media_becoming-a-great-competitor/media/image15.webp)
 
 **My keys on my serve were to keep a loose wrist and to hit up and over
 the ball.**
 
 **[ [Again, to review the 4 Stages are:\
 \
-Stage One \-- Feel nothing, don't react, no matter how the point has
+Stage One -- Feel nothing, don't react, no matter how the point has
 ended.\
-Stage Two \-- relax as you prepare for the next point.\
-Stage Three \-- psych up using imagery of your best tennis.\
-Stage Four \-- focus on your game plan and your personal
+Stage Two -- relax as you prepare for the next point.\
+Stage Three -- psych up using imagery of your best tennis.\
+Stage Four -- focus on your game plan and your personal
 keys.]]**
 
-![A person swinging a tennis racket Description automatically
-generated](media_becoming-a-great-competitor/media/image16.webp)**Master these techniques and your on your
+![A person swinging a tennis racket Description automatically generated](media_becoming-a-great-competitor/media/image16.webp)**Master these techniques and your on your
 way to becoming a great competitor.**
 
 **These four stages are the sequence for the whole match. It doesn't
@@ -389,61 +360,92 @@ Read More From Allen!
 
 Visit him at [www.allenfoxtennis.net](http://www.allenfoxtennis.net)
 
- 
+![A picture containing text, newspaper Description automatically generated](media_becoming-a-great-competitor/media/image17.jpeg)
 
-| ![A picture containing text, newspaper Description automatically | Winning the Mental Match Dr. Allen Fox |
-| --- | --- |
-| generated](media_becoming-a-great-competitor/media/image17.jpeg) | Tennis is mentally the most difficult sport due to it's personal nature which makes winning and losing feel more |
-|  | important than they are. In this new book, Allen offers his proven solutions to problems such as choking, reducing |
-|  | stress, finishing matches, and developing confidence. Based on a life time of high level play and coaching success, |
-|  | it's a must for all competitive players. |
-|  |  |
-|  | [ to |
-|  | Order](http://www.amazon.com/Tennis-Winning-Mental-Allen-Fox/dp/0615407765/ref=sr_1_1?ie=UTF8&qid=1336083459&sr=8-1). |
+Winning the Mental Match Dr. Allen Fox
 
+Tennis is mentally the most difficult sport due to it's personal nature which makes winning and losing feel more
 
-| ![Text Description automatically | Winning may not be everything, but Dr. Allen Fox points out |
-| --- | --- |
-| generated](media_becoming-a-great-competitor/media/image18.jpeg) | eminently preferable to losing. In his new book, The |
-|  | Winner's Mind, Allen lays out an original step-by-step |
-|  | plan for succeeding at any of life's endeavors, based on |
-|  | his first hand and very personal observations of the |
-|  | careers of both world-class tennis players and successful |
-|  | businessman. The bottom line is that even if you are not a |
-|  | born champion\--and only a tiny percentage of us are\--you |
-|  | can still use the success strategies of champions to tilt |
-|  | the odds in your favor. Writing with brutal honesty and dry |
-|  | humor, Fox lays out the common mental characteristics of |
-|  | winners in sports and in life. He explains the critical |
-|  | role of intellect over emotion. He analyzes the struggle |
-|  | between ambition and fear and the insidious and pervasive |
-|  | fear of failure that undermines so many of us. He then |
-|  | outline how to confront and overcome these fears in your |
-|  | life and career, even when they are initially subconscious. |
-|  | Must reading from one of the great thinkers in tennis, and |
-|  | a Renaissance Man in life. [ to |
-|  | Order](http://www.tennis-warehouse.com/descpage-MIND.html). |
-|  |  |
-|  | To purchase this book you can also send a check for \$17.95 |
-|  | to Allen Fox, 1120 Inverness Place, San Luis Obispo, CA. |
-|  | 93401. The price includes shipping. |
+important than they are. In this new book, Allen offers his proven solutions to problems such as choking, reducing
 
+stress, finishing matches, and developing confidence. Based on a life time of high level play and coaching success,
 
-| ![A person holding a tennis racket Description automatically | Allen Fox PhD is a former world class player, a coach, |
-| --- | --- |
-| generated](media_becoming-a-great-competitor/media/image19.gif) | insightful analysts in modern tennis. A top 10 |
-|  | American player from the glory days before Open |
-|  | tennis, Fox played many of the legendary greats, among |
-|  | them Roy Emerson, Rod Laver, Stan Smith, and Arthur |
-|  | Ashe. At Pepperdine he developed the men's tennis |
-|  | program into an elite contender for national titles, |
-|  | and gave Brad Gilbert the insights that became the |
-|  | foundation for \"Winning Ugly\". His book Think to Win |
-|  | is a modern classic. He has also starred in a series |
-|  | of acclaimed videos, including Pro Secrets of Match |
-|  | Play and Allen Fox's Ultimate Tennis Lesson. |
-|  |  |
-|  |  |
+it's a must for all competitive players.
 
+[ to
 
-------------------------------------------------------------------------
+Order](http://www.amazon.com/Tennis-Winning-Mental-Allen-Fox/dp/0615407765/ref=sr_1_1?ie=UTF8&qid=1336083459&sr=8-1).
+
+![Text Description automatically generated](media_becoming-a-great-competitor/media/image18.jpeg)
+
+Winning may not be everything, but Dr. Allen Fox points out
+
+eminently preferable to losing. In his new book, The
+
+Winner's Mind, Allen lays out an original step-by-step
+
+plan for succeeding at any of life's endeavors, based on
+
+his first hand and very personal observations of the
+
+careers of both world-class tennis players and successful
+
+businessman. The bottom line is that even if you are not a
+
+born champion--and only a tiny percentage of us are--you
+
+can still use the success strategies of champions to tilt
+
+the odds in your favor. Writing with brutal honesty and dry
+
+humor, Fox lays out the common mental characteristics of
+
+winners in sports and in life. He explains the critical
+
+role of intellect over emotion. He analyzes the struggle
+
+between ambition and fear and the insidious and pervasive
+
+fear of failure that undermines so many of us. He then
+
+outline how to confront and overcome these fears in your
+
+life and career, even when they are initially subconscious.
+
+Must reading from one of the great thinkers in tennis, and
+
+a Renaissance Man in life. [ to
+
+Order](http://www.tennis-warehouse.com/descpage-MIND.html).
+
+To purchase this book you can also send a check for $17.95
+
+to Allen Fox, 1120 Inverness Place, San Luis Obispo, CA.
+
+93401. The price includes shipping.
+
+![A person holding a tennis racket Description automatically generated](media_becoming-a-great-competitor/media/image19.gif)
+
+Allen Fox PhD is a former world class player, a coach,
+
+insightful analysts in modern tennis. A top 10
+
+American player from the glory days before Open
+
+tennis, Fox played many of the legendary greats, among
+
+them Roy Emerson, Rod Laver, Stan Smith, and Arthur
+
+Ashe. At Pepperdine he developed the men's tennis
+
+program into an elite contender for national titles,
+
+and gave Brad Gilbert the insights that became the
+
+foundation for "Winning Ugly". His book Think to Win
+
+is a modern classic. He has also starred in a series
+
+of acclaimed videos, including Pro Secrets of Match
+
+Play and Allen Fox's Ultimate Tennis Lesson.

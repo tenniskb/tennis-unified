@@ -2,10 +2,7 @@
 
 ### Nick Wheatley
 
-------------------------------------------------------------------------
-
-![A person playing tennis Description automatically generated with low
-confidence](media_live-match-play/media/image1.webp)
+![A person playing tennis Description automatically generated with low confidence](media_live-match-play/media/image1.webp)
 
 **Find ways to bring your top shot into play!**
 
@@ -36,9 +33,7 @@ every opportunity to hit that top shot when it presents itself, and then
 make calculated decisions about whether to do it or opt for another
 option?
 
-![A couple of people playing tennis Description automatically generated
-with low
-confidence](media_live-match-play/media/image2.webp)
+![A couple of people playing tennis Description automatically generated with low confidence](media_live-match-play/media/image2.webp)
 
 **Going down the line can change the diagonal of the exchange.**
 
@@ -67,9 +62,7 @@ stronger pattern in play.**
 
 **Opponent's Game Style**
 
-![A picture containing tennis, athletic game, sport, road Description
-automatically
-generated](media_live-match-play/media/image3.webp)
+![A picture containing tennis, athletic game, sport, road Description automatically generated](media_live-match-play/media/image3.webp)
 
 **Changing to the backhand crosscourt exchange can allow you to get
 around the ball and hit an inside in winner.**
@@ -101,9 +94,7 @@ ins. In this case you also need to be a little more selective when
 trying to change the crosscourt pattern. In this case try that when you
 have a bit more time and can pressure the opponent more.
 
-![A picture containing text, sport, athletic game, tennis Description
-automatically
-generated](media_live-match-play/media/image4.webp)
+![A picture containing text, sport, athletic game, tennis Description automatically generated](media_live-match-play/media/image4.webp)
 
 **Opponents often try to limit the use of Nadal's inside forehand by
 keeping the ball on his backhand.**
@@ -133,25 +124,34 @@ enjoyable part of the game trying to work out strategies for different
 game-styles, and very satisfying when you do it well and get a win as a
 result!
 
-| ![A person holding a tennis racket Description automatically | Nick Wheatley is an LTA Performance Coach and |
-| --- | --- |
-| generated](media_live-match-play/media/image5.jpeg) | His junior teams, the Hawker Jets, have won 44 |
-|  | competitions since formation, and over the last 2 |
-|  | years alone, his junior players have won 19 |
-|  | singles tournaments between them at county level. |
-|  |  |
-|  | He has been ranked in the top 75 nationally in 35 |
-|  | and over singles and in the top 5 in Surrey |
-|  | county. Nick has done video analysis for numerous |
-|  | players at all levels, including former British |
-|  | Top 10 player Marcus Willis. |
-|  |  |
-|  | His unique teaching video series, covering every |
-|  | aspect of the game, is available on his website |
-|  | [www.nickwtennis.com](http://www.nickwtennis.com) |
-|  |  |
-|  | You can also contact Nick directly via the |
-|  | homepage of his website. |
+![A person holding a tennis racket Description automatically generated](media_live-match-play/media/image5.jpeg)
 
+Nick Wheatley is an LTA Performance Coach and
 
-------------------------------------------------------------------------
+His junior teams, the Hawker Jets, have won 44
+
+competitions since formation, and over the last 2
+
+years alone, his junior players have won 19
+
+singles tournaments between them at county level.
+
+He has been ranked in the top 75 nationally in 35
+
+and over singles and in the top 5 in Surrey
+
+county. Nick has done video analysis for numerous
+
+players at all levels, including former British
+
+Top 10 player Marcus Willis.
+
+His unique teaching video series, covering every
+
+aspect of the game, is available on his website
+
+[www.nickwtennis.com](http://www.nickwtennis.com)
+
+You can also contact Nick directly via the
+
+homepage of his website.

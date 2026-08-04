@@ -4,9 +4,7 @@
 
 ### Dennis Ralston
 
-![A couple of people playing tennis Description automatically generated
-with medium
-confidence](media_secrets-of-the-wide-slice/media/image1.webp)
+![A couple of people playing tennis Description automatically generated with medium confidence](media_secrets-of-the-wide-slice/media/image1.webp)
 
 **The wide slice serve demonstrated on the grass at Mission Hills
 Resort.**
@@ -26,15 +24,13 @@ of players don't.
 
 **Pancho**
 
-There was one other player who is had a pretty good wide serve\--in fact
+There was one other player who is had a pretty good wide serve--in fact
 he was one of the greatest servers of all time-Pancho Gonzales. In this
 article I want to share the secret he taught me to hitting the wide
 slice, because I think any player can use it at any level. When I was
 playing my best serve was my wide slice, and I owe that to Pancho.
 
-![A picture containing athletic game, sport, court, player Description
-automatically
-generated](media_secrets-of-the-wide-slice/media/image2.webp)
+![A picture containing athletic game, sport, court, player Description automatically generated](media_secrets-of-the-wide-slice/media/image2.webp)
 
 **Pancho: one of the greatest servers of all time and one of the great
 wide slice serves.**
@@ -61,8 +57,7 @@ he was angry and thought I should do the same. (I found that I actually
 played better when I was a little irritated, but not when I got too
 irritated. Then I played worse.)
 
-![A person holding a tennis racket Description automatically
-generated](media_secrets-of-the-wide-slice/media/image3.webp)
+![A person holding a tennis racket Description automatically generated](media_secrets-of-the-wide-slice/media/image3.webp)
 
 **Pancho taught me to keep my head still to develop the wide slice.**
 
@@ -75,13 +70,13 @@ with Pancho when I was 15 or 16, I didn't hit it very well.
 I remember very clearly the first time we worked on it. Pancho had me
 use an abbreviated motion, starting in the trophy position with my
 racket already up. He told me to toss the ball up and hit the slice. He
-said: \"I want to you serve like this for a month and practice swinging
-across the outside of the ball.\"
+said: "I want to you serve like this for a month and practice swinging
+across the outside of the ball."
 
 And the first time I threw it up and hit it, I turned my head to follow
-the ball. And he yelled at me. \"Don't you do that!\" He scared the
-heck out of me. He said: **\"I don't want to see your head move,
-period.\"**
+the ball. And he yelled at me. "Don't you do that!" He scared the
+heck out of me. He said: **"I don't want to see your head move,
+period."**
 
 **And he explained the reason. When players hit a wide slice they have
 a tendency to open up their bodies too much too
@@ -91,9 +86,7 @@ Pancho stressed strongly that it was the hands and the path and speed of
 the racket head speed that gave you consistency and control, not the
 torquing of the body.
 
-![A person holding a golf club Description automatically generated with
-medium
-confidence](media_secrets-of-the-wide-slice/media/image4.webp)
+![A person holding a golf club Description automatically generated with medium confidence](media_secrets-of-the-wide-slice/media/image4.webp)
 
 **Half motion, head still: 2000 balls later the wide slice was my best
 serve.**
@@ -132,9 +125,7 @@ first serve in the deuce court, and I actually preferred to hit on my
 second serve as well. I also used the slice when I served down the T in
 the ad court, to run the ball away from the returner.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_secrets-of-the-wide-slice/media/image5.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_secrets-of-the-wide-slice/media/image5.webp)
 
 **Sampras: wide or down the T-off the same toss.**
 
@@ -164,25 +155,40 @@ clinics the same simple exercise to develop this serve that I learned
 from Pancho so many years ago. Try it for yourself and see if you don't
 get the same result.
 
-| ![A person wearing a white shirt Description automatically generated with low | Few people in tennis can match Dennis Ralston's |
-| --- | --- |
-| confidence](media_secrets-of-the-wide-slice/media/image6.jpeg) | national junior champion in 1958, twice NCAA singles |
-|  | and doubles champion, and 5 time Grand Slam doubles |
-|  | champion in the 1960s and 1970s. Dennis played with |
-|  | legendary partners including Chuck McKinley, Rafael |
-|  | Osuna, and Billie Jean King, and was also a Wimbledon |
-|  | singles finalist in 1966, losing to the great Manola |
-|  | Santana. |
-|  |  |
-|  | Dennis played on the winning U.S. Davis Cup team that |
-|  | defeated Australia in 1963, and was Davis Cup captain |
-|  | in the victory over Romania in 1972. Dennis was also |
-|  | men's tennis coach at SMU for 15 years. He has |
-|  | coached numerous top pro players including Chris |
-|  | Evert, Roscoe Tanner, Brian Gottfried, Yannick Noah |
-|  | and Gabriela Sabatini. |
-|  |  |
-|  | For information about working directly with Dennis, |
-|  | contact him directly at: 760-636-4055. Or visit: |
-|  | [www.ralstontennis.com](http://www.ralstontennis.com) |
+![A person wearing a white shirt Description automatically generated with low confidence](media_secrets-of-the-wide-slice/media/image6.jpeg)
 
+Few people in tennis can match Dennis Ralston's
+
+national junior champion in 1958, twice NCAA singles
+
+and doubles champion, and 5 time Grand Slam doubles
+
+champion in the 1960s and 1970s. Dennis played with
+
+legendary partners including Chuck McKinley, Rafael
+
+Osuna, and Billie Jean King, and was also a Wimbledon
+
+singles finalist in 1966, losing to the great Manola
+
+Santana.
+
+Dennis played on the winning U.S. Davis Cup team that
+
+defeated Australia in 1963, and was Davis Cup captain
+
+in the victory over Romania in 1972. Dennis was also
+
+men's tennis coach at SMU for 15 years. He has
+
+coached numerous top pro players including Chris
+
+Evert, Roscoe Tanner, Brian Gottfried, Yannick Noah
+
+and Gabriela Sabatini.
+
+For information about working directly with Dennis,
+
+contact him directly at: 760-636-4055. Or visit:
+
+[www.ralstontennis.com](http://www.ralstontennis.com)

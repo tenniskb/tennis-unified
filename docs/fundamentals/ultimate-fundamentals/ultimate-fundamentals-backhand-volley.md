@@ -16,13 +16,10 @@ Find out the critical and misunderstood role of the front shoulder and
 the hitting arm structure and make you backhand volley technically world
 class.
 
-![link](media_ultimate-fundamentals-backhand-volley/media/image1.png)
 
 .
 
-![A person smiling for the camera Description automatically generated
-with medium
-confidence](media_ultimate-fundamentals-backhand-volley/media/image2.jpeg)
+![A person smiling for the camera Description automatically generated with medium confidence](media_ultimate-fundamentals-backhand-volley/media/image2.jpeg)
 
 John Yandell is widely acknowledged as one of the leading videographers
 and students of the modern game of professional tennis. His high speed

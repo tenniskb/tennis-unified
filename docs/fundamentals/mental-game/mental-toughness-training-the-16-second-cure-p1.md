@@ -2,15 +2,8 @@
 
 ### By Jim Loehr
 
-------------------------------------------------------------------------
-
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                                    ![A person holding a tennis racket Description automatically
-   generated](media_mental-toughness-training-the-16-second-cure-p1/media/image1.jpg)
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                    **Between point behavior: the single most important factor in developing mental toughness.**
-
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person holding a tennis racket Description automatically generated](media_mental-toughness-training-the-16-second-cure-p1/media/image1.jpg)
+**Between point behavior: the single most important factor in developing mental toughness.**
 
 Think about your last match. How did you spend most of the time? Hitting
 forehands, backhands, playing serve and volley? Actually, for the
@@ -33,13 +26,8 @@ specific ways between points. And that is the behavior we call the four
 stages, or the 16-Second Cure. And it is the key to consistent,
 competitive performance.
 
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                                    ![A person holding a tennis racket Description automatically
-   generated](media_mental-toughness-training-the-16-second-cure-p1/media/image2.jpg)
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                    Practicing the 16 Second Cure can help you fuel your performance from your positive emotions.
-
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person holding a tennis racket Description automatically generated](media_mental-toughness-training-the-16-second-cure-p1/media/image2.jpg)
+Practicing the 16 Second Cure can help you fuel your performance from your positive emotions.
 
 Our goal in the training process is to achieve and sustain our own Ideal
 Performance State (see Part 1). The four stages are a proven technique
@@ -65,13 +53,8 @@ the point, hit a winner or made an unforced error, the responses are
 very similar. The player will make a quick decisive move with his body
 the instant the point ends.
 
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                              ![A person holding a tennis racket Description automatically
-   generated](media_mental-toughness-training-the-16-second-cure-p1/media/image3.webp)
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                      **Stage 1 is positive physical response, whether you win or lose the point.**
-
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person holding a tennis racket Description automatically generated](media_mental-toughness-training-the-16-second-cure-p1/media/image3.webp)
+**Stage 1 is positive physical response, whether you win or lose the point.**
 
 If he has made a great shot, he may give that physical expression,
 pumping himself up, or he may physically acknowledge a good shot by his
@@ -89,13 +72,8 @@ positive physical response. It lasts from 3 to 5 seconds.
 
 ### Stage 2: Relaxation
 
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                          ![A child holding a tennis racket Description automatically generated with medium
-   confidence](media_mental-toughness-training-the-16-second-cure-p1/media/image4.webp)
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                                               **Stage 2 is relaxation and recovery.**
-
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A child holding a tennis racket Description automatically generated with medium confidence](media_mental-toughness-training-the-16-second-cure-p1/media/image4.webp)
+**Stage 2 is relaxation and recovery.**
 
 Stage two is relaxation. The goal is to recover physically and
 emotionally from the point.
@@ -104,7 +82,7 @@ The player walks across the baseline. He maintains precise eye control,
 typically focusing on the strings of his racquet. He breathes deeply and
 evenly and attempts to drop his heart rate to an optimal level. During
 this stage, the player should avoid conscious thought beyond simple
-phrases such as \"relax, calm down, it's okay,\" and focus primarily on
+phrases such as "relax, calm down, it's okay," and focus primarily on
 his breathing.
 
 If necessary, he walks back and forth behind the baseline until his
@@ -120,15 +98,10 @@ Stage Three is preparation. Preparation begins as the player moves into
 position to play, either to serve or return. Frequently, the player
 signals the beginning of this stage by looking up to the opponent's
 side of the court, making a positive physical statement with his body,
-as if to say, \"I'm going to win this point.\"
+as if to say, "I'm going to win this point."
 
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                                    ![A person holding a tennis racket Description automatically
-   generated](media_mental-toughness-training-the-16-second-cure-p1/media/image5.webp)
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                                      **Stage 3 is preparation. How will play the next point?**
-
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person holding a tennis racket Description automatically generated](media_mental-toughness-training-the-16-second-cure-p1/media/image5.webp)
+**Stage 3 is preparation. How will play the next point?**
 
 This is the time to decide how to play the next point. Where shall I
 serve? Should I serve and volley? Is there a particular strategic
@@ -141,7 +114,7 @@ positive and keep fighting.
 
 If he is having a technical problem with a particular stroke, he can
 visualize the correct execution. Or, he may remind himself to focus on
-something simpler such as \"only the ball.\"
+something simpler such as "only the ball."
 
 Stage Three is the time players manage the strategic and emotional
 direction of their match play. With practice, a player learns exactly
@@ -150,13 +123,8 @@ opponent. It should take between 3 and 5 seconds to complete this stage.
 
 ### Stage 4: Ritual
 
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                                    ![A person holding a tennis racket Description automatically
-   generated](media_mental-toughness-training-the-16-second-cure-p1/media/image6.webp)
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                              **Stage 4 is Ritual, staying relaxed and concentrated just before play.**
-
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person holding a tennis racket Description automatically generated](media_mental-toughness-training-the-16-second-cure-p1/media/image6.webp)
+**Stage 4 is Ritual, staying relaxed and concentrated just before play.**
 
 Stage Four is the ritual stage. This is the final stage before play,
 designed to keep the player relaxed and to deepen concentration. If you
@@ -177,27 +145,24 @@ The total time to complete all four stages is a minimum of 16 seconds,
 up to the full 25 seconds allowed between points. The exact length
 depends upon the situation and your own internal rhythms.
 
-![link](media_mental-toughness-training-the-16-second-cure-p1/media/image7.png)
+![Video demonstration](media_mental-toughness-training-the-16-second-cure-p1/media/image7.png)
+
+*Video demonstration — the original video for this article was hosted on TennisPlayer.net.*
 
 **Click photo to see the complete sequence of the 4 Stages in the 16
 Second Cure.**
 
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![A person smiling for the camera Description automatically generated with medium                                                                                                                   Jim Loehr is a legendary pioneer in the field of
-  confidence](media_mental-toughness-training-the-16-second-cure-p1/media/image8.jpeg)                                                                                                                                                                      himself who still competes nationally in USTA
-                                                                                                                                                                                                      events, Jim created the field of Mental
-                                                                                                                                                                                                      Toughness training with his revolutionary study
-                                                                                                                                                                                                      of elite pro players. He has been one of the
-                                                                                                                                                                                                      most influential voices in tennis and tennis
-                                                                                                                                                                                                      coaching for over 30 years, and is the author of
-                                                                                                                                                                                                      multiple best selling books. He has expanded his
-                                                                                                                                                                                                      influence far beyond sports with the creation of
-                                                                                                                                                                                                      the Human Performance Institute where he and his
-                                                                                                                                                                                                      staff have worked with hundreds of leaders in
-                                                                                                                                                                                                      business, law enforcement, and military special
-                                                                                                                                                                                                      forces. For the last decade he has also directed
-                                                                                                                                                                                                      an academy for junior players helping young
-                                                                                                                                                                                                      people learn what winning in life really means.
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ------------------------------------------------
-
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person smiling for the camera Description automatically generated with medium                                                                                                                   Jim Loehr is a legendary pioneer in the field of confidence](media_mental-toughness-training-the-16-second-cure-p1/media/image8.jpeg)                                                                                                                                                                      himself who still competes nationally in USTA
+events, Jim created the field of Mental
+Toughness training with his revolutionary study
+of elite pro players. He has been one of the
+most influential voices in tennis and tennis
+coaching for over 30 years, and is the author of
+multiple best selling books. He has expanded his
+influence far beyond sports with the creation of
+the Human Performance Institute where he and his
+staff have worked with hundreds of leaders in
+business, law enforcement, and military special
+forces. For the last decade he has also directed
+an academy for junior players helping young
+people learn what winning in life really means.

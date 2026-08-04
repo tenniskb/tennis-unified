@@ -4,13 +4,8 @@
 
 **By Allen Fox, Ph.D.**
 
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                    ![A picture containing athletic game, sport, court, tennis Description automatically
-   generated](media_winning-matches-winning-baseline-exchanges/media/image1.webp)
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                   **When the player goes into the down the line opening too soon, the basic geometry of the tennis court makes him vulnerable to the crosscourt reply.**
-
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A picture containing athletic game, sport, court, tennis Description automatically generated](media_winning-matches-winning-baseline-exchanges/media/image1.webp)
+**When the player goes into the down the line opening too soon, the basic geometry of the tennis court makes him vulnerable to the crosscourt reply.**
 
 **Just hit the ball into the open court and make your opponent run.
 You're in a baseline rally, your opponent hits the ball crosscourt, and
@@ -30,14 +25,11 @@ it.**
 
 **The Crosscourt Exchange**
 
-  ----------------------------------
-    Hitting the ball into the open
-   court too soon, especially from
-   wide positions, causes more lost
-    points than any factor in most
-               matches.
-
-  ----------------------------------
+Hitting the ball into the open
+court too soon, especially from
+wide positions, causes more lost
+points than any factor in most
+matches.
 
 Let's examine a few of these basic facts about the angles of baseline
 play and see how they should be affecting your decisions in baseline
@@ -61,10 +53,10 @@ line into the opening? Unless I can hit an outright winner or a forcing
 approach shot, I'll actually create an even greater opening for my
 opponent.**
 
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-   ![link](media_winning-matches-winning-baseline-exchanges/media/image1.webp)**By working the crosscourt exchange, you can force your opponent to go down the line too soon, opening the court for a forcing crosscourt.**
+**By working the crosscourt exchange, you can force your opponent to go down the line too soon, opening the court for a forcing crosscourt.**
+![Video demonstration](media_winning-matches-winning-baseline-exchanges/media/image1.webp)
 
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+*Video demonstration — the original video for this article was hosted on TennisPlayer.net.*
 
 **This is because hitting down the line opens up your own court so
 that your opponent can hurt you on the next shot with a crosscourt
@@ -92,13 +84,8 @@ of the net, my ball has up to six inches more margin of net clearance.
 And finally, I have more court to hit into. Clearly, it's a safer
 shot.**
 
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                           ![A tennis court with a net Description automatically generated with low
-   confidence](media_winning-matches-winning-baseline-exchanges/media/image2.webp)
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                    Hitting crosscourt on both sides is the key to good defense - and to winning offense.
-
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A tennis court with a net Description automatically generated with low confidence](media_winning-matches-winning-baseline-exchanges/media/image2.webp)
+Hitting crosscourt on both sides is the key to good defense - and to winning offense.
 
 **When I make the crosscourt reply, my opponent may then choose to go
 back crosscourt, or he may choose to go down the line into the opening
@@ -118,17 +105,12 @@ actually changes the geometric dimensions of the tennis court.
 
 The further out of position you are, the wider the opening for your
 opponent becomes if you go down the line. Because of this, a key rule in
-back court play is **\"the wider you're pulled off the court
+back court play is **"the wider you're pulled off the court
 crosscourt, the more important it is to go back crosscourt yourself to
-cut down your opponent's angle\".**
+cut down your opponent's angle".**
 
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                          ![A person hitting a ball with a tennis racket Description automatically
-   generated](media_winning-matches-winning-baseline-exchanges/media/image3.jpg)
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                         **When you're pulled wide crosscourt, geometry dictates that the best defense is to go crosscourt yourself, right back at your opponent.**
-
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person hitting a ball with a tennis racket Description automatically generated](media_winning-matches-winning-baseline-exchanges/media/image3.jpg)
+**When you're pulled wide crosscourt, geometry dictates that the best defense is to go crosscourt yourself, right back at your opponent.**
 
 **\
 As counterintuitive as it may initially seem, the best defense in this
@@ -152,13 +134,8 @@ over and over. If you can do this, eventually you'll force short balls
 that will allow you to hurt your opponent with very strong down the line
 or forcing approaches.
 
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                          ![A person hitting a ball with a tennis racket Description automatically
-   generated](media_winning-matches-winning-baseline-exchanges/media/image4.jpg)
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                    **Using the crosscourt strategy, you'll set up your ability to hit volley winners**.
-
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person hitting a ball with a tennis racket Description automatically generated](media_winning-matches-winning-baseline-exchanges/media/image4.jpg)
+**Using the crosscourt strategy, you'll set up your ability to hit volley winners**.
 
 **When you go down the line, your goal is always to attack. You must
 hit a shot that forces an error or a weak reply so you can run your
@@ -179,13 +156,8 @@ service center line. Now play rally points from the back court hitting
 only into the crosscourt (half). Hit forehand to forehand and then
 backhand to backhand. Play points.
 
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                          ![A person playing tennis Description automatically generated with medium
-   confidence](media_winning-matches-winning-baseline-exchanges/media/image5.webp)
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                    **When you go down the line, your goal is to hit a winner, force an error, or force a weak reply and attack the net.**
-
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person playing tennis Description automatically generated with medium confidence](media_winning-matches-winning-baseline-exchanges/media/image5.webp)
+**When you go down the line, your goal is to hit a winner, force an error, or force a weak reply and attack the net.**
 
 **[For example, in the forehand exchanges you lose the point if you hit
 into the wrong side of the court or hit a backhand. Do this daily for a
@@ -197,52 +169,68 @@ Read More From Allen!
 
 Visit him at [www.allenfoxtennis.net](http://www.allenfoxtennis.net) 
 
-| ![A picture containing text, newspaper Description automatically | **Winning the Mental Match Dr. Allen Fox** |
-| --- | --- |
-| generated](media_winning-matches-winning-baseline-exchanges/media/image6.jpeg) | Tennis is mentally the most difficult sport due to it's personal nature which makes winning and losing feel more important than |
-|  | they are. In this new book, Allen offers his proven solutions to problems such as choking, reducing stress, finishing matches, and |
-|  | developing confidence. Based on a lifetime of high level play and coaching success, it's a must for all competitive players. |
-|  |  |
-|  | [[ to |
-|  | Order]](http://www.amazon.com/Tennis-Winning-Mental-Allen-Fox/dp/0615407765/ref=sr_1_1?ie=UTF8&qid=1336083459&sr=8-1). |
+![A picture containing text, newspaper Description automatically generated](media_winning-matches-winning-baseline-exchanges/media/image6.jpeg)
 
+**Winning the Mental Match Dr. Allen Fox**
 
-| ![Text Description automatically | Winning may not be everything, but Dr. Allen Fox points out that, if we |
-| --- | --- |
-| generated](media_winning-matches-winning-baseline-exchanges/media/image7.jpeg) | losing. In his new book, The Winner's Mind, Allen lays out an original |
-|  | step-by-step plan for succeeding at any of life's endeavors, based on |
-|  | his first hand and very personal observations of the careers of both |
-|  | world-class tennis players and successful businessman. The bottom line |
-|  | is that even if you are not a born champion\--and only a tiny percentage |
-|  | of us are\--you can still use the success strategies of champions to |
-|  | tilt the odds in your favor. Writing with brutal honesty and dry humor, |
-|  | Fox lays out the common mental characteristics of winners in sports and |
-|  | in life. He explains the critical role of intellect over emotion. He |
-|  | analyzes the struggle between ambition and fear and the insidious and |
-|  | pervasive fear of failure that undermines so many of us. He then outline |
-|  | how to confront and overcome these fears in your life and career, even |
-|  | when they are initially subconscious. Must reading from one of the great |
-|  | thinkers in tennis, and a Renaissance Man in life. [[ to |
-|  | Order]](http://www.tennis-warehouse.com/descpage-MIND.html). |
-|  |  |
-|  | To purchase this book you can also send a check for \$17.95 to Allen |
-|  | Fox, 1120 Inverness Place, San Luis Obispo, CA. 93401. The price |
-|  | includes shipping. |
+Tennis is mentally the most difficult sport due to it's personal nature which makes winning and losing feel more important than
 
+they are. In this new book, Allen offers his proven solutions to problems such as choking, reducing stress, finishing matches, and
 
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![A person holding a tennis racket Description automatically                                                                                                                              Allen Fox PhD is a former world class player, a coach, a
-  generated](media_winning-matches-winning-baseline-exchanges/media/image8.gif)                                                                                                                                                             insightful analysts in modern tennis. A top 10 American
-                                                                                                                                                                                            player from the glory days before Open tennis, Fox
-                                                                                                                                                                                            played many of the legendary greats, among them Roy
-                                                                                                                                                                                            Emerson, Rod Laver, Stan Smith, and Arthur Ashe. At
-                                                                                                                                                                                            Pepperdine he developed the men's tennis program into
-                                                                                                                                                                                            an elite contender for national titles, and gave Brad
-                                                                                                                                                                                            Gilbert the insights that became the foundation for
-                                                                                                                                                                                            \"Winning Ugly\". His book Think to Win is a modern
-                                                                                                                                                                                            classic. He has also starred in a series of acclaimed
-                                                                                                                                                                                            videos, including Pro Secrets of Match Play and Allen
-                                                                                                                                                                                            Fox's Ultimate Tennis Lesson.
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- --------------------------------------------------------
+developing confidence. Based on a lifetime of high level play and coaching success, it's a must for all competitive players.
 
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[[ to
+
+Order]](http://www.amazon.com/Tennis-Winning-Mental-Allen-Fox/dp/0615407765/ref=sr_1_1?ie=UTF8&qid=1336083459&sr=8-1).
+
+![Text Description automatically generated](media_winning-matches-winning-baseline-exchanges/media/image7.jpeg)
+
+Winning may not be everything, but Dr. Allen Fox points out that, if we
+
+losing. In his new book, The Winner's Mind, Allen lays out an original
+
+step-by-step plan for succeeding at any of life's endeavors, based on
+
+his first hand and very personal observations of the careers of both
+
+world-class tennis players and successful businessman. The bottom line
+
+is that even if you are not a born champion--and only a tiny percentage
+
+of us are--you can still use the success strategies of champions to
+
+tilt the odds in your favor. Writing with brutal honesty and dry humor,
+
+Fox lays out the common mental characteristics of winners in sports and
+
+in life. He explains the critical role of intellect over emotion. He
+
+analyzes the struggle between ambition and fear and the insidious and
+
+pervasive fear of failure that undermines so many of us. He then outline
+
+how to confront and overcome these fears in your life and career, even
+
+when they are initially subconscious. Must reading from one of the great
+
+thinkers in tennis, and a Renaissance Man in life. [[ to
+
+Order]](http://www.tennis-warehouse.com/descpage-MIND.html).
+
+To purchase this book you can also send a check for $17.95 to Allen
+
+Fox, 1120 Inverness Place, San Luis Obispo, CA. 93401. The price
+
+includes shipping.
+
+![A person holding a tennis racket Description automatically                                                                                                                              Allen Fox PhD is a former world class player, a coach, a generated](media_winning-matches-winning-baseline-exchanges/media/image8.gif)                                                                                                                                                             insightful analysts in modern tennis. A top 10 American
+player from the glory days before Open tennis, Fox
+played many of the legendary greats, among them Roy
+Emerson, Rod Laver, Stan Smith, and Arthur Ashe. At
+Pepperdine he developed the men's tennis program into
+an elite contender for national titles, and gave Brad
+Gilbert the insights that became the foundation for
+"Winning Ugly". His book Think to Win is a modern
+classic. He has also starred in a series of acclaimed
+videos, including Pro Secrets of Match Play and Allen
+Fox's Ultimate Tennis Lesson.

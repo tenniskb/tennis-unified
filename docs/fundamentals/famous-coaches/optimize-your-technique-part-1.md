@@ -7,13 +7,8 @@ Tennis: 10 Keys to Unleashing Your On-Court Potential]***, Nick
 Saviano presents the keys to optimizing your technique, no matter what
 your level of play.
 
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                       ![A person playing tennis Description automatically generated with medium
-   confidence](media_optimize-your-technique-part-1/media/image1.webp)
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                       Focusing on the true fundamentals will allow your natural hitting style to emerge.
-
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person playing tennis Description automatically generated with medium confidence](media_optimize-your-technique-part-1/media/image1.webp)
+Focusing on the true fundamentals will allow your natural hitting style to emerge.
 
 Focusing on the true fundamentals of technique will allow your natural
 hitting style to emerge, enabling you to hit cleanly, consistently, and
@@ -59,15 +54,13 @@ fundamentals in the first place.
 
 For example, a player with poor body position in relation to the ball
 when she hits her two-handed backhand who spends her time working on the
-type of backswing she is going to take\--loop or straight back\--is
+type of backswing she is going to take--loop or straight back--is
 engaging in an act of futility. Great players hit with many types of
 backswings successfully.
 
-| ![A person playing tennis Description automatically generated with medium | ![A person playing tennis Description automatically generated with medium | ![A person playing tennis Description automatically generated with medium |
-| --- | --- | --- |
-| confidence](media_optimize-your-technique-part-1/media/image2.jpg) |  |  |
-| **Pete Sampras, Andy Roddick and Venus Williams demonstrate forehand fundamentals.** |  |  |
+![A person playing tennis Description automatically generated with medium confidence](media_optimize-your-technique-part-1/media/image2.jpg)
 
+**Pete Sampras, Andy Roddick and Venus Williams demonstrate forehand fundamentals.**
 
 However, no one with a great two-handed backhand hits with consistently
 poor body position in relation to the ball. The type of backswing is
@@ -124,13 +117,8 @@ net. ***So, when you are working on technique, always attempt to
 incorporate the tactical element into the
 session.***
 
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                        ![A person holding a tennis racket Description automatically
-   generated](media_optimize-your-technique-part-1/media/image5.webp)
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                        **The 5 characteristics of great technique: simple, efficient, effective, flexible, and compatible with your personality.**
-
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person holding a tennis racket Description automatically generated](media_optimize-your-technique-part-1/media/image5.webp)
+**The 5 characteristics of great technique: simple, efficient, effective, flexible, and compatible with your personality.**
 
 I remember when I first realized that the game (and technique in
 particular) were evolving. I was playing in a tour event in Germany in
@@ -152,27 +140,27 @@ game.
 
 **Characteristics of Great Technique**
 
-Richard Schonborn of Germany \--one of the top high-performance coaches
-in the world and a friend of mine\--says that great technique has three
+Richard Schonborn of Germany --one of the top high-performance coaches
+in the world and a friend of mine--says that great technique has three
 characteristics (see his book, Advanced Techniques for Competitive
 Tennis). I have expanded his ideas to five characteristics of great
 technique.
 
 1.  **Simple**. It uses only the necessary (or few) body parts as
-    possible and contains no unnecessary or counterproductive movements.
+possible and contains no unnecessary or counterproductive movements.
 
 2.  **Efficient**. It uses a minimum of effort to accomplish the
-    objective. It also helps to minimize stress to the body, which can
-    prevent injury.
+objective. It also helps to minimize stress to the body, which can
+prevent injury.
 
 3.  **Effective**. It produces the desired results with consistency.
 
 4.  **Flexible and versatile**. It can be adapted to the tactical
-    requirements of match situations.
+requirements of match situations.
 
 5.  [**Compatible**.] It facilitates your ability to play the
-    game consistent with your personality **\<\< and also the physical
-    ability, e.g. short, slow, weak, etc.\>\>.**
+game consistent with your personality **<< and also the physical
+ability, e.g. short, slow, weak, etc.>>.**
 
 **Remember your objective is to** **optimize
 your technique by learning the mechanical fundamentals of stroke
@@ -185,8 +173,8 @@ evolve.**
 In the following paragraphs, I have listed key points that are
 applicable to almost every stroke. (The serve is an exception in a few
 cases because some of the mechanics of the serve apply only to that
-shot.) Regardless of your level of play\--whether you are a beginner or
-a world-class professional\--these fundamentals transcend every style
+shot.) Regardless of your level of play--whether you are a beginner or
+a world-class professional--these fundamentals transcend every style
 and level of ability.
 
 **Balance and Center of Gravity**
@@ -195,11 +183,9 @@ One of the single biggest causes of errors in tennis is poor balance.
 Your balance is interconnected with your center of gravity. Think of
 balance as your ability to control your equilibrium or stability.
 
-| ![A person playing tennis Description automatically generated with medium | ![A person holding a tennis racket Description automatically | ![A person playing tennis Description automatically generated with medium |
-| --- | --- | --- |
-| confidence](media_optimize-your-technique-part-1/media/image6.jpg) |  |  |
-| **Lleyton Hewitt displays a low center of gravity distributed over his base as he lands from his split step. He maintains good upper body posture as he approaches the ball. Note his beautiful balance and wide base of support, with knees bent and his head pointing toward the hitting zone.** |  |  |
+![A person playing tennis Description automatically generated with medium confidence](media_optimize-your-technique-part-1/media/image6.jpg)
 
+**Lleyton Hewitt displays a low center of gravity distributed over his base as he lands from his split step. He maintains good upper body posture as he approaches the ball. Note his beautiful balance and wide base of support, with knees bent and his head pointing toward the hitting zone.**
 
 **There are two types of balance. Static balance is the ability to
 control the body while the body is not moving (for example, when you are
@@ -221,22 +207,22 @@ key fundamentals relating to balance and center of
 gravity that you should focus on.**
 
 - **Keep good upper-body posture**: Keep your head up and your shoulders
-  and back relatively straight, as you approach and contact the ball.
+and back relatively straight, as you approach and contact the ball.
 
 - **Keep your upper body still:** Attempt to keep your upper body still
-  with minimal movement of your head in particular as you move to the
-  ball.
+with minimal movement of your head in particular as you move to the
+ball.
 
 - **Keep your head still:** During the preparation phase and pointed in
-  the direction of the hitting zone during the hitting phase keep your
-  head as still as you can.
+the direction of the hitting zone during the hitting phase keep your
+head as still as you can.
 
 - **Use a proper base of support**: Keep your feet at least
-  shoulder-width apart as you set up to prepare to hit the ball.
+shoulder-width apart as you set up to prepare to hit the ball.
 
 - **Enhance stability:** During the preparation phase and backswing,
-  bend your knees, which will lower your center of gravity and enhance
-  stability.
+bend your knees, which will lower your center of gravity and enhance
+stability.
 
 **Kinetic Chain**
 
@@ -252,11 +238,9 @@ transferred up from your legs to your hips, trunk, shoulders, arm,
 wrist, and finally to your racquet. This is how the pros generate so
 much power.**
 
-| ![A person playing tennis Description automatically generated with medium | ![A person playing tennis Description automatically generated with medium |
-| --- | --- |
-| confidence](media_optimize-your-technique-part-1/media/image9.jpg) |  |
-| **James Blake demonstrates kinetic chain by loading the large muscles groups in the preparation phase, then unleashing this energy from the ground up.** |  |
+![A person playing tennis Description automatically generated with medium confidence](media_optimize-your-technique-part-1/media/image9.jpg)
 
+**James Blake demonstrates kinetic chain by loading the large muscles groups in the preparation phase, then unleashing this energy from the ground up.**
 
 It is important that you at least understand the concept that the most
 powerful tennis strokes (serves and ground strokes) begin with a leg
@@ -280,7 +264,7 @@ type of grip used will also affect a player's game style and tactics.
 
 The continental grip is one of the most common grips for the volley and
 the serve. It is not commonly used for forehand ground strokes, but many
-players\--including world-class players\--use it for both one- and
+players--including world-class players--use it for both one- and
 two-handed backhands.
 
 The most effective hitting zone for the continental grip tends to be
@@ -322,13 +306,8 @@ the eastern grip, the semiwestern grip allows you to hit balls that
 bounce higher more comfortably and facilitates the use of topspin. This
 is a common grip among top professionals.
 
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                              ![A person holding a tennis racket Description automatically
-   generated](media_optimize-your-technique-part-1/media/image11.webp)
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                               The semi-western grip, once considered incredibly extreme, but now the most common grip on the pro tour for the forehand.
-
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person holding a tennis racket Description automatically generated](media_optimize-your-technique-part-1/media/image11.webp)
+The semi-western grip, once considered incredibly extreme, but now the most common grip on the pro tour for the forehand.
 
 The most comfortable hitting zone for the semi western grip is between
 chest and shoulder height. Advantages of using the semi western grip are
@@ -377,44 +356,53 @@ the returns, volleys, and serve.
 
 Stay tuned.
 
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![A person playing tennis Description automatically generated with medium                                                                                                              In Maximum Tennis, Nick Saviano outlines the 10 characteristics that top players have
-  confidence](media_optimize-your-technique-part-1/media/image12.jpeg)                                                                                                                                                         acclaimed book you will learn to: Play from the heart. Simplify your strokes. Focus on
-                                                                                                                                                                                         the elements you can control. Play to your personal strengths. And much more. Drawing
-                                                                                                                                                                                         on his experience as a player, educator and coach Nick describes the developmental
-                                                                                                                                                                                         processes followed by the world's top players. In clear concise language, he outlines
-                                                                                                                                                                                         the concepts any player can learn\--and every coach can teach\--to help you reach your
-                                                                                                                                                                                         full potential and enhance your love of the game.\
-                                                                                                                                                                                         \
-                                                                                                                                                                                         [link](https://www.amazon.com/Maximum-Tennis-Unleashing-Court-Potential/dp/0736042008)
-                                                                                                                                                                                         to Order!
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ---------------------------------------------------------------------------------------
+![A person playing tennis Description automatically generated with medium                                                                                                              In Maximum Tennis, Nick Saviano outlines the 10 characteristics that top players have confidence](media_optimize-your-technique-part-1/media/image12.jpeg)                                                                                                                                                         acclaimed book you will learn to: Play from the heart. Simplify your strokes. Focus on
+the elements you can control. Play to your personal strengths. And much more. Drawing
+on his experience as a player, educator and coach Nick describes the developmental
+processes followed by the world's top players. In clear concise language, he outlines
+the concepts any player can learn--and every coach can teach--to help you reach your
+full potential and enhance your love of the game.\
+\
+[link](https://www.amazon.com/Maximum-Tennis-Unleashing-Court-Potential/dp/0736042008)
+to Order!
 
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person wearing a white shirt Description automatically generated with medium confidence](media_optimize-your-technique-part-1/media/image13.jpeg)
 
-| ![A person wearing a white shirt Description automatically generated with medium | Nick Saviano is one of the world's leading |
-| --- | --- |
-| confidence](media_optimize-your-technique-part-1/media/image13.jpeg) | director of Saviano High Performance Tennis |
-|  | Academy, located in Davie, Florida. A former |
-|  | elite American junior player and a two time |
-|  | All-American at Stanford, Nick played on the |
-|  | professional tour for a decade, was ranked in the |
-|  | top 50 in singles, and had wins over numerous |
-|  | world top 10 players. He is also the former |
-|  | director of men's coaching and coaching |
-|  | education for the USTA. Nick has headlined as a |
-|  | presenter at coaching conventions throughout the |
-|  | world and his critically acclaimed book \"Maximum |
-|  | Tennis: 10 Keys to Unleashing Your On-Court |
-|  | Potential\" is a best selling instructional |
-|  | title. |
-|  |  |
-|  | [link](http://www.savianotennis.com/) for |
-|  | more information on training with Nick Saviano. |
+Nick Saviano is one of the world's leading
 
+director of Saviano High Performance Tennis
+
+Academy, located in Davie, Florida. A former
+
+elite American junior player and a two time
+
+All-American at Stanford, Nick played on the
+
+professional tour for a decade, was ranked in the
+
+top 50 in singles, and had wins over numerous
+
+world top 10 players. He is also the former
+
+director of men's coaching and coaching
+
+education for the USTA. Nick has headlined as a
+
+presenter at coaching conventions throughout the
+
+world and his critically acclaimed book "Maximum
+
+Tennis: 10 Keys to Unleashing Your On-Court
+
+Potential" is a best selling instructional
+
+title.
+
+[link](http://www.savianotennis.com/) for
+
+more information on training with Nick Saviano.
 
 | -------------------------------------------------------------------- |
 | --- |
 |  |
 | -------------------------------------------------------------------- |
-

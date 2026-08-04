@@ -2,11 +2,7 @@
 
 ### Mahboob Khan
 
-------------------------------------------------------------------------
-
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_the-tactical-universe/media/image1.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_the-tactical-universe/media/image1.webp)
 
 **Where do you live in the tactical universe?**
 
@@ -18,9 +14,7 @@ the course of a playing career at almost any level of serious
 competition, you will find all these tactical possibilities can come
 into play against certain opponents at certain times.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_the-tactical-universe/media/image2.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_the-tactical-universe/media/image2.webp)
 
 **The two modern weapons: the serve and the forehand.**
 
@@ -34,28 +28,25 @@ matches and over the course of many matches, when you know all this
 intimately, because it is all a part of you, physically and emotionally,
 then truly you have become a tennis player!
 
-  --------------------------------------------------------------------
-  **Some General Precepts**
-  --------------------------------------------------------------------
-  **1. Have at least two weapons, usually the serve and forehand**
+**Some General Precepts**
+**1. Have at least two weapons, usually the serve and forehand**
 
-  **2. Learn to hate your unforced errors.**
+**2. Learn to hate your unforced errors.**
 
-  **3. Know your own game as well as you know your opponent's.**
+**3. Know your own game as well as you know your opponent's.**
 
-  **4. At any point in a match be able to answer this question - who
-  is doing what to whom?**
+**4. At any point in a match be able to answer this question - who
+is doing what to whom?**
 
-  **5. Be busy like a bee collecting points! Almost all matches are
-  won by the player who wins the most points.**
+**5. Be busy like a bee collecting points! Almost all matches are
+won by the player who wins the most points.**
 
-  **6. If you take care of the process the outcome will take care of
-  itself.**
+**6. If you take care of the process the outcome will take care of
+itself.**
 
-  **7. Give your best effort at all times.**
+**7. Give your best effort at all times.**
 
-  **8. Respect to yourself, your opponent and the game of tennis.**
-  --------------------------------------------------------------------
+**8. Respect to yourself, your opponent and the game of tennis.**
 
 **When You Are Serving**
 
@@ -65,11 +56,9 @@ aces. Keep the returner guessing with wide, body, and up the T serves.
 Use spin variations. Hit the ball flatter, then with more kick, then
 with more slice so that the receiver is confused what to expect.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_the-tactical-universe/media/image3.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_the-tactical-universe/media/image3.webp)
 
-**A wide serve and a crosscourt volley\--a proven, classic pattern.**
+**A wide serve and a crosscourt volley--a proven, classic pattern.**
 
 If you are leading 40-0, or 40-15, take calculated risks by serving and
 volleying, putting pressure on the returner to pass. I do not recommend
@@ -95,18 +84,17 @@ returns.
 
 Always watch the toss and try to track the ball from the server's
 racket. If the serve is deep and difficult, return cross-court or deep
-down the middle\--the percentage play.
+down the middle--the percentage play.
 
-![A person playing tennis Description automatically
-generated](media_the-tactical-universe/media/image4.webp)
+![A person playing tennis Description automatically generated](media_the-tactical-universe/media/image4.webp)
 
 **Punish second serves to win points and force the server into trying
 too hard.**
 
 If the serve is short and easy, be aggressive and return down the line.
-You can hit a forcing drive or use the \"chip and charge\" tactic. If
+You can hit a forcing drive or use the "chip and charge" tactic. If
 you learn to punish the second serve that will force the server to try
-to do \"too much\" with the first serve and lead to a few double faults.
+to do "too much" with the first serve and lead to a few double faults.
 
 If you are playing a serve-and-volleyer, your first passing shot should
 be low and dipping, forcing the volleyer to hit up and enabling you to
@@ -131,8 +119,7 @@ Stay with your opponent stroke by stroke, deep to deep, cross court to
 crosscourt, until he or she misses, or gives you a short ball. When you
 get the short ball, you will have the following options.
 
-![A person hitting a ball with a tennis racket Description automatically
-generated](media_the-tactical-universe/media/image5.webp)
+![A person hitting a ball with a tennis racket Description automatically generated](media_the-tactical-universe/media/image5.webp)
 
 **On a high short ball, attempt a winner.**
 
@@ -152,9 +139,7 @@ you can hit a heavy topspin loop to his backhand and close in for a
 volley. Recognize the pluses and minuses of the various strokes:
 one-handers have difficulty handling high loopy balls.
 
-![A picture containing tennis, athletic game, road, sport Description
-automatically
-generated](media_the-tactical-universe/media/image6.webp)
+![A picture containing tennis, athletic game, road, sport Description automatically generated](media_the-tactical-universe/media/image6.webp)
 
 **Use low volleys as a second approach shot.**
 
@@ -177,9 +162,7 @@ drop shot and go to the net to block off any possible get by your
 opponent. Remember: there is only one correct option: the option with
 which you win the point!
 
-![A picture containing tennis, athletic game, road, sport Description
-automatically
-generated](media_the-tactical-universe/media/image6.webp)
+![A picture containing tennis, athletic game, road, sport Description automatically generated](media_the-tactical-universe/media/image6.webp)
 
 **Some players hit their best shots on the run.**
 
@@ -206,9 +189,7 @@ down the line, deep and short, to throw off your opponent's rhythm.
 Topspin mixed with slices are often quite a deadly recipe against
 western grip players.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_the-tactical-universe/media/image7.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_the-tactical-universe/media/image7.webp)
 
 **Can you take your opponent to his tolerance point?**
 
@@ -222,17 +203,16 @@ of their own.
 
 **Tolerance**
 
-Each player has a \"tolerance point\". Even Roger Federer misses when a
+Each player has a "tolerance point". Even Roger Federer misses when a
 player like Nadal returns all his shots, and at certain tight situations
-of the match such as 4-all in the final set. Take the game to him \-- to
+of the match such as 4-all in the final set. Take the game to him -- to
 that tolerance point!
 
 Do not panic if you lag behind. Tennis matches can be won from 0/6, 0/5,
 love-40 down. A player who is now coaching Andy Roddick (that would be
-James Scott Connors) once said: \"It ain't over till it's over.\"
+James Scott Connors) once said: "It ain't over till it's over."
 
-![A person playing tennis Description automatically
-generated](media_the-tactical-universe/media/image8.webp)
+![A person playing tennis Description automatically generated](media_the-tactical-universe/media/image8.webp)
 
 **All overheads are not the same.**
 
@@ -249,25 +229,20 @@ ball, be accurate but don't over hit if you can't hit a clean winner.
 
 **Final Thoughts**
 
-You should not be the first one to commit \"process\" mistakes or
-unforced errors. Keep in mind the \"makeability\" of the shot. Weigh
+You should not be the first one to commit "process" mistakes or
+unforced errors. Keep in mind the "makeability" of the shot. Weigh
 your options but stick with what you feel comfortable with and think you
 can actually execute in the given situation. Have fun developing the
 dimensions of your game. There is always room for more creativity in
 devising winning strategies.
 
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![A picture containing person, person, indoor, posing Description automatically                                                                                       Mahboob Khan is acknowledged as the top
-  generated](media_the-tactical-universe/media/image9.jpeg)                                                                                                                                        Pakistan, and travels internationally with
-                                                                                                                                                                        players competing at all levels, including his
-                                                                                                                                                                        daughter Sarah Khan, who has won multiple
-                                                                                                                                                                        national Pakistani singles titles. He is well
-                                                                                                                                                                        known in the international tennis community for
-                                                                                                                                                                        his extensive contributions to the
-                                                                                                                                                                        Tenniswarehouse instructional message boards,
-                                                                                                                                                                        populated by thousands of players and coaches
-                                                                                                                                                                        from around the world. Mahboob is based in
-                                                                                                                                                                        Islamabad, where he is the Tennis Program Dire
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------- -------------------------------------------------
-
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A picture containing person, person, indoor, posing Description automatically                                                                                       Mahboob Khan is acknowledged as the top generated](media_the-tactical-universe/media/image9.jpeg)                                                                                                                                        Pakistan, and travels internationally with
+players competing at all levels, including his
+daughter Sarah Khan, who has won multiple
+national Pakistani singles titles. He is well
+known in the international tennis community for
+his extensive contributions to the
+Tenniswarehouse instructional message boards,
+populated by thousands of players and coaches
+from around the world. Mahboob is based in
+Islamabad, where he is the Tennis Program Dire

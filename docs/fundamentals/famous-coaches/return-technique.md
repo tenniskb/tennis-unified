@@ -4,15 +4,13 @@
 
 ### Nick Bollettieri
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_return-technique/media/image1.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_return-technique/media/image1.webp)
 
 **Drive returns are compact versions of groundstrokes.**
 
 Don't tell me you go out on the tennis court just to play and have fun.
-You go out there to win! The fun part is going home and saying, \"Hey, I
-won today against the big server.\" **You have to have the attitude,
+You go out there to win! The fun part is going home and saying, "Hey, I
+won today against the big server." **You have to have the attitude,
 but you must also know and feel exactly how to hit the
 return.**
 
@@ -30,9 +28,7 @@ third option, which is **to move back, particularly on the second
 serve, and let it rip with a full swing.** (For
 more on this see Bobby Bernstein's fine article, [link](../../Stroke%20Analysis/Tour%20strokes/The%20Pro%20Return.docx).)
 
-![A person wearing a white shirt and shorts holding a tennis racket
-Description automatically generated with low
-confidence](media_return-technique/media/image2.webp)
+![A person wearing a white shirt and shorts holding a tennis racket Description automatically generated with low confidence](media_return-technique/media/image2.webp)
 
 **Chipped or blocked returns have the look of volleys.**
 
@@ -50,9 +46,7 @@ grip shift is more awkward than the other way around. I've noticed that
 players who wait with the backhand grip tend to position deeper in the
 court to allow more reaction time.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_return-technique/media/image3.webp)\
+![A person playing tennis Description automatically generated with medium confidence](media_return-technique/media/image3.webp)\
 **A compromise, less extreme forehand grip for returns.**
 
 One compromise here is the return grip used by Roger Federer, similar to
@@ -74,9 +68,7 @@ that is two shoulder widths apart, or even wider**,
 **strong upright back posture**. (For more on the
 Athletic Foundation, [link](../Footwork/The%20Athletic%20Foundation.docx).)
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_return-technique/media/image4.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_return-technique/media/image4.webp)
 
 **A brief pause at the split, a wide base, a quick reaction.**
 
@@ -87,13 +79,13 @@ begin to move toward the ball with the outside foot during the split
 step itself, rather than coming down on the court with both feet. This
 results from years of practice in reading the serve off the racket
 and/or the motion of the server which can tip off the placement even
-before contact. Don't try to force this\--let it develop naturally as
+before contact. Don't try to force this--let it develop naturally as
 you become better at reading and reacting.
 
 **Jack in the Box**
 
 **A common problem many players experience on the return is what I
-call the \"Jack in the Box.\"** The moment the
+call the "Jack in the Box."** The moment the
 server makes contact, the returner springs up too high into the air like
 a jack in the box.
 
@@ -104,11 +96,9 @@ power but often this results in losing control of the stroke, causing
 frequent miss hits off the bottom edge of the
 frame.**
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_return-technique/media/image5.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_return-technique/media/image5.webp)
 
-**\"Jack in the Box.\" Explosive, but in the wrong direction.**
+**"Jack in the Box." Explosive, but in the wrong direction.**
 
 **Whether you want to [drive or block the return], you must
 learn to [keep the backswing short] and [the contact in
@@ -132,17 +122,16 @@ their hips and shoulders and take a very compact swing. All the
 explanation in the world can't substitute for the feeling you get from
 this exercise.
 
-![A person hitting a ball with a tennis racket Description automatically
-generated](media_return-technique/media/image6.webp)
+![A person hitting a ball with a tennis racket Description automatically generated](media_return-technique/media/image6.webp)
 
 **The fence can teach you everything about the return.**
 
 **The Wall**
 
 Training with a backboard has become a lost art. But it is a fabulous
-tool for working on the return. I often hear this excuse: \"I can't
+tool for working on the return. I often hear this excuse: "I can't
 work on my return, because I don't have somebody to serve me hundreds
-of balls.\" Guess what? You don't need a server. Used correctly, the
+of balls." Guess what? You don't need a server. Used correctly, the
 backboard becomes the server. Here's how it works.
 
 The student starts about **thirty feet from the backboard and hits
@@ -151,9 +140,7 @@ Notice at this distance **he can go into an open stance, has plenty of
 time to make the grip change and can take a rather big
 swing**.
 
-![A couple of people stand on a tennis court Description automatically
-generated with medium
-confidence](media_return-technique/media/image7.webp)
+![A couple of people stand on a tennis court Description automatically generated with medium confidence](media_return-technique/media/image7.webp)
 
 **Hundreds of simulated returns, without a partner.**
 
@@ -179,9 +166,7 @@ the toss goes into the air, then move forward to establish momentum.
 This is particularly common in pro tennis when players are planning to
 chip or block the return or hit a forcing return on the rise.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_return-technique/media/image8.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_return-technique/media/image8.webp)
 
 **Move in to block, chip or hit on the rise, move back to swing.**
 
@@ -203,9 +188,7 @@ step with the contact point on the
 serve and make every effort to create forward
 momentum in every return.**
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_return-technique/media/image9.webp)\
+![A person playing tennis Description automatically generated with medium confidence](media_return-technique/media/image9.webp)\
 **Reach returns: the true test of a player's skill.**
 
 **Reach Returns**
@@ -226,9 +209,7 @@ racket back.** But **the best returners prepare
 by positioning the hand behind the ball as if they are going to catch
 the ball off the bounce.**
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_return-technique/media/image10.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_return-technique/media/image10.webp)
 
 **On reach returns position the hand behind the ball.**
 
@@ -239,9 +220,9 @@ racket never go back behind the edge of the body.**
 shot.** **This is naturally combined with a
 pulling action of the racket back across the
 body.** So if you want to hit great full reach
-returns, **[[prepare by reaching out and positioning the hand behind the
+returns, **[prepare by reaching out and positioning the hand behind the
 ball. You'll] [be able to use this compact motion to put those
-would be aces back into play.]]** **You'll also
+would be aces back into play.]** **You'll also
 have plenty of power to drive through those off-speed spinners. Remember
 the goal is to go home a winner against those big
 servers!**
@@ -249,9 +230,7 @@ servers!**
 So that's it for the first two parts of the return: mentality and
 technique. What's next? Stay tuned for Part 3 on planning.
 
-![A person wearing sunglasses Description automatically generated with
-medium
-confidence](media_return-technique/media/image11.jpeg)
+![A person wearing sunglasses Description automatically generated with medium confidence](media_return-technique/media/image11.jpeg)
 
 Nick Bollettieri is the legendary coach who invented the concept of the
 tennis academy more than 30 years ago. He has trained thousands of elite

@@ -4,10 +4,7 @@
 
 ### By Allen Fox, Ph.D.
 
-------------------------------------------------------------------------
-
-![A person hitting a ball with a tennis racket Description automatically
-generated](media_the-value-of-optimism-your-game/media/image1.jpg)
+![A person hitting a ball with a tennis racket Description automatically generated](media_the-value-of-optimism-your-game/media/image1.jpg)
 
 **Michael Chang and Brad Gilbert: models of optimism.**
 
@@ -47,8 +44,7 @@ quickly conclude that you are having a bad day and begin acting out
 negatively on court, allowing your negative thoughts to become a
 self-fulfilling prophecy?
 
-![A person holding a tennis racket Description automatically
-generated](media_the-value-of-optimism-your-game/media/image2.webp)
+![A person holding a tennis racket Description automatically generated](media_the-value-of-optimism-your-game/media/image2.webp)
 
 **When you focus on the negatives you are in reality making a choice.**
 
@@ -57,35 +53,35 @@ will get better soon? Your answer will to a great extent determine the
 course of the rest of the match.
 
 If you have just lost your serve and are down 1-3 in the first set, a
-bad thought would be, \"Oh, oh! I'm down and liable to lose this set.\"
+bad thought would be, "Oh, oh! I'm down and liable to lose this set."
 
 Allowing such a thought to run unchecked will usually lead down a
-pathway to other negative thoughts like, \"It's not my day,\" or \"I
-don't know what's wrong with my game.\"
+pathway to other negative thoughts like, "It's not my day," or "I
+don't know what's wrong with my game."
 
-Instead, once you recognize the first \"bad\" thought replace it quickly
-with good ones like, \"Ok, I'm down a break. Now the pressure is on my
+Instead, once you recognize the first "bad" thought replace it quickly
+with good ones like, "Ok, I'm down a break. Now the pressure is on my
 opponent to hold serve for the rest of the set."
 
 Or, "I will squeeze him and force him to work and concentrate all set
-and see if he doesn't falter somewhere along the line.\"
+and see if he doesn't falter somewhere along the line."
 
 These positive thoughts are as accurate as the pessimistic ones, but the
 emotional consequences are substantially better for your game.
 
-For another example, if you choke on an important point the \"bad\"
-thought might be, \"I had my chance, and I've blown it,\" leading down
-the bad thought pathway to \"I'm a choker. I just don't have what it
-takes to win.\"
+For another example, if you choke on an important point the "bad"
+thought might be, "I had my chance, and I've blown it," leading down
+the bad thought pathway to "I'm a choker. I just don't have what it
+takes to win."
 
 Awareness here is key. Recognize when a thought is pessimistic and
-self-defeating. Quickly replace it with something positive like, \"The
-match isn't over, and I'll have more chances.\"
+self-defeating. Quickly replace it with something positive like, "The
+match isn't over, and I'll have more chances."
 
-Or another positive alternative, \"Everyone chokes sometimes. No big
-deal. I'll get other chances, and maybe I'll do better.\"
+Or another positive alternative, "Everyone chokes sometimes. No big
+deal. I'll get other chances, and maybe I'll do better."
 
-None of these thoughts---positive or negative\--is totally wrong or
+None of these thoughts---positive or negative--is totally wrong or
 totally right. But one helps and the other hurts. As a player you have
 the option to choose between them.
 
@@ -93,8 +89,7 @@ Here is another example of how staying optimistic can be the difference
 over the entire course of a match. Imagine you are playing the number
 one seed in a tournament and get off to a 5-1 lead in the first set.
 
-![A person playing tennis Description automatically
-generated](media_the-value-of-optimism-your-game/media/image3.webp)
+![A person playing tennis Description automatically generated](media_the-value-of-optimism-your-game/media/image3.webp)
 
 **How would you react if you hit a double fault on match point?**
 
@@ -131,8 +126,7 @@ But now after all you've been through you find yourself down yet
 another set point on your own serve. Make one mistake here and all your
 comeback effort will have yielded nothing.
 
-![A person playing tennis Description automatically
-generated](media_the-value-of-optimism-your-game/media/image4.webp)
+![A person playing tennis Description automatically generated](media_the-value-of-optimism-your-game/media/image4.webp)
 
 **Keep hitting your best shot! It will eventually come through for
 you.**
@@ -169,69 +163,100 @@ good for your health (improving your immune system, etc.), but they also
 counter competitive stress and help you play better.
 
 When you walk on court to play I advise you to say to yourself (or even
-out loud) \"I am so lucky to be out here and able to play tennis
-today!\" Be grateful for being able to play. You'll enjoy yourself more
+out loud) "I am so lucky to be out here and able to play tennis
+today!" Be grateful for being able to play. You'll enjoy yourself more
 and your results will show it.
 
 Read More From Allen!
 
 Visit him at [www.allenfoxtennis.net](http://www.allenfoxtennis.net)
 
- 
+![A picture containing text, newspaper Description automatically generated](media_the-value-of-optimism-your-game/media/image5.jpeg)
 
-| ![A picture containing text, newspaper Description automatically | Winning the Mental Match Dr. Allen Fox |
-| --- | --- |
-| generated](media_the-value-of-optimism-your-game/media/image5.jpeg) | Tennis is mentally the most difficult sport due to it's personal nature which makes winning and losing feel more |
-|  | important than they are. In this new book, Allen offers his proven solutions to problems such as choking, reducing |
-|  | stress, finishing matches, and developing confidence. Based on a life time of high level play and coaching success, |
-|  | it's a must for all competitive players. |
-|  |  |
-|  | [ to |
-|  | Order](http://www.amazon.com/Tennis-Winning-Mental-Allen-Fox/dp/0615407765/ref=sr_1_1?ie=UTF8&qid=1336083459&sr=8-1). |
+Winning the Mental Match Dr. Allen Fox
 
+Tennis is mentally the most difficult sport due to it's personal nature which makes winning and losing feel more
 
-| ![Text Description automatically | Winning may not be everything, but Dr. Allen Fox points out |
-| --- | --- |
-| generated](media_the-value-of-optimism-your-game/media/image6.jpeg) | eminently preferable to losing. In his new book, The |
-|  | Winner's Mind, Allen lays out an original step-by-step |
-|  | plan for succeeding at any of life's endeavors, based on |
-|  | his first hand and very personal observations of the |
-|  | careers of both world-class tennis players and successful |
-|  | businessman. The bottom line is that even if you are not a |
-|  | born champion\--and only a tiny percentage of us are\--you |
-|  | can still use the success strategies of champions to tilt |
-|  | the odds in your favor. Writing with brutal honesty and dry |
-|  | humor, Fox lays out the common mental characteristics of |
-|  | winners in sports and in life. He explains the critical |
-|  | role of intellect over emotion. He analyzes the struggle |
-|  | between ambition and fear and the insidious and pervasive |
-|  | fear of failure that undermines so many of us. He then |
-|  | outline how to confront and overcome these fears in your |
-|  | life and career, even when they are initially subconscious. |
-|  | Must reading from one of the great thinkers in tennis, and |
-|  | a Renaissance Man in life. [ to |
-|  | Order](http://www.tennis-warehouse.com/descpage-MIND.html). |
-|  |  |
-|  | To purchase this book you can also send a check for \$17.95 |
-|  | to Allen Fox, 1120 Inverness Place, San Luis Obispo, CA. |
-|  | 93401. The price includes shipping. |
+important than they are. In this new book, Allen offers his proven solutions to problems such as choking, reducing
 
+stress, finishing matches, and developing confidence. Based on a life time of high level play and coaching success,
 
-| ![A person holding a tennis racket Description automatically | Allen Fox PhD is a former world class player, a coach, |
-| --- | --- |
-| generated](media_the-value-of-optimism-your-game/media/image7.gif) | insightful analysts in modern tennis. A top 10 |
-|  | American player from the glory days before Open |
-|  | tennis, Fox played many of the legendary greats, among |
-|  | them Roy Emerson, Rod Laver, Stan Smith, and Arthur |
-|  | Ashe. At Pepperdine he developed the men's tennis |
-|  | program into an elite contender for national titles, |
-|  | and gave Brad Gilbert the insights that became the |
-|  | foundation for \"Winning Ugly\". His book Think to Win |
-|  | is a modern classic. He has also starred in a series |
-|  | of acclaimed videos, including Pro Secrets of Match |
-|  | Play and Allen Fox's Ultimate Tennis Lesson. |
-|  |  |
-|  |  |
+it's a must for all competitive players.
 
+[ to
 
-------------------------------------------------------------------------
+Order](http://www.amazon.com/Tennis-Winning-Mental-Allen-Fox/dp/0615407765/ref=sr_1_1?ie=UTF8&qid=1336083459&sr=8-1).
+
+![Text Description automatically generated](media_the-value-of-optimism-your-game/media/image6.jpeg)
+
+Winning may not be everything, but Dr. Allen Fox points out
+
+eminently preferable to losing. In his new book, The
+
+Winner's Mind, Allen lays out an original step-by-step
+
+plan for succeeding at any of life's endeavors, based on
+
+his first hand and very personal observations of the
+
+careers of both world-class tennis players and successful
+
+businessman. The bottom line is that even if you are not a
+
+born champion--and only a tiny percentage of us are--you
+
+can still use the success strategies of champions to tilt
+
+the odds in your favor. Writing with brutal honesty and dry
+
+humor, Fox lays out the common mental characteristics of
+
+winners in sports and in life. He explains the critical
+
+role of intellect over emotion. He analyzes the struggle
+
+between ambition and fear and the insidious and pervasive
+
+fear of failure that undermines so many of us. He then
+
+outline how to confront and overcome these fears in your
+
+life and career, even when they are initially subconscious.
+
+Must reading from one of the great thinkers in tennis, and
+
+a Renaissance Man in life. [ to
+
+Order](http://www.tennis-warehouse.com/descpage-MIND.html).
+
+To purchase this book you can also send a check for $17.95
+
+to Allen Fox, 1120 Inverness Place, San Luis Obispo, CA.
+
+93401. The price includes shipping.
+
+![A person holding a tennis racket Description automatically generated](media_the-value-of-optimism-your-game/media/image7.gif)
+
+Allen Fox PhD is a former world class player, a coach,
+
+insightful analysts in modern tennis. A top 10
+
+American player from the glory days before Open
+
+tennis, Fox played many of the legendary greats, among
+
+them Roy Emerson, Rod Laver, Stan Smith, and Arthur
+
+Ashe. At Pepperdine he developed the men's tennis
+
+program into an elite contender for national titles,
+
+and gave Brad Gilbert the insights that became the
+
+foundation for "Winning Ugly". His book Think to Win
+
+is a modern classic. He has also starred in a series
+
+of acclaimed videos, including Pro Secrets of Match
+
+Play and Allen Fox's Ultimate Tennis Lesson.

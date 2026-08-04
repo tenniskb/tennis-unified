@@ -2,9 +2,7 @@
 
 ### **Michael Friedman**
 
-![A person running on a track Description automatically generated with
-medium
-confidence](media_first-two-steps-the-key-to-quickness/media/image1.webp)
+![A person running on a track Description automatically generated with medium confidence](media_first-two-steps-the-key-to-quickness/media/image1.webp)
 
 **Learn how to cover the whole court by learning the same footwork
 patterns as the pros.**
@@ -41,23 +39,31 @@ the incoming ball is going, so that it is on our strike zone.
 If the ball is easy to get to, we call it the Inner Ball. If it's
 harder to get to, we call it the Outer Ball.**
 
-| ![A picture containing text, outdoor Description automatically | **Pete's Backhand to an Inner Ball: |
-| --- | --- |
-| generated](media_first-two-steps-the-key-to-quickness/media/image2.webp) | the animation on the left.** |
-|  |  |
-|  | 1.  **Pete's first step with his |
-|  | right foot is fairly small and |
-|  | across, parallel to the |
-|  | baseline.** |
-|  |  |
-|  | 2.  **His second step with his left |
-|  | foot is lined up with his strike |
-|  | zone** |
-|  |  |
-|  | 3.  **and he drives off his left or |
-|  | back foot into the third step for |
-|  | a great step/hit rhythm.** |
+![A picture containing text, outdoor Description automatically generated](media_first-two-steps-the-key-to-quickness/media/image2.webp)
 
+**Pete's Backhand to an Inner Ball:
+
+the animation on the left.**
+
+1.  **Pete's first step with his
+
+right foot is fairly small and
+
+across, parallel to the
+
+baseline.**
+
+2.  **His second step with his left
+
+foot is lined up with his strike
+
+zone**
+
+3.  **and he drives off his left or
+
+back foot into the third step for
+
+a great step/hit rhythm.**
 
 ### **Mastering the Basic Movement Patterns**
 
@@ -69,12 +75,9 @@ With the steps I'm going to show you, you can cover half the court. As
 our animations show, these are the same steps used by the best players
 in the world, like Pete Sampras and Venus Williams.
 
-| ![A person playing tennis Description automatically |  |
-| --- | --- |
-| generated](media_first-two-steps-the-key-to-quickness/media/image3.jpg) ![A person playing tennis Description automatically generated with medium |  |
-| confidence](media_first-two-steps-the-key-to-quickness/media/image4.jpg) |  |
-| **The first move or the weight shift on the forehand and on the backhand. Now you're ready for the first step.** |  |
+confidence](media_first-two-steps-the-key-to-quickness/media/image4.jpg)
 
+**The first move or the weight shift on the forehand and on the backhand. Now you're ready for the first step.**
 
 ### **The First Move**
 
@@ -91,15 +94,11 @@ are moving to your left, or your left foot if you are moving to your
 right. The same would be true for movement in any direction - the step
 is across in the direction you are moving.
 
-|  |  |
-| --- | --- |
-| ![A person running on a track Description automatically generated with low |  |
-| confidence](media_first-two-steps-the-key-to-quickness/media/image5.jpg) ![A picture containing sport, tennis, athletic game, person Description automatically |  |
-| generated](media_first-two-steps-the-key-to-quickness/media/image6.jpg) ![A person playing tennis Description automatically generated with low |  |
-| confidence](media_first-two-steps-the-key-to-quickness/media/image7.jpg) |  |
-|  |  |
-| **The first step is across the body, turning the torso sideways and dictating the stride length.** |  |
+generated](media_first-two-steps-the-key-to-quickness/media/image6.jpg) ![A person playing tennis Description automatically generated with low
 
+confidence](media_first-two-steps-the-key-to-quickness/media/image7.jpg)
+
+**The first step is across the body, turning the torso sideways and dictating the stride length.**
 
 **[This first step across turns the whole body sideways to the net. The
 first step is either small, medium or large depending on where the ball
@@ -123,9 +122,7 @@ too close to the ball, your second step with the back foot got you too
 close. If you are too far away from the ball, your second step didn't
 get you close enough.
 
-![A picture containing sport, person, athletic game, person Description
-automatically
-generated](media_first-two-steps-the-key-to-quickness/media/image8.jpg) ![A picture containing sport, tennis, athletic game,
+![A picture containing sport, person, athletic game, person Description automatically generated](media_first-two-steps-the-key-to-quickness/media/image8.jpg) ![A picture containing sport, tennis, athletic game,
 person Description automatically
 generated](media_first-two-steps-the-key-to-quickness/media/image6.jpg) ![A picture containing tennis, sport, athletic game,
 outdoor Description automatically
@@ -151,7 +148,7 @@ to cover.
 ### **The Gravity Step**
 
 In addition to the basic Two Step pattern, there is one additional step
-you'll need, **the \"Gravity Step.\" You make this step on balls that
+you'll need, **the "Gravity Step." You make this step on balls that
 are furthest away. The gravity step is a drop
 step.** The back foot pulls back slightly under the
 body, and this allow you to push off harder so your step across can go
@@ -159,9 +156,7 @@ even further (Read Jim McLennan's articles on Gravity Motion part 1,
 part 2, and part 3). This a very important aspect of footwork employed
 by all great movers on the tennis court.
 
-  ![A person playing tennis Description automatically generated with medium
-  confidence](media_first-two-steps-the-key-to-quickness/media/image10.gif)
-
+![A person playing tennis Description automatically generated with medium confidence](media_first-two-steps-the-key-to-quickness/media/image10.gif)
 
 Pete's Gravity Step Backhand to an Outer Ball: As Pete lands from his
 split step his left foot drops under him as his weight is shifting to
@@ -177,8 +172,7 @@ these balls.
 
 **Pete's Backhand: Moving Back to an Inner Ball**
 
-![A picture containing text, outdoor, person Description automatically
-generated](media_first-two-steps-the-key-to-quickness/media/image11.webp)
+![A picture containing text, outdoor, person Description automatically generated](media_first-two-steps-the-key-to-quickness/media/image11.webp)
 
 This ball has Pete moving back away from the baseline. The ball bounces
 fairly deep and he has to get his left foot back and away from the ball
@@ -186,8 +180,7 @@ in order to drive off of it into the swing.
 
 **Venus's Backhand: Moving Forward On a Diagonal to an Inner Ball**
 
-![A picture containing text Description automatically
-generated](media_first-two-steps-the-key-to-quickness/media/image12.webp)
+![A picture containing text Description automatically generated](media_first-two-steps-the-key-to-quickness/media/image12.webp)
 
 Venus starts with her right foot with a big step forward and across at a
 diagonal towards the ball. Her second step sets up right behind her
@@ -197,8 +190,7 @@ drive and rotation into the shot. Classic kinetic chain!
 
 **Pete's Forehand: Moving Forward to an Inner Ball**
 
-![A person playing tennis Description automatically generated with low
-confidence](media_first-two-steps-the-key-to-quickness/media/image13.webp)
+![A person playing tennis Description automatically generated with low confidence](media_first-two-steps-the-key-to-quickness/media/image13.webp)
 
 After the split step, the left foot starts forward into the court. The
 second step gets Pete sideways and into position relative to the contact
@@ -206,8 +198,7 @@ point, and drives into his swing.\
 \
 **Pete's Forehand Moving Away to an Inner Ball**
 
-![A picture containing text, sport Description automatically
-generated](media_first-two-steps-the-key-to-quickness/media/image14.webp)
+![A picture containing text, sport Description automatically generated](media_first-two-steps-the-key-to-quickness/media/image14.webp)
 
 In this situation Pete does not have to go very far. He takes small
 lateral adjustment steps in order to get his right foot into position
@@ -215,8 +206,7 @@ for his inside out forehand. Great follow through!
 
 **Pete's Forehand Moving Away for the Outer Ball**
 
-![A picture containing text Description automatically
-generated](media_first-two-steps-the-key-to-quickness/media/image15.webp)
+![A picture containing text Description automatically generated](media_first-two-steps-the-key-to-quickness/media/image15.webp)
 
 Pete is moving here to hit an inside out or down the line forehand. He
 uses four slide steps to his left starting and ending with the left foot
@@ -225,9 +215,7 @@ into the swing.
 
 **Pete's Backhand Moving Straight Ahead for an Inner Ball**
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_first-two-steps-the-key-to-quickness/media/image16.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_first-two-steps-the-key-to-quickness/media/image16.webp)
 
 For Pete, this is an Inner Ball, but for you and me it might be
 considered an Outer Ball, Pete takes a Gravity step with his left foot
@@ -240,19 +228,16 @@ uses four slide or adjustment steps to his left starting and ending with
 the left foot, in order to get his right foot into a perfect position,
 ready to make his last step into the swing.
 
-  ![A person with his tongue out Description automatically generated with medium                                                                                                        **Michael Friedman** has been devoted to
-  confidence](media_first-two-steps-the-key-to-quickness/media/image17.jpeg)                                                                                                                                                         years. Currently he is the Tennis Director at
-                                                                                                                                                                                        the Millennium Sports Club in Rancho Solano,
-                                                                                                                                                                                        where he runs an active junior development as
-                                                                                                                                                                                        well as adult program. Michael has been a
-                                                                                                                                                                                        mainstay in the United States Professional
-                                                                                                                                                                                        Tennis Association's Northern California
-                                                                                                                                                                                        Division, and served as President from 2000
-                                                                                                                                                                                        through 2001. He has been a featured speaker
-                                                                                                                                                                                        at many USTA and USPTA tennis workshops
-                                                                                                                                                                                        throughout Northern California , specializing
-                                                                                                                                                                                        in teaching footwork and fundamentals to
-                                                                                                                                                                                        players as well as coaches. Michael was named
-                                                                                                                                                                                        USPTA Norcal Pro of the Year in 2003
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ---------------------------------------------
-
+![A person with his tongue out Description automatically generated with medium                                                                                                        **Michael Friedman** has been devoted to confidence](media_first-two-steps-the-key-to-quickness/media/image17.jpeg)                                                                                                                                                         years. Currently he is the Tennis Director at
+the Millennium Sports Club in Rancho Solano,
+where he runs an active junior development as
+well as adult program. Michael has been a
+mainstay in the United States Professional
+Tennis Association's Northern California
+Division, and served as President from 2000
+through 2001. He has been a featured speaker
+at many USTA and USPTA tennis workshops
+throughout Northern California , specializing
+in teaching footwork and fundamentals to
+players as well as coaches. Michael was named
+USPTA Norcal Pro of the Year in 2003

@@ -2,10 +2,7 @@
 
 ### Kyle LaCroix 
 
-------------------------------------------------------------------------
-
-![A person running on a tennis court Description automatically
-generated](media_the-serve-and-volley-three-critical-shots/media/image1.webp)
+![A person running on a tennis court Description automatically generated](media_the-serve-and-volley-three-critical-shots/media/image1.webp)
 
 **The half volley, the overhead, and the swinging volley: all part of a
 complete serve and volley game.**
@@ -37,8 +34,7 @@ pressure. A swinging volley can often be hit for a winner when a classic
 volley cannot, and this is especially true when the ball is soft and
 high, as it frequently is in club tennis.**
 
-![A person playing tennis Description automatically
-generated](media_the-serve-and-volley-three-critical-shots/media/image2.webp)
+![A person playing tennis Description automatically generated](media_the-serve-and-volley-three-critical-shots/media/image2.webp)
 
 **Pete Sampras: flawless, languid half volleys.**
 
@@ -70,14 +66,12 @@ Similar to taking a ball early on the baseline, a half-volley requires
 clean contact. Unlike the groundstrokes where there is margin for error,
 you absolutely must find the center of the strings.
 
-![A person running on a track Description automatically generated with
-medium
-confidence](media_the-serve-and-volley-three-critical-shots/media/image3.webp)
+![A person running on a track Description automatically generated with medium confidence](media_the-serve-and-volley-three-critical-shots/media/image3.webp)
 
 **I teach my players to attack the tape on the half volley.**
 
 From the tactical point of view, I feel the key is to keep the ball low
-over the net. I ask players to \"attack the tape.\"
+over the net. I ask players to "attack the tape."
 
 **Attacking the tape means to hit this volley firmly and low over the
 net. Many players will compensate for the low ball height by aiming too
@@ -102,8 +96,7 @@ more shot. Pushing the half volley deep in the court can open the court
 for a soft dink or drop shot. Hitting short and low will make your
 opponent scramble and hit it up, which can lead to an easy put away.
 
-![A person playing tennis Description automatically
-generated](media_the-serve-and-volley-three-critical-shots/media/image4.webp)
+![A person playing tennis Description automatically generated](media_the-serve-and-volley-three-critical-shots/media/image4.webp)
 
 **For many players hitting the half volley with a little underspin is
 the best way to stay in control.**
@@ -134,9 +127,7 @@ fact that you left them no alternative than to send the ball up into the
 sky hoping for a little luck. But at the recreational level, fear washes
 over many players when the ball goes up.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_the-serve-and-volley-three-critical-shots/media/image5.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_the-serve-and-volley-three-critical-shots/media/image5.webp)
 
 **Ideally, the overhead wins the point outright.**
 
@@ -163,23 +154,21 @@ forehand. Or vice versa.
 But thinking in depth about tactical options can be dangerous. Far too
 many players have this type of conversation with themselves:
 
-\"My opponent is standing in the middle of the court, maybe I should hit
+"My opponent is standing in the middle of the court, maybe I should hit
 it to his forehand because he may guess I'm going to his weaker
 backhand.
 
-\"But wait, maybe he knows what I'm thinking, so I will hit to the
-backhand.\"
+"But wait, maybe he knows what I'm thinking, so I will hit to the
+backhand."
 
-\"But wait maybe he will move in one direction or the other, so I'll
-hit it to the middle.\"
+"But wait maybe he will move in one direction or the other, so I'll
+hit it to the middle."
 
 If you really have confidence in your ability to hit the ball across the
 sideline in both directions, the very worst case is you hit another
 overhead with your opponent even further out of position.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_the-serve-and-volley-three-critical-shots/media/image6.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_the-serve-and-volley-three-critical-shots/media/image6.webp)
 
 **When in doubt, direct the overhead back to the opponent's backhand.**
 
@@ -191,8 +180,7 @@ diagonal.**
 
 **The Swinging Volley**
 
-![A person running on a tennis court Description automatically
-generated](media_the-serve-and-volley-three-critical-shots/media/image7.webp)
+![A person running on a tennis court Description automatically generated](media_the-serve-and-volley-three-critical-shots/media/image7.webp)
 
 **The swinging volley: an increasingly important weapon at all levels.**
 
@@ -224,8 +212,7 @@ reduced the chance of a ball being returned with interest. I believe
 it's the one shot that can differentiate great players from the rest of
 the pack.
 
-![A person holding a tennis racket Description automatically
-generated](media_the-serve-and-volley-three-critical-shots/media/image8.webp)
+![A person holding a tennis racket Description automatically generated](media_the-serve-and-volley-three-critical-shots/media/image8.webp)
 
 **The swinging volley can be a weapon on either side.**
 
@@ -243,7 +230,7 @@ One of the problems attacking the net in club tennis is that everything
 is slower. This is particularly true when playing a pusher.
 
 You may get a short slow ball, stroke a perfect approach, hit a volley
-into the open court\--and then lose the point on a lob. It's difficult
+into the open court--and then lose the point on a lob. It's difficult
 to hit winners when the pace is slowed so much.
 
 How to pressure the pusher? The swinging volley can be the answer.
@@ -252,8 +239,7 @@ The technique is virtually identical to a topspin groundstroke. When the
 ball is slow, you have ample time to take this fuller groundstroke like
 swing.
 
-![A person holding a tennis racket Description automatically
-generated](media_the-serve-and-volley-three-critical-shots/media/image9.webp)
+![A person holding a tennis racket Description automatically generated](media_the-serve-and-volley-three-critical-shots/media/image9.webp)
 
 **At the club level a swinging volley can make the difference against
 pushers.**
@@ -273,9 +259,7 @@ serve and volley shot making. Stay tuned for a series of awesome drills
 I use with my players to develop all aspects of the serve and volley
 game.
 
-![A person smiling for the camera Description automatically generated
-with low
-confidence](media_the-serve-and-volley-three-critical-shots/media/image10.jpeg)
+![A person smiling for the camera Description automatically generated with low confidence](media_the-serve-and-volley-three-critical-shots/media/image10.jpeg)
 
 Kyle LaCroix is a USPTA and PTR Certified Professional as well as
 receiving his United States Center For Coaching Excellence (USCCE)

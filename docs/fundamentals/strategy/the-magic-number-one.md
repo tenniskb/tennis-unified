@@ -2,11 +2,7 @@
 
 ### Craig O'Shannessy
 
-------------------------------------------------------------------------
-
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_the-magic-number-one/media/image1.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_the-magic-number-one/media/image1.webp)
 
 **What is the most common number of hits in pro points? Is that the same
 as average rally length?**
@@ -31,9 +27,7 @@ conventions. Most coaches will say that that the most common number of
 hits in a point is somewhere between 4 and 6. This I hear even from
 coaches who are working on the tour.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_the-magic-number-one/media/image2.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_the-magic-number-one/media/image2.webp)
 
 **One is the most common shot duration in tennis.**
 
@@ -44,7 +38,7 @@ points in the men's game are one hit, based on my study at the
 Australian Open in 2015.
 
 What's the next rally length with the next highest percentage? For the
-men it's three hit\--about 15% of the total points. Three hits means a
+men it's three hit--about 15% of the total points. Three hits means a
 serve, a return, and one more shot from the server.
 
 Next number? 2 hits. A serve followed by a return. That accounts for
@@ -52,12 +46,10 @@ about 10% of all points.
 
 And if we look at four hit rallies, they account for another 7.5% of
 points. In those points the returner wins the point with a return and
-then one more shot. So, add that up. Over 61%\--far more than half the
-points in men's pro tennis\--are determined by 4 hits or less.
+then one more shot. So, add that up. Over 61%--far more than half the
+points in men's pro tennis--are determined by 4 hits or less.
 
-![A person serving a tennis ball Description automatically generated
-with low
-confidence](media_the-magic-number-one/media/image3.webp)
+![A person serving a tennis ball Description automatically generated with low confidence](media_the-magic-number-one/media/image3.webp)
 
 **In men's tennis 15% of all points are 3 hits.**
 
@@ -75,72 +67,67 @@ were a total of two!
 
 **MEN: Australian Open 2015 Rd 16 -- Final**
 
-  ---------------------------------------
-  **Shots   **Number**   **Percentage**
-  hit**                  
-  --------- ------------ ----------------
-  0         96           2.7%
+**Shots   **Number**   **Percentage**
+hit**                  
+0         96           2.7%
 
-  1         1034         29.5%
+1         1034         29.5%
 
-  2         333          9.5%
+2         333          9.5%
 
-  3         539          15.4%
+3         539          15.4%
 
-  4         263          7.5%
+4         263          7.5%
 
-  5         302          8.6%
+5         302          8.6%
 
-  6         187          5.3%
+6         187          5.3%
 
-  7         165          4.7%
+7         165          4.7%
 
-  8         108          3.1%
+8         108          3.1%
 
-  9         77           2.2%
+9         77           2.2%
 
-  10        81           2.3%
+10        81           2.3%
 
-  11        66           1.9%
+11        66           1.9%
 
-  12        66           1.9%
+12        66           1.9%
 
-  13        38           1.1%
+13        38           1.1%
 
-  14        30           0.9%
+14        30           0.9%
 
-  15        28           0.8%
+15        28           0.8%
 
-  16        23           0.7%
+16        23           0.7%
 
-  17        20           0.6%
+17        20           0.6%
 
-  18        18           0.5%
+18        18           0.5%
 
-  19        5            0.1%
+19        5            0.1%
 
-  20        9            0.3%
+20        9            0.3%
 
-  21        3            0.1%
+21        3            0.1%
 
-  22        3            0.1%
+22        3            0.1%
 
-  23        3            0.1%
+23        3            0.1%
 
-  24        4            0.1%
+24        4            0.1%
 
-  25        2            0.1%
+25        2            0.1%
 
-  26        4            0.1%
+26        4            0.1%
 
-  27        2            0.1%
+27        2            0.1%
 
-  28        0            0%
-  ---------------------------------------
+28        0            0%
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_the-magic-number-one/media/image4.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_the-magic-number-one/media/image4.webp)
 
 **In women's tennis the number of points decided by 4 hits or less is
 even higher than the men.**
@@ -153,7 +140,7 @@ of points decided by 4 hits or less is actually higher than the men.
 Over 66% of their points are decided by four shots or less, compared to
 61% for the men.
 
-About 27% of the women's points are decided by one hit\--a serve. This
+About 27% of the women's points are decided by one hit--a serve. This
 only slightly less than the men at 29%. About 15% of women's points are
 decided by two hits---a serve and a return. A little more than 14% are
 decided by three hits. Another 11% are decided by four.
@@ -169,58 +156,55 @@ hits and that was for exactly one point.
 
 **WOMEN: Australian Open 2015 Rd 16 -- Final**
 
-  ---------------------------------------
-  **Shots   **Number**   **Percentage**
-  hit**                  
-  --------- ------------ ----------------
-  0         79           4.0%
+**Shots   **Number**   **Percentage**
+hit**                  
+0         79           4.0%
 
-  1         537          27.2%
+1         537          27.2%
 
-  2         295          14.9%
+2         295          14.9%
 
-  3         284          14.4%
+3         284          14.4%
 
-  4         218          11.0%
+4         218          11.0%
 
-  5         166          8.4%
+5         166          8.4%
 
-  6         117          5.9%
+6         117          5.9%
 
-  7         88           4.5%
+7         88           4.5%
 
-  8         73           3.7%
+8         73           3.7%
 
-  9         51           2.6%
+9         51           2.6%
 
-  10        50           2.5%
+10        50           2.5%
 
-  11        29           1.5%
+11        29           1.5%
 
-  12        20           1.0%
+12        20           1.0%
 
-  13        11           0.6%
+13        11           0.6%
 
-  14        13           0.7%
+14        13           0.7%
 
-  15        5            0.3%
+15        5            0.3%
 
-  16        7            0.4%
+16        7            0.4%
 
-  17        5            0.3%
+17        5            0.3%
 
-  18        4            0.2%
+18        4            0.2%
 
-  19        2            0.1%
+19        2            0.1%
 
-  20        1            0.1%
+20        1            0.1%
 
-  21        0            0%
+21        0            0%
 
-  22        1            0.1%
+22        1            0.1%
 
-  23        0            0%
-  ---------------------------------------
+23        0            0%
 
 **What Does this Mean?**
 
@@ -231,9 +215,7 @@ Hitting seven consecutive balls in the court builds consistency. It is
 critical that we have shot tolerance to be successful in our sport. But
 how much is too much? When does it become overkill?
 
-![A picture containing sport, athletic game, tennis, court Description
-automatically
-generated](media_the-magic-number-one/media/image5.webp)
+![A picture containing sport, athletic game, tennis, court Description automatically generated](media_the-magic-number-one/media/image5.webp)
 
 **What percentage of balls you hit in practice are serves---especially
 hit to spots?**
@@ -267,9 +249,7 @@ I recommend spending time working on hitting your spots in both courts
 on both first and second serves. And on all your spin variations. And
 charting your ability to do so.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_the-magic-number-one/media/image6.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_the-magic-number-one/media/image6.webp)
 
 **Should you quadruple your return practice?**
 
@@ -300,30 +280,35 @@ reason that they represent the majority of all points played.
 Stayed Tuned for More on the New Magic Numbers and what they mean for
 your game in upcoming articles!
 
-| ![A person smiling for the camera Description automatically generated with low | Craig O'Shannessy is widely recognized as |
-| --- | --- |
-| confidence](media_the-magic-number-one/media/image7.jpg) | statistics, tennis strategy, and applying |
-|  | his insights in coaching. His research has |
-|  | uncovered the real magic numbers in winning |
-|  | tennis across all levels of the game. He |
-|  | writes for the ATP Tour website and the New |
-|  | York Times among others elite publications. |
-|  |  |
-|  | He has coached on the tour for 20 years |
-|  | working with players including Kevin |
-|  | Anderson, Amer Delic, and Rajeev Ram. His |
-|  | website Brain Game Tennis offers detailed |
-|  | analysis and training programs based on his |
-|  | research that have helped thousands of |
-|  | players around the world. |
+![A person smiling for the camera Description automatically generated with low confidence](media_the-magic-number-one/media/image7.jpg)
 
+Craig O'Shannessy is widely recognized as
 
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![Diagram Description automatically generated with medium                                                                                                            [Click
-  confidence](media_the-magic-number-one/media/image8.jpg)                                                                                                                                       to visit Craig's site and check out his
-                                                                                                                                                                       amazing training products!
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------- ----------------------------------------
+statistics, tennis strategy, and applying
 
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+his insights in coaching. His research has
 
-------------------------------------------------------------------------
+uncovered the real magic numbers in winning
+
+tennis across all levels of the game. He
+
+writes for the ATP Tour website and the New
+
+York Times among others elite publications.
+
+He has coached on the tour for 20 years
+
+working with players including Kevin
+
+Anderson, Amer Delic, and Rajeev Ram. His
+
+website Brain Game Tennis offers detailed
+
+analysis and training programs based on his
+
+research that have helped thousands of
+
+players around the world.
+
+![Diagram Description automatically generated with medium                                                                                                            [Click confidence](media_the-magic-number-one/media/image8.jpg)                                                                                                                                       to visit Craig's site and check out his
+amazing training products!

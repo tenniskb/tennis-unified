@@ -2,10 +2,7 @@
 
 ### By Alistair Higham
 
-------------------------------------------------------------------------
-
-![A person playing tennis Description automatically
-generated](media_when-momentum-is-against-you/media/image1.webp)
+![A person playing tennis Description automatically generated](media_when-momentum-is-against-you/media/image1.webp)
 
 **How do you react when everything is narrowly failing?**
 
@@ -31,8 +28,7 @@ your feelings and may give even more encouragement to your opponent. How
 best do you deal with this situation? Without doubt, you could be on a
 slippery slope if you're not careful.
 
-![A person playing tennis Description automatically
-generated](media_when-momentum-is-against-you/media/image2.webp)
+![A person playing tennis Description automatically generated](media_when-momentum-is-against-you/media/image2.webp)
 
 **Fighting spirit is the starting point for reversing momentum.**
 
@@ -42,15 +38,15 @@ It is when things are against you that you need to show fighting spirit.
 Fighting spirit is the place to start to reverse the momentum flow and
 without it that will be impossible. Who or what caused the problems
 doesn't matter. It might be you, your opponent or the umpire. It's not
-a matter of why or how. The simple fact is that you have problems\--and
+a matter of why or how. The simple fact is that you have problems--and
 you need to have the right spirit to solve them.
 
 Sometimes, fighting spirit is simply a question of being very
 determined, like a dog that refuses to let go of a stick. Sometimes, you
 need to see things differently - to see the positive side. Problems are,
 of course, really challenges. The trick is to learn to see things as a
-challenge. As Albert Einstein once said, \"In the middle of difficulty,
-lies opportunity.\"
+challenge. As Albert Einstein once said, "In the middle of difficulty,
+lies opportunity."
 
 In an international match against the Czech Republic, I was sitting on
 the court watching the British number one junior, Anne. Every little
@@ -59,20 +55,16 @@ against her, net cords went against her, and on top of everything else,
 she had match points in the second set but could not convert. She was
 now a break down in the third set.
 
-| ![A person wearing a pink tank top Description automatically generated with medium | ![A person wearing a white hat Description automatically generated with medium | ![A person wearing a red shirt Description automatically generated with low |
-| --- | --- | --- |
-| confidence](media_when-momentum-is-against-you/media/image3.jpg) |  |  |
-| **When a series of things go wrong it tests the character of even the best players**. |  |  |
+![A person wearing a pink tank top Description automatically generated with medium confidence](media_when-momentum-is-against-you/media/image3.jpg)
 
+**When a series of things go wrong it tests the character of even the best players**.
 
 So many things had gone wrong that it occurred to me that if I sat down
 and tried to design a tougher test of tennis character, I probably
 couldn't. At the next changeover I told her this, so if she wanted a
 reputation of being mentally tough then she had to pass this test.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_when-momentum-is-against-you/media/image6.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_when-momentum-is-against-you/media/image6.webp)
 
 **It's vital to take your time between points when you are trying to
 turn momentum.**
@@ -100,9 +92,7 @@ are the ones you always miss when things go against you. Resist the
 temptation then to hit your way out of the match. If you try this,
 you'll succeed - by hitting your way directly to a loss.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_when-momentum-is-against-you/media/image7.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_when-momentum-is-against-you/media/image7.webp)
 
 **Keep your body language positive no matter how you may actually feel
 at a given moment in a given match.**
@@ -150,9 +140,7 @@ had been interrupted. But my player failed to spot this. Instead, she
 was the one who irritated and upset by the disruption. She therefore
 lost the opportunity to generate a momentum swing in her favour.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_when-momentum-is-against-you/media/image8.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_when-momentum-is-against-you/media/image8.webp)
 
 **Many turning points occur in the mind of the opponent.**
 
@@ -179,9 +167,7 @@ sense them if you keep an eye on how your opponent is feeling. The key
 is to watch them regularly and not just after really obvious potential
 turning points.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_when-momentum-is-against-you/media/image9.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_when-momentum-is-against-you/media/image9.webp)
 
 **Let the turning points give you an energy boost.**
 
@@ -195,7 +181,7 @@ extra energy from you might introduce a doubt into their mind.
 You will often see an experienced player visibly pick up in their energy
 when this happens. They will be livelier in their routine before the
 point starts, they may call out the score with more confidence in their
-voice and may shout \"Come on\" to themselves.
+voice and may shout "Come on" to themselves.
 
 Players who have had momentum turn suddenly against them before, may
 start to worry when they see your reaction. Again, don't forget that
@@ -206,13 +192,8 @@ Two things to help you control potential turning points are: learning to
 spot them quicker by having a positive attitude and maintaining a lead
 by using your imagination.
 
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                       ![A person hitting a ball with his racket Description automatically
-   generated](media_when-momentum-is-against-you/media/image10.jpg)
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                 **General attitude can help you in recognizing and exploiting turning points.**
-
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person hitting a ball with his racket Description automatically generated](media_when-momentum-is-against-you/media/image10.jpg)
+**General attitude can help you in recognizing and exploiting turning points.**
 
 **Spot Potential Turning Points**
 
@@ -226,16 +207,16 @@ help renew efforts quickly and gain momentum.
 One day, my mother, who is a low-level club player, was playing a
 singles match in a ratings tournament in Cumbria. She had just lost the
 first set 7-6. I passed the back of the court and asked her how she was
-getting on. Her reply was revealing. \"Oh really well,\" she said. I
+getting on. Her reply was revealing. "Oh really well," she said. I
 wished her luck and left the match, wondering if her comment was meant
 to be sarcastic.
 
 She went on to win the match and later I asked what she had meant by her
-comment. She replied, \"Well I was really pleased to get 6-7. At my
+comment. She replied, "Well I was really pleased to get 6-7. At my
 level, I lose so many matches heavily that I was quite encouraged to
 have lost the first set so closely. I was thinking to myself that if I
 could just change one or two things I had a good chance of levelling the
-match.\"
+match."
 
 Such an attitude is a very positive one, but it is rare, because the
 emotion involved in going one set down when you might have been one set
@@ -253,9 +234,7 @@ visibly relieved and excited. He relaxed, thinking the climax would come
 at the end of the third set, like it had done in the second, a bit like
 a story coming together at the end.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_when-momentum-is-against-you/media/image11.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_when-momentum-is-against-you/media/image11.webp)
 
 **Raising your intensity can help you win key points.**
 
@@ -300,9 +279,7 @@ are many ways you can help create turning points in your favour through
 your own actions. Some of these are: Changing tactics. Not changing
 tactics. Winning the best rallies. Spotting patterns of play.
 
-![A picture containing text, tennis, sport, athletic game Description
-automatically
-generated](media_when-momentum-is-against-you/media/image12.webp)
+![A picture containing text, tennis, sport, athletic game Description automatically generated](media_when-momentum-is-against-you/media/image12.webp)
 
 **How many balls can you opponent really rally?**
 
@@ -317,18 +294,18 @@ playing as their number one player, I was keen to make a good
 impression.
 
 On the first day I asked about my opponent's style and was told in a
-thick German accent: \"He can rally for one hundred shots, is very fit
-and never misses a passing shot.\". Being more used to grass than clay,
+thick German accent: "He can rally for one hundred shots, is very fit
+and never misses a passing shot.". Being more used to grass than clay,
 this was not what I wanted to hear. I decided to go for quick winners as
 rallying was obviously pointless. I lost 6-0, 6-2 in less than an hour.
 
 Fortunately, I won the doubles to win the tie that day, but was not
 looking forward to the singles match next day. It came all too soon and
 in the morning I enquired about my next opponent. The reply came again,
-but this time seemed to be delivered in an even heavier tone: \"He can
+but this time seemed to be delivered in an even heavier tone: "He can
 rally for one hundred shots, is very fit, never misses a passing shot
-and is ranked four places above the player you lost to yesterday.\"
-\"Hhhmmm\" I thought.
+and is ranked four places above the player you lost to yesterday."
+"Hhhmmm" I thought.
 
 The match started, and since I had no real plan, things started to go
 against me from the start. I felt downhearted. Then at one changeover I
@@ -350,8 +327,7 @@ which has tilted things against you. The answer in this case would be to
 continue but to get more first serves in and not to miss the smashes
 after working for the opening.
 
-![A person holding a tennis racket Description automatically
-generated](media_when-momentum-is-against-you/media/image13.webp)
+![A person holding a tennis racket Description automatically generated](media_when-momentum-is-against-you/media/image13.webp)
 
 **Sometimes you just need to keep doing what you do and let it have
 it's effect.**
@@ -397,9 +373,7 @@ enjoyment of overcoming the obstacles during the journey towards
 winning. Don't let that journey be tainted by use of gamesmanship. Keep
 your tennis on the tennis battlefield.
 
-![A person with his eyes closed Description automatically generated with
-low
-confidence](media_when-momentum-is-against-you/media/image14.jpeg)
+![A person with his eyes closed Description automatically generated with low confidence](media_when-momentum-is-against-you/media/image14.jpeg)
 
 Alistair Higham is the National Manager of Coach Development for the
 LTA, the governing body for tennis in Great Britain. He is the author of
@@ -411,8 +385,7 @@ junior circuit, where he has had the unique opportunity to make a close
 study of the hidden force that dictates so much in the outcome of
 competitive tennis matches.
 
-![Map Description automatically generated with low
-confidence](media_when-momentum-is-against-you/media/image15.jpeg)
+![Map Description automatically generated with low confidence](media_when-momentum-is-against-you/media/image15.jpeg)
 
 **Momentum: The Hidden Force in Tennis Alistair Higham**
 

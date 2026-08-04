@@ -2,19 +2,15 @@
 
 ### By John Yandell
 
-------------------------------------------------------------------------
-
 If a tennis player wants to gain a real understanding of his wins and
 loses in competitive match play, he needs to understand how he wins and
 loses points from a quantitative, or statistical perspective.
 
 In the first article in this series, we explained the critical role of
 the forced error in understanding match statistics. This article
-introduces another key statistic, the \"Aggressive Margin.\"
+introduces another key statistic, the "Aggressive Margin."
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_the-aggressive-margin/media/image1.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_the-aggressive-margin/media/image1.webp)
 
 **Andre Agassi has the games best groundstrokes but his Aggressive
 Margin is the key to understanding why he wins or loses against
@@ -42,15 +38,14 @@ So how do we calculate the Aggressive Margin? First for a given player,
 we add up the total points won through winners and the total points won
 through forced errors. Then we subtract the total number of unforced
 errors. The difference is the margin of points the player won by
-aggressive play. This is \"The Aggressive Margin.\"
+aggressive play. This is "The Aggressive Margin."
 
 The Aggressive Margin can be calculated for an entire match, and also on
 a set-by-set basis. We can also break down the Aggressive Margin by
 individual stroke. In each case it can be a positive or a negative
 number.
 
-![A person holding a tennis racket Description automatically
-generated](media_the-aggressive-margin/media/image2.jpg)
+![A person holding a tennis racket Description automatically generated](media_the-aggressive-margin/media/image2.jpg)
 
 **In a rare exception, Sampras lost the first set despite having a
 higher Aggressive Margin than Agassi**
@@ -95,12 +90,10 @@ yours.
 Whereas most pro matches are decided by one player compiling a higher
 positive Aggressive Margin, matches at lower levels are often the
 opposite. Both players will frequently have negative Aggressive Margins.
-Neither player really \"wins\" the match, it's just that the player
+Neither player really "wins" the match, it's just that the player
 with the higher negative number loses.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_the-aggressive-margin/media/image3.jpg) ![A person hitting a ball with a tennis
+![A person playing tennis Description automatically generated with medium confidence](media_the-aggressive-margin/media/image3.jpg) ![A person hitting a ball with a tennis
 racket Description automatically
 generated](media_the-aggressive-margin/media/image4.jpg)
 
@@ -119,7 +112,7 @@ a single set.
 Many players struggle to understand why they defeat some opponents, then
 play exactly the same way against other players and lose badly. The
 Aggressive Margin tells the tale. My high school player could have
-played just as \"well\" against a player who generated positive numbers
+played just as "well" against a player who generated positive numbers
 and have lost as easily as she won the match with the player who was
 more negative than she.
 
@@ -127,7 +120,7 @@ more negative than she.
 
 The Aggressive Margin can also be broken down by individual stroke. This
 allows us to understand exactly why a certain player's overall margin
-is \"positive\" or \"negative\" in a given match, pinpointing the
+is "positive" or "negative" in a given match, pinpointing the
 sources of winners and errors.
 
 Sometimes a player can be consistently negative on one stroke and find
@@ -162,13 +155,8 @@ the breakers as the equivalent of 2 games, that means over every 4 to 5
 games Pete won one more point than Andre. It's a very small edge, but
 it turned out to be enough to swing the match.
 
-  ------------------------------------------------------------------
-  **U.S. Open 2001**          **Pete**              **Andre**
-  --------------------- --------------------- ----------------------
-  Total Points Won               173                   161
-
-                                              
-  ------------------------------------------------------------------
+**U.S. Open 2001**          **Pete**              **Andre**
+Total Points Won               173                   161
 
 Let's see how those points break down. Pete hit 79 winners and
 generated another 74 forced errors. That was an incredible 153 points
@@ -182,25 +170,20 @@ another 58 errors. That was 105 total points won forcing. Over 4 sets he
 made only 20 unforced errors, for a total Aggressive Margin of +85.
 That's an Aggressive Margin of +21.25/set.
 
-  -----------------------------------------------------------------
-  **Aggressive Margin U.S.         **Pete**          **Andre**
-  Open 2001**                                    
-  --------------------------- ------------------ ------------------
-  Winners                             79                 47
+**Aggressive Margin U.S.         **Pete**          **Andre**
+Open 2001**                                    
+Winners                             79                 47
 
-  Forced Errors                       74                 58
+Forced Errors                       74                 58
 
-  Total Points Won Forcing           153                105
+Total Points Won Forcing           153                105
 
-  Unforced Errors                     56                 20
+Unforced Errors                     56                 20
 
-  Total Aggressive Margin            +97                +85
+Total Aggressive Margin            +97                +85
 
-  Average Aggressive                +24.25             +21.25
-  Margin/Set                                     
-
-                                                 
-  -----------------------------------------------------------------
+Average Aggressive                +24.25             +21.25
+Margin/Set                                     
 
 These are incredible numbers for both players. The match was about as
 close as human beings get to playing flawless aggressive tennis. Over
@@ -224,18 +207,15 @@ consistency of play over the course of the match. Note the third set,
 with only 2 points separating the players, and the astronomical margins:
 +29 for Pete and +27 for Andre.
 
-  -----------------------------------------------------------------
-  **Aggressive Margin by           **Pete**          **Andre**
-  Set**                                          
-  --------------------------- ------------------ ------------------
-  1st Set                            +22                +19
+**Aggressive Margin by           **Pete**          **Andre**
+Set**                                          
+1st Set                            +22                +19
 
-  2nd Set                            +24                +20
+2nd Set                            +24                +20
 
-  3rd Set                            +29                +27
+3rd Set                            +29                +27
 
-  4th Set                            +24                +21
-  -----------------------------------------------------------------
+4th Set                            +24                +21
 
 Another interesting fact is that Pete actually had a higher Aggressive
 Margin than Andre in the first set, despite losing in a tie-breaker (+22
@@ -260,9 +240,7 @@ the better Aggressive Margin wins 95% of all matches. If you tend to
 throw away points, even if you are ahead in a set, or ahead or behind in
 a given game, it almost always takes a toll in the long run.
 
-![A person smiling for the camera Description automatically generated
-with medium
-confidence](media_the-aggressive-margin/media/image5.jpeg)
+![A person smiling for the camera Description automatically generated with medium confidence](media_the-aggressive-margin/media/image5.jpeg)
 
 John Yandell is widely acknowledged as one of the leading videographers
 and students of the modern game of professional tennis. His high speed
@@ -275,5 +253,3 @@ Henin-Hardenne, Taylor Dent and John McEnroe, among others.
 In addition to his role as Editor of Tennisplayer he is the author of
 the critically acclaimed book Visual Tennis. The John Yandell Tennis
 School is located in San Francisco, California.
-
-------------------------------------------------------------------------

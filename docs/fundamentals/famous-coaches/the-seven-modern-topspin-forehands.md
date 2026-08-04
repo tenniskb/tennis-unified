@@ -4,8 +4,7 @@
 
 ### Brett Hobden
 
-![A person playing tennis Description automatically
-generated](media_the-seven-modern-topspin-forehands/media/image1.webp)
+![A person playing tennis Description automatically generated](media_the-seven-modern-topspin-forehands/media/image1.webp)
 
 **The modern forehand: [technique in the service of tactics.]**
 
@@ -19,7 +18,7 @@ each variation is a technical response to a tactical problem.
 
 If you understand the different topspin forehands and how to use them,
 you develop the ability to swing aggressively and take a full rip at all
-your shots\--**but with a purpose, generating a specific forehand with
+your shots--**but with a purpose, generating a specific forehand with
 a specific tactical goal.**
 
 In this article, we'll go into the different topspin forehands in more
@@ -30,8 +29,7 @@ and see how that varies depending on the grip and other factors. We'll
 also compare the pro and the club variations, and see how the different
 topspin shots can apply in your game.
 
-![A person playing tennis Description automatically
-generated](media_the-seven-modern-topspin-forehands/media/image2.webp)
+![A person playing tennis Description automatically generated](media_the-seven-modern-topspin-forehands/media/image2.webp)
 
 **The arc actually clears the net by 3 or 4 feet.**
 
@@ -60,9 +58,7 @@ used in matches can make it appear that the ball is clearing the net by
 only a few inches. In reality **the arc ball clears the net by 3 feet
 or more traveling from baseline to baseline.**
 
-![A person running on a track Description automatically generated with
-medium
-confidence](media_the-seven-modern-topspin-forehands/media/image3.webp)
+![A person running on a track Description automatically generated with medium confidence](media_the-seven-modern-topspin-forehands/media/image3.webp)
 
 **The finish on the arc differences with grip, ball height and amount of
 spin.**
@@ -87,8 +83,7 @@ shoulder. This is particularly true with the moderate grips. But the
 finish can be more across the body, with the hand going around the
 shoulder or finishing lower somewhere in the mid torso.
 
-![A person playing tennis Description automatically
-generated](media_the-seven-modern-topspin-forehands/media/image4.webp)
+![A person playing tennis Description automatically generated](media_the-seven-modern-topspin-forehands/media/image4.webp)
 
 **With conventional grips the finish on the drive is elevated, or over
 the shoulder.**
@@ -124,9 +119,7 @@ across the body and around the shoulder rather than above it. When the
 ball is low in the player's strike zone, you will see the hand and
 racket turn over more with the finish also tending to be lower.
 
-![A person running on a track Description automatically generated with
-medium
-confidence](media_the-seven-modern-topspin-forehands/media/image5.webp)
+![A person running on a track Description automatically generated with medium confidence](media_the-seven-modern-topspin-forehands/media/image5.webp)
 
 **Looping shots are great for defense but can also generate short
 balls.**
@@ -144,11 +137,11 @@ When club players are pushed back, they often make the mistake of
 panicking and going for the outright winner. The pros go for the loop.
 Rafael Nadal is the classic example. When he is forced deep he will move
 around the ball and hit a heavy topspin forehand that bounces up very
-high usually to the opponent's backhand. **[[The loop is a great shot
+high usually to the opponent's backhand. **[The loop is a great shot
 to get you out of trouble.] [But it can easily produce a short
 ball to attack on the next shot. The depth and the high bounce can
 actually make the loop a weapon and a way of transiting from defense to
-offense.]]**
+offense.]**
 
 At high levels of the game the loop ball is hit with extreme spin.
 However, **club players who are developing this high looping ball can
@@ -157,9 +150,7 @@ the rolling loop and the ripping loop.** As the
 speed of the ball increases, the amount of spin should also increase, to
 keep the ball on the same path.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_the-seven-modern-topspin-forehands/media/image6.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_the-seven-modern-topspin-forehands/media/image6.webp)
 
 **On the run, players finish the topspin lob on the right side.**
 
@@ -187,7 +178,9 @@ the run you will see what is called a vertical finish. With the vertical
 finish the player hits much more radically upward and finishes the swing
 on the same side of his body.
 
-![link](media_the-seven-modern-topspin-forehands/media/image7.webp)
+![Video demonstration](media_the-seven-modern-topspin-forehands/media/image7.webp)
+
+*Video demonstration — the original video for this article was hosted on TennisPlayer.net.*
 
 **The angle opens the court with an inverted finish.**
 
@@ -221,9 +214,7 @@ An angle typically is hit with a lower inverted finish across the body.
 This is true for all the grips particularly when the impact point is
 low. This because you need to get the ball up and down very quickly.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_the-seven-modern-topspin-forehands/media/image8.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_the-seven-modern-topspin-forehands/media/image8.webp)
 
 **The semi-western grips have turned the dip drive into an exciting
 weapon.**
@@ -249,9 +240,7 @@ tennis. **On the kick serves that used to pose a threat on the
 backhand side, the players move around the ball, hit the forehand dip
 drive and go on the offensive with the return.**
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_the-seven-modern-topspin-forehands/media/image9.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_the-seven-modern-topspin-forehands/media/image9.webp)
 
 **Players like Tommy Robredo move around the return and hit dip
 drives.**
@@ -271,14 +260,13 @@ low on the left side.
 **The bender is typically hit on the run from a low contact point. It
 has a low trajectory and around a foot of net clearance like the
 drive.** ***[We call it the bender because it has a
-combination of topspin and sidespin, causing the ball to \"bend\"
+combination of topspin and sidespin, causing the ball to "bend"
 inwards (curving from right to left for a right-handed
 player).]*** **It allows the player to neutralize a difficult
 ball but also to pressure the opponent with the
 reply.**
 
-![A person playing tennis Description automatically
-generated](media_the-seven-modern-topspin-forehands/media/image10.webp)
+![A person playing tennis Description automatically generated](media_the-seven-modern-topspin-forehands/media/image10.webp)
 
 **The bender can be hit with either classic or more extreme grips.**
 
@@ -299,8 +287,7 @@ the body.]]** This finish was discovered by players
 reacting in extreme circumstances in match play. It's a great example
 of how shots evolve in the modern game.
 
-![A person playing tennis Description automatically
-generated](media_the-seven-modern-topspin-forehands/media/image11.webp)
+![A person playing tennis Description automatically generated](media_the-seven-modern-topspin-forehands/media/image11.webp)
 
 **The world's best player with the most varied and complete forehand.**
 
@@ -319,15 +306,10 @@ is the number one player in the world, but his incredible variety on his
 forehand is definitely one of them. It's a dimension that players at
 all levels should work to add to their games as well.
 
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![A person wearing a red shirt Description automatically generated with medium                                                                                                Bret Hobden is the founder of
-  confidence](media_the-seven-modern-topspin-forehands/media/image12.jpeg)                                                                                                                                                website dedicated to providing coaches and players
-                                                                                                                                                                                with the knowledge required to teach and play
-                                                                                                                                                                                modern tennis successfully. Two DVDs are now
-                                                                                                                                                                                available, the first in a new series on teaching
-                                                                                                                                                                                and playing the modern game. ([link](http://www.moderntennis.com)) Anyone
-                                                                                                                                                                                wishing to contact the authors can also do so
-                                                                                                                                                                                directly through their website.
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- --------------------------------------------------
-
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person wearing a red shirt Description automatically generated with medium                                                                                                Bret Hobden is the founder of confidence](media_the-seven-modern-topspin-forehands/media/image12.jpeg)                                                                                                                                                website dedicated to providing coaches and players
+with the knowledge required to teach and play
+modern tennis successfully. Two DVDs are now
+available, the first in a new series on teaching
+and playing the modern game. ([link](http://www.moderntennis.com)) Anyone
+wishing to contact the authors can also do so
+directly through their website.

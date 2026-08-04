@@ -2,9 +2,7 @@
 
 ### **Michael Friedman**
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_footwork-ready-position/media/image1.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_footwork-ready-position/media/image1.webp)
 
 **Start from a low ready position with a wide stance, learn when to
 split step, stay low with knees bent when moving to the ball and when
@@ -34,14 +32,12 @@ a low center of gravity and a wide stance.
 There are physical, technical and mental elements to this ready
 position. This article focuses on the physical elements. You can read
 about the mental aspects in my first article in this series, entitled
-\"Concentration\". I'll address the technical elements in a later
+"Concentration". I'll address the technical elements in a later
 article as well.
 
-| ![A person playing tennis Description automatically generated with low | ![A person playing tennis Description automatically |
-| --- | --- |
-| confidence](media_footwork-ready-position/media/image2.jpg) |  |
-| **The starting point for developing great footwork is an athletic ready position with low center of gravity and wide stance, shown above in front and side views** |  |
+![A person playing tennis Description automatically generated with low confidence](media_footwork-ready-position/media/image2.jpg)
 
+**The starting point for developing great footwork is an athletic ready position with low center of gravity and wide stance, shown above in front and side views**
 
 Every ball you react to in tennis is slightly different from every
 other. By reacting out of the same ready position each time, making the
@@ -75,13 +71,8 @@ no weight on your heels. Don't lift your heels, just keep the weight
 off of them. When you look down you should see your knees covering your
 toes.
 
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                          ![A person playing tennis Description automatically generated with medium                                                                                       ![A person sitting on a chair Description automatically generated with low
-   confidence](media_footwork-ready-position/media/image4.jpg)
-  --------------------------------------------------------------------------------------------------------------------------------------------------------- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                  **If you can see the intersection of the court and the back fence looking over the net, your ready position is too high**                                    **From the correct, low ready position, you are looking through the net to see the intersection of the court and the back fence**
-
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person playing tennis Description automatically generated with medium                                                                                       ![A person sitting on a chair Description automatically generated with low confidence](media_footwork-ready-position/media/image4.jpg)
+**If you can see the intersection of the court and the back fence looking over the net, your ready position is too high**                                    **From the correct, low ready position, you are looking through the net to see the intersection of the court and the back fence**
 
 When you get to the court, establish this position and look up. You
 should be **looking through the net** to see
@@ -151,12 +142,10 @@ hitting the server's racquet.
 
 **The First Move on the Baseline**
 
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------
-   ![link](media_footwork-ready-position/media/image6.png)
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                          **The first move to the ball on the forehand.**
+![Video demonstration](media_footwork-ready-position/media/image6.png)
 
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------
+*Video demonstration — the original video for this article was hosted on TennisPlayer.net.*
+**The first move to the ball on the forehand.**
 
 The first move is in the lower half of the body where the knees ankles
 and hips shift or load in the direction that they see the serve going.
@@ -173,12 +162,10 @@ to the right for a forehand, you should drop your left shoulder towards
 the net. The bottom half of your body is shifting to the right and while
 the top half is turning to the right it is leaning to the left.
 
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------
-   ![link](media_footwork-ready-position/media/image7.png)
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                     **Here is the identical first move on the backhand side**
+![Video demonstration](media_footwork-ready-position/media/image7.png)
 
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------
+*Video demonstration — the original video for this article was hosted on TennisPlayer.net.*
+**Here is the identical first move on the backhand side**
 
 To the backhand the right shoulder should be dipping towards the net.
 This lean is what prepares the body to be lined up when you step into
@@ -199,12 +186,10 @@ forehands in a row and then two or three backhands in a row. Feel like
 you are playing a point without the ball. Then have your coach feed
 balls to you and see if you can maintain the same low center of gravity.
 
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![link](media_footwork-ready-position/media/image8.png)
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------
-  **Here is the correct movement pattern to the ball and the recovery. Practice and see how many repetitions you can do, keeping your center of gravity low.**
+![Video demonstration](media_footwork-ready-position/media/image8.png)
 
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------
+*Video demonstration — the original video for this article was hosted on TennisPlayer.net.*
+**Here is the correct movement pattern to the ball and the recovery. Practice and see how many repetitions you can do, keeping your center of gravity low.**
 
 **The First Move at the Net**
 
@@ -218,25 +203,17 @@ step across after you shift your weight to hit the volley. Recover by
 stepping back with the same foot you stepped with and then split step
 again.
 
- 
+![Video demonstration](media_footwork-ready-position/media/image9.png)
 
- 
-
- 
-
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------
-   ![link](media_footwork-ready-position/media/image9.png)
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------
-                               **Note how the feet land behind you after the split step. This shows your weight is going forward.**
-
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------
+*Video demonstration — the original video for this article was hosted on TennisPlayer.net.*
+**Note how the feet land behind you after the split step. This shows your weight is going forward.**
 
 The backhand pattern is the same. Shift or load your weight. Now step
 across to make the hit. Recover by stepping back and split step.
 
 Now have your coach feed balls to you and time your split with the
 coach's hit. See the ball being hit by the coach's racquet and say the
-word \"SPLIT\" when he hits and get the timing of when to split.
+word "SPLIT" when he hits and get the timing of when to split.
 
 Practice the ready position, the split step and the first move in front
 of a mirror and see what you look like making this move. It might feel

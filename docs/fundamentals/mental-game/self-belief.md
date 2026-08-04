@@ -2,17 +2,13 @@
 
 ### By Allen Fox, Ph.D.
 
-------------------------------------------------------------------------
-
-![A person with the mouth open Description automatically generated with
-medium
-confidence](media_self-belief/media/image1.jpg)
+![A person with the mouth open Description automatically generated with medium confidence](media_self-belief/media/image1.jpg)
 
 **What kind of self belief does it take to win the Australian final and
 defeat Rafa in 5 sets?**
 
 Most of us lack the self-belief of champions. As competitors we are all
-told, \"It is crucially important to believe in yourself.\" Our coaches
+told, "It is crucially important to believe in yourself." Our coaches
 tell us that the great players believe in themselves, and this is what
 carries them past obstacles to victory in major championships.
 
@@ -23,7 +19,7 @@ marathon final at the 2012 Australian Open.
 We are admonished that unless we believe in ourselves in the same way as
 these champions, all of our work may come to naught. Victory will remain
 elusive. Worst of all, we fear that if we don't believe in ourselves we
-have the dreaded \"loser's mentality.\"
+have the dreaded "loser's mentality."
 
 So, we search the recesses of our hearts for that vital conviction. As
 we walk on court to face a highly-ranked and fearsome opponent we search
@@ -31,25 +27,24 @@ for self-belief and are diminished when we come up empty! Despite our
 efforts, we simply can't bring ourselves to presume, with ample
 certainty, that we are going to win.
 
-We have been indoctrinated to think that \"winners\" always believe they
+We have been indoctrinated to think that "winners" always believe they
 will win. Since we don't, we suspect that we lack some crucial mental
 element and that our match is half-way lost before we even start.
 
-![A person holding a trophy Description automatically
-generated](media_self-belief/media/image2.jpg)
+![A person holding a trophy Description automatically generated](media_self-belief/media/image2.jpg)
 
 **Marat Safin: a Grand Slam winner who didn't think that was
 possible.**
 
 Players try in various ways to increase self-belief. They find coaches
 that tell them how talented and great they are. They meditate about
-winning, thinking over and over, \"I am going to win. I am going to
-win.\" It doesn't help.
+winning, thinking over and over, "I am going to win. I am going to
+win." It doesn't help.
 
 They visualize winning, picturing in their mind's eye hitting great
 shots past helpless opponents. It momentarily feels good, but on court
-harsh reality sets back in quickly. Or they try positive self talk. \"I
-am powerful. My forehand is great. My serve is devastating.\"
+harsh reality sets back in quickly. Or they try positive self talk. "I
+am powerful. My forehand is great. My serve is devastating."
 Unfortunately, they still have to perform, and it proves no easier. In
 the end the highly-ranked, scary opponent remains as scary as ever.
 
@@ -58,25 +53,23 @@ defeat? Not by a long-shot! The fact is you can still win without the
 confidence of Roger Federer.
 
 Consider the words of Marat Safin after he won the 2005 Australian Open:
-\"This is a huge relief for me, because didn't believe I could win.
+"This is a huge relief for me, because didn't believe I could win.
 I've already lost two finals here before and I started to doubt myself.
-I thought it was going to happen again.\"
+I thought it was going to happen again."
 
 Since Safin won the tournament anyway, it is obviously possible to win
 without a great deal of self-belief. It is easier, of course, if you
 have it, but if you don't, there are positive of steps you can take to
 improve your chances.
 
-![A person looking at a computer Description automatically generated
-with low
-confidence](media_self-belief/media/image3.jpg)
+![A person looking at a computer Description automatically generated with low confidence](media_self-belief/media/image3.jpg)
 
 **Confidence: the warm, relaxed sense we are going to win.**
 
 First, however, let's take a deeper look at what we really mean when we
-talk about \"believing in yourself.\" What we are really talking about
+talk about "believing in yourself." What we are really talking about
 confidence. Self-belief is another way of saying confidence. (Hereafter,
-I will use the terms \"confidence\" and \"self belief\"
+I will use the terms "confidence" and "self belief"
 interchangeably.)
 
 We all know what confidence feels like when we step on court â€" it's
@@ -95,12 +88,11 @@ of uncertainty. As they used to say at Smith Barney, it must be obtained
 the old-fashioned way, you must earn it.
 
 And this is done by winning. Only winning begets true confidence because
-confidence is a subconscious and emotional \"expectation of success,\"
+confidence is a subconscious and emotional "expectation of success,"
 and we develop these expectations, in large part, because of past
 experience.
 
-![A person holding a tennis racket Description automatically
-generated](media_self-belief/media/image4.jpg)
+![A person holding a tennis racket Description automatically generated](media_self-belief/media/image4.jpg)
 
 **Winning only one of every three matches against Rafael Nadal affects
 even Federer's confidence.**
@@ -122,8 +114,8 @@ visualization exercises where you picture the sun coming up, and you
 still wouldn't be confident. Reality and history will out.
 
 It is the same with tennis. The more you win the more you subconsciously
-expect to win, that is, you become more \"confident\" or have more
-\"self-belief.\" With this increased self-belief in hand, you become
+expect to win, that is, you become more "confident" or have more
+"self-belief." With this increased self-belief in hand, you become
 stimulated rather than frightened in the clutch and are, therefore, more
 likely to produce your best tennis.
 
@@ -136,8 +128,7 @@ look at Federer and Nadal. In their Slam encounters in the last few
 years, Roger simply has been unable to sustain his belief that he can
 actually win, even when he starts amazingly well.
 
-![A person holding a tennis racket Description automatically
-generated](media_self-belief/media/image5.jpg)
+![A person holding a tennis racket Description automatically generated](media_self-belief/media/image5.jpg)
 
 **Winning Slams breeds confidence, which breeds more wining.**
 
@@ -161,61 +152,92 @@ Read More From Allen!
 
 Visit him at [www.allenfoxtennis.net](http://www.allenfoxtennis.net)
 
- 
+![A picture containing text, newspaper Description automatically generated](media_self-belief/media/image6.jpeg)
 
-| ![A picture containing text, newspaper Description automatically | Winning the Mental Match Dr. Allen Fox |
-| --- | --- |
-| generated](media_self-belief/media/image6.jpeg) | Tennis is mentally the most difficult sport due to it's personal nature which makes winning and losing feel more |
-|  | important than they are. In this new book, Allen offers his proven solutions to problems such as choking, reducing |
-|  | stress, finishing matches, and developing confidence. Based on a life time of high level play and coaching success, |
-|  | it's a must for all competitive players. |
-|  |  |
-|  | [ to |
-|  | Order](http://www.amazon.com/Tennis-Winning-Mental-Allen-Fox/dp/0615407765/ref=sr_1_1?ie=UTF8&qid=1336083459&sr=8-1). |
+Winning the Mental Match Dr. Allen Fox
 
+Tennis is mentally the most difficult sport due to it's personal nature which makes winning and losing feel more
 
-| ![Text Description automatically | Winning may not be everything, but Dr. Allen Fox points out |
-| --- | --- |
-| generated](media_self-belief/media/image7.jpeg) | eminently preferable to losing. In his new book, The |
-|  | Winner's Mind, Allen lays out an original step-by-step |
-|  | plan for succeeding at any of life's endeavors, based on |
-|  | his first hand and very personal observations of the |
-|  | careers of both world-class tennis players and successful |
-|  | businessman. The bottom line is that even if you are not a |
-|  | born champion\--and only a tiny percentage of us are\--you |
-|  | can still use the success strategies of champions to tilt |
-|  | the odds in your favor. Writing with brutal honesty and dry |
-|  | humor, Fox lays out the common mental characteristics of |
-|  | winners in sports and in life. He explains the critical |
-|  | role of intellect over emotion. He analyzes the struggle |
-|  | between ambition and fear and the insidious and pervasive |
-|  | fear of failure that undermines so many of us. He then |
-|  | outline how to confront and overcome these fears in your |
-|  | life and career, even when they are initially subconscious. |
-|  | Must reading from one of the great thinkers in tennis, and |
-|  | a Renaissance Man in life. [ to |
-|  | Order](http://www.tennis-warehouse.com/descpage-MIND.html). |
-|  |  |
-|  | To purchase this book you can also send a check for \$17.95 |
-|  | to Allen Fox, 1120 Inverness Place, San Luis Obispo, CA. |
-|  | 93401. The price includes shipping. |
+important than they are. In this new book, Allen offers his proven solutions to problems such as choking, reducing
 
+stress, finishing matches, and developing confidence. Based on a life time of high level play and coaching success,
 
-| ![A person holding a tennis racket Description automatically | Allen Fox PhD is a former world class player, a coach, |
-| --- | --- |
-| generated](media_self-belief/media/image8.gif) | insightful analysts in modern tennis. A top 10 |
-|  | American player from the glory days before Open |
-|  | tennis, Fox played many of the legendary greats, among |
-|  | them Roy Emerson, Rod Laver, Stan Smith, and Arthur |
-|  | Ashe. At Pepperdine he developed the men's tennis |
-|  | program into an elite contender for national titles, |
-|  | and gave Brad Gilbert the insights that became the |
-|  | foundation for \"Winning Ugly\". His book Think to Win |
-|  | is a modern classic. He has also starred in a series |
-|  | of acclaimed videos, including Pro Secrets of Match |
-|  | Play and Allen Fox's Ultimate Tennis Lesson. |
-|  |  |
-|  |  |
+it's a must for all competitive players.
 
+[ to
 
-------------------------------------------------------------------------
+Order](http://www.amazon.com/Tennis-Winning-Mental-Allen-Fox/dp/0615407765/ref=sr_1_1?ie=UTF8&qid=1336083459&sr=8-1).
+
+![Text Description automatically generated](media_self-belief/media/image7.jpeg)
+
+Winning may not be everything, but Dr. Allen Fox points out
+
+eminently preferable to losing. In his new book, The
+
+Winner's Mind, Allen lays out an original step-by-step
+
+plan for succeeding at any of life's endeavors, based on
+
+his first hand and very personal observations of the
+
+careers of both world-class tennis players and successful
+
+businessman. The bottom line is that even if you are not a
+
+born champion--and only a tiny percentage of us are--you
+
+can still use the success strategies of champions to tilt
+
+the odds in your favor. Writing with brutal honesty and dry
+
+humor, Fox lays out the common mental characteristics of
+
+winners in sports and in life. He explains the critical
+
+role of intellect over emotion. He analyzes the struggle
+
+between ambition and fear and the insidious and pervasive
+
+fear of failure that undermines so many of us. He then
+
+outline how to confront and overcome these fears in your
+
+life and career, even when they are initially subconscious.
+
+Must reading from one of the great thinkers in tennis, and
+
+a Renaissance Man in life. [ to
+
+Order](http://www.tennis-warehouse.com/descpage-MIND.html).
+
+To purchase this book you can also send a check for $17.95
+
+to Allen Fox, 1120 Inverness Place, San Luis Obispo, CA.
+
+93401. The price includes shipping.
+
+![A person holding a tennis racket Description automatically generated](media_self-belief/media/image8.gif)
+
+Allen Fox PhD is a former world class player, a coach,
+
+insightful analysts in modern tennis. A top 10
+
+American player from the glory days before Open
+
+tennis, Fox played many of the legendary greats, among
+
+them Roy Emerson, Rod Laver, Stan Smith, and Arthur
+
+Ashe. At Pepperdine he developed the men's tennis
+
+program into an elite contender for national titles,
+
+and gave Brad Gilbert the insights that became the
+
+foundation for "Winning Ugly". His book Think to Win
+
+is a modern classic. He has also starred in a series
+
+of acclaimed videos, including Pro Secrets of Match
+
+Play and Allen Fox's Ultimate Tennis Lesson.

@@ -2,12 +2,11 @@
 
 ### By Nick Saviano
 
-In this final excerpt from \"Maximum Tennis,\" Nick Saviano continues
+In this final excerpt from "Maximum Tennis," Nick Saviano continues
 his analysis of the true fundamentals of the return, the volley, and the
 serve.
 
-![A person hitting a ball with a tennis racket Description automatically
-generated](media_optimize-your-technique-part-3/media/image1.jpg) ![A person playing tennis Description
+![A person hitting a ball with a tennis racket Description automatically generated](media_optimize-your-technique-part-3/media/image1.jpg) ![A person playing tennis Description
 automatically
 generated](media_optimize-your-technique-part-3/media/image2.jpg)
 
@@ -44,13 +43,8 @@ though you will technically be swinging from low to high). There is less
 upward action on your swing because the ball is bouncing upward quickly
 from the ground.
 
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                        ![A person holding a tennis racket Description automatically
-   generated](media_optimize-your-technique-part-3/media/image3.webp)
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                      **Andre Agassi thinks only about keeping the racquet close to his body and turn his shoulders.**
-
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person holding a tennis racket Description automatically generated](media_optimize-your-technique-part-3/media/image3.webp)
+**Andre Agassi thinks only about keeping the racquet close to his body and turn his shoulders.**
 
 I was at the practice courts at the All England Club during the first
 week of the 2001 Wimbledon championships, when Andre Agassi came up and
@@ -80,65 +74,55 @@ swing on the volley, the harder it is to master the stroke. Unlike on
 ground strokes, there is not as much variation in technique on the
 volley among the top professionals.
 
-| ![A person playing tennis Description automatically generated with medium | ![A person playing tennis Description automatically generated with medium | ![A person playing tennis Description automatically generated with medium |
-| --- | --- | --- |
-| confidence](media_optimize-your-technique-part-3/media/image4.jpg) |  |  |
-| **Tim Henman prepares to hit a backhand volley.** |  |  |
+![A person playing tennis Description automatically generated with medium confidence](media_optimize-your-technique-part-3/media/image4.jpg)
 
+**Tim Henman prepares to hit a backhand volley.**
 
 - **Prepare your racquet first and then move.** **When you are setting
-  up for the volley, think in terms of preparing your racquet first and
-  then moving to the ball.** In fact, you will be
-  moving and preparing the racquet at the same time. However, lining up
-  your racquet early gives a clear gauge as to exactly where you need to
-  move to get in the best position for the shot.\
-  \
-  Too many players see the ball, start to move toward it, and then try
-  to prepare their racquet. The result is poor body position in relation
-  to the ball and trouble preparing the racquet in time.\
-   
+up for the volley, think in terms of preparing your racquet first and
+then moving to the ball.** In fact, you will be
+moving and preparing the racquet at the same time. However, lining up
+your racquet early gives a clear gauge as to exactly where you need to
+move to get in the best position for the shot.\
+\
+Too many players see the ball, start to move toward it, and then try
+to prepare their racquet. The result is poor body position in relation
+to the ball and trouble preparing the racquet in time.\
 
 - **Maintain good posture.** Throughout the preparation and hitting
-  phases, keep your shoulders and back relatively straight.\
-   
+phases, keep your shoulders and back relatively straight.\
 
 - **Keep your elbow bent.** As you prepare your racquet for the volley,
-  make sure your elbow is bent. You should never have a straight arm in
-  the preparation phase of the volley.\
-   
+make sure your elbow is bent. You should never have a straight arm in
+the preparation phase of the volley.\
 
 - **Hold the racquet head above your wrist.** As you prepare for the
-  volley, your racquet head generally will start well above your wrist,
-  with the racquet face slightly open.\
-   
+volley, your racquet head generally will start well above your wrist,
+with the racquet face slightly open.\
 
 - **Turn your upper body on the backhand.** **Do not start a backhand
-  volley with your whole body turned sideways. Facing the ball, rotate
-  your upper body as you prepare, getting a pull in the shoulders for
-  the strength you need on the shot, then step. This will help load the
-  large-muscle groups of your upper body.**
+volley with your whole body turned sideways. Facing the ball, rotate
+your upper body as you prepare, getting a pull in the shoulders for
+the strength you need on the shot, then step. This will help load the
+large-muscle groups of your upper body.**
 
-| ![A person holding a tennis racket Description automatically | ![A person playing tennis Description automatically | ![A person playing tennis Description automatically |
-| --- | --- | --- |
-| generated](media_optimize-your-technique-part-3/media/image7.jpg) |  |  |
-| **Roger Federer executes a forehand volley. Federer displays beautiful, simple technique.** |  |  |
+![A person holding a tennis racket Description automatically generated](media_optimize-your-technique-part-3/media/image7.jpg)
 
+**Roger Federer executes a forehand volley. Federer displays beautiful, simple technique.**
 
 - **Keep your elbow out on the forehand**. **Keep your elbow bent and
-  slightly out in front of your body as you prepare for a forehand
-  volley.**\
-   
+slightly out in front of your body as you prepare for a forehand
+volley.**\
 
 - **Use a compact swing.** Yes, the pros often take a big swing at the
-  ball, but every great volleyer can execute either the forehand or the
-  backhand with minimal backswing and follow-through.\
-   
+ball, but every great volleyer can execute either the forehand or the
+backhand with minimal backswing and follow-through.\
 
 - **Control the racquet face before and after the hit.** If you can
-  control the racquet face before and slightly after the hit (if you
-  control it before and after the hit, it means you have maintained
-  control on contact), then you have a great chance of consistently
-  hitting the volley well.
+control the racquet face before and slightly after the hit (if you
+control it before and after the hit, it means you have maintained
+control on contact), then you have a great chance of consistently
+hitting the volley well.
 
 **With this in mind, in the preparation phase,
 attempt** **to line up the racquet face directly
@@ -155,13 +139,8 @@ backswing and follow-through. All great volleyers can do this at will.
 So, don't be confused when you see some of the pros taking a big swing
 or flipping their racquet head around on the follow-through.
 
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                              ![A person holding a tennis racket Description automatically
-   generated](media_optimize-your-technique-part-3/media/image10.webp)
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                  **Rusedski demonstrates the two basic principles: keeping racquet work simple and being aggressive with the feet.**
-
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person holding a tennis racket Description automatically generated](media_optimize-your-technique-part-3/media/image10.webp)
+**Rusedski demonstrates the two basic principles: keeping racquet work simple and being aggressive with the feet.**
 
 Many years ago (I must have been 14) at the Berkley Tennis Club, they
 held a big professional men's event. My idol Rod Laver, two-time Grand
@@ -193,13 +172,9 @@ courtesy car at the U.S. Open. I mentioned the story to him. He
 remembered the tournament but not the young boy asking him about the
 volley. The important thing is I didn't forget!
 
-| ![A person playing tennis Description automatically generated with medium |
-| --- |
-| confidence](media_optimize-your-technique-part-3/media/image11.webp) |
-| **From the age of 12 Greg Rusedski followed my advice for developing and practicing his serve.** |
-|  |
-|  |
+![A person playing tennis Description automatically generated with medium confidence](media_optimize-your-technique-part-3/media/image11.webp)
 
+**From the age of 12 Greg Rusedski followed my advice for developing and practicing his serve.**
 
 ### Serve
 
@@ -214,55 +189,54 @@ technique. Once again, if you improve any one of the following items,
 you will help your serve significantly.
 
 - **Relax**. **The serve is liquid power. In particular, make sure
-  there is little tension in your face or racquet
-  arm.**
+there is little tension in your face or racquet
+arm.**
 
 - **Balance**. Be balanced at the start.
 
 - **Front toe.** Start with your front foot turned to the side (at least
-  a 30 percent angle from the net), or it should turn as you rotate your
-  shoulders. If your toe points directly toward the net, your ability to
-  turn your hips and shoulders will be limited.
+a 30 percent angle from the net), or it should turn as you rotate your
+shoulders. If your toe points directly toward the net, your ability to
+turn your hips and shoulders will be limited.
 
 - **Tossing arm.** Toss the ball with your arm to the side of your body,
-  approximately at a 45-degree angle, as opposed to straight out in
-  front of you. This will create a natural rotation of your shoulders
-  without thinking about it.
+approximately at a 45-degree angle, as opposed to straight out in
+front of you. This will create a natural rotation of your shoulders
+without thinking about it.
 
 - **Toss location.** The location of the toss will vary from player to
-  player according to her style. However, the toss should be slightly
-  out in front of your body and directly above your hitting shoulder. On
-  spin serves, it usually will be tossed a few inches over your head.
+player according to her style. However, the toss should be slightly
+out in front of your body and directly above your hitting shoulder. On
+spin serves, it usually will be tossed a few inches over your head.
 
 - **Toss height**. The height of your toss should be slightly higher
-  than where you would contact the ball at full extension. A low toss
-  will limit your power and service percentage.
+than where you would contact the ball at full extension. A low toss
+will limit your power and service percentage.
 
 - **Shoulders**. As you toss the ball up, you should rotate your
-  shoulders and start to bend your knees. Rotating your shoulders at the
-  start, along with having your tossing arm to the side of your body and
-  your toe pointed to the side, will naturally cause a slight rotation
-  in your hips without thinking about it.
+shoulders and start to bend your knees. Rotating your shoulders at the
+start, along with having your tossing arm to the side of your body and
+your toe pointed to the side, will naturally cause a slight rotation
+in your hips without thinking about it.
 
 - **Power position.** If you can get into a good power position right
-  before exploding up, then your chances of having a good serve are
-  excellent. The power position for the serve is when your body is fully
-  loaded (storing of energy) in your shoulders, hips, and knees right
-  before exploding up. Your shoulders are rotated and tilted, your hips
-  are rotated and forward, and your knees are bent. Most club players
-  don't get into this position. However, just a mental picture of it
-  will help your serve.
+before exploding up, then your chances of having a good serve are
+excellent. The power position for the serve is when your body is fully
+loaded (storing of energy) in your shoulders, hips, and knees right
+before exploding up. Your shoulders are rotated and tilted, your hips
+are rotated and forward, and your knees are bent. Most club players
+don't get into this position. However, just a mental picture of it
+will help your serve.
 
 - **Head up.** Keep your head up through contact with the ball.
 
 - **Vertical explosion.** Think of the serve as a vertical explosion,
-  and feel like you are exploding up into the shot.
+and feel like you are exploding up into the shot.
 
 - **Breathe out.** Breathe out on the hit. It creates tension and a loss
-  of power when you hold your breath on the hit.
+of power when you hold your breath on the hit.
 
-![A person holding a tennis racket Description automatically
-generated](media_optimize-your-technique-part-3/media/image12.jpg) ![A person playing tennis Description
+![A person holding a tennis racket Description automatically generated](media_optimize-your-technique-part-3/media/image12.jpg) ![A person playing tennis Description
 automatically generated with medium
 confidence](media_optimize-your-technique-part-3/media/image13.jpg)![A person doing a handstand in a gym
 Description automatically generated with low
@@ -294,11 +268,11 @@ stronger, and his serve was getting bigger and better. I noticed that at
 all his practice sessions he finished the session by hitting a basket of
 serves with targets. Eventually, he turned professional and moved to
 England and started rapidly moving up the rankings, with a serve rated
-as one of the best in the game\--clocked at more than 140 miles per
-hour\--and a fine volley to back it up.
+as one of the best in the game--clocked at more than 140 miles per
+hour--and a fine volley to back it up.
 
 Finally, a few years ago, as I watched him play, I marveled at the power
-and accuracy of 6'4\" Greg Rusedski, serving and volleying his way to
+and accuracy of 6'4" Greg Rusedski, serving and volleying his way to
 the finals of the U.S. Open and a top-five world ranking. Sometimes it
 pays to listen, and it definitely pays to practice your serve!
 
@@ -323,11 +297,11 @@ said: "If you are teaching your players to imitate the techniques of the
 top players in the game, you are teaching them to be a generation behind
 the next wave of champions."\
 \
-**[[I immediately had everyone's attention. I explained that
+**[I immediately had everyone's attention. I explained that
 high-performance coaches should not focus on hitting style but on the
 true mechanical fundamentals of technique.] [The true
 fundamentals are generally the commonalities in technique and movement
-that virtually all great players execute.]]**\
+that virtually all great players execute.]**\
 \
 In addition, during practice, the (coaches) must simulate the demands
 their players will encounter at the world-class level. This will allow
@@ -351,44 +325,53 @@ potential. So, if you want to develop the next great champion, remember,
 that player will probably look different---technically speaking---from
 the champions of today.**
 
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![A person playing tennis Description automatically generated with medium                                                                                                              In Maximum Tennis, Nick Saviano outlines the 10 characteristics that top players have
-  confidence](media_optimize-your-technique-part-3/media/image16.jpeg)                                                                                                                                                         acclaimed book you will learn to: Play from the heart. Simplify your strokes. Focus on
-                                                                                                                                                                                         the elements you can control. Play to your personal strengths. And much more. Drawing
-                                                                                                                                                                                         on his experience as a player, educator and coach Nick describes the developmental
-                                                                                                                                                                                         processes followed by the world's top players. In clear concise language, he outlines
-                                                                                                                                                                                         the concepts any player can learn\--and every coach can teach\--to help you reach your
-                                                                                                                                                                                         full potential and enhance your love of the game.\
-                                                                                                                                                                                         \
-                                                                                                                                                                                         [link](https://www.amazon.com/Maximum-Tennis-Unleashing-Court-Potential/dp/0736042008)
-                                                                                                                                                                                         to Order!
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ---------------------------------------------------------------------------------------
+![A person playing tennis Description automatically generated with medium                                                                                                              In Maximum Tennis, Nick Saviano outlines the 10 characteristics that top players have confidence](media_optimize-your-technique-part-3/media/image16.jpeg)                                                                                                                                                         acclaimed book you will learn to: Play from the heart. Simplify your strokes. Focus on
+the elements you can control. Play to your personal strengths. And much more. Drawing
+on his experience as a player, educator and coach Nick describes the developmental
+processes followed by the world's top players. In clear concise language, he outlines
+the concepts any player can learn--and every coach can teach--to help you reach your
+full potential and enhance your love of the game.\
+\
+[link](https://www.amazon.com/Maximum-Tennis-Unleashing-Court-Potential/dp/0736042008)
+to Order!
 
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person wearing a white shirt Description automatically generated with medium confidence](media_optimize-your-technique-part-3/media/image17.jpeg)
 
-| ![A person wearing a white shirt Description automatically generated with medium | Nick Saviano is one of the world's leading |
-| --- | --- |
-| confidence](media_optimize-your-technique-part-3/media/image17.jpeg) | director of Saviano High Performance Tennis |
-|  | Academy, located in Davie, Florida. A former |
-|  | elite American junior player and a two time |
-|  | All-American at Stanford, Nick played on the |
-|  | professional tour for a decade, was ranked in the |
-|  | top 50 in singles, and had wins over numerous |
-|  | world top 10 players. He is also the former |
-|  | director of men's coaching and coaching |
-|  | education for the USTA. Nick has headlined as a |
-|  | presenter at coaching conventions throughout the |
-|  | world and his critically acclaimed book \"Maximum |
-|  | Tennis: 10 Keys to Unleashing Your On-Court |
-|  | Potential\" is a best selling instructional |
-|  | title. |
-|  |  |
-|  | [link](http://www.savianotennis.com/) for |
-|  | more information on training with Nick Saviano. |
+Nick Saviano is one of the world's leading
 
+director of Saviano High Performance Tennis
+
+Academy, located in Davie, Florida. A former
+
+elite American junior player and a two time
+
+All-American at Stanford, Nick played on the
+
+professional tour for a decade, was ranked in the
+
+top 50 in singles, and had wins over numerous
+
+world top 10 players. He is also the former
+
+director of men's coaching and coaching
+
+education for the USTA. Nick has headlined as a
+
+presenter at coaching conventions throughout the
+
+world and his critically acclaimed book "Maximum
+
+Tennis: 10 Keys to Unleashing Your On-Court
+
+Potential" is a best selling instructional
+
+title.
+
+[link](http://www.savianotennis.com/) for
+
+more information on training with Nick Saviano.
 
 | -------------------------------------------------------------------- |
 | --- |
 |  |
 | -------------------------------------------------------------------- |
-

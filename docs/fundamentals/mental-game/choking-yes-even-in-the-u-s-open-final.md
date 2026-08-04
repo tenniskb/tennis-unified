@@ -2,11 +2,7 @@
 
 ### By Allen Fox, Ph.D.
 
-------------------------------------------------------------------------
-
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_choking-yes-even-in-the-u-s-open-final/media/image1.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_choking-yes-even-in-the-u-s-open-final/media/image1.webp)
 
 **In the first set Roger was shaky and on edge.**
 
@@ -35,8 +31,7 @@ against Andy Roddick, who played one of his best matches in years yet
 was still unable to win a set, and followed it up with his usual
 drubbing of Nikolay Davydenko.
 
-![A person playing tennis Description automatically
-generated](media_choking-yes-even-in-the-u-s-open-final/media/image2.webp)
+![A person playing tennis Description automatically generated](media_choking-yes-even-in-the-u-s-open-final/media/image2.webp)
 
 **Djokovic: a super talent with a recent win over Roger.**
 
@@ -45,21 +40,20 @@ new record book numbers. He faced the disagreeable task of winning the
 final against Djokovic, a young super-talent who had beaten him in
 Montreal only a few weeks earlier and was a scary piece of work. What
 would everyone say if he lost? (Remember how, when he lost twice in a
-row to Canas early in the year, the talk suddenly became, \"Well,
-Federer's good but not that good.\") It was enough to make anyone
+row to Canas early in the year, the talk suddenly became, "Well,
+Federer's good but not that good.") It was enough to make anyone
 nervous.
 
-So Federer looked shaky in the first set \--missing more than usual.
+So Federer looked shaky in the first set --missing more than usual.
 When he is feeling good and his game is functioning with its usual
 precision, he misses virtually nothing and winners flow like rum-punch
 at a toga party. On the other hand, when he gets nervous his errors
 stand out more blatantly in relief and he often misses by stunningly
 wide margins. For example, all too frequently against Nadal on clay he
-will miss easy forehands at mid-court \-- easy for him, at least -
+will miss easy forehands at mid-court -- easy for him, at least -
 which, under normal circumstances, he hits for certain winners.
 
-![A person playing tennis Description automatically
-generated](media_choking-yes-even-in-the-u-s-open-final/media/image3.webp)
+![A person playing tennis Description automatically generated](media_choking-yes-even-in-the-u-s-open-final/media/image3.webp)
 
 **When he is relaxed, Roger's strokes appear fluid and easy.**
 
@@ -90,12 +84,11 @@ came and went, one on an easy forehand error and one on a good shot by
 Federer. Djokovic finally blew the game completely by double faulting at
 ad out.
 
-![A person hitting a ball with a tennis racket Description automatically
-generated](media_choking-yes-even-in-the-u-s-open-final/media/image4.webp)
+![A person hitting a ball with a tennis racket Description automatically generated](media_choking-yes-even-in-the-u-s-open-final/media/image4.webp)
 
-**\"Easy\" unforced errors can only be explained by nerves.**
+**"Easy" unforced errors can only be explained by nerves.**
 
-In general, there are unforced errors and easy unforced errors \-- these
+In general, there are unforced errors and easy unforced errors -- these
 were the easy ones. And for a player of Djokovic's quality who normally
 makes so few, this many easy unforced errors can only be explained by
 nerves. Djokovic managed to regroup in the tie breaker and was actually
@@ -104,7 +97,7 @@ another easy error, following which he chucked his racket in disgust
 (never a good sign), and proceeded to lose the tiebreaker and set.
 
 As he dashed his water bottle to the ground it was clear that Djokovic
-was agitated and distressed \-- now down a set when, but for the nervous
+was agitated and distressed -- now down a set when, but for the nervous
 errors, he should have been up a set. Among the more interested
 observers of Djokovic's emotional disarray was, of course, Federer. He
 now realized that Djokovic was on the verge of falling apart. All he
@@ -116,9 +109,7 @@ like Federer. (When your opponent is choking, you are liable to choke
 yourself because you can see that as long as you don't screw up, you
 have him.)
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_choking-yes-even-in-the-u-s-open-final/media/image5.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_choking-yes-even-in-the-u-s-open-final/media/image5.webp)
 
 **Roger: so nervous he missed slice returns on second serves.**
 
@@ -136,15 +127,13 @@ Federer began playing so poorly that he brought Djokovic back into the
 match. He did everything to boost Djokovic's game except give him a
 backrub on changeovers. The one thing he didn't do, however, was lose
 his outward appearance of calm. Nevertheless, Djokovic was soon up 4-1
-and had chances for a second \"insurance\" break on Federer's serve. He
+and had chances for a second "insurance" break on Federer's serve. He
 tightened up again, missed, and Federer held. Distressed at the latest
 lost opportunity, Djokovic faltered, lost serve and soon the match was
 even. But wonderful talent that he is, Djokovic was by no means through.
 With Federer serving and down 5-6, Djokovic had two set points at 15-40.
 
-![A picture containing text, athletic game, sport, tennis Description
-automatically
-generated](media_choking-yes-even-in-the-u-s-open-final/media/image6.webp)
+![A picture containing text, athletic game, sport, tennis Description automatically generated](media_choking-yes-even-in-the-u-s-open-final/media/image6.webp)
 
 **An overplayed forehand and creeping negativity.**
 
@@ -157,7 +146,7 @@ now down two sets to love.
 
 The third set went along evenly until Djokovic served down 4-5. It was
 here at deuce that his emotional disarray came forward to play its
-ultimate evil trick. This is a huge point for a fully\--functioning
+ultimate evil trick. This is a huge point for a fully--functioning
 player who still has hopes of winning the match. After all, Djokovic is
 only 3 games away from winning the third set and three sets away from
 winning the Championship. When one logically thinks about it, he was
@@ -169,9 +158,7 @@ off-balance enough to blow an easy backhand, get down match point, and
 follow it up with an ill-conceived and feeble drop-shot that landed
 halfway up the net. He had, at some level, given up.
 
-![A couple of men playing tennis Description automatically generated
-with medium
-confidence](media_choking-yes-even-in-the-u-s-open-final/media/image7.webp)
+![A couple of men playing tennis Description automatically generated with medium confidence](media_choking-yes-even-in-the-u-s-open-final/media/image7.webp)
 
 **The last two points: a bad backhand miss and an ill-conceived drop
 shot.**
@@ -207,61 +194,92 @@ Read More From Allen!
 
 Visit him at [www.allenfoxtennis.net](http://www.allenfoxtennis.net)
 
- 
+![A picture containing text, newspaper Description automatically generated](media_choking-yes-even-in-the-u-s-open-final/media/image8.jpeg)
 
-| ![A picture containing text, newspaper Description automatically | Winning the Mental Match Dr. Allen Fox |
-| --- | --- |
-| generated](media_choking-yes-even-in-the-u-s-open-final/media/image8.jpeg) | Tennis is mentally the most difficult sport due to it's personal nature which makes winning and losing feel more |
-|  | important than they are. In this new book, Allen offers his proven solutions to problems such as choking, reducing |
-|  | stress, finishing matches, and developing confidence. Based on a life time of high level play and coaching success, |
-|  | it's a must for all competitive players. |
-|  |  |
-|  | [ to |
-|  | Order](http://www.amazon.com/Tennis-Winning-Mental-Allen-Fox/dp/0615407765/ref=sr_1_1?ie=UTF8&qid=1336083459&sr=8-1). |
+Winning the Mental Match Dr. Allen Fox
 
+Tennis is mentally the most difficult sport due to it's personal nature which makes winning and losing feel more
 
-| ![Text Description automatically | Winning may not be everything, but Dr. Allen Fox points out |
-| --- | --- |
-| generated](media_choking-yes-even-in-the-u-s-open-final/media/image9.jpeg) | eminently preferable to losing. In his new book, The |
-|  | Winner's Mind, Allen lays out an original step-by-step |
-|  | plan for succeeding at any of life's endeavors, based on |
-|  | his first hand and very personal observations of the |
-|  | careers of both world-class tennis players and successful |
-|  | businessman. The bottom line is that even if you are not a |
-|  | born champion\--and only a tiny percentage of us are\--you |
-|  | can still use the success strategies of champions to tilt |
-|  | the odds in your favor. Writing with brutal honesty and dry |
-|  | humor, Fox lays out the common mental characteristics of |
-|  | winners in sports and in life. He explains the critical |
-|  | role of intellect over emotion. He analyzes the struggle |
-|  | between ambition and fear and the insidious and pervasive |
-|  | fear of failure that undermines so many of us. He then |
-|  | outline how to confront and overcome these fears in your |
-|  | life and career, even when they are initially subconscious. |
-|  | Must reading from one of the great thinkers in tennis, and |
-|  | a Renaissance Man in life. [ to |
-|  | Order](http://www.tennis-warehouse.com/descpage-MIND.html). |
-|  |  |
-|  | To purchase this book you can also send a check for \$17.95 |
-|  | to Allen Fox, 1120 Inverness Place, San Luis Obispo, CA. |
-|  | 93401. The price includes shipping. |
+important than they are. In this new book, Allen offers his proven solutions to problems such as choking, reducing
 
+stress, finishing matches, and developing confidence. Based on a life time of high level play and coaching success,
 
-| ![A person holding a tennis racket Description automatically | Allen Fox PhD is a former world class player, a coach, |
-| --- | --- |
-| generated](media_choking-yes-even-in-the-u-s-open-final/media/image10.gif) | insightful analysts in modern tennis. A top 10 |
-|  | American player from the glory days before Open |
-|  | tennis, Fox played many of the legendary greats, among |
-|  | them Roy Emerson, Rod Laver, Stan Smith, and Arthur |
-|  | Ashe. At Pepperdine he developed the men's tennis |
-|  | program into an elite contender for national titles, |
-|  | and gave Brad Gilbert the insights that became the |
-|  | foundation for \"Winning Ugly\". His book Think to Win |
-|  | is a modern classic. He has also starred in a series |
-|  | of acclaimed videos, including Pro Secrets of Match |
-|  | Play and Allen Fox's Ultimate Tennis Lesson. |
-|  |  |
-|  |  |
+it's a must for all competitive players.
 
+[ to
 
-------------------------------------------------------------------------
+Order](http://www.amazon.com/Tennis-Winning-Mental-Allen-Fox/dp/0615407765/ref=sr_1_1?ie=UTF8&qid=1336083459&sr=8-1).
+
+![Text Description automatically generated](media_choking-yes-even-in-the-u-s-open-final/media/image9.jpeg)
+
+Winning may not be everything, but Dr. Allen Fox points out
+
+eminently preferable to losing. In his new book, The
+
+Winner's Mind, Allen lays out an original step-by-step
+
+plan for succeeding at any of life's endeavors, based on
+
+his first hand and very personal observations of the
+
+careers of both world-class tennis players and successful
+
+businessman. The bottom line is that even if you are not a
+
+born champion--and only a tiny percentage of us are--you
+
+can still use the success strategies of champions to tilt
+
+the odds in your favor. Writing with brutal honesty and dry
+
+humor, Fox lays out the common mental characteristics of
+
+winners in sports and in life. He explains the critical
+
+role of intellect over emotion. He analyzes the struggle
+
+between ambition and fear and the insidious and pervasive
+
+fear of failure that undermines so many of us. He then
+
+outline how to confront and overcome these fears in your
+
+life and career, even when they are initially subconscious.
+
+Must reading from one of the great thinkers in tennis, and
+
+a Renaissance Man in life. [ to
+
+Order](http://www.tennis-warehouse.com/descpage-MIND.html).
+
+To purchase this book you can also send a check for $17.95
+
+to Allen Fox, 1120 Inverness Place, San Luis Obispo, CA.
+
+93401. The price includes shipping.
+
+![A person holding a tennis racket Description automatically generated](media_choking-yes-even-in-the-u-s-open-final/media/image10.gif)
+
+Allen Fox PhD is a former world class player, a coach,
+
+insightful analysts in modern tennis. A top 10
+
+American player from the glory days before Open
+
+tennis, Fox played many of the legendary greats, among
+
+them Roy Emerson, Rod Laver, Stan Smith, and Arthur
+
+Ashe. At Pepperdine he developed the men's tennis
+
+program into an elite contender for national titles,
+
+and gave Brad Gilbert the insights that became the
+
+foundation for "Winning Ugly". His book Think to Win
+
+is a modern classic. He has also starred in a series
+
+of acclaimed videos, including Pro Secrets of Match
+
+Play and Allen Fox's Ultimate Tennis Lesson.

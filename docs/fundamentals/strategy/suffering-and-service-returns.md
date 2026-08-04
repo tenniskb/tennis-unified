@@ -2,10 +2,7 @@
 
 ### Craig O'Shannessy
 
-------------------------------------------------------------------------
-
-![A picture containing person Description automatically
-generated](media_suffering-and-service-returns/media/image1.jpg)![A picture containing person, sport, ball,
+![A picture containing person Description automatically generated](media_suffering-and-service-returns/media/image1.jpg)![A picture containing person, sport, ball,
 player Description automatically
 generated](media_suffering-and-service-returns/media/image2.jpg)
 
@@ -27,8 +24,7 @@ inside for new reserves of courage and determination. Was this what it
 was like in the Roman Republic to watch gladiators look each other in
 the eye and fight until there was only one man standing?
 
-![A person playing tennis Description automatically generated with low
-confidence](media_suffering-and-service-returns/media/image3.jpg)
+![A person playing tennis Description automatically generated with low confidence](media_suffering-and-service-returns/media/image3.jpg)
 
 **The message: you win in sports when you don't give up.**
 
@@ -61,9 +57,7 @@ Enjoy suffering, no?' Nadal said.
 game, when you are ready to compete, you are able to suffer and enjoy
 suffering, no?'
 
-![A couple of men holding a trophy Description automatically generated
-with low
-confidence](media_suffering-and-service-returns/media/image4.jpg)
+![A couple of men holding a trophy Description automatically generated with low confidence](media_suffering-and-service-returns/media/image4.jpg)
 
 **Emotionally there wasn't a loser.**
 
@@ -93,8 +87,7 @@ hours of his life. Djokovic paused, looked down, then answered yes.
 'I'm a professional tennis player,' he said. I'm sure any other
 colleague tennis player would say the same: We live for these matches.'
 
-![A person holding a tennis racket Description automatically
-generated](media_suffering-and-service-returns/media/image5.jpg)
+![A person holding a tennis racket Description automatically generated](media_suffering-and-service-returns/media/image5.jpg)
 
 **Like Nadal Novak loved the suffering.**
 
@@ -127,9 +120,7 @@ performances ever seen on a tennis court. Although the serve is widely
 considered the most important shot in tennis, in this match Novak made a
 case for the equal or greater importance of the return.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_suffering-and-service-returns/media/image6.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_suffering-and-service-returns/media/image6.webp)
 
 **One of the greatest return of serve matches ever seen?**
 
@@ -156,7 +147,6 @@ Nadal had only 6 break points - less than a third of Novak's total
 These differences are critical in understanding the difference in the
 match.
 
-![link](media_suffering-and-service-returns/media/image7.png)
 
 **Djokovic's down the middle returns put him in charge.**
 
@@ -170,9 +160,7 @@ targeting Nadal's body and taking away valuable fractions of seconds.
 Nadal would serve and find himself on his back foot defensively hitting
 the first groundstroke.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_suffering-and-service-returns/media/image8.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_suffering-and-service-returns/media/image8.webp)
 
 **Novak: standing in, returning early, attacking with the feet and
 racket.**
@@ -207,9 +195,7 @@ first serves down the 'T.' If Nadal had taken away the wide angle to
 his backhand on the return, he might have found the necessary points to
 win the match there alone.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_suffering-and-service-returns/media/image9.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_suffering-and-service-returns/media/image9.webp)
 
 **Novak forehand winners exceeded Nadal's total.**
 
@@ -240,30 +226,35 @@ short balls and to finish at the net. Those answers may sound simple,
 but they would require the courage to make a major move out of his
 natural comfort zone.
 
-| ![A person smiling for the camera Description automatically generated with low | Craig O'Shannessy is widely recognized as |
-| --- | --- |
-| confidence](media_suffering-and-service-returns/media/image10.jpg) | statistics, tennis strategy, and applying |
-|  | his insights in coaching. His research has |
-|  | uncovered the real magic numbers in winning |
-|  | tennis across all levels of the game. He |
-|  | writes for the ATP Tour website and the New |
-|  | York Times among others elite publications. |
-|  |  |
-|  | He has coached on the tour for 20 years |
-|  | working with players including Kevin |
-|  | Anderson, Amer Delic, and Rajeev Ram. His |
-|  | website Brain Game Tennis offers detailed |
-|  | analysis and training programs based on his |
-|  | research that have helped thousands of |
-|  | players around the world. |
+![A person smiling for the camera Description automatically generated with low confidence](media_suffering-and-service-returns/media/image10.jpg)
 
+Craig O'Shannessy is widely recognized as
 
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![Diagram Description automatically generated with medium                                                                                                                      [Click
-  confidence](media_suffering-and-service-returns/media/image11.jpg)                                                                                                                                                 to visit Craig's site and check out his
-                                                                                                                                                                                 amazing training products!
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ ----------------------------------------
+statistics, tennis strategy, and applying
 
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+his insights in coaching. His research has
 
-------------------------------------------------------------------------
+uncovered the real magic numbers in winning
+
+tennis across all levels of the game. He
+
+writes for the ATP Tour website and the New
+
+York Times among others elite publications.
+
+He has coached on the tour for 20 years
+
+working with players including Kevin
+
+Anderson, Amer Delic, and Rajeev Ram. His
+
+website Brain Game Tennis offers detailed
+
+analysis and training programs based on his
+
+research that have helped thousands of
+
+players around the world.
+
+![Diagram Description automatically generated with medium                                                                                                                      [Click confidence](media_suffering-and-service-returns/media/image11.jpg)                                                                                                                                                 to visit Craig's site and check out his
+amazing training products!

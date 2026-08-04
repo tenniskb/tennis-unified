@@ -2,11 +2,7 @@
 
 ### Kyle LaCroix 
 
-------------------------------------------------------------------------
-
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_the-serve-and-volley-summary/media/image1.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_the-serve-and-volley-summary/media/image1.webp)
 
 **Serve and volley: a viable, underutilized strategy for all players at
 all levels.**
@@ -55,11 +51,9 @@ and volley players are passed time and time again. And they expect to
 be. The issue is not getting passed, the issue is who is wins the most
 points.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_the-serve-and-volley-summary/media/image2.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_the-serve-and-volley-summary/media/image2.webp)
 
-**Great serve and volley players are passed and expect to be\--over and
+**Great serve and volley players are passed and expect to be--over and
 over.**
 
 **You will be passed. So, get over it. It requires a thick skin when a
@@ -97,9 +91,7 @@ difficult first volleys.
 At the world class level this can work at times. At the club and
 recreational level, it's almost always a disaster.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_the-serve-and-volley-summary/media/image3.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_the-serve-and-volley-summary/media/image3.webp)
 
 **Placement and spin create volley put aways.**
 
@@ -123,21 +115,19 @@ effective finishing shots. Mixing the 4 serves described of this series
 At elite levels, closing in tight to the net is ideal, chances are that
 an approach or volley was struck crisply enough to elicit a week reply
 and perhaps a short lob. World class players are athletic enough to move
-back and crush an overhead. \"Always Be Closing\" works as a strategy
+back and crush an overhead. "Always Be Closing" works as a strategy
 for players gifted enough to do it.
 
 However, many players at lower levels may not hit volleys or approaches
 may with enough authority, and often their opponents a chance for an
 effective lob.
 
-In the beginning, I like to show my players a \"hover and observe\"
+In the beginning, I like to show my players a "hover and observe"
 footwork routine. I compare the split step to a speed bump. You must
 slow down and get your balance, but not stop moving completely or kill
 your forward progress.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_the-serve-and-volley-summary/media/image4.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_the-serve-and-volley-summary/media/image4.webp)
 
 **Closing tight to the net is ideal but works best at high levels.**
 
@@ -174,8 +164,7 @@ At Wimbledon Novak Djokovic, Andy Murray and Roger Federer all played
 successful serve and swing volley points. The reality is the swinging
 volley has been an effective shot on the tour for years.
 
-![A person playing tennis Description automatically
-generated](media_the-serve-and-volley-summary/media/image5.webp)
+![A person playing tennis Description automatically generated](media_the-serve-and-volley-summary/media/image5.webp)
 
 **Backing up the serve with a swinging volley has been a part of tour
 tennis for decades.**
@@ -212,9 +201,7 @@ In my view it's an idea that has not vanished. It has simply been
 waiting for a group of tennis players and coaches to understand, embrace
 and resurrect it.
 
-![A person smiling for the camera Description automatically generated
-with low
-confidence](media_the-serve-and-volley-summary/media/image6.jpeg)
+![A person smiling for the camera Description automatically generated with low confidence](media_the-serve-and-volley-summary/media/image6.jpeg)
 
 Kyle LaCroix is a USPTA and PTR Certified Professional as well as
 receiving his United States Center For Coaching Excellence (USCCE)

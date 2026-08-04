@@ -4,18 +4,14 @@
 
 ### Nick Bollettierri with Lance Luciani
 
-------------------------------------------------------------------------
-
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_the-strategy-zone-transition-and-net-finish/media/image1.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_the-strategy-zone-transition-and-net-finish/media/image1.webp)
 
 **A varied all around transitional game can be the key to victory.**
 
 **I believe that the all-around game is the key to success in modern
 tennis. We see it time and time again at the pro level. You have to know
 how to do everything and do everything well. In today's game
-\"everything\" means a lot more than it used to. There are many, many
+"everything" means a lot more than it used to. There are many, many
 ways to get to the net and win points.**
 
 **How much should you come in? That depends on the difficulty of the
@@ -32,8 +28,7 @@ surprisingly small even in routine, straight set matches. How important,
 then, are those few additional points you win in transition to
 determining the outcome?
 
-![A person playing tennis Description automatically
-generated](media_the-strategy-zone-transition-and-net-finish/media/image2.webp)
+![A person playing tennis Description automatically generated](media_the-strategy-zone-transition-and-net-finish/media/image2.webp)
 
 **A five-point advantage in transition points yielded a Wimbledon
 title.**
@@ -64,12 +59,10 @@ match.**
 **The other problem is knowing exactly how and when to approach.
 Success at the net is related to the effectiveness of the transition
 shot.** **In the modern game it's not as simple
-as \"slice the approach down the line, then hit a crosscourt volley
-winner.\"**
+as "slice the approach down the line, then hit a crosscourt volley
+winner."**
 
-![A picture containing athletic game, sport, tennis, player Description
-automatically
-generated](media_the-strategy-zone-transition-and-net-finish/media/image3.webp)
+![A picture containing athletic game, sport, tennis, player Description automatically generated](media_the-strategy-zone-transition-and-net-finish/media/image3.webp)
 
 **Transitional sequences are more varied than ever in the modern game.**
 
@@ -121,8 +114,7 @@ look at both options in more detail.
 
 **Surprise Attack**
 
-![A person playing tennis Description automatically
-generated](media_the-strategy-zone-transition-and-net-finish/media/image4.webp)
+![A person playing tennis Description automatically generated](media_the-strategy-zone-transition-and-net-finish/media/image4.webp)
 
 **A surprise attack: players sense they have hurt the opponent and
 created an opening.**
@@ -130,8 +122,7 @@ created an opening.**
 Here are some of the most important variations players use in surprise
 attack play.
 
-![A person playing tennis Description automatically generated with low
-confidence](media_the-strategy-zone-transition-and-net-finish/media/image5.webp)
+![A person playing tennis Description automatically generated with low confidence](media_the-strategy-zone-transition-and-net-finish/media/image5.webp)
 
 **A looping topspin approach can yield volley and overhead winners.**
 
@@ -166,9 +157,7 @@ will approach crosscourt, or hitting inside out or inside in. The
 decision is based on whether in a given situation the surprise
 transition shot can hurt the opponent.
 
-![A picture containing text, sport, tennis, athletic game Description
-automatically
-generated](media_the-strategy-zone-transition-and-net-finish/media/image6.webp)
+![A picture containing text, sport, tennis, athletic game Description automatically generated](media_the-strategy-zone-transition-and-net-finish/media/image6.webp)
 
 **A short angle can surprise the opponent and leave the court wide
 open.**
@@ -190,9 +179,7 @@ opportunity, accelerate forward and take advantage of the open court. As
 before, you can hit a traditional or a swinging
 volley.**
 
-![A picture containing text, athletic game, sport, tennis Description
-automatically
-generated](media_the-strategy-zone-transition-and-net-finish/media/image7.webp)
+![A picture containing text, athletic game, sport, tennis Description automatically generated](media_the-strategy-zone-transition-and-net-finish/media/image7.webp)
 
 **Mixing a variety of surprise attacks on the return can be very
 effective.**
@@ -220,11 +207,9 @@ transition shot, or approach, into the open court. We call these 1-1
 Combinations. It's the same concept we used in discussing finishing
 shots from the baseline. ([link](The%20Strategy%20Zone%20-%20Phase%202%20Hurt.docx))
 
-![A picture containing text, athletic game, sport, tennis Description
-automatically
-generated](media_the-strategy-zone-transition-and-net-finish/media/image8.webp)
+![A picture containing text, athletic game, sport, tennis Description automatically generated](media_the-strategy-zone-transition-and-net-finish/media/image8.webp)
 
-**Deep powerful groundstrokes, crosscourt, then down the line\--a huge
+**Deep powerful groundstrokes, crosscourt, then down the line--a huge
 target and an easy volley winner.**
 
 1-1 Combinations can lead to easy net finish shots if the opponent is
@@ -251,8 +236,7 @@ Combinations can lead to easy net finishes by wrong footing opponents.
 This confuses them and takes them out of balance. You are then able to
 hit into the open court to the opposite side the player is moving.
 
-![A person playing tennis Description automatically generated with low
-confidence](media_the-strategy-zone-transition-and-net-finish/media/image9.webp)
+![A person playing tennis Description automatically generated with low confidence](media_the-strategy-zone-transition-and-net-finish/media/image9.webp)
 
 **The 2-1 Combo: hitting behind the opponent on the approach or first
 volley.**
@@ -281,29 +265,24 @@ level can exercise their imagination and creativity to find a way to win
 those few critical attacking points that can help you win more
 matches.**
 
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![A couple of men holding tennis rackets Description automatically generated with medium                                                                                                      Nick Bollettieri (right) is the legendary coach
-  confidence](media_the-strategy-zone-transition-and-net-finish/media/image10.jpeg)                                                                                                                                                                Seles, Andre Agassi, Jim Courier, and Maria
-                                                                                                                                                                                                Sharapova. Nick is the creator of the tennis
-                                                                                                                                                                                                academy concept and has watched his vision grow
-                                                                                                                                                                                                for over 30 years into the world's premier
-                                                                                                                                                                                                tennis training ground at IMG Bollettieri in
-                                                                                                                                                                                                Bradenton, Florida. Over the years Nick has
-                                                                                                                                                                                                collaborated with many of the leading innovators
-                                                                                                                                                                                                in coaching, introducing and incorporating their
-                                                                                                                                                                                                concepts into training programs at the Academy.\
-                                                                                                                                                                                                \
-                                                                                                                                                                                                Lance Luciani (left), the founder of Strategy
-                                                                                                                                                                                                Zone, is one of the world's leading analysts of
-                                                                                                                                                                                                statistics and strategy, and the Head of
-                                                                                                                                                                                                Strategy and Tactics at IMG/Bollettieri
-                                                                                                                                                                                                Academies. Lance was a pioneer in the video
-                                                                                                                                                                                                analysis of match play at all levels of the
-                                                                                                                                                                                                game. At the Academy he has created the cutting
-                                                                                                                                                                                                edge system used by players to study the
-                                                                                                                                                                                                patterns of their points from real time play.
-                                                                                                                                                                                                This system is revolutionizing how competitors
-                                                                                                                                                                                                develop and improve their strategic style.
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ------------------------------------------------
-
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A couple of men holding tennis rackets Description automatically generated with medium                                                                                                      Nick Bollettieri (right) is the legendary coach confidence](media_the-strategy-zone-transition-and-net-finish/media/image10.jpeg)                                                                                                                                                                Seles, Andre Agassi, Jim Courier, and Maria
+Sharapova. Nick is the creator of the tennis
+academy concept and has watched his vision grow
+for over 30 years into the world's premier
+tennis training ground at IMG Bollettieri in
+Bradenton, Florida. Over the years Nick has
+collaborated with many of the leading innovators
+in coaching, introducing and incorporating their
+concepts into training programs at the Academy.\
+\
+Lance Luciani (left), the founder of Strategy
+Zone, is one of the world's leading analysts of
+statistics and strategy, and the Head of
+Strategy and Tactics at IMG/Bollettieri
+Academies. Lance was a pioneer in the video
+analysis of match play at all levels of the
+game. At the Academy he has created the cutting
+edge system used by players to study the
+patterns of their points from real time play.
+This system is revolutionizing how competitors
+develop and improve their strategic style.

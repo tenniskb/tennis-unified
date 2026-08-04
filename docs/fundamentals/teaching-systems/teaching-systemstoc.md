@@ -4,7 +4,7 @@
 
 **Section Overview**
 
-**Most tennis lessons are taught as a series of disconnected \"tips\".
+**Most tennis lessons are taught as a series of disconnected "tips".
 Information can flow to the student almost randomly at
 times.** Even well know coaches and teachers,
 including some of the great ones with articles here on Tennisplayer,
@@ -22,7 +22,7 @@ So, in Teaching Systems we'll present some of these approaches,
 starting with a legendary and in my opinion under recognized pioneer in
 coaching, Welby Van Horn. Never heard of him? If you've ever been to
 Indian Wells (and it's a highly recommended event!) you may have seen
-his name on the backboards on the teaching courts: \"Welby's Wall.\" He
+his name on the backboards on the teaching courts: "Welby's Wall." He
 lives in the desert now, where his most famous former player Charlie
 Pasarell runs one of the biggest tournaments in the world outside the
 Slams.
@@ -38,7 +38,7 @@ technique.
 We're also going to present some of my own work here, the Visual Tennis
 teaching system. We'll start with the critical role imagery plays in
 learning tennis, talk about how the approach worked for John McEnroe
-(which was notable I feel\...) and then work our way through the
+(which was notable I feel...) and then work our way through the
 strokes, with an emphasis on what I find to be **one the most vital
 and overlooked elements in teaching and playing: the role of the hitting
 arm in biomechanics.**
@@ -48,9 +48,7 @@ presentations of other important approaches, some that are very well
 known, and others that you'll hear about for the first time on
 Tennisplayer.
 
-![A person smiling for the camera Description automatically generated
-with medium
-confidence](media_teaching-systemstoc/media/image1.jpeg)
+![A person smiling for the camera Description automatically generated with medium confidence](media_teaching-systemstoc/media/image1.jpeg)
 
 John Yandell\
 Editor
@@ -71,7 +69,7 @@ Progressive Development
 
 The Forehand Keying Process
 
-The \"Imaginary\" Modern Forehand
+The "Imaginary" Modern Forehand
 
 Body Rotation
 
@@ -315,7 +313,7 @@ Ritualizing Your Game
 
 Mental Imagery in Building Strokes
 
-Three Lessons I Learned From Rafa in Miami\--and You Can Too
+Three Lessons I Learned From Rafa in Miami--and You Can Too
 
 Imagery and Elite Players: Justine Henin's Forehand
 

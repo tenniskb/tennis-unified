@@ -2,10 +2,7 @@
 
 ### **Michael Friedman**
 
-------------------------------------------------------------------------
-
-![A person playing tennis Description automatically
-generated](media_step-step-rip/media/image1.webp)
+![A person playing tennis Description automatically generated](media_step-step-rip/media/image1.webp)
 
 **Is the Step Step Rip your key to hit more winners?**
 
@@ -14,69 +11,61 @@ short forehand. You move forward to put the ball away, but instead you
 put it into the net, the back fence, or three feet wide. And that
 happens more than you'd like to admit.
 
-Is it a flaw in you swing\--do you need a \"new\" short forehand? Or
+Is it a flaw in you swing--do you need a "new" short forehand? Or
 maybe it's a mental error?
 
 I have a different answer. **I believe that in many, if not most
 cases, the real problem is your feet!** If we look
 closely at pro players like Roger Federer, Andre Agassi, or Maria
 Sharapova we can see a clear footwork pattern on the short ball. This is
-what I call the \"Step, Step, Rip.\" Although it is common in
+what I call the "Step, Step, Rip." Although it is common in
 professional tennis, the Step, Step Rip has never been identified or
-incorporated into teaching\--until now.
+incorporated into teaching--until now.
 
-| ![A picture containing tennis, racket, sport, person Description automatically |
-| --- |
-| generated](media_step-step-rip/media/image2.webp) |
-|  |
-| **It's a simple two step pattern, back foot, front foot, hit.** |
+![A picture containing tennis, racket, sport, person Description automatically generated](media_step-step-rip/media/image2.webp)
 
+**It's a simple two step pattern, back foot, front foot, hit.**
 
-This footwork pattern\--not some change in your basic swing or your
-mental game\--is what you need if you want to hit winners consistently
+This footwork pattern--not some change in your basic swing or your
+mental game--is what you need if you want to hit winners consistently
 on short balls. If you could routinely hit short balls for winners,
 would that make a difference in your results? Let me show you my system
-so you can develop the \"Step, Step, Rip\" for yourself.
+so you can develop the "Step, Step, Rip" for yourself.
 
 **A Matter of Timing**
 
-Basically, it works like this. The \"Step, Step, Rip\" helps you develop
+Basically, it works like this. The "Step, Step, Rip" helps you develop
 the ability to time the ball in a new way. The rhythm in your feet is
 used as a timing device to trigger your swing, and to do this at the
 exact instant that maximizes pace and consistency.
 
-**There are two steps in the \"Step, Step, Rip.\" A step with your
+**There are two steps in the "Step, Step, Rip." A step with your
 right foot that judges your position relative to the ball. Then a step
 with the left foot that triggers the actual swing. The second step can
 be either into the ball, or more to the side in a semi-open stance.
 Timing these steps is the secret to triggering the swing at the right
 time.**
 
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                            ![A person playing tennis Description automatically generated with medium
-   confidence](media_step-step-rip/media/image3.webp)
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                    **The bounce, the step, step and the rip, followed by the kick back with the rear leg.**
-
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person playing tennis Description automatically generated with medium confidence](media_step-step-rip/media/image3.webp)
+**The bounce, the step, step and the rip, followed by the kick back with the rear leg.**
 
 **The correct timing or rhythm is achieved by correlating the steps to
 the bounce of the ball.** **The rhythm follows
-this pattern: \"Bounce,\" then immediately, \"Step, Step,
-Hit.\"** **The first step comes a fraction of a
+this pattern: "Bounce," then immediately, "Step, Step,
+Hit."** **The first step comes a fraction of a
 second after the bounce.** **The way to develop
 this fundamental rhythmic pattern is by actually saying the words to
-yourself as you play: \"Bounce, Step, Step,
-Hit.\"** It may sound simple, but the result is
+yourself as you play: "Bounce, Step, Step,
+Hit."** It may sound simple, but the result is
 very powerful. Coordinating the words inside your head with the bounce
 and steps makes the timing of the swing virtually automatic. I have more
 than one student who swear by it's magic power.
 
-Say the word \"bounce\" exactly when the ball bounces. Then say \"step\"
-when you step with your right foot. Next say \"step\" again when you
-step with your left foot. Finally say \"hit\" in order to time your
-contact with the ball.\" Again, the whole pattern is \"Bounce, Step,
-Step, Hit.\" Or better yet, \"Bounce, Step, Step, Rip!\"
+Say the word "bounce" exactly when the ball bounces. Then say "step"
+when you step with your right foot. Next say "step" again when you
+step with your left foot. Finally say "hit" in order to time your
+contact with the ball." Again, the whole pattern is "Bounce, Step,
+Step, Hit." Or better yet, "Bounce, Step, Step, Rip!"
 
 **A final point on the footwork pattern. After the hit, the back leg
 kicks back behind the body.** **This is to
@@ -87,13 +76,9 @@ your swing. The right foot will then swing around and the player will
 continue towards the net, in the direction of the
 hit.**
 
-|  |
-| --- |
-| ![A person playing tennis Description automatically generated with medium |
-| confidence](media_step-step-rip/media/image4.webp) |
-|  |
-| **On a high ball, you can leave the court with the second step.** |
+![A person playing tennis Description automatically generated with medium confidence](media_step-step-rip/media/image4.webp)
 
+**On a high ball, you can leave the court with the second step.**
 
 In the case of a very high ball, you will actually leave the ground with
 your last step, pushing off the court with your left foot, as you kick
@@ -104,10 +89,10 @@ around.
 
 Once you develop the pattern, you'll be able to speed up the steps to
 increase your natural pace, and still keep the timing automatic.
-Visualize a shortstop picking up a ground ball. He does a \"Step, Step\"
+Visualize a shortstop picking up a ground ball. He does a "Step, Step"
 rhythm, starting with the right foot then the left, to release the
-energy from the ground. The faster the \"Step, Step\" the faster the
-throw. It's the same in tennis, the faster the \"Step, Step,\" the
+energy from the ground. The faster the "Step, Step" the faster the
+throw. It's the same in tennis, the faster the "Step, Step," the
 faster the swing.
 
 Federer is a great example. His steps are so fast, that they are
@@ -116,26 +101,21 @@ steps allows him to attack in a much wider variety of situations. Maria
 Sharapova is also quick with her feet, especially considering her age
 and height.
 
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                      ![A person playing tennis Description automatically
-   generated](media_step-step-rip/media/image5.webp)
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------
-                **It's invisible in real time, but slow motion shows the pattern: the final step with the left foot, then the step, step rip!**
-
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person playing tennis Description automatically generated](media_step-step-rip/media/image5.webp)
+**It's invisible in real time, but slow motion shows the pattern: the final step with the left foot, then the step, step rip!**
 
 So now let's see how the whole pattern works, moving forward from the
-baseline. Let's see how the \"Step, Step, Rip\" is integrated with the
+baseline. Let's see how the "Step, Step, Rip" is integrated with the
 larger, overall pattern of movement to the short ball. The player
 recognizes the short ball and starts to move forward. The last step
-prior to the \"Step, Step Rip\" is with the left foot. This happens when
+prior to the "Step, Step Rip" is with the left foot. This happens when
 the left foot steps in front of the right foot towards the net.
 
-Now the player is ready to initiate the \"Step, Step, Rip.\" The next
+Now the player is ready to initiate the "Step, Step, Rip." The next
 step with the right foot drives the weight forward. This leads to the
 final step into the ball and the hit. Watch the animation of Sharapova.
-You'll see the pattern in real time\--can you follow the steps? Then it
-repeats in slow motion\--you'll see the pattern emerge. A positioning
+You'll see the pattern in real time--can you follow the steps? Then it
+repeats in slow motion--you'll see the pattern emerge. A positioning
 step with the left foot, then, step, step, rip.
 
 **Depending on the bounce of the ball, the right foot can actually
@@ -152,18 +132,13 @@ then toe. This step triggers the rotation of the right knee towards the
 left knee and the hips, torso and shoulders follow in the kinetic
 chain.]**
 
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                      ![A person playing tennis Description automatically
-   generated](media_step-step-rip/media/image6.webp)
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                     **Watch Federer's explosive first Carioka Step, the second step, and then the rip.**
-
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person playing tennis Description automatically generated](media_step-step-rip/media/image6.webp)
+**Watch Federer's explosive first Carioka Step, the second step, and then the rip.**
 
 **To really rip the ball you have to make sure you make contact while
 the ball is still above the net.** **If it's a
-high ball, don't let it drop out of your contact zone. Swing \"high\"
-to \"high\" with the racket starting at the height of the ball keeping
+high ball, don't let it drop out of your contact zone. Swing "high"
+to "high" with the racket starting at the height of the ball keeping
 the ball above the net until it clears the net.**
 
 **If you recognize the short ball early enough, you can also use the
@@ -173,17 +148,12 @@ pace.** **In addition, due to the earlier timing,
 hitting on the rise takes response time away from the
 opponent.**
 
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                     ![A picture containing tennis, sport, racket, athletic game Description automatically
-   generated](media_step-step-rip/media/image7.webp)
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                               **To really rip make sure the short ball is still above the net.**
-
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A picture containing tennis, sport, racket, athletic game Description automatically generated](media_step-step-rip/media/image7.webp)
+**To really rip make sure the short ball is still above the net.**
 
 **If you hit on the rise, the second step has to be earlier, actually
 before the bounce of the ball.** In this case, say
-\"Step, Step Hit,\" starting just before the bounce to speed up the
+"Step, Step Hit," starting just before the bounce to speed up the
 timing and pull the trigger earlier.
 
 **Understand that good form equals power. Especially when you take the
@@ -203,13 +173,9 @@ should be the difference against this type of opponent. Watch the pros
 and see how they use the step step pattern on the forehand return, even
 when the hit open stance.
 
-|  |
-| --- |
-| ![A person playing tennis Description automatically generated with medium |
-| confidence](media_step-step-rip/media/image8.webp) |
-|  |
-| **When you take the ball early, you don't need to swing harder, you need good form like Tim Henman** |
+![A person playing tennis Description automatically generated with medium confidence](media_step-step-rip/media/image8.webp)
 
+**When you take the ball early, you don't need to swing harder, you need good form like Tim Henman**
 
 But it's an opportunity too many players squander. They believe it's
 an easy shot. The reality is it is a very difficult shot because the
@@ -221,7 +187,7 @@ soon.**
 
 **This is where executing the Step, Step, Rip can really pay off. The
 rhythm pattern puts the returner in perfect sync with the
-ball.** The result is power AND consistency\--the
+ball.** The result is power AND consistency--the
 ability to exploit an obvious weakness on a regular basis. This can
 result in winning many more matches, especially matches you feel you
 should win, but may lose due to senseless unforced errors on slow balls.

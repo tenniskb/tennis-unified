@@ -2,28 +2,24 @@
 
 ### By John Yandell
 
-------------------------------------------------------------------------
-
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_three-secrets-for-destroying-pushers/media/image1.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_three-secrets-for-destroying-pushers/media/image1.webp)
 
 **Get over it - pushing is real tennis.**
 
-\"I lost to him but that's because he's a pusher! It doesn't really
-count because that wasn't real tennis!\"
+"I lost to him but that's because he's a pusher! It doesn't really
+count because that wasn't real tennis!"
 
 You've probably heard that one several times. Possibly you've said it
 yourself, either out loud or inside your head.
 
 But face the underlying reality. That really was tennis and you really
 wanted to beat that pusher. And you experienced pain---along with damage
-to your self-image\--when you did not.
+to your self-image--when you did not.
 
 When a player loses to an opponent he categorizes as a pusher, he can
 feel humiliated and desperate for an excuse. This is why we try to
 pretend that it wasn't real tennis or didn't count. How could you be
-\"worse\" than a player with no strokes who hits every ball 30 feet into
+"worse" than a player with no strokes who hits every ball 30 feet into
 the air?
 
 In this article I am going to describe how to turn that humiliation,
@@ -42,15 +38,12 @@ Drop Shot Destruction.
 |  |
 | 3.  **Drop Shot Destruction** |
 
-
 What makes these strategies different? The idea of attacking to beat a
-pusher - either off the ground or at the net\--is obviously not new, but
+pusher - either off the ground or at the net--is obviously not new, but
 the reality is that most players lack the skills to succeed with pure
 attacking tennis when faced with the unique challenges pushers present.
 
-![A picture containing text, tennis, racket, sport Description
-automatically
-generated](media_three-secrets-for-destroying-pushers/media/image2.webp)
+![A picture containing text, tennis, racket, sport Description automatically generated](media_three-secrets-for-destroying-pushers/media/image2.webp)
 
 **What form of attack is the best approach against a pusher?**
 
@@ -75,15 +68,14 @@ against this type of opponent.
 but they are fundamentally psychological at the same
 time.** Because let's face it, a tough match with
 a pusher is as much a mental and emotional struggle as a physical
-one\--and usually more.
+one--and usually more.
 
 These second two strategies are especially important because they will
 work when modified attacking strategies fail. They also work for players
 who may not truly have the inclination or the skills to prevail through
 attack, especially over the course of a long, tough match.
 
-![A person hitting a ball with a tennis racket Description automatically
-generated](media_three-secrets-for-destroying-pushers/media/image3.webp)
+![A person hitting a ball with a tennis racket Description automatically generated](media_three-secrets-for-destroying-pushers/media/image3.webp)
 
 **Possibly the most effective option: the drop shot.**
 
@@ -107,7 +99,7 @@ achieve.**
 
 **It's Tennis Alright**
 
-Whenever I hear someone start whining that \"pushing\" isn't tennis, I
+Whenever I hear someone start whining that "pushing" isn't tennis, I
 think of a famous coach and former world class player who ran huge,
 successful junior camps in Southern California. I think he actually
 looked forward to hearing that complaint.
@@ -116,17 +108,15 @@ He'd get this wry smile on his face, which made the excuse maker
 instantly uncomfortable. Then he'd pause for a while and watch his
 victim squirm.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_three-secrets-for-destroying-pushers/media/image4.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_three-secrets-for-destroying-pushers/media/image4.webp)
 
-**Modified tactical strategy\--combined with psychological
+**Modified tactical strategy--combined with psychological
 understanding.**
 
-Finally, he'd say: \"Really, that wasn't tennis? I could have sworn
-that was you I saw out there on the tennis court.\"
+Finally, he'd say: "Really, that wasn't tennis? I could have sworn
+that was you I saw out there on the tennis court."
 
-\"Was I mistaken? Was that someone else?\"
+"Was I mistaken? Was that someone else?"
 
 The response was usually humbled, or more likely, angry silence.
 
@@ -158,21 +148,19 @@ opponents---far more willing.
 that you are the better player. Because of this he knows that your
 self-image is on the line big time.**
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_three-secrets-for-destroying-pushers/media/image5.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_three-secrets-for-destroying-pushers/media/image5.webp)
 
 **Will you fall into this trap?**
 
-**And he knows that with every point he wins and every \"easy\" winner
+**And he knows that with every point he wins and every "easy" winner
 you choke, your frustration and your desperation grow. His real goal is
 to take you apart point by point until you suffer a complete
 collapse.**
 
 **The pusher may back up that strategy by pretending to be the
-friendliest guy in the world. He may make comments like, \"Wow, I'm
-surprised you missed that one.\" Or \"I was really lucky, because I
-thought you had me there.\"**
+friendliest guy in the world. He may make comments like, "Wow, I'm
+surprised you missed that one." Or "I was really lucky, because I
+thought you had me there."**
 
 **He loves it when he gets to rub it in that way. Meanwhile, even
 though he seems so polite, you are torn between the impulse to kill him
@@ -192,7 +180,7 @@ likelihood that you will fall into his trap, unravel, and lose.
 
 **Pace is Collaborative**
 
-\"I am going to blast this son of a bitch off the court,\" you tell
+"I am going to blast this son of a bitch off the court," you tell
 yourself.
 
 **But let's look at the reality of that kind of declaration. The
@@ -206,8 +194,7 @@ have great rallies that mainly end with your opponent's errors. You win
 and walk off the thinking you are a hell of
 player.**
 
-![A person playing tennis Description automatically
-generated](media_three-secrets-for-destroying-pushers/media/image6.webp)
+![A person playing tennis Description automatically generated](media_three-secrets-for-destroying-pushers/media/image6.webp)
 
 **Defeating a determine pusher means staying positive no matter what.**
 
@@ -262,8 +249,7 @@ knife the slice hard and low to the backhand. Now pound the volley or
 the overhead for a winner. Mix in the serve and volley! Cut off those
 soft floating returns with angled winners at the net!
 
-![A person playing tennis Description automatically
-generated](media_three-secrets-for-destroying-pushers/media/image7.webp)
+![A person playing tennis Description automatically generated](media_three-secrets-for-destroying-pushers/media/image7.webp)
 
 **Do you have the skills to win playing big time attacking tennis?**
 
@@ -302,9 +288,7 @@ require using the other two strategies outlined below. He has to give
 you at least some balls that, while slow, you can hit with your normal
 strokes.
 
-![A picture containing tennis, sport, athletic game, road Description
-automatically
-generated](media_three-secrets-for-destroying-pushers/media/image8.webp)
+![A picture containing tennis, sport, athletic game, road Description automatically generated](media_three-secrets-for-destroying-pushers/media/image8.webp)
 
 **Work the ball in rhythm to open the court for groundstroke winners.**
 
@@ -351,9 +335,7 @@ side.**
 advantage. Then use them over and over unless something
 changes.**
 
-![A picture containing tennis, sport, athletic game, court Description
-automatically
-generated](media_three-secrets-for-destroying-pushers/media/image9.webp)
+![A picture containing tennis, sport, athletic game, court Description automatically generated](media_three-secrets-for-destroying-pushers/media/image9.webp)
 
 **From rhythm rally you can also produce fat, shoulder high volleys.**
 
@@ -393,17 +375,15 @@ doesn't require winning shot making. In fact, it really isn't really
 based on tactics at all. It's based mainly on psychological
 warfare.**
 
-![A person holding a baseball bat Description automatically generated
-with low
-confidence](media_three-secrets-for-destroying-pushers/media/image10.webp)
+![A person holding a baseball bat Description automatically generated with low confidence](media_three-secrets-for-destroying-pushers/media/image10.webp)
 
 **Mirror the pusher shot for shot, for as many balls as it takes.**
 
-The Mirror approach starts with this affirmation. \"There is no way I am
-going to let myself lose to this guy.\"
+The Mirror approach starts with this affirmation. "There is no way I am
+going to let myself lose to this guy."
 
-\"He absolutely cannot beat me. The only way he can win is if I lose to
-him.\"
+"He absolutely cannot beat me. The only way he can win is if I lose to
+him."
 
 **The Mirror is based on turning the pusher's psychology against him.
 Basically, you are going to show the pusher (with the world watching)
@@ -439,20 +419,18 @@ During the break between sets I let the player vents for a while about
 how bad the opponent is, how much they hate that style, etc. Then I say
 this.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_three-secrets-for-destroying-pushers/media/image11.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_three-secrets-for-destroying-pushers/media/image11.webp)
 
 **The effect of the Mirror: discouragement leading to unforced errors.**
 
-\"Tell me if you are such a better player, then why are you losing so
-badly?\" That usually reduces them to silence. And then I say this: \"Do
-you really want to win this match?\" And of course, the player answers
-adamantly \"Yes!\"
+"Tell me if you are such a better player, then why are you losing so
+badly?" That usually reduces them to silence. And then I say this: "Do
+you really want to win this match?" And of course, the player answers
+adamantly "Yes!"
 
-So, I say: \"Fine. I don't want to hear anymore whining. Go out there
+So, I say: "Fine. I don't want to hear anymore whining. Go out there
 and play a frickin' 200 ball point on the first point of the second set
-if you have to. Show that player the mirror.\"
+if you have to. Show that player the mirror."
 
 This is especially effective if, as is usually the case in high school
 matches, there are other players or better yet parents watching.
@@ -461,7 +439,7 @@ showing the world exactly how the pusher actually plays.
 
 The course of events is then usually something like this. That first
 point goes on for a long while---50 balls sometimes, or even more. The
-next few points can be the same\--or it can continue for a few games.
+next few points can be the same--or it can continue for a few games.
 
 **But almost always a change starts to happen. Slowly, gradually, the
 pusher changes and starts trying to hit.**
@@ -477,9 +455,7 @@ the other way. The pusher may revert periodically, and that's fine. If
 that happens, just get back into mirror mode
 yourself**.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_three-secrets-for-destroying-pushers/media/image12.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_three-secrets-for-destroying-pushers/media/image12.webp)
 
 **The drop shot is a strategy most players can use against pushers.**
 
@@ -516,9 +492,7 @@ levels.
 clean winner, he is telling his opponent that his ball lacks force,
 aggression, penetration, etc.**
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_three-secrets-for-destroying-pushers/media/image13.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_three-secrets-for-destroying-pushers/media/image13.webp)
 
 **The drop shot sets you up for easy passes against pushers at the
 net.**
@@ -547,16 +521,14 @@ back there on the baseline and into a place on the court they don't
 like at all---the midcourt or the net.**
 
 **To retrieve the ball the pusher must come forward and then they are
-stuck\--and vulnerable in ways they are not in the
+stuck--and vulnerable in ways they are not in the
 backcourt.**
 
 **Normally if he gets to the ball, the pusher will float it up over
 the net. Usually, the shot will be high and soft, and often to the
 middle of the court and relatively short.**
 
-![A person holding a tennis racket Description automatically generated
-with medium
-confidence](media_three-secrets-for-destroying-pushers/media/image14.webp)
+![A person holding a tennis racket Description automatically generated with medium confidence](media_three-secrets-for-destroying-pushers/media/image14.webp)
 
 **After the drop shot the pusher is also vulnerable to the lob.**
 
@@ -596,9 +568,7 @@ winners.**
 ball is in your strike zone and go for the lob if the ball is low or
 especially high.**
 
-![A couple of people playing tennis Description automatically generated
-with low
-confidence](media_three-secrets-for-destroying-pushers/media/image15.webp)
+![A couple of people playing tennis Description automatically generated with low confidence](media_three-secrets-for-destroying-pushers/media/image15.webp)
 
 **You can run around and hit the drop shot on either side.**
 
@@ -642,8 +612,7 @@ a rhythm rally with a pusher or do a little moonball mirroring until you
 get the right ball for modified attack. Likewise, you can wait for the
 right ball to drop in either rhythm rally or mirror mode.
 
-![A person holding a tennis racket Description automatically
-generated](media_three-secrets-for-destroying-pushers/media/image16.webp)
+![A person holding a tennis racket Description automatically generated](media_three-secrets-for-destroying-pushers/media/image16.webp)
 
 **If the pusher hits short, approach after the drop.**
 
@@ -666,9 +635,7 @@ from that success if you don't initially get a victory and just stay
 committed. Over time these strategies can lead to some of the most
 satisfying wins ever!**
 
-![A person smiling for the camera Description automatically generated
-with medium
-confidence](media_three-secrets-for-destroying-pushers/media/image17.jpeg)
+![A person smiling for the camera Description automatically generated with medium confidence](media_three-secrets-for-destroying-pushers/media/image17.jpeg)
 
 John Yandell is widely acknowledged as one of the leading videographers
 and students of the modern game of professional tennis. His high speed
@@ -681,5 +648,3 @@ Henin-Hardenne, Taylor Dent and John McEnroe, among others.
 In addition to his role as Editor of Tennisplayer he is the author of
 the critically acclaimed book Visual Tennis. The John Yandell Tennis
 School is located in San Francisco, California.
-
-------------------------------------------------------------------------

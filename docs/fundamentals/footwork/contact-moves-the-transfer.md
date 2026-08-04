@@ -10,7 +10,7 @@ Tennis.
 
 The Contact Move synthesizes all the components of movement into a
 single concept. These components include out steps to the ball, hitting
-stances, movement during the hit\--what I call the balance moves\--and
+stances, movement during the hit--what I call the balance moves--and
 also, recovery steps.
 
 Contact Moves can be divided into 3 general categories. Offensive,
@@ -23,16 +23,14 @@ is transferred from the back foot to the front foot during the swing.
 
 Top players use the Transfer Move when they hit aggressive open stance
 forehands and to a lesser extent on the backhand as well. This sequence
-is what Dave Porter refers to as \"Load, Explode, and Land\" in his
+is what Dave Porter refers to as "Load, Explode, and Land" in his
 current article on Components of the Forehand. ([link](../../Stroke%20Analysis/Tour%20strokes/Components%20of%20the%20Modern%20Forehand.docx).)
 
 On the return, top players routinely use Transfer footwork on both the
 forehand and backhand sides. This is true for both one-handed and
 two-handed backhand returns.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_contact-moves-the-transfer/media/image1.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_contact-moves-the-transfer/media/image1.webp)
 
 **Forward Transfer: back leg kicks straight, front foot points in
 direction shot.**
@@ -57,13 +55,11 @@ From a loaded semi-open stance, the player elevates off the court before
 contact with the hips squaring to the net. The weight is propelled
 forward, moving through the shot.
 
-As the racket moves forward, the back leg \"curls\" and kicks back
+As the racket moves forward, the back leg "curls" and kicks back
 behind the player. The player lands on the left front foot, with the
 back leg pointing behind.
 
-![A picture containing tennis, sport, athletic game, player Description
-automatically
-generated](media_contact-moves-the-transfer/media/image2.webp)
+![A picture containing tennis, sport, athletic game, player Description automatically generated](media_contact-moves-the-transfer/media/image2.webp)
 
 **The Lateral Transfer with the front foot pointing more to the left and
 the kick back more to the side.**
@@ -89,8 +85,7 @@ and points straight ahead. With the Lateral Transfer, it lands even with
 the rear foot or only slightly ahead, pointing more to the sideline than
 forward.**
 
-![A person playing tennis Description automatically
-generated](media_contact-moves-the-transfer/media/image3.webp)
+![A person playing tennis Description automatically generated](media_contact-moves-the-transfer/media/image3.webp)
 
 **The sequence is the same on the backhand: loading, front foot landing
 and rear leg kicking back.**
@@ -115,9 +110,7 @@ which the game can evolve toward even more aggressive play.
 
 **Return Transfers**
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_contact-moves-the-transfer/media/image4.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_contact-moves-the-transfer/media/image4.webp)
 
 **Return Transfers: open stance loading and closed stance landing.**
 
@@ -147,7 +140,9 @@ front foot, landing in a closed stance.** **This
 is in contrast to forehand groundstroke transfers, where the players
 remain in an open stance during the landing.**
 
-![link](media_contact-moves-the-transfer/media/image5.jpeg)
+![Video demonstration](media_contact-moves-the-transfer/media/image5.jpeg)
+
+*Video demonstration — the original video for this article was hosted on TennisPlayer.net.*
 
 David Bailey is a native Australian who has spent 15 years studying
 tennis at the professional level. He has developed a new language for

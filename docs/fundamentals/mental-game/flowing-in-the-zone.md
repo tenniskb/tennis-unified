@@ -2,10 +2,7 @@
 
 ### Ben Loeb
 
-------------------------------------------------------------------------
-
-![A football player throwing a football Description automatically
-generated](media_flowing-in-the-zone/media/image1.jpg)
+![A football player throwing a football Description automatically generated](media_flowing-in-the-zone/media/image1.jpg)
 
 **Tom Brady seems to live in a state of flow.**
 
@@ -20,9 +17,9 @@ in looking for the open receiver seem to happen automatically.
 It seems similar for Roger Federer, arguably the best tennis player
 ever. Roger trusts his rhythm and timing, playing instinctually
 seemingly without much conscious thought. As he has gotten older, he has
-maintained his high level of play without much \"effort.\"
+maintained his high level of play without much "effort."
 
-The idea of \"flow\" or being \"in the zone\" is associated with what
+The idea of "flow" or being "in the zone" is associated with what
 Jim Loehr first called the ideal performance state. ([link](The%20Ideal%20Performance%20State.docx).) It's a state of
 effortless effort and complete focus.
 
@@ -36,8 +33,7 @@ A sense of freedom, joy, and fun, of almost welcoming obstacles.
 If a player experiences these, he stands a good chance of reaching his
 ideal performance state on a regular basis.
 
-![A person playing tennis Description automatically
-generated](media_flowing-in-the-zone/media/image2.jpg)
+![A person playing tennis Description automatically generated](media_flowing-in-the-zone/media/image2.jpg)
 
 **Roger Federer: still effortless after all these years.**
 
@@ -71,9 +67,7 @@ game changes.**
 tennis show through your body language. These steps are investments in
 yourself that can help lead you into the zone.**
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_flowing-in-the-zone/media/image3.jpg)
+![A person playing tennis Description automatically generated with medium confidence](media_flowing-in-the-zone/media/image3.jpg)
 
 **Many or even most players wrestle with negative thinking.**
 
@@ -92,9 +86,9 @@ experience. How often do you wrestle with telling yourself to stop
 negative thinking and replace it with positive thinking, yet your
 feelings don't comply?
 
-In his book The Path of No Resistance, Garret Kramer states, \"Only when
+In his book The Path of No Resistance, Garret Kramer states, "Only when
 your mind is free from the burden of trying to find mental clarity does
-it leave space for insights and excellence to come pouring in.\"
+it leave space for insights and excellence to come pouring in."
 
 **According to Kramer there are two types of thinking. These are
 outside-in thinking and inside-out thinking. Outside-in thinking occurs
@@ -107,9 +101,7 @@ We all have random and uncontrollable thoughts every day. They can't be
 stopped by some act of will. But we can choose which thoughts we believe
 and act on.
 
-![A person holding a tennis racket Description automatically generated
-with medium
-confidence](media_flowing-in-the-zone/media/image4.jpg)
+![A person holding a tennis racket Description automatically generated with medium confidence](media_flowing-in-the-zone/media/image4.jpg)
 
 **Focusing on negative thoughts leads to negative feelings.**
 
@@ -126,7 +118,7 @@ letting your feelings follow positive thoughts.
 **Mental Imagery**
 
 Another powerful tool is mental imagery. Mental imagery, also referred
-to as \"visualization\" and \"mental rehearsal,\" can be very useful in
+to as "visualization" and "mental rehearsal," can be very useful in
 improving performance of any kind. In your visualizations, you can
 create your own motion picture with you as the star performer.
 
@@ -139,8 +131,7 @@ Baseball players may use mental imagery just before pitching or batting.
 A quarterback may use imagery to review his progressions while on the
 sideline before taking the field.
 
-![A baseball player hitting a ball with a bat Description automatically
-generated](media_flowing-in-the-zone/media/image5.jpg)
+![A baseball player hitting a ball with a bat Description automatically generated](media_flowing-in-the-zone/media/image5.jpg)
 
 **Hitters can visualize before swinging.**
 
@@ -161,15 +152,13 @@ the use of mental imagery by Jim Loehr [link](https://www.tennisplayer.net/membe
 **If Then**
 
 Another way to practice pressure situations off the court is to create
-an \"If-Then Statement.\" This type of statement asks you to come up
+an "If-Then Statement." This type of statement asks you to come up
 with a situation that has caused you problems such as getting upset
 after a bad play or point. Then come up with what you will do when that
 happens next, for example, taking a deep breath to clear out the
 negative energy.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_flowing-in-the-zone/media/image6.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_flowing-in-the-zone/media/image6.webp)
 
 **Visualize the path of the shot before striking the ball.**
 
@@ -196,8 +185,7 @@ you will face on match day. This way, you will be better
 prepared** **mentally and emotionally to handle
 the real conditions.**
 
-![A person holding a tennis racket Description automatically
-generated](media_flowing-in-the-zone/media/image7.jpg)
+![A person holding a tennis racket Description automatically generated](media_flowing-in-the-zone/media/image7.jpg)
 
 **Can you develop a positive attitude toward pressure?**
 
@@ -221,9 +209,7 @@ working on them systematically in practice.
 Follow some or all of the suggestions above and see if they don't help
 you get into the zone more often and more naturally.
 
-![A person smiling for the camera Description automatically generated
-with medium
-confidence](media_flowing-in-the-zone/media/image8.jpeg)
+![A person smiling for the camera Description automatically generated with medium confidence](media_flowing-in-the-zone/media/image8.jpeg)
 
 Ben Loeb has been the varsity tennis coach for the boys' and girls'
 teams at Rock Bridge High School in Columbia, Missouri for over 30
@@ -234,8 +220,7 @@ and has used the principles he has developed to help hundreds of players
 to overcome the mental and emotional challenges of playing winning
 competitive tennis.
 
-![A cover of a book Description automatically generated with medium
-confidence](media_flowing-in-the-zone/media/image9.jpeg)
+![A cover of a book Description automatically generated with medium confidence](media_flowing-in-the-zone/media/image9.jpeg)
 
 **Next-Level Coaching!**
 

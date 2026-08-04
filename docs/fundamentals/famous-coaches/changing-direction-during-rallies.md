@@ -2,9 +2,7 @@
 
 ### Ean Meyer
 
-![Tennis players on a court Description automatically generated with
-medium
-confidence](media_changing-direction-during-rallies/media/image1.png)
+![Tennis players on a court Description automatically generated with medium confidence](media_changing-direction-during-rallies/media/image1.png)
 
 **Making smart choices during competition is just as important as good
 execution. This includes knowing when to change
@@ -21,15 +19,13 @@ that cross your body.**
 
 **When not sure, don't change direction at all.**
 
-![**Weak Outside
-Ball**](media_changing-direction-during-rallies/media/image2.png)
+![**Weak Outside Ball**](media_changing-direction-during-rallies/media/image2.png)
 
 **Good Outside Ball or Cross-Body Ball**
 
 **Inside Ball**
 
-![Harvey Balls 0% with solid
-fill](media_changing-direction-during-rallies/media/image4.svg)
+![Harvey Balls 0% with solid fill](media_changing-direction-during-rallies/media/image4.svg)
 
 **[Reason:]**
 
@@ -39,12 +35,9 @@ angle shot** that has too much margin for error.
 **Weak Outside Ball:** to change direction, need to create a **medium
 angle shot** that has less margin for error.
 
-**Inside Ball:** to change direction, need to create a **[[small]
-[angle shot]]** that has much less margin for error.
+**Inside Ball:** to change direction, need to create a **[small] [angle shot]** that has much less margin for error.
 
-![A person wearing a baseball hat Description automatically generated
-with low
-confidence](media_changing-direction-during-rallies/media/image5.png)
+![A person wearing a baseball hat Description automatically generated with low confidence](media_changing-direction-during-rallies/media/image5.png)
 
 Ean Meyer, a professional tennis coach since 1987. Over the years, I've
 worked with every level of player from beginner to professional,

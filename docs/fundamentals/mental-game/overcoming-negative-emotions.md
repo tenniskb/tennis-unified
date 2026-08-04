@@ -4,10 +4,7 @@
 
 ### Jeff Greenwald
 
-------------------------------------------------------------------------
-
-![A person playing tennis Description automatically
-generated](media_overcoming-negative-emotions/media/image1.webp)
+![A person playing tennis Description automatically generated](media_overcoming-negative-emotions/media/image1.webp)
 
 **Is feeling negative on court just a part of who you are?**
 
@@ -28,7 +25,7 @@ feelings have to be permanent.
 Often, for example, low confidence, anger or anxiety, are actually the
 consequence of negative thinking. Negative thinking, which is frequently
 an unconscious process, is what leads to negative feelings. And negative
-thinking is something you can develop control over\--something you can
+thinking is something you can develop control over--something you can
 reverse. So it's possible that you could completely reverse the way you
 feel on the court during your matches. Does that prospect sound
 enticing?
@@ -39,14 +36,13 @@ problem had been going on for three or four years when we met. She felt
 there was nothing that could help her, because the feelings of
 insecurity were so overwhelming in matches.
 
-![A person playing tennis Description automatically
-generated](media_overcoming-negative-emotions/media/image2.webp)
+![A person playing tennis Description automatically generated](media_overcoming-negative-emotions/media/image2.webp)
 
 **Can you overcome you inability to play your best in big matches?**
 
-My player was plagued with thoughts such as: \"Why can't I play well in
+My player was plagued with thoughts such as: "Why can't I play well in
 big matches? Maybe I don't really have the potential to play well. I'm
-a horrible player under pressure and I always will be.\"
+a horrible player under pressure and I always will be."
 
 Eventually I was able to help her understand that this didn't have to
 be the case. I explained she had to become more aware of her automatic
@@ -67,21 +63,19 @@ surprised to find how quickly these negative messages can create the
 uncomfortable feelings in your body. To fix this pattern, you need to
 stop taking your thoughts as true and begin to challenge them.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_overcoming-negative-emotions/media/image3.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_overcoming-negative-emotions/media/image3.webp)
 
-**\"If I play my game, good things will happen.\"**
+**"If I play my game, good things will happen."**
 
 The player I worked with in the above example started talking to himself
-in these ways: \"I know how well I can play. I deserve to win. If I play
-my game good things will happen.\"
+in these ways: "I know how well I can play. I deserve to win. If I play
+my game good things will happen."
 
 On the court, you need to check in with yourself when you start to fell
 anxious or down about your game. Usually, if you pay attention, you will
 be able to notice that your mind has taken a turn down the negative
-track. \"I am so sick of practicing. I hope I play well today. I have
-not been feeling good on the court lately.\" The key is to get to know
+track. "I am so sick of practicing. I hope I play well today. I have
+not been feeling good on the court lately." The key is to get to know
 what you are saying to yourself.
 
 Gradually you will develop the ability to catch yourself thinking
@@ -91,8 +85,7 @@ to let go of the thought and in many cases to actually dissolve the
 negative emotion. Then you can replace it with a specific, positive
 counter message.
 
-![A person holding a tennis racket Description automatically
-generated](media_overcoming-negative-emotions/media/image4.webp)
+![A person holding a tennis racket Description automatically generated](media_overcoming-negative-emotions/media/image4.webp)
 
 **What negative thoughts are associated with going negative on court?**
 
@@ -101,7 +94,7 @@ matches, having faced multiple match points in many of them. She ended
 the season the number one player in her conference. Once she realized
 that she didn't have to be victimized by her feelings and that she had
 a choice over what she could think at any given moment, she stopped
-labeling herself as a player who had \"no confidence.\"
+labeling herself as a player who had "no confidence."
 
 Next time you notice that you are feeling low on confidence, panicky,
 angry, or impatient ask yourself, What am I thinking right now? Identify
@@ -117,12 +110,10 @@ Let's look at some more examples of the relationship between thoughts
 and feelings, and focus on a surprisingly common problem, the fear of
 success.
 
-  ------------------------------------------------------------------------------------------------------------------------------------------
-   ![link](media_overcoming-negative-emotions/media/image5.png)
-  ------------------------------------------------------------------------------------------------------------------------------------------
-                                **Click on photo to hear Jeff Greenwald talk about playing in the spotlight.**
+![Video demonstration](media_overcoming-negative-emotions/media/image5.png)
 
-  ------------------------------------------------------------------------------------------------------------------------------------------
+*Video demonstration — the original video for this article was hosted on TennisPlayer.net.*
+**Click on photo to hear Jeff Greenwald talk about playing in the spotlight.**
 
 With so many players worrying about whether they will lose, it might
 seem preposterous to you that some people are actually frightened to
@@ -135,23 +126,22 @@ more comfortable with winning.
 
 This player had endured a great deal of pressure and expectation from
 others to achieve early on in his junior career. But this pressure was
-coupled with another strong message, \"It's important to be humble and
-not bring too much attention to yourself.\"
+coupled with another strong message, "It's important to be humble and
+not bring too much attention to yourself."
 
 This conflicting external demand created obvious internal emotional
 conflict. He felt overwhelmed and self-conscious when he competed.
 Eventually the effect was so great that he found himself paralyzed in
 big matches.
 
-![A person holding a tennis racket Description automatically
-generated](media_overcoming-negative-emotions/media/image4.webp)
+![A person holding a tennis racket Description automatically generated](media_overcoming-negative-emotions/media/image4.webp)
 
 **Over time, you will see a tangible impact from positive belief.**
 
 If he lost, he would feel deflated and guilty that he had disappointed
 his teammates. If he won, the bar would be raised and he would feel
 pressure to keep winning. But he was not able to truly enjoy victory
-without appearing to have lost his \"humility.\" This no-win mind-set
+without appearing to have lost his "humility." This no-win mind-set
 was not a recipe for his best tennis.
 
 Over a number of weeks, this player began to see the impact his beliefs
@@ -166,18 +156,14 @@ have fun, and win.
 
 Another player I worked with had a similar difficulty with the idea of
 winning. When he was beating a higher ranked player and in a position to
-win, he would be bombarded by thoughts like, \"I'm not supposed to be
-in this position; I don't deserve to win.\"
+win, he would be bombarded by thoughts like, "I'm not supposed to be
+in this position; I don't deserve to win."
 
-|  |
-| --- |
-| ![link](media_overcoming-negative-emotions/media/image6.png) |
-|  |
-| **Click here to hear Jeff talk about the choices we have regarding our thought patterns.** |
 
+**Click here to hear Jeff talk about the choices we have regarding our thought patterns.**
 
 This player was highly sensitive to the opinions of others. He feared
-being told that he was \"lucky.\" He was also very uncomfortable being
+being told that he was "lucky." He was also very uncomfortable being
 in the spotlight. With prompting, he began to shift the negative view he
 had of himself and raised his self-image as a player. He, too, learned
 to give himself permission to win.
@@ -191,19 +177,17 @@ best, and whatever happens is meant to be.
 
 **Other Variations**
 
-A fifteen-year-old nationally ranked player told me, \"It would be so
-embarrassing if I lose to that girl. What will people think?\" A
-forty-five-year-old nationally ranked player confided in me, \"I just
+A fifteen-year-old nationally ranked player told me, "It would be so
+embarrassing if I lose to that girl. What will people think?" A
+forty-five-year-old nationally ranked player confided in me, "I just
 felt like everyone was staring at me. I was nervous to just be on the
-court with some of the other higher-ranked players.\"
+court with some of the other higher-ranked players."
 
 A current world-ranked player on the ATP Tour shared with me how
 self-conscious he gets when playing in front of crowds because of his
 fear of double-faulting.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_overcoming-negative-emotions/media/image7.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_overcoming-negative-emotions/media/image7.webp)
 
 **Double faults on the world stage.**
 
@@ -218,20 +202,18 @@ half of her career, Jennifer Capriati admitted that the inability to
 separate her self-worth from tennis was a big part of her downfall as a
 player.
 
-\"I wanted to reach my true potential,\" she said, \"but I wasn't doing
-that. I had a lot of other stuff going on, like the fear\.....At one
+"I wanted to reach my true potential," she said, "but I wasn't doing
+that. I had a lot of other stuff going on, like the fear.....At one
 point, I was even afraid of playing in front of a crowd again. It seemed
-so intimidating to have people watching.\"
+so intimidating to have people watching."
 
-\"A lot of it's about self-esteem. But now I've learned to
+"A lot of it's about self-esteem. But now I've learned to
 differentiate how I feel about myself and what I'm doing on the court.
-For a long time, I didn't know how to do that.\" Once Capriati realized
+For a long time, I didn't know how to do that." Once Capriati realized
 how her self-worth was directly attached to her experience on the court,
 she started to play the best tennis of her life.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_overcoming-negative-emotions/media/image8.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_overcoming-negative-emotions/media/image8.webp)
 
 **How much is your self-image attached to outcomes on court?**
 
@@ -252,9 +234,7 @@ Do you feel shame for losing and stew over what others might be thinking
 of you? If so, you are probably overly attaching your self-esteem to
 your tennis performance.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_overcoming-negative-emotions/media/image9.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_overcoming-negative-emotions/media/image9.webp)
 
 **Breaking free of expectations is critical to play your best.**
 
@@ -285,8 +265,7 @@ you, but you might be surprised if you really knew how little other
 people are really thinking about you, much less cherishing your latest
 win or lamenting your recent loss.
 
-![A person playing tennis Description automatically
-generated](media_overcoming-negative-emotions/media/image10.webp)
+![A person playing tennis Description automatically generated](media_overcoming-negative-emotions/media/image10.webp)
 
 **Tape into your fighting spirit brings true satisfaction.**
 
@@ -315,9 +294,7 @@ negative thoughts others put on you, and those you put on yourself, you
 are likely to have the greatest results of your life. You just have to
 have the courage to let the chips fall where they may.
 
-![A tennis player hitting a ball Description automatically generated
-with low
-confidence](media_overcoming-negative-emotions/media/image11.jpeg)
+![A tennis player hitting a ball Description automatically generated with low confidence](media_overcoming-negative-emotions/media/image11.jpeg)
 
 The Best Tennis of Your Life
 
@@ -325,15 +302,13 @@ Learn how to play with freedom and win more matches! In his new book
 Jeff Greenwald, an elite international seniors player, coach, and
 psychotherapist, outlines 50 specific mental strategies to play the best
 tennis of your life. See how to embrace pressure, maintain confidence,
-and increase your focus and intensity. Jim Loehr calls Jeff's book: \"a
-real contribution to the field of applied sports psychology.\"\
+and increase your focus and intensity. Jim Loehr calls Jeff's book: "a
+real contribution to the field of applied sports psychology."\
 \
 [ to
 Order!](http://www.amazon.com/Best-Tennis-Your-Life-Performance/dp/1558708448/ref=pd_bbs_sr_1?ie=UTF8&s=books&qid=1200341206&sr=8-1)
 
-![A person smiling for the camera Description automatically generated
-with low
-confidence](media_overcoming-negative-emotions/media/image12.jpeg)
+![A person smiling for the camera Description automatically generated with low confidence](media_overcoming-negative-emotions/media/image12.jpeg)
 
 Jeff Greenwald, M.A., MFT is a nationally recognized sport psychology
 consultant. Jeff has worked as a consultant for the United States Tennis
@@ -342,8 +317,8 @@ game. As a player in the men's 35 and over age division he attained an
 ITF #1 world ranking, as well as the #1 ranking in men's singles and
 doubles in the United States.
 
-Greenwald is the author of [\"The Best Tennis of Your
-Life\"](http://www.amazon.com/Best-Tennis-Your-Life-Performance/dp/1558708448/ref=pd_bbs_sr_1?ie=UTF8&s=books&qid=1200341206&sr=8-1)
+Greenwald is the author of ["The Best Tennis of Your
+Life"](http://www.amazon.com/Best-Tennis-Your-Life-Performance/dp/1558708448/ref=pd_bbs_sr_1?ie=UTF8&s=books&qid=1200341206&sr=8-1)
 published by Betterway. [ to
 order.](http://www.amazon.com/Best-Tennis-Your-Life-Performance/dp/1558708448/ref=pd_bbs_sr_1?ie=UTF8&s=books&qid=1200341206&sr=8-1)
 Jeff has a private practice based in San Francisco and Marin County,

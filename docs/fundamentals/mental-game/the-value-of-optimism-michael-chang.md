@@ -2,11 +2,7 @@
 
 ### By Allen Fox, Ph.D.
 
-------------------------------------------------------------------------
-
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_the-value-of-optimism-michael-chang/media/image1.jpg)
+![A person playing tennis Description automatically generated with medium confidence](media_the-value-of-optimism-michael-chang/media/image1.jpg)
 
 **Michael Chang at age 17: precocious, fast, underpowered, optimistic.**
 
@@ -39,9 +35,7 @@ In the first article, we'll analyze Michael Chang's shocking win at
 the French Open over the top player in the world, Ivan Lendl, and how
 that win led to a Grand Slam title.
 
-![A person holding a trophy Description automatically generated with
-medium
-confidence](media_the-value-of-optimism-michael-chang/media/image2.jpg)
+![A person holding a trophy Description automatically generated with medium confidence](media_the-value-of-optimism-michael-chang/media/image2.jpg)
 
 **Chang's French title at age 17: one of the most improbable wins in
 tennis history.**
@@ -70,8 +64,7 @@ Seemingly, he did very well to win three matches and reach the round of
 in the world, three-time French champion, and the most impressive and
 formidable tennis machine of his day.
 
-![A person hitting a ball with a tennis racket Description automatically
-generated](media_the-value-of-optimism-michael-chang/media/image3.jpg)
+![A person hitting a ball with a tennis racket Description automatically generated](media_the-value-of-optimism-michael-chang/media/image3.jpg)
 
 **In the round of 16, Chang's opponent was the fearsome 3 time French
 champion, Ivan Lendl.**
@@ -89,7 +82,7 @@ Michael Chang.
 If you had asked Chang to bet on who was likely to win the match at this
 stage, he might have put money on Lendl. But if you asked him if he
 believed he had an actual chance to come back and win, he would have
-answered, \"Definitely.\"
+answered, "Definitely."
 
 The reality was that nobody was asking him to bet on the probabilities.
 Possibilities were what mattered to Chang.
@@ -110,9 +103,11 @@ Without his ability to run at full tilt, the under-gunned little
 scrambler seemed to be finished. What would be the use of fighting on
 with this apparently terminal disadvantage?
 
-![link](media_the-value-of-optimism-michael-chang/media/image4.png)
+![Video demonstration](media_the-value-of-optimism-michael-chang/media/image4.png)
 
- to see Chang's underhand serve that unnerved Ivan Lendl.
+*Video demonstration — the original video for this article was hosted on TennisPlayer.net.*
+
+to see Chang's underhand serve that unnerved Ivan Lendl.
 
 But again Chang was not being asked to risk money on an improbable bet.
 There was no downside for him in maintaining hope.
@@ -123,15 +118,15 @@ way that allowed him to compensate for his infirmity.
 Michael Chang after Lendl's double fault gave him the victory.
 
 First, he did everything he could think of to disrupt Lendl's rhythm.
-He slowed the match down by hitting \"moon balls\" and then surprised
+He slowed the match down by hitting "moon balls" and then surprised
 Lendl by going for sudden winners.
 
 He served a surprise underhand slice to bring Lendl forward and then
 passed him. These ploys so unnerved Lendl that his game began to
 unravel.
 
-Chang later explained, \"I was trying to break his concentration. I
-would've done anything to stay out there.\"
+Chang later explained, "I was trying to break his concentration. I
+would've done anything to stay out there."
 
 Anything to stay out there while suffering from severe cramps? Truly
 this was The power of hope in action.
@@ -156,8 +151,7 @@ This was basically a suicidal position unless Lendl hit a double fault.
 But the tactic worked. An enraged Lendl double faulted, handing Chang
 the most improbable victory in the history of the French Open.
 
-![A person holding a plaque Description automatically generated with low
-confidence](media_the-value-of-optimism-michael-chang/media/image5.jpg)
+![A person holding a plaque Description automatically generated with low confidence](media_the-value-of-optimism-michael-chang/media/image5.jpg)
 
 **Did one incredible match lead Michael Chang to the Hall of Fame?**
 
@@ -190,61 +184,92 @@ Read More From Allen!
 
 Visit him at [www.allenfoxtennis.net](http://www.allenfoxtennis.net)
 
- 
+![A picture containing text, newspaper Description automatically generated](media_the-value-of-optimism-michael-chang/media/image6.jpeg)
 
-| ![A picture containing text, newspaper Description automatically | Winning the Mental Match Dr. Allen Fox |
-| --- | --- |
-| generated](media_the-value-of-optimism-michael-chang/media/image6.jpeg) | Tennis is mentally the most difficult sport due to it's personal nature which makes winning and losing feel more |
-|  | important than they are. In this new book, Allen offers his proven solutions to problems such as choking, reducing |
-|  | stress, finishing matches, and developing confidence. Based on a life time of high level play and coaching success, |
-|  | it's a must for all competitive players. |
-|  |  |
-|  | [ to |
-|  | Order](http://www.amazon.com/Tennis-Winning-Mental-Allen-Fox/dp/0615407765/ref=sr_1_1?ie=UTF8&qid=1336083459&sr=8-1). |
+Winning the Mental Match Dr. Allen Fox
 
+Tennis is mentally the most difficult sport due to it's personal nature which makes winning and losing feel more
 
-| ![Text Description automatically | Winning may not be everything, but Dr. Allen Fox points out |
-| --- | --- |
-| generated](media_the-value-of-optimism-michael-chang/media/image7.jpeg) | eminently preferable to losing. In his new book, The |
-|  | Winner's Mind, Allen lays out an original step-by-step |
-|  | plan for succeeding at any of life's endeavors, based on |
-|  | his first hand and very personal observations of the |
-|  | careers of both world-class tennis players and successful |
-|  | businessman. The bottom line is that even if you are not a |
-|  | born champion\--and only a tiny percentage of us are\--you |
-|  | can still use the success strategies of champions to tilt |
-|  | the odds in your favor. Writing with brutal honesty and dry |
-|  | humor, Fox lays out the common mental characteristics of |
-|  | winners in sports and in life. He explains the critical |
-|  | role of intellect over emotion. He analyzes the struggle |
-|  | between ambition and fear and the insidious and pervasive |
-|  | fear of failure that undermines so many of us. He then |
-|  | outline how to confront and overcome these fears in your |
-|  | life and career, even when they are initially subconscious. |
-|  | Must reading from one of the great thinkers in tennis, and |
-|  | a Renaissance Man in life. [ to |
-|  | Order](http://www.tennis-warehouse.com/descpage-MIND.html). |
-|  |  |
-|  | To purchase this book you can also send a check for \$17.95 |
-|  | to Allen Fox, 1120 Inverness Place, San Luis Obispo, CA. |
-|  | 93401. The price includes shipping. |
+important than they are. In this new book, Allen offers his proven solutions to problems such as choking, reducing
 
+stress, finishing matches, and developing confidence. Based on a life time of high level play and coaching success,
 
-| ![A person holding a tennis racket Description automatically | Allen Fox PhD is a former world class player, a coach, |
-| --- | --- |
-| generated](media_the-value-of-optimism-michael-chang/media/image8.gif) | insightful analysts in modern tennis. A top 10 |
-|  | American player from the glory days before Open |
-|  | tennis, Fox played many of the legendary greats, among |
-|  | them Roy Emerson, Rod Laver, Stan Smith, and Arthur |
-|  | Ashe. At Pepperdine he developed the men's tennis |
-|  | program into an elite contender for national titles, |
-|  | and gave Brad Gilbert the insights that became the |
-|  | foundation for \"Winning Ugly\". His book Think to Win |
-|  | is a modern classic. He has also starred in a series |
-|  | of acclaimed videos, including Pro Secrets of Match |
-|  | Play and Allen Fox's Ultimate Tennis Lesson. |
-|  |  |
-|  |  |
+it's a must for all competitive players.
 
+[ to
 
-------------------------------------------------------------------------
+Order](http://www.amazon.com/Tennis-Winning-Mental-Allen-Fox/dp/0615407765/ref=sr_1_1?ie=UTF8&qid=1336083459&sr=8-1).
+
+![Text Description automatically generated](media_the-value-of-optimism-michael-chang/media/image7.jpeg)
+
+Winning may not be everything, but Dr. Allen Fox points out
+
+eminently preferable to losing. In his new book, The
+
+Winner's Mind, Allen lays out an original step-by-step
+
+plan for succeeding at any of life's endeavors, based on
+
+his first hand and very personal observations of the
+
+careers of both world-class tennis players and successful
+
+businessman. The bottom line is that even if you are not a
+
+born champion--and only a tiny percentage of us are--you
+
+can still use the success strategies of champions to tilt
+
+the odds in your favor. Writing with brutal honesty and dry
+
+humor, Fox lays out the common mental characteristics of
+
+winners in sports and in life. He explains the critical
+
+role of intellect over emotion. He analyzes the struggle
+
+between ambition and fear and the insidious and pervasive
+
+fear of failure that undermines so many of us. He then
+
+outline how to confront and overcome these fears in your
+
+life and career, even when they are initially subconscious.
+
+Must reading from one of the great thinkers in tennis, and
+
+a Renaissance Man in life. [ to
+
+Order](http://www.tennis-warehouse.com/descpage-MIND.html).
+
+To purchase this book you can also send a check for $17.95
+
+to Allen Fox, 1120 Inverness Place, San Luis Obispo, CA.
+
+93401. The price includes shipping.
+
+![A person holding a tennis racket Description automatically generated](media_the-value-of-optimism-michael-chang/media/image8.gif)
+
+Allen Fox PhD is a former world class player, a coach,
+
+insightful analysts in modern tennis. A top 10
+
+American player from the glory days before Open
+
+tennis, Fox played many of the legendary greats, among
+
+them Roy Emerson, Rod Laver, Stan Smith, and Arthur
+
+Ashe. At Pepperdine he developed the men's tennis
+
+program into an elite contender for national titles,
+
+and gave Brad Gilbert the insights that became the
+
+foundation for "Winning Ugly". His book Think to Win
+
+is a modern classic. He has also starred in a series
+
+of acclaimed videos, including Pro Secrets of Match
+
+Play and Allen Fox's Ultimate Tennis Lesson.

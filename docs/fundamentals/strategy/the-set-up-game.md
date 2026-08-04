@@ -2,17 +2,13 @@
 
 ### Brad Gilbert
 
-------------------------------------------------------------------------
-
-![A picture containing tennis, sport, grass, athletic game Description
-automatically
-generated](media_the-set-up-game/media/image1.jpg)
+![A picture containing tennis, sport, grass, athletic game Description automatically generated](media_the-set-up-game/media/image1.jpg)
 
 **What role did the Set up Game play in Andre Agassi's 1992 Wimbledon
 win?**
 
 In my first article for Tennisplayer, we looked at what I call the
-\"Set-up Point.\" Basically a Set-up Point is any point that can move
+"Set-up Point." Basically a Set-up Point is any point that can move
 you to within one point of winning a game. ([link](The%20Set-up%20Point.docx).)
 
 Now in this second article, let's look at an equally important and
@@ -35,17 +31,15 @@ knowing if they don't hold serve they lose the set or match. Knowing
 that they have to hold serve or lose is significant pressure for most
 recreational players.
 
-![A person holding a basketball Description automatically generated with
-low
-confidence](media_the-set-up-game/media/image2.jpg)
+![A person holding a basketball Description automatically generated with low confidence](media_the-set-up-game/media/image2.jpg)
 
 **After Agassi won the set up game, Goran couldn't hold to save the
 match.**
 
 Andre understood fully the dynamics of wining the Set-up Game when he
-was serving at 4-4 in the fifth. Agassi said later that he \"wanted to
+was serving at 4-4 in the fifth. Agassi said later that he "wanted to
 hang in long enough to make Goran thinking about it, to serve to save
-the match.\"
+the match."
 
 He knew what enormous pressure would then fall on Ivanisevic's
 shoulders (and elbow). Andre played a very effective and solid Set-up
@@ -67,8 +61,7 @@ Pressure? Even though he had over two-hundred acres in the tournament
 and thirty-seven aces up to that point in the match, he began that
 service game with four consecutive faults!
 
-![A person holding a trophy Description automatically
-generated](media_the-set-up-game/media/image3.jpg)
+![A person holding a trophy Description automatically generated](media_the-set-up-game/media/image3.jpg)
 
 **A wise professor with bleached hair and a Wimbledon trophy.**
 
@@ -80,20 +73,19 @@ That's the pressure of knowing you have to hold serve or lose the
 match. And that's the kind of pressure you can put on your opponent by
 winning a Set-up Game.
 
-Goran told the press later, \"For the first time all match I was
+Goran told the press later, "For the first time all match I was
 thinking in the air. Instead of thinking about my plan before I tossed
-the ball I started thinking when the ball was in the air.\" Pressure did
+the ball I started thinking when the ball was in the air." Pressure did
 it and it was the pressure created when Agassi won the Set-up Game.
 
 When a Set-up Game arrives (especially at 4-all or 5-all) a flashing red
-light should go off in your head and signal: \"Pay attention. The stakes
-have been raised. Don't be casual. Stay alert. Opportunity beckons.\"
+light should go off in your head and signal: "Pay attention. The stakes
+have been raised. Don't be casual. Stay alert. Opportunity beckons."
 
 Your concentration level should notch up considerably. Every point here
 is a big point. Every point helps or hurts a lot more.
 
-![A person holding a tennis racket Description automatically
-generated](media_the-set-up-game/media/image4.jpg)
+![A person holding a tennis racket Description automatically generated](media_the-set-up-game/media/image4.jpg)
 
 **Bill Tilden said the seventh game was critical, but was he right?**
 
@@ -105,7 +97,7 @@ moves one player to within four points (one game) of the set. This it
 can do at 4-2 or 2-4.
 
 But it doesn't have nearly that importance at 3-3 at the club level.
-The \"critical\" game of the set for me is the Set-up Game, which moves
+The "critical" game of the set for me is the Set-up Game, which moves
 one player to within striking distance of winning the set.
 
 **Play Like A Boa Constrictor**
@@ -123,8 +115,7 @@ Suffocation. Nothing flashy here. Just constant steady pressure. And
 that's my approach on the Set-up Games where winning moves one player
 to within four points of the set (or match).
 
-![A person holding a snake Description automatically
-generated](media_the-set-up-game/media/image5.jpg)
+![A person holding a snake Description automatically generated](media_the-set-up-game/media/image5.jpg)
 
 **Every time the victim exhales, the boa tightens slightly.**
 
@@ -145,8 +136,7 @@ the potential in these situations will often have to do no more than get
 the ball over the net. The opponent will give up the points because of
 sloppy play and sloppy thinking.
 
-![A person speaking into a microphone Description automatically
-generated](media_the-set-up-game/media/image6.jpeg)
+![A person speaking into a microphone Description automatically generated](media_the-set-up-game/media/image6.jpeg)
 
 Brad Gilbert is widely recognized as one of the top coaching minds, as
 well as one of the most direct and insightful television commentators in
@@ -158,9 +148,7 @@ over legendary champions including Boris Becker and John McEnroe and won
 tennis pro shops in the country for the true enthusiast, located in San
 Rafael, California.
 
-![A picture containing text, person, person, player Description
-automatically
-generated](media_the-set-up-game/media/image7.jpeg)
+![A picture containing text, person, person, player Description automatically generated](media_the-set-up-game/media/image7.jpeg)
 
 **Brad Gilbert: Winning Ugly**
 
@@ -175,5 +163,3 @@ the second print edition with a new forward by Andy Murray.
 
 [ to
 Order!](https://www.amazon.com/Winning-Ugly-Brad-Gilbert/dp/1847390579/ref=sr_1_2?ie=UTF8&qid=1372444229&sr=8-2&keywords=winning+ugly+new+edition)
-
-------------------------------------------------------------------------

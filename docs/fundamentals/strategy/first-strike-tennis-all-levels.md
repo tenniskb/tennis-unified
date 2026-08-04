@@ -2,11 +2,7 @@
 
 ### Craig O'Shannessy
 
-------------------------------------------------------------------------
-
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_first-strike-tennis-all-levels/media/image1.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_first-strike-tennis-all-levels/media/image1.webp)
 
 **Do high school players play mainly long, tortuous points?**
 
@@ -38,8 +34,7 @@ established that the four hit battle was critical in high school
 matches, and the winner of the 4 hit (and shorter) points invariably won
 the match as well.
 
-![A picture containing outdoor, person, person Description automatically
-generated](media_first-strike-tennis-all-levels/media/image2.jpg)
+![A picture containing outdoor, person, person Description automatically generated](media_first-strike-tennis-all-levels/media/image2.jpg)
 
 **What did Craig (left) learn from championship high school coach
 Styrling Struther (right)?**
@@ -66,9 +61,7 @@ length in high school tennis was between 2 and 3 hits. Correct! Between
 He found that for his boys' teams the average rally length was 2 hits
 to 2.5 hits, varying slightly from the top to the bottom of the lineup.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_first-strike-tennis-all-levels/media/image3.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_first-strike-tennis-all-levels/media/image3.webp)
 
 **High school matches are decided by the same 1 to 4 shot points as pro
 matches.**
@@ -94,11 +87,10 @@ That made the average rally length just shy of 2.5 hits.
 
 At coaching conventions when I present data on the pro tour showing that
 the average pro rally is between 3 or 4 hits, I often get push back from
-coaches saying something like \"that's fascinating, but I coach kids
-and the rally lengths in junior tennis are completely different.\"
+coaches saying something like "that's fascinating, but I coach kids
+and the rally lengths in junior tennis are completely different."
 
-![A person playing tennis Description automatically generated with low
-confidence](media_first-strike-tennis-all-levels/media/image4.webp)
+![A person playing tennis Description automatically generated with low confidence](media_first-strike-tennis-all-levels/media/image4.webp)
 
 **So how important is the return in high school tennis?**
 
@@ -138,32 +130,36 @@ organize a practice session:
 Enjoying this series? Stay tuned for yet another critical insight from
 our research data---the relationship between winners and errors.
 
-![link](media_first-strike-tennis-all-levels/media/image5.png)
 
-| ![A person smiling for the camera Description automatically generated with low | Craig O'Shannessy is widely recognized as |
-| --- | --- |
-| confidence](media_first-strike-tennis-all-levels/media/image6.jpg) | statistics, tennis strategy, and applying |
-|  | his insights in coaching. His research has |
-|  | uncovered the real magic numbers in winning |
-|  | tennis across all levels of the game. He |
-|  | writes for the ATP Tour website and the New |
-|  | York Times among others elite publications. |
-|  |  |
-|  | He has coached on the tour for 20 years |
-|  | working with players including Kevin |
-|  | Anderson, Amer Delic, and Rajeev Ram. His |
-|  | website Brain Game Tennis offers detailed |
-|  | analysis and training programs based on his |
-|  | research that have helped thousands of |
-|  | players around the world. |
+![A person smiling for the camera Description automatically generated with low confidence](media_first-strike-tennis-all-levels/media/image6.jpg)
 
+Craig O'Shannessy is widely recognized as
 
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![Diagram Description automatically generated with medium                                                                                                                      [Click
-  confidence](media_first-strike-tennis-all-levels/media/image7.jpg)                                                                                                                                                 to visit Craig's site and check out his
-                                                                                                                                                                                 amazing training products!
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ ----------------------------------------
+statistics, tennis strategy, and applying
 
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+his insights in coaching. His research has
 
-------------------------------------------------------------------------
+uncovered the real magic numbers in winning
+
+tennis across all levels of the game. He
+
+writes for the ATP Tour website and the New
+
+York Times among others elite publications.
+
+He has coached on the tour for 20 years
+
+working with players including Kevin
+
+Anderson, Amer Delic, and Rajeev Ram. His
+
+website Brain Game Tennis offers detailed
+
+analysis and training programs based on his
+
+research that have helped thousands of
+
+players around the world.
+
+![Diagram Description automatically generated with medium                                                                                                                      [Click confidence](media_first-strike-tennis-all-levels/media/image7.jpg)                                                                                                                                                 to visit Craig's site and check out his
+amazing training products!

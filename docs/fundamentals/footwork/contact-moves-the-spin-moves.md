@@ -8,9 +8,7 @@ their feet. They are the Step Down ([link](Contact%20Moves%20-%20The%20Step%20Do
 ([link](Contact%20Moves%20-%20The%20Transfer.docx)), and the Front
 Foot Hop ([link](Contact%20Moves%20-%20The%20Front%20Foot%20Hop.docx).)
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_contact-moves-the-spin-moves/media/image1.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_contact-moves-the-spin-moves/media/image1.webp)
 
 **Can you recognize the 3 types of Spin Moves?**
 
@@ -35,8 +33,7 @@ recognize them allows us to make sense of the incredible variations in
 movement in the pro game, as well as evaluate how players move at all
 other levels.
 
-![A person hitting a ball with a tennis racket Description automatically
-generated](media_contact-moves-the-spin-moves/media/image2.webp)
+![A person hitting a ball with a tennis racket Description automatically generated](media_contact-moves-the-spin-moves/media/image2.webp)
 
 **The toes of the outside foot point in the shot direction after the
 landing.**
@@ -57,16 +54,14 @@ There are 3 spin move variations that players use depending on the type
 of ball they are facing. These are the Low Spin, the High Spin, and the
 Reverse Spin.
 
-All are all hit from either a semi-open or open stance. **[[As the
+All are all hit from either a semi-open or open stance. **[As the
 players hit, their bodies become elevated and the torso and feet spin in
 the air.] [The landing varies with the type of spin move and the
 shot selection. The recovery steps pattern can be either shuffle steps,
 or a cross step followed by shuffle steps, depending on the ball and the
-court position.]]**
+court position.]**
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_contact-moves-the-spin-moves/media/image3.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_contact-moves-the-spin-moves/media/image3.webp)
 
 **Low Spin: the hips and legs spin after contact with the landing on the
 outside foot.**
@@ -107,9 +102,7 @@ straight ahead.** **If the ball is hit
 crosscourt, then the outside foot rotates further so that the toes point
 back at an angle in the direction of the shot.**
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_contact-moves-the-spin-moves/media/image4.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_contact-moves-the-spin-moves/media/image4.webp)
 
 **The inside knee comes up, the contact is higher, and the landing is on
 the outside foot.**
@@ -118,9 +111,8 @@ the outside foot.**
 
 **The High Spin move is similar to the Low Spin but is usually employed
 from [somewhat further back in the court and [on higher
-bouncing]]**, **[[more heavily spun balls.]
-[The contact height is usually higher, around chest level or
-above.]]**
+bouncing]]**, **[more heavily spun balls.] [The contact height is usually higher, around chest level or
+above.]**
 
 **As with the Low Spin, the objective in hitting the High Spin variation
 is [to not lose your position on the baseline and stay even in the
@@ -128,10 +120,9 @@ rally], or [even counterattack.]**
 
 **To hit a High Spin, the player again sets up behind the ball in an
 open stance or semi open stance with two thirds of the weight on the
-outside foot.** **[[As the player swings up to the
-ball, watch how the opposite leg elevates and bends at the knee.]
-[This upward leg action helps the player come up higher off the court to
-control the contact height.]]** **This is the
+outside foot.** **[As the player swings up to the
+ball, watch how the opposite leg elevates and bends at the knee.] [This upward leg action helps the player come up higher off the court to
+control the contact height.]** **This is the
 difference compared to the low Spin in which the player stays lower with
 both legs and has a lower contact point.**
 
@@ -141,8 +132,7 @@ upright posture and lands first on the outside foot.] [As with
 the Low Spin, the toes of the outside foot usually point in the
 direction of the shot.]]**
 
-![A person playing tennis Description automatically
-generated](media_contact-moves-the-spin-moves/media/image5.webp)
+![A person playing tennis Description automatically generated](media_contact-moves-the-spin-moves/media/image5.webp)
 
 **Reverse Spin: The front toes rotate towards one side fence with the
 sole of the rear shoe pointing to the other.**
@@ -173,7 +163,9 @@ moving back toward the baseline.**
 So that's it for the Spin Moves. Stay tuned next for the Two Foot
 Pivot!
 
-![link](media_contact-moves-the-spin-moves/media/image6.jpeg)
+![Video demonstration](media_contact-moves-the-spin-moves/media/image6.jpeg)
+
+*Video demonstration — the original video for this article was hosted on TennisPlayer.net.*
 
 David Bailey is a native Australian who has spent 15 years studying
 tennis at the professional level. He has developed a new language for

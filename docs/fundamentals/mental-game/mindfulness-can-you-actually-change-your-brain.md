@@ -4,11 +4,7 @@
 
 ### Jeff Greenwald
 
-------------------------------------------------------------------------
-
-![A picture containing player, outdoor, grass, court Description
-automatically
-generated](media_mindfulness-can-you-actually-change-your-brain/media/image1.webp)
+![A picture containing player, outdoor, grass, court Description automatically generated](media_mindfulness-can-you-actually-change-your-brain/media/image1.webp)
 
 **What goes on in the brain of Rafael Nadal anyway?**
 
@@ -30,7 +26,7 @@ but struggle through the majority of our competitive experience dealing
 with feelings of fear and uncertainty, at least at some level.
 
 Now research on the brain suggests a completely different solution,
-through an ancient technique called \"mindfulness.\" Rather than
+through an ancient technique called "mindfulness." Rather than
 completely eliminating negative feelings, mindfulness training can help
 you escape their effect by changing how you focus and increasing
 productive action within your brain.
@@ -38,27 +34,22 @@ productive action within your brain.
 The research shows that you can literally change the way your mind works
 and in this way make fundamental changes in your mental game. The most
 exciting aspect is that these changes can become permanent - by actually
-rewiring how your brain responds in certain situations\--and this can
+rewiring how your brain responds in certain situations--and this can
 transform who you are as player.
 
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                                       ![A picture containing text Description automatically
-   generated](media_mindfulness-can-you-actually-change-your-brain/media/image2.jpg)
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                           **Mindfulness has its roots in ancient traditions such as Tibetan Buddhism.**
+![A picture containing text Description automatically generated](media_mindfulness-can-you-actually-change-your-brain/media/image2.jpg)
+**Mindfulness has its roots in ancient traditions such as Tibetan Buddhism.**
 
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-\"Mindfulness\" can be defined as a deep focus in the present moment. It
+"Mindfulness" can be defined as a deep focus in the present moment. It
 is the act of doing just one thing with our attention completely
 absorbed in an activity without judgment. Mindful breathing is the most
 basic technique within this practice, consisting of prolonging our
 attention to our breath.
 
-The concept of course is not new. The concept of \"mindfulness\" comes
+The concept of course is not new. The concept of "mindfulness" comes
 from the East and has its roots in a variety of disciplines - namely
 Tibetan Buddhism, Vipassana, and Zen. Mindfulness works by strengthening
-the \"focus\" muscle in the brain - known as the pre-frontal cortex.
+the "focus" muscle in the brain - known as the pre-frontal cortex.
 
 What researchers are finding is that by consciously shifting our
 attention through mindfulness we can balance the left and right
@@ -73,13 +64,8 @@ The point is that through the practice of mindfulness we can not only
 create a new, balanced mind state in the moment, but also alter the way
 our brain looks and functions over time.
 
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                             ![A close-up of a human brain Description automatically generated with low
-   confidence](media_mindfulness-can-you-actually-change-your-brain/media/image3.gif)
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                                   **The goal is balance between the left and right hemispheres.**
-
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A close-up of a human brain Description automatically generated with low confidence](media_mindfulness-can-you-actually-change-your-brain/media/image3.gif)
+**The goal is balance between the left and right hemispheres.**
 
 One of the most interesting implications of this research has to do with
 how we deal with anxiety. It's generally assumed that the goal is to
@@ -101,14 +87,12 @@ brain can quickly assess what shot to hit next or how to clean up your
 big backswing on your return, leaving more time, for example, to orient
 yourself to your opponent's toss or position when returning.
 
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-   ![link](media_mindfulness-can-you-actually-change-your-brain/media/image4.jpg)
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                             **Mindfulness trains the prefrontal cortex, the \"focus muscle.\"**
+![Video demonstration](media_mindfulness-can-you-actually-change-your-brain/media/image4.jpg)
 
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+*Video demonstration — the original video for this article was hosted on TennisPlayer.net.*
+**Mindfulness trains the prefrontal cortex, the "focus muscle."**
 
-This seamless focus on what is \"relevant\" in the moment has huge
+This seamless focus on what is "relevant" in the moment has huge
 performance benefits. If you find your mind drifting off the court
 during matches, or have a difficult time functioning when you hear the
 voice of your inner critic, a shift in focus may be all you need to help
@@ -124,7 +108,7 @@ reduce deeply ingrained mental habits - namely losing focus under
 pressure appears to be revolutionary.
 
 I've long known the value of preparing mentally for matches with
-imagery and music, and the importance of managing our \"monkey\" mind in
+imagery and music, and the importance of managing our "monkey" mind in
 matches. Over the years, I've helped many players quell their critical
 voice, play more aggressively even though their brain tells them to play
 it safe, and shift their focus on demand. But, what nobody has fully
@@ -132,9 +116,7 @@ known, and what is now emerging, is that a practice of mindful
 meditation and conscious attentional shifting can actually change the
 way our brain is wired in a way that can transform you as a player.
 
-![A picture containing outdoor, sport, athletic game, hitting
-Description automatically
-generated](media_mindfulness-can-you-actually-change-your-brain/media/image5.webp)
+![A picture containing outdoor, sport, athletic game, hitting Description automatically generated](media_mindfulness-can-you-actually-change-your-brain/media/image5.webp)
 
 **Does he love the fight more than the win?**
 
@@ -146,11 +128,11 @@ imagine what Rafa's brain chemistry looks like?
 
 Take a recent comment Nadal made after his recent win over Federer in
 the Australian Open. When asked by reporters about the match he said,
-\"Maybe I like the fight more than the win.\"
+"Maybe I like the fight more than the win."
 
 Let's consider Nadal's statement from a neural wiring perspective as
 it relates to focused attention. If Nadal's focus is truly on the
-\"battle\" rather than the result as he claims - which I firmly believe
+"battle" rather than the result as he claims - which I firmly believe
 it is - than it is likely that he is spending little to no mental effort
 trying to manage negative thoughts, negative memories or worries about
 what could happen. He is so engaged in the present moment, focused on
@@ -161,13 +143,8 @@ thoughts may flash through his brain from time to time as they do with
 all players. The difference is Nadal is so focused that he doesn't
 engage them.
 
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                          ![A picture containing person, tennis, racket, player Description automatically
-   generated](media_mindfulness-can-you-actually-change-your-brain/media/image6.jpg)
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                                            Balanced focus in the face of Rafael Nadal.
-
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A picture containing person, tennis, racket, player Description automatically generated](media_mindfulness-can-you-actually-change-your-brain/media/image6.jpg)
+Balanced focus in the face of Rafael Nadal.
 
 If you look closely at Nadal's face when he is competing, particularly
 his brow, he has a look of that almost appears as consternation. This
@@ -180,7 +157,7 @@ percentage execution of the most difficult shots at the most critical
 moments.
 
 **But let's take this one step further. Every time Nadal acts on this
-pattern with a mentality of \"fight for every point, give up nothing\",
+pattern with a mentality of "fight for every point, give up nothing",
 he actually deepens the connection of this particular neural network for
 use in the future. For example, when he chooses to hit a deep backhand
 crosscourt winner that makes our jaw drop open again, the brain
@@ -192,18 +169,16 @@ and execution.**
 Let's look at another example, but this time not Rafa, but you. You're
 leading 5-4 in the first set ad-out, set point, and as you crouch down
 to return serve your brain flips through the rolodex of possible shots
-that you could use to win the set. You think, \"Should I block it back?
+that you could use to win the set. You think, "Should I block it back?
 Should I step in and take the offense right away? I missed my forehand
 long the last time I really went for it. Maybe I'll just put it in
-play.\" In the meantime, simply because you are spending too much time
+play." In the meantime, simply because you are spending too much time
 processing the situation, your body tightens up just a little bit. You
 decide to put it back in play and hope for the best. To your chagrin,
 your opponent, realizing that she has to win the point, takes your short
 blocked ball and hits a winner crosscourt.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_mindfulness-can-you-actually-change-your-brain/media/image7.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_mindfulness-can-you-actually-change-your-brain/media/image7.webp)
 
 **With balanced focus players process input faster with less effort.**
 
@@ -215,20 +190,15 @@ faster. A study done recently found that verbal facility and problem
 solving actually improve in elite athletes. Scientists Fink and Neubauer
 describe it like this:
 
-\"Like the expert meditator, the expert athlete, has developed the
+"Like the expert meditator, the expert athlete, has developed the
 ability to do more with less. By directing attentional resources more
 consistently and with less possibility of engaging the attention in
 surrounding cognitive noise, the elite athlete maintains full, or even
 heightened, awareness of his or her context while simultaneously
-engaging in sustained on-task attention.\"
+engaging in sustained on-task attention."
 
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                              ![A person playing tennis Description automatically generated with medium
-   confidence](media_mindfulness-can-you-actually-change-your-brain/media/image8.jpg)
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                                         **Pete Sampras: clutch serving even with anxiety.**
-
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person playing tennis Description automatically generated with medium confidence](media_mindfulness-can-you-actually-change-your-brain/media/image8.jpg)
+**Pete Sampras: clutch serving even with anxiety.**
 
 **Improving Focus**
 
@@ -237,10 +207,10 @@ through a disciplined focusing exercise, such as focused breathing.
 
 It's well known that elite athletes in any sport relish pressure. They
 have learned to embrace their nerves and when they feel anxious they
-immediately think something like, \"Yes, it's show time.\" When Pete
+immediately think something like, "Yes, it's show time." When Pete
 Sampras was asked about what he missed most in the game he responded,
-\"I miss throwing up in the locker room before the finals at
-Wimbledon.\" Elite athletes love these moments and don't let their
+"I miss throwing up in the locker room before the finals at
+Wimbledon." Elite athletes love these moments and don't let their
 nerves get in the way. The key point is that they have figured out that
 it is not the nerves that will determine their success but, rather,
 being able to maintain their focus in the moment and committing to the
@@ -254,13 +224,8 @@ physiological measures: Heart rates of the successful golfers increased
 as much as those of golfers who failed to make their
 putts.**
 
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                       ![A picture containing grass, outdoor, field, athletic game Description automatically
-   generated](media_mindfulness-can-you-actually-change-your-brain/media/image9.jpg)
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                                **Reduced left side brain activity correlated with better putting.**
-
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A picture containing grass, outdoor, field, athletic game Description automatically generated](media_mindfulness-can-you-actually-change-your-brain/media/image9.jpg)
+**Reduced left side brain activity correlated with better putting.**
 
 The difference, however, was that left side brain activity was reduced
 in the top performers, suggesting they were able to divert mental
@@ -288,13 +253,8 @@ so far, it seems, the quicker the better. This information is extremely
 important because it can help us begin to use our psychological
 resources more effectively.
 
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                                        ![A picture containing text Description automatically
-   generated](media_mindfulness-can-you-actually-change-your-brain/media/image10.jpg)
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                                  **The Amygdala: the fear center lurking deep within the brain.**
-
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A picture containing text Description automatically generated](media_mindfulness-can-you-actually-change-your-brain/media/image10.jpg)
+**The Amygdala: the fear center lurking deep within the brain.**
 
 **Mental Brushfire**
 
@@ -312,21 +272,20 @@ there is an extreme example of this. A player who actually equated a
 first round loss with the possibility of being out on the street one day
 in his life away from tennis.
 
-The mental kindling went like this: \"What if my ranking drops? What if
+The mental kindling went like this: "What if my ranking drops? What if
 I don't get a scholarship after all this time? Then I'll have to go to
 a weak school. This will surely affect my chance of getting a good job.
 If I don't get the right job maybe my whole career will take the wrong
 track. Maybe I'll even be on the street one day. I have to win this
-match!\"
+match!"
 
-![A person holding a tennis racket Description automatically
-generated](media_mindfulness-can-you-actually-change-your-brain/media/image11.webp)
+![A person holding a tennis racket Description automatically generated](media_mindfulness-can-you-actually-change-your-brain/media/image11.webp)
 
 **Learn to put out the brushfire with your breathing.**
 
 While I know this may sound far-fetched to you, this is the kind of
 pressure he was placing on himself to win and improve his ranking. This
-kind of thinking is called the \"brushfire fallacy,\" in which one
+kind of thinking is called the "brushfire fallacy," in which one
 negative thought leads to another and another. Again we can directly
 relate this to activity to one section of the brain, the amygdala or the
 fear center . In this case the fear center was overly activated, which
@@ -338,27 +297,25 @@ So what did I do to help him shift this destructive thinking pattern? I
 had him interrupt this process with a deep breath as soon as he noticed
 the thoughts circulating in his head. He understood this was critical to
 stop the brushfire and give other brain synapses a chance to fire. He
-learned to focus on his breathing daily to practice \"catching\" these
+learned to focus on his breathing daily to practice "catching" these
 thoughts and become more aware of his tendency to focus on things not
 working out.
 
 I also taught him to pull up pictures of himself playing loosely and
 confidently and hitting his favorite shots - which were in direct
 conflict with the actions he was choosing previously. I explained to him
-that we needed to create new mental \"grooves.\" This is an important
+that we needed to create new mental "grooves." This is an important
 distinction because I believe spending too much talking about fears -
 beyond a certain point - can often deepen the emotion connected to the
 irrational thoughts.
 
 By increasing his awareness of his negative thinking style, particularly
-the tendency to \"brushfire\", interrupting these negative thoughts, and
+the tendency to "brushfire", interrupting these negative thoughts, and
 replacing them with new pictures his concentration improved. And, to his
 great satisfaction and relief, he did earn that college scholarship to a
 division I school.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_mindfulness-can-you-actually-change-your-brain/media/image12.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_mindfulness-can-you-actually-change-your-brain/media/image12.webp)
 
 **Develop images of relaxed hitting in your own mind.**
 
@@ -389,13 +346,8 @@ throughout the day. I do yoga once a week. I also practice trying to pay
 attention to one thing at a time. This is what mindfulness is all about.
 It is not an either or proposition.
 
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                            ![A person sitting on a rock Description automatically generated with medium
-   confidence](media_mindfulness-can-you-actually-change-your-brain/media/image13.jpg)
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                                        **Not everyone can meditate on the beach at sunset.**
-
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person sitting on a rock Description automatically generated with medium confidence](media_mindfulness-can-you-actually-change-your-brain/media/image13.jpg)
+**Not everyone can meditate on the beach at sunset.**
 
 I tell you this because I believe there are significant benefits even if
 you don't practice mindfulness breathing 20-30 minutes every day, which
@@ -414,7 +366,9 @@ ensure that you are taking the deep, relaxing breath necessary to create
 the doorway to finding your true and ability and to be able to focus and
 refocus as necessary.
 
-![link](media_mindfulness-can-you-actually-change-your-brain/media/image14.png)
+![Video demonstration](media_mindfulness-can-you-actually-change-your-brain/media/image14.png)
+
+*Video demonstration — the original video for this article was hosted on TennisPlayer.net.*
 
 ** to see Jeff demonstrate\
 relaxed breathing.**
@@ -442,8 +396,7 @@ ball a set number of times, which is comfortable for you and the serve.
 Keep this routine consistent and practice it regularly so it's
 automatic.
 
-![A person holding a tennis racket Description automatically
-generated](media_mindfulness-can-you-actually-change-your-brain/media/image15.webp)
+![A person holding a tennis racket Description automatically generated](media_mindfulness-can-you-actually-change-your-brain/media/image15.webp)
 
 **The serving progression: Breath, Placement, Relaxed Arm.**
 
@@ -459,7 +412,7 @@ strengthen our mind and generate new firing patterns in our brain.
 **As we shift our attention to the moment at hand, we increase the
 likelihood that we will play the game of tennis on our own terms. No
 longer do we need to be victims of random thoughts or physical
-sensations that shoot through our body. We can create a \"pause\" button
+sensations that shoot through our body. We can create a "pause" button
 that redirects our chain of thoughts to a new network that holds the key
 to our greatest potential and joy.** As I always
 say, we aren't taking any of these trophies with us. But I believe we
@@ -467,9 +420,7 @@ can lay our rackets down one day knowing that we responded to pressure
 without being held hostage to a mind that was designed largely for
 solving problems, not hitting a tennis ball.
 
-![A tennis player hitting a ball Description automatically generated
-with low
-confidence](media_mindfulness-can-you-actually-change-your-brain/media/image16.jpeg)
+![A tennis player hitting a ball Description automatically generated with low confidence](media_mindfulness-can-you-actually-change-your-brain/media/image16.jpeg)
 
 The Best Tennis of Your Life
 
@@ -477,15 +428,13 @@ Learn how to play with freedom and win more matches! In his new book
 Jeff Greenwald, an elite international seniors player, coach, and
 psychotherapist, outlines 50 specific mental strategies to play the best
 tennis of your life. See how to embrace pressure, maintain confidence,
-and increase your focus and intensity. Jim Loehr calls Jeff's book: \"a
-real contribution to the field of applied sports psychology.\"\
+and increase your focus and intensity. Jim Loehr calls Jeff's book: "a
+real contribution to the field of applied sports psychology."\
 \
 [ to
 Order!](http://www.amazon.com/Best-Tennis-Your-Life-Performance/dp/1558708448/ref=pd_bbs_sr_1?ie=UTF8&s=books&qid=1200341206&sr=8-1)
 
-![A person smiling for the camera Description automatically generated
-with low
-confidence](media_mindfulness-can-you-actually-change-your-brain/media/image17.jpeg)
+![A person smiling for the camera Description automatically generated with low confidence](media_mindfulness-can-you-actually-change-your-brain/media/image17.jpeg)
 
 Jeff Greenwald, M.A., MFT is a nationally recognized sport psychology
 consultant. Jeff has worked as a consultant for the United States Tennis
@@ -494,8 +443,8 @@ game. As a player in the men's 35 and over age division he attained an
 ITF #1 world ranking, as well as the #1 ranking in men's singles and
 doubles in the United States.
 
-Greenwald is the author of [\"The Best Tennis of Your
-Life\"](http://www.amazon.com/Best-Tennis-Your-Life-Performance/dp/1558708448/ref=pd_bbs_sr_1?ie=UTF8&s=books&qid=1200341206&sr=8-1)
+Greenwald is the author of ["The Best Tennis of Your
+Life"](http://www.amazon.com/Best-Tennis-Your-Life-Performance/dp/1558708448/ref=pd_bbs_sr_1?ie=UTF8&s=books&qid=1200341206&sr=8-1)
 published by Betterway. [ to
 order.](http://www.amazon.com/Best-Tennis-Your-Life-Performance/dp/1558708448/ref=pd_bbs_sr_1?ie=UTF8&s=books&qid=1200341206&sr=8-1)
 Jeff has a private practice based in San Francisco and Marin County,

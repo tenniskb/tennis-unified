@@ -2,9 +2,9 @@
 
 ### Frank Giampaolo
 
-------------------------------------------------------------------------
+![Video demonstration](media_match-preparation/media/image1.jpg)
 
-![link](media_match-preparation/media/image1.jpg)
+*Video demonstration — the original video for this article was hosted on TennisPlayer.net.*
 
 **Proper match preparation is a key to becoming a tennis warrior.**
 
@@ -32,8 +32,7 @@ of readiness and transform from a normal person into a tennis warrior.
 It focuses on three critical areas of preparation: pre match
 visualization, opponent scouting, and pre match physical preparation.
 
-![A picture containing person, person, indoor Description automatically
-generated](media_match-preparation/media/image2.jpg)
+![A picture containing person, person, indoor Description automatically generated](media_match-preparation/media/image2.jpg)
 
 **What are the internal processes to create your own game face?**
 
@@ -58,12 +57,11 @@ takes several deep, relaxing breaths. He then creates a vivid mental
 image of numerous tasks being performed successfully.
 
 This enhances the player's mental awareness and builds his confidence.
-The player should mentally rerun the \"movie\" several times to
+The player should mentally rerun the "movie" several times to
 reinforce the thoughts. This visual experience actually trains a player
 to perform the skills imagined.
 
-![A person playing tennis Description automatically
-generated](media_match-preparation/media/image3.webp)
+![A person playing tennis Description automatically generated](media_match-preparation/media/image3.webp)
 
 **Perfectly executed strokes are one area for pre-match visualization.**
 
@@ -97,9 +95,7 @@ an opponent's preferred strike zones). Primary style of play. Preferred
 serve and return patterns, especially on mega points. Dominant
 short-ball options.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_match-preparation/media/image4.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_match-preparation/media/image4.webp)
 
 **Opponent profiling should include style of play.**
 
@@ -126,9 +122,9 @@ lower body.
 
 **Prematch Warm-Up Rituals**
 
-Sam Sumyk, coach of Victoria Azarenka, says, \"Vika's prematch routine
+Sam Sumyk, coach of Victoria Azarenka, says, "Vika's prematch routine
 consistently includes a 45-minute stretching ritual followed by a
-45-minute hitting routine.\"
+45-minute hitting routine."
 
 While the pros have more of an opportunity to indulge their prematch
 routines, players who routinely warm up both their primary and secondary
@@ -147,8 +143,7 @@ are caught thinking, I don't remember the last time I hit one of these.
 
 **Calming Prematch Run**
 
-![A person playing tennis Description automatically
-generated](media_match-preparation/media/image5.webp)
+![A person playing tennis Description automatically generated](media_match-preparation/media/image5.webp)
 
 As match time draws near, players often experience a wave of
 apprehension and nervousness. This fear triggers an overflow of
@@ -167,4 +162,3 @@ The prematch run or runs should be customized based on the player's
 fitness level and emotional stability, as well as the amount of time
 available. If a player is not the overly nervous type, she may only need
 to take a short run before the match.
-

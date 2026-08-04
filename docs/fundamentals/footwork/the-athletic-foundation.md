@@ -2,8 +2,7 @@
 
 ### **Pat Doughert**
 
-![A person playing tennis Description automatically
-generated](media_the-athletic-foundation/media/image1.webp)
+![A person playing tennis Description automatically generated](media_the-athletic-foundation/media/image1.webp)
 
 **The athletic foundation is often the missing link in developing into a
 professional player.**
@@ -22,9 +21,7 @@ defend a strong athletic foundation is the measure of a great tennis
 athlete. In my view, most instructors and coaches don't tend to focus
 enough on developing this vital athletic component in young players.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_the-athletic-foundation/media/image2.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_the-athletic-foundation/media/image2.webp)
 
 **Training in the AP Belt can make a huge difference in improving court
 movement for players at all levels.**
@@ -47,11 +44,9 @@ equipment at the Academy for all full time students. We've also made it
 possible for all TPA subscribers to order the belt at a special
 price. [link](http://www.active.com/event_detail.cfm?event_id=1175099).
 
-| ![A race car on a track Description automatically generated with medium | ![A picture containing outdoor, grass, truck, parked Description automatically |
-| --- | --- |
-| confidence](media_the-athletic-foundation/media/image3.jpg) |  |
-| **On the court do you move like a race car\--or a tractor?** |  |
+![A race car on a track Description automatically generated with medium confidence](media_the-athletic-foundation/media/image3.jpg)
 
+**On the court do you move like a race car--or a tractor?**
 
 **Form and Function**
 
@@ -63,11 +58,11 @@ performance capabilities. Consider the Formula-1 racing car. Beneath
 a very tight suspension for razor sharp handling.**
 
 **The car's center of gravity hovers only inches above the
-ground.** **[[The width of the wheelbase is
+ground.** **[The width of the wheelbase is
 proportionately very wide.] [Together, the wide base and low
 center of gravity enable the car to perform sharp turns at high speeds
 and achieve maximum stability against the forces that cause
-rollovers.]]**
+rollovers.]**
 
 At the opposite end of the spectrum is a farm tractor. **[A tractor's
 design reflects the specific needs of the farmer who drives it.
@@ -76,9 +71,7 @@ farming.]** The tractor needs plenty of ground clearance and a
 high center of gravity to travel through the dirt and mud in a field and
 stay above the crops without damaging them.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_the-athletic-foundation/media/image5.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_the-athletic-foundation/media/image5.webp)
 
 **On court a movement specialist resembles a Formula 1 racer.**
 
@@ -98,8 +91,8 @@ characteristics of the tractor. But in tennis, you'll never reach your
 athletic potential performing like a tractor. Instead, you need to
 develop the performance characteristics of the race car.
 
-**I believe that the greatest tennis players are \"movement
-specialists.\"** Movement specialists are athletes
+**I believe that the greatest tennis players are "movement
+specialists."** Movement specialists are athletes
 who have learned how to transform their body posture to resemble the
 design characteristics of a Formula 1 car. The chart shows the
 similarities. Top players use their movement strengths as a weapon to
@@ -111,26 +104,23 @@ on the run. Instantaneous changes of direction and sharp recovery skills
 are their weapons for defending the court, minimizing open court
 opportunities for the opponent.
 
-  -----------------------------------------------------------------------
-             Formula-1 Car                    Athletic Foundation
-  ----------------------------------- -----------------------------------
-            Wide Wheelbase             Wide Footwork Base for Reaction/
-                                                    Stances
+Formula-1 Car                    Athletic Foundation
+Wide Wheelbase             Wide Footwork Base for Reaction/
+Stances
 
-       Minimal Ground Clearance       Knees Bent / Hips Low to the Ground
+Minimal Ground Clearance       Knees Bent / Hips Low to the Ground
 
-             Sturdy Frame                 Strong Upright Back Posture
+Sturdy Frame                 Strong Upright Back Posture
 
-           Tight Suspension            Intense Muscular Reinforcement of
-                                                  Foundation
+Tight Suspension            Intense Muscular Reinforcement of
+Foundation
 
-          Supercharged Engine             Powerful Lower Body Muscles
+Supercharged Engine             Powerful Lower Body Muscles
 
-       Speed shift Transmission        Multi-Directional Quick Footwork
-                                                   Patterns
-  -----------------------------------------------------------------------
+Speed shift Transmission        Multi-Directional Quick Footwork
+Patterns
 
-**The \"athletic foundation\" is a total body framework that when
+**The "athletic foundation" is a total body framework that when
 activated, powers and stabilizes all footwork and all
 strokes.** This foundation parallels the structural
 qualities of the Formula 1 car and achieves its structural integrity
@@ -146,13 +136,8 @@ athletic foundation are:
 
 - Reinforced Back Posture
 
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                           ![A person playing tennis Description automatically
-   generated](media_the-athletic-foundation/media/image6.jpg)
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                              **Agassi's foundation: wide base, lowered center of gravity, great posture.**
-
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person playing tennis Description automatically generated](media_the-athletic-foundation/media/image6.jpg)
+**Agassi's foundation: wide base, lowered center of gravity, great posture.**
 
 **[Wide Base of Support]**
 
@@ -181,8 +166,7 @@ technique **called the drop step that we will look at in detail that
 allows top players to create an explosive first-step reaction from this
 wider base.**
 
-![A person playing tennis Description automatically
-generated](media_the-athletic-foundation/media/image7.webp)
+![A person playing tennis Description automatically generated](media_the-athletic-foundation/media/image7.webp)
 
 **Great athletes establish the athletic foundation just prior to
 reacting to their opponent's shots**
@@ -205,9 +189,7 @@ higher.** The difference is nominal, however, so we
 typically refer to the hips as the reference point for the center of
 gravity.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_the-athletic-foundation/media/image8.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_the-athletic-foundation/media/image8.webp)
 
 **From a wide base the drop step generates an explosive first move.**
 
@@ -215,15 +197,13 @@ confidence](media_the-athletic-foundation/media/image8.webp)
 Athletic Height**
 
 When you are down in the athletic foundation position, you establish
-what is referred to as your \"athletic height\". **Your athletic
+what is referred to as your "athletic height". **Your athletic
 height should measure approximately 6 inches to one foot below your
 normal standing height.** **You achieve this
 low-to-the-ground position through bending your knees to lower your
 hips, while maintaining upright back posture.**
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_the-athletic-foundation/media/image9.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_the-athletic-foundation/media/image9.webp)
 
 **Watch Venus lower her center of gravity as she creates her
 foundation.**
@@ -243,8 +223,8 @@ time. As a result, they develop inefficient movement habits that
 correspond with a high center of gravity. They end up moving more like
 that tractor than the race car.**
 
-Some players try hard to \"play low\" but just can't seem to maintain
-the low athletic height. Coaches yell at them to \"stay low\" but it is
+Some players try hard to "play low" but just can't seem to maintain
+the low athletic height. Coaches yell at them to "stay low" but it is
 often to no avail. **In the long run, playing too upright is very
 inefficient.** It not only produces poor results
 (on court), but you'll fatigue much more quickly over the course of a
@@ -252,9 +232,7 @@ match. The fact is that if you've never practiced and trained your body
 to move while maintaining a low center of gravity, you are not equipped
 with the skills to get the job done in matches.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_the-athletic-foundation/media/image10.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_the-athletic-foundation/media/image10.webp)
 
 **The AP Belt helps players develop and maintain their athletic
 foundation.**
@@ -272,18 +250,16 @@ to your match play.
 The A.P. Belt is comprised of a bungee cord that passes through a pulley
 mounted on the back side of a belt and attaches on each ankle. By
 adjusting the length of bungee based on your height, you feel resistance
-from the cord when your technique isn't optimal. This \"resistance
-feedback\" teaches you \"right from wrong.\" You'll feel resistance
+from the cord when your technique isn't optimal. This "resistance
+feedback" teaches you "right from wrong." You'll feel resistance
 from the belt the moment you deviate from correct technique. We know
 from learning theory that the way players learn is by developing a
 kinesthetic feel for every aspect of the game. Wearing the belt helps
 players develop this directly.
 
-| ![A picture containing outdoor, sky, sport, tennis Description automatically | ![A picture containing person, sport Description automatically |
-| --- | --- |
-| generated](media_the-athletic-foundation/media/image11.jpg) |  |
-| **The Belt helps players create a wide base, low center of gravity, and reinforced back posture.** |  |
+![A picture containing outdoor, sky, sport, tennis Description automatically generated](media_the-athletic-foundation/media/image11.jpg)
 
+**The Belt helps players create a wide base, low center of gravity, and reinforced back posture.**
 
 Most players experience immediate increases in power and control in
 their stroke production from the first time they put the belt on. It
@@ -299,9 +275,7 @@ strength to manage the improved loading in your strokes. Eventually,
 you'll be more efficient and have the stamina to go the distance
 playing from a better foundation.
 
-![A picture containing sport, athletic game, person, court Description
-automatically
-generated](media_the-athletic-foundation/media/image13.webp)
+![A picture containing sport, athletic game, person, court Description automatically generated](media_the-athletic-foundation/media/image13.webp)
 
 **By working your lower body, the belt improves loading, efficiency, and
 stamina.**
@@ -346,7 +320,7 @@ power.**
 **Powerful Lower Body Muscles**
 
 The legs are the primary power source of movement acting like the
-supercharged engine of the Formula 1 car. Powerful \"quick twitch\"
+supercharged engine of the Formula 1 car. Powerful "quick twitch"
 muscles generate explosive movement. If you look at the top professional
 players, you'll notice their thighs and backside tend to be very
 well-developed areas. This gives you an indication of how important
@@ -354,8 +328,7 @@ lower body strength is to a tennis athlete's performance. Your
 quadriceps and gluteus must be in great shape to perform low to the
 ground like a Formula 1 car.
 
-![A person playing tennis Description automatically
-generated](media_the-athletic-foundation/media/image14.webp)
+![A person playing tennis Description automatically generated](media_the-athletic-foundation/media/image14.webp)
 
 **Sharapova Made or Born?**
 
@@ -387,9 +360,7 @@ you may not be the most natural talent, destined from birth to be the
 next Roger Federer. It's about reaching your personal potential that
 really matters.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_the-athletic-foundation/media/image15.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_the-athletic-foundation/media/image15.webp)
 
 **In tennis there isn't enough emphasis on critical, movement related
 skills.**
@@ -401,11 +372,10 @@ The athletic foundation, first step reaction technique, quick stride
 acceleration footwork, change of direction techniques, etc. are
 basically the same maneuvers in most sports. However, all too often the
 emphasis in learning a specific sport is focused solely on
-\"non-movement\" related skills. **By neglecting the development of a
-sound athletic foundation, we end up with \"players\" not
-\"athletes.\"** Unfortunately, most tennis players,
+"non-movement" related skills. **By neglecting the development of a
+sound athletic foundation, we end up with "players" not
+"athletes."** Unfortunately, most tennis players,
 don't really begin developing their athletic qualities until the latter
 stages of development. It should be the other way around. Without
 training with a specific focus on the athletic movement skills, you may
 never learn to perform like an athlete.
-

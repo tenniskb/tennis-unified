@@ -2,15 +2,8 @@
 
 ### By Allen Fox, Ph.D.
 
-------------------------------------------------------------------------
-
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                              ![A picture containing mammal, primate, outdoor, rock Description automatically
-   generated](media_why-do-we-want-to-win/media/image1.jpg)
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                        **Like all social species, we are programmed to compete.**
-
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A picture containing mammal, primate, outdoor, rock Description automatically generated](media_why-do-we-want-to-win/media/image1.jpg)
+**Like all social species, we are programmed to compete.**
 
 **Human beings evolved to live and work in groups. We are a social
 species, like wolves or chimpanzees, and as such there is a social
@@ -36,16 +29,11 @@ doing likewise as they wrestle to a decision**.
 to dominate and control you - while you do the same in
 return.**
 
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                            ![A person with his hand on his face Description automatically generated with medium
-   confidence](media_why-do-we-want-to-win/media/image2.jpg)
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                    **There is no way around it: losing is painful and feels personal.**
-
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person with his hand on his face Description automatically generated with medium confidence](media_why-do-we-want-to-win/media/image2.jpg)
+**There is no way around it: losing is painful and feels personal.**
 
 I can recall from my childhood the feelings of nervous dread I
-experienced when some bully in my class threatened to \"beat me up\"
+experienced when some bully in my class threatened to "beat me up"
 after school. As I sat uncomfortably in my seat waiting for school to
 let out I was anxious and not at all looking forward to the physical
 trial to come.
@@ -64,7 +52,7 @@ experienced as a kid before having to face the bully.
 
 And my anxiety about the physical fight did not involve worrying about
 getting my nose broken or my teeth knocked in. I wasn't concerned about
-bodily damage. I was simply afraid of being \"beaten up,\" although I
+bodily damage. I was simply afraid of being "beaten up," although I
 didn't really know what that meant at the time.
 
 I had vague images of the bully somehow ending up on top of me and me
@@ -72,13 +60,8 @@ losing and being disgraced. A similar dread overhung the final tennis
 match, also involving the uncertainty and/or fear of who was going to
 end up on top in the coming struggle to impose our wills on each other.
 
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                 ![A close-up of a painting Description automatically generated with medium
-   confidence](media_why-do-we-want-to-win/media/image3.jpg)
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                   **Fear enters every match, even if there is really nothing to fear.**
-
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A close-up of a painting Description automatically generated with medium confidence](media_why-do-we-want-to-win/media/image3.jpg)
+**Fear enters every match, even if there is really nothing to fear.**
 
 **Enter Fear**
 
@@ -104,14 +87,13 @@ regardless of preparation or effort, combined with the substantial
 emotional discrepancy between winning and losing can cause an unpleasant
 level of stress.
 
-![A person playing tennis Description automatically
-generated](media_why-do-we-want-to-win/media/image4.webp)
+![A person playing tennis Description automatically generated](media_why-do-we-want-to-win/media/image4.webp)
 
 **The discrepancy between winning and losing causes unpleasant levels of
 stress.**
 
 Does winning really matter? The most widely read tennis book of all time
-has been \"The Inner Game\" by Tim Gallwey. Its thesis was that winning
+has been "The Inner Game" by Tim Gallwey. Its thesis was that winning
 doesn't matter, and that good feelings and enjoyment of the process
 were more important. It spoke against becoming concerned with strokes
 and technique and postulated that such concerns actually hindered the
@@ -124,28 +106,23 @@ certainly make players nervous and hinder performance. I can't argue
 with any of this.**
 
 As a book of the 1970's, it fed nicely into the emerging cultural
-zeitgeist. **[[It was, at its heart, anti-competitive and downplayed
+zeitgeist. **[It was, at its heart, anti-competitive and downplayed
 establishment ideas of hard work on technique, discipline, and playing
 to win.] [Those of us around at the time found it seductive to
 ditch old-fashioned precepts that forced our noses to the grindstone and
 stressed us out by pushing us to achieve. We enjoyed thinking we were
 smarter than the old fogies who developed the establishment principles.
 Since winning was hard to do, we were pleased to learn that it didn't
-matter.]]**
+matter.]**
 
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                 ![A person hitting a ball with a tennis racket Description automatically
-   generated](media_why-do-we-want-to-win/media/image5.jpg)
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                **Tim Gallwey, architect of the Inner Game, was right about some things.**
-
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person hitting a ball with a tennis racket Description automatically generated](media_why-do-we-want-to-win/media/image5.jpg)
+**Tim Gallwey, architect of the Inner Game, was right about some things.**
 
 **The Nobel Prize**
 
 **Unfortunately, the wiring of our nervous system is not consistent
-with this happy theory.** In his 1966 book, \"On
-Aggression,\" Nobel prize winning ethnologist, Konrad Lorenz, concluded,
+with this happy theory.** In his 1966 book, "On
+Aggression," Nobel prize winning ethnologist, Konrad Lorenz, concluded,
 after years of painstaking observation, that **all species of animals,
 particularly males, instinctively fight each other over resources.
 Social species, including human beings, compete, fight, or threaten to
@@ -169,16 +146,11 @@ the ball crisply, moving about the court smoothly and on balance,
 swiftly anticipating our opponent's shots, and having our tactics
 function effectively.**
 
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                 ![A person with a white beard Description automatically generated with low
-   confidence](media_why-do-we-want-to-win/media/image6.jpg)
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                               **Konrad Lorenz: ethnology reveals truths that tennis players cannot ignore.**
-
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person with a white beard Description automatically generated with low confidence](media_why-do-we-want-to-win/media/image6.jpg)
+**Konrad Lorenz: ethnology reveals truths that tennis players cannot ignore.**
 
 We are programmed to derive satisfaction from building things - projects
-\-- where we get better at something. So we enjoy the process of
+-- where we get better at something. So we enjoy the process of
 improving at tennis (or anything else, for that matter, such as: playing
 an instrument, speaking a foreign language, or increasing the size of
 our bank accounts).
@@ -198,13 +170,8 @@ compete differently. Women are wired somewhat differently from men, and
 the fighting aspect of tennis makes the match-play process more complex
 for them.
 
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                       ![A person holding a tennis racket Description automatically
-   generated](media_why-do-we-want-to-win/media/image7.jpg)
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                            **Antagonism simply isn't as natural for women.**
-
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person holding a tennis racket Description automatically generated](media_why-do-we-want-to-win/media/image7.jpg)
+**Antagonism simply isn't as natural for women.**
 
 **Males are accustomed to fighting and competing from early childhood.
 Challenging each other in head to head contests and striving to beat
@@ -230,13 +197,8 @@ favor drilling in practice rather than playing sets, and there is a
 strong tendency for animosities that develop on court in matches to
 carry over off the court.
 
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                      ![A picture containing person, crowd Description automatically
-   generated](media_why-do-we-want-to-win/media/image8.jpg)
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                         **Winning has not hurt Roger Federer's social status.**
-
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A picture containing person, crowd Description automatically generated](media_why-do-we-want-to-win/media/image8.jpg)
+**Winning has not hurt Roger Federer's social status.**
 
 On the other hand, some are so empathetic with their opponents that they
 feel bad after beating them, an occurrence that is virtually unheard of
@@ -268,61 +230,92 @@ Read More From Allen!
 
 Visit him at [www.allenfoxtennis.net](http://www.allenfoxtennis.net)
 
- 
+![A picture containing text, newspaper Description automatically generated](media_why-do-we-want-to-win/media/image9.jpeg)
 
-| ![A picture containing text, newspaper Description automatically | Winning the Mental Match Dr. Allen Fox |
-| --- | --- |
-| generated](media_why-do-we-want-to-win/media/image9.jpeg) | Tennis is mentally the most difficult sport due to it's personal nature which makes winning and losing feel more |
-|  | important than they are. In this new book, Allen offers his proven solutions to problems such as choking, reducing |
-|  | stress, finishing matches, and developing confidence. Based on a life time of high level play and coaching success, |
-|  | it's a must for all competitive players. |
-|  |  |
-|  | [ to |
-|  | Order](http://www.amazon.com/Tennis-Winning-Mental-Allen-Fox/dp/0615407765/ref=sr_1_1?ie=UTF8&qid=1336083459&sr=8-1). |
+Winning the Mental Match Dr. Allen Fox
 
+Tennis is mentally the most difficult sport due to it's personal nature which makes winning and losing feel more
 
-| ![Text Description automatically | Winning may not be everything, but Dr. Allen Fox points out |
-| --- | --- |
-| generated](media_why-do-we-want-to-win/media/image10.jpeg) | eminently preferable to losing. In his new book, The |
-|  | Winner's Mind, Allen lays out an original step-by-step |
-|  | plan for succeeding at any of life's endeavors, based on |
-|  | his first hand and very personal observations of the |
-|  | careers of both world-class tennis players and successful |
-|  | businessman. The bottom line is that even if you are not a |
-|  | born champion\--and only a tiny percentage of us are\--you |
-|  | can still use the success strategies of champions to tilt |
-|  | the odds in your favor. Writing with brutal honesty and dry |
-|  | humor, Fox lays out the common mental characteristics of |
-|  | winners in sports and in life. He explains the critical |
-|  | role of intellect over emotion. He analyzes the struggle |
-|  | between ambition and fear and the insidious and pervasive |
-|  | fear of failure that undermines so many of us. He then |
-|  | outline how to confront and overcome these fears in your |
-|  | life and career, even when they are initially subconscious. |
-|  | Must reading from one of the great thinkers in tennis, and |
-|  | a Renaissance Man in life. [ to |
-|  | Order](http://www.tennis-warehouse.com/descpage-MIND.html). |
-|  |  |
-|  | To purchase this book you can also send a check for \$17.95 |
-|  | to Allen Fox, 1120 Inverness Place, San Luis Obispo, CA. |
-|  | 93401. The price includes shipping. |
+important than they are. In this new book, Allen offers his proven solutions to problems such as choking, reducing
 
+stress, finishing matches, and developing confidence. Based on a life time of high level play and coaching success,
 
-| ![A person holding a tennis racket Description automatically | Allen Fox PhD is a former world class player, a coach, |
-| --- | --- |
-| generated](media_why-do-we-want-to-win/media/image11.gif) | insightful analysts in modern tennis. A top 10 |
-|  | American player from the glory days before Open |
-|  | tennis, Fox played many of the legendary greats, among |
-|  | them Roy Emerson, Rod Laver, Stan Smith, and Arthur |
-|  | Ashe. At Pepperdine he developed the men's tennis |
-|  | program into an elite contender for national titles, |
-|  | and gave Brad Gilbert the insights that became the |
-|  | foundation for \"Winning Ugly\". His book Think to Win |
-|  | is a modern classic. He has also starred in a series |
-|  | of acclaimed videos, including Pro Secrets of Match |
-|  | Play and Allen Fox's Ultimate Tennis Lesson. |
-|  |  |
-|  |  |
+it's a must for all competitive players.
 
+[ to
 
-------------------------------------------------------------------------
+Order](http://www.amazon.com/Tennis-Winning-Mental-Allen-Fox/dp/0615407765/ref=sr_1_1?ie=UTF8&qid=1336083459&sr=8-1).
+
+![Text Description automatically generated](media_why-do-we-want-to-win/media/image10.jpeg)
+
+Winning may not be everything, but Dr. Allen Fox points out
+
+eminently preferable to losing. In his new book, The
+
+Winner's Mind, Allen lays out an original step-by-step
+
+plan for succeeding at any of life's endeavors, based on
+
+his first hand and very personal observations of the
+
+careers of both world-class tennis players and successful
+
+businessman. The bottom line is that even if you are not a
+
+born champion--and only a tiny percentage of us are--you
+
+can still use the success strategies of champions to tilt
+
+the odds in your favor. Writing with brutal honesty and dry
+
+humor, Fox lays out the common mental characteristics of
+
+winners in sports and in life. He explains the critical
+
+role of intellect over emotion. He analyzes the struggle
+
+between ambition and fear and the insidious and pervasive
+
+fear of failure that undermines so many of us. He then
+
+outline how to confront and overcome these fears in your
+
+life and career, even when they are initially subconscious.
+
+Must reading from one of the great thinkers in tennis, and
+
+a Renaissance Man in life. [ to
+
+Order](http://www.tennis-warehouse.com/descpage-MIND.html).
+
+To purchase this book you can also send a check for $17.95
+
+to Allen Fox, 1120 Inverness Place, San Luis Obispo, CA.
+
+93401. The price includes shipping.
+
+![A person holding a tennis racket Description automatically generated](media_why-do-we-want-to-win/media/image11.gif)
+
+Allen Fox PhD is a former world class player, a coach,
+
+insightful analysts in modern tennis. A top 10
+
+American player from the glory days before Open
+
+tennis, Fox played many of the legendary greats, among
+
+them Roy Emerson, Rod Laver, Stan Smith, and Arthur
+
+Ashe. At Pepperdine he developed the men's tennis
+
+program into an elite contender for national titles,
+
+and gave Brad Gilbert the insights that became the
+
+foundation for "Winning Ugly". His book Think to Win
+
+is a modern classic. He has also starred in a series
+
+of acclaimed videos, including Pro Secrets of Match
+
+Play and Allen Fox's Ultimate Tennis Lesson.

@@ -2,15 +2,8 @@
 
 ### John Yandell
 
-------------------------------------------------------------------------
-
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                      ![A person holding a trophy next to a person holding a trophy Description automatically generated with medium
-   confidence](media_how-roger-federer-won-the-us-open-2006/media/image1.jpg)
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                                   **What did the statistics say beyond the obvious?**
-
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person holding a trophy next to a person holding a trophy Description automatically generated with medium confidence](media_how-roger-federer-won-the-us-open-2006/media/image1.jpg)
+**What did the statistics say beyond the obvious?**
 
 It seemed like a stretch and it didn't happen, Federer versus Nadal in
 a third Slam final in a row in 2006. We tracked the numbers in their
@@ -30,9 +23,7 @@ players. But the statistics do make what seemed obvious a little more
 obvious, and maybe add some additional depth of understanding to what
 happened that day in New York City.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_how-roger-federer-won-the-us-open-2006/media/image2.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_how-roger-federer-won-the-us-open-2006/media/image2.webp)
 
 **What happens when 80% of Roddick's serves come back?**
 
@@ -60,8 +51,7 @@ detail in this series, how to calculate it and what it means. ([link](The%20Aggr
 winners and forced errors less unforced errors, and the player who has
 the highest Aggressive Margin is the winner at any level.
 
-![A person playing tennis Description automatically
-generated](media_how-roger-federer-won-the-us-open-2006/media/image3.webp)
+![A person playing tennis Description automatically generated](media_how-roger-federer-won-the-us-open-2006/media/image3.webp)
 
 **Federer's returns: starting the points even, and sometimes ahead.**
 
@@ -84,11 +74,9 @@ over the net, winning 11 of 16 approaches. That was key. His aggressive
 margin was actually +5 on his volleys, and those 5 points were the exact
 point margin in the set.
 
-![A picture containing sport, athletic game, player Description
-automatically
-generated](media_how-roger-federer-won-the-us-open-2006/media/image4.webp)
+![A picture containing sport, athletic game, player Description automatically generated](media_how-roger-federer-won-the-us-open-2006/media/image4.webp)
 
-**Andy's net play was the difference in the second set, but\...**
+**Andy's net play was the difference in the second set, but...**
 
 At that point the crowd was pumped, and Andy was pumped, and it seemed
 at least possible that maybe he could win the match after all. Well,
@@ -113,9 +101,7 @@ point, or even that it was an unforced error. It didn't affect the
 outcome of the game or the set. It was just the way the shot looked.
 Stiff.
 
-![A picture containing tennis, player, racket, court Description
-automatically
-generated](media_how-roger-federer-won-the-us-open-2006/media/image5.webp)
+![A picture containing tennis, player, racket, court Description automatically generated](media_how-roger-federer-won-the-us-open-2006/media/image5.webp)
 
 **Andy and Jimmy: the swing has to start more from the inside.**
 
@@ -125,9 +111,9 @@ a different feeling. You got the feeling there was a difference in the
 level of game possessed by the two players. And that Andy was likely to
 have a few more critical backhand errors and/or missed chances later on.
 
-Yes, Andy made some big backhands\--but he had some other horrible
+Yes, Andy made some big backhands--but he had some other horrible
 misses. I heard Johnny Mac say that Jimbo had been telling him to
-\"stick that backhand,\" and when the camera was on Jimmy, sometimes he
+"stick that backhand," and when the camera was on Jimmy, sometimes he
 was gesticulating like he was trying to communicate that to Andy.
 
 Well, it sure worked for Jimmy, but then he didn't have the same kind
@@ -141,13 +127,9 @@ friend Don Brousseau said in a recent post in the Forum, groundstrokes
 start forward from the inside out, and Andy's backhand is just too far
 out to really be a weapon at his level.
 
-|  |
-| --- |
-| ![A person playing tennis Description automatically generated with medium |
-| confidence](media_how-roger-federer-won-the-us-open-2006/media/image6.jpg) |
-|  |
-| **What it must feel like to feel \"invincible.\"** |
+![A person playing tennis Description automatically generated with medium confidence](media_how-roger-federer-won-the-us-open-2006/media/image6.jpg)
 
+**What it must feel like to feel "invincible."**
 
 Still, the set score was at one all. And the total overall points won
 was within 2 points: 52 total points for Federer and 50 for Roddick. So
@@ -167,21 +149,18 @@ groundstroke winner. Then he did twice more. If you look at the ease or
 difficulty of the way a player wins his points, it can give you an
 indication of what will happen over the long run in a match. And at
 various times throughout the match, Federer played one or two or three
-points like that\--just points of effortless dominance. Aside from his
+points like that--just points of effortless dominance. Aside from his
 limited number of unreturnable serves, Roddick didn't win many points
-that way\--even his clean winners off his forehand didn't have that
+that way--even his clean winners off his forehand didn't have that
 same kind of dominant feel. This view of the nature of the exchanges
 goes hand and hand with our theory that the player who wins the most
 total points tends to win the match.
 
-  ----------------------------------------------------------------------
-  Aggressive Margin By        1           2           3           4
-  Set                                                        
-  ---------------------- ----------- ----------- ----------- -----------
-  Federer                    +5          +15         +30         +14
+Aggressive Margin By        1           2           3           4
+Set                                                        
+Federer                    +5          +15         +30         +14
 
-  Roddick                    -2          +20         +17         -0-
-  ----------------------------------------------------------------------
+Roddick                    -2          +20         +17         -0-
 
 So the set was great to watch. The way both players had chances to break
 and struggled to hold. The fighting back and forth. But Roddick finally
@@ -208,11 +187,9 @@ players. And I think that explains what happened in the fourth. Andy
 just couldn't keep up the effort that he had needed to win points over
 the course of the match. And Federer closed with the relentless and
 graceful calm of a trained killer. I think the word he used to describe
-the way he was feeling at that point was actually \"invincible.\"
+the way he was feeling at that point was actually "invincible."
 
-![A picture containing text, tennis, athletic game, sport Description
-automatically
-generated](media_how-roger-federer-won-the-us-open-2006/media/image7.webp)
+![A picture containing text, tennis, athletic game, sport Description automatically generated](media_how-roger-federer-won-the-us-open-2006/media/image7.webp)
 
 **Watch the subtle shifts than eventually lead to domination.**
 
@@ -241,9 +218,7 @@ taking his time and pounds his backhand back down the line. The ball
 surprises Andy and gets a little past him. His whips up on the ball and
 his forehand goes up the line again, this time shorter still.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_how-roger-federer-won-the-us-open-2006/media/image8.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_how-roger-federer-won-the-us-open-2006/media/image8.webp)
 
 **Is serving effectiveness about speed or accuracy?**
 
@@ -268,24 +243,19 @@ calculated that if a serve was well placed, you could hit aces all day
 long at 115mph, and interestingly that's almost exactly the speed
 Federer averaged.
 
-  ----------------------------------------------------------------------
-  Aggressive Margin By      Serve     Forehand    Backhand       Net
-  Set                                                        
-  ---------------------- ----------- ----------- ----------- -----------
-  Federer                    +19         +25         +5          +9
+Aggressive Margin By      Serve     Forehand    Backhand       Net
+Set                                                        
+Federer                    +19         +25         +5          +9
 
-  Roddick                    +30         +8          -7          +12
-  ----------------------------------------------------------------------
+Roddick                    +30         +8          -7          +12
 
 John McEnroe keep calling Federer's forehand the greatest weapon in the
 modern game, and it would be hard to disagree with that. Roger had a big
 edge there, with 29 winner or forced errors versus 21 for Andy. And
-incredibly, Roger only made 4 unforced errors\--that's one unforced
+incredibly, Roger only made 4 unforced errors--that's one unforced
 error per set! Roddick had 13 unforced errors. So that was a big swing.
 
-![A picture containing tennis, sport, athletic game, racket Description
-automatically
-generated](media_how-roger-federer-won-the-us-open-2006/media/image9.webp)
+![A picture containing tennis, sport, athletic game, racket Description automatically generated](media_how-roger-federer-won-the-us-open-2006/media/image9.webp)
 
 **Federer: better in most, or is that all dimensions?**
 
@@ -306,9 +276,7 @@ against Andy, it's the same report on Federer versus everyone, with the
 possible exception of Rafael Nadal. Obvious yes, but the details I think
 proved interesting.
 
-![A person smiling for the camera Description automatically generated
-with medium
-confidence](media_how-roger-federer-won-the-us-open-2006/media/image10.jpeg)
+![A person smiling for the camera Description automatically generated with medium confidence](media_how-roger-federer-won-the-us-open-2006/media/image10.jpeg)
 
 John Yandell is widely acknowledged as one of the leading videographers
 and students of the modern game of professional tennis. His high speed

@@ -4,10 +4,9 @@
 
 ### Robert Lansdorp
 
-![A person playing tennis Description automatically
-generated](media_the-three-forehand-finishes/media/image1.webp)
+![A person playing tennis Description automatically generated](media_the-three-forehand-finishes/media/image1.webp)
 
-**Hitting through, finishing down and across, and reversing\--the 3
+**Hitting through, finishing down and across, and reversing--the 3
 forehand finishes in the modern game.**
 
 Over the years, I've tried to learn from the players as well as teach
@@ -26,15 +25,14 @@ develop three finishes.
 **The first is the classic out-front finish that I have always
 taught.**
 
-**The second one is the \"reverse\" finish where the player reverses
+**The second one is the "reverse" finish where the player reverses
 the path of the racket and finishes on the opposite side of the body and
 over the head.** Pete Sampras made this finish
 famous with his running forehand, though it is now common in the pro
 game. I've written about both of these finishes in my previous
 articles. ([link](http://www.tennisplayer.net/members/famouscoach/famouscoach.html).)
 
-![A person hitting a ball with a tennis racket Description automatically
-generated](media_the-three-forehand-finishes/media/image2.webp)
+![A person hitting a ball with a tennis racket Description automatically generated](media_the-three-forehand-finishes/media/image2.webp)
 
 **The new dominant finish in the pro game, downward and across the
 body.**
@@ -64,9 +62,7 @@ left-handed forehand.
 **The racket just went straight out. There was no turn of the racket
 head. It worked tremendously well.**
 
-![A picture containing athletic game, sport, player, tennis Description
-automatically
-generated](media_the-three-forehand-finishes/media/image3.webp)
+![A picture containing athletic game, sport, player, tennis Description automatically generated](media_the-three-forehand-finishes/media/image3.webp)
 
 **Pete Sampras, age 10, demonstrates the classic out-front finish.**
 
@@ -91,17 +87,15 @@ exercise. When it's learned correctly, it doesn't look stiff in actual
 play. In matches, there'll be a little flex at the end and the arms
 will look relaxed.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_the-three-forehand-finishes/media/image4.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_the-three-forehand-finishes/media/image4.webp)
 
 **Pete and Lindsay in match play with the arm extended and a little
 flexed.**
 
 **The game has changed since I developed that out front finish, and
 the big difference is in the grips.** In the years
-when I was teaching Tracy and Pete and Lindsay\--and a lot of other
-players who made the top 30 and higher\--the grips were far more
+when I was teaching Tracy and Pete and Lindsay--and a lot of other
+players who made the top 30 and higher--the grips were far more
 conservative. The continental was on its way out, but it was still
 around. Believe it or not, **the eastern grip was probably the most
 extreme grip, or maybe a grip that slid a little further underneath, but
@@ -121,8 +115,7 @@ grips. So, I'll let them turn it over a little. But I still want to see
 if they still can hit through the ball, and if they can control the
 wrist coming through the ball.
 
-![A person playing tennis Description automatically
-generated](media_the-three-forehand-finishes/media/image5.webp)
+![A person playing tennis Description automatically generated](media_the-three-forehand-finishes/media/image5.webp)
 
 **The across the body finish isn't new, but has become the norm.**
 
@@ -145,9 +138,7 @@ Finishing across the body isn't something that is totally new, as you
 can see from the clip of Rod Laver hitting a short forehand in the
 1970s. But today it is almost the norm on the pro tour.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_the-three-forehand-finishes/media/image6.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_the-three-forehand-finishes/media/image6.webp)
 
 **The lower finish allows you to drive the ball hard and still have
 maximum spin.**
@@ -160,8 +151,8 @@ And these guys had that mentality. They would just fight, fight, fight.
 But **when they would get shorter balls, you would see them rip the
 shot with this different finish. They would follow through down, across
 the body, sometimes way down towards the hip.** And
-they'd just rip winners. And I thought to myself, \"What the hell are
-these guys doing?\" To me that was fascinating.
+they'd just rip winners. And I thought to myself, "What the hell are
+these guys doing?" To me that was fascinating.
 
 I certainly didn't change my teaching at that time. But as time went
 on, and I saw more and more players doing it, I started to study this
@@ -173,15 +164,13 @@ that it sometimes floats with the higher finish. With this lower finish
 the players were generating tremendous pace but also as more
 spin.**
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_the-three-forehand-finishes/media/image7.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_the-three-forehand-finishes/media/image7.webp)
 
 **The extension through the line of the shot can actually be better with
 the lower finish.**
 
-And looking back, I'm always that kind of person that says, \"Jesus
-Christ. Why didn't I figure that out sooner?\" There are some players
+And looking back, I'm always that kind of person that says, "Jesus
+Christ. Why didn't I figure that out sooner?" There are some players
 that it might have helped because they would have been able to control
 the ball a little bit better.
 
@@ -194,14 +183,12 @@ same way the up-front finish worked in the old days.
 **By following through lower, my students could drive the ball hard
 and have maximum topspin, but without really thinking about
 it.** You don't really have to tell players,
-\"Come up. Brush up on the ball.\" Instead, **I tell them to finish a
+"Come up. Brush up on the ball." Instead, **I tell them to finish a
 little lower, but drive through the ball.** You're
 not really trying to hit major spin. It's a natural process where the
 ball has more spin.
 
-![A picture containing tennis, sport, athletic game, outdoor Description
-automatically
-generated](media_the-three-forehand-finishes/media/image8.webp)
+![A picture containing tennis, sport, athletic game, outdoor Description automatically generated](media_the-three-forehand-finishes/media/image8.webp)
 
 **The more extreme the grip the better the downward finish works.**
 
@@ -209,9 +196,9 @@ I haven't abandoned the up-front finish. I still have players
 follow-through out-front and hold the finish. But at some point. I
 usually teach the lower finish to everybody as well. Strangely enough, I
 have them hit maybe 20 balls and leave it up front. Then I tell them,
-**\"Okay, drive the ball and follow through
-down.\"** And then sometimes I say, \"Okay, drive
-the ball and follow through up.\" And I'm looking at how the ball comes
+**"Okay, drive the ball and follow through
+down."** And then sometimes I say, "Okay, drive
+the ball and follow through up." And I'm looking at how the ball comes
 off the racket the best.
 
 The ball is being hit harder today than ever and this finish is one
@@ -228,8 +215,7 @@ around. But if you look closely or study it in slow motion, you'll see
 that **the racket comes well out towards the net
 first.**
 
-![A person playing tennis Description automatically
-generated](media_the-three-forehand-finishes/media/image9.webp)
+![A person playing tennis Description automatically generated](media_the-three-forehand-finishes/media/image9.webp)
 
 **Sampras made the reverse forehand famous but every player in the game
 uses it at times.**
@@ -241,12 +227,12 @@ can come through the ball a little big longer.
 
 I work a lot on that shot with kids to give them the confidence that
 coming down actually works. Once they get used to it, they love doing it
-because it feels so much more comfortable on the follow-through. **[[The
+because it feels so much more comfortable on the follow-through. **[The
 more extreme the grip, the more you follow through down, the better it
 works.] [Making a follow through down low toward your hip with an
 extreme grip works ten times better than trying to follow through up
 high with that grip. You can just get a better
-shot.]]**
+shot.]**
 
 **Reverse Forehand**
 
@@ -261,8 +247,7 @@ forehand adds options. With the reverse, a pro player can save himself a
 minimum of 10 points in an average match. That's a huge
 difference.**
 
-![A person playing tennis Description automatically
-generated](media_the-three-forehand-finishes/media/image10.webp)
+![A person playing tennis Description automatically generated](media_the-three-forehand-finishes/media/image10.webp)
 
 **Without the reverse forehand, Maria would never have won Wimbledon.**
 
@@ -286,14 +271,13 @@ observe how the game has changed. Jennifer Capriati, for example, had
 probably the greatest reverse forehand all the time. She hit it so
 unbelievably well that to them it looked like a regular forehand.
 
-![A person playing tennis Description automatically
-generated](media_the-three-forehand-finishes/media/image11.webp)
+![A person playing tennis Description automatically generated](media_the-three-forehand-finishes/media/image11.webp)
 
 **Capriati hit the reverse so well, commentators didn't notice the
 finish.**
 
-I have never heard anybody in the last 15 years say, \"Oh, my god! What
-is Capriati doing with that forehand?\" Because it looked so good, they
+I have never heard anybody in the last 15 years say, "Oh, my god! What
+is Capriati doing with that forehand?" Because it looked so good, they
 didn't even notice it. But when Maria hits a reverse forehand, she
 looks more gangly. She's tall for a girl, and some days she just looks
 like she's all over the place. That doesn't mean there is something
@@ -306,9 +290,7 @@ time. What is starting to happen now, she's hitting more reverse
 forehands than she ever did before. And I think that's a mistake.
 She's hitting it on balls that she used to hit through more.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_the-three-forehand-finishes/media/image12.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_the-three-forehand-finishes/media/image12.webp)
 
 **Sometimes Maria reverses to compensate for being late.**
 
@@ -326,18 +308,16 @@ understand it for the first time.
 
 I still have a tape of Pete taken in the late 1980s hitting a reverse
 forehand. I hit him a hard deep ball and he reverses the finish. And the
-next one he does the same thing, and I'm yelling at him. \"Well, what
-the hell are you doing? Why don't you move your feet?\"
+next one he does the same thing, and I'm yelling at him. "Well, what
+the hell are you doing? Why don't you move your feet?"
 
-And Pete responds, \"Robert, the ball skidded on the line.\" So, he was
+And Pete responds, "Robert, the ball skidded on the line." So, he was
 responding to a fast ball that was skidding and he was reversing his
 finish. But at that time, I didn't understand it. Pete didn't
 understand it either, but for Pete, it was just a natural reaction to
 the ball.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_the-three-forehand-finishes/media/image13.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_the-three-forehand-finishes/media/image13.webp)
 
 **Pete eventually hit about a third of this forehands with reverse
 finishes.**
@@ -345,8 +325,8 @@ finishes.**
 Later on, I didn't complain about Pete reversing it because I was
 starting to know what it was going on. When you saw Pete play when he
 was the best player in the world, he hit tons of reverse forehands.
-People would always say, \"I can't believe it - look how the ball
-curved back into the court on his running forehand.\" By the end of his
+People would always say, "I can't believe it - look how the ball
+curved back into the court on his running forehand." By the end of his
 career, he was reversing more and more on different balls, even approach
 shots. At that point reverses about 30% of his forehands.
 
@@ -361,9 +341,7 @@ reverse to players, including Maria. But when I teach the reverse, I
 always have players hit regular forehands, and I also have them follow
 through down.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_the-three-forehand-finishes/media/image14.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_the-three-forehand-finishes/media/image14.webp)
 
 **Nadal hits more reverse forehands than any player so far.**
 
@@ -382,25 +360,19 @@ power. Sometimes it appears that his reverse forehand is actually a
 little more powerful than his regular drive because he's strong as an
 ox.
 
-The thing that I like about Nadal\--he's very, very smart. To win
+The thing that I like about Nadal--he's very, very smart. To win
 Wimbledon, he has to get more pace on his ball. So, with his grip, the
 reverse forehand may the way he is going to do it. That's why I think
 that he is capable of winning there, because he's not only talented,
 **he's smart enough to adjust, and to realize when he needs
 to.**
 
-![A person playing tennis Description automatically generated with low
-confidence](media_the-three-forehand-finishes/media/image15.webp)
+![A person playing tennis Description automatically generated with low confidence](media_the-three-forehand-finishes/media/image15.webp)
 
 **Nadal's reverse forehand sometimes appears more powerful than his
 regular drive.**
 
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![A person hitting a ball with a tennis racket Description automatically
-  generated](media_the-three-forehand-finishes/media/image16.gif)
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person hitting a ball with a tennis racket Description automatically generated](media_the-three-forehand-finishes/media/image16.gif)
 
 Robert Lansdorp is the legendary Southern California coach who has
 developed dozens of world class junior and professional players.

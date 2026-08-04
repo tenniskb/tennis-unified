@@ -2,8 +2,7 @@
 
 **David Bailey**
 
-![A person playing tennis Description automatically
-generated](media_contact-moves-the-power-move/media/image1.webp)
+![A person playing tennis Description automatically generated](media_contact-moves-the-power-move/media/image1.webp)
 
 **Top players use the Power Move when they are pushed wide on the run.**
 
@@ -29,18 +28,16 @@ The defensive Contact Moves I'm going to analyze are the footwork
 patterns used by the top pros when they are challenged and pushed wide
 or far back in the court.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_contact-moves-the-power-move/media/image2.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_contact-moves-the-power-move/media/image2.webp)
 
 **Pete Sampras used the Power Move to turn defense into offense.**
 
-But when we talk about \"defensive\" contact moves let's understand
+But when we talk about "defensive" contact moves let's understand
 what that means. We use defensive Contact Moves when we are challenged
 and forced to hit the ball off running steps.
 
 But the idea isn't necessarily to play defensive tennis, and defensive
-Contact Moves aren't necessarily associated with \"pushing\" or a
+Contact Moves aren't necessarily associated with "pushing" or a
 defensive strategic style. **The idea behind these Contact Moves is
 something else: to make a successful shot from a defensive position.
 This can be a very aggressive shot, or even a
@@ -61,9 +58,7 @@ players as well.
 
 **The Power Move**
 
-![A tennis player running on a court Description automatically generated
-with medium
-confidence](media_contact-moves-the-power-move/media/image3.webp)
+![A tennis player running on a court Description automatically generated with medium confidence](media_contact-moves-the-power-move/media/image3.webp)
 
 **Ana Ivanovic perfectly demonstrates the running forehand Power Move.**
 
@@ -77,13 +72,13 @@ step.
 - **It begins with the player on the dead run.**
 
 - **Then, just before the start of the forward swing, the player
-  achieves an open running stance.**
+achieves an open running stance.**
 
 - **The forward swing starts from here.**
 
 - **After the contact, both feet come off the ground, as the player
-  continues to take at one additional running
-  step.**
+continues to take at one additional running
+step.**
 
 **Unlike most open stance shots, the hips (and sometimes the
 shoulders) remain relatively closed through contact with the Power
@@ -99,9 +94,7 @@ moving. **Usually this means when the front foot lands, it is more or
 less pointing at the sideline. With the front foot facing sideways, the
 rotation is naturally reduced.**
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_contact-moves-the-power-move/media/image4.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_contact-moves-the-power-move/media/image4.webp)
 
 **The landing and the breaking step are followed by a crossover step and
 the recovery to a neutral position.**
@@ -123,9 +116,7 @@ travel, and what the opponent has done with the next ball.
 one or more shuffle steps to recover to the neutral position and prepare
 to move to the next ball.**
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_contact-moves-the-power-move/media/image5.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_contact-moves-the-power-move/media/image5.webp)
 
 **Developing the Power Move elements before hitting balls can help
 players at all levels.**
@@ -155,10 +146,9 @@ want to improve their running forehands.
 - **[the crossover step to begin the recover]**
 
 - **[and finally, shuffle steps to regain a neutral ready
-  position.]**
+position.]**
 
-![A person playing tennis Description automatically
-generated](media_contact-moves-the-power-move/media/image6.webp)
+![A person playing tennis Description automatically generated](media_contact-moves-the-power-move/media/image6.webp)
 
 **The reverse finish is associated with the reduced body rotation on the
 Power Move.**
@@ -169,7 +159,7 @@ Given the direction the body is moving and also the speed it makes sense
 that the racket path on the forehand Power Move is usually more upward,
 with the finish over the player's head.
 
-This is the \"reverse forehand\" finish described by Robert Lansdorp.
+This is the "reverse forehand" finish described by Robert Lansdorp.
 [link](../Famous%20Coaches/The%20Reverse%20Forehand.docx) We
 can see this most famously in the Sampras running forehand, but the same
 swing pattern is used by most of the top pros.
@@ -178,9 +168,7 @@ Without the torso rotation to drive the racket around and forward, it's
 natural for the swing to accelerate upward over the head, with the
 eventual finish moving backwards away from the player.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_contact-moves-the-power-move/media/image7.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_contact-moves-the-power-move/media/image7.webp)
 
 **Watch how Federer's step forward allows him to rotate more fully.**
 
@@ -193,12 +181,10 @@ step is more forward, you are less likely to see the reverse finish.
 
 The player is also able to rotate the torso according to a more normal
 pattern and the racket tends to extend further forward before following
-through. This is a good goal for any player when on the run\--to try to
+through. This is a good goal for any player when on the run--to try to
 move forward and cut down the angle of the oncoming shot.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_contact-moves-the-power-move/media/image8.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_contact-moves-the-power-move/media/image8.webp)
 
 **Though less common, top players use the Power Move on both two-handed
 and one-handed backhands.**
@@ -214,12 +200,11 @@ as for the forehand. The player is on the run full speed toward the
 sideline. Just prior to the start of the forward swing, he drops into an
 open running stance.
 
-During and after the hit\--as with the forehand\--the player is
+During and after the hit--as with the forehand--the player is
 airborne. The landing is with the front foot, and the back foot again
 kicks back for balance.
 
-![A person playing tennis Description automatically
-generated](media_contact-moves-the-power-move/media/image9.webp)
+![A person playing tennis Description automatically generated](media_contact-moves-the-power-move/media/image9.webp)
 
 **When two-handed players land with a forward diagonal step, they can
 rotate through the Power Move.**
@@ -239,9 +224,7 @@ case the front foot lands at an angle facing more forwards toward the
 net. From this position the player gains the ability to rotate more into
 the shot as on a typical groundstroke.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_contact-moves-the-power-move/media/image10.webp)\
+![A person playing tennis Description automatically generated with medium confidence](media_contact-moves-the-power-move/media/image10.webp)\
 **The Power Move on the one-hander with the torso staying sideways and
 the swing extending.**
 
@@ -262,7 +245,9 @@ So that's it for the Power Move. Next, defensive Contact Moves when the
 player is pushed backwards off the baseline rather than wide. Stay
 Tuned!
 
-![link](media_contact-moves-the-power-move/media/image11.jpeg)
+![Video demonstration](media_contact-moves-the-power-move/media/image11.jpeg)
+
+*Video demonstration — the original video for this article was hosted on TennisPlayer.net.*
 
 David Bailey is a native Australian who has spent 15 years studying
 tennis at the professional level. He has developed a new language for

@@ -4,9 +4,7 @@
 
 ### 
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_mental-toughness-training-the-16-second-cure-p2/media/image1.jpg)
+![A person playing tennis Description automatically generated with medium confidence](media_mental-toughness-training-the-16-second-cure-p2/media/image1.jpg)
 
 **Top players stay emotionally positive by developing their own unique
 patterns of between point behavior.**
@@ -31,9 +29,7 @@ a positive emotional oasis. No player can completely control what
 happens on the court. But every player can learn to control how he
 reacts to what happens by practicing the 16-second cure.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_mental-toughness-training-the-16-second-cure-p2/media/image2.jpg)\
+![A person playing tennis Description automatically generated with medium confidence](media_mental-toughness-training-the-16-second-cure-p2/media/image2.jpg)\
 **Can you recognize the 4 Stages of the 16 Second Cure as practiced by
 the top players?**
 
@@ -50,7 +46,6 @@ intuition, and experiment over a series of matches.
 | Seconds ** |
 | - **Stage 4 Ritual 5-8 Seconds ** |
 | - **TOTAL 16-25 Seconds ** |
-
 
 By mastering and personalizing the 4 Stages, you will develop the
 ability to create calm in the center of the storm.
@@ -69,13 +64,8 @@ For the pros they become a matter of routine. But if you are trying to
 develop the 4 stages for the first time yourself, it can seem like a
 radical and unfamiliar departure from old patterns.
 
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                                    ![A person holding a tennis racket Description automatically
-   generated](media_mental-toughness-training-the-16-second-cure-p2/media/image3.jpg)
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                               **Agassi, like successful, often pumps himself up after a good shot.**
-
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person holding a tennis racket Description automatically generated](media_mental-toughness-training-the-16-second-cure-p2/media/image3.jpg)
+**Agassi, like successful, often pumps himself up after a good shot.**
 
 The primary adjustment most players need to make is learning to take
 more time. Below the pro level, the majority of players play far too
@@ -109,13 +99,8 @@ or more to get comfortable and adapt them.
 As you become comfortable with taking a minimum of 16 seconds, work to
 become more precise in the practice and differentiation of the stages.
 
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                                    ![A person holding a tennis racket Description automatically
-   generated](media_mental-toughness-training-the-16-second-cure-p2/media/image4.webp)
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                            **Stage1: Serena stays positive by rehearsing corrections after an error.**
-
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person holding a tennis racket Description automatically generated](media_mental-toughness-training-the-16-second-cure-p2/media/image4.webp)
+**Stage1: Serena stays positive by rehearsing corrections after an error.**
 
 Allow yourself to experiment and begin to create your own unique
 rituals. Over the time you can learn to integrate the 4 stages
@@ -140,13 +125,8 @@ You can rehearse the correction to an error. Serena Williams is a top
 player who frequently rehearses her strokes after errors to stay
 mentally and emotionally positive.
 
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                                ![A picture containing text, person, person Description automatically
-   generated](media_mental-toughness-training-the-16-second-cure-p2/media/image5.webp)
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                   **Stage 2: Agassi recovers from the previous point, typically staying focused on the strings.**
-
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A picture containing text, person, person Description automatically generated](media_mental-toughness-training-the-16-second-cure-p2/media/image5.webp)
+**Stage 2: Agassi recovers from the previous point, typically staying focused on the strings.**
 
 Now, winner or error, turn and walk away from the point with your
 shoulders back. It's good to place the racquet in your non-dominant
@@ -163,16 +143,11 @@ the baseline. If necessary, walk back and forth to regain your
 equilibrium.
 
 Typically in Stage 2 players focus on the strings of the racquet. Keep
-your thoughts and self talk to a minimum, limited to things like \"Stay
-calm, it's OK, no problem, keep fighting, etc..\"
+your thoughts and self talk to a minimum, limited to things like "Stay
+calm, it's OK, no problem, keep fighting, etc.."
 
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                                ![A picture containing text, person, player Description automatically
-   generated](media_mental-toughness-training-the-16-second-cure-p2/media/image6.webp)
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                      **Stage 3: As Guga moves into position, he thinks how to play the next point, keeping a strong, positive body posture.**
-
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A picture containing text, person, player Description automatically generated](media_mental-toughness-training-the-16-second-cure-p2/media/image6.webp)
+**Stage 3: As Guga moves into position, he thinks how to play the next point, keeping a strong, positive body posture.**
 
 **[Stage Three: Preparation.]** Know what the score is,
 where you are in the match, and how you intend to play the next point.
@@ -189,16 +164,11 @@ your play in relation to your overall game plan.
 
 Stage 3 begins as a player moves into position to play. Frequently,
 players make a strong statement with their bodies, looking up to the
-opponent's side and adopting a posture that seems to say: \"I'm going
-to win this point!\"
+opponent's side and adopting a posture that seems to say: "I'm going
+to win this point!"
 
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                                    ![A picture containing text, person Description automatically
-   generated](media_mental-toughness-training-the-16-second-cure-p2/media/image7.webp)
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                                         **Stage 4: Watch Agassi's unique return ritual.**
-
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A picture containing text, person Description automatically generated](media_mental-toughness-training-the-16-second-cure-p2/media/image7.webp)
+**Stage 4: Watch Agassi's unique return ritual.**
 
 **[Stage 4: Ritual.]** Ritual allows you to reach the
 highest state of mental and physical readiness prior to the start of the
@@ -219,12 +189,7 @@ start of a point. Or the way he selects the balls from the ball boys on
 his service points, taking three balls but then discarding one and
 keeping two.
 
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------
-   ![link](media_mental-toughness-training-the-16-second-cure-p2/media/image8.png)
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------
-                            **Click Photo: Sampras has developed his own unique ritual, using one ball to start his service points.**
-
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------
+**Click Photo: Sampras has developed his own unique ritual, using one ball to start his service points.**
 
 Pete Sampras has his own variation on ball selection. He keeps only one
 ball for his first serve, taking the second ball if he hits a fault. You
@@ -248,12 +213,10 @@ As you develop your ability to follow the 4 Stages, and to make them
 your own, you will start to feel differently both on the court and after
 your matches.
 
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------
-   ![link](media_mental-toughness-training-the-16-second-cure-p2/media/image9.png)
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                   **Click Photo: Practicing the stages will lead to more fun and more competitive success.**
+![Video demonstration](media_mental-toughness-training-the-16-second-cure-p2/media/image9.png)
 
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------
+*Video demonstration — the original video for this article was hosted on TennisPlayer.net.*
+**Click Photo: Practicing the stages will lead to more fun and more competitive success.**
 
 You will find that you start to make more big shots under pressure, and
 also, to recover more quickly from your errors.
@@ -267,22 +230,17 @@ Practicing the stages, will help learn to access your Ideal Performance
 State on a consistent basis. With practice, you will be every bit as
 tough in your matches as the toughest of the pros.
 
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![A person smiling for the camera Description automatically generated with medium                                                                                                                    Jim Loehr is a legendary pioneer in the field of
-  confidence](media_mental-toughness-training-the-16-second-cure-p2/media/image10.jpeg)                                                                                                                                                                       himself who still competes nationally in USTA
-                                                                                                                                                                                                       events, Jim created the field of Mental
-                                                                                                                                                                                                       Toughness training with his revolutionary study
-                                                                                                                                                                                                       of elite pro players. He has been one of the
-                                                                                                                                                                                                       most influential voices in tennis and tennis
-                                                                                                                                                                                                       coaching for over 30 years, and is the author of
-                                                                                                                                                                                                       multiple best selling books. He has expanded his
-                                                                                                                                                                                                       influence far beyond sports with the creation of
-                                                                                                                                                                                                       the Human Performance Institute where he and his
-                                                                                                                                                                                                       staff have worked with hundreds of leaders in
-                                                                                                                                                                                                       business, law enforcement, and military special
-                                                                                                                                                                                                       forces. For the last decade he has also directed
-                                                                                                                                                                                                       an academy for junior players helping young
-                                                                                                                                                                                                       people learn what winning in life really means.
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ------------------------------------------------
-
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person smiling for the camera Description automatically generated with medium                                                                                                                    Jim Loehr is a legendary pioneer in the field of confidence](media_mental-toughness-training-the-16-second-cure-p2/media/image10.jpeg)                                                                                                                                                                       himself who still competes nationally in USTA
+events, Jim created the field of Mental
+Toughness training with his revolutionary study
+of elite pro players. He has been one of the
+most influential voices in tennis and tennis
+coaching for over 30 years, and is the author of
+multiple best selling books. He has expanded his
+influence far beyond sports with the creation of
+the Human Performance Institute where he and his
+staff have worked with hundreds of leaders in
+business, law enforcement, and military special
+forces. For the last decade he has also directed
+an academy for junior players helping young
+people learn what winning in life really means.

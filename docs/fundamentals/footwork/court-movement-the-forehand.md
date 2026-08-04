@@ -2,15 +2,8 @@
 
 ### **Bob Hansen**
 
-------------------------------------------------------------------------
-
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![A person playing a guitar Description automatically generated with medium
-  confidence](media_court-movement-the-forehand/media/image1.webp)
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  **The Initial Move: a push with the Inside Foot and a step with the Outside Foot toward the ball.**
-
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person playing a guitar Description automatically generated with medium confidence](media_court-movement-the-forehand/media/image1.webp)
+**The Initial Move: a push with the Inside Foot and a step with the Outside Foot toward the ball.**
 
 Tennis is a game of movement, and great tennis moves great movement.
 
@@ -28,10 +21,9 @@ relatively quickly and arrive in position to hit the ball.
 Focus on the smooth, effortless movement of the world's great players
 when you watch matches on television. By learning the same movement
 patterns yourself, you will take a big step toward reaching your real
-potential\--beyond just working on your strokes.
+potential--beyond just working on your strokes.
 
-![A person playing tennis Description automatically generated with low
-confidence](media_court-movement-the-forehand/media/image2.jpg)
+![A person playing tennis Description automatically generated with low confidence](media_court-movement-the-forehand/media/image2.jpg)
 
 **The Outside Foot is the right foot, closer to the ball, and the Inside
 Foot is the left.**
@@ -52,9 +44,7 @@ forehand, that is, the foot closer to the ball. The Inside Foot for a
 right-handed forehand, will be the left foot, the foot further from the
 ball.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_court-movement-the-forehand/media/image3.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_court-movement-the-forehand/media/image3.webp)
 
 **Position to the ball with the Outside Foot.**
 
@@ -73,9 +63,7 @@ hitting alignment and the ability to change directions quickly. **As
 the player arrives, he gauges his distance and his position to the ball
 with the Outside Foot.**
 
-![A picture containing tennis, sport, athletic game, court Description
-automatically
-generated](media_court-movement-the-forehand/media/image4.webp)
+![A picture containing tennis, sport, athletic game, court Description automatically generated](media_court-movement-the-forehand/media/image4.webp)
 
 **Positioning behind the ball allows you to hit open stance
 effectively.**
@@ -94,9 +82,7 @@ players at all levels should develop as well.**
 
 **Common Movement Errors**
 
-[ ]![A person playing tennis Description automatically
-generated with medium
-confidence](media_court-movement-the-forehand/media/image5.webp)
+[ ]![A person playing tennis Description automatically generated with medium confidence](media_court-movement-the-forehand/media/image5.webp)
 
 **3 movement errors:**
 
@@ -124,8 +110,7 @@ method with the fewest possible steps. Your goal is to return to the
 center of your opponent's possible angles and re-establish a good ready
 position before he hits.
 
-![A picture containing player, tennis Description automatically
-generated](media_court-movement-the-forehand/media/image6.webp)
+![A picture containing player, tennis Description automatically generated](media_court-movement-the-forehand/media/image6.webp)
 
 **Watch a close up of the exchange, followed by a wide view of the
 entire pattern and the movement back to the middle.**
@@ -159,9 +144,7 @@ the left. The three most common errors are: running through the shot,
 swinging the outside foot around, and hitting and bringing the left foot
 back.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_court-movement-the-forehand/media/image7.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_court-movement-the-forehand/media/image7.webp)
 
 **Common recovery errors: running through; swinging the outside foot;
 recovering with the left foot.**
@@ -169,9 +152,7 @@ recovering with the left foot.**
 In the next article we'll look at patterns of great court movement on
 the backhand.
 
-![A picture containing tree, outdoor, person, purple Description
-automatically
-generated](media_court-movement-the-forehand/media/image8.jpeg)
+![A picture containing tree, outdoor, person, purple Description automatically generated](media_court-movement-the-forehand/media/image8.jpeg)
 
 **Bob Hansen** is the long time mens varsity coach at the University of
 California at Santa Cruz, where he has lead his beloved Banana Slugs to

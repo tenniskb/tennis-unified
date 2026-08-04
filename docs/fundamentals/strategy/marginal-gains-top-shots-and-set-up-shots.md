@@ -2,15 +2,12 @@
 
 ### Nick Wheatley
 
-------------------------------------------------------------------------
-
-![A person playing tennis Description automatically
-generated](media_marginal-gains-top-shots-and-set-up-shots/media/image1.webp)
+![A person playing tennis Description automatically generated](media_marginal-gains-top-shots-and-set-up-shots/media/image1.webp)
 
 **Winning 52% of his total points made Kyle Edmund number 14 in the
 world.**
 
-In 2018, Kyle Edmund finished ranked No.14 in the world\--the 14th best
+In 2018, Kyle Edmund finished ranked No.14 in the world--the 14th best
 player on the planet. Yet, he lost 48% of all the points that he played.
 That's right, being able to win 52% of his total points was enough to
 rank him that high, amongst the tennis elite, and with the ability to
@@ -27,9 +24,7 @@ level of the game all the way down to your local club singles league.
 Whatever level you play at, being able to win an extra 1% or 2% or 5% of
 the total points you play can make a huge difference in your results.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_marginal-gains-top-shots-and-set-up-shots/media/image2.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_marginal-gains-top-shots-and-set-up-shots/media/image2.webp)
 
 **How well do you really understand your game?**
 
@@ -76,9 +71,7 @@ these shots in a neutral or attacking capacity, not a defensive one. In
 other words, when you have sufficient time to play the shot on your
 terms. These are:
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_marginal-gains-top-shots-and-set-up-shots/media/image3.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_marginal-gains-top-shots-and-set-up-shots/media/image3.webp)
 
 **What's your top shot?**
 
@@ -104,7 +97,9 @@ percentage play. For this reason, if you hit your forehand down the
 line, you should expect your opponent to play the ball back cross-court
 most of the time.
 
-![link](media_marginal-gains-top-shots-and-set-up-shots/media/image4.webp)
+![Video demonstration](media_marginal-gains-top-shots-and-set-up-shots/media/image4.webp)
+
+*Video demonstration — the original video for this article was hosted on TennisPlayer.net.*
 
 **Here Nadal uses his inside in forehand to set up a forehand
 crosscourt**
@@ -178,8 +173,6 @@ Forehand Down the Line
 
 Backhand Crosscourt
 
- 
-
 ### Top Shot: Backhand Down the Line
 
 Set Up Shots:
@@ -190,11 +183,7 @@ Forehand Down the Line
 
 Backhand Crosscourt
 
- 
-
-![A group of people playing ping pong Description automatically
-generated with low
-confidence](media_marginal-gains-top-shots-and-set-up-shots/media/image5.webp)
+![A group of people playing ping pong Description automatically generated with low confidence](media_marginal-gains-top-shots-and-set-up-shots/media/image5.webp)
 
 **Federer uses a forehand down the line to set up a forehand inside
 in.**
@@ -224,25 +213,34 @@ repeatedly you may adjust your fav shots or even your top shot.
 Next we will look at how the cross-court diagonals figure into using
 your fav shots and your top shot. Stay Tuned.
 
-| ![A person holding a tennis racket Description automatically | Nick Wheatley is an LTA Performance Coach and |
-| --- | --- |
-| generated](media_marginal-gains-top-shots-and-set-up-shots/media/image6.jpeg) | His junior teams, the Hawker Jets, have won 44 |
-|  | competitions since formation, and over the last 2 |
-|  | years alone, his junior players have won 19 |
-|  | singles tournaments between them at county level. |
-|  |  |
-|  | He has been ranked in the top 75 nationally in 35 |
-|  | and over singles and in the top 5 in Surrey |
-|  | county. Nick has done video analysis for numerous |
-|  | players at all levels, including former British |
-|  | Top 10 player Marcus Willis. |
-|  |  |
-|  | His unique teaching video series, covering every |
-|  | aspect of the game, is available on his website |
-|  | [www.nickwtennis.com](http://www.nickwtennis.com) |
-|  |  |
-|  | You can also contact Nick directly via the |
-|  | homepage of his website. |
+![A person holding a tennis racket Description automatically generated](media_marginal-gains-top-shots-and-set-up-shots/media/image6.jpeg)
 
+Nick Wheatley is an LTA Performance Coach and
 
-------------------------------------------------------------------------
+His junior teams, the Hawker Jets, have won 44
+
+competitions since formation, and over the last 2
+
+years alone, his junior players have won 19
+
+singles tournaments between them at county level.
+
+He has been ranked in the top 75 nationally in 35
+
+and over singles and in the top 5 in Surrey
+
+county. Nick has done video analysis for numerous
+
+players at all levels, including former British
+
+Top 10 player Marcus Willis.
+
+His unique teaching video series, covering every
+
+aspect of the game, is available on his website
+
+[www.nickwtennis.com](http://www.nickwtennis.com)
+
+You can also contact Nick directly via the
+
+homepage of his website.

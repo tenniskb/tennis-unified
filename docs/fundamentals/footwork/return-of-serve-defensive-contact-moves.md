@@ -5,9 +5,7 @@ Defensive Contact Moves**
 
 **David Bailey**
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_return-of-serve-defensive-contact-moves/media/image1.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_return-of-serve-defensive-contact-moves/media/image1.webp)
 
 **The Power Move: a long lunging cross step to return a wide fast
 serve.**
@@ -28,21 +26,19 @@ dynamic and explosive.
 
 | **For each of these Contact Moves we will outline:** |
 | --- |
-| 1\. Type ball on which to use contact move |
+| 1. Type ball on which to use contact move |
 |  |
-| 2\. Out steps or the steps to set up the stance |
+| 2. Out steps or the steps to set up the stance |
 |  |
-| 3\. Hitting Stance |
+| 3. Hitting Stance |
 |  |
-| 4\. Contact Move itself |
+| 4. Contact Move itself |
 |  |
-| 5\. Corresponding Balance Move |
+| 5. Corresponding Balance Move |
 |  |
-| 6\. Recovery Steps |
+| 6. Recovery Steps |
 
-
-![A person playing tennis Description automatically
-generated](media_return-of-serve-defensive-contact-moves/media/image2.webp)
+![A person playing tennis Description automatically generated](media_return-of-serve-defensive-contact-moves/media/image2.webp)
 
 **A pivot into an open stance, the lunge step and landing, a breaking
 step and a crossover recovery step.**
@@ -75,8 +71,7 @@ to be hit off an unstable, moving base, the secret is staying down
 through the shot as much as possible. Jumping leads to a loss of balance
 and power and either hitting the ball long or dumping it in the net.
 
-![A person playing tennis Description automatically
-generated](media_return-of-serve-defensive-contact-moves/media/image3.webp)
+![A person playing tennis Description automatically generated](media_return-of-serve-defensive-contact-moves/media/image3.webp)
 
 **An extreme Power Move: a drop step, two cross steps, the lunge step, a
 breaking step, and two crossover recovery steps.**
@@ -98,7 +93,7 @@ player stay low.
 
 Typically after the hit the player continues to move in the direction of
 the lunge, taking one or more breaking steps. But the player may also
-decide to \"go for it,\" attempting an outright winner with no intention
+decide to "go for it," attempting an outright winner with no intention
 to recover back towards the court.
 
 The balance move of the forehand power return move is a kick back with
@@ -106,9 +101,7 @@ the back leg. As the player makes contact, the back leg kicks back
 towards the side fence. The rear leg kicks back, then swings around and
 stops the body with a breaking step on the court.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_return-of-serve-defensive-contact-moves/media/image4.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_return-of-serve-defensive-contact-moves/media/image4.webp)
 
 **The kick back balance move, the breaking step, and the crossover
 recovery.**
@@ -138,9 +131,7 @@ cut off the angle of the ball, the player lunges across his body with a
 cross step with the front foot. Players use the Power Move on the return
 for both the one-handed and two-handed backhands.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_return-of-serve-defensive-contact-moves/media/image5.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_return-of-serve-defensive-contact-moves/media/image5.webp)
 
 **A pivot step, a shuffle step, then the lunge, the break step, and a
 crossover recovery.**
@@ -165,9 +156,7 @@ swings around. This kick back reduces over rotation, creates balance and
 loads the back leg to make a break step. Kicking the leg back also
 increases the length of the forward swing.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_return-of-serve-defensive-contact-moves/media/image6.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_return-of-serve-defensive-contact-moves/media/image6.webp)
 
 **A step out into an open stance, a sideways lunge step, the kick back,
 and then, shuffle steps to recover.**
@@ -188,7 +177,9 @@ already improving! Next we'll move on to other areas where footwork is
 critical, such as the approach, and on the recovery after the serve.
 Stay tuned!
 
-![link](media_return-of-serve-defensive-contact-moves/media/image7.jpeg)
+![Video demonstration](media_return-of-serve-defensive-contact-moves/media/image7.jpeg)
+
+*Video demonstration — the original video for this article was hosted on TennisPlayer.net.*
 
 David Bailey is a native Australian who has spent 15 years studying
 tennis at the professional level. He has developed a new language for

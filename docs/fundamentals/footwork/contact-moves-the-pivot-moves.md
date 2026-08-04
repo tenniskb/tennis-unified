@@ -2,8 +2,7 @@
 
 **David Bailey**
 
-![A person playing tennis Description automatically
-generated](media_contact-moves-the-pivot-moves/media/image1.webp)
+![A person playing tennis Description automatically generated](media_contact-moves-the-pivot-moves/media/image1.webp)
 
 **Pivot Moves: players keep one or both feet on the ground.**
 
@@ -28,9 +27,7 @@ the Spin Moves, Pivot Moves are used to stay in rallies and/or
 neutralize fast, deep shots. In some circumstances they also give
 players the chance to counterattack.**
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_contact-moves-the-pivot-moves/media/image2.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_contact-moves-the-pivot-moves/media/image2.webp)
 
 **The Two Foot Pivot: both feet on the court, rotating after the
 contact.**
@@ -53,19 +50,17 @@ backhand, and is hit from an open or semi-open
 stance.**
 
 **Often players use the Two Foot Pivot when the ball is hit directly
-at them.** **[[In this case the preparation or the
+at them.** **[In this case the preparation or the
 turn move can be a small out step or simply a turn with both feet
 turning sideways from the split step.] [On these balls, the shot
 can be hit with an extreme open stance, as there is usually not time to
-further adjust the feet.]]**
+further adjust the feet.]**
 
 **As the player swings, both feet keep in contact with the court, but
 pivot or rotate on the court surface. This rotation corresponds to the
 rotation of the body.**
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_contact-moves-the-pivot-moves/media/image3.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_contact-moves-the-pivot-moves/media/image3.webp)
 
 **Pivot moves are essential with the increases in body rotation in the
 modern game.**
@@ -103,8 +98,7 @@ much as spin and is not as high bouncing, compared to the men's game.
 **In the men's game, the Two Foot Pivot is rarer, and the One Foot
 Pivot is much more common.**
 
-![A person playing tennis Description automatically
-generated](media_contact-moves-the-pivot-moves/media/image4.webp)
+![A person playing tennis Description automatically generated](media_contact-moves-the-pivot-moves/media/image4.webp)
 
 **The One Foot Pivot: the outside foot stays on the court, rotating
 after contact.**
@@ -136,8 +130,7 @@ the ball, the feet can pivot until they face the net, or continue
 further until they point at the opposite
 sideline.**
 
-![A person playing tennis Description automatically
-generated](media_contact-moves-the-pivot-moves/media/image5.webp)
+![A person playing tennis Description automatically generated](media_contact-moves-the-pivot-moves/media/image5.webp)
 
 **Players sometimes use a One Foot Pivot when they hit the two-hander
 open stance.**
@@ -165,8 +158,7 @@ somewhat without having **to leave the court completely. The rear foot
 then pivots through the shot after the contact, corresponding to the
 rotation of the shoulders and hips.**
 
-![A person playing tennis Description automatically
-generated](media_contact-moves-the-pivot-moves/media/image6.webp)
+![A person playing tennis Description automatically generated](media_contact-moves-the-pivot-moves/media/image6.webp)
 
 **Less body rotation on the two-hander means less rotation of the pivot
 foot.**
@@ -187,7 +179,9 @@ middle.**
 So that's it for the Pivot Moves! Stay tuned for the next article which
 will start our analysis of the Defensive Contact Moves.
 
-![link](media_contact-moves-the-pivot-moves/media/image7.jpeg)
+![Video demonstration](media_contact-moves-the-pivot-moves/media/image7.jpeg)
+
+*Video demonstration — the original video for this article was hosted on TennisPlayer.net.*
 
 David Bailey is a native Australian who has spent 15 years studying
 tennis at the professional level. He has developed a new language for

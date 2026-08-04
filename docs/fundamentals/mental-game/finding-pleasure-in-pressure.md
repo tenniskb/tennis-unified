@@ -4,17 +4,13 @@
 
 ### Jeff Greenwald
 
-------------------------------------------------------------------------
-
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_finding-pleasure-in-pressure/media/image1.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_finding-pleasure-in-pressure/media/image1.webp)
 
 **Pete Sampras: relaxed and able to make big shots under pressure.**
 
 I'm often asked how the best players in the world compete so well when
-the stakes are so high. \"How do they deal with the stress with so much
-on the line?\" Answer: They learn to thrive on it. They don't
+the stakes are so high. "How do they deal with the stress with so much
+on the line?" Answer: They learn to thrive on it. They don't
 experience pressure in the same way most people do.
 
 Literally, the top players know how to find pleasure in pressure.
@@ -28,18 +24,17 @@ training method that can help you create this same powerful
 constellation of thought, emotion, and sensation in your own matches.
 
 Do you know what Pete Sampras told Inside Tennis after his retirement
-that he missed the most about the game? He said, \"I miss feeling so
-nervous that I would throw up before the finals of Wimbledon.\"
+that he missed the most about the game? He said, "I miss feeling so
+nervous that I would throw up before the finals of Wimbledon."
 
-So don't think that the top players don't get nervous. They do\--very
+So don't think that the top players don't get nervous. They do--very
 nervous at times. Yet Pete was one of the most relaxed players in the
 history of tennis when the pressure was on. He came up with big shots
 that changed matches time after time after time. So something changed
 dramatically between the pre-match feeling of acute nervousness and how
 he felt when it mattered most.
 
-![A person playing tennis Description automatically
-generated](media_finding-pleasure-in-pressure/media/image2.webp)
+![A person playing tennis Description automatically generated](media_finding-pleasure-in-pressure/media/image2.webp)
 
 **How do top players push themselves to make shot after shot?**
 
@@ -55,15 +50,13 @@ stay sufficiently relaxed physically, and finally, knowing how to
 transform your nervous energy into a positive force.
 
 This is what I mean by finding pleasure in pressure. It is the only real
-way to improve your odds of winning that 5\--4 game in the third set.
+way to improve your odds of winning that 5--4 game in the third set.
 
 At almost all other levels players' experiences are usually the
 complete opposite. Big moments are the times most players like the
 least, and when they are most likely to crumble.
 
-![A person standing in front of a crowd of people Description
-automatically generated with low
-confidence](media_finding-pleasure-in-pressure/media/image3.webp)
+![A person standing in front of a crowd of people Description automatically generated with low confidence](media_finding-pleasure-in-pressure/media/image3.webp)
 
 **Getting distracted by a bad call is one way to escape from pressure.**
 
@@ -78,7 +71,7 @@ feelings is to get out of the match or shift the focus away from how
 they feel to something external happening around them.
 
 So, they try impossible shots, or they choke, or they tank. Or they get
-angry. Or they become distracted and upset by extraneous factors\--the
+angry. Or they become distracted and upset by extraneous factors--the
 personality of the opponent, line calls, officials, spectators, etc.
 
 **Subjective Pressure**
@@ -88,18 +81,13 @@ pressure means and feels like to you. How pressure affects you depends
 on your belief in your ability to handle the situation. And how you feel
 inside your own body.
 
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                 ![A picture containing person, sport, player, outdoor Description automatically
-   generated](media_finding-pleasure-in-pressure/media/image4.jpg)
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                  **Try to tense up with your tongue hanging out of your mouth like Michael.**
-
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A picture containing person, sport, player, outdoor Description automatically generated](media_finding-pleasure-in-pressure/media/image4.jpg)
+**Try to tense up with your tongue hanging out of your mouth like Michael.**
 
 Elite athletes aren't overwhelmed because they aren't feeling the same
 way as the average player. In his book, Driven From Within, Michael
-Jordan says, \"The day I don't feel nervous is the day I know I must
-quit the game of basketball.\"
+Jordan says, "The day I don't feel nervous is the day I know I must
+quit the game of basketball."
 
 But, regardless of his alleged nerves, Michael always wanted the ball.
 He may have been nervous before games like Pete Sampras. But look at the
@@ -124,9 +112,7 @@ only use it in the right way. The secret is to accept the fear and
 nervous energy, but then to learn relax physically and transform it into
 positive energy. This is what the top players do instinctively.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_finding-pleasure-in-pressure/media/image5.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_finding-pleasure-in-pressure/media/image5.webp)
 
 **Your nervous tension can become a powerful source of positive
 energy.**
@@ -155,9 +141,7 @@ Relaxation (PMR). Through Benson's research, it has been proven that
 people who practice his techniques can significantly shift the way their
 bodies respond to stress in just six weeks.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_finding-pleasure-in-pressure/media/image6.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_finding-pleasure-in-pressure/media/image6.webp)
 
 **Federer, so fluid and relaxed, it looks easy.**
 
@@ -181,8 +165,7 @@ not be disturbed for at least ten to fifteen minutes. If possible, lie
 down on the floor or a bed. But you can also work the process sitting or
 even standing up.
 
-![A person in a blue shirt Description automatically generated with low
-confidence](media_finding-pleasure-in-pressure/media/image7.webp)
+![A person in a blue shirt Description automatically generated with low confidence](media_finding-pleasure-in-pressure/media/image7.webp)
 
 **You can use progressive Relaxation techniques on the court.**
 
@@ -199,28 +182,25 @@ muscles feel now. It's critical to pinpoint that physical difference.
 Here are the areas of the body and the order in which to work them. The
 sequence again is Tense for 7 seconds, Relax for 15 seconds:
 
-  --------------------------------------------------------
-           **Tense your arms and hands. Relax. **
-  --------------------------------------------------------
-              **Tense your stomach. Relax. **
+**Tense your arms and hands. Relax. **
+**Tense your stomach. Relax. **
 
-       **Shrug your shoulders to your ears. Relax. **
+**Shrug your shoulders to your ears. Relax. **
 
-         **Bite down and tense your jaw. Relax. **
+**Bite down and tense your jaw. Relax. **
 
-            **Tense your entire face. Relax. **
+**Tense your entire face. Relax. **
 
-               **Tense your quads. Relax.  **
+**Tense your quads. Relax.  **
 
-              **Tense your calves. Relax.  **
+**Tense your calves. Relax.  **
 
-            **Tense your entire body. Relax.  **
-  --------------------------------------------------------
+**Tense your entire body. Relax.  **
 
 Now pair the feelings you have in your body during the relaxation phase
 with a cue word or words. Cue words will form the basis for recalling
-the relaxed feelings on the court. Some basic examples are: \"Loose,
-Calm, Excited, Energized,\" etc, etc. You should adopt the one or ones
+the relaxed feelings on the court. Some basic examples are: "Loose,
+Calm, Excited, Energized," etc, etc. You should adopt the one or ones
 that feel right for you, or better yet, create your own.
 
 If you wish, you can repeat the process twice for each specific area
@@ -229,14 +209,13 @@ process once for each area and then go back and repeat the entire
 sequence. With practice you will develop the systematic ability to make
 a noticeable shift in your tension level.
 
-![A person holding a tennis racket Description automatically
-generated](media_finding-pleasure-in-pressure/media/image8.webp)
+![A person holding a tennis racket Description automatically generated](media_finding-pleasure-in-pressure/media/image8.webp)
 
 **To execute under pressure, you need to look forward to pressure.**
 
 As you get more comfortable with the process, expand the cue words to
-phrases like: \"I enjoy pressure. \"Pressure situations give me the
-opportunity to play my best,\" \"I love being in this situation,\" etc.
+phrases like: "I enjoy pressure. "Pressure situations give me the
+opportunity to play my best," "I love being in this situation," etc.
 Again, create the phrases that are right for you.
 
 Once you get comfortable with the PMR you can take it a step further by
@@ -251,8 +230,7 @@ a running pass. Or a clutch high forehand volley on a floating ball. Or
 all of them, or some combination. Personalize these images based on your
 own game and what you would like to see happen in matches.
 
-![A person playing tennis Description automatically
-generated](media_finding-pleasure-in-pressure/media/image9.webp)
+![A person playing tennis Description automatically generated](media_finding-pleasure-in-pressure/media/image9.webp)
 
 **Imagine yourself executing patterns the need to win matches.**
 
@@ -274,8 +252,7 @@ your progressive relaxation exercises for those tense areas. Use the
 relaxed feeling you have developed to drive the execution of the
 strokes.
 
-![A person holding a tennis racket Description automatically
-generated](media_finding-pleasure-in-pressure/media/image10.webp)**Smile to yourself and get ready to channel your energy
+![A person holding a tennis racket Description automatically generated](media_finding-pleasure-in-pressure/media/image10.webp)**Smile to yourself and get ready to channel your energy
 into the ball.**
 
 If you are working the process correctly, you will literally feel the
@@ -289,14 +266,12 @@ joy the pros feel when they come up with clutch shots at the right time.
 
 Next time you go up 5-4 in the third serving and feel a pang of nervous
 energy, or when you find yourself hoping that your opponent will hand
-you the match with some loose errors, remind yourself, \"I love this. I
-wouldn't want to be anywhere else.\" Then smile to yourself as you
+you the match with some loose errors, remind yourself, "I love this. I
+wouldn't want to be anywhere else." Then smile to yourself as you
 channel your energy into the ball and watch the ball pass your opponent
 just when you needed it most.
 
-![A tennis player hitting a ball Description automatically generated
-with low
-confidence](media_finding-pleasure-in-pressure/media/image11.jpeg)
+![A tennis player hitting a ball Description automatically generated with low confidence](media_finding-pleasure-in-pressure/media/image11.jpeg)
 
 The Best Tennis of Your Life
 
@@ -304,15 +279,13 @@ Learn how to play with freedom and win more matches! In his new book
 Jeff Greenwald, an elite international seniors player, coach, and
 psychotherapist, outlines 50 specific mental strategies to play the best
 tennis of your life. See how to embrace pressure, maintain confidence,
-and increase your focus and intensity. Jim Loehr calls Jeff's book: \"a
-real contribution to the field of applied sports psychology.\"\
+and increase your focus and intensity. Jim Loehr calls Jeff's book: "a
+real contribution to the field of applied sports psychology."\
 \
 [ to
 Order!](http://www.amazon.com/Best-Tennis-Your-Life-Performance/dp/1558708448/ref=pd_bbs_sr_1?ie=UTF8&s=books&qid=1200341206&sr=8-1)
 
-![A person smiling for the camera Description automatically generated
-with low
-confidence](media_finding-pleasure-in-pressure/media/image12.jpeg)
+![A person smiling for the camera Description automatically generated with low confidence](media_finding-pleasure-in-pressure/media/image12.jpeg)
 
 Jeff Greenwald, M.A., MFT is a nationally recognized sport psychology
 consultant. Jeff has worked as a consultant for the United States Tennis
@@ -321,8 +294,8 @@ game. As a player in the men's 35 and over age division he attained an
 ITF #1 world ranking, as well as the #1 ranking in men's singles and
 doubles in the United States.
 
-Greenwald is the author of [\"The Best Tennis of Your
-Life\"](http://www.amazon.com/Best-Tennis-Your-Life-Performance/dp/1558708448/ref=pd_bbs_sr_1?ie=UTF8&s=books&qid=1200341206&sr=8-1)
+Greenwald is the author of ["The Best Tennis of Your
+Life"](http://www.amazon.com/Best-Tennis-Your-Life-Performance/dp/1558708448/ref=pd_bbs_sr_1?ie=UTF8&s=books&qid=1200341206&sr=8-1)
 published by Betterway. [ to
 order.](http://www.amazon.com/Best-Tennis-Your-Life-Performance/dp/1558708448/ref=pd_bbs_sr_1?ie=UTF8&s=books&qid=1200341206&sr=8-1)
 Jeff has a private practice based in San Francisco and Marin County,

@@ -4,8 +4,6 @@
 
 ### Craig Cignarelli
 
-------------------------------------------------------------------------
-
 Learning to win means devising and improvising scenarios to against the
 various game styles in the pro game and at all other levels. In Part 1
 of this article. ([link](Situational%20and%20Scenario%20Analysis%20-%20Part%201.docx)) we
@@ -20,9 +18,7 @@ match situations are ever exactly the same, and the point isn't to
 memorize a series of fixed answers. The point is to study these examples
 in order to help you learn the process of adaptation.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_situational-and-scenario-analysis-part-2/media/image1.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_situational-and-scenario-analysis-part-2/media/image1.webp)
 
 **What if you are losing the war, side to side?**
 
@@ -49,9 +45,7 @@ opponent into the net. You may also try a loop deep and sneaking in
 behind it. These options may not be the strength of your game but if you
 are still losing in the rallies, it is worth the experiment.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_situational-and-scenario-analysis-part-2/media/image2.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_situational-and-scenario-analysis-part-2/media/image2.webp)
 
 **How do you reverse an inside attack?**
 
@@ -76,8 +70,7 @@ charging off deep shots hit from your weak side. Your opponent may feel
 pressured on the passing shot and miss some balls, especially at
 critical times.
 
-![A person holding a stick Description automatically generated with low
-confidence](media_situational-and-scenario-analysis-part-2/media/image3.webp)
+![A person holding a stick Description automatically generated with low confidence](media_situational-and-scenario-analysis-part-2/media/image3.webp)
 
 **What if high balls are making you hit short?**
 
@@ -98,9 +91,7 @@ the ball to drop and looking for the passing shot, or well inside the
 baseline looking to take the ball on the rise before it gets above your
 shoulder.
 
-![A couple of people playing tennis Description automatically generated
-with low
-confidence](media_situational-and-scenario-analysis-part-2/media/image4.webp)
+![A couple of people playing tennis Description automatically generated with low confidence](media_situational-and-scenario-analysis-part-2/media/image4.webp)
 
 **What about a fast opponent with great angles?**
 
@@ -122,8 +113,7 @@ that angles are her strengths, you can also try approaching on balls
 somewhat more to the middle, which will not open the court as sharply
 for her crosscourt passes.
 
-![A person playing tennis Description automatically
-generated](media_situational-and-scenario-analysis-part-2/media/image5.webp)
+![A person playing tennis Description automatically generated](media_situational-and-scenario-analysis-part-2/media/image5.webp)
 
 **How do you counter hard, deep and down the middle?**
 
@@ -144,8 +134,7 @@ little more time to deal with the ball but make sure you extend your
 swing longer to get the same depth as you had when you were one step
 closer to the line.
 
-![A person playing tennis Description automatically
-generated](media_situational-and-scenario-analysis-part-2/media/image6.webp)
+![A person playing tennis Description automatically generated](media_situational-and-scenario-analysis-part-2/media/image6.webp)
 
 **What if the return puts you on defense?**
 
@@ -160,9 +149,7 @@ return patterns of your opponent and make quick first step moves to
 counter their patterns. Now play defense on your first shot and hit
 high, deep, and crosscourt to neutralize the attacking returns.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_situational-and-scenario-analysis-part-2/media/image7.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_situational-and-scenario-analysis-part-2/media/image7.webp)
 
 **How to you counter a deep drive followed by a drop shot?**
 
@@ -177,8 +164,7 @@ may choose to hit a loop down the line to make the opponent hit the
 dropshot on the run. You may also choose simply to increase your pace,
 as the dropshot is also more difficult to execute off faster balls.
 
-![A person playing tennis Description automatically
-generated](media_situational-and-scenario-analysis-part-2/media/image8.webp)
+![A person playing tennis Description automatically generated](media_situational-and-scenario-analysis-part-2/media/image8.webp)
 
 **What if your opponent cuts off your loops with swinging volleys?**
 
@@ -195,12 +181,11 @@ Attempt to take the net from her when you can and put her on the
 defensive by mixing in some approaches of your own.
 
 Got a scenario for me versus a tough opponent of your own? Post a
-description in the Forum under the \"Strategy\" section, and I'll try
+description in the Forum under the "Strategy" section, and I'll try
 to come up with some suggestions on how you can adapt and counter it in
 your own matches.
 
-![A person holding a tennis racket Description automatically
-generated](media_situational-and-scenario-analysis-part-2/media/image9.jpeg)
+![A person holding a tennis racket Description automatically generated](media_situational-and-scenario-analysis-part-2/media/image9.jpeg)
 
 Craig Cignarelli is one of the most prolific and successful
 developmental coaches in the country. His original analysis of
@@ -210,5 +195,5 @@ personally nurtured 4 junior players from the beginning of their careers
 who have gone on to achieve #1 national rankings. Currently he is
 working with a cadre of aspiring WTA and ATP players, as well as
 competitive juniors at all levels. Versed in 4 languages, Craig is
-completing his first book \"What Champions Know,\" which forms the basis
+completing his first book "What Champions Know," which forms the basis
 for his articles on Tennisplayer.

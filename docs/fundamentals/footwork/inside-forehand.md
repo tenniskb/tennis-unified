@@ -15,9 +15,10 @@ you want to see Federer demonstrate them himself. [link](https://www.tennisplaye
 to visit the Interactive Forum and see them in our amazing superslow
 motion footage.
 
-![link](media_inside-forehand/media/image1.png)
 
-![link](media_inside-forehand/media/image2.jpeg)
+![Video demonstration](media_inside-forehand/media/image2.jpeg)
+
+*Video demonstration — the original video for this article was hosted on TennisPlayer.net.*
 
 David Bailey is a native Australian who has spent 15 years studying
 tennis at the professional level. He has developed a new language for

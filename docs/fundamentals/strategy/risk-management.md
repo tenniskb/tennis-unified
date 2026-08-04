@@ -2,8 +2,6 @@
 
 ### Nick Wheatley
 
-------------------------------------------------------------------------
-
 As much as the foundation of your strategy should be built around your
 strengths and game style, there will always be times in matches where
 lower percentage shots will be played. These tend to look great when
@@ -35,7 +33,7 @@ Own the risk when you choose a high risk shot.
 Own the Risk
 
 Whenever you are faced with choosing a high risk shot, I like to use the
-term "own the risk.\" Take ownership of the risk you are taking, and
+term "own the risk." Take ownership of the risk you are taking, and
 understand what will help it to go your way, like hitting early and with
 confidence. If your strike the ball late on a down the line shot, and it
 invariably goes wide.
@@ -140,25 +138,34 @@ Using the kick serve here can be particularly effective, giving time to
 close the net. This bravery is often rewarded with a simple volley to
 win the point, and instant release of pressure.
 
-| ![A person holding a tennis racket Description automatically | Nick Wheatley is an LTA Performance Coach and |
-| --- | --- |
-| generated](media_risk-management/media/image1.jpeg) | His junior teams, the Hawker Jets, have won 44 |
-|  | competitions since formation, and over the last 2 |
-|  | years alone, his junior players have won 19 |
-|  | singles tournaments between them at county level. |
-|  |  |
-|  | He has been ranked in the top 75 nationally in 35 |
-|  | and over singles and in the top 5 in Surrey |
-|  | county. Nick has done video analysis for numerous |
-|  | players at all levels, including former British |
-|  | Top 10 player Marcus Willis. |
-|  |  |
-|  | His unique teaching video series, covering every |
-|  | aspect of the game, is available on his website |
-|  | [www.nickwtennis.com](http://www.nickwtennis.com) |
-|  |  |
-|  | You can also contact Nick directly via the |
-|  | homepage of his website. |
+![A person holding a tennis racket Description automatically generated](media_risk-management/media/image1.jpeg)
 
+Nick Wheatley is an LTA Performance Coach and
 
-------------------------------------------------------------------------
+His junior teams, the Hawker Jets, have won 44
+
+competitions since formation, and over the last 2
+
+years alone, his junior players have won 19
+
+singles tournaments between them at county level.
+
+He has been ranked in the top 75 nationally in 35
+
+and over singles and in the top 5 in Surrey
+
+county. Nick has done video analysis for numerous
+
+players at all levels, including former British
+
+Top 10 player Marcus Willis.
+
+His unique teaching video series, covering every
+
+aspect of the game, is available on his website
+
+[www.nickwtennis.com](http://www.nickwtennis.com)
+
+You can also contact Nick directly via the
+
+homepage of his website.

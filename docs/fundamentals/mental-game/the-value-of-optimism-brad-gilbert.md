@@ -2,16 +2,12 @@
 
 ### By Allen Fox, Ph.D.
 
-------------------------------------------------------------------------
-
-![A person running on a track Description automatically generated with
-low
-confidence](media_the-value-of-optimism-brad-gilbert/media/image1.jpg)
+![A person running on a track Description automatically generated with low confidence](media_the-value-of-optimism-brad-gilbert/media/image1.jpg)
 
 **Hope can be the basis for apparently miraculous wins.**
 
 The most valuable commodity a competitor can possess when things are
-going wrong is \"hope.\" Confidence or self-belief, as helpful as it may
+going wrong is "hope." Confidence or self-belief, as helpful as it may
 be, is not always achievable nor is it always realistic.
 
 But hope is. Not only is hope realistic, it is always an available
@@ -43,13 +39,11 @@ Gilbert's miraculous come back win against Boris Becker at the U.S.
 Open in 1986. Unbelievably Gilbert won the match after being down 2 sets
 to love and down 3-0 in the third.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_the-value-of-optimism-brad-gilbert/media/image2.jpg)
+![A person playing tennis Description automatically generated with medium confidence](media_the-value-of-optimism-brad-gilbert/media/image2.jpg)
 
 **In 1986 Boris Becker was still near the top of his powers.**
 
-In his book, \"Winning Ugly,\" Brad described in great detail his
+In his book, "Winning Ugly," Brad described in great detail his
 thought processes after being so far down to Becker. Brad noted in his
 book that this was an example of how the combination of intelligent
 pre-match planning and staying alert during a match can lead to victory.
@@ -64,9 +58,7 @@ scrappy Gilbert. The widely predicted result seemed inevitable when
 Boris won the first two sets easily and then won the first three games
 in the third.
 
-![A picture containing person, outdoor, sport, athletic game Description
-automatically
-generated](media_the-value-of-optimism-brad-gilbert/media/image3.jpg)
+![A picture containing person, outdoor, sport, athletic game Description automatically generated](media_the-value-of-optimism-brad-gilbert/media/image3.jpg)
 
 **What were the thought processes in Gilbert's win?**
 
@@ -96,9 +88,7 @@ happened. You would not have wanted to bet on it, but to Brad it was
 certainly a possibility, and trying to make it happen was a better
 alternative than becoming despondent and then losing for certain.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_the-value-of-optimism-brad-gilbert/media/image4.jpg)
+![A person playing tennis Description automatically generated with medium confidence](media_the-value-of-optimism-brad-gilbert/media/image4.jpg)
 
 **Brad knew that making Boris hit one more ball might produce the
 breakdown he was looking for.**
@@ -133,8 +123,7 @@ question was, could he get him to that point?
 beyond arrogance," Brad wrote. "He tells you with his body language that
 he knows he is better than the rest. Except I didn't believe it."
 
-![A person holding a tennis racket Description automatically
-generated](media_the-value-of-optimism-brad-gilbert/media/image5.jpg)
+![A person holding a tennis racket Description automatically generated](media_the-value-of-optimism-brad-gilbert/media/image5.jpg)
 
 **Becker showed you with his body language that he knows he is better.**
 
@@ -164,9 +153,7 @@ He broke Becker at love and won the fourth set 7-5.
 At that point he looked at Boris and saw a beaten man. He knew Becker
 had decided to give up and fight no longer.
 
-![A person swinging a tennis racket Description automatically generated
-with medium
-confidence](media_the-value-of-optimism-brad-gilbert/media/image6.jpg)
+![A person swinging a tennis racket Description automatically generated with medium confidence](media_the-value-of-optimism-brad-gilbert/media/image6.jpg)
 
 **Becker was famous for hard falls---but he usually got up.**
 
@@ -194,61 +181,92 @@ Read More From Allen!
 
 Visit him at [www.allenfoxtennis.net](http://www.allenfoxtennis.net)
 
- 
+![A picture containing text, newspaper Description automatically generated](media_the-value-of-optimism-brad-gilbert/media/image7.jpeg)
 
-| ![A picture containing text, newspaper Description automatically | Winning the Mental Match Dr. Allen Fox |
-| --- | --- |
-| generated](media_the-value-of-optimism-brad-gilbert/media/image7.jpeg) | Tennis is mentally the most difficult sport due to it's personal nature which makes winning and losing feel more |
-|  | important than they are. In this new book, Allen offers his proven solutions to problems such as choking, reducing |
-|  | stress, finishing matches, and developing confidence. Based on a life time of high level play and coaching success, |
-|  | it's a must for all competitive players. |
-|  |  |
-|  | [ to |
-|  | Order](http://www.amazon.com/Tennis-Winning-Mental-Allen-Fox/dp/0615407765/ref=sr_1_1?ie=UTF8&qid=1336083459&sr=8-1). |
+Winning the Mental Match Dr. Allen Fox
 
+Tennis is mentally the most difficult sport due to it's personal nature which makes winning and losing feel more
 
-| ![Text Description automatically | Winning may not be everything, but Dr. Allen Fox points out |
-| --- | --- |
-| generated](media_the-value-of-optimism-brad-gilbert/media/image8.jpeg) | eminently preferable to losing. In his new book, The |
-|  | Winner's Mind, Allen lays out an original step-by-step |
-|  | plan for succeeding at any of life's endeavors, based on |
-|  | his first hand and very personal observations of the |
-|  | careers of both world-class tennis players and successful |
-|  | businessman. The bottom line is that even if you are not a |
-|  | born champion\--and only a tiny percentage of us are\--you |
-|  | can still use the success strategies of champions to tilt |
-|  | the odds in your favor. Writing with brutal honesty and dry |
-|  | humor, Fox lays out the common mental characteristics of |
-|  | winners in sports and in life. He explains the critical |
-|  | role of intellect over emotion. He analyzes the struggle |
-|  | between ambition and fear and the insidious and pervasive |
-|  | fear of failure that undermines so many of us. He then |
-|  | outline how to confront and overcome these fears in your |
-|  | life and career, even when they are initially subconscious. |
-|  | Must reading from one of the great thinkers in tennis, and |
-|  | a Renaissance Man in life. [ to |
-|  | Order](http://www.tennis-warehouse.com/descpage-MIND.html). |
-|  |  |
-|  | To purchase this book you can also send a check for \$17.95 |
-|  | to Allen Fox, 1120 Inverness Place, San Luis Obispo, CA. |
-|  | 93401. The price includes shipping. |
+important than they are. In this new book, Allen offers his proven solutions to problems such as choking, reducing
 
+stress, finishing matches, and developing confidence. Based on a life time of high level play and coaching success,
 
-| ![A person holding a tennis racket Description automatically | Allen Fox PhD is a former world class player, a coach, |
-| --- | --- |
-| generated](media_the-value-of-optimism-brad-gilbert/media/image9.gif) | insightful analysts in modern tennis. A top 10 |
-|  | American player from the glory days before Open |
-|  | tennis, Fox played many of the legendary greats, among |
-|  | them Roy Emerson, Rod Laver, Stan Smith, and Arthur |
-|  | Ashe. At Pepperdine he developed the men's tennis |
-|  | program into an elite contender for national titles, |
-|  | and gave Brad Gilbert the insights that became the |
-|  | foundation for \"Winning Ugly\". His book Think to Win |
-|  | is a modern classic. He has also starred in a series |
-|  | of acclaimed videos, including Pro Secrets of Match |
-|  | Play and Allen Fox's Ultimate Tennis Lesson. |
-|  |  |
-|  |  |
+it's a must for all competitive players.
 
+[ to
 
-------------------------------------------------------------------------
+Order](http://www.amazon.com/Tennis-Winning-Mental-Allen-Fox/dp/0615407765/ref=sr_1_1?ie=UTF8&qid=1336083459&sr=8-1).
+
+![Text Description automatically generated](media_the-value-of-optimism-brad-gilbert/media/image8.jpeg)
+
+Winning may not be everything, but Dr. Allen Fox points out
+
+eminently preferable to losing. In his new book, The
+
+Winner's Mind, Allen lays out an original step-by-step
+
+plan for succeeding at any of life's endeavors, based on
+
+his first hand and very personal observations of the
+
+careers of both world-class tennis players and successful
+
+businessman. The bottom line is that even if you are not a
+
+born champion--and only a tiny percentage of us are--you
+
+can still use the success strategies of champions to tilt
+
+the odds in your favor. Writing with brutal honesty and dry
+
+humor, Fox lays out the common mental characteristics of
+
+winners in sports and in life. He explains the critical
+
+role of intellect over emotion. He analyzes the struggle
+
+between ambition and fear and the insidious and pervasive
+
+fear of failure that undermines so many of us. He then
+
+outline how to confront and overcome these fears in your
+
+life and career, even when they are initially subconscious.
+
+Must reading from one of the great thinkers in tennis, and
+
+a Renaissance Man in life. [ to
+
+Order](http://www.tennis-warehouse.com/descpage-MIND.html).
+
+To purchase this book you can also send a check for $17.95
+
+to Allen Fox, 1120 Inverness Place, San Luis Obispo, CA.
+
+93401. The price includes shipping.
+
+![A person holding a tennis racket Description automatically generated](media_the-value-of-optimism-brad-gilbert/media/image9.gif)
+
+Allen Fox PhD is a former world class player, a coach,
+
+insightful analysts in modern tennis. A top 10
+
+American player from the glory days before Open
+
+tennis, Fox played many of the legendary greats, among
+
+them Roy Emerson, Rod Laver, Stan Smith, and Arthur
+
+Ashe. At Pepperdine he developed the men's tennis
+
+program into an elite contender for national titles,
+
+and gave Brad Gilbert the insights that became the
+
+foundation for "Winning Ugly". His book Think to Win
+
+is a modern classic. He has also starred in a series
+
+of acclaimed videos, including Pro Secrets of Match
+
+Play and Allen Fox's Ultimate Tennis Lesson.

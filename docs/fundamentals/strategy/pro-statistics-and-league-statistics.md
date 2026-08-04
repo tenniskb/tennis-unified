@@ -2,11 +2,7 @@
 
 ### Chris Foy
 
-------------------------------------------------------------------------
-
-![A picture containing sport, athletic game, tennis, court Description
-automatically
-generated](media_pro-statistics-and-league-statistics/media/image1.webp)
+![A picture containing sport, athletic game, tennis, court Description automatically generated](media_pro-statistics-and-league-statistics/media/image1.webp)
 
 **One is the most common rally length in pro tennis.**
 
@@ -26,25 +22,23 @@ data analysis and how that inspired my own study.
 
 At a coaches' symposium, I found myself sitting in Craig presentation
 in disbelief. He asked the conference room full of coaches a
-straightforward question. \"What was the most common rally length at the
-2015 Australian Open?\"
+straightforward question. "What was the most common rally length at the
+2015 Australian Open?"
 
-![A picture containing athletic game, person, sport, person Description
-automatically
-generated](media_pro-statistics-and-league-statistics/media/image2.jpg)
+![A picture containing athletic game, person, sport, person Description automatically generated](media_pro-statistics-and-league-statistics/media/image2.jpg)
 
 **Craig O'Shannessy's presentation created shock and disbelief.**
 
 Hands began to shoot up all around the room as if a third grade teacher
-had just asked a basic math question. \"4\" was shouted from a few rows
-behind me. \"6\" was blurted from the front of the room. I heard another
-coach yell out, \"3.\"
+had just asked a basic math question. "4" was shouted from a few rows
+behind me. "6" was blurted from the front of the room. I heard another
+coach yell out, "3."
 
-**Then Craig gave the real answer, \"1.\" The room got silent fast.
+**Then Craig gave the real answer, "1." The room got silent fast.
 More than 200 tennis coaches in the audience did not believe what Craig
 was saying.**
 
-\"Far and away, 1 is the most common rally length,\" Craig repeated to a
+"Far and away, 1 is the most common rally length," Craig repeated to a
 very quiet group.
 
 Then he explained is methodology. A double fault counted as a zero shot
@@ -55,30 +49,28 @@ rally, and so on.
 Next, he flashed the raw data up on the screen. 30% of all points at the
 Australian Open were unreturned serves. The other numbers were equally
 hard to believe. 15% of all points were three shot rallies. Less than 1%
-of points were more than 12 shots\--or six shots per player. In total
+of points were more than 12 shots--or six shots per player. In total
 70% of all points for were shots or less.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_pro-statistics-and-league-statistics/media/image3.jpg)
+![A person playing tennis Description automatically generated with medium confidence](media_pro-statistics-and-league-statistics/media/image3.jpg)
 
 **Could Craig's numbers possibly be true for women's recreational
 players?**
 
-Someone shouted, \"Wait, what about women's tennis?\" A coach in the
-third row asked, \"Yeah, but this is on hard courts; what about clay?\"
+Someone shouted, "Wait, what about women's tennis?" A coach in the
+third row asked, "Yeah, but this is on hard courts; what about clay?"
 
 Craig then proceeded to pull over 100,000 data points from all four
 majors, from both the men's and the women's games and the story was
 identical.
 
-The objections kept coming. \"Look Craig, this cannot be true with the
-girls 12s,\" insisted one coach. \"What about women recreational
-players?\" asked another.
+The objections kept coming. "Look Craig, this cannot be true with the
+girls 12s," insisted one coach. "What about women recreational
+players?" asked another.
 
-Then Craig made a bold claim, \"Ladies and Gentlemen, we all play the
+Then Craig made a bold claim, "Ladies and Gentlemen, we all play the
 same game. This data will be equal across all surfaces and levels of the
-game.\"
+game."
 
 I was in shock. Level of play, gender, or court surface had no
 statistically significant effect on the way a tennis point played out?
@@ -91,8 +83,7 @@ As a pro in Atlanta, I coach a lot of women's Atlanta Lawn Tennis
 Association league teams. I wondered if we might get a different
 statistical picture if we charted ALTA matches for rally length.
 
-![A group of women holding tennis rackets Description automatically
-generated](media_pro-statistics-and-league-statistics/media/image4.jpg)
+![A group of women holding tennis rackets Description automatically generated](media_pro-statistics-and-league-statistics/media/image4.jpg)
 
 **What numbers would I come up with charting women's league teams?**
 
@@ -111,9 +102,7 @@ rather holding return.
 
 **My Data**
 
-![A couple of people playing tennis Description automatically generated
-with medium
-confidence](media_pro-statistics-and-league-statistics/media/image5.jpg)
+![A couple of people playing tennis Description automatically generated with medium confidence](media_pro-statistics-and-league-statistics/media/image5.jpg)
 
 **Hypothesis: It's about holding return as much as holding serve.**
 
@@ -128,19 +117,16 @@ In Australia 20% of all points were 5-8 shots. In Atlanta the number was
 the number was actually lower, with only 7% of all points going 9 shots
 or more.
 
-  -----------------------------------------
-  ** **       **Australian   **Atlanta
-              Open**         Women's B-**
-  ----------- -------------- --------------
-  **0-4       **70%**        **67%**
-  Shots**                    
+** **       **Australian   **Atlanta
+Open**         Women's B-**
+**0-4       **70%**        **67%**
+Shots**                    
 
-  **5-8       **20%**        **26%**
-  Shots**                    
+**5-8       **20%**        **26%**
+Shots**                    
 
-  **9 Shots   **10%**        **7%**
-  or More**                  
-  -----------------------------------------
+**9 Shots   **10%**        **7%**
+or More**                  
 
 But before we conclude that all tennis is exactly the same across all
 levels, let's take a closer look. Remember, at the pro level, 30% of
@@ -156,7 +142,6 @@ recreational levels.
 | Men's Pro Tennis | 30% |
 | League Women | 13% |
 
-
 But the further breakdown of the league points is a different story. The
 serve is the most important shot in the pro game with somewhere in the
 neighborhood 70% of all points going to the server.
@@ -171,11 +156,11 @@ return. You have about an equal chance of winning any given game.
 
 **The Same Game?**
 
-So my conclusion is that Craig is not wrong to say, \"We all play the
-same game.\" Across all levels of the game the points are short. But the
+So my conclusion is that Craig is not wrong to say, "We all play the
+same game." Across all levels of the game the points are short. But the
 serve makes the anatomy of a pro point very different from a
-recreational one. For league play it just as important to \"hold
-return\" as to \"hold serve.\"
+recreational one. For league play it just as important to "hold
+return" as to "hold serve."
 
 So as a coach how does this change the way we work with players? My
 conclusion is that improving your level has less to do with
@@ -199,7 +184,7 @@ I don't mean that you should try to blast a winner every time you touch
 a ball, but instead try to keep your opponents from getting easy balls
 like a waist high forehand.
 
-To work on this I created a drill game called \"Finish in 4\". Players
+To work on this I created a drill game called "Finish in 4". Players
 play out a point while keeping track of the number of shots. If the
 rally goes to the fifth ball, the point stops and must be replayed.
 
@@ -216,9 +201,7 @@ tennis is not only about forehands and backhands, it's more about
 serving and returning, and working on them is what practice should look
 like.**
 
-![A person smiling for the camera Description automatically generated
-with medium
-confidence](media_pro-statistics-and-league-statistics/media/image6.jpeg)
+![A person smiling for the camera Description automatically generated with medium confidence](media_pro-statistics-and-league-statistics/media/image6.jpeg)
 
 Chris Foy is an Associate Tennis Professional at Druid Hills Golf Club
 just outside of downtown Atlanta, Georgia. He holds PTR Professional
@@ -226,5 +209,3 @@ level certifications in 10 & Under, 11 to17 and Adult Development. Chris
 and his wife, a 5th grade math teacher, enjoy statistics, numbers and
 looking for patterns in tennis, other sports, and everyday life. Their
 life patterns changed in August when they welcomed their first child.
-
-------------------------------------------------------------------------

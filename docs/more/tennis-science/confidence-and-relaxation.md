@@ -2,16 +2,13 @@
 
 ### Miguel Crespo, Paul Lubbers
 
-------------------------------------------------------------------------
-
-![A picture containing clipart Description automatically
-generated](media_confidence-and-relaxation/media/image1.jpg)
+![A picture containing clipart Description automatically generated](media_confidence-and-relaxation/media/image1.jpg)
 
 **The time between points and games is critical in maintaining
-self-confidence. On a changeover, confident thoughts could include: \"I
-will maintain my winning strategy.\"**
+self-confidence. On a changeover, confident thoughts could include: "I
+will maintain my winning strategy."**
 
-The intermittent nature of competitive tennis creates \"dead time\"
+The intermittent nature of competitive tennis creates "dead time"
 during match play---in fact this is the majority of time in any match.
 This places high demands on the cognitive aspects of the player's
 performance.
@@ -38,20 +35,22 @@ of imagery, focus on process rather than outcome, and the ability to
 increase and decrease intensity. (To read Jim Loehr's article on moving
 from negative to positive, [link](https://www.tennisplayer.net/members/mentalgame/jim_loehr/jim_loehr_breathing_mental_game_images/jim_loehr_breathing_mental_game.html).)
 
-Self-talk\--the use of positive and motivational key words---is one of
+Self-talk--the use of positive and motivational key words---is one of
 the most effective strategies. Research has shown that negative
 self-talk is associated with losing.
 
 Research has also shown that increasing execution-related thoughts (for
-instance, \"watch the ball until impact\") decreased outcome-related
-thoughts (for instance, \"win this point\"). The conclusion is that
+instance, "watch the ball until impact") decreased outcome-related
+thoughts (for instance, "win this point"). The conclusion is that
 those players who believe in the utility of positive self-talk win more
 points than players who do not.
 
-![link](media_confidence-and-relaxation/media/image2.jpg)
+![Video demonstration](media_confidence-and-relaxation/media/image2.jpg)
+
+*Video demonstration — the original video for this article was hosted on TennisPlayer.net.*
 
 **Focusing on process not outcome can overcome negativity with thoughts
-such as: \"Keep your rhythm. Solid return.\"**
+such as: "Keep your rhythm. Solid return."**
 
 Research also suggests that self-confident players have enhanced
 concentration, more fighting spirit, and that these characteristics in
@@ -76,11 +75,10 @@ the Australian Open.
 How important is it to relax during a match? Do relaxation strategies
 enhance performance?
 
-![A picture containing text Description automatically
-generated](media_confidence-and-relaxation/media/image3.jpg)
+![A picture containing text Description automatically generated](media_confidence-and-relaxation/media/image3.jpg)
 
-**Winners tend to have increased execution related thoughts such as \"I
-will attack with my second serve.\"**
+**Winners tend to have increased execution related thoughts such as "I
+will attack with my second serve."**
 
 **Most tennis players want to win, whether competing for money,
 trophies, championships, rankings, or for a team or personal
@@ -106,8 +104,7 @@ Significant reductions in somatic anxiety (physical) and cognitive
 anxiety (mental), and significant increases in self-confidence, can be
 realized with proper training.
 
-![A picture containing athletic game, sport Description automatically
-generated](media_confidence-and-relaxation/media/image4.jpg)
+![A picture containing athletic game, sport Description automatically generated](media_confidence-and-relaxation/media/image4.jpg)
 
 **Centered breathing between points decreases heart rate and stress.**
 
@@ -126,8 +123,7 @@ Centered breathing is a method of bringing your attention to your
 breathing. This has several beneficial physiological effects. (To read
 Jim Loehr's seminal article on Breathing, [link](https://www.tennisplayer.net/members/mentalgame/jim_loehr/jim_loehr_breathing_mental_game_images/jim_loehr_breathing_mental_game.html).)
 
-![A close-up of a hand Description automatically generated with low
-confidence](media_confidence-and-relaxation/media/image5.jpg)
+![A close-up of a hand Description automatically generated with low confidence](media_confidence-and-relaxation/media/image5.jpg)
 
 **Players can learn progressive muscle relaxation both on and off
 court.**
@@ -147,9 +143,9 @@ This helps the player to learn to feel the tension that is built up in
 the muscles and then let go of it. With practice, players can also learn
 to do this during competition.
 
-Tennis players are \"relaxed\" when they are mentally and physically
-free of the tension and anxiety that produces thoughts such as: \"I need
-to win this match\" or \"I cannot double fault.\"
+Tennis players are "relaxed" when they are mentally and physically
+free of the tension and anxiety that produces thoughts such as: "I need
+to win this match" or "I cannot double fault."
 
 **Players in a relaxed state generally report feelings of tranquility
 and calmness combined with lack of conscious
@@ -159,16 +155,13 @@ routines, players can gain higher levels of concentration and focus,
 which in turn lead to more success and a more enjoyable competitive
 experience.
 
-![Graphical user interface, application, Teams Description automatically
-generated](media_confidence-and-relaxation/media/image6.jpeg)
+![Graphical user interface, application, Teams Description automatically generated](media_confidence-and-relaxation/media/image6.jpeg)
 
 Miguel Crespo is the research officer at the International Tennis
 Federation Development Department, Spain. He oversees the ITF's coach
 education program and has coauthored and edited many ITF publications.
 
-![A person wearing a white shirt Description automatically generated
-with medium
-confidence](media_confidence-and-relaxation/media/image7.jpeg)
+![A person wearing a white shirt Description automatically generated with medium confidence](media_confidence-and-relaxation/media/image7.jpeg)
 
 Paul Lubbers is the Director of Coaching Education and Performance for
 USTA Player Development. Paul also manages and directs activities

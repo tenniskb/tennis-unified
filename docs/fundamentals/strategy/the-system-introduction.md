@@ -2,8 +2,6 @@
 
 ### Bill Previdi
 
-------------------------------------------------------------------------
-
 Welcome to the System, my presentation of how to play winning doubles at
 any level. The System is based on 40 years of playing and teaching and
 is unlike any other approach I know.
@@ -30,7 +28,7 @@ in college.
 He understood the importance of the team concept in doubles and tried to
 apply it to our play. One sentence he taught us It has defined what I
 have tried to do in doubles ever since. "Keep the ball low so the other
-team is always hitting up, and if you can't keep it low, lob.\"
+team is always hitting up, and if you can't keep it low, lob."
 
 Sheer brilliance. As I thought about it more this sentence didn't just
 tell me where to hit, it told me which partner would be better to hit
@@ -46,7 +44,7 @@ hit at your feet, and to lob.**
 **The Hunter and the Helper**
 
 The System is based on the concept that one player on a team is always
-"The Hunter.\" The other player is the "Helper.\" In the system, both
+"The Hunter." The other player is the "Helper." In the system, both
 players play predominantly in the forecourt at or near the net, but with
 very specific shot making and positioning.
 
@@ -120,7 +118,7 @@ never overlap.
 
 **[2) Losing to lobbers:]** I realized after being at
 several clubs in the past few years that everyone loses to or struggles
-to beat \"lobbers.\" There are two reasons this happens, positioning and
+to beat "lobbers." There are two reasons this happens, positioning and
 patience. We address the lobbers in The System and will show you how to
 be successful against them.
 
@@ -140,7 +138,7 @@ using our drills and games proper shot selection becomes second nature
 and you and your partner will mesh your games seamlessly.
 
 There are many reasons why players struggle tactically in doubles and
-continue to lose to "the lobbers\" or players they feel are inferior to
+continue to lose to "the lobbers" or players they feel are inferior to
 them. Usually, they feel like things keep happening to them instead of
 for them.
 
@@ -167,36 +165,60 @@ what is happening and why and how to make adjustments when necessary.
 
 Ready for More? Go on to Part 2 also in the March issue! ([link](The%20Hunter%20and%20the%20Helper.docx).)
 
-| ![A picture containing person, person, standing, outdoor Description automatically | Bill Previdi has been playing |
-| --- | --- |
-| generated](media_the-system-introduction/media/image1.jpeg) | his life. He played his |
-|  | collegiate tennis at St. John's |
-|  | University in New York and has |
-|  | been nationally ranked in |
-|  | singles, doubles and Father-Son |
-|  | Doubles. Bill has been a Head |
-|  | Pro and Director of Tennis at |
-|  | several clubs since 1981 and has |
-|  | also coached high school and |
-|  | college tennis. He lives in |
-|  | Branford, CT. He can be |
-|  | contacted at: |
-|  | <previdib@gmail.com> |
-|  |  |
-|  | Matt Previdi is a high |
-|  | performance coach in La Jolla, |
-|  | California and the head coach of |
-|  | the La Jolla High boys' tennis |
-|  | team, which in the the past 6 |
-|  | years he has led to a 72-8 |
-|  | record and 2 sectional titles. |
-|  | Matt is a Master Racquet |
-|  | Technician, the head of the |
-|  | Solinco national stringing team, |
-|  | as well as the Solinco player |
-|  | liason and brand representative. |
-|  | He can be contacted at: |
-|  | <mprevidi@gmail.com> |
+![A picture containing person, person, standing, outdoor Description automatically generated](media_the-system-introduction/media/image1.jpeg)
 
+Bill Previdi has been playing
 
-------------------------------------------------------------------------
+his life. He played his
+
+collegiate tennis at St. John's
+
+University in New York and has
+
+been nationally ranked in
+
+singles, doubles and Father-Son
+
+Doubles. Bill has been a Head
+
+Pro and Director of Tennis at
+
+several clubs since 1981 and has
+
+also coached high school and
+
+college tennis. He lives in
+
+Branford, CT. He can be
+
+contacted at:
+
+<previdib@gmail.com>
+
+Matt Previdi is a high
+
+performance coach in La Jolla,
+
+California and the head coach of
+
+the La Jolla High boys' tennis
+
+team, which in the the past 6
+
+years he has led to a 72-8
+
+record and 2 sectional titles.
+
+Matt is a Master Racquet
+
+Technician, the head of the
+
+Solinco national stringing team,
+
+as well as the Solinco player
+
+liason and brand representative.
+
+He can be contacted at:
+
+<mprevidi@gmail.com>

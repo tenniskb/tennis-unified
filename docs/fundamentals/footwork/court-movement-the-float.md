@@ -1,22 +1,16 @@
-# Court Movement: The \"Float\"
+# Court Movement: The "Float"
 
 ### **Bob Hansen**
 
-------------------------------------------------------------------------
-
 Now that we've looked at the basic movement patterns, ([link](Footwork%20TOC.docx)) let's see how we can speed up our movement
-in certain situations using a move that I call \"The Float.\"
+in certain situations using a move that I call "The Float."
 
 Let's see how The Float applies in two critical areas that put pressure
 on our movement skills: approaching the net and the return of serve.
 
-|  |
-| --- |
-| ![A person running on a tennis court Description automatically generated with medium |
-| confidence](media_court-movement-the-float/media/image1.webp) |
-|  |
-| **Learning the Float can help you become a great all court player.** |
+![A person running on a tennis court Description automatically generated with medium confidence](media_court-movement-the-float/media/image1.webp)
 
+**Learning the Float can help you become a great all court player.**
 
 **Attacking the Net**
 
@@ -28,16 +22,11 @@ directions and make a good Initial Move to the first volley.
 
 The Float Move speeds up your ability to break to the ball. **Although
 similar to the split step, the Float move allows explosive movement in
-any direction, similar to \"unweighting\" in
+any direction, similar to "unweighting" in
 skiing.**
 
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                 ![A person running on a track Description automatically generated with low
-   confidence](media_court-movement-the-float/media/image2.webp)
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                             **The Float sequence: unweight, touch and push off with the Inside Foot. Step to the ball with the Outside Foot**
-
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person running on a track Description automatically generated with low confidence](media_court-movement-the-float/media/image2.webp)
+**The Float sequence: unweight, touch and push off with the Inside Foot. Step to the ball with the Outside Foot**
 
 **Unweighting**
 
@@ -60,13 +49,8 @@ I mean the foot closest to the ball. **This is the left foot on the
 forehand if you are right handed. The Inside Foot is the right foot,
 further away.**
 
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                 ![A person playing tennis Description automatically generated with medium
-   confidence](media_court-movement-the-float/media/image3.webp)
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                             **The Float on the backhand approach and volley.**
-
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person playing tennis Description automatically generated with medium confidence](media_court-movement-the-float/media/image3.webp)
+**The Float on the backhand approach and volley.**
 
 **The Float on the Backhand Volley**
 
@@ -79,13 +63,8 @@ righthander, and the right foot is the Inside Foot.
 First the player unweights. Then he touches and pushes off with the
 Inside Foot and steps to the ball with the Outside Foot.
 
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                      ![A person running on a tennis court Description automatically
-   generated](media_court-movement-the-float/media/image4.webp)
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                               **After the Float, the push with the Inside Foot is backwards to the ball.**
-
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person running on a tennis court Description automatically generated](media_court-movement-the-float/media/image4.webp)
+**After the Float, the push with the Inside Foot is backwards to the ball.**
 
 **The Overhead**
 
@@ -98,13 +77,8 @@ for the shot.** The increased quickness in your
 movement can be the difference in reaching more overheads in position to
 put them away.
 
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                           ![A picture containing text, athletic game, sport, outdoor Description automatically
-   generated](media_court-movement-the-float/media/image5.webp)
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                            **Can you see the unweighting and the pattern of movement with the Inside and Outside Feet on Federer's return?**
-
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A picture containing text, athletic game, sport, outdoor Description automatically generated](media_court-movement-the-float/media/image5.webp)
+**Can you see the unweighting and the pattern of movement with the Inside and Outside Feet on Federer's return?**
 
 **The Float and the Return**
 
@@ -119,13 +93,8 @@ The Float allows you to unweight and move quickly, efficiently and
 explosively when time is most precious, for example against a player
 with a big first serve.
 
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                 ![A person playing tennis Description automatically generated with medium
-   confidence](media_court-movement-the-float/media/image6.webp)
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                       **On the return, watch the sequence: unweighting and then the push and the step to the ball.**
-
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person playing tennis Description automatically generated with medium confidence](media_court-movement-the-float/media/image6.webp)
+**On the return, watch the sequence: unweighting and then the push and the step to the ball.**
 
 **The Float Sequence**
 
@@ -143,9 +112,7 @@ the balls of your feet.**
 foot away from the ball, as we step with our Outside Foot toward the
 ball**
 
-![A picture containing tree, outdoor, person, purple Description
-automatically
-generated](media_court-movement-the-float/media/image7.jpeg)
+![A picture containing tree, outdoor, person, purple Description automatically generated](media_court-movement-the-float/media/image7.jpeg)
 
 **Bob Hansen** is the long time mens varsity coach at the University of
 California at Santa Cruz, where he has lead his beloved Banana Slugs to
@@ -156,5 +123,3 @@ has helped develop hundreds of high school and ranked junior players.
 Hansens innovative theories of court movement were ahead of the curve in
 tennis coaching, and are widely recognized as an important contribution
 to understanding footwork in the modern game.
-
-------------------------------------------------------------------------

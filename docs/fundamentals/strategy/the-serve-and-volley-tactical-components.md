@@ -2,10 +2,7 @@
 
 ### Kyle LaCroix 
 
-------------------------------------------------------------------------
-
-![A person playing tennis Description automatically
-generated](media_the-serve-and-volley-tactical-components/media/image1.webp)
+![A person playing tennis Description automatically generated](media_the-serve-and-volley-tactical-components/media/image1.webp)
 
 **Is it this easy? Serve, run in, hit a volley?**
 
@@ -67,8 +64,7 @@ straightforward, literally and figuratively. This serve is also highly
 effective in doubles because it gives your partner balls with an easier
 angle to poach.
 
-![A person playing tennis Description automatically
-generated](media_the-serve-and-volley-tactical-components/media/image2.webp)
+![A person playing tennis Description automatically generated](media_the-serve-and-volley-tactical-components/media/image2.webp)
 
 **On the T serves, you can go either way with the volley. But be
 careful.**
@@ -99,8 +95,7 @@ The Wide Deep Serve is the classic, safer play to open the court. It
 lands deep in the corner of the service box near where the service line
 and singles sideline meet.
 
-![A person playing tennis Description automatically
-generated](media_the-serve-and-volley-tactical-components/media/image2.webp)
+![A person playing tennis Description automatically generated](media_the-serve-and-volley-tactical-components/media/image2.webp)
 
 **A wide deep serve is the classic way to open the court.**
 
@@ -133,9 +128,7 @@ In this deuce court the 3/4 wide serve requires the ability to hit a
 decent slice, and in the add court a decent kick. In both cases the
 serve should be hit with a high level of spin.
 
-![A picture containing sport, athletic game, tennis, court Description
-automatically
-generated](media_the-serve-and-volley-tactical-components/media/image3.webp)
+![A picture containing sport, athletic game, tennis, court Description automatically generated](media_the-serve-and-volley-tactical-components/media/image3.webp)
 
 **Use the 3/4 wide serve to stretch an opponent in either court.**
 
@@ -179,8 +172,7 @@ The fourth location, the Body Serve is my favorite. It is underrated and
 underused at every level of play. This serve handcuffs the opponent,
 limiting his ability to swing.
 
-![A person playing tennis Description automatically
-generated](media_the-serve-and-volley-tactical-components/media/image4.webp)
+![A person playing tennis Description automatically generated](media_the-serve-and-volley-tactical-components/media/image4.webp)
 
 **The body serve: Underrated because it reduces the opponents ability to
 swing.**
@@ -209,18 +201,16 @@ successful against more opponents.
 
 **ABC**
 
-In serve and volley tennis, ABC stands for \"Always Be Closing\". It's
+In serve and volley tennis, ABC stands for "Always Be Closing". It's
 the essence of great serve and volley tennis.
 
-Going after the ball\--not waiting for it. Moving forward, getting
+Going after the ball--not waiting for it. Moving forward, getting
 tighter and tighter, putting the ball away. Pressuring your opponent to
 force the error.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_the-serve-and-volley-tactical-components/media/image5.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_the-serve-and-volley-tactical-components/media/image5.webp)
 
-**The higher the level, the more \"always be closing\" applies.**
+**The higher the level, the more "always be closing" applies.**
 
 But does that mean running full speed straight forward? Obviously not.
 
@@ -257,14 +247,12 @@ and can't be expected to hit backpedaling scissor kick overheads to
 compensate. This is where there are shades of grey depending on
 levels.**
 
-**Initially, I teach my club level players the \"hover and observe\"
+**Initially, I teach my club level players the "hover and observe"
 position. This means positioning themselves at the service line or a
 step or two inside. They remain in a ready position, taking small quick
 ready steps, staying light on their feet.**
 
-![A person running on a track Description automatically generated with
-low
-confidence](media_the-serve-and-volley-tactical-components/media/image6.webp)
+![A person running on a track Description automatically generated with low confidence](media_the-serve-and-volley-tactical-components/media/image6.webp)
 
 **Learning to hover and then close makes you less vulnerable to lobs in
 club tennis.**
@@ -283,9 +271,7 @@ corresponding volley placements and how aggressively to close are vital.
 Next: let's look three shots that are vital in serve and volley: the
 overhead, the half-volley, and the swinging volley. Stay Tuned!
 
-![A person smiling for the camera Description automatically generated
-with low
-confidence](media_the-serve-and-volley-tactical-components/media/image7.jpeg)
+![A person smiling for the camera Description automatically generated with low confidence](media_the-serve-and-volley-tactical-components/media/image7.jpeg)
 
 Kyle LaCroix is a USPTA and PTR Certified Professional as well as
 receiving his United States Center For Coaching Excellence (USCCE)

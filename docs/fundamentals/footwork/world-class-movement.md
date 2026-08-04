@@ -5,21 +5,20 @@ An Overview**
 
 **David Bailey**
 
-![A person playing tennis Description automatically
-generated](media_world-class-movement/media/image1.webp)
+![A person playing tennis Description automatically generated](media_world-class-movement/media/image1.webp)
 
 **What are the keys to developing a pro level tennis dance?**
 
 Tennis is a dance, and the ball is your partner. I have said this for
 years, and now in this new series of articles for TPA, I want
 to demonstrate exactly what that dance looks like off the ground at the
-pro level\--and how you can develop a similar groundstroke dance of your
+pro level--and how you can develop a similar groundstroke dance of your
 own.
 
 In this first article I want to outline the components of world class
 movement and then the specific athletic skills required to develop them.
 In a second article I will summarize my work on the critical, often
-unrecognized concept of the \"contact move,\" the dynamic action of the
+unrecognized concept of the "contact move," the dynamic action of the
 feet and body during the ball striking phase.
 
 In future articles, I will turn the analysis to the actual movement
@@ -51,45 +50,38 @@ These are what I call the 5R's. I call putting these 5R's together
 Completing the Circle, something that should happen with every ball
 match in and match out.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_world-class-movement/media/image2.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_world-class-movement/media/image2.webp)
 
 **Roger Federer demonstrates the 5 Components that Complete the Circle
 in world class movement.**
 
 **[The 5R's are:]**
 
-  ---------------------------------------------------------------------------
-  1\.   **Ready.** Being ready means have your weight up, on the toes and the
-        balls of your feet, and then split stepping to create a strong
-        foundation.
-  ----- ---------------------------------------------------------------------
-  2\.   **Reading.** Reading means seeing and recognizing the trajectory of
-        the incoming ball, anticipating it's landing, and developing the
-        timing to move to and to meet the ball in the contact zone.
+  1.   **Ready.** Being ready means have your weight up, on the toes and the
+balls of your feet, and then split stepping to create a strong
+foundation.
+  2.   **Reading.** Reading means seeing and recognizing the trajectory of
+the incoming ball, anticipating it's landing, and developing the
+timing to move to and to meet the ball in the contact zone.
 
-  3\.   **Reacting.** Reacting means initiating the movement correctly
-        through a variety of possible initial steps---what I call Out
-        Steps\--and then setting up an appropriate hitting stance.
+  3.   **Reacting.** Reacting means initiating the movement correctly
+through a variety of possible initial steps---what I call Out
+Steps--and then setting up an appropriate hitting stance.
 
-  4\.   **Responding.** Responding refers to the actual movement of the feet
-        and body during the contact sequence. These movements are what I call
-        Contact Moves. They vary with the court position, the nature of the
-        incoming ball, and the intent of the player. Each Contact Move has a
-        corresponding Balance Move to maintain dynamic balance through the
-        movement.
+  4.   **Responding.** Responding refers to the actual movement of the feet
+and body during the contact sequence. These movements are what I call
+Contact Moves. They vary with the court position, the nature of the
+incoming ball, and the intent of the player. Each Contact Move has a
+corresponding Balance Move to maintain dynamic balance through the
+movement.
 
-  5\.   **Recovery.** Recovery includes the Braking Steps to slow down and
-        reverse the movement, and then the actual pattern of Recovery Steps
-        returning toward the midpoint of your opponent's next shot.
-  ---------------------------------------------------------------------------
+  5.   **Recovery.** Recovery includes the Braking Steps to slow down and
+reverse the movement, and then the actual pattern of Recovery Steps
+returning toward the midpoint of your opponent's next shot.
 
 **Six Skills**
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_world-class-movement/media/image3.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_world-class-movement/media/image3.webp)
 
 **The first three athletic skills: Pivoting the Hips, Spinning the Hips,
 Shifting the Weight.**
@@ -98,20 +90,17 @@ When we study the pro game, we can see that executing the 5Rs and
 Completing the Circle requires certain physical skills. These 6 basic
 skills are the ability to:
 
-  -----------------------------------------------------------------
-  1\.   Pivot the Hips on the ground.
-  ----- -----------------------------------------------------------
-  2\.   Spin the Hips in the air.
+  1.   Pivot the Hips on the ground.
+  2.   Spin the Hips in the air.
 
-  3\.   Shift the Weight from the back to the front foot.
+  3.   Shift the Weight from the back to the front foot.
 
-  4\.   Transfer the Weight in the air.
+  4.   Transfer the Weight in the air.
 
-  5\.   Execute Multi-Directional Hopping forward, sideways,
-        vertically, and backward.
+  5.   Execute Multi-Directional Hopping forward, sideways,
+vertically, and backward.
 
-  6\.   Take Large Lunging Steps on a forward diagonal.
-  -----------------------------------------------------------------
+  6.   Take Large Lunging Steps on a forward diagonal.
 
 These 6 skills are the basis for the creation of the critical Contact
 Moves. Just as John Yandell's work has shown the incredible dynamism
@@ -129,9 +118,7 @@ Contact Moves are the actual movements aplayers makes when making
 contacting the ball---using the six athletic skills to create the most
 effective and efficient stroke possible.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_world-class-movement/media/image4.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_world-class-movement/media/image4.webp)
 
 **The second three skills: Transfering the Weight, Hopping, and taking
 large Lunging Steps.**
@@ -155,7 +142,9 @@ yourself.
 
 Stay tuned.
 
-![link](media_world-class-movement/media/image5.jpeg)
+![Video demonstration](media_world-class-movement/media/image5.jpeg)
+
+*Video demonstration — the original video for this article was hosted on TennisPlayer.net.*
 
 David Bailey is a native Australian who has spent 15 years studying
 tennis at the professional level. He has developed a new language for

@@ -2,10 +2,7 @@
 
 ### Jeff McCullough
 
-------------------------------------------------------------------------
-
-![A person playing tennis Description automatically
-generated](media_a-practical-guide-to-peak-performance-part-1/media/image1.webp)
+![A person playing tennis Description automatically generated](media_a-practical-guide-to-peak-performance-part-1/media/image1.webp)
 
 **A practical guide to help you win matches.**
 
@@ -15,7 +12,7 @@ uncertainty out of how to handle the pressures and challenges generated
 by competition. In my opinion, this guide gives players the best
 possible chance to play their best tennis and win more tennis matches.
 
-Many tennis players---especially recreational players\--have no
+Many tennis players---especially recreational players--have no
 substantive mental and emotional foundation for dealing with the rigors
 of competition.  Even some pros I have met have no identifiable or
 systematic approach to handling the mental aspect of tennis. These
@@ -31,8 +28,7 @@ they are needed the most.  They have read every article and book and
 seen every video.  But unfortunately, just exposing themselves to more
 information is not a substitute for positive action on the court.
 
-![A person playing tennis Description automatically
-generated](media_a-practical-guide-to-peak-performance-part-1/media/image2.webp)
+![A person playing tennis Description automatically generated](media_a-practical-guide-to-peak-performance-part-1/media/image2.webp)
 
 **Do you have the tools to stay positive at 5 all in the third?**
 
@@ -62,8 +58,7 @@ time you use it, you will likely achieve increased levels of success. As
 it becomes habitual, you will realize the ability to play at your full
 potential. 
 
-![A person playing tennis Description automatically
-generated](media_a-practical-guide-to-peak-performance-part-1/media/image3.webp)
+![A person playing tennis Description automatically generated](media_a-practical-guide-to-peak-performance-part-1/media/image3.webp)
 
 **The system works extremely well with junior players.**
 
@@ -94,17 +89,12 @@ much more likely to be able to pinpoint the reason(s) why you lost. 
 This opens the possibility of making the necessary corrections so that
 you'll then be less likely to lose matches in the future.
 
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                           ![A person in a suit smiling Description automatically generated with medium
-   confidence](media_a-practical-guide-to-peak-performance-part-1/media/image4.jpg)![A person with his eyes closed Description automatically generated with low
-   confidence](media_a-practical-guide-to-peak-performance-part-1/media/image5.jpg)![A person wearing sunglasses Description automatically generated with medium
-   confidence](media_a-practical-guide-to-peak-performance-part-1/media/image6.jpg)![A person smiling for the camera Description automatically generated with medium
-   confidence](media_a-practical-guide-to-peak-performance-part-1/media/image7.jpg)![A person smiling for the camera Description automatically generated with medium
-  confidence](media_a-practical-guide-to-peak-performance-part-1/media/image8.jpg)
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                  **Jim Loehr, Alistair Higham, Allen Fox, Jeff Greenwald, Tim Gallwey (from left) ---some of the major contributors to mental training, many on Tennisplayer!**
-
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person in a suit smiling Description automatically generated with medium confidence](media_a-practical-guide-to-peak-performance-part-1/media/image4.jpg)![A person with his eyes closed Description automatically generated with low
+confidence](media_a-practical-guide-to-peak-performance-part-1/media/image5.jpg)![A person wearing sunglasses Description automatically generated with medium
+confidence](media_a-practical-guide-to-peak-performance-part-1/media/image6.jpg)![A person smiling for the camera Description automatically generated with medium
+confidence](media_a-practical-guide-to-peak-performance-part-1/media/image7.jpg)![A person smiling for the camera Description automatically generated with medium
+confidence](media_a-practical-guide-to-peak-performance-part-1/media/image8.jpg)
+**Jim Loehr, Alistair Higham, Allen Fox, Jeff Greenwald, Tim Gallwey (from left) ---some of the major contributors to mental training, many on Tennisplayer!**
 
 James Loehr, Allen Fox, Rainer Martens, Vic Braden, Timothy Gallwey, Bob
 Rotella, Chuck Kriese, Jeff Greenwald, Alistair Higham, and John
@@ -127,7 +117,6 @@ accessible under competitive stress, and easy to apply and to manage. 
 | **5) Stress Management** | **6) The Cognitive Component** |
 | **7) Attentional Techniques** | **8) The Will to Win** |
 
-
 In this first article, we'll address the first 4 components: Fun,
 Playing for Yourself, Going for Your Shots, and Looking Confident.  
 Then next month will look at the other four.  So let us proceed into the
@@ -141,9 +130,7 @@ I coach a young player who is ready for beginning level tournament play
 I always ask them the following question: "Why did you choose to learn
 how to play tennis?"
 
-![A person in a sports uniform Description automatically generated with
-medium
-confidence](media_a-practical-guide-to-peak-performance-part-1/media/image9.webp)
+![A person in a sports uniform Description automatically generated with medium confidence](media_a-practical-guide-to-peak-performance-part-1/media/image9.webp)
 
 **Wasn't fun the reason you started playing this game?**
 
@@ -162,7 +149,7 @@ For most players, this initial ecstatic experience becomes clouded, lost
 through experience, and less and less accessible.  Eventually we are
 swept up and into the world of the competitive arena with all its
 expectations and extrinsic goals. That is inevitable and normal.
- Unfortunately, too many players lose sight of the real reason why they
+Unfortunately, too many players lose sight of the real reason why they
 originally decided to play.  
 
 As we hit more and more balls we become progressively desensitized to
@@ -181,9 +168,7 @@ your division even if you realize your full potential.  So what is a
 player to do when extrinsic measures like rankings---which are much more
 tangible than intrinsic rewards---become more important as well?
 
-![A person holding a tennis racket Description automatically generated
-with medium
-confidence](media_a-practical-guide-to-peak-performance-part-1/media/image10.webp)
+![A person holding a tennis racket Description automatically generated with medium confidence](media_a-practical-guide-to-peak-performance-part-1/media/image10.webp)
 
 **Sometimes players need to recapture the feeling of joy that goes with
 being a tennis player.**
@@ -207,8 +192,7 @@ losing and how this will impact one's self-esteem. This is why players
 with the greatest degree of intrinsic self-esteem normally become our
 best competitors.
 
-![A person playing tennis Description automatically
-generated](media_a-practical-guide-to-peak-performance-part-1/media/image11.webp)
+![A person playing tennis Description automatically generated](media_a-practical-guide-to-peak-performance-part-1/media/image11.webp)
 
 **Self-esteem leads to full commitment.**
 
@@ -238,9 +222,7 @@ For most of us this battle to establish a pure inner locus of self
 esteem is never completely won. But to the extent that we can keep these
 outer centered concerns at bay we are likely to perform better.
 
-![A person holding a baseball bat Description automatically generated
-with medium
-confidence](media_a-practical-guide-to-peak-performance-part-1/media/image12.webp)
+![A person holding a baseball bat Description automatically generated with medium confidence](media_a-practical-guide-to-peak-performance-part-1/media/image12.webp)
 
 **Focusing on the strings keeps your attention inside the court.**
 
@@ -268,16 +250,11 @@ that Christmas when I accidentally set his Christmas tree on fire?"  Or,
 mine?"  You don't need to go there on a break point so practice "visual
 discipline."
 
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![Two people playing tennis Description automatically generated with medium
-  confidence](media_a-practical-guide-to-peak-performance-part-1/media/image13.jpg)
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  **Justine communicated with Carlos, but this was the exception.**
-
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![Two people playing tennis Description automatically generated with medium confidence](media_a-practical-guide-to-peak-performance-part-1/media/image13.jpg)
+**Justine communicated with Carlos, but this was the exception.**
 
 There are exceptions, of course. Some players---Justine Henin was an
-example\--truly find inspiration in the eyes of a coach or a significant
+example--truly find inspiration in the eyes of a coach or a significant
 other up in the stands. But this can be very risky business.  The people
 players turn to in critical moments may not have the superb emotional
 control of a coach like Carlos Rodriquez, who always seemed to send the
@@ -297,9 +274,7 @@ because as humans we all having an innate "orienting response." We are
 very sensitive to the environment in which we operating because such
 vigilance has strong survival value.  
 
-![A person holding a tennis racket Description automatically generated
-with medium
-confidence](media_a-practical-guide-to-peak-performance-part-1/media/image14.webp)
+![A person holding a tennis racket Description automatically generated with medium confidence](media_a-practical-guide-to-peak-performance-part-1/media/image14.webp)
 
 **Every player should work toward playing with total absorption.**
 
@@ -322,13 +297,11 @@ down the line to their backhand," "come in to the net more often," and
 
 These play a very important role in both organizing one's approach to a
 match and assisting the player in remaining more in the present and less
-in the immediate past\--where your mistakes may taunt you
-mercilessly\--or in the future where a preoccupation with demon outcomes
+in the immediate past--where your mistakes may taunt you
+mercilessly--or in the future where a preoccupation with demon outcomes
 may await.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_a-practical-guide-to-peak-performance-part-1/media/image15.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_a-practical-guide-to-peak-performance-part-1/media/image15.webp)
 
 **The antidote for choking is to go for your shots.**
 
@@ -352,10 +325,10 @@ for the outcome. Players must be willing to live with what happens and
 accept the outcome regardless of what anyone else may say or think. This
 is the best way to eliminate external influences and to make sure that
 you are really the one in charge of what's occurring in your matches.\
- \
+\
 As Chuck Kriese puts it, "Play to express, not impress."  The primary
 goal is to play for yourself.  This is what full commitment is about.
-  Nearly all sports psychologists agree that establishing an "inner
+Nearly all sports psychologists agree that establishing an "inner
 locus of control" in this fashion is a major factor in competitive
 success.
 
@@ -377,8 +350,7 @@ clearly. Typically, they are unable to generate enough controlled power
 to attack or even neutralize the opponent, and their performance tends
 to progressively deteriorate over the course of the match.
 
-![A person playing tennis Description automatically
-generated](media_a-practical-guide-to-peak-performance-part-1/media/image16.webp)
+![A person playing tennis Description automatically generated](media_a-practical-guide-to-peak-performance-part-1/media/image16.webp)
 
 **If you have made a full commitment, you can accept the consequences,
 win or lose.**
@@ -404,9 +376,7 @@ feet, get into better position, generate more racket head speed, and
 improve the targeting of  my shots.  I moved closer to full commitment,
 and I was certainly having a hell of a lot more fun.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_a-practical-guide-to-peak-performance-part-1/media/image17.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_a-practical-guide-to-peak-performance-part-1/media/image17.webp)
 
 **Let your guns blaze and see what happens.**
 
@@ -439,9 +409,7 @@ players will find that reviewing their performance goals and using
 positive self-talk and visualization well in advance of matches are
 necessary to create full positive intensity.
 
-![A picture containing text, tennis, person, athletic game Description
-automatically
-generated](media_a-practical-guide-to-peak-performance-part-1/media/image18.webp)
+![A picture containing text, tennis, person, athletic game Description automatically generated](media_a-practical-guide-to-peak-performance-part-1/media/image18.webp)
 
 **Confidence: what you project is what the world will perceive.**
 
@@ -470,9 +438,7 @@ The mind-body connection is so powerful that if your physical being
 projects an unshakable confidence, then your mind will eventually come
 along for the ride. 
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_a-practical-guide-to-peak-performance-part-1/media/image19.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_a-practical-guide-to-peak-performance-part-1/media/image19.webp)
 
 **Between point rituals are critical to creating physical confidence.**
 
@@ -493,15 +459,10 @@ and discouraging.  But if you truly have control of your body language,
 you can purge yourself of these negative emotions and recover a positive
 physical presence in the time between points. 
 
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![A person in a pink tank top Description automatically generated with low
-  confidence](media_a-practical-guide-to-peak-performance-part-1/media/image20.jpg)![A picture containing tennis, racket, person, athletic game Description automatically
-  generated](media_a-practical-guide-to-peak-performance-part-1/media/image21.jpg)![A picture containing person, person, outdoor, female Description automatically
-  generated](media_a-practical-guide-to-peak-performance-part-1/media/image22.jpg)
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  **Watch Ana Ivanovic physically morph from negative to positive after a tough lost point.**
-
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person in a pink tank top Description automatically generated with low confidence](media_a-practical-guide-to-peak-performance-part-1/media/image20.jpg)![A picture containing tennis, racket, person, athletic game Description automatically
+generated](media_a-practical-guide-to-peak-performance-part-1/media/image21.jpg)![A picture containing person, person, outdoor, female Description automatically
+generated](media_a-practical-guide-to-peak-performance-part-1/media/image22.jpg)
+**Watch Ana Ivanovic physically morph from negative to positive after a tough lost point.**
 
 Watch the amazing sequence from J. Gregory Swendsen's new portrait of
 Ana Ivanovic. ([**link**](https://www.tennisplayer.net/members/tourportraits/gregory_swendsen/ana_ivanovic/ivanovic_slideshow.html)
@@ -533,9 +494,7 @@ changes.  Suddenly the feet are moving better, your brain is once again
 communicating with your "elbow," and you not only remember that you came
 in with a game plan but can attempt to implement it.
 
-![A person looking at a screen Description automatically generated with
-low
-confidence](media_a-practical-guide-to-peak-performance-part-1/media/image23.webp)
+![A person looking at a screen Description automatically generated with low confidence](media_a-practical-guide-to-peak-performance-part-1/media/image23.webp)
 
 **Learn to take systematic deep breaths between points.**
 
@@ -579,5 +538,3 @@ needs to relax.
 So there we have it for the first four components of our practical
 guide!  Stay tuned next month as we work through the next four
 components in developing and sustaining peak performance.
-
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

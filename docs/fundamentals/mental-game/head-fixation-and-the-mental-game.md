@@ -2,10 +2,7 @@
 
 ### Damien Lafont
 
-------------------------------------------------------------------------
-
-![A person playing tennis Description automatically
-generated](media_head-fixation-and-the-mental-game/media/image1.webp)
+![A person playing tennis Description automatically generated](media_head-fixation-and-the-mental-game/media/image1.webp)
 
 **Roger Federer: the most dramatic pro example of head fixation.**
 
@@ -37,8 +34,7 @@ present.**
 This concern about the future has a negative impact on what actually
 occurs.**
 
-![A person playing tennis Description automatically
-generated](media_head-fixation-and-the-mental-game/media/image2.webp)
+![A person playing tennis Description automatically generated](media_head-fixation-and-the-mental-game/media/image2.webp)
 
 **Research shows that staying fixated on the contact zone improves
 concentration.**
@@ -72,8 +68,7 @@ Is it coincidence that Roger Federer - the player with the most
 pronounced head fixation - has shown a legendary ability to stay relaxed
 and produce great shot making regardless of the score?
 
-![A person hitting a ball with a tennis racket Description automatically
-generated](media_head-fixation-and-the-mental-game/media/image3.webp)
+![A person hitting a ball with a tennis racket Description automatically generated](media_head-fixation-and-the-mental-game/media/image3.webp)
 
 **Is Federer's relaxed style related directly to his pronounced head
 position?**
@@ -107,9 +102,7 @@ skill necessary to perform well. It is a simple but very powerful
 technique that creates synergy between multiple aspects of the mental
 game and when implemented has a huge positive impact on performance.
 
-![A person smiling with his eyes closed Description automatically
-generated with low
-confidence](media_head-fixation-and-the-mental-game/media/image4.jpeg)
+![A person smiling with his eyes closed Description automatically generated with low confidence](media_head-fixation-and-the-mental-game/media/image4.jpeg)
 
 Damien Lafont Ph.D. is a pioneer in mental, vision and movement study.
 Based in Melbourne, Australia, Damien is manager of Vida Mind ([link](http://www.vidamind.com.au) for more info). He works with athletes
@@ -117,12 +110,11 @@ and coaches from all sports interested in developing mental skills and
 improving performance. A certified teaching pro, he holds a degree in
 sport science and training as well as a doctorate in physics.
 
-![Graphical user interface, application Description automatically
-generated](media_head-fixation-and-the-mental-game/media/image5.jpeg)
+![Graphical user interface, application Description automatically generated](media_head-fixation-and-the-mental-game/media/image5.jpeg)
 
 **Back to the Zone**
 
-\"The Zone\" is that quasi-mystical state when everything flows
+"The Zone" is that quasi-mystical state when everything flows
 effortlessly, and you can do no wrong. Back to the Zone breaks the Zone
 down into its many components. Ultimately it shows us that reaching the
 Zone is more about freeing our mind from the unnecessary rather than

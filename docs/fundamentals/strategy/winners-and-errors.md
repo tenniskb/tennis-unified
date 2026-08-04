@@ -2,11 +2,7 @@
 
 ### Craig O'Shannessy
 
-------------------------------------------------------------------------
-
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_winners-and-errors/media/image1.jpg)
+![A person playing tennis Description automatically generated with medium confidence](media_winners-and-errors/media/image1.jpg)
 
 **What is the real significance of errors in First Strike Tennis?**
 
@@ -38,8 +34,7 @@ another 20% or more of total points. It's equally critical there. The
 secret is to reduce your own errors while adopting strategies that cause
 your opponents to make the errors themselves.
 
-![A person playing tennis Description automatically
-generated](media_winners-and-errors/media/image2.webp)
+![A person playing tennis Description automatically generated](media_winners-and-errors/media/image2.webp)
 
 **Is it important to distinguish between types of errors?**
 
@@ -49,7 +44,7 @@ Obviously, there are two basic ways a point can end in tennis -- a
 winner and an error. But to understand how all this works we have to
 take a look at what the term error really means.
 
-I define \"error\" differently than the way it is defined in
+I define "error" differently than the way it is defined in
 conventional analysis. This eliminates the confusion that allows us to
 simplify how we understand matches.
 
@@ -58,9 +53,9 @@ forced errors. I am abandoning that distinction. For me an error is an
 error.
 
 Why do I look at the game this way? First, the category so-called of
-\"unforced errors\" is flawed in the way it is collected or registered.
+"unforced errors" is flawed in the way it is collected or registered.
 
-In the pro game, for example, \"unforced errors\" are a judgment call
+In the pro game, for example, "unforced errors" are a judgment call
 made by unpaid volunteers who usually lack the experience to make that
 call accurately over the course of a match. So the results are often
 skewed.
@@ -74,9 +69,7 @@ The rest fall into some gray area. Almost every shot has some kind of
 pressure to it so it's best to focus on one simple distinction between
 winners and errors.
 
-![A picture containing athletic game, sport, tennis, court Description
-automatically
-generated](media_winners-and-errors/media/image3.webp)
+![A picture containing athletic game, sport, tennis, court Description automatically generated](media_winners-and-errors/media/image3.webp)
 
 **Let's make the simple distinction between a winner and an error.**
 
@@ -104,22 +97,19 @@ Grand Slam points were decided by errors for the best men in the world.
 
 **2012 Grand Slams: Men**
 
-  ---------------------------------------------------------------------------
-  **Men**      **Points**   **Winners**   **Errors**   **Winners   **Errors
-                                                       %**         %**
-  ------------ ------------ ------------- ------------ ----------- ----------
-  Australian   27,440       6,789         20,651       25%         75%
-  Open                                                             
+**Men**      **Points**   **Winners**   **Errors**   **Winners   **Errors
+%**         %**
+Australian   27,440       6,789         20,651       25%         75%
+Open                                                             
 
-  Roland       28,233       9,323         18,910       33%         66%
-  Garros                                                           
+Roland       28,233       9,323         18,910       33%         66%
+Garros                                                           
 
-  Wimbledon    29,290       10,203        19,087       35%         65%
+Wimbledon    29,290       10,203        19,087       35%         65%
 
-  U.S. Open    29,038       7151          21,887       25%         75%
+U.S. Open    29,038       7151          21,887       25%         75%
 
-  Totals       114,001      33,474        80,527       29.3%       70.7%
-  ---------------------------------------------------------------------------
+Totals       114,001      33,474        80,527       29.3%       70.7%
 
 And the women? For the 2012 Slams those numbers were slightly higher.
 The range was 69% at the French to over 80% at the U.S. Open. The
@@ -127,30 +117,25 @@ average? Over 74% of all points decided by errors.
 
 **2012 Grand Slams: Women**
 
-  ---------------------------------------------------------------------------
-  **Women**    **Points**   **Winners**   **Errors**   **Winners   **Errors
-                                                       %**         %**
-  ------------ ------------ ------------- ------------ ----------- ----------
-  Australian   16,479       3,678         12,801       22%         78%
-  Open                                                             
+**Women**    **Points**   **Winners**   **Errors**   **Winners   **Errors
+%**         %**
+Australian   16,479       3,678         12,801       22%         78%
+Open                                                             
 
-  Roland       17,283       5,323         11,960       31%         69%
-  Garros                                                           
+Roland       17,283       5,323         11,960       31%         69%
+Garros                                                           
 
-  Wimbledon    17,741       5,384         12,357       30%         70%
+Wimbledon    17,741       5,384         12,357       30%         70%
 
-  U.S. Open    16,862       3,267         13,595       19%         81%
+U.S. Open    16,862       3,267         13,595       19%         81%
 
-  Totals       68,315       17,652        50,663       25.9%       74.1%
-  ---------------------------------------------------------------------------
+Totals       68,315       17,652        50,663       25.9%       74.1%
 
 We've looked at many other pro data sets since. The results show that
 at least two thirds, 66% of all points are decided by errors. It's a
 constant.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_winners-and-errors/media/image4.jpg)
+![A person playing tennis Description automatically generated with medium confidence](media_winners-and-errors/media/image4.jpg)
 
 **How should you think about errors in your game?**
 
@@ -182,30 +167,35 @@ next article we will look at 8 different strategic approaches that will
 give you the advantage based on the actual reality of how tennis matches
 are played and won.
 
-| ![A person smiling for the camera Description automatically generated with low | Craig O'Shannessy is widely recognized as |
-| --- | --- |
-| confidence](media_winners-and-errors/media/image5.jpg) | statistics, tennis strategy, and applying |
-|  | his insights in coaching. His research has |
-|  | uncovered the real magic numbers in winning |
-|  | tennis across all levels of the game. He |
-|  | writes for the ATP Tour website and the New |
-|  | York Times among others elite publications. |
-|  |  |
-|  | He has coached on the tour for 20 years |
-|  | working with players including Kevin |
-|  | Anderson, Amer Delic, and Rajeev Ram. His |
-|  | website Brain Game Tennis offers detailed |
-|  | analysis and training programs based on his |
-|  | research that have helped thousands of |
-|  | players around the world. |
+![A person smiling for the camera Description automatically generated with low confidence](media_winners-and-errors/media/image5.jpg)
 
+Craig O'Shannessy is widely recognized as
 
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![Diagram Description automatically generated with medium                                                                                                          [Click
-  confidence](media_winners-and-errors/media/image6.jpg)                                                                                                                                     to visit Craig's site and check out his
-                                                                                                                                                                     amazing training products!
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------ ----------------------------------------
+statistics, tennis strategy, and applying
 
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+his insights in coaching. His research has
 
-------------------------------------------------------------------------
+uncovered the real magic numbers in winning
+
+tennis across all levels of the game. He
+
+writes for the ATP Tour website and the New
+
+York Times among others elite publications.
+
+He has coached on the tour for 20 years
+
+working with players including Kevin
+
+Anderson, Amer Delic, and Rajeev Ram. His
+
+website Brain Game Tennis offers detailed
+
+analysis and training programs based on his
+
+research that have helped thousands of
+
+players around the world.
+
+![Diagram Description automatically generated with medium                                                                                                          [Click confidence](media_winners-and-errors/media/image6.jpg)                                                                                                                                     to visit Craig's site and check out his
+amazing training products!

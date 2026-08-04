@@ -2,11 +2,7 @@
 
 ### Kyle LaCroix 
 
-------------------------------------------------------------------------
-
-![A picture containing grass, sport, athletic game, floor Description
-automatically
-generated](media_the-inspiration-to-serve-and-volley/media/image1.webp)
+![A picture containing grass, sport, athletic game, floor Description automatically generated](media_the-inspiration-to-serve-and-volley/media/image1.webp)
 
 **In 1990, Stefan Edberg and Boris Becker contested the Wimbledon final
 with Edberg winning in 5 sets.**
@@ -17,7 +13,7 @@ conference where I was presenting.
 
 Many mentioned famous players such as Pete Sampras or Andre Agassi, or
 Roger Federer. One named James Blake. Others named less famous players
-with names like \"My Mother or \"My Father.\"
+with names like "My Mother or "My Father."
 
 As I pondered the responses my thoughts went back to my own first
 inspiration from a different era when matches were won and lost at the
@@ -40,9 +36,7 @@ The white clothing contrasting with the green grass turning brown. The
 sound of the ball striking on center court. The dead silence of the
 English spectators during play.
 
-![A picture containing tennis, racket, sport, person Description
-automatically
-generated](media_the-inspiration-to-serve-and-volley/media/image2.jpg)
+![A picture containing tennis, racket, sport, person Description automatically generated](media_the-inspiration-to-serve-and-volley/media/image2.jpg)
 
 **From the first time I saw them I was immediately fascinated by the
 attacking styles of Edberg and Becker.**
@@ -76,9 +70,7 @@ of chlorine was not inspiring. Nor did I find inspiration in baseball
 (too boring), basketball (too much yelling from coaches) or football
 (too violent).
 
-![A picture containing text, outdoor, athletic game, sport Description
-automatically
-generated](media_the-inspiration-to-serve-and-volley/media/image3.jpg)
+![A picture containing text, outdoor, athletic game, sport Description automatically generated](media_the-inspiration-to-serve-and-volley/media/image3.jpg)
 
 My first opponent: serving and volleying against the wall.
 
@@ -107,9 +99,7 @@ family. We relied on work ethic, determination and sheer stubbornness.
 I knew I had to do on my own. I tried to duplicate what I saw in Tennis
 magazine and on TV. But I did develop one other unique training method.
 
-![A picture containing tree, sky, outdoor, athletic game Description
-automatically
-generated](media_the-inspiration-to-serve-and-volley/media/image4.jpg)
+![A picture containing tree, sky, outdoor, athletic game Description automatically generated](media_the-inspiration-to-serve-and-volley/media/image4.jpg)
 
 **Trees surrounded the courts where I developed a unique learning
 technique.**
@@ -137,7 +127,7 @@ club---much to their dismay.
 
 My game developed nicely and was gaining attention from some coaches and
 fellow juniors who asked what teaching pro I was working with. My answer
-usually surprised them. \"No one.\"
+usually surprised them. "No one."
 
 My tennis grew through my endless repetition on the wall and an
 obsessive willingness to play anyone and everyone. More than once I
@@ -145,9 +135,7 @@ stood up hard earned and very cute dates because I had to read the
 latest issue of Tennis magazine cover to cover when it came in the mail
 earlier in the day.
 
-![A person holding a trophy Description automatically generated with
-medium
-confidence](media_the-inspiration-to-serve-and-volley/media/image5.jpg)
+![A person holding a trophy Description automatically generated with medium confidence](media_the-inspiration-to-serve-and-volley/media/image5.jpg)
 
 **Like Boris Becker, I fully planned on winning Wimbledon at age 17.**
 
@@ -155,8 +143,8 @@ I was a literal tennis junkie, shaking without my tennis fix every few
 hours. Selling my family's furniture might have been the next step if I
 felt I could have gained more knowledge.
 
-Boris Becker had won Wimbledon at the age of 17. If the \"Lion from
-Leimen\" could do it, so could I. I would be 17 in 1999, and I told
+Boris Becker had won Wimbledon at the age of 17. If the "Lion from
+Leimen" could do it, so could I. I would be 17 in 1999, and I told
 anyone who would listen that the Wimbledon title would be mine that
 year.
 
@@ -175,9 +163,7 @@ played in since my first tournament when I was 12 to my last when I was
 the money and time to enter more events and therefore acquire more
 points.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_the-inspiration-to-serve-and-volley/media/image6.jpg)
+![A person playing tennis Description automatically generated with medium confidence](media_the-inspiration-to-serve-and-volley/media/image6.jpg)
 
 **Watching his success over the years made me feel better about a junior
 loss to David Nalbandian.**
@@ -213,9 +199,7 @@ feel better about that loss.
 From that point I knew Wimbledon was likely to be a tough ask. But I
 knew that I was going to make this game a part of my life forever.
 
-![A picture containing person, outdoor, sport, player Description
-automatically
-generated](media_the-inspiration-to-serve-and-volley/media/image7.jpg)
+![A picture containing person, outdoor, sport, player Description automatically generated](media_the-inspiration-to-serve-and-volley/media/image7.jpg)
 
 **I still think about the first time I saw Edberg and Becker.**
 
@@ -227,7 +211,7 @@ enough to earn me a spot on my college team. The courts at the indoor
 facility in Michigan were lightning fast and perfectly suited to my
 game, a different world from the humid clay courts of Florida.
 
-I loved playing in college. But all along I knew a greater calling \--
+I loved playing in college. But all along I knew a greater calling --
 teaching the game. Funny how the kid who insisted on learning without a
 tennis coach always wanted to become one.
 
@@ -238,9 +222,7 @@ hiding in the trees and hedges next to my courts. I try to make sure
 every word I say to my students means something, for fear that I'm
 cheating that driven child so hungry to learn.
 
-![A person smiling for the camera Description automatically generated
-with low
-confidence](media_the-inspiration-to-serve-and-volley/media/image8.jpeg)
+![A person smiling for the camera Description automatically generated with low confidence](media_the-inspiration-to-serve-and-volley/media/image8.jpeg)
 
 Kyle LaCroix is a USPTA and PTR Certified Professional as well as
 receiving his United States Center For Coaching Excellence (USCCE)

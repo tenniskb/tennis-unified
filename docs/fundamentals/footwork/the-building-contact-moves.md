@@ -40,7 +40,6 @@ detail.
 |  |
 | **4. Closed Backhand** |
 
-
 **Low Spin**
 
 Players use Low Spin typically when moving sideways along the baseline,
@@ -50,9 +49,7 @@ relatively low bouncing, or that they intend to play on the rise. This
 makes the contact at around hip to waist height, versus the higher
 contact points on the High Spin move as we'll see below.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_the-building-contact-moves/media/image1.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_the-building-contact-moves/media/image1.webp)
 
 **Spinning through the shot with lower contact and the legs still
 bent.**
@@ -88,9 +85,7 @@ height ranges from around chest to shoulder level. Again the player is
 spinning his body through the shot to maintain his position in the rally
 and/or open the court for attack.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_the-building-contact-moves/media/image2.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_the-building-contact-moves/media/image2.webp)
 
 **High Spin: spinning through a higher contact point with straighter
 legs.**
@@ -104,8 +99,8 @@ can actually increase.
 
 The landing on the high spin is virtually always on the outside or set
 up leg. The amount of body spin varies somewhat with the shot placement,
-and ,again, the toes of the outside foot\--the foot that was closest to
-the ball\--will point in the direction of the hit.
+and ,again, the toes of the outside foot--the foot that was closest to
+the ball--will point in the direction of the hit.
 
 As with the Low Spin, notice how the player stands his ground-even
 though the ball is higher and heavier. In this way he defends his
@@ -137,8 +132,8 @@ spin moves, the player lands on the outside foot closer to the ball.
 
 **Closed Backhand**
 
-In pro tennis, most wide backhands\--hit with either one or two
-hands\--are hit with some version of a closed stance. The Building Move
+In pro tennis, most wide backhands--hit with either one or two
+hands--are hit with some version of a closed stance. The Building Move
 on the backhand is hit with a more extreme version of this closed
 stance. I call this building move the Closed Backhand.
 
@@ -170,7 +165,9 @@ So post your comments and questions in the Forum and let's discuss it
 all! And stay tuned for the Counter Attacking Moves and the Defensive
 Moves coming up in future articles.
 
-![link](media_the-building-contact-moves/media/image3.jpeg)
+![Video demonstration](media_the-building-contact-moves/media/image3.jpeg)
+
+*Video demonstration — the original video for this article was hosted on TennisPlayer.net.*
 
 David Bailey is a native Australian who has spent 15 years studying
 tennis at the professional level. He has developed a new language for

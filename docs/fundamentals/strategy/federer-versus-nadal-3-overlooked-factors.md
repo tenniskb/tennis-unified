@@ -2,11 +2,7 @@
 
 ### Marcel Crok Bart Theelen
 
-------------------------------------------------------------------------
-
-![A picture containing text, tennis, person, player Description
-automatically
-generated](media_federer-versus-nadal-3-overlooked-factors/media/image1.webp)
+![A picture containing text, tennis, person, player Description automatically generated](media_federer-versus-nadal-3-overlooked-factors/media/image1.webp)
 
 **What are the overlooked factors in the legendary 2008 Wimbledon
 final?**
@@ -21,13 +17,13 @@ that shed new light on this historic match.
 **[[These three factors are:] ]**
 
 - First, the relationship between the first serve and the ability to hit
-  an immediate forehand. 
+an immediate forehand. 
 
 - Second, the position on the court from which both players hit most of
-  their winners. 
+their winners. 
 
 - Third, the role of Nadal's passing shots and how they influenced
-  Federer's attacking game
+Federer's attacking game
 
 To analyze the matches, we used the software program SportsCounts,
 developed by Bart Theelen.  It generates considerably more detailed
@@ -35,8 +31,7 @@ statistics than the standard tour numbers.  These include what shot a
 player hit after a serve or a return, and where on the court each player
 is at the time each ball is struck.  
 
-![A person playing tennis Description automatically
-generated](media_federer-versus-nadal-3-overlooked-factors/media/image2.webp)
+![A person playing tennis Description automatically generated](media_federer-versus-nadal-3-overlooked-factors/media/image2.webp)
 
 **Who won how many points when a forehand followed a first serve?**
 
@@ -60,7 +55,7 @@ only one or two times out of ten.***
 **And it was basically the same for Nadal.  Rafael was able to hit a
 forehand 72% of the time after a first serve.  This is probably due in
 part to his incredible speed and his ability to run around his backhand.
- When he started with a forehand, Nadal won 62% of the points, actually
+When he started with a forehand, Nadal won 62% of the points, actually
 a slightly higher percentage of points than
 Roger.**
 
@@ -68,8 +63,7 @@ So, it was very close on the forehand side, but with a slight edge in
 total number of points to Roger when both players backed up the first
 serve with a forehand.
 
-![A person playing tennis Description automatically
-generated](media_federer-versus-nadal-3-overlooked-factors/media/image3.webp)
+![A person playing tennis Description automatically generated](media_federer-versus-nadal-3-overlooked-factors/media/image3.webp)
 
 **A dramatic difference when a backhand followed the serve.**
 
@@ -86,7 +80,7 @@ understanding why Nadal won.]**
 
 **[[The point difference between the 2 players over 5 sets was only 5
 points.  In this one pattern---a first serve followed by a
-backhand\--Nadal was 50% more successful than Roger.  This goes a long
+backhand--Nadal was 50% more successful than Roger.  This goes a long
 way towards explaining why Federer struggles so much to beat the
 Spaniard.] ]**
 
@@ -98,13 +92,12 @@ serve.**
 **The lesson to be drawn from this as a player or a coach is this:
 good serving is obviously important, but it is even more important to
 immediately set up your forehand after the serve.**
- The top players are obviously seeking to do this as often as possible. 
+The top players are obviously seeking to do this as often as possible. 
 So, it makes sense to practice this combination specifically.  Make sure
 you and/or your players are aware of this, and what advantage it may
 give you.
 
-![A person playing tennis Description automatically
-generated](media_federer-versus-nadal-3-overlooked-factors/media/image4.webp)
+![A person playing tennis Description automatically generated](media_federer-versus-nadal-3-overlooked-factors/media/image4.webp)
 
 **Was it surprising where Nadal hit most of his winners?**
 
@@ -132,8 +125,7 @@ baseline.**  **He recorded no backhand winners in
 the Wimbledon final from deeper than 5 feet behind the
 baseline.**
 
-![A person playing tennis Description automatically
-generated](media_federer-versus-nadal-3-overlooked-factors/media/image5.webp)
+![A person playing tennis Description automatically generated](media_federer-versus-nadal-3-overlooked-factors/media/image5.webp)
 
 **Nadal's ability to score with his deep backhand was a factor.**
 
@@ -162,10 +154,8 @@ backhand side. Most of his winners on both sides are hit from closer in,
 as with Federer.  But these small differences can be the deciding
 factors in close matches.**
 
-**[\]**
-![A picture containing text, athletic game, sport, tennis Description
-automatically
-generated](media_federer-versus-nadal-3-overlooked-factors/media/image6.webp)
+**[]**
+![A picture containing text, athletic game, sport, tennis Description automatically generated](media_federer-versus-nadal-3-overlooked-factors/media/image6.webp)
 
 **Given the opportunity, Nadal very rarely missed a pass.**
 
@@ -185,13 +175,13 @@ Federer attacked Nadal won 19% of the total points with winning passes. 
 Only 2% of Federer's attacking points ended with a Nadal passing shot
 error.**
 
-**[[The bottom line is that when Nadal had any chance of hitting a
+**[The bottom line is that when Nadal had any chance of hitting a
 passing shot, he generally hit it with amazing precision, and rarely
 produced an unforced error.] [This explains why so few points
 ended with volleys or overheads, especially unusual on grass.  Federer
 was forced to try for winners on his approaches because he could feel
 that Nadal's passing shots would other wise beat him consistently at the
-net.]]**
+net.]**
 
 **[[The passing shots show even more spectacularly Nadal's ability to
 hit winners from 5 feet behind the baseline and more.  The highest
@@ -218,4 +208,3 @@ Grand Slam final encounters.
 | style. |  |
 | For further information or to contact either Marcel or Bart, email them at: |  |
 | <redactie@tennisencoach.nl> |  |
-

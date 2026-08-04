@@ -2,9 +2,7 @@
 
 ### Rick Macci
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_starting-kids-right-the-forehand/media/image1.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_starting-kids-right-the-forehand/media/image1.webp)
 
 **A player's technical foundation lasts a lifetime, for better or
 worse.**
@@ -29,7 +27,7 @@ Tennis development isn't a sprint, it's a marathon.  That's why we call
 it Junior Development, not Junior Final Destination. 
 
 In the first article in this series we took a look at the first building
-block\--attitude.  ([link](Starting%20Your%20Kids%20-%20The%20First%20Fundamental%20Is%20Attitude.docx)) 
+block--attitude.  ([link](Starting%20Your%20Kids%20-%20The%20First%20Fundamental%20Is%20Attitude.docx)) 
 
 **Attitude underlies the whole process. **
 
@@ -44,9 +42,7 @@ They have to want to do it.  You've got to want to make them love it. So
 it can't be so serious and so negative that they're not going to
 respond.**
 
-![A tennis player swings a racket Description automatically generated
-with medium
-confidence](media_starting-kids-right-the-forehand/media/image2.webp)
+![A tennis player swings a racket Description automatically generated with medium confidence](media_starting-kids-right-the-forehand/media/image2.webp)
 
 **Let's not fall into the trap of trying to creating 5 year olds with
 grips like Nadal.**
@@ -67,11 +63,7 @@ young age can either lead to weapons or they can lead to disaster.  Even
 though you might end up the best junior player in the U.S. you still
 might be doing all the wrong things.
 
- 
-
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_starting-kids-right-the-forehand/media/image3.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_starting-kids-right-the-forehand/media/image3.webp)
 
 **Good fundamentals allow young players to connect with the ball.**
 
@@ -90,7 +82,7 @@ different ways.] ]** But without these fundamentals I
 feel players won't ever have the chance of reaching their potential. 
 
 As with the attitude part, the basic technical fundamentals don't apply
-just to kids\--they probably apply to 95% of all club players who want
+just to kids--they probably apply to 95% of all club players who want
 to get better.
 
 But from the development point of view, you've got to be building a game
@@ -103,13 +95,8 @@ going to grow. Over the years I have seen many talented players,
 including pro players, suffer from this. In some cases I believe it has
 cost them literally millions of dollars.
 
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                        ![A person playing tennis Description automatically generated with medium
-   confidence](media_starting-kids-right-the-forehand/media/image3.webp)
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                                  **I like to start young players in an eastern grip.**
-
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person playing tennis Description automatically generated with medium confidence](media_starting-kids-right-the-forehand/media/image3.webp)
+**I like to start young players in an eastern grip.**
 
 **Grip**
 
@@ -139,9 +126,7 @@ Almost all the young kids I work with, I change them to an eastern or
 semi-western. Whether the player is a boy or a girl is a big factor
 here, and this is incredibly important to understand.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_starting-kids-right-the-forehand/media/image4.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_starting-kids-right-the-forehand/media/image4.webp)
 
 **The top women play a cleaner, flatter game.**
 
@@ -164,9 +149,7 @@ So when a young girl comes to the academy we put her into an eastern
 grip, the handshake grip where the knuckle is going to be flat right
 back on the back of the racket.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_starting-kids-right-the-forehand/media/image5.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_starting-kids-right-the-forehand/media/image5.webp)
 
 **With boys I want them to gravitate toward a semi-western.**
 
@@ -193,8 +176,7 @@ western is deadly. The eastern and the semi-western are just easier for
 the kids to make contact. They learn the true sense of the strings. Then
 as spin becomes more prevalent, it's ok to let them slide a little. 
 
-![A person playing tennis Description automatically
-generated](media_starting-kids-right-the-forehand/media/image6.webp)
+![A person playing tennis Description automatically generated](media_starting-kids-right-the-forehand/media/image6.webp)
 
 **Little kids, high balls, and western grips-not the ideal
 combination.**
@@ -225,9 +207,7 @@ always to be taken back with the shoulder turn. You're going to take it
 back with the shoulders, always.  And that turn move, that preparation
 should start immediately.**
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_starting-kids-right-the-forehand/media/image7.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_starting-kids-right-the-forehand/media/image7.webp)
 
 **[Preparation begins with the shoulders.]**
 
@@ -235,7 +215,7 @@ confidence](media_starting-kids-right-the-forehand/media/image7.webp)
 the name of the game. But to establish this with youngsters you've got
 to be repetitive.]*** **[[Tennis is a repetitive
 sport.] You've got to say the same thing over and over
-again.  \"Turn the shoulder, turn the shoulders.\" If you say it enough
+again.  "Turn the shoulder, turn the shoulders." If you say it enough
 it will become automatic.] **
 
 **Footwork**
@@ -259,8 +239,7 @@ do the same, come forward and let the ball
 drop.** **Let the ball fall to the correct point
 of contact.**
 
-![A child playing tennis Description automatically generated with medium
-confidence](media_starting-kids-right-the-forehand/media/image8.webp)
+![A child playing tennis Description automatically generated with medium confidence](media_starting-kids-right-the-forehand/media/image8.webp)
 
 **Letting the ball drop allows young players to find the strike zone.**
 
@@ -289,7 +268,9 @@ theory or what someone taught me or something that I read. It's based
 on the pure hard facts of this experiment I am conducting on the court
 everyday.
 
-![link](media_starting-kids-right-the-forehand/media/image8.webp)
+![Video demonstration](media_starting-kids-right-the-forehand/media/image8.webp)
+
+*Video demonstration — the original video for this article was hosted on TennisPlayer.net.*
 
 **Kids need to feel what it's really like to hit through the ball.**
 
@@ -322,8 +303,7 @@ no matter what grip they have, play mostly with the arm. The racket
 dominates them instead of the body doing the work. Pushing on the ground
 means the whole body in going to be involved.**
 
-![A child playing tennis Description automatically generated with medium
-confidence](media_starting-kids-right-the-forehand/media/image9.webp)
+![A child playing tennis Description automatically generated with medium confidence](media_starting-kids-right-the-forehand/media/image9.webp)
 
 **Pushing on the ground: a million-dollar lesson.**
 
@@ -360,26 +340,42 @@ trophy, we all want the "W." We want that instant gratification. But you
 still can have success and also make sure you're developing a forehand
 that is eventually going to be a weapon.
 
-| ![A person with his arms crossed Description automatically generated with low | Rick Macci has coached some of the greatest players |
-| --- | --- |
-| confidence](media_starting-kids-right-the-forehand/media/image10.jpeg) | years. He is widely regarded as one the world's top |
-|  | developmental coaches. Rick and his staff have shaped |
-|  | the strokes of Jennifer Capriati, Venus and Serena |
-|  | Williams, Andy Roddick, and dozens of other |
-|  | successful tour players. In the last 30 years, Macci |
-|  | students have won 134 USTA national junior |
-|  | championships, and have been awarded over 4 million |
-|  | dollars in college scholarships. Rick is a USPTA |
-|  | Master Pro and a member of the USPTA Florida Hall of |
-|  | Fame. |
-|  |  |
-|  | The Rick Macci Academy is located in Boca Raton, |
-|  | Florida at the beautiful Boca Logo Country Club, |
-|  | where Rick works in collaboration with Dr. Brian |
-|  | Gordon in implementing their new world class training |
-|  | system. |
-|  |  |
-|  | For more information about Rick's Academy, email him |
-|  | at: info@rickmacci.com or call Rick Macci directly |
-|  | at: (561) 445-2747 |
+![A person with his arms crossed Description automatically generated with low confidence](media_starting-kids-right-the-forehand/media/image10.jpeg)
 
+Rick Macci has coached some of the greatest players
+
+years. He is widely regarded as one the world's top
+
+developmental coaches. Rick and his staff have shaped
+
+the strokes of Jennifer Capriati, Venus and Serena
+
+Williams, Andy Roddick, and dozens of other
+
+successful tour players. In the last 30 years, Macci
+
+students have won 134 USTA national junior
+
+championships, and have been awarded over 4 million
+
+dollars in college scholarships. Rick is a USPTA
+
+Master Pro and a member of the USPTA Florida Hall of
+
+Fame.
+
+The Rick Macci Academy is located in Boca Raton,
+
+Florida at the beautiful Boca Logo Country Club,
+
+where Rick works in collaboration with Dr. Brian
+
+Gordon in implementing their new world class training
+
+system.
+
+For more information about Rick's Academy, email him
+
+at: info@rickmacci.com or call Rick Macci directly
+
+at: (561) 445-2747

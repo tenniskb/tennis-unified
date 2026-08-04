@@ -4,9 +4,7 @@
 
 **Jim Loehr**
 
-![A couple of people kissing on a tennis court Description automatically
-generated with medium
-confidence](media_love-the-battle-rafael-nadal/media/image1.webp)
+![A couple of people kissing on a tennis court Description automatically generated with medium confidence](media_love-the-battle-rafael-nadal/media/image1.webp)
 
 **Flamboyance isn't the most important thing that separates Rafael
 Nadal from other competitors.**
@@ -31,9 +29,7 @@ professional tennis players do. This is to summon emotions they need to
 perform deeply from within themselves. And Rafael Nadal is the ultimate
 example.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_love-the-battle-rafael-nadal/media/image2.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_love-the-battle-rafael-nadal/media/image2.webp)
 
 **Can you tell which point Nadal won and which he lost?**
 
@@ -57,12 +53,10 @@ language. They can have angry outbursts and throw rackets.
 You never or only very rarely see this from Rafael Nadal. He projects
 the image of a calm, invincible fighter and he virtually never deviates
 from the script. Watch how he reacts from point to point in the
-animation\--it is often impossible to determine the outcome simply from
+animation--it is often impossible to determine the outcome simply from
 observing his body language.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_love-the-battle-rafael-nadal/media/image3.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_love-the-battle-rafael-nadal/media/image3.webp)
 
 **Even elite players can be prone to negative displays.**
 
@@ -101,9 +95,7 @@ not feel excitement or passion or joy, but they are professionals. They
 have learned to recruit within themselves the resources that are
 necessary to make those emotions become real.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_love-the-battle-rafael-nadal/media/image4.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_love-the-battle-rafael-nadal/media/image4.webp)
 
 **Nadal has consummate control over his rituals and physical presence.**
 
@@ -117,12 +109,12 @@ exactly like your strokes. If you allow yourself to practice the
 mechanics in sloppy ways, eventually the mechanics go away from you.
 
 It's the same thing emotionally. As soon as you get sloppy
-emotionally\--sloppy thinking, sloppy imagery, slopping acting with your
+emotionally--sloppy thinking, sloppy imagery, slopping acting with your
 physical body, you're going to get mush. You are not going to access
 your talent and skill in the context of battle, in the context of
 competition.
 
-So it's very important that you realize that what you really are\--you
+So it's very important that you realize that what you really are--you
 are an actor. That's what a great athletic performer is all about.
 That's why every time you go on a court in tennis you should be
 constantly trying to stimulate the emotions that empower you. The more
@@ -130,11 +122,9 @@ you practice it, the better you get.
 
 **Ready to Cry?**
 
-| ![A person wearing sunglasses Description automatically | ![A person wearing sunglasses Description automatically generated with medium | ![A picture containing person, outdoor Description automatically |
-| --- | --- | --- |
-| generated](media_love-the-battle-rafael-nadal/media/image5.jpg) |  |  |
-| **Jack, Julia, and Rafa\--three actors at the top of their craft.** |  |  |
+![A person wearing sunglasses Description automatically generated](media_love-the-battle-rafael-nadal/media/image5.jpg)
 
+**Jack, Julia, and Rafa--three actors at the top of their craft.**
 
 **We know what the script is in sport. It is confidence. It is
 positive fight. It is relaxation. It is fun.** We
@@ -155,8 +145,7 @@ the level of physiology. This is why great actors are so believable on
 screen, because they are truly involved in summoning the chemistry that
 is associated with those emotions.
 
-![A person playing tennis Description automatically
-generated](media_love-the-battle-rafael-nadal/media/image8.webp)
+![A person playing tennis Description automatically generated](media_love-the-battle-rafael-nadal/media/image8.webp)
 
 **Tough acting can summon the performance you want.**
 
@@ -171,9 +160,9 @@ yourself.**
 Now, how do Julia Roberts and Jack Nicholson do that? How do they summon
 those emotions? Well, they do exactly what Rafael Nadal does in the
 context of his competitive battles. **Rafael Nadal has learned to be
-very, very careful in how he thinks\--he thinks
+very, very careful in how he thinks--he thinks
 tough.** **He has learned to be very careful how
-he acts\--he acts tough. And what does that mean? He acts out energy,
+he acts--he acts tough. And what does that mean? He acts out energy,
 positivism, fun, intensity, confidence. He does this all the
 time.**
 
@@ -183,8 +172,7 @@ fault serving two points from the match in this year's Wimbledon final.
 How many players can say they have the confidence and internal belief to
 do that?
 
-![A person playing tennis Description automatically
-generated](media_love-the-battle-rafael-nadal/media/image9.webp)
+![A person playing tennis Description automatically generated](media_love-the-battle-rafael-nadal/media/image9.webp)
 
 **So many players constantly deviate from the script.**
 
@@ -214,8 +202,7 @@ to carry a smile on your face, but I want you to cry tears of sadness,
 she absolutely could not do it because the body is communicating
 different messages.
 
-![A person playing tennis Description automatically
-generated](media_love-the-battle-rafael-nadal/media/image10.webp)
+![A person playing tennis Description automatically generated](media_love-the-battle-rafael-nadal/media/image10.webp)
 
 **The body is all connected and how you act on the court inevitably
 effects how you feel.**
@@ -243,26 +230,25 @@ constantly working a particular muscle, when you want to summon that
 muscle in the course of that activity, it's readily available to you.
 The same thing is true emotionally.
 
-![A person playing tennis Description automatically
-generated](media_love-the-battle-rafael-nadal/media/image11.webp)
+![A person playing tennis Description automatically generated](media_love-the-battle-rafael-nadal/media/image11.webp)
 
 **Your ability to perform is connected to the images you carry in your
 head.**
 
-**The \$10,000 Test**
+**The $10,000 Test**
 
-What if I said that I will give you \$10,000 if you can cry for me in
+What if I said that I will give you $10,000 if you can cry for me in
 three minutes? If you very rarely cry, the chance of you getting this
 emotion to surface is nearly impossible. The people who can cry fairly
 easily and have worked the pathways connected to that particular
 response are much more likely going to be able to cry and to get that
-\$10,000.
+$10,000.
 
 What are some of the things that you would have to do to make that
-\$10,000 come your way? The first thing is to make sure that your
+$10,000 come your way? The first thing is to make sure that your
 thoughts are consistent with the emotion that you're trying to achieve.
 You're probably going to think about the saddest thing you've ever
-thought about in your life\--the most tragic thing that has happened or
+thought about in your life--the most tragic thing that has happened or
 could ever happen to you. And thinking about that, focusing on that,
 will start to change your chemistry.
 
@@ -272,16 +258,11 @@ something that's vividly imagined from something that actually happens.
 The chemistry becomes as real as if what you imagine was actually
 happening right here and now.
 
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                        ![A picture containing outdoor, standing Description automatically
-   generated](media_love-the-battle-rafael-nadal/media/image12.jpg)
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                              Why do you feel that you really are in Jurassic Park?
-
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A picture containing outdoor, standing Description automatically generated](media_love-the-battle-rafael-nadal/media/image12.jpg)
+Why do you feel that you really are in Jurassic Park?
 
 That's what happens to you when you go into a theater and you sit and
-you watch a movie like \"Jurassic Park.\" You know you're sitting in
+you watch a movie like "Jurassic Park." You know you're sitting in
 that theater. You know you haven't gone to Jurassic Park. But the fear
 that comes inside of you is exactly the same fear if you were actually
 there.
@@ -307,8 +288,7 @@ of move your chin like you do perhaps when you cry. And all of a sudden,
 if you get that wired right, the tears will start to flow, if you've
 had access to that emotion.
 
-![A person playing tennis Description automatically
-generated](media_love-the-battle-rafael-nadal/media/image13.webp)
+![A person playing tennis Description automatically generated](media_love-the-battle-rafael-nadal/media/image13.webp)
 
 **If you have it wired right, you create a pathway to the emotions you
 seek.**
@@ -339,9 +319,7 @@ hit a double fault on a key point? Get yourself on film and take a look
 at it. Take a look with a very critical eye. What do you see? Would you
 fit the profile of a great actor, a great IPS actor?
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_love-the-battle-rafael-nadal/media/image14.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_love-the-battle-rafael-nadal/media/image14.webp)
 
 **Study film of the behavior of players you want to emulate.**
 
@@ -358,14 +336,13 @@ and how to they relate to the toughness script?
 
 And is there anything that causes you to summon the wrong emotions
 because of and in response to the way you're thinking or imaging? For
-instance, if you sometimes say or think things such as \"I hate,\" \"I
-hate this,\" \"I can't stand bad weather,\" \"I hate this competitor,\"
-\"My backhand is really off.\" Instantly, that type of thinking closes
+instance, if you sometimes say or think things such as "I hate," "I
+hate this," "I can't stand bad weather," "I hate this competitor,"
+"My backhand is really off." Instantly, that type of thinking closes
 the door. You begin a cascade of consequences which are precisely the
 opposite of what you want.
 
-![A person playing tennis Description automatically
-generated](media_love-the-battle-rafael-nadal/media/image15.webp)
+![A person playing tennis Description automatically generated](media_love-the-battle-rafael-nadal/media/image15.webp)
 
 **Negative thinking will block your ability to access the emotions you
 need.**
@@ -380,9 +357,9 @@ responding emotionally to what's happening.**
 help to fulfill the script. We call that tough thinking, thinking about
 something in a way that enables us to feel positive emotion, to feel
 challenged, to create a sense of fun, to feel relaxed, to feel energized
-in a positive way.** If you tell me, \"I hate my
-serve,\" \"I hate my forehand,\" or \"I hate playing pushers\" or \"I
-hate whatever,\" right away you ensure that you will not be able to
+in a positive way.** If you tell me, "I hate my
+serve," "I hate my forehand," or "I hate playing pushers" or "I
+hate whatever," right away you ensure that you will not be able to
 access the emotions that empower you in the context of the **Ideal
 Performance State.**
 
@@ -391,9 +368,7 @@ Make it very simple. Zero in on exactly this connection, the connection
 with the physical and the connection with the mental and how it is all
 driving toward this emotional response capacity.
 
-![A tennis player is holding a racket Description automatically
-generated with low
-confidence](media_love-the-battle-rafael-nadal/media/image16.webp)
+![A tennis player is holding a racket Description automatically generated with low confidence](media_love-the-battle-rafael-nadal/media/image16.webp)
 
 **Become a great actor on your personal battlefield.**
 
@@ -427,9 +402,7 @@ visualize about things. I know I cannot control situations, only the way
 I think about them, how I act in those situations, and ultimately how I
 respond.
 
-![A person in a pink tank top Description automatically generated with
-low
-confidence](media_love-the-battle-rafael-nadal/media/image17.webp)
+![A person in a pink tank top Description automatically generated with low confidence](media_love-the-battle-rafael-nadal/media/image17.webp)
 
 **Controlling the fear response is at the heart of athletic
 competition.**
@@ -455,8 +428,7 @@ takes a very special commitment, a very skilled competitor, to summon
 those emotions, that chemistry, so that you can continue to charge
 forward and suddenly re-electrify those positive emotions.
 
-![A person holding a tennis racket Description automatically
-generated](media_love-the-battle-rafael-nadal/media/image18.webp)
+![A person holding a tennis racket Description automatically generated](media_love-the-battle-rafael-nadal/media/image18.webp)
 
 **It takes a special commitment to summon the positive emotions that
 dissipate fear.**
@@ -465,59 +437,53 @@ So here is an affirmation for you, one that summarizes everything we've
 been talking about, one that will help you become the performer you
 really want to be:
 
-\"I've come to understand that positive emotions are my most normal
+"I've come to understand that positive emotions are my most normal
 state. During competition, I need to create that chemistry through
 positive thinking, positive acting, that literally brings to life my
-potential.\"
+potential."
 
-\"Regardless of the circumstance that I find myself in, I will always
+"Regardless of the circumstance that I find myself in, I will always
 commit to giving my absolute best effort. I will be prepared to meet the
 unexpected. Things will not always be fair and I expect that. I will do
 everything I can to be physically, mentally, and emotionally ready with
 lots of reserves, able to take massive doses of stress as it's called
-for.\"
+for."
 
-\"Every time I compete, I will get closer to understand how to truly
+"Every time I compete, I will get closer to understand how to truly
 love the battle, and not just winning. Great competitors learn to love
 the process. Just for today, I will become challenged when problems come
 my way. Today I will be a great problem solver. Just for today, I will
 love the battle. I will create my own state of enjoyment. I will accept
-the hand that is dealt to me with no complaint.\"
+the hand that is dealt to me with no complaint."
 
-![A person holding a tennis racket Description automatically
-generated](media_love-the-battle-rafael-nadal/media/image19.webp)
+![A person holding a tennis racket Description automatically generated](media_love-the-battle-rafael-nadal/media/image19.webp)
 
 **Film yourself to understand and improve your rituals and body
 language.**
 
-\"Just for today, I will take charge of how I feel. I will not be at the
+"Just for today, I will take charge of how I feel. I will not be at the
 mercy of my emotions. Just for today, I will have a plan. The plan will
-keep me focused and organized. I will stop saying, \"If I only have the
-time.\" If I want the time, I will take it.\"
+keep me focused and organized. I will stop saying, "If I only have the
+time." If I want the time, I will take it."
 
-\"Just for today, I will find humor in my mistakes. When I can smile
+"Just for today, I will find humor in my mistakes. When I can smile
 inside, I am in control. Just for today, I will do the ordinary things
 extraordinarily well. Just for today, I choose to believe that I can
 make a difference and that I can be in control of my world. The choice
 is really mine. **Just for today, I will love the
-battle.\"**
+battle."**
 
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![A person smiling for the camera Description automatically generated with medium                                                                                                 Jim Loehr is a legendary pioneer in the field of
-  confidence](media_love-the-battle-rafael-nadal/media/image20.jpeg)                                                                                                                                                    himself who still competes nationally in USTA
-                                                                                                                                                                                    events, Jim created the field of Mental
-                                                                                                                                                                                    Toughness training with his revolutionary study
-                                                                                                                                                                                    of elite pro players. He has been one of the
-                                                                                                                                                                                    most influential voices in tennis and tennis
-                                                                                                                                                                                    coaching for over 30 years, and is the author of
-                                                                                                                                                                                    multiple best selling books. He has expanded his
-                                                                                                                                                                                    influence far beyond sports with the creation of
-                                                                                                                                                                                    the Human Performance Institute where he and his
-                                                                                                                                                                                    staff have worked with hundreds of leaders in
-                                                                                                                                                                                    business, law enforcement, and military special
-                                                                                                                                                                                    forces. For the last decade he has also directed
-                                                                                                                                                                                    an academy for junior players helping young
-                                                                                                                                                                                    people learn what winning in life really means.
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ------------------------------------------------
-
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person smiling for the camera Description automatically generated with medium                                                                                                 Jim Loehr is a legendary pioneer in the field of confidence](media_love-the-battle-rafael-nadal/media/image20.jpeg)                                                                                                                                                    himself who still competes nationally in USTA
+events, Jim created the field of Mental
+Toughness training with his revolutionary study
+of elite pro players. He has been one of the
+most influential voices in tennis and tennis
+coaching for over 30 years, and is the author of
+multiple best selling books. He has expanded his
+influence far beyond sports with the creation of
+the Human Performance Institute where he and his
+staff have worked with hundreds of leaders in
+business, law enforcement, and military special
+forces. For the last decade he has also directed
+an academy for junior players helping young
+people learn what winning in life really means.

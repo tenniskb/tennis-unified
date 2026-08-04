@@ -4,8 +4,7 @@
 
 ### **Pat Doughert**
 
-![A person playing tennis Description automatically generated with low
-confidence](media_advanced-reaction-steps/media/image1.webp)
+![A person playing tennis Description automatically generated with low confidence](media_advanced-reaction-steps/media/image1.webp)
 
 **Movement is the strength that unites the champions from all eras.**
 
@@ -17,10 +16,10 @@ pressures your opponent to execute higher quality shots, which will
 result in more errors.
 
 Recently, I was fortunate to spend time with one of the all-time greats,
-Ivan Lendl. **One question I asked him: \"What is the greatest
-strength shared by the best players of any era?\" Ivan didn't hesitate:
-\"Movement,\" he answered. \"The best players of every era have also
-been the players with the best movement.\"**
+Ivan Lendl. **One question I asked him: "What is the greatest
+strength shared by the best players of any era?" Ivan didn't hesitate:
+"Movement," he answered. "The best players of every era have also
+been the players with the best movement."**
 
 **Sprints**
 
@@ -33,8 +32,7 @@ to control the ball and sustain longer rallies. Players whose timing is
 out of sync appear to be on the defensive and scrambling to keep up with
 the rally pace.**
 
-![A person playing tennis Description automatically
-generated](media_advanced-reaction-steps/media/image2.webp)
+![A person playing tennis Description automatically generated](media_advanced-reaction-steps/media/image2.webp)
 
 **Technique and timing make Federer look effortless.**
 
@@ -54,9 +52,7 @@ yards. Like the sprinter, it is extremely important to react explosively
 to the opponent's strike of the ball and then to be equally quick to
 recover.**
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_advanced-reaction-steps/media/image3.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_advanced-reaction-steps/media/image3.webp)
 
 **A game of sprints in all directions.**
 
@@ -81,8 +77,7 @@ of inertia. When enough force is applied to overcome this state of
 inertia, the body is put in motion and establishes momentum in the
 direction of the movement**.
 
-![A person playing tennis Description automatically
-generated](media_advanced-reaction-steps/media/image4.webp)
+![A person playing tennis Description automatically generated](media_advanced-reaction-steps/media/image4.webp)
 
 **A lower center of gravity means better use of lower body muscles.**
 
@@ -117,8 +112,7 @@ depending on the width of the footwork base and the height of their
 center of gravity at the moment of reaction, as well as far he must
 travel to the ball.
 
-![A person playing tennis Description automatically
-generated](media_advanced-reaction-steps/media/image5.webp)
+![A person playing tennis Description automatically generated](media_advanced-reaction-steps/media/image5.webp)
 
 **At times pro players will use a basic step out.**
 
@@ -149,8 +143,7 @@ the wider the base becomes. This allows the player to use the more
 explosive reaction steps I've identified, the Foot Pivot and the Drop
 Step.**
 
-![A person running on a tennis court Description automatically
-generated](media_advanced-reaction-steps/media/image6.webp)
+![A person running on a tennis court Description automatically generated](media_advanced-reaction-steps/media/image6.webp)
 
 **Often players begin the first step reaction when they are still in the
 air.**
@@ -171,9 +164,7 @@ while the player is determining where the ball is going. By the time the
 feet hit the ground, the player often has already begun to adjust the
 feet for the movement pattern to the ball.**
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_advanced-reaction-steps/media/image7.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_advanced-reaction-steps/media/image7.webp)
 
 **The Foot Pivot is the most common reaction step in pro tennis.**
 
@@ -200,9 +191,7 @@ foot can drive hard and achieve maximum traction.]** You see
 Federer use this technique to load his weight on the pivot foot,
 especially on his returns.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_advanced-reaction-steps/media/image8.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_advanced-reaction-steps/media/image8.webp)
 
 **Federer uses the Foot Pivot on returns.**
 
@@ -220,9 +209,7 @@ Top players often play from footwork bases as broad as 3 shoulder
 widths. As we noted, you can see a correlation between the width of the
 base and how challenged they feel by the oncoming ball.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_advanced-reaction-steps/media/image9.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_advanced-reaction-steps/media/image9.webp)
 
 **The outside foot pushes, the inside foot drops under the body and then
 drives the player toward the ball.**
@@ -235,10 +222,10 @@ from a very wide base, especially on clay and grass. It is the preferred
 maneuver when reacting to more challenging balls that are greater
 distances away.
 
-**The Drop Step begins with the outside foot\--again the foot furthest
+**The Drop Step begins with the outside foot--again the foot furthest
 from the ball. The outside foot creates a controlled push, shifting the
 body weight towards the direction of movement. At the same time, the
-inside foot\--the foot closest to the ball\--slides under the torso.
+inside foot--the foot closest to the ball--slides under the torso.
 This establishes upper body momentum in the direction of
 movement.**
 
@@ -249,9 +236,7 @@ body in motion.** Mastery of the Drop Step is
 critical in pro tennis for reaching wide balls, changing directions and
 staying even and/or getting ahead on time in baseline rallies.
 
-![A picture containing tennis, athletic game, sport, court Description
-automatically
-generated](media_advanced-reaction-steps/media/image10.webp)
+![A picture containing tennis, athletic game, sport, court Description automatically generated](media_advanced-reaction-steps/media/image10.webp)
 
 **Hewitt pushes with the outside foot as the inside foot drops
 underneath for an explosive first step.**
@@ -269,9 +254,7 @@ this pattern generates greater speed. It results in quicker movement to
 the ball when small fractions of a second are the difference between
 creating and offensive opportunity or being forced to play defensively.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_advanced-reaction-steps/media/image11.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_advanced-reaction-steps/media/image11.webp)
 
 **The A.P. Belt creates the Athletic Foundation for explosive first
 steps.**
@@ -295,4 +278,3 @@ So that's it for the advanced reaction steps. In the future, we will
 look closely at the various footwork patterns moving to the ball, stride
 lengths, hitting stances and then do the same in our analysis of
 recovery techniques.
-

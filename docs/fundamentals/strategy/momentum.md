@@ -2,11 +2,7 @@
 
 ### Nick Wheatley
 
-------------------------------------------------------------------------
-
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_momentum/media/image1.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_momentum/media/image1.webp)
 
 **Understanding momentum can be a key benefit in developing Marginal
 Gains.**
@@ -43,13 +39,11 @@ about the same 48%. So, the momentum their opponents allegedly had from
 winning a relatively easy second set only translated into an overall win
 around half of the time.
 
-![A person holding a tennis racket Description automatically
-generated](media_momentum/media/image2.jpg) ![A person playing tennis Description
+![A person holding a tennis racket Description automatically generated](media_momentum/media/image2.jpg) ![A person playing tennis Description
 automatically generated with medium
 confidence](media_momentum/media/image3.jpg)
 
-![A person wearing a hat Description automatically generated with low
-confidence](media_momentum/media/image4.jpg) ![A person holding a tennis racket
+![A person wearing a hat Description automatically generated with low confidence](media_momentum/media/image4.jpg) ![A person holding a tennis racket
 Description automatically
 generated](media_momentum/media/image5.jpg)
 
@@ -84,9 +78,7 @@ games in a row, and at 5-5, the exertion of making the comeback can
 often then lead to a little slump in intensity due to the relative
 safety of the 5-5 score line compared to the danger of being 2-5 down.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_momentum/media/image6.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_momentum/media/image6.webp)
 
 **Losing momentum can be dangerous if you don't really understand it.**
 
@@ -121,25 +113,34 @@ So that's it for my series! Good luck applying the concept of marginal
 gains to your tennis game, and it would be great to hear of any success
 stories that have come from it.
 
-| ![A person holding a tennis racket Description automatically | Nick Wheatley is an LTA Performance Coach and |
-| --- | --- |
-| generated](media_momentum/media/image7.jpeg) | His junior teams, the Hawker Jets, have won 44 |
-|  | competitions since formation, and over the last 2 |
-|  | years alone, his junior players have won 19 |
-|  | singles tournaments between them at county level. |
-|  |  |
-|  | He has been ranked in the top 75 nationally in 35 |
-|  | and over singles and in the top 5 in Surrey |
-|  | county. Nick has done video analysis for numerous |
-|  | players at all levels, including former British |
-|  | Top 10 player Marcus Willis. |
-|  |  |
-|  | His unique teaching video series, covering every |
-|  | aspect of the game, is available on his website |
-|  | [www.nickwtennis.com](http://www.nickwtennis.com) |
-|  |  |
-|  | You can also contact Nick directly via the |
-|  | homepage of his website. |
+![A person holding a tennis racket Description automatically generated](media_momentum/media/image7.jpeg)
 
+Nick Wheatley is an LTA Performance Coach and
 
-------------------------------------------------------------------------
+His junior teams, the Hawker Jets, have won 44
+
+competitions since formation, and over the last 2
+
+years alone, his junior players have won 19
+
+singles tournaments between them at county level.
+
+He has been ranked in the top 75 nationally in 35
+
+and over singles and in the top 5 in Surrey
+
+county. Nick has done video analysis for numerous
+
+players at all levels, including former British
+
+Top 10 player Marcus Willis.
+
+His unique teaching video series, covering every
+
+aspect of the game, is available on his website
+
+[www.nickwtennis.com](http://www.nickwtennis.com)
+
+You can also contact Nick directly via the
+
+homepage of his website.

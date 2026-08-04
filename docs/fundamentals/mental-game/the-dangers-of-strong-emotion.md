@@ -2,11 +2,7 @@
 
 ### By Allen Fox, Ph.D.
 
-------------------------------------------------------------------------
-
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_the-dangers-of-strong-emotion/media/image1.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_the-dangers-of-strong-emotion/media/image1.webp)
 
 **Are strong emotions useful in winning tennis matches?**
 
@@ -37,8 +33,7 @@ effectively control their actions. They simply and instantaneously
 respond with their habits and reflexes to whatever situation that
 presents itself.
 
-![A person holding a tennis racket Description automatically
-generated](media_the-dangers-of-strong-emotion/media/image2.webp)
+![A person holding a tennis racket Description automatically generated](media_the-dangers-of-strong-emotion/media/image2.webp)
 
 **Emotion can disrupt your habits and reflexes leading to
 errors.**
@@ -51,7 +46,7 @@ what you consider to be a silly error. The natural response is to
 immediately react emotionally. You get a flash of disappointment and
 anger.**
 
-\"How the Hell could I miss such an easy shot?\" you think to yourself.
+"How the Hell could I miss such an easy shot?" you think to yourself.
 You have the urge to fling your racket into the back fence, but you
 resist. You wanted that point. You needed that point, and you gave it
 away. This is justification for at least a brief shot of anger in any
@@ -67,9 +62,7 @@ the next point, you're really not quite. Although it's hardly
 noticeable, most people will tend to make a few more errors under these
 circumstances.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_the-dangers-of-strong-emotion/media/image3.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_the-dangers-of-strong-emotion/media/image3.webp)
 
 **You may think you're back on balance after an outburst, but you're
 not.**
@@ -92,9 +85,7 @@ conclusion was clear to me - **it's best to keep your emotions on
 balance and cool so you don't disrupt your game and lose those few
 extra points that cost you matches.**
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_the-dangers-of-strong-emotion/media/image4.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_the-dangers-of-strong-emotion/media/image4.webp)
 
 **Too much emotion can be the difference in matches settled by a handful
 of total points.**
@@ -108,18 +99,16 @@ than the outcome) is so slight that you will never even realize what
 happened.
 
 You may think that missing an extra shot or two only hurts you if it
-happens on a big point. \"Sure,\" you think, \"If I throw away a point
+happens on a big point. "Sure," you think, "If I throw away a point
 on game point or set point it will obviously hurt me. But otherwise I
 can make up for it by winning the game, and it doesn't matter whether I
-won the game at love or at fifteen.\" That's a nice theory, but it
+won the game at love or at fifteen." That's a nice theory, but it
 doesn't hold in the real world of competitive match play. All points
 can make a difference. The problem is that you don't really know,
 during match play, which points will decisively impact the match until
 the match is over.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_the-dangers-of-strong-emotion/media/image5.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_the-dangers-of-strong-emotion/media/image5.webp)
 
 **Playing a tough return point at 30 love might end up being the
 difference.**
@@ -160,61 +149,92 @@ Read More From Allen!
 
 Visit him at [www.allenfoxtennis.net](http://www.allenfoxtennis.net)
 
- 
+![A picture containing text, newspaper Description automatically generated](media_the-dangers-of-strong-emotion/media/image6.jpeg)
 
-| ![A picture containing text, newspaper Description automatically | Winning the Mental Match Dr. Allen Fox |
-| --- | --- |
-| generated](media_the-dangers-of-strong-emotion/media/image6.jpeg) | Tennis is mentally the most difficult sport due to it's personal nature which makes winning and losing feel more |
-|  | important than they are. In this new book, Allen offers his proven solutions to problems such as choking, reducing |
-|  | stress, finishing matches, and developing confidence. Based on a life time of high level play and coaching success, |
-|  | it's a must for all competitive players. |
-|  |  |
-|  | [ to |
-|  | Order](http://www.amazon.com/Tennis-Winning-Mental-Allen-Fox/dp/0615407765/ref=sr_1_1?ie=UTF8&qid=1336083459&sr=8-1). |
+Winning the Mental Match Dr. Allen Fox
 
+Tennis is mentally the most difficult sport due to it's personal nature which makes winning and losing feel more
 
-| ![Text Description automatically | Winning may not be everything, but Dr. Allen Fox points out |
-| --- | --- |
-| generated](media_the-dangers-of-strong-emotion/media/image7.jpeg) | eminently preferable to losing. In his new book, The |
-|  | Winner's Mind, Allen lays out an original step-by-step |
-|  | plan for succeeding at any of life's endeavors, based on |
-|  | his first hand and very personal observations of the |
-|  | careers of both world-class tennis players and successful |
-|  | businessman. The bottom line is that even if you are not a |
-|  | born champion\--and only a tiny percentage of us are\--you |
-|  | can still use the success strategies of champions to tilt |
-|  | the odds in your favor. Writing with brutal honesty and dry |
-|  | humor, Fox lays out the common mental characteristics of |
-|  | winners in sports and in life. He explains the critical |
-|  | role of intellect over emotion. He analyzes the struggle |
-|  | between ambition and fear and the insidious and pervasive |
-|  | fear of failure that undermines so many of us. He then |
-|  | outline how to confront and overcome these fears in your |
-|  | life and career, even when they are initially subconscious. |
-|  | Must reading from one of the great thinkers in tennis, and |
-|  | a Renaissance Man in life. [ to |
-|  | Order](http://www.tennis-warehouse.com/descpage-MIND.html). |
-|  |  |
-|  | To purchase this book you can also send a check for \$17.95 |
-|  | to Allen Fox, 1120 Inverness Place, San Luis Obispo, CA. |
-|  | 93401. The price includes shipping. |
+important than they are. In this new book, Allen offers his proven solutions to problems such as choking, reducing
 
+stress, finishing matches, and developing confidence. Based on a life time of high level play and coaching success,
 
-| ![A person holding a tennis racket Description automatically | Allen Fox PhD is a former world class player, a coach, |
-| --- | --- |
-| generated](media_the-dangers-of-strong-emotion/media/image8.gif) | insightful analysts in modern tennis. A top 10 |
-|  | American player from the glory days before Open |
-|  | tennis, Fox played many of the legendary greats, among |
-|  | them Roy Emerson, Rod Laver, Stan Smith, and Arthur |
-|  | Ashe. At Pepperdine he developed the men's tennis |
-|  | program into an elite contender for national titles, |
-|  | and gave Brad Gilbert the insights that became the |
-|  | foundation for \"Winning Ugly\". His book Think to Win |
-|  | is a modern classic. He has also starred in a series |
-|  | of acclaimed videos, including Pro Secrets of Match |
-|  | Play and Allen Fox's Ultimate Tennis Lesson. |
-|  |  |
-|  |  |
+it's a must for all competitive players.
 
+[ to
 
-------------------------------------------------------------------------
+Order](http://www.amazon.com/Tennis-Winning-Mental-Allen-Fox/dp/0615407765/ref=sr_1_1?ie=UTF8&qid=1336083459&sr=8-1).
+
+![Text Description automatically generated](media_the-dangers-of-strong-emotion/media/image7.jpeg)
+
+Winning may not be everything, but Dr. Allen Fox points out
+
+eminently preferable to losing. In his new book, The
+
+Winner's Mind, Allen lays out an original step-by-step
+
+plan for succeeding at any of life's endeavors, based on
+
+his first hand and very personal observations of the
+
+careers of both world-class tennis players and successful
+
+businessman. The bottom line is that even if you are not a
+
+born champion--and only a tiny percentage of us are--you
+
+can still use the success strategies of champions to tilt
+
+the odds in your favor. Writing with brutal honesty and dry
+
+humor, Fox lays out the common mental characteristics of
+
+winners in sports and in life. He explains the critical
+
+role of intellect over emotion. He analyzes the struggle
+
+between ambition and fear and the insidious and pervasive
+
+fear of failure that undermines so many of us. He then
+
+outline how to confront and overcome these fears in your
+
+life and career, even when they are initially subconscious.
+
+Must reading from one of the great thinkers in tennis, and
+
+a Renaissance Man in life. [ to
+
+Order](http://www.tennis-warehouse.com/descpage-MIND.html).
+
+To purchase this book you can also send a check for $17.95
+
+to Allen Fox, 1120 Inverness Place, San Luis Obispo, CA.
+
+93401. The price includes shipping.
+
+![A person holding a tennis racket Description automatically generated](media_the-dangers-of-strong-emotion/media/image8.gif)
+
+Allen Fox PhD is a former world class player, a coach,
+
+insightful analysts in modern tennis. A top 10
+
+American player from the glory days before Open
+
+tennis, Fox played many of the legendary greats, among
+
+them Roy Emerson, Rod Laver, Stan Smith, and Arthur
+
+Ashe. At Pepperdine he developed the men's tennis
+
+program into an elite contender for national titles,
+
+and gave Brad Gilbert the insights that became the
+
+foundation for "Winning Ugly". His book Think to Win
+
+is a modern classic. He has also starred in a series
+
+of acclaimed videos, including Pro Secrets of Match
+
+Play and Allen Fox's Ultimate Tennis Lesson.

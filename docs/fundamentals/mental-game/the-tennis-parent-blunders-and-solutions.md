@@ -2,10 +2,7 @@
 
 ### Frank Giampaolo
 
-------------------------------------------------------------------------
-
-![A picture containing text, clipart Description automatically
-generated](media_the-tennis-parent-blunders-and-solutions/media/image1.jpg)
+![A picture containing text, clipart Description automatically generated](media_the-tennis-parent-blunders-and-solutions/media/image1.jpg)
 
 **Parents can make blunders that are real negatives in a player's
 development.**
@@ -17,7 +14,7 @@ negatives in their child's development. In this article, let's take a
 look at some of those and the solutions tennis parents should pursue
 instead.
 
-This article is adapted from my new book \"The Tennis Parents' Bible.\"
+This article is adapted from my new book "The Tennis Parents' Bible."
 But many of the insights here and in the book are applicable to players
 of all ages and abilities, and I suspect everyone will recognize
 themselves at least in part in some or even many of these scenarios.
@@ -30,13 +27,12 @@ in any field. The first blunder is either not knowing the rule, or
 deciding your kid is so special and talented that it doesn't apply.
 
 The 10,000 hour rule applies to all fields of expertise---music, sports,
-science\--and was first recognized as far back as 1899. What does this
+science--and was first recognized as far back as 1899. What does this
 mean for junior players? For approximately ten years, your child should
 be spending 20 hours per week in tennis related activities to become a
 world-class player.
 
-![Chart, surface chart Description automatically
-generated](media_the-tennis-parent-blunders-and-solutions/media/image2.jpg)
+![Chart, surface chart Description automatically generated](media_the-tennis-parent-blunders-and-solutions/media/image2.jpg)
 
 **This article is excerpted from the The Tennis Parents' Bible. ([link](http://thetennisparentsbible.com/?hop=tplayer) for more
 information.)**
@@ -67,8 +63,7 @@ event? You can't have your cake and eat it too.
 
 **Avoiding Nurturing Character**
 
-![A child hitting a ball with a tennis racket Description automatically
-generated](media_the-tennis-parent-blunders-and-solutions/media/image3.jpg)
+![A child hitting a ball with a tennis racket Description automatically generated](media_the-tennis-parent-blunders-and-solutions/media/image3.jpg)
 
 **Andre Agassi among many other elite pros was an emotional train wreck
 in the juniors.**
@@ -96,19 +91,17 @@ taught a wiser code of conduct or chose to apply what they already knew.
 
 **Encouraging Dependency**
 
-A serious blunder is \"selling\" dependence. I've seen numerous parents
+A serious blunder is "selling" dependence. I've seen numerous parents
 and teaching pros fall into this category. Often parents and coaches
 live vicariously through their super stars.
 
 Their fear of being abandoned by the champ motivates them to create
 dependency. The players live in fear because a parent or coach has
-insinuated \"I'm the only one who can save you\" or \"I don't ever
+insinuated "I'm the only one who can save you" or "I don't ever
 want to catch you hitting with another pro because they'll mess up your
-game!\"
+game!"
 
-![A picture containing person, person, sitting, indoor Description
-automatically
-generated](media_the-tennis-parent-blunders-and-solutions/media/image4.jpg)
+![A picture containing person, person, sitting, indoor Description automatically generated](media_the-tennis-parent-blunders-and-solutions/media/image4.jpg)
 
 **As a parent do you encourage dependence---or independence?**
 
@@ -119,30 +112,28 @@ solving their own problems, not to solve their problems for them!
 Here's what I did as a tennis parent from the time my step daughter was
 12 years old and attending her first national event.
 
-\"Ok Sarah, this is your event. I'm here to assist you every step of
+"Ok Sarah, this is your event. I'm here to assist you every step of
 the way. Let's play the co-pilot game. Sarah, I can't drive and read
-the map. Can you please find the way to the airport? Great!\"
+the map. Can you please find the way to the airport? Great!"
 
-\"Now find the parking structure. What's our airline? Read the signs
-and lead the way. Terrific!\"
+"Now find the parking structure. What's our airline? Read the signs
+and lead the way. Terrific!"
 
-As we de-planed, I would ask Sarah, \"Can you follow the signs to
-baggage claim?\" That was easy. Now, were searching for Alamo rental
+As we de-planed, I would ask Sarah, "Can you follow the signs to
+baggage claim?" That was easy. Now, were searching for Alamo rental
 cars, I wonder what kind of car is in slot #26? What's your guess? Oh
 no, a P.T. Cruiser. Not again!!!
 
-\"Sarah, can you read the map and direct us to the hotel?\"
+"Sarah, can you read the map and direct us to the hotel?"
 
-![A person hitting a ball with her tennis racket Description
-automatically
-generated](media_the-tennis-parent-blunders-and-solutions/media/image5.jpg)
+![A person hitting a ball with her tennis racket Description automatically generated](media_the-tennis-parent-blunders-and-solutions/media/image5.jpg)
 
 **With my step daughter, Sarahm now a varsity player at USC, I tried to
 create independence from day 1.**
 
-\"Lastly, were going to hit for a half hour tonight on the tournament
+"Lastly, were going to hit for a half hour tonight on the tournament
 courts so you can sleep easy knowing the surroundings. Can you co-pilot
-us to the tournament site?\"
+us to the tournament site?"
 
 Was all that easy, nope. It was like pulling teeth! It would have been a
 hundred times faster and easier if I had made her dependent on me. Did
@@ -156,14 +147,14 @@ country, as well as to England, Germany and Australia to compete.
 
 Dumping unnecessary loads of pressure on a player before or after a
 match is one of the most common mistakes. I have often heard parents say
-\"If you lose one more time to someone ranked lower than you, we're
-pulling the plug! Do you know how much we spend on your tennis?\"
+"If you lose one more time to someone ranked lower than you, we're
+pulling the plug! Do you know how much we spend on your tennis?"
 
 How do you expect players to hit their performance goals, if you are
 stressing them out about finances?
 
 FYI : An average family with a young tournament player participating in
-local/ sectional events spends an average of \$300.00-\$500.00 per week
+local/ sectional events spends an average of $300.00-$500.00 per week
 on tennis related activities!
 
 **Thinking Perfect Strokes are Mandatory**
@@ -172,14 +163,13 @@ Legendary star Andre Agassi states in his book that he was still
 learning how to volley when he retired. Pete Sampras wasn't thrilled
 with his topspin backhand.
 
-![A person playing tennis Description automatically
-generated](media_the-tennis-parent-blunders-and-solutions/media/image6.webp)
+![A person playing tennis Description automatically generated](media_the-tennis-parent-blunders-and-solutions/media/image6.webp)
 
 **At the end of his career, Agassi said he was still learning to
 volley.**
 
-John McEnroe is quoted as saying \"Nobody has perfect strokes; it's
-what you do with what you've got that counts!\" These champions simply
+John McEnroe is quoted as saying "Nobody has perfect strokes; it's
+what you do with what you've got that counts!" These champions simply
 competed with their secret weaknesses. Learn how to expose your
 strengths and hide your weaknesses!
 
@@ -194,9 +184,9 @@ different strokes will still occasionally break down at different stages
 of an event. Dealing with imperfection with back up plans are an
 important tool in your child's tool belt.
 
-**Managing Without a \"Hollywood\" Script**
+**Managing Without a "Hollywood" Script**
 
-Hollywood parents with \"wanna be\" child stars have the reputation for
+Hollywood parents with "wanna be" child stars have the reputation for
 being a little nuts right? Hollywood parents drag their kids from
 audition to audition in search of ways to live vicariously through their
 kids.
@@ -205,9 +195,7 @@ Well, I don't recommend that. What I do recommend is asking your child
 to use the system that Hollywood stars use when working on a sit com.
 Here's their four-part system.
 
-![A picture containing text, sign, outdoor, street Description
-automatically
-generated](media_the-tennis-parent-blunders-and-solutions/media/image7.jpg)
+![A picture containing text, sign, outdoor, street Description automatically generated](media_the-tennis-parent-blunders-and-solutions/media/image7.jpg)
 
 **Try the Hollywood system.**
 
@@ -240,9 +228,7 @@ players get fatigued, their movement gets sloppy, their stroke spacing
 is off, and unforced errors begin to fly off their racket. Poor decision
 making and negative emotions set in.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_the-tennis-parent-blunders-and-solutions/media/image8.jpg)
+![A person playing tennis Description automatically generated with medium confidence](media_the-tennis-parent-blunders-and-solutions/media/image8.jpg)
 
 **There is a direct relation between physical training and the mental
 game.**
@@ -274,9 +260,7 @@ Parents, do you realize that most full grown adults don't focus on
 their job 100 percent of the time! They may be at work, but what are
 they actually doing?
 
-![Two people holding tennis rackets Description automatically generated
-with medium
-confidence](media_the-tennis-parent-blunders-and-solutions/media/image9.jpg)
+![Two people holding tennis rackets Description automatically generated with medium confidence](media_the-tennis-parent-blunders-and-solutions/media/image9.jpg)
 
 **Do you acknowledge the efforts of your junior player on a regular
 basis?**
@@ -308,8 +292,7 @@ Now the fun begins! Week four, the new motor program starts to override
 the old one at only 40 percent old to 60 percent new! By week five,
 it's at 30 percent old to 70 percent new.
 
-![A person playing tennis Description automatically
-generated](media_the-tennis-parent-blunders-and-solutions/media/image10.webp)
+![A person playing tennis Description automatically generated](media_the-tennis-parent-blunders-and-solutions/media/image10.webp)
 
 **Would Pete Sampras change his backhand in the middle of a competitive
 cycle?**
@@ -341,21 +324,19 @@ and levels of players.**
 
 **Talking at Visual Learners**
 
-Mr. Kolouski says to me, \"I've explained numerous times to my son,
+Mr. Kolouski says to me, "I've explained numerous times to my son,
 about decreasing the racket face angle 30 degrees. I told him to rotate
 his right palm a quarter of a turn. I've expounded on the 60 degree
 lift through the shoulder hinge. I decipher things for hours. I explain
 everything in detail, yet my son's still confused. I feel like I am
-conversing with a granite wall!\"
+conversing with a granite wall!"
 
 Different people have different learning styles or preferences. Getting
 into your child's world and understanding how he's wired is the key.
 Remember that a parental and coaching blunder is forcing him to enter
 your world!
 
-![A picture containing tennis, ball, racket, athletic game Description
-automatically
-generated](media_the-tennis-parent-blunders-and-solutions/media/image11.webp)
+![A picture containing tennis, ball, racket, athletic game Description automatically generated](media_the-tennis-parent-blunders-and-solutions/media/image11.webp)
 
 **Visual learners need images not words to convey technical concepts.**
 
@@ -379,15 +360,14 @@ your child).
 
 **Ignoring your Non-Verbal Communication**
 
-In Malcolm Gladwell's book \"Blink,\" he shares an interesting insight
+In Malcolm Gladwell's book "Blink," he shares an interesting insight
 regarding surgeons who make a medical mistake. The bottom line is
 surgeons with top credentials, but poor bed side manners are more likely
 to get sued, then are surgeons with the same credentials, making the
 same mistake, but with terrific bed side manners (Of, course there are
 exceptions).
 
-![A person with a beard Description automatically generated with medium
-confidence](media_the-tennis-parent-blunders-and-solutions/media/image12.jpg)
+![A person with a beard Description automatically generated with medium confidence](media_the-tennis-parent-blunders-and-solutions/media/image12.jpg)
 
 **Even a subtle look conveys a powerful message.**
 
@@ -397,7 +377,7 @@ sets your child into a defensive position. Studies show that up to 70
 percent of communication is nonverbal.
 
 We initially believe that we are helping our children by spotting every
-single problem and bringing it to light. This \"tough love\" isn't in
+single problem and bringing it to light. This "tough love" isn't in
 their best interest. Instead, parents, if you want dynamic results,
 along with a happier child try adding positive power words to your
 tennis talks.
@@ -424,8 +404,7 @@ That new parent may know of a great trainer, coach or academy in the
 area or information regarding a new tournament. Trust me. The more you
 give and help others, the more you get back in return.
 
-![A picture containing person Description automatically
-generated](media_the-tennis-parent-blunders-and-solutions/media/image13.jpg)
+![A picture containing person Description automatically generated](media_the-tennis-parent-blunders-and-solutions/media/image13.jpg)
 
 **Tennis parents who never competed can send ugly messages.**
 
@@ -470,10 +449,9 @@ Vania King is a former junior doubles partner of my step daughter. We
 had tons of fun working on the art of doubles. Vania is a motivated,
 persistent and hard working tennis player.
 
-![A person playing tennis Description automatically
-generated](media_the-tennis-parent-blunders-and-solutions/media/image14.webp)
+![A person playing tennis Description automatically generated](media_the-tennis-parent-blunders-and-solutions/media/image14.webp)
 
-**Vania King showed that \"playing down\" can be the path to that leads
+**Vania King showed that "playing down" can be the path to that leads
 all the way up.**
 
 Although Vania failed to win tons of national junior titles growing up;
@@ -499,4 +477,3 @@ every match, but claim the higher rating?
 Or do you want to become the best player you can actually be, but
 competing and winning at the lower levels, and earning you way into the
 higher divisions? Those are questions worth asking.
-

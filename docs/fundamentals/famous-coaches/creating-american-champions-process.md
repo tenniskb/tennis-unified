@@ -6,8 +6,7 @@
 
 ### Robert Lansdorp
 
-![A person hitting a ball with a tennis racket Description automatically
-generated](media_creating-american-champions-process/media/image1.jpg)
+![A person hitting a ball with a tennis racket Description automatically generated](media_creating-american-champions-process/media/image1.jpg)
 
 Building champions is long, complex process. You can't develop a kid in
 one month. It's impossible. That's why it's called development. Here
@@ -17,7 +16,7 @@ are some of the factors that go into it:
 
 First there's the role of traditional lessons. Some people have the
 feeling that the more lessons the better. Some parents like to brag:
-\"My kid takes lessons everyday.\" That's a crazy idea. If the pro
+"My kid takes lessons everyday." That's a crazy idea. If the pro
 feeds balls to the kid everyday and does nothing but try to correct his
 strokes, it makes the student stale. The student never learns to do it
 for himself, since it's all being done for him on the teaching court.
@@ -31,13 +30,8 @@ They had no more than an hour, sometimes 2 hours a week. The only
 exception is if someone comes in from out of town, you might see them
 every day for 10 days and then you don't see them for a month.
 
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![A person playing tennis Description automatically generated with medium
-  confidence](media_creating-american-champions-process/media/image2.jpg)\
-  **Every player I worked with had no more than an hour, sometimes two a week.**
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person playing tennis Description automatically generated with medium confidence](media_creating-american-champions-process/media/image2.jpg)\
+**Every player I worked with had no more than an hour, sometimes two a week.**
 
 There's a difference between this kind of developmental lesson and
 rallying or working on something. You can work on something with the pro
@@ -91,13 +85,8 @@ exactly what's going on. I'm pretty sure I know exactly what the
 kid's about too. You see a kid two months later; you see a little
 improvement. A year later, you see more improvement.
 
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![A person playing tennis Description automatically generated with medium
-  confidence](media_creating-american-champions-process/media/image3.webp)\
-  **Too many coaches and parents are seduced by the idea of having a champion. Very few grow up to be a Sampras or a Davenport**
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person playing tennis Description automatically generated with medium confidence](media_creating-american-champions-process/media/image3.webp)\
+**Too many coaches and parents are seduced by the idea of having a champion. Very few grow up to be a Sampras or a Davenport**
 
 I used to do a big camp. I felt guilty because there were 100 kids and I
 knew I would send them home and I wouldn't be a huge impact on them. I
@@ -122,10 +111,10 @@ across to the parent that when your kid's 12 years old, don't be too
 sure your kids going to be number one in the
 world**. Too many coaches and parents are seduced
 by the idea of having a champion. **As soon as kid is pretty good,
-they think: \"this is going to be my meal ticket.\" They use this
-kid.** A coach says, \"I have this kid at my
-academy and he's number one in the 14's.\" And the parents say \"My
-god, he's got the number one player - let's all go there!\" It happens
+they think: "this is going to be my meal ticket." They use this
+kid.** A coach says, "I have this kid at my
+academy and he's number one in the 14's." And the parents say "My
+god, he's got the number one player - let's all go there!" It happens
 all the time. And **they don't make the kid any better. The kid
 doesn't really improve. He just gets used**.
 
@@ -134,25 +123,15 @@ be great. Sometimes I have kids that have almost given up on the game.
 Then they come with me and I actually turn some of them around. All of a
 sudden, they become enthusiastic and they have confidence. They have the
 confidence that I am willing to spend time with them. How is that
-possible? \"I thought he only worked with champions.\" And I take
+possible? "I thought he only worked with champions." And I take
 anybody basically. It doesn't make any difference. When a parent
-approaches me, my first reaction is usually \"Ok I'll help your kid.\"
+approaches me, my first reaction is usually "Ok I'll help your kid."
 
-![A person hitting a ball with a tennis racket Description automatically
-generated](media_creating-american-champions-process/media/image4.jpg)\
+![A person hitting a ball with a tennis racket Description automatically generated](media_creating-american-champions-process/media/image4.jpg)\
 **Adults enjoy me, because I treat them like juniors. I can make them
 better.**
 
-  ------------------
-
-  ------------------
-
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![A person hitting a ball with a tennis racket Description automatically
-  generated](media_creating-american-champions-process/media/image5.gif)
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person hitting a ball with a tennis racket Description automatically generated](media_creating-american-champions-process/media/image5.gif)
 
 Robert Lansdorp is the legendary Southern California coach who has
 developed dozens of world class junior and professional players.

@@ -2,11 +2,7 @@
 
 ### Nick Wheatley
 
-------------------------------------------------------------------------
-
-![A picture containing outdoor, tree, sport, athletic game Description
-automatically
-generated](media_are-you-a-right-side-or-left-side-player/media/image1.webp)
+![A picture containing outdoor, tree, sport, athletic game Description automatically generated](media_are-you-a-right-side-or-left-side-player/media/image1.webp)
 
 **Are you a right side player or a left side?**
 
@@ -34,9 +30,7 @@ line, the ball naturally wants to bounce off your racket and head wide
 of the sideline, so it takes confidence, and an early, strong hit to
 counteract this.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_are-you-a-right-side-or-left-side-player/media/image2.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_are-you-a-right-side-or-left-side-player/media/image2.webp)
 
 **Easier recovery is the most important reason to hit crosscourt.**
 
@@ -64,9 +58,7 @@ shot should be the one that is most appealing to you personally.
 If your set up shot happens to also be one of your other 2 fav shots,
 that is totally fine. If it doesn't, that is totally fine too.
 
-![A picture containing athletic game, sport, tennis, match Description
-automatically
-generated](media_are-you-a-right-side-or-left-side-player/media/image3.webp)
+![A picture containing athletic game, sport, tennis, match Description automatically generated](media_are-you-a-right-side-or-left-side-player/media/image3.webp)
 
 **When one player hits down the line, the rally likely switches to the
 other crosscourt pattern.**
@@ -118,10 +110,6 @@ Forehand Crosscourt
 
 Forehand Down the Line
 
- 
-
- 
-
 If I'm in the right-side pattern, my option to change the pattern is
 best achieved by hitting a forehand down the line when an opportunity
 presents itself, and I should expect my opponent to play the next shot
@@ -144,9 +132,7 @@ hit a forehand down the line and switch the pattern back, or I may
 prefer to play the right-side pattern for a shot or two hitting my
 forehand crosscourt, which should be no problem if I'm in control.
 
-![A basketball court in front of a building Description automatically
-generated with low
-confidence](media_are-you-a-right-side-or-left-side-player/media/image4.webp)
+![A basketball court in front of a building Description automatically generated with low confidence](media_are-you-a-right-side-or-left-side-player/media/image4.webp)
 
 **My secondary shot: forehand drop shot.**
 
@@ -169,28 +155,37 @@ forehand drop shot.
 So far, you know your top shot, your setup shot, your other fav shots,
 your secondary shot, and your preferred side, based on the nuances in
 deciding to hit crosscourt or down the line. All this info is what
-prepares to work out an additional valuable piece of info\--your game
+prepares to work out an additional valuable piece of info--your game
 style. Stay tuned for that next.
 
-| ![A person holding a tennis racket Description automatically | Nick Wheatley is an LTA Performance Coach and |
-| --- | --- |
-| generated](media_are-you-a-right-side-or-left-side-player/media/image5.jpeg) | His junior teams, the Hawker Jets, have won 44 |
-|  | competitions since formation, and over the last 2 |
-|  | years alone, his junior players have won 19 |
-|  | singles tournaments between them at county level. |
-|  |  |
-|  | He has been ranked in the top 75 nationally in 35 |
-|  | and over singles and in the top 5 in Surrey |
-|  | county. Nick has done video analysis for numerous |
-|  | players at all levels, including former British |
-|  | Top 10 player Marcus Willis. |
-|  |  |
-|  | His unique teaching video series, covering every |
-|  | aspect of the game, is available on his website |
-|  | [www.nickwtennis.com](http://www.nickwtennis.com) |
-|  |  |
-|  | You can also contact Nick directly via the |
-|  | homepage of his website. |
+![A person holding a tennis racket Description automatically generated](media_are-you-a-right-side-or-left-side-player/media/image5.jpeg)
 
+Nick Wheatley is an LTA Performance Coach and
 
-------------------------------------------------------------------------
+His junior teams, the Hawker Jets, have won 44
+
+competitions since formation, and over the last 2
+
+years alone, his junior players have won 19
+
+singles tournaments between them at county level.
+
+He has been ranked in the top 75 nationally in 35
+
+and over singles and in the top 5 in Surrey
+
+county. Nick has done video analysis for numerous
+
+players at all levels, including former British
+
+Top 10 player Marcus Willis.
+
+His unique teaching video series, covering every
+
+aspect of the game, is available on his website
+
+[www.nickwtennis.com](http://www.nickwtennis.com)
+
+You can also contact Nick directly via the
+
+homepage of his website.

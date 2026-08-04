@@ -2,10 +2,7 @@
 
 ### Jeff Greenwald
 
-------------------------------------------------------------------------
-
-![A person playing tennis Description automatically
-generated](media_bridging-the-technical-and-mental-divide-implementing-technical-change-under-pressure/media/image1.webp)
+![A person playing tennis Description automatically generated](media_bridging-the-technical-and-mental-divide-implementing-technical-change-under-pressure/media/image1.webp)
 
 **How do we bridge the divide and apply technical change in
 competition?**
@@ -33,13 +30,8 @@ According to conventional wisdom that decision could have been lethal.
 But the actual outcome turned out to be very positive. I was able to win
 the event, and the improvements in my serve played a critical part.
 
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                                             ![A group of men holding a trophy Description automatically generated with medium
-   confidence](media_bridging-the-technical-and-mental-divide-implementing-technical-change-under-pressure/media/image2.jpg)
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                                               **Changes I integrated into my serve helped produce a gold ball in LaJolla.**
-
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A group of men holding a trophy Description automatically generated with medium confidence](media_bridging-the-technical-and-mental-divide-implementing-technical-change-under-pressure/media/image2.jpg)
+**Changes I integrated into my serve helped produce a gold ball in LaJolla.**
 
 This article tells the story of how that happened. It is in part the
 story of what I changed, but more importantly, the story of how I
@@ -61,9 +53,7 @@ Initially, I tried upping my serving practice, hitting multiple baskets
 of balls. My rhythm and my percentages improved, but then in a warm-up
 tournament, my first serve disappeared again.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_bridging-the-technical-and-mental-divide-implementing-technical-change-under-pressure/media/image3.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_bridging-the-technical-and-mental-divide-implementing-technical-change-under-pressure/media/image3.webp)
 
 **In the week before LaJolla my first serve percentage was below 50%.**
 
@@ -86,9 +76,7 @@ to the event. I told him that even though I was three days out from the
 tournament I had nothing to lose. I could always throw out the new plan
 if it didn't work.
 
-![A tennis player is swinging his racket Description automatically
-generated with low
-confidence](media_bridging-the-technical-and-mental-divide-implementing-technical-change-under-pressure/media/image4.webp)
+![A tennis player is swinging his racket Description automatically generated with low confidence](media_bridging-the-technical-and-mental-divide-implementing-technical-change-under-pressure/media/image4.webp)
 
 **Two tendencies: too much bend at the waist and reduced kick back.**
 
@@ -115,9 +103,7 @@ they were pointing more toward the sideline. We also narrowed the stance
 slightly and opened the angle of the back foot, turning it slightly away
 from the baseline.
 
-![A tennis player is swinging his racket Description automatically
-generated with low
-confidence](media_bridging-the-technical-and-mental-divide-implementing-technical-change-under-pressure/media/image4.webp)
+![A tennis player is swinging his racket Description automatically generated with low confidence](media_bridging-the-technical-and-mental-divide-implementing-technical-change-under-pressure/media/image4.webp)
 
 **A change in the angle of the feet and a slightly deepened knee bend.**
 
@@ -128,7 +114,7 @@ slightly. Our thought was that possibly I had come to rely too much on
 my hand and arm going for big serves and that this had contributed to my
 inconsistency.
 
-To implement all this, we did a drill called the \"hoppity hop\" which
+To implement all this, we did a drill called the "hoppity hop" which
 forced me to kick my leg further back behind me, and land more upright
 and with better balance.
 
@@ -137,11 +123,9 @@ incorporated these incremental changes almost immediately - and that
 there was a noticeable change in the way the ball looked and felt coming
 off my racket.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_bridging-the-technical-and-mental-divide-implementing-technical-change-under-pressure/media/image5.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_bridging-the-technical-and-mental-divide-implementing-technical-change-under-pressure/media/image5.webp)
 
-**The \"hoppity hop\": a great drill to improve balance on landing.**
+**The "hoppity hop": a great drill to improve balance on landing.**
 
 Although the changes might appear to be substantial, the important point
 for me was that I did not feel that they were unmanageable if I used my
@@ -150,7 +134,7 @@ all players to address - knowing how to implement change, but also, not
 taking on more than you truly feel capable of integrating.
 
 Interestingly, my pinpoint stance - something we had not
-discussed\--seemed to naturally morph into a classic platform along the
+discussed--seemed to naturally morph into a classic platform along the
 lines of Roger Federer and Pete Sampras. That was fascinating since it
 was something neither of us had identified as a problem or sought to
 change.
@@ -164,8 +148,7 @@ and playing practice points, it was clear that the changes we made could
 produce the exact result I was looking for if I could incorporate them
 and use them at the Nationals.
 
-![A person playing tennis Description automatically
-generated](media_bridging-the-technical-and-mental-divide-implementing-technical-change-under-pressure/media/image6.webp)
+![A person playing tennis Description automatically generated](media_bridging-the-technical-and-mental-divide-implementing-technical-change-under-pressure/media/image6.webp)
 
 **Changes I knew would make a difference at the Nationals.**
 
@@ -177,7 +160,7 @@ mentally to incorporate positive technical change?
 I think a lot of players are confused about this, or whether they should
 think about technique at all during matches. And there are good reasons
 for that. The verbal analysis associated with the rational, left half of
-the brain is incompatible with the elusive \"zone\" or \"flow\" state we
+the brain is incompatible with the elusive "zone" or "flow" state we
 all seek to find in competition.
 
 But if you can't think about it at all, how can you implement technical
@@ -190,9 +173,7 @@ convey technical information to the flow side of the brain, bypassing
 the need for verbal analysis. Let me explain how this worked for me in
 the heat of tournament play.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_bridging-the-technical-and-mental-divide-implementing-technical-change-under-pressure/media/image7.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_bridging-the-technical-and-mental-divide-implementing-technical-change-under-pressure/media/image7.webp)
 
 **The deliberate lineup and the transition from left to right brain.**
 
@@ -219,13 +200,11 @@ brain. After getting set, I had a brief visual of my body remaining
 upright at contact, imagining how this actually feels. The process takes
 no more than 1-2 seconds.
 
-![A person jumping in the air Description automatically generated with
-medium
-confidence](media_bridging-the-technical-and-mental-divide-implementing-technical-change-under-pressure/media/image8.webp)
+![A person jumping in the air Description automatically generated with medium confidence](media_bridging-the-technical-and-mental-divide-implementing-technical-change-under-pressure/media/image8.webp)
 
 **After getting set a visual image of staying upright.**
 
-Essentially what I am doing is \"calling up\" the feeling and image of a
+Essentially what I am doing is "calling up" the feeling and image of a
 very specific technical cue. The process is simple, fast, non-verbal.
 Over time it becomes automatic.
 
@@ -247,9 +226,7 @@ should be kept to a minimum. But when you employ your right brain to
 process this quickly with a focus on the image it is possible to make
 adjustments with very little effort.
 
-![A picture containing road, person, outdoor, sport Description
-automatically
-generated](media_bridging-the-technical-and-mental-divide-implementing-technical-change-under-pressure/media/image9.webp)
+![A picture containing road, person, outdoor, sport Description automatically generated](media_bridging-the-technical-and-mental-divide-implementing-technical-change-under-pressure/media/image9.webp)
 
 **My natural pinpoint stance reemerged: was that a problem?**
 
@@ -278,9 +255,7 @@ contact. This is something John and I found had an immediate effect in
 our initial work. It is as if you re shining a flashlight on that
 particular part of your body without any other thought or distraction.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_bridging-the-technical-and-mental-divide-implementing-technical-change-under-pressure/media/image10.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_bridging-the-technical-and-mental-divide-implementing-technical-change-under-pressure/media/image10.webp)
 
 **Another image I used successfully: the rear leg kick back.**
 
@@ -305,14 +280,12 @@ win or loss.
 Next, keep your focus on that particular goal and repeat the process
 over and over until it becomes ingrained. The truth is that it's
 comforting to have a powerful, relevant, simple technical cue on shots
-that need some \"clean up\" from time to time. I have used the same
+that need some "clean up" from time to time. I have used the same
 process on my return game, for example. As you work the process over
 time, you feel as though you have something solid to rely on, and this
 creates confidence.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_bridging-the-technical-and-mental-divide-implementing-technical-change-under-pressure/media/image11.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_bridging-the-technical-and-mental-divide-implementing-technical-change-under-pressure/media/image11.webp)
 
 **The same process will work in your return game or for any technical
 issue.**
@@ -334,18 +307,16 @@ returns. This in turn decreased the pressure I felt to break, and
 therefore actually created more confidence in my return game and gave me
 the courage to go for aggressive returns myself.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_bridging-the-technical-and-mental-divide-implementing-technical-change-under-pressure/media/image12.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_bridging-the-technical-and-mental-divide-implementing-technical-change-under-pressure/media/image12.webp)
 
 **The changes cascaded into all areas.**
 
 One of my opponents, Morgan Shepherd, now a teaching pro in the Bay and
-the National Grasscourt Champion in 2009, put it this way: \"It was a
+the National Grasscourt Champion in 2009, put it this way: "It was a
 rude awakening to be on the defensive on your serve throughout the match
 since I wasn't seeing that many second serves. It was like trying to
 climb a mountain because I never felt like I had any chance to break. It
-created a lot of pressure.\"
+created a lot of pressure."
 
 **Tennis Versus The Brain**
 
@@ -366,13 +337,8 @@ a primal response in many of us, which means that we need tools to
 manage these high-arousal moments. ([link](https://www.tennisplayer.net/members/mentalgame/jeff_greenwald/mindfulness_can_you_actually_change_your_brain/mindfulness_can_you_actually_change_your_brain.html)
 for more on tennis and the brain.)
 
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                                                 ![A close-up of a human brain Description automatically generated with low
-   confidence](media_bridging-the-technical-and-mental-divide-implementing-technical-change-under-pressure/media/image13.gif)
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                                               **The two sides of the brain process the same information in different forms.**
-
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A close-up of a human brain Description automatically generated with low confidence](media_bridging-the-technical-and-mental-divide-implementing-technical-change-under-pressure/media/image13.gif)
+**The two sides of the brain process the same information in different forms.**
 
 Let's look a little closer at how a technical adjustment on the serve
 can help you focus. The fact is the mind will wander when it is not
@@ -382,7 +348,7 @@ specific plan and a routine, the mind can travel to dark places; all for
 one reason - the mind's obsession and deep attachment to outcome.
 
 This is why engaging the mind in any productive way is often better than
-leaving it to its own devices. A technical \"cue\" or image of your
+leaving it to its own devices. A technical "cue" or image of your
 swing like this can help narrow your focus and direct your mind, which
 will reduce the brain's tendency to run away on you.
 
@@ -400,8 +366,7 @@ about whether to call John for a few days - I was playing well, felt
 pretty fit, and wondered whether I might just end up causing problems
 for myself.
 
-![A person playing tennis Description automatically
-generated](media_bridging-the-technical-and-mental-divide-implementing-technical-change-under-pressure/media/image14.webp)
+![A person playing tennis Description automatically generated](media_bridging-the-technical-and-mental-divide-implementing-technical-change-under-pressure/media/image14.webp)
 
 **A change that paid off, but the right decision, regardless of
 outcome.**
@@ -429,8 +394,7 @@ what I learned is that positive changes in one part of your game can
 have ripple affects on other parts, technically, mentally, even
 strategically.
 
-![A person holding a tennis racket Description automatically
-generated](media_bridging-the-technical-and-mental-divide-implementing-technical-change-under-pressure/media/image15.webp)
+![A person holding a tennis racket Description automatically generated](media_bridging-the-technical-and-mental-divide-implementing-technical-change-under-pressure/media/image15.webp)
 
 **Consider the long term impact of using this integrated approach to
 improve your strokes.**
@@ -454,9 +418,7 @@ to let go of the possibility that it might not work out. I stuck to the
 process and it paid off. If it hadn't, I still feel it was the right
 decision. What part of your game will you take to the next level?
 
-![A tennis player hitting a ball Description automatically generated
-with low
-confidence](media_bridging-the-technical-and-mental-divide-implementing-technical-change-under-pressure/media/image16.jpeg)
+![A tennis player hitting a ball Description automatically generated with low confidence](media_bridging-the-technical-and-mental-divide-implementing-technical-change-under-pressure/media/image16.jpeg)
 
 The Best Tennis of Your Life
 
@@ -464,15 +426,13 @@ Learn how to play with freedom and win more matches! In his new book
 Jeff Greenwald, an elite international seniors player, coach, and
 psychotherapist, outlines 50 specific mental strategies to play the best
 tennis of your life. See how to embrace pressure, maintain confidence,
-and increase your focus and intensity. Jim Loehr calls Jeff's book: \"a
-real contribution to the field of applied sports psychology.\"\
+and increase your focus and intensity. Jim Loehr calls Jeff's book: "a
+real contribution to the field of applied sports psychology."\
 \
 [ to
 Order!](http://www.amazon.com/Best-Tennis-Your-Life-Performance/dp/1558708448/ref=pd_bbs_sr_1?ie=UTF8&s=books&qid=1200341206&sr=8-1)
 
-![A person smiling for the camera Description automatically generated
-with low
-confidence](media_bridging-the-technical-and-mental-divide-implementing-technical-change-under-pressure/media/image17.jpeg)
+![A person smiling for the camera Description automatically generated with low confidence](media_bridging-the-technical-and-mental-divide-implementing-technical-change-under-pressure/media/image17.jpeg)
 
 Jeff Greenwald, M.A., MFT is a nationally recognized sport psychology
 consultant. Jeff has worked as a consultant for the United States Tennis
@@ -481,8 +441,8 @@ game. As a player in the men's 35 and over age division he attained an
 ITF #1 world ranking, as well as the #1 ranking in men's singles and
 doubles in the United States.
 
-Greenwald is the author of [\"The Best Tennis of Your
-Life\"](http://www.amazon.com/Best-Tennis-Your-Life-Performance/dp/1558708448/ref=pd_bbs_sr_1?ie=UTF8&s=books&qid=1200341206&sr=8-1)
+Greenwald is the author of ["The Best Tennis of Your
+Life"](http://www.amazon.com/Best-Tennis-Your-Life-Performance/dp/1558708448/ref=pd_bbs_sr_1?ie=UTF8&s=books&qid=1200341206&sr=8-1)
 published by Betterway. [ to
 order.](http://www.amazon.com/Best-Tennis-Your-Life-Performance/dp/1558708448/ref=pd_bbs_sr_1?ie=UTF8&s=books&qid=1200341206&sr=8-1)
 Jeff has a private practice based in San Francisco and Marin County,

@@ -2,11 +2,7 @@
 
 ### Craig Cignarelli
 
-------------------------------------------------------------------------
-
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_pro-patterns-serve-and-return-diagonals/media/image1.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_pro-patterns-serve-and-return-diagonals/media/image1.webp)
 
 **How can you use your serve to create your preferred return diagonal?**
 
@@ -35,7 +31,7 @@ your preferred rally in your service games.
 
 **Patterns are critical in learning how to win the style versus style
 match up from the baseline.** But it continues to
-amaze me how few players\--and even coaches\--understand this aspect of
+amaze me how few players--and even coaches--understand this aspect of
 tactics and how to exploit it. First let's look at how the placement of
 the serve effects the angle of the return. From this we can see how a
 player can use his serve to control the diagonals of his points.
@@ -54,9 +50,7 @@ and what is the relative strength of the return ball?
 
 **[Forehand to Forehand Rallies]**
 
-![A tennis match in a stadium Description automatically generated with
-low
-confidence](media_pro-patterns-serve-and-return-diagonals/media/image2.webp)
+![A tennis match in a stadium Description automatically generated with low confidence](media_pro-patterns-serve-and-return-diagonals/media/image2.webp)
 
 **Forehand to Forehand\
 Deuce Court\
@@ -86,9 +80,7 @@ distinguished from a wide serve to Ad which is also a backhand return
 but is usually hit crosscourt.) **The second is the serve to the
 forehand down the middle.**
 
-![A couple of people playing tennis Description automatically generated
-with low
-confidence](media_pro-patterns-serve-and-return-diagonals/media/image3.webp)
+![A couple of people playing tennis Description automatically generated with low confidence](media_pro-patterns-serve-and-return-diagonals/media/image3.webp)
 
 **Forehand to Forehand\
 Ad Court\
@@ -99,15 +91,15 @@ Serve down the T**
 **Now, depending on the exact position of the crosscourt return, use
 the following guidelines for your next shot:**
 
-- **[If the return comes deep to your forehand\--play deep
-  crosscourt.]**
+- **[If the return comes deep to your forehand--play deep
+crosscourt.]**
 
-- **[If the return comes deep and wide to your forehand\--play angle
-  crosscourt.]**
+- **[If the return comes deep and wide to your forehand--play angle
+crosscourt.]**
 
 - **[If the return comes short to your forehand, however, you can break
-  the pattern and attack down the line by trying for a winner or hitting
-  an approach shot.]**
+the pattern and attack down the line by trying for a winner or hitting
+an approach shot.]**
 
 **[Changing the Rally]**
 
@@ -118,28 +110,24 @@ exchange in the following manner.
 
 If the return comes to your backhand, you can loop down the line and
 tempt your opponent to hit crosscourt to your forehand. If the return
-comes deep to your backhand\--play a loop deep crosscourt and move
+comes deep to your backhand--play a loop deep crosscourt and move
 around the next ball to play an inside out forehand rally. Then switch
 this to an inside-in on the next ball.
 
-If the return comes deep and wide to your backhand\--play a loop or
+If the return comes deep and wide to your backhand--play a loop or
 soft, slice deep crosscourt and switch to the inside out forehand rally,
 then switch to an inside-in on the next ball. In all these cases you
 have now accomplished your goal of establishing the forehand-to-forehand
 rally and have the opportunity to take control of the point.
 
-![A tennis player in the middle of a match Description automatically
-generated with low
-confidence](media_pro-patterns-serve-and-return-diagonals/media/image4.webp)
+![A tennis player in the middle of a match Description automatically generated with low confidence](media_pro-patterns-serve-and-return-diagonals/media/image4.webp)
 
 **One way to change to the forehand diagonal: a loop backhand down the
 line.**
 
 **[Backhand to Backhand Rallies]**
 
-![A picture containing athletic game, sport, tennis, court Description
-automatically
-generated](media_pro-patterns-serve-and-return-diagonals/media/image5.webp)
+![A picture containing athletic game, sport, tennis, court Description automatically generated](media_pro-patterns-serve-and-return-diagonals/media/image5.webp)
 
 **Backhand to Backhand\
 Deuce Court\
@@ -148,11 +136,11 @@ OR\
 Serve the body on the forehand side**
 
 If your preferred pattern is backhand-to-backhand, here is the serve and
-return scenario. **[[In the deuce court there are two serves which
+return scenario. **[In the deuce court there are two serves which
 typically produce returns to the backhand.] [The first is a serve
 into the body on the forehand side. Typically, this will be returned
 down the line to your backhand. The second is a serve to the backhand,
-which will be hit crosscourt.]]**
+which will be hit crosscourt.]**
 
 **In the ad court, there are also two serves. The first is a wide
 serve, which is typically returned crosscourt to your backhand. This can
@@ -161,9 +149,7 @@ an offensive return down the line. The second serve in the Ad court is a
 serve into the forehand which is usually returned inside out
 crosscourt.**
 
-![Tennis players on a court Description automatically generated with
-medium
-confidence](media_pro-patterns-serve-and-return-diagonals/media/image6.webp)
+![Tennis players on a court Description automatically generated with medium confidence](media_pro-patterns-serve-and-return-diagonals/media/image6.webp)
 
 **Backhand to Backhand\
 Ad Court\
@@ -174,17 +160,15 @@ Serve into the forehand**
 **[Depending on the exact location of the crosscourt return, the basic
 patterns in this case are:]**
 
-- **The return comes deep to your backhand\--play deep crosscourt.**
+- **The return comes deep to your backhand--play deep crosscourt.**
 
-- **The return comes deep and wide to your backhand\--play angle
-  crosscourt.**
+- **The return comes deep and wide to your backhand--play angle
+crosscourt.**
 
-- **The return comes short to your backhand\-\--attack down the line
-  with a winner or approach.**
+- **The return comes short to your backhand---attack down the line
+with a winner or approach.**
 
-![A picture containing sport, blue, athletic game, court Description
-automatically
-generated](media_pro-patterns-serve-and-return-diagonals/media/image7.webp)
+![A picture containing sport, blue, athletic game, court Description automatically generated](media_pro-patterns-serve-and-return-diagonals/media/image7.webp)
 
 **By looping your forehand down the line, you can change to the backhand
 diagonal.**
@@ -192,18 +176,16 @@ diagonal.**
 **If the returner breaks the pattern, you can switch the rally to get
 into the favorable backhand to backhand rally as follows:**
 
-- **The return comes deep to your forehand\--play a loop down the line
-  aiming well inside the sideline.**
+- **The return comes deep to your forehand--play a loop down the line
+aiming well inside the sideline.**
 
-- **The return comes deep and wide to your forehand\--play an angle,
-  which will open the backhand side for your next shot.**
+- **The return comes deep and wide to your forehand--play an angle,
+which will open the backhand side for your next shot.**
 
-- **The return comes short to your forehand\--attack down the line or
-  hit line and cover crosscourt**
+- **The return comes short to your forehand--attack down the line or
+hit line and cover crosscourt**
 
-![A picture containing athletic game, sport, tennis, player Description
-automatically
-generated](media_pro-patterns-serve-and-return-diagonals/media/image8.webp)\
+![A picture containing athletic game, sport, tennis, player Description automatically generated](media_pro-patterns-serve-and-return-diagonals/media/image8.webp)\
 \
 **Inside Out\
 Deuce Court\
@@ -227,9 +209,7 @@ In many cases the returner will be unable to get the return crosscourt.
 Again, this will allow you to move around the ball, it up the line and
 establish the inside out baseline position.
 
-![A picture containing athletic game, sport, tennis, match Description
-automatically
-generated](media_pro-patterns-serve-and-return-diagonals/media/image9.webp)
+![A picture containing athletic game, sport, tennis, match Description automatically generated](media_pro-patterns-serve-and-return-diagonals/media/image9.webp)
 
 **Inside Out\
 Ad Court\
@@ -256,30 +236,26 @@ switch the rally to get the forehand to backhand pattern you prefer. To
 achieve this, follow these shot patterns and move to the Inside Out
 position:
 
-![A picture containing blue, athletic game, court, sport Description
-automatically
-generated](media_pro-patterns-serve-and-return-diagonals/media/image10.webp)
+![A picture containing blue, athletic game, court, sport Description automatically generated](media_pro-patterns-serve-and-return-diagonals/media/image10.webp)
 
 **To switch to the inside diagonal, hit your forehand deep down the line
 and move around the next ball.**
 
-If the return comes deep to your forehand\-\--loop or hit hard and deep
+If the return comes deep to your forehand---loop or hit hard and deep
 down the line to the backhand, then move inside.
 
-If the return comes deep and wide to your forehand\-\--play an angle or
+If the return comes deep and wide to your forehand---play an angle or
 down the middle, then look to hit deep to backhand. If the return comes
-deep to your backhand\-\--loop heavy crosscourt and move to inside out.
+deep to your backhand---loop heavy crosscourt and move to inside out.
 
-If the return comes deep but also wide to your backhand\-\--hit high and
+If the return comes deep but also wide to your backhand---hit high and
 deep crosscourt and move to inside-out. If the return comes short to
-your backhand\-\--drive line and approach or roll crosscourt deep and
+your backhand---drive line and approach or roll crosscourt deep and
 move to inside-out. If the return comes short to your
-forehand\-\--attack down the line or loop heavy down the line and turn
+forehand---attack down the line or loop heavy down the line and turn
 to inside-out.
 
-![A picture containing sport, athletic game, blue, floor Description
-automatically
-generated](media_pro-patterns-serve-and-return-diagonals/media/image11.webp)\
+![A picture containing sport, athletic game, blue, floor Description automatically generated](media_pro-patterns-serve-and-return-diagonals/media/image11.webp)\
 **Serena can break the return pattern with her inside out backhand
 return.**
 
@@ -301,8 +277,7 @@ But if you can master the shots outlined here, they will prove more than
 useful in getting you started in using your serve as the foundation of
 your tactical game.
 
-![A person holding a tennis racket Description automatically
-generated](media_pro-patterns-serve-and-return-diagonals/media/image12.jpeg)
+![A person holding a tennis racket Description automatically generated](media_pro-patterns-serve-and-return-diagonals/media/image12.jpeg)
 
 Craig Cignarelli is one of the most prolific and successful
 developmental coaches in the country. His original analysis of
@@ -312,5 +287,5 @@ personally nurtured 4 junior players from the beginning of their careers
 who have gone on to achieve #1 national rankings. Currently he is
 working with a cadre of aspiring WTA and ATP players, as well as
 competitive juniors at all levels. Versed in 4 languages, Craig is
-completing his first book \"What Champions Know,\" which forms the basis
+completing his first book "What Champions Know," which forms the basis
 for his articles on Tennisplayer.

@@ -2,11 +2,7 @@
 
 ### By Allen Fox, Ph.D.
 
-------------------------------------------------------------------------
-
-![A person holding a tennis racket Description automatically generated
-with medium
-confidence](media_thoughts-on-andre-agassi/media/image1.jpg)
+![A person holding a tennis racket Description automatically generated with medium confidence](media_thoughts-on-andre-agassi/media/image1.jpg)
 
 **What are we to make of Andre's recent revelations about his drug use
 10 years ago?**
@@ -20,7 +16,7 @@ I am surprised, even shocked, at the recriminations of Agassi coming
 from such tennis luminaries as Roger Federer, Rafael Nadal, and Martina
 Navratilova. I would have thought they would be more understanding and
 compassionate to a man who has brought such wide and excellent publicity
-to the sport over so many years\--not to mention the increases this has
+to the sport over so many years--not to mention the increases this has
 meant to their collective pocketbooks. Instead, Andre's honest
 revelations, belated though they may be, have brought down a firestorm
 of criticism on his head.
@@ -37,13 +33,8 @@ others while repressing any personal desires to be otherwise. After
 awhile, I'm not sure Andre himself knew who he was or what he really
 wanted.
 
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                           ![A picture containing person, tennis, racket, athletic game Description automatically
-   generated](media_thoughts-on-andre-agassi/media/image2.jpg)
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                               **Shocking recriminations from champions such as Federer, Nadal, Navratilova**.
-
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A picture containing person, tennis, racket, athletic game Description automatically generated](media_thoughts-on-andre-agassi/media/image2.jpg)
+**Shocking recriminations from champions such as Federer, Nadal, Navratilova**.
 
 From his comments it sounds as if he vacillated between mindless
 rebellion and trying so hard to please that he would do or say anything
@@ -57,19 +48,15 @@ I did not like or respect Agassi throughout most of his early tennis
 career. It bothered me to see him tank so often and fritter away his
 physical gifts and talents. It bothered me even more to hear him give
 interviews afterwards that sounded completely false. He would praise his
-opponent for having played a \"great\" match because, it seemed to me,
+opponent for having played a "great" match because, it seemed to me,
 he had read or heard somewhere that this was what a good sportsman
 should say. It always sounded phony and contrived, like something he
 thought would make him look good but that didn't have an ounce of
 reality to it.
 
-|  |
-| --- |
-| ![A person with a beard Description automatically generated with medium |
-| confidence](media_thoughts-on-andre-agassi/media/image3.jpg) |
-|  |
-| **The drug revelations are only a small part of the story in Andre's fascinating autobiography.** |
+![A person with a beard Description automatically generated with medium confidence](media_thoughts-on-andre-agassi/media/image3.jpg)
 
+**The drug revelations are only a small part of the story in Andre's fascinating autobiography.**
 
 Later in his career, when he took on Brad Gilbert as a coach in his late
 20's, he made a change, and I became more personally positive about
@@ -83,7 +70,7 @@ charitable - over the hill, but training to an extreme and playing
 through pain and injury. It was a rather nice story and good for tennis.
 
 Still, I had slight qualms about his public statements. He always said
-the \"right\" things, but they were a little too right. There was still
+the "right" things, but they were a little too right. There was still
 a feeling of falseness about them. It still sounded like he was posing
 as the person he thought he was expected to be rather than the person he
 actually was. He was now just better at it. And without the tanking
@@ -98,16 +85,12 @@ street consists merely of house facings, held up behind by slanted 2 by
 Agassi's recent writings and interviews are different. For the first
 time they have the ring of truth and honesty. For whatever reasons -
 maybe religion, a happy marriage, maturity, self-analysis,
-catharsis\--whatever - he seems to be willing to toss public
+catharsis--whatever - he seems to be willing to toss public
 expectations aside and tell it like it is, warts and all.
 
-![link](media_thoughts-on-andre-agassi/media/image4.png)
 
-  --------------------------------------------------------------------
-    ** to hear Andre talk more about the issues around his
-                   drug use and why he went public.**
-
-  --------------------------------------------------------------------
+** to hear Andre talk more about the issues around his
+drug use and why he went public.**
 
 Maybe the years of faking it to appear good, making up pretty stories,
 and trying to be something he wasn't got exhausting. Maybe all his
@@ -119,7 +102,7 @@ as far as I can see, has become a more sympathetic person than ever. If
 he's fooling people, and I don't think he is, then he has certainly
 fooled me.
 
-Now to the most controversial revelation \--the drug thing. He says that
+Now to the most controversial revelation --the drug thing. He says that
 for a period of time he was heavily into crystal-meth. His stated
 reasons were to escape a game and a life he didn't like; to act upon
 hia rebellious resentment and his own self-loathing.
@@ -139,12 +122,10 @@ value as a spokesperson for products. He loses more financially than he
 gains, so I don't buy the contention that he came out with all this
 information damaging to his image just to sell books.
 
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![link](media_thoughts-on-andre-agassi/media/image5.jpg)
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  **Crystal meth: does this look like a performance enhancing drug?**
+![Video demonstration](media_thoughts-on-andre-agassi/media/image5.jpg)
 
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------
+*Video demonstration — the original video for this article was hosted on TennisPlayer.net.*
+**Crystal meth: does this look like a performance enhancing drug?**
 
 Moreover and importantly, he used a recreational drug that did not help
 his tennis - quite the opposite. There is no evidence that he used
@@ -153,25 +134,20 @@ using crystal-meth does not make it more likely that he did. I feel that
 if he had been using performance-enhancing drugs and trying to hide it,
 he would not have brought up his drug use at all.
 
-Some people contend that he looked awfully strong and \"may\" have used
+Some people contend that he looked awfully strong and "may" have used
 steroids, and they are down on him for that. But there is, to my
 knowledge, no proof that he has used performance-enhancing drugs. So
 simply waving the possibility around and further downgrading him on
 supposition is beyond unfair.
 
-Of course, he \"may\" have used such drugs. But of course so \"may\"
+Of course, he "may" have used such drugs. But of course so "may"
 have Federer, Nadal, or Djokovic. Or why not Rod Laver, Arthur Ashe, or
-me, for that matter? In fact, Agassi \"may\" have gone out at night and
-murdered people. But assertions of \"maybes\" without proof are
+me, for that matter? In fact, Agassi "may" have gone out at night and
+murdered people. But assertions of "maybes" without proof are
 obviously very silly.
 
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![A picture containing person, outdoor, player Description automatically
-  generated](media_thoughts-on-andre-agassi/media/image6.jpg)
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  **Sergi Bruguera: Olympic medalist or whiner?**
-
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A picture containing person, outdoor, player Description automatically generated](media_thoughts-on-andre-agassi/media/image6.jpg)
+**Sergi Bruguera: Olympic medalist or whiner?**
 
 This brings me to the condemnations coming from some of his fellow
 competitors. What are their gripes? That his drug use helped Agassi beat
@@ -189,7 +165,7 @@ professional level there is usually a form of brotherhood among players.
 they are on court and trying to beat each other's brains out. But they
 all go through the same years of tears, sweat, and pain developing their
 games and working their ways up in the tournament ranks. So only
-\"players\" really know what this isolated little life is like. When
+"players" really know what this isolated little life is like. When
 they are done trying to beat each other there is usually some shared
 respect, even some small bit of love among them.
 
@@ -212,61 +188,92 @@ Read More From Allen!
 
 Visit him at [www.allenfoxtennis.net](http://www.allenfoxtennis.net)
 
- 
+![A picture containing text, newspaper Description automatically generated](media_thoughts-on-andre-agassi/media/image7.jpeg)
 
-| ![A picture containing text, newspaper Description automatically | Winning the Mental Match Dr. Allen Fox |
-| --- | --- |
-| generated](media_thoughts-on-andre-agassi/media/image7.jpeg) | Tennis is mentally the most difficult sport due to it's personal nature which makes winning and losing feel more |
-|  | important than they are. In this new book, Allen offers his proven solutions to problems such as choking, reducing |
-|  | stress, finishing matches, and developing confidence. Based on a life time of high level play and coaching success, |
-|  | it's a must for all competitive players. |
-|  |  |
-|  | [ to |
-|  | Order](http://www.amazon.com/Tennis-Winning-Mental-Allen-Fox/dp/0615407765/ref=sr_1_1?ie=UTF8&qid=1336083459&sr=8-1). |
+Winning the Mental Match Dr. Allen Fox
 
+Tennis is mentally the most difficult sport due to it's personal nature which makes winning and losing feel more
 
-| ![Text Description automatically | Winning may not be everything, but Dr. Allen Fox points out |
-| --- | --- |
-| generated](media_thoughts-on-andre-agassi/media/image8.jpeg) | eminently preferable to losing. In his new book, The |
-|  | Winner's Mind, Allen lays out an original step-by-step |
-|  | plan for succeeding at any of life's endeavors, based on |
-|  | his first hand and very personal observations of the |
-|  | careers of both world-class tennis players and successful |
-|  | businessman. The bottom line is that even if you are not a |
-|  | born champion\--and only a tiny percentage of us are\--you |
-|  | can still use the success strategies of champions to tilt |
-|  | the odds in your favor. Writing with brutal honesty and dry |
-|  | humor, Fox lays out the common mental characteristics of |
-|  | winners in sports and in life. He explains the critical |
-|  | role of intellect over emotion. He analyzes the struggle |
-|  | between ambition and fear and the insidious and pervasive |
-|  | fear of failure that undermines so many of us. He then |
-|  | outline how to confront and overcome these fears in your |
-|  | life and career, even when they are initially subconscious. |
-|  | Must reading from one of the great thinkers in tennis, and |
-|  | a Renaissance Man in life. [ to |
-|  | Order](http://www.tennis-warehouse.com/descpage-MIND.html). |
-|  |  |
-|  | To purchase this book you can also send a check for \$17.95 |
-|  | to Allen Fox, 1120 Inverness Place, San Luis Obispo, CA. |
-|  | 93401. The price includes shipping. |
+important than they are. In this new book, Allen offers his proven solutions to problems such as choking, reducing
 
+stress, finishing matches, and developing confidence. Based on a life time of high level play and coaching success,
 
-| ![A person holding a tennis racket Description automatically | Allen Fox PhD is a former world class player, a coach, |
-| --- | --- |
-| generated](media_thoughts-on-andre-agassi/media/image9.gif) | insightful analysts in modern tennis. A top 10 |
-|  | American player from the glory days before Open |
-|  | tennis, Fox played many of the legendary greats, among |
-|  | them Roy Emerson, Rod Laver, Stan Smith, and Arthur |
-|  | Ashe. At Pepperdine he developed the men's tennis |
-|  | program into an elite contender for national titles, |
-|  | and gave Brad Gilbert the insights that became the |
-|  | foundation for \"Winning Ugly\". His book Think to Win |
-|  | is a modern classic. He has also starred in a series |
-|  | of acclaimed videos, including Pro Secrets of Match |
-|  | Play and Allen Fox's Ultimate Tennis Lesson. |
-|  |  |
-|  |  |
+it's a must for all competitive players.
 
+[ to
 
-------------------------------------------------------------------------
+Order](http://www.amazon.com/Tennis-Winning-Mental-Allen-Fox/dp/0615407765/ref=sr_1_1?ie=UTF8&qid=1336083459&sr=8-1).
+
+![Text Description automatically generated](media_thoughts-on-andre-agassi/media/image8.jpeg)
+
+Winning may not be everything, but Dr. Allen Fox points out
+
+eminently preferable to losing. In his new book, The
+
+Winner's Mind, Allen lays out an original step-by-step
+
+plan for succeeding at any of life's endeavors, based on
+
+his first hand and very personal observations of the
+
+careers of both world-class tennis players and successful
+
+businessman. The bottom line is that even if you are not a
+
+born champion--and only a tiny percentage of us are--you
+
+can still use the success strategies of champions to tilt
+
+the odds in your favor. Writing with brutal honesty and dry
+
+humor, Fox lays out the common mental characteristics of
+
+winners in sports and in life. He explains the critical
+
+role of intellect over emotion. He analyzes the struggle
+
+between ambition and fear and the insidious and pervasive
+
+fear of failure that undermines so many of us. He then
+
+outline how to confront and overcome these fears in your
+
+life and career, even when they are initially subconscious.
+
+Must reading from one of the great thinkers in tennis, and
+
+a Renaissance Man in life. [ to
+
+Order](http://www.tennis-warehouse.com/descpage-MIND.html).
+
+To purchase this book you can also send a check for $17.95
+
+to Allen Fox, 1120 Inverness Place, San Luis Obispo, CA.
+
+93401. The price includes shipping.
+
+![A person holding a tennis racket Description automatically generated](media_thoughts-on-andre-agassi/media/image9.gif)
+
+Allen Fox PhD is a former world class player, a coach,
+
+insightful analysts in modern tennis. A top 10
+
+American player from the glory days before Open
+
+tennis, Fox played many of the legendary greats, among
+
+them Roy Emerson, Rod Laver, Stan Smith, and Arthur
+
+Ashe. At Pepperdine he developed the men's tennis
+
+program into an elite contender for national titles,
+
+and gave Brad Gilbert the insights that became the
+
+foundation for "Winning Ugly". His book Think to Win
+
+is a modern classic. He has also starred in a series
+
+of acclaimed videos, including Pro Secrets of Match
+
+Play and Allen Fox's Ultimate Tennis Lesson.

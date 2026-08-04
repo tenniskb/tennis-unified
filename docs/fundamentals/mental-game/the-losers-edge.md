@@ -2,11 +2,7 @@
 
 ### Kyle LaCroix
 
-------------------------------------------------------------------------
-
-![A person holding a trophy Description automatically generated with
-medium
-confidence](media_the-losers-edge/media/image1.jpg)
+![A person holding a trophy Description automatically generated with medium confidence](media_the-losers-edge/media/image1.jpg)
 
 **Even the great players are emotionally vulnerable after losses.**
 
@@ -24,7 +20,7 @@ years of tour matches! And Federer is among the winingest players in
 tennis history.
 
 Those kinds of loses can be very painful. They can drive players off the
-tour\--as happened to Bjorn Borg after his last attempt to win the U.S.
+tour--as happened to Bjorn Borg after his last attempt to win the U.S.
 Open ended in a bitter loss to John McEnroe in 1981.
 
 Contrast that with Roger. If you look at his history you can see how he
@@ -33,30 +29,29 @@ his continued presence and success on the tour.
 
 First, think back to some of his biggest disappointments. In 2009 he
 cried during the awards ceremony after an Australian final loss to
-Rafael Nadal, admitting, \"This is killing me.\"
+Rafael Nadal, admitting, "This is killing me."
 
-![A person hitting a ball with a tennis racket Description automatically
-generated](media_the-losers-edge/media/image2.jpg)
+![A person hitting a ball with a tennis racket Description automatically generated](media_the-losers-edge/media/image2.jpg)
 
 Why did Federer call this return luck?
 
 In 2011 he was angry and contemptuous after Novak Djokovic's famous
 forehand return on match point reversed the course of their U.S. Open
-semi-final. He called the return \"lucky\" and said that Novak had given
+semi-final. He called the return "lucky" and said that Novak had given
 up.
 
 Now compare those responses to his comments in 2015 after two other
 Grand Slam losses, both to Djokovic.
 
-At Wimbledon this year after the final he said: \"I'm very happy to see
+At Wimbledon this year after the final he said: "I'm very happy to see
 that I can produce a performance like I did the last two weeks. That
 clearly makes me believe that this was just a stepping stone to many
-more great things in the future.\"
+more great things in the future."
 
 And here is what he said after the Open loss in which he converted only
-4 of 23 break points: \"I'm happy that I played so well to give myself
+4 of 23 break points: "I'm happy that I played so well to give myself
 23 break point opportunities. Against a player like Novak, to give
-yourself that many chances, you're clearly doing many things right.\"
+yourself that many chances, you're clearly doing many things right."
 
 That is spinning the negative into relentless positive thinking. But in
 both cases, looking at his face as he said the words you could tell he
@@ -64,9 +59,7 @@ was perfectly sincere.
 
 **Jarkko**
 
-![A picture containing person, sport, athletic game, player Description
-automatically
-generated](media_the-losers-edge/media/image3.jpg)
+![A picture containing person, sport, athletic game, player Description automatically generated](media_the-losers-edge/media/image3.jpg)
 
 **When you looked at Roger's face you believed him.**
 
@@ -81,8 +74,8 @@ Some years ago, I had the chance to practice with ATP veteran player,
 Jarkko Nieminen from Finland. Afterwards I asked Jarkko what the
 toughest thing about life on tour was.
 
-Without hesitation, he said \"the best and worst parts are the
-same\--the frequency of losing.\" The best part was losing? How could
+Without hesitation, he said "the best and worst parts are the
+same--the frequency of losing." The best part was losing? How could
 that be, I asked?
 
 Jarkko explained that the toughest transition many players have when
@@ -96,13 +89,11 @@ dominance is not an accurate predictor of tour stardom.
 Nieminen's 15 year career on tour was more than a success by any
 reasonable standard. He made the quarters in the 3 of the 4 Grand Slams.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_the-losers-edge/media/image4.jpg)
+![A person playing tennis Description automatically generated with medium confidence](media_the-losers-edge/media/image4.jpg)
 
 **Practicing with Jarrko I learned the value of losing.**
 
-He won multiple titles in singles and doubles, and about \$8 million.
+He won multiple titles in singles and doubles, and about $8 million.
 How many players would kill to have those results?
 
 But that career, unlike the juniors, included dozens of losses each
@@ -133,9 +124,7 @@ to face them themselves.
 
 **Love**
 
-![A group of men holding flags Description automatically generated with
-low
-confidence](media_the-losers-edge/media/image5.jpg)
+![A group of men holding flags Description automatically generated with low confidence](media_the-losers-edge/media/image5.jpg)
 
 **Can you look at your losses the way Federer does?**
 
@@ -166,9 +155,9 @@ If you got outplayed in every category, then your opponent was too good.
 But what about your game? Are you honest enough to address what you can
 learn?
 
-Again listen to Federer: \"Usually you learn more when you lose just in
+Again listen to Federer: "Usually you learn more when you lose just in
 the sense that you analyze harder, deeper at times. That's where you
-learn a lot about your game, about your attitude, about your fitness.\"
+learn a lot about your game, about your attitude, about your fitness."
 
 Think about what David Sammel explained in his article on The Ladder of
 Gain. ([link](https://www.tennisplayer.net/members/mentalgame/david_sammel/ladder_of_gain/).)
@@ -178,9 +167,7 @@ next rung.
 And one final thought. Be grateful. You have another chance another day
 to play tennis.
 
-![A person smiling for the camera Description automatically generated
-with low
-confidence](media_the-losers-edge/media/image6.jpeg)
+![A person smiling for the camera Description automatically generated with low confidence](media_the-losers-edge/media/image6.jpeg)
 
 Kyle LaCroix is a USPTA and PTR Certified Professional as well as
 receiving his United States Center For Coaching Excellence (USCCE)

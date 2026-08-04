@@ -6,9 +6,7 @@
 
 **Pat Cash**
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_developing-world-class-volleys-tha-forehand-volley/media/image1.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_developing-world-class-volleys-tha-forehand-volley/media/image1.webp)
 
 **Developing world class volleys, starting with the forehand.**
 
@@ -23,12 +21,12 @@ ball and time it exactly perfectly.
 
 Although I became known as a server and volley player, I was a complete
 baseliner as a kid. My coach forced me to start going into the net. He
-asked \"If you can't volley, how can you win a match?\" And in the old
+asked "If you can't volley, how can you win a match?" And in the old
 days with the wood rackets, he had a point. I learned something
 wonderful there.
 
 In the modern game though, fewer and fewer players are learning to
-volley and I can understand why. You have less time\--you constantly get
+volley and I can understand why. You have less time--you constantly get
 passed and lobbed. You really need to be quite precise with the volley
 to be effective. If you drop the ball a little bit short or don't play
 the shot aggressively, you are in big trouble.
@@ -40,7 +38,9 @@ fallacies I see that are still widely believed. We'll start this month
 with the forehand volley and then move on to the backhand in the next
 article.
 
-![link](media_developing-world-class-volleys-tha-forehand-volley/media/image2.webp)
+![Video demonstration](media_developing-world-class-volleys-tha-forehand-volley/media/image2.webp)
+
+*Video demonstration — the original video for this article was hosted on TennisPlayer.net.*
 
 **With the wood rackets you absolutely had to hit through the volley.**
 
@@ -62,8 +62,7 @@ motion].]**
 underspin.** That is a key point that still totally
 applies if you want to be an effective volleyer at any level.
 
-![A person playing football Description automatically generated with low
-confidence](media_developing-world-class-volleys-tha-forehand-volley/media/image3.webp)
+![A person playing football Description automatically generated with low confidence](media_developing-world-class-volleys-tha-forehand-volley/media/image3.webp)
 
 **On the modern forehand, the left arm goes down and back around---not
 good for volleys.**
@@ -87,16 +86,14 @@ much too soon. The left hand goes down somewhere near their pocket and
 then pulls it back and around the side. Players lose complete control
 and end up chopping rather than driving through.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_developing-world-class-volleys-tha-forehand-volley/media/image4.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_developing-world-class-volleys-tha-forehand-volley/media/image4.webp)
 
-**\"Punching\" doesn't really describe the forward swing on a forehand
+**"Punching" doesn't really describe the forward swing on a forehand
 volley.**
 
 **Fallacies**
 
-One of the first fallacies about the volley is that you should \"punch\"
+One of the first fallacies about the volley is that you should "punch"
 the ball, straightening out your arm like a jab in boxing. That isn't
 what really happens. **[There isn't much movement in the arm and wrist
 per se. They need to [stay firm.]]**
@@ -115,8 +112,7 @@ around chest high and in front of your body at the
 hit.** That is probably right about the ideal
 position.
 
-![A person playing tennis Description automatically
-generated](media_developing-world-class-volleys-tha-forehand-volley/media/image5.webp)
+![A person playing tennis Description automatically generated](media_developing-world-class-volleys-tha-forehand-volley/media/image5.webp)
 
 **The left hand stays at chest height as a counterbalance.**
 
@@ -142,9 +138,7 @@ position, if you hit it too high and it has any power, it's just going
 to float out. **[So you really do need to hit through the ball with just
 a slight underspin.]**
 
-![A tennis racket on a tennis court Description automatically generated
-with medium
-confidence](media_developing-world-class-volleys-tha-forehand-volley/media/image6.webp)
+![A tennis racket on a tennis court Description automatically generated with medium confidence](media_developing-world-class-volleys-tha-forehand-volley/media/image6.webp)
 
 **Use the racket as a target to develop volley precision.**
 
@@ -154,9 +148,7 @@ racquet through the holes in the net so that the head is sticking up,
 and you aim for the head of the racquet. That's about where you should
 be aiming, particularly for a low volley.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_developing-world-class-volleys-tha-forehand-volley/media/image7.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_developing-world-class-volleys-tha-forehand-volley/media/image7.webp)
 
 **The racket head needs to drop somewhat on lower volleys.**
 
@@ -192,9 +184,7 @@ ball.
 I'm very much an open stance volleyer. I try to get behind the ball
 with the outside foot, the right foot on the forehand.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_developing-world-class-volleys-tha-forehand-volley/media/image8.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_developing-world-class-volleys-tha-forehand-volley/media/image8.webp)
 
 **Open stance volleying, [getting behind the ball] with the
 right foot.**
@@ -220,8 +210,7 @@ lose control and power. ***The only time I would ever step across or
 hit the ball way in front would be if the ball is dipping too quickly or
 is too wide for me.***
 
-![A person playing tennis Description automatically
-generated](media_developing-world-class-volleys-tha-forehand-volley/media/image9.webp)
+![A person playing tennis Description automatically generated](media_developing-world-class-volleys-tha-forehand-volley/media/image9.webp)
 
 **Contact on the forehand volley is only a few inches in front.**
 
@@ -247,8 +236,7 @@ possible, continue to run through the volley.
 Of course, you don't want to run into the volley. But if it's a slow
 one, don't split step and wait, continue to run through the volley.
 
-![A person playing tennis Description automatically
-generated](media_developing-world-class-volleys-tha-forehand-volley/media/image10.webp)
+![A person playing tennis Description automatically generated](media_developing-world-class-volleys-tha-forehand-volley/media/image10.webp)
 
 **Watch how I use the split step to change directions, but keep moving
 forward.**
@@ -269,21 +257,34 @@ following some of the points in this article, you have a chance to be
 very effective at the net. So try some of these ideas out on your
 forehand volley. Stay tuned for the backhand volley in a future article.
 
-| ![A person wearing sunglasses Description automatically generated with medium | Pat Cash is an elite player in tennis history, |
-| --- | --- |
-| confidence](media_developing-world-class-volleys-tha-forehand-volley/media/image11.jpeg) | singles and doubles titles over a 15 year |
-|  | career. In the early 1980's he was the number |
-|  | one junior player in the world, winning at both |
-|  | Wimbledon and the U.S.Open. In 1987 he won the |
-|  | men's singles title at Wimbledon defeating |
-|  | Mats Wilander, Jimmy Connors, and, in the |
-|  | final, Ivan Lendl, a match considered one of |
-|  | the greatest examples of attacking tennis ever |
-|  | played in a Grand Slam final. Today he |
-|  | continues to compete successful on the senior |
-|  | tour. We are thrilled to have Pat as a |
-|  | contributor to Tennisplayer.net! |
-|  |  |
-|  | Visit Pat's official website at |
-|  | <http://www.patcash.net> |
+![A person wearing sunglasses Description automatically generated with medium confidence](media_developing-world-class-volleys-tha-forehand-volley/media/image11.jpeg)
 
+Pat Cash is an elite player in tennis history,
+
+singles and doubles titles over a 15 year
+
+career. In the early 1980's he was the number
+
+one junior player in the world, winning at both
+
+Wimbledon and the U.S.Open. In 1987 he won the
+
+men's singles title at Wimbledon defeating
+
+Mats Wilander, Jimmy Connors, and, in the
+
+final, Ivan Lendl, a match considered one of
+
+the greatest examples of attacking tennis ever
+
+played in a Grand Slam final. Today he
+
+continues to compete successful on the senior
+
+tour. We are thrilled to have Pat as a
+
+contributor to Tennisplayer.net!
+
+Visit Pat's official website at
+
+<http://www.patcash.net>

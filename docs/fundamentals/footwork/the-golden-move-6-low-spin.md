@@ -17,9 +17,10 @@ For the entire Golden Move series, [!](https://www.tennisplayer.net/members/foot
 For more on his analysis of Low Spin in pro tennis and how it applies to
 the return of serve, [!](https://www.tennisplayer.net/members/footwork/david_bailey/golden_moves/seventh_golden_move)
 
-![link](media_the-golden-move-6-low-spin/media/image1.png)
 
-![link](media_the-golden-move-6-low-spin/media/image2.jpeg)
+![Video demonstration](media_the-golden-move-6-low-spin/media/image2.jpeg)
+
+*Video demonstration — the original video for this article was hosted on TennisPlayer.net.*
 
 David Bailey is a native Australian who has spent 15 years studying
 tennis at the professional level. He has developed a new language for

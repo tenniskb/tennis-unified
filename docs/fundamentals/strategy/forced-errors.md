@@ -2,11 +2,7 @@
 
 ### Craig O'Shannessy
 
-------------------------------------------------------------------------
-
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_forced-errors/media/image1.jpg)
+![A person playing tennis Description automatically generated with medium confidence](media_forced-errors/media/image1.jpg)
 
 **Did Rafa win the French with defense---or offense?**
 
@@ -24,15 +20,14 @@ rather than offense was the key to the match.
 But adding up winners and errors accounted for about three fourths of
 the total points played. What about the other 45 points? Although
 unrecorded officially, these points were not unforced errors or
-winner\-- they were forced errors.
+winner-- they were forced errors.
 
 **In the final Nadal may have hit only 26 winners. But he also created
 32 forced errors. In other words, his ability to force Thiem into
 mistakes was a more significant factor than his outright
 winners.**
 
-![A person hitting a ball with a tennis racket Description automatically
-generated](media_forced-errors/media/image2.jpg)
+![A person hitting a ball with a tennis racket Description automatically generated](media_forced-errors/media/image2.jpg)
 
 **What do we make of Thiem's 41 winners in a straight set loss?**
 
@@ -42,8 +37,8 @@ errors---less than half of Rafa's.
 
 How do you define a forced error? According to Leo Levin, director of
 Sports Analytics for SMT which collects data at all 4 Grand Slams,
-\"What we are trying to do is place the blame. Anytime there is a forced
-error the preceding shot has to be an aggressive forcing shot.\"
+"What we are trying to do is place the blame. Anytime there is a forced
+error the preceding shot has to be an aggressive forcing shot."
 
 Here is an example. In the first game against Nadal in the fourth round,
 French player Maximillian Marterer lost an 8 shot rally when he missed a
@@ -53,31 +48,29 @@ distance, time, as well as the spin and power of a Nadal inside
 forehand.
 
 So was that really an unforced error? More likely, this was a classic
-forced error. According to Levin, \"The typical things we look for are
+forced error. According to Levin, "The typical things we look for are
 pace of the previous shot, placement, both depth and angle, how far did
 the player have to run to get there, and also what direction was he
-going.\"
+going."
 
 Levin developed the concept charting matches for his college teammates
 at Foothill College in Los Altos California, and then, working with a
 company that was starting to do statistical match analysis.
 
-\"We came up with a concept saying that every point ended in one of
+"We came up with a concept saying that every point ended in one of
 three ways. A winner, a forced error, or an unforced error. And every
-single stroke, every single result, fit into one of those categories.\"
+single stroke, every single result, fit into one of those categories."
 
-\"A forced error is much closer to a winner than it is to an unforced
+"A forced error is much closer to a winner than it is to an unforced
 error. An unforced error is a situation where you are completely in
-control and you make the mistake.\"
+control and you make the mistake."
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_forced-errors/media/image3.jpg)
+![A person playing tennis Description automatically generated with medium confidence](media_forced-errors/media/image3.jpg)
 
 **What kind of pressure creates Forced Errors?**
 
-This led to the development of a concept he called the \"Aggressive
-Ratio,\" sometimes also called the Aggressive Margin. The idea was to
+This led to the development of a concept he called the "Aggressive
+Ratio," sometimes also called the Aggressive Margin. The idea was to
 give players credit for forcing errors, rather than counting these shots
 against the player who made the error.
 
@@ -91,9 +84,7 @@ more aggressive player, show that it was actually Nadal. Add on Thiem's
 the forced error category as an option, Nadal's aggressive ratio would
 have been even higher.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_forced-errors/media/image4.jpg)
+![A person playing tennis Description automatically generated with medium confidence](media_forced-errors/media/image4.jpg)
 
 **The Aggressive Margin told the real story of the French.**
 
@@ -114,12 +105,11 @@ Subsequent to that he charted the 2006 French Open final between Nadal
 and Federer ([link](https://www.tennisplayer.net/members/strategy/john_yandell/federer_versus_nadal_french_open_2006/federer_versus_nadal_french_open_2006.html)),
 their Wimbledon final the same year ([link](https://www.tennisplayer.net/members/strategy/john_yandell/how_roger_federer_won_wimbledon_2006/how_roger_federer_won_wimbledon_2006.html)),
 and the Wimbledon final 2 years later, among other matches. ([link](https://www.tennisplayer.net/members/strategy/john_yandell/wimbledon_2008_a_different_story/wimbledon_2008_a_different_story.html).)
-In every case the Aggressive Margin\--adding together a player's
+In every case the Aggressive Margin--adding together a player's
 winners and forced errors and subtracting the unforced errors---told the
 story of the match.
 
-![A person playing tennis Description automatically
-generated](media_forced-errors/media/image5.jpg) ![A person hitting a ball with his tennis
+![A person playing tennis Description automatically generated](media_forced-errors/media/image5.jpg) ![A person hitting a ball with his tennis
 racket Description automatically
 generated](media_forced-errors/media/image6.jpg)
 
@@ -156,31 +146,35 @@ to download the Forced Error chart as a Word Document.
 | Overhead |  |  |  |  |
 | **TOTALS:** |  |  |  |  |
 
+![A person smiling for the camera Description automatically generated with low confidence](media_forced-errors/media/image7.jpg)
 
-| ![A person smiling for the camera Description automatically generated with low | Craig O'Shannessy is widely recognized as |
-| --- | --- |
-| confidence](media_forced-errors/media/image7.jpg) | statistics, tennis strategy, and applying |
-|  | his insights in coaching. His research has |
-|  | uncovered the real magic numbers in winning |
-|  | tennis across all levels of the game. He |
-|  | writes for the ATP Tour website and the New |
-|  | York Times among others elite publications. |
-|  |  |
-|  | He has coached on the tour for 20 years |
-|  | working with players including Kevin |
-|  | Anderson, Amer Delic, and Rajeev Ram. His |
-|  | website Brain Game Tennis offers detailed |
-|  | analysis and training programs based on his |
-|  | research that have helped thousands of |
-|  | players around the world. |
+Craig O'Shannessy is widely recognized as
 
+statistics, tennis strategy, and applying
 
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![Diagram Description automatically generated with medium                                                                                                     [Click
-  confidence](media_forced-errors/media/image8.jpg)                                                                                                                                to visit Craig's site and check out his
-                                                                                                                                                                amazing training products!
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------- ----------------------------------------
+his insights in coaching. His research has
 
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+uncovered the real magic numbers in winning
 
-------------------------------------------------------------------------
+tennis across all levels of the game. He
+
+writes for the ATP Tour website and the New
+
+York Times among others elite publications.
+
+He has coached on the tour for 20 years
+
+working with players including Kevin
+
+Anderson, Amer Delic, and Rajeev Ram. His
+
+website Brain Game Tennis offers detailed
+
+analysis and training programs based on his
+
+research that have helped thousands of
+
+players around the world.
+
+![Diagram Description automatically generated with medium                                                                                                     [Click confidence](media_forced-errors/media/image8.jpg)                                                                                                                                to visit Craig's site and check out his
+amazing training products!

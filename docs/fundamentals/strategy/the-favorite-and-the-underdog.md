@@ -5,14 +5,11 @@ Understanding Match Dynamics**
 
 **Jeff McCullough**
 
-| ![A person holding a tennis racket Description automatically |
-| --- |
-| generated](media_the-favorite-and-the-underdog/media/image1.jpg) |
-|  |
-| ![A person playing tennis Description automatically generated with medium |
-| confidence](media_the-favorite-and-the-underdog/media/image2.jpg) |
-| The Favorite and the Underdog: what were the match dynamics? |
+![A person holding a tennis racket Description automatically generated](media_the-favorite-and-the-underdog/media/image1.jpg)
 
+![A person playing tennis Description automatically generated with medium confidence](media_the-favorite-and-the-underdog/media/image2.jpg)
+
+The Favorite and the Underdog: what were the match dynamics?
 
 In the quarterfinals of the 2008 U.S. Open the third seed Novak Djokovic
 defeated the eighth seed Andy Roddick in four sets.  Yes, the big
@@ -37,24 +34,19 @@ proficiency, his movement and his tenacity, taking the first two sets,
 6-2, 6-3.  Roddick lost the first set in 27 minutes behind a barrage of
 errors and a low first serve percentage.
 
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                  ![A person playing a trumpet Description automatically generated with medium
-   confidence](media_the-favorite-and-the-underdog/media/image3.jpg)
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                                    A Babolat racket was the innocent victim.
-
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person playing a trumpet Description automatically generated with medium confidence](media_the-favorite-and-the-underdog/media/image3.jpg)
+A Babolat racket was the innocent victim.
 
 After being completely outplayed in the first two sets Roddick was so
 angry he brutalized an innocent Babolat racket. However, the underdog
 found his service rhythm in the third set and was basically unbreakable.
- He began to paint the lines with his big inside out and inside in
+He began to paint the lines with his big inside out and inside in
 forehands. Even his shaky, flawed two-handed backhand yielded some
 winners and forced errors. Now Djokovic was the one who looked
 frustrated and went down 6-3 in the third.
 
 And things continued in Andy's direction through most of the fourth.
- Roddick again dominated with his serve. He got up a break and served
+Roddick again dominated with his serve. He got up a break and served
 for the set at 5-4.  But after going up 30-love, two points from the
 fifth set, he hit two double faults that turned the match. 
 
@@ -72,12 +64,10 @@ point---even though the score was still 30 all in Andy's service game. 
 Djokovic went on to break back and then was able to win the fourth set
 and the match in the tiebreaker that followed.  
 
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------
-   ![link](media_the-favorite-and-the-underdog/media/image4.jpg)
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                           Until the double faults, great positive intensity.
+![Video demonstration](media_the-favorite-and-the-underdog/media/image4.jpg)
 
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------
+*Video demonstration — the original video for this article was hosted on TennisPlayer.net.*
+Until the double faults, great positive intensity.
 
 The impact was obvious in Andy's altered body language. Prior to the
 double faults, he had exhibited great positive intensity. After breaking
@@ -112,12 +102,10 @@ Now Roddick's face had defeat written all over it. He seemed totally
 resigned as he walked over to the ad court to receive serve, and the
 curtain came down one point later.
 
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-   ![link](media_the-favorite-and-the-underdog/media/image5.jpg)
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                          **After the double faults, resignation and defeat.**
+![Video demonstration](media_the-favorite-and-the-underdog/media/image5.jpg)
 
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+*Video demonstration — the original video for this article was hosted on TennisPlayer.net.*
+**After the double faults, resignation and defeat.**
 
 The next day's headlines would proclaim that Novak Djokovic defeated
 Andy Roddick in a "close" match that "could have gone either way." In
@@ -141,7 +129,9 @@ just often enough to make it interesting, and upsets are emotionally
 compelling. So why does the favorite usually win?  And when upsets do
 occur why do they happen? 
 
-![link](media_the-favorite-and-the-underdog/media/image6.webp)
+![Video demonstration](media_the-favorite-and-the-underdog/media/image6.webp)
+
+*Video demonstration — the original video for this article was hosted on TennisPlayer.net.*
 
 **Favorites win in part because they have the game.**
 
@@ -190,12 +180,10 @@ appeared to be supercharged. Now he appeared to be in state of shock.
 The bottom line was that The Script played itself out as it usually
 does.
 
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------
-   ![link](media_the-favorite-and-the-underdog/media/image7.jpg)
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                 **After a near escape, the favorite is often relieved and bolstered.**
+![Video demonstration](media_the-favorite-and-the-underdog/media/image7.jpg)
 
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------
+*Video demonstration — the original video for this article was hosted on TennisPlayer.net.*
+**After a near escape, the favorite is often relieved and bolstered.**
 
 **The Battle of the Body Language**
 
@@ -236,7 +224,9 @@ a very good second serve and might have held serve by hitting it, rather
 than over hitting and trying to do more than was likely necessary to
 complete this task.
 
-![link](media_the-favorite-and-the-underdog/media/image8.webp)
+![Video demonstration](media_the-favorite-and-the-underdog/media/image8.webp)
+
+*Video demonstration — the original video for this article was hosted on TennisPlayer.net.*
 
 **How does your level of belief affect your shot tolerance?**
 
@@ -283,12 +273,13 @@ their matches with incomplete road maps. They fall into the all too
 common trap of thinking that the quick, simple solution lies in simply
 "trying harder."  
 
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                  ![link](media_the-favorite-and-the-underdog/media/image9.jpg)![link](media_the-favorite-and-the-underdog/media/image10.jpg)
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                                        A critical question: are you a favorite or an underdog?
+![Video demonstration](media_the-favorite-and-the-underdog/media/image9.jpg)
 
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+*Video demonstration — the original video for this article was hosted on TennisPlayer.net.*
+![Video demonstration](media_the-favorite-and-the-underdog/media/image10.jpg)
+
+*Video demonstration — the original video for this article was hosted on TennisPlayer.net.*
+A critical question: are you a favorite or an underdog?
 
 **The Critical Question**
 
@@ -324,12 +315,10 @@ What if you're number three on your high school team trying to
 challenge the number one? These are all equivalent situations insofar as
 they all involve the dominance dynamic.
 
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-   ![link](media_the-favorite-and-the-underdog/media/image11.jpg)
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                           **As an underdog can you demonstrate true belief?**
+![Video demonstration](media_the-favorite-and-the-underdog/media/image11.jpg)
 
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+*Video demonstration — the original video for this article was hosted on TennisPlayer.net.*
+**As an underdog can you demonstrate true belief?**
 
 All underdogs need to understand that they have a mountain to climb. 
 Just wanting to win and hoping for an upset is not enough.  It takes
@@ -359,12 +348,10 @@ effective underdog until you address the underlying emotional challenges
 that go with performing in this role.  Again, these are the belief that
 you can win and the courage to seize opportunities.
 
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-   ![link](media_the-favorite-and-the-underdog/media/image12.jpg)
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                        **A favorite has to believe in his level of play, and be able to execute under pressure.**
+![Video demonstration](media_the-favorite-and-the-underdog/media/image12.jpg)
 
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+*Video demonstration — the original video for this article was hosted on TennisPlayer.net.*
+**A favorite has to believe in his level of play, and be able to execute under pressure.**
 
 **The Favorite Role**
 
@@ -407,8 +394,7 @@ recognize how tough it is for the underdog to seize and maintain
 momentum.  The key is not to panic and continue to play your superior
 game.] ]**
 
-![A person playing tennis Description automatically
-generated](media_the-favorite-and-the-underdog/media/image13.webp)
+![A person playing tennis Description automatically generated](media_the-favorite-and-the-underdog/media/image13.webp)
 
 **When you are the favorite, play your superior game and show confidence
 with your body language.**
@@ -421,12 +407,12 @@ poor shot selection of tactics, or even just one egregious unforced
 error.  Don't overreact.  Play within yourself, but continue to create
 pressure that will most likely lead to the underdog's downhill
 slide.** **Remember in many close, high stakes
-matches each player is always only one point away from \"cracking.\"
+matches each player is always only one point away from "cracking."
 More often than not it's the underdog.**
 
 **[[Even favorites are human and an underdog who stays close enough long
 enough will sometimes have a breakthrough.  So if you are the underdog
-you must also look for similar signs of \"cracking\" on the part of the
+you must also look for similar signs of "cracking" on the part of the
 favorite. It will happen to every favorite eventually.  If it does, you
 have to apply pressure with a sense of urgency.  You must play within
 your capabilities, of course, but when you have the chance, you have to
@@ -463,7 +449,9 @@ Nadal's amazing body language, as well as his training system for
 improving this critical dimension in your game. If you aren't familiar
 with them, they are highly recommended. ([[]](../Mental%20game/Love%20the%20Battle-Pathways%20to%20Performing.docx))
 
-![link](media_the-favorite-and-the-underdog/media/image14.webp)
+![Video demonstration](media_the-favorite-and-the-underdog/media/image14.webp)
+
+*Video demonstration — the original video for this article was hosted on TennisPlayer.net.*
 
 **Body language demonstrates belief, or its lack.**
 
@@ -480,7 +468,7 @@ be able to give yourself the best chance of winning it later. In this
 match Djokovic ultimately proved much better in this regard. When the
 match was on the line, he used his strengths of speed, consistency,
 tenacity, and confidence. With his greater patience and higher shot
-tolerance, he wisely chose to \"work\" that critical 5 all tie-breaker
+tolerance, he wisely chose to "work" that critical 5 all tie-breaker
 point. In so doing, he cleverly allowed the faltering underdog to
 self-destruct with flawed decision making.
 
@@ -512,10 +500,8 @@ athleticism, and the power and speed on display.
 
 But if you want to win matches, look beneath the glittery surface to
 discover the dynamic elements which inevitably determine the outcomes.
- Looking at matches in this new, more probing and penetrating manner
+Looking at matches in this new, more probing and penetrating manner
 will deepen your appreciation of the battle that you have witnessed.
 These insights are directly applicable to the games of most players and
 have the potential to be decisive for you the next time you step on the
 court, whether you are the favorite or the underdog.
-
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

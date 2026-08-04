@@ -5,9 +5,7 @@ The Two Foot Pivot**
 
 **David Bailey**
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_rally-return-contact-moves-the-2-foot-pivot/media/image1.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_rally-return-contact-moves-the-2-foot-pivot/media/image1.webp)
 
 **Top players neutralize hard serves hit directly to them with the two
 foot pivot.**
@@ -37,22 +35,19 @@ components involved in hitting a great Two Foot Pivot on both sides.
 
 | **For each of these Contact Moves we will outline:** |
 | --- |
-| 1\. Type ball on which to use contact move |
+| 1. Type ball on which to use contact move |
 |  |
-| 2\. Out steps or the steps to set up the stance |
+| 2. Out steps or the steps to set up the stance |
 |  |
-| 3\. Hitting Stance |
+| 3. Hitting Stance |
 |  |
-| 4\. Contact Move itself |
+| 4. Contact Move itself |
 |  |
-| 5\. Corresponding Balance Move |
+| 5. Corresponding Balance Move |
 |  |
-| 6\. Recovery Steps |
+| 6. Recovery Steps |
 
-
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_rally-return-contact-moves-the-2-foot-pivot/media/image2.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_rally-return-contact-moves-the-2-foot-pivot/media/image2.webp)
 
 **The split step, followed by a small outstep and a quick body turn.**
 
@@ -84,9 +79,7 @@ normally hit quite open. This means either a fully open, or a mild semi
 open stance. Note that at the completion of the turn, the tips of the
 toes have turned at about a 45 degree angle to the baseline.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_rally-return-contact-moves-the-2-foot-pivot/media/image3.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_rally-return-contact-moves-the-2-foot-pivot/media/image3.webp)
 
 **The forward swing - note the rotation of the hips and the feet.**
 
@@ -116,8 +109,7 @@ the court as both feet pivot. The inside knee drop helps you extend
 through the swing and prevents you from coming up too early and losing
 balance and power.
 
-![A person playing tennis Description automatically
-generated](media_rally-return-contact-moves-the-2-foot-pivot/media/image4.webp)
+![A person playing tennis Description automatically generated](media_rally-return-contact-moves-the-2-foot-pivot/media/image4.webp)
 
 **Agassi demonstrates the knee drop balance move and a strong crossover
 recovery step.**
@@ -143,8 +135,7 @@ Now Ana rotates into the shot, driving the hips through to generate the
 swing. Note how she stays low with both feet on the ground, and how the
 angle of bend in her legs stays constant.
 
-![A person playing tennis Description automatically
-generated](media_rally-return-contact-moves-the-2-foot-pivot/media/image5.webp)
+![A person playing tennis Description automatically generated](media_rally-return-contact-moves-the-2-foot-pivot/media/image5.webp)
 
 **A perfect two foot pivot backhand return: quick turn, torso rotation
 into the shot, knee drop and crossover recovery.**
@@ -168,7 +159,9 @@ eliminate missed returns, and surprise opponents with solid replies to
 aggressive serves. It's a critical component of any return game. Next,
 stay tuned for the second rally return: the low spin!
 
-![link](media_rally-return-contact-moves-the-2-foot-pivot/media/image6.jpeg)
+![Video demonstration](media_rally-return-contact-moves-the-2-foot-pivot/media/image6.jpeg)
+
+*Video demonstration — the original video for this article was hosted on TennisPlayer.net.*
 
 David Bailey is a native Australian who has spent 15 years studying
 tennis at the professional level. He has developed a new language for

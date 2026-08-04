@@ -2,15 +2,14 @@
 
 ### Rick Macci
 
-![A person holding a tennis racket Description automatically
-generated](media_starting-your-kids-the-first-fundamental-is-attitude/media/image1.webp)
+![A person holding a tennis racket Description automatically generated](media_starting-your-kids-the-first-fundamental-is-attitude/media/image1.webp)
 
 **My approach is based on hundreds of private lessons with kids from
 ages 4 to 6.**
 
 When you work with kids, I don't believe that there is some specific
 blueprint of what you have to do to produce the best possible results.
-When you start getting into \"systems\" or \"methods\" or you start
+When you start getting into "systems" or "methods" or you start
 categorizing kids too much just by age, in my opinion that's not the
 correct approach.
 
@@ -35,11 +34,9 @@ new series for Tennisplayer, I am going to go over all of that on a
 stroke by stroke basis. But I think virtually everything I am going to
 say will apply to most club players as well.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_starting-your-kids-the-first-fundamental-is-attitude/media/image2.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_starting-your-kids-the-first-fundamental-is-attitude/media/image2.webp)
 
-**In this series I'll share my approach to starting kids\--but club
+**In this series I'll share my approach to starting kids--but club
 players, pay attention.**
 
 **Attitude Underlies All**
@@ -70,15 +67,14 @@ lives. These changes all stemmed from their experience in tennis.
 They've improved their grades, they gotten off various medications,
 they've lost weight if they needed to lose weight.
 
-![A child playing tennis Description automatically generated with medium
-confidence](media_starting-your-kids-the-first-fundamental-is-attitude/media/image3.webp)
+![A child playing tennis Description automatically generated with medium confidence](media_starting-your-kids-the-first-fundamental-is-attitude/media/image3.webp)
 
 **Theory and technique are irrelevant without fun.**
 
 **To me the art of teaching is constantly probing, to feel the
 temperature every day with every kid.** Because
-it's different all the time. If you tell kids \"you're going to do it
-this, and this is the only way to do it,\" well a lot of kids will just
+it's different all the time. If you tell kids "you're going to do it
+this, and this is the only way to do it," well a lot of kids will just
 float away.
 
 This is based on giving hundreds of private lessons to kids as young as
@@ -89,24 +85,22 @@ I go.
 **How Do You Feel?**
 
 I have a question I ask almost every kid everyday. It may seem trivial
-but actually it makes a very important point. I say, \"How do you feel
-today?\" And almost all the kids will say \"good.\"
+but actually it makes a very important point. I say, "How do you feel
+today?" And almost all the kids will say "good."
 
-And if they say \"good,\" I'll say \"Do you feel good or great?\" And
-eventually they'll say \"great.\" It's pretty much a standard answer
+And if they say "good," I'll say "Do you feel good or great?" And
+eventually they'll say "great." It's pretty much a standard answer
 now at our academy. When I ask the kids, every one of them will say
-\"great.\"
+"great."
 
 Whether they really mean it or feel it at that exact moment, I'm trying
 to get them to understand, when you feel great about yourself and
 you're having fun, you're going to do better. And even with the older
 kids, when I know they're really upset and they're mad and it's not
 the best day in the world for them, and they're down 6-0, 3-0, I'll
-ask them, \"How do you feel?\" They look at me and say \"great.\"
+ask them, "How do you feel?" They look at me and say "great."
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_starting-your-kids-the-first-fundamental-is-attitude/media/image4.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_starting-your-kids-the-first-fundamental-is-attitude/media/image4.webp)
 
 **Tennis is about believing in yourself and your
 game.**
@@ -118,12 +112,12 @@ use their minds to think whatever they want.
 When you can do something or say something that you don't really feel,
 to me that's mental toughness. Because when you hit 3 balls in a row in
 the net on your forehand, a lot of kids don't have the mental skill to
-keep that belief in their forehand. They're going to say, \"My forehand
-is shaky.\"
+keep that belief in their forehand. They're going to say, "My forehand
+is shaky."
 
 But a great player, he's not going to go there. There is another saying
-that up on my teaching court: \"Your mind is either for you or against
-you.\" There really isn't any middle ground. At any given moment, it's
+that up on my teaching court: "Your mind is either for you or against
+you." There really isn't any middle ground. At any given moment, it's
 one way or the other.
 
 I do a lot of these types of things for the younger kids to get them to
@@ -134,21 +128,16 @@ thinking that goes way beyond tennis. **[Attitude is the fundamental
 thing because tennis is about solving problems. Tennis is about
 believing in yourself.]**
 
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                      ![A person smiling and holding a golf club Description automatically generated with low
-   confidence](media_starting-your-kids-the-first-fundamental-is-attitude/media/image5.jpg)
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                                         **Tiger: the ultimate example of feeling great.**
-
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person smiling and holding a golf club Description automatically generated with low confidence](media_starting-your-kids-the-first-fundamental-is-attitude/media/image5.jpg)
+**Tiger: the ultimate example of feeling great.**
 
 **Tiger**
 
 The ultimate example is Tiger Woods. He can miss 17 out of 18 fairways,
 and he walks into the press room, and the first thing the press is going
-to say is, \"Tiger, you're driving the ball really badly today, you
-missed 17 out of 18 fairways.\" And Tiger will say something like \"Yes,
-but did you see how many greens I one-putted?\"
+to say is, "Tiger, you're driving the ball really badly today, you
+missed 17 out of 18 fairways." And Tiger will say something like "Yes,
+but did you see how many greens I one-putted?"
 
 He'll spin the negative. He doesn't even want to be around that
 negativity, even if the press is right. That's a skill and a mindset
@@ -170,26 +159,42 @@ recreational players who take these ideas seriously, the sky is the
 limit. That's the great thing about this game, it's always evolving to
 the next level.
 
-| ![A person with his arms crossed Description automatically generated with low | Rick Macci has coached some of the greatest players |
-| --- | --- |
-| confidence](media_starting-your-kids-the-first-fundamental-is-attitude/media/image6.jpeg) | years. He is widely regarded as one the world's top |
-|  | developmental coaches. Rick and his staff have shaped |
-|  | the strokes of Jennifer Capriati, Venus and Serena |
-|  | Williams, Andy Roddick, and dozens of other |
-|  | successful tour players. In the last 30 years, Macci |
-|  | students have won 134 USTA national junior |
-|  | championships, and have been awarded over 4 million |
-|  | dollars in college scholarships. Rick is a USPTA |
-|  | Master Pro and a member of the USPTA Florida Hall of |
-|  | Fame. |
-|  |  |
-|  | The Rick Macci Academy is located in Boca Raton, |
-|  | Florida at the beautiful Boca Logo Country Club, |
-|  | where Rick works in collaboration with Dr. Brian |
-|  | Gordon in implementing their new world class training |
-|  | system. |
-|  |  |
-|  | For more information about Rick's Academy, email him |
-|  | at: info@rickmacci.com or call Rick Macci directly |
-|  | at: (561) 445-2747 |
+![A person with his arms crossed Description automatically generated with low confidence](media_starting-your-kids-the-first-fundamental-is-attitude/media/image6.jpeg)
 
+Rick Macci has coached some of the greatest players
+
+years. He is widely regarded as one the world's top
+
+developmental coaches. Rick and his staff have shaped
+
+the strokes of Jennifer Capriati, Venus and Serena
+
+Williams, Andy Roddick, and dozens of other
+
+successful tour players. In the last 30 years, Macci
+
+students have won 134 USTA national junior
+
+championships, and have been awarded over 4 million
+
+dollars in college scholarships. Rick is a USPTA
+
+Master Pro and a member of the USPTA Florida Hall of
+
+Fame.
+
+The Rick Macci Academy is located in Boca Raton,
+
+Florida at the beautiful Boca Logo Country Club,
+
+where Rick works in collaboration with Dr. Brian
+
+Gordon in implementing their new world class training
+
+system.
+
+For more information about Rick's Academy, email him
+
+at: info@rickmacci.com or call Rick Macci directly
+
+at: (561) 445-2747

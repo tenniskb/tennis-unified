@@ -4,7 +4,9 @@
 
 **By Allen Fox, Ph.D.**
 
-![link](media_winning-matches-game-plan/media/image1.png)
+![Video demonstration](media_winning-matches-game-plan/media/image1.png)
+
+*Video demonstration — the original video for this article was hosted on TennisPlayer.net.*
 
 **Click to hear Allen Fox on breaking your opponent's will to fight**
 
@@ -42,13 +44,8 @@ therefore mentally disorganized. When he reaches this point, he will
 begin to make more mistakes and ultimately lose the
 match.**
 
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                           ![A picture containing sport, athletic game, tennis, outdoor Description automatically
-   generated](media_winning-matches-game-plan/media/image2.webp)
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                 **Formulate a Strategy: learn how to win points and you can win matches!**
-
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A picture containing sport, athletic game, tennis, outdoor Description automatically generated](media_winning-matches-game-plan/media/image2.webp)
+**Formulate a Strategy: learn how to win points and you can win matches!**
 
 **Now this can be done in many ways. Two possibilities are through
 brute force or through guile.** **The player who
@@ -86,13 +83,8 @@ champions who have won playing primarily defensive back court tennis,
 players such as Bjorn Borg or Chris Evert. More recently we can point to
 Michael Chang or the young Australian Lleyton Hewitt.
 
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                            ![A person hitting a ball with a tennis racket Description automatically
-   generated](media_winning-matches-game-plan/media/image3.jpg)
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------
-    **Most players make the mistake of giving up on a game plan too soon. Don't give up your net game because your opponent passes you a couple of times.**
-
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person hitting a ball with a tennis racket Description automatically generated](media_winning-matches-game-plan/media/image3.jpg)
+**Most players make the mistake of giving up on a game plan too soon. Don't give up your net game because your opponent passes you a couple of times.**
 
 There have been many great champions who played almost exclusively
 attacking serve and volley tennis such as John McEnroe, Martina
@@ -138,13 +130,8 @@ reality is that to win at the net your attacking game doesn't have to
 be world class. It only has to be slightly better than your opponent's
 defense.**
 
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                        ![A couple of men playing tennis Description automatically generated with medium
-   confidence](media_winning-matches-game-plan/media/image4.webp)
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------
-            **You don't always have to hit a winner. Sometimes just coming to the net is enough to force your opponent into committing an error.**
-
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A couple of men playing tennis Description automatically generated with medium confidence](media_winning-matches-game-plan/media/image4.webp)
+**You don't always have to hit a winner. Sometimes just coming to the net is enough to force your opponent into committing an error.**
 
 **Coming to the net you need to hit at least some volley winners, but
 you're also putting pressure on your opponent to get the ball past you
@@ -190,13 +177,8 @@ come up with a better plan. For example, if you find you're not
 steadier than your opponent on the baseline in any of the possible
 exchanges, you might try coming to the net more.**
 
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                        ![A couple of men playing tennis Description automatically generated with medium
-   confidence](media_winning-matches-game-plan/media/image5.jpg)
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------
-                    The ability to create a specific game plan is often the difference in who wins between players who are equally matched.
-
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A couple of men playing tennis Description automatically generated with medium confidence](media_winning-matches-game-plan/media/image5.jpg)
+The ability to create a specific game plan is often the difference in who wins between players who are equally matched.
 
 **But monitor the new plan carefully and make sure that it's working
 better than the old one. If not, go back to the old
@@ -230,52 +212,68 @@ Read More From Allen!
 
 Visit him at [www.allenfoxtennis.net](http://www.allenfoxtennis.net) 
 
-| ![A picture containing text, newspaper Description automatically | **Winning the Mental Match Dr. Allen Fox** |
-| --- | --- |
-| generated](media_winning-matches-game-plan/media/image6.jpeg) | Tennis is mentally the most difficult sport due to it's personal nature which makes winning and losing feel more important than |
-|  | they are. In this new book, Allen offers his proven solutions to problems such as choking, reducing stress, finishing matches, and |
-|  | developing confidence. Based on a life time of high level play and coaching success, it's a must for all competitive players. |
-|  |  |
-|  | [[ to |
-|  | Order]](http://www.amazon.com/Tennis-Winning-Mental-Allen-Fox/dp/0615407765/ref=sr_1_1?ie=UTF8&qid=1336083459&sr=8-1). |
+![A picture containing text, newspaper Description automatically generated](media_winning-matches-game-plan/media/image6.jpeg)
 
+**Winning the Mental Match Dr. Allen Fox**
 
-| ![Text Description automatically | Winning may not be everything, but Dr. Allen Fox points out that, if we |
-| --- | --- |
-| generated](media_winning-matches-game-plan/media/image7.jpeg) | losing. In his new book, The Winner's Mind, Allen lays out an original |
-|  | step-by-step plan for succeeding at any of life's endeavors, based on |
-|  | his first hand and very personal observations of the careers of both |
-|  | world-class tennis players and successful businessman. The bottom line |
-|  | is that even if you are not a born champion\--and only a tiny percentage |
-|  | of us are\--you can still use the success strategies of champions to |
-|  | tilt the odds in your favor. Writing with brutal honesty and dry humor, |
-|  | Fox lays out the common mental characteristics of winners in sports and |
-|  | in life. He explains the critical role of intellect over emotion. He |
-|  | analyzes the struggle between ambition and fear and the insidious and |
-|  | pervasive fear of failure that undermines so many of us. He then outline |
-|  | how to confront and overcome these fears in your life and career, even |
-|  | when they are initially subconscious. Must reading from one of the great |
-|  | thinkers in tennis, and a Renaissance Man in life. [[ to |
-|  | Order]](http://www.tennis-warehouse.com/descpage-MIND.html). |
-|  |  |
-|  | To purchase this book you can also send a check for \$17.95 to Allen |
-|  | Fox, 1120 Inverness Place, San Luis Obispo, CA. 93401. The price |
-|  | includes shipping. |
+Tennis is mentally the most difficult sport due to it's personal nature which makes winning and losing feel more important than
 
+they are. In this new book, Allen offers his proven solutions to problems such as choking, reducing stress, finishing matches, and
 
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![A person holding a tennis racket Description automatically                                                                                                             Allen Fox PhD is a former world class player, a coach, a
-  generated](media_winning-matches-game-plan/media/image8.gif)                                                                                                                                            insightful analysts in modern tennis. A top 10 American
-                                                                                                                                                                           player from the glory days before Open tennis, Fox
-                                                                                                                                                                           played many of the legendary greats, among them Roy
-                                                                                                                                                                           Emerson, Rod Laver, Stan Smith, and Arthur Ashe. At
-                                                                                                                                                                           Pepperdine he developed the men's tennis program into
-                                                                                                                                                                           an elite contender for national titles, and gave Brad
-                                                                                                                                                                           Gilbert the insights that became the foundation for
-                                                                                                                                                                           \"Winning Ugly\". His book Think to Win is a modern
-                                                                                                                                                                           classic. He has also starred in a series of acclaimed
-                                                                                                                                                                           videos, including Pro Secrets of Match Play and Allen
-                                                                                                                                                                           Fox's Ultimate Tennis Lesson.
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ --------------------------------------------------------
+developing confidence. Based on a life time of high level play and coaching success, it's a must for all competitive players.
 
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[[ to
+
+Order]](http://www.amazon.com/Tennis-Winning-Mental-Allen-Fox/dp/0615407765/ref=sr_1_1?ie=UTF8&qid=1336083459&sr=8-1).
+
+![Text Description automatically generated](media_winning-matches-game-plan/media/image7.jpeg)
+
+Winning may not be everything, but Dr. Allen Fox points out that, if we
+
+losing. In his new book, The Winner's Mind, Allen lays out an original
+
+step-by-step plan for succeeding at any of life's endeavors, based on
+
+his first hand and very personal observations of the careers of both
+
+world-class tennis players and successful businessman. The bottom line
+
+is that even if you are not a born champion--and only a tiny percentage
+
+of us are--you can still use the success strategies of champions to
+
+tilt the odds in your favor. Writing with brutal honesty and dry humor,
+
+Fox lays out the common mental characteristics of winners in sports and
+
+in life. He explains the critical role of intellect over emotion. He
+
+analyzes the struggle between ambition and fear and the insidious and
+
+pervasive fear of failure that undermines so many of us. He then outline
+
+how to confront and overcome these fears in your life and career, even
+
+when they are initially subconscious. Must reading from one of the great
+
+thinkers in tennis, and a Renaissance Man in life. [[ to
+
+Order]](http://www.tennis-warehouse.com/descpage-MIND.html).
+
+To purchase this book you can also send a check for $17.95 to Allen
+
+Fox, 1120 Inverness Place, San Luis Obispo, CA. 93401. The price
+
+includes shipping.
+
+![A person holding a tennis racket Description automatically                                                                                                             Allen Fox PhD is a former world class player, a coach, a generated](media_winning-matches-game-plan/media/image8.gif)                                                                                                                                            insightful analysts in modern tennis. A top 10 American
+player from the glory days before Open tennis, Fox
+played many of the legendary greats, among them Roy
+Emerson, Rod Laver, Stan Smith, and Arthur Ashe. At
+Pepperdine he developed the men's tennis program into
+an elite contender for national titles, and gave Brad
+Gilbert the insights that became the foundation for
+"Winning Ugly". His book Think to Win is a modern
+classic. He has also starred in a series of acclaimed
+videos, including Pro Secrets of Match Play and Allen
+Fox's Ultimate Tennis Lesson.

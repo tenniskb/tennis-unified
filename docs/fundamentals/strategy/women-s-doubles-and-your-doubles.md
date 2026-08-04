@@ -2,11 +2,7 @@
 
 ### Dave Hagler 
 
-------------------------------------------------------------------------
-
-![A couple of people playing tennis Description automatically generated
-with low
-confidence](media_women-s-doubles-and-your-doubles/media/image1.webp)
+![A couple of people playing tennis Description automatically generated with low confidence](media_women-s-doubles-and-your-doubles/media/image1.webp)
 
 **How do changes in equipment affect doubles at the pro, and at the club
 level?**
@@ -16,15 +12,15 @@ play tennis, they play doubles.  With that in mind, I will make 3
 statements about doubles that you may or may not agree with: 
 
 1.  Professional doubles (men's and women's), has changed as much or
-    more than singles over the past 10 years. 
+more than singles over the past 10 years. 
 
 2.  The return of serve is more of a weapon that at any time in the
-    history of tennis.   
+history of tennis.   
 
 3.  Changes in equipment and stroke production make doubles at all
-    levels much more complex.  There are now more potential viable
-    strategies.  Shots that at one time were low percentage or ill
-    advised may now be very sound options.  
+levels much more complex.  There are now more potential viable
+strategies.  Shots that at one time were low percentage or ill
+advised may now be very sound options.  
 
 **The Women's Model?**
 
@@ -39,9 +35,7 @@ better than their net play.  Women's teams have found ways to take
 advantage of these strengths, and minimized the need to rely on their
 weaknesses.
 
-![A group of people playing tennis Description automatically generated
-with medium
-confidence](media_women-s-doubles-and-your-doubles/media/image2.webp)
+![A group of people playing tennis Description automatically generated with medium confidence](media_women-s-doubles-and-your-doubles/media/image2.webp)
 
 **In the modern game, the return can be more effective than the
 volley.**
@@ -68,9 +62,7 @@ percentages of service breaks.  In the 2008 Grand Slam tournaments,
 men's teams broke serve 18% of the time.  The women's number was almost
 twice that, with breaks occurring 35% of the time.
 
-![A picture containing sport, athletic game, sky, tennis Description
-automatically
-generated](media_women-s-doubles-and-your-doubles/media/image3.webp)
+![A picture containing sport, athletic game, sky, tennis Description automatically generated](media_women-s-doubles-and-your-doubles/media/image3.webp)
 
 **A power groundie forces a weak reply, followed by a swinging volley
 into the opening.**
@@ -93,9 +85,7 @@ fast, heavy returns and groundies also made it difficult for opponents
 who tried to counter by moving into the net, as they frequently had to
 volley up on their first volleys.
 
-![A group of people playing tennis Description automatically generated
-with medium
-confidence](media_women-s-doubles-and-your-doubles/media/image4.webp) 
+![A group of people playing tennis Description automatically generated with medium confidence](media_women-s-doubles-and-your-doubles/media/image4.webp)
 
 **Serve and volley is still part of the complex mix in the modern
 game.**
@@ -127,9 +117,7 @@ comparable rate, or probably an even greater rate, than the top women. 
 Because club serving can be so erratic, focusing on strategies to break
 serve can have a huge impact on the outcome of matches.
 
-![A group of people playing tennis Description automatically generated
-with medium
-confidence](media_women-s-doubles-and-your-doubles/media/image5.webp)
+![A group of people playing tennis Description automatically generated with medium confidence](media_women-s-doubles-and-your-doubles/media/image5.webp)
 
 **Why not bring your groundstrokes more into play if they are your
 weapons?**
@@ -137,7 +125,7 @@ weapons?**
 **Options**
 
 Club players need to realize they have a range of options.  There is no
-longer only one way to play\--get to the net as soon as possible.  Teams
+longer only one way to play--get to the net as soon as possible.  Teams
 have to evaluate their options, their own strengths and weaknesses, and
 also, those of their opponents.
 
@@ -152,9 +140,7 @@ aggressive off the ground than. In many more situations today, hitting
 stronger returns and staying back, even after your serve, may give you
 the chance to bring your best shots into play. 
 
-![A group of people playing tennis Description automatically generated
-with medium
-confidence](media_women-s-doubles-and-your-doubles/media/image6.webp)
+![A group of people playing tennis Description automatically generated with medium confidence](media_women-s-doubles-and-your-doubles/media/image6.webp)
 
 **In the backcourt in doubles you can force the action with fewer
 balls. **
@@ -193,11 +179,9 @@ directly at the net player.  Or hitting lobs over the head of an
 opposing player who ventures too close to the net.  The sheer velocity
 and angle of returns and groundstrokes means that the net person must
 take more risks and hit more difficult shots if they want to volley more
-balls\--and that can lead to errors.
+balls--and that can lead to errors.
 
-![People playing tennis on a court Description automatically generated
-with medium
-confidence](media_women-s-doubles-and-your-doubles/media/image7.webp)
+![People playing tennis on a court Description automatically generated with medium confidence](media_women-s-doubles-and-your-doubles/media/image7.webp)
 
 **Backcourt exchanges often determine the outcome of most points.**
 
@@ -226,9 +210,7 @@ team formations, starting with the traditional positions, what kind of
 points they yield, and then looking at the variations, including the
 rationale behind each. 
 
-![A group of people playing tennis Description automatically generated
-with medium
-confidence](media_women-s-doubles-and-your-doubles/media/image8.webp)
+![A group of people playing tennis Description automatically generated with medium confidence](media_women-s-doubles-and-your-doubles/media/image8.webp)
 
 **A basic poach from the server's partner.**
 
@@ -250,9 +232,7 @@ a down the line lob return.  If the serve is sliced or kicked out wide,
 the partner can follow the ball, shifting in the direction of the serve
 placement.  
 
-![A couple of people playing tennis Description automatically generated
-with low
-confidence](media_women-s-doubles-and-your-doubles/media/image9.webp)   
+![A couple of people playing tennis Description automatically generated with low confidence](media_women-s-doubles-and-your-doubles/media/image9.webp)
 
 **By starting further back, the returning partner can intercept the
 first volley.**
@@ -260,7 +240,7 @@ first volley.**
 **Traditional Returns**
 
 In the traditional receiving formation, the receiver stands somewhere
-near where she would in singles\--the corner of the singles sideline and
+near where she would in singles--the corner of the singles sideline and
 the baseline-- although she can adjust and move wider if the server
 moves wider.
 
@@ -278,9 +258,7 @@ forward and away from the middle, with the assumption the receiver will
 be able to attack the return or at least keep it away from the server's
 partner. 
 
-![People playing tennis on a court Description automatically generated
-with medium
-confidence](media_women-s-doubles-and-your-doubles/media/image10.webp)
+![People playing tennis on a court Description automatically generated with medium confidence](media_women-s-doubles-and-your-doubles/media/image10.webp)
 
 **The I Formation can be effective is dealing with crosscourt returns.**
 
@@ -316,9 +294,7 @@ closer to the center and the server's partner is very close to the
 center service line and almost on top of the net.  It's a less extreme
 version of the Australian or the I.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_women-s-doubles-and-your-doubles/media/image11.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_women-s-doubles-and-your-doubles/media/image11.webp)
 
 **Crowding the alley protects the reluctant volleyer and against the
 down the line return.**
@@ -350,9 +326,7 @@ play.  It may seem strange to see teams play this way on the pro tour,
 but cheating towards the middle is now often considered a risky
 strategy.
 
-![A group of people playing tennis Description automatically generated
-with medium
-confidence](media_women-s-doubles-and-your-doubles/media/image12.webp)
+![A group of people playing tennis Description automatically generated with medium confidence](media_women-s-doubles-and-your-doubles/media/image12.webp)
 
 **Two back brings the groundstrokes and the lob more into play.**
 
@@ -384,9 +358,7 @@ target.  It allows the serving players to use their groundstrokes, which
 are frequently their best developed and more consistent strokes at lower
 levels.
 
-![A tennis match in progress Description automatically generated with
-low
-confidence](media_women-s-doubles-and-your-doubles/media/image13.webp)
+![A tennis match in progress Description automatically generated with low confidence](media_women-s-doubles-and-your-doubles/media/image13.webp)
 
 **Receiving teams can set up the net player in crosscourt rallies.**
 
@@ -415,8 +387,7 @@ big groundie or a spinny groundie or swing volley from this position
 when she has slightly more time than from a position closer to the net.
 She may even venture to the net if her partner attacks the return.
 
-![A person playing tennis Description automatically
-generated](media_women-s-doubles-and-your-doubles/media/image14.webp)
+![A person playing tennis Description automatically generated](media_women-s-doubles-and-your-doubles/media/image14.webp)
 
 **Players can start 3/4s back and attack on a good return.**
 
@@ -433,9 +404,7 @@ Since almost all women pros are some form of aggressive baseliner, the
 question becomes, "how should an aggressive baseliner play doubles?" 
 The answer is some of the options we've considered. 
 
-![People playing tennis on a court Description automatically generated
-with medium
-confidence](media_women-s-doubles-and-your-doubles/media/image15.webp)
+![People playing tennis on a court Description automatically generated with medium confidence](media_women-s-doubles-and-your-doubles/media/image15.webp)
 
 **Hitting returns at a reluctant volleyer: just one of the new
 options.**
@@ -463,21 +432,16 @@ This can work for you and your partner provided you realistically assess
 your skills as a team and utilize a strategy which allows you to utilize
 them during your match.    
 
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![A person holding a tennis racket Description automatically                                                                                                                     Dave Hagler is a Tennis Professional based
-  generated](media_women-s-doubles-and-your-doubles/media/image16.jpeg)                                                                                                                                                              players of all ages, but he has a special
-                                                                                                                                                                                   passion for junior development. He has
-                                                                                                                                                                                   coached numerous sectionally and nationally
-                                                                                                                                                                                   ranked junior players and several national
-                                                                                                                                                                                   champions. Dave is a USPTA Master
-                                                                                                                                                                                   Professional and National Tester, a PTR
-                                                                                                                                                                                   Master of Tennis -- Performance, and was
-                                                                                                                                                                                   one of the first 100 coaches to complete
-                                                                                                                                                                                   the USTA's High Performance Coaching
-                                                                                                                                                                                   Program. He has been the USPTA California
-                                                                                                                                                                                   Division Pro of the Year and one of 5
-                                                                                                                                                                                   National Recipients of the "Pro of the
-                                                                                                                                                                                   Year" award from Head and the PTR.
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -------------------------------------------
-
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person holding a tennis racket Description automatically                                                                                                                     Dave Hagler is a Tennis Professional based generated](media_women-s-doubles-and-your-doubles/media/image16.jpeg)                                                                                                                                                              players of all ages, but he has a special
+passion for junior development. He has
+coached numerous sectionally and nationally
+ranked junior players and several national
+champions. Dave is a USPTA Master
+Professional and National Tester, a PTR
+Master of Tennis -- Performance, and was
+one of the first 100 coaches to complete
+the USTA's High Performance Coaching
+Program. He has been the USPTA California
+Division Pro of the Year and one of 5
+National Recipients of the "Pro of the
+Year" award from Head and the PTR.

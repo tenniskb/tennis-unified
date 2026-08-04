@@ -4,9 +4,7 @@
 
 **Tim Mayotte**
 
-![A picture containing athletic game, sport, outdoor, court Description
-automatically
-generated](media_the-framework-a-new-paradigm-for-technique-and-movement/media/image1.webp)
+![A picture containing athletic game, sport, outdoor, court Description automatically generated](media_the-framework-a-new-paradigm-for-technique-and-movement/media/image1.webp)
 
 **Great coaching leads to flowing, sublime moments.**
 
@@ -38,9 +36,7 @@ of one's neck. Sharing the moments of change with an avid adult makes a
 coach grow young. When a group of players feels this kind of impact,
 tennis grows. Our sport and its players crave more superb teachers.
 
-![A picture containing text, tennis, person, player Description
-automatically
-generated](media_the-framework-a-new-paradigm-for-technique-and-movement/media/image2.webp)
+![A picture containing text, tennis, person, player Description automatically generated](media_the-framework-a-new-paradigm-for-technique-and-movement/media/image2.webp)
 
 **Technique and movement are inexorably interwoven.**
 
@@ -66,9 +62,7 @@ many of us have had the following experiences.
 You are sure you know what is wrong with a player's game. She is an
 intermediate with some proficiency.
 
-![A person running on a field Description automatically generated with
-low
-confidence](media_the-framework-a-new-paradigm-for-technique-and-movement/media/image3.webp)
+![A person running on a field Description automatically generated with low confidence](media_the-framework-a-new-paradigm-for-technique-and-movement/media/image3.webp)
 
 **A clean open stance backhand going back. But unlike Novak, some
 players cannot create the same mastery in all directions.**
@@ -95,9 +89,7 @@ organization.
 There is something sloppy, messy. He's a sort of baby octopus. Figuring
 out where to start is surprisingly complicated and elusive.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_the-framework-a-new-paradigm-for-technique-and-movement/media/image4.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_the-framework-a-new-paradigm-for-technique-and-movement/media/image4.webp)
 
 **What is needed: an approach that sees technique and movement as parts
 of a whole.**
@@ -112,17 +104,17 @@ Some was very sophisticated, informative, but seemed to be written for
 tennis Ph'ds. More accessible information was lacking or simplistic.
 
 The technically orientated lessons and sites broke down the basics of
-individual strokes and then informed the lessons with some \"thinking du
-jour.\" This included clichéd phrases such as \"Low to High,\" \"Kinetic
-chain,\" \"Loading,\" \"Windshield wiper,\" and \"Modern Tennis\" in the
+individual strokes and then informed the lessons with some "thinking du
+jour." This included clichéd phrases such as "Low to High," "Kinetic
+chain," "Loading," "Windshield wiper," and "Modern Tennis" in the
 avalanche of terms.
 
 But only a small portion of these more accessible sources teachers and
 books analyzed movement, but those sources did so in a rather basic
-fashion\-\--open and closed stance, simple footwork patterns etc. All
+fashion---open and closed stance, simple footwork patterns etc. All
 this flood of information sometimes helped, but only in small ways,
 around the edges. I was frustrated that coaches often made simplistic
-statements such as \"move your feet,\" but I had no idea what that meant
+statements such as "move your feet," but I had no idea what that meant
 or how it could help players.
 
 The closer I looked, the complications and enormous variety of problems
@@ -135,9 +127,7 @@ immense frustration) reappear.
 It was not only my frustrations as a teacher that egged me on. I was
 constantly nudged by memories of playing the greats.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_the-framework-a-new-paradigm-for-technique-and-movement/media/image5.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_the-framework-a-new-paradigm-for-technique-and-movement/media/image5.webp)
 
 **Memories of playing the greats---beauty and anguish.**
 
@@ -169,8 +159,7 @@ stroke. Instead of relying on the commonly used categories such as
 forehand, backhand, forehand volley etc. I have worked to establish and
 label the most salient elements contained in all shots.
 
-![A person playing tennis Description automatically
-generated](media_the-framework-a-new-paradigm-for-technique-and-movement/media/image6.webp)
+![A person playing tennis Description automatically generated](media_the-framework-a-new-paradigm-for-technique-and-movement/media/image6.webp)
 
 **We need to see more clearly what goes on in all shots---including
 slice.**
@@ -197,8 +186,8 @@ are interwoven; one significantly impacts the other and visa versa. I
 believe the separation between swing shape and movement to and from the
 ball is artificial and unhelpful.
 
-**In simple terms a stroke is not a shot**. \"The
-Framework\" assumes that an effective analysis of a shot, any shot, must
+**In simple terms a stroke is not a shot**. "The
+Framework" assumes that an effective analysis of a shot, any shot, must
 look at the shot from start to finish, from split-step to recovery.
 
 The higher the player's level the more important it is to analyze how
@@ -206,12 +195,11 @@ technique and movement support or work against each other. (For the
 purposes of these articles, we are excluding the serve.)
 
 **Great technique/movement is built on the [minimum number of possible
-variables]**\--***[without sacrificing racquet speed or foot
+variables]**--***[without sacrificing racquet speed or foot
 speed.]*** In fact this reduction of variables actually increases
 both.
 
-![A person playing tennis Description automatically
-generated](media_the-framework-a-new-paradigm-for-technique-and-movement/media/image7.webp)
+![A person playing tennis Description automatically generated](media_the-framework-a-new-paradigm-for-technique-and-movement/media/image7.webp)
 
 **The Framework evaluates the quality of 7 stages in every shot.**
 
@@ -256,15 +244,13 @@ foot speed. In fact eliminating variables will increase both.
 |  |  |  |
 | 7.  **Recovery** | 7.  **Ready Position** |  |
 
-
 So let's outline the stages in preparation for jumping into detail in
 the upcoming articles in this series. We will revisit them in as we work
 through how the function within great shot making. But here is a first
 look. Note that each of the seven stages has a movement component paired
 with a technique component.
 
-![A person playing tennis Description automatically
-generated](media_the-framework-a-new-paradigm-for-technique-and-movement/media/image8.webp)
+![A person playing tennis Description automatically generated](media_the-framework-a-new-paradigm-for-technique-and-movement/media/image8.webp)
 
 **Each stage combines a movement component and a technical component.**
 
@@ -290,47 +276,46 @@ teaching better tennis.
 
 Benefits of the Framework
 
-In my experience \"The Framework\" has the following benefits that are
+In my experience "The Framework" has the following benefits that are
 not as readily obvious in many other methods.
 
 1.  It allows you to recognize that a significant portion of shots that
-    are subpar are significantly compromised well before the player
-    begins their stroke. If the preparation and first step movement are
-    poor there is little chance of being able to hit the ball well, even
-    if your forehand looks just like Federer's when you are hand fed a
-    ball. To put it in a more positive vein, for most beginners,
-    intermediate and even high level players many shots can be helped
-    greatly by fixing the early stages of the shot. Every shot can best
-    seen be as a building of stages, each on top of the other. The
-    building cannot be great without great execution of the foundational
-    stages.
+are subpar are significantly compromised well before the player
+begins their stroke. If the preparation and first step movement are
+poor there is little chance of being able to hit the ball well, even
+if your forehand looks just like Federer's when you are hand fed a
+ball. To put it in a more positive vein, for most beginners,
+intermediate and even high level players many shots can be helped
+greatly by fixing the early stages of the shot. Every shot can best
+seen be as a building of stages, each on top of the other. The
+building cannot be great without great execution of the foundational
+stages.
 
 2.  The Framework offers a basic model that can be continuously
-    developed with increasing nuance. This skeleton allows the coach to
-    be able to put all the extremely sophisticated work being done into
-    perspective thereby making it more easily understandable as to how
-    it applies.
+developed with increasing nuance. This skeleton allows the coach to
+be able to put all the extremely sophisticated work being done into
+perspective thereby making it more easily understandable as to how
+it applies.
 
 3.  The Framework pays close attention to the physical strengths and
-    weaknesses of the player. If applied correctly a teacher can more
-    fully coach in a developmentally sensitive way. This is helpful not
-    only for children but also in working with adults of all levels.
+weaknesses of the player. If applied correctly a teacher can more
+fully coach in a developmentally sensitive way. This is helpful not
+only for children but also in working with adults of all levels.
 
 4.  The Framework makes scouting players easier. We can see how and why
-    a player may be good at one forehand and not another. By looking at
-    the movement with the swing path a teacher comes to understand that
-    forehands are in fact vastly different depending on circumstance.
-    Preparation and movement vary greatly bringing vastly different
-    outcomes. A player may have a wonderful inside-out forehand. The
-    goal is for a player to master all types of forehands, and of all
-    shots.
+a player may be good at one forehand and not another. By looking at
+the movement with the swing path a teacher comes to understand that
+forehands are in fact vastly different depending on circumstance.
+Preparation and movement vary greatly bringing vastly different
+outcomes. A player may have a wonderful inside-out forehand. The
+goal is for a player to master all types of forehands, and of all
+shots.
 
-  --
+--
 
-  --
+--
 
-![A person holding a tennis racket Description automatically
-generated](media_the-framework-a-new-paradigm-for-technique-and-movement/media/image9.jpeg)
+![A person holding a tennis racket Description automatically generated](media_the-framework-a-new-paradigm-for-technique-and-movement/media/image9.jpeg)
 
 Following a legendary professional playing career, Tim Mayotte is now
 focused on developing the best tennis training program in America. For

@@ -6,9 +6,7 @@
 
 ### Robert Lansdorp
 
-![A person running on a track Description automatically generated with
-low
-confidence](media_the-lansdorp-one-handed-backhand/media/image1.webp)
+![A person running on a track Description automatically generated with low confidence](media_the-lansdorp-one-handed-backhand/media/image1.webp)
 
 **Elliot's backhand was one of the best in the game. You can develop
 yours in exactly the same way.**
@@ -32,26 +30,23 @@ the kid experiment with the idea of hitting with one-hand.
 
 I'll see that the two-hander is getting pretty good. It looks like
 he's hitting through the ball, he's able to follow through out front.
-It looks very smooth. Then I say, \"Hit me a backhand and let go with
-your left hand at the end.\" I'll ask the kid: \"Do you ever hit a
-one-handed backhand? What do you think about a one hander?\" If the kid
-says, \"I don't like it,\" then I say fine, I don't even touch it.
+It looks very smooth. Then I say, "Hit me a backhand and let go with
+your left hand at the end." I'll ask the kid: "Do you ever hit a
+one-handed backhand? What do you think about a one hander?" If the kid
+says, "I don't like it," then I say fine, I don't even touch it.
 
-If the kid says \"Oh yeah, I wish I could hit a one-hander.\" Then I
-say, \"Then hit a one-hander, because that's what you want to do.\" I
+If the kid says "Oh yeah, I wish I could hit a one-hander." Then I
+say, "Then hit a one-hander, because that's what you want to do." I
 can teach you a one-hander no problem.
 
 I tell him when you're young it's a little more difficult hitting a
 one-hander, because people can hit you high balls and you're going to
 be struggling. But if you want it, it's worth it. Otherwise, you'll be
-16 hitting a two-hander and thinking \"I wish I had a one-hander.\"
+16 hitting a two-hander and thinking "I wish I had a one-hander."
 
-|  | ![A person holding a tennis racket Description automatically generated with medium |
-| --- | --- |
-|  | confidence](media_the-lansdorp-one-handed-backhand/media/image2.jpg)![A person holding a tennis racket Description automatically |
-|  | generated](media_the-lansdorp-one-handed-backhand/media/image3.jpg) |
-| **Two views of the one-hand backhand grip, what I call a \"true\" continental.** |  |
+**Two views of the one-hand backhand grip, what I call a "true" continental.**
 
+generated](media_the-lansdorp-one-handed-backhand/media/image3.jpg)
 
 So, at some point I always give the kid the option. It doesn't make any
 difference to me. In fact, I'd actually rather teach a one-hander. The
@@ -61,7 +56,7 @@ longer. But the elements are a lot less complex.
 
 ### Grip
 
-I like players to start with what I call a \"true\" continental grip,
+I like players to start with what I call a "true" continental grip,
 although some people might call it an eastern. This is the grip Sampras
 uses, the same as Stephen Edberg or Richard Krichek. With the true
 continental grip, you can interchange and teach the player slice. When
@@ -70,13 +65,8 @@ ball. The follow-through is the easiest. I can see when they hit the
 ball how the racquet is coming through the ball. I know how pure they
 are hitting the ball. For the beginning it's crucial.
 
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                        ![A person holding a tennis racket Description automatically
-   generated](media_the-lansdorp-one-handed-backhand/media/image4.jpg)
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                              For most players a lower take back is better, at about the level of your pocket.
-
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person holding a tennis racket Description automatically generated](media_the-lansdorp-one-handed-backhand/media/image4.jpg)
+For most players a lower take back is better, at about the level of your pocket.
 
 After that I don't mind it slipping over a little bit. You get a little
 bit more topspin automatically.
@@ -103,11 +93,7 @@ Kuerton does the same thing. If they can bring their racquet down before
 they start forward to the ball, I have no problem with the higher
 backswing. It's a matter of timing.
 
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                        ![A person holding a tennis racket Description automatically
-   generated](media_the-lansdorp-one-handed-backhand/media/image5.jpg)**The problem with the high backswing is that it's more difficult to time the swing.**
-
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person holding a tennis racket Description automatically generated](media_the-lansdorp-one-handed-backhand/media/image5.jpg)**The problem with the high backswing is that it's more difficult to time the swing.**
 
 If your timing is right in bringing the racquet back down, there's no
 problem. But some players have a very difficult time with that. That's
@@ -154,13 +140,8 @@ backhand and ripping it with topspin. It's an unbelievable shot down
 the line. But I believe in coming more straight out with an eastern or a
 continental grip like Pete or Teltscher.
 
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                               ![An old person playing tennis Description automatically generated with medium
-   confidence](media_the-lansdorp-one-handed-backhand/media/image7.jpg)
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                        **Chest and shoulders stretch out at the finish. The left arm stays down around the waist.**
-
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![An old person playing tennis Description automatically generated with medium confidence](media_the-lansdorp-one-handed-backhand/media/image7.jpg)
+**Chest and shoulders stretch out at the finish. The left arm stays down around the waist.**
 
 ###  Follow-through
 
@@ -179,19 +160,14 @@ follow-through shows if you have hit through the ball. It's the key to
 developing pace and being able to hit a ball that
 moves.]]**
 
-That's why I have players learn to \"leave it out front.\" Then I can
+That's why I have players learn to "leave it out front." Then I can
 see exactly what is happening. By that I mean holding the racquet at the
 end of the swing with the arm straight out in front. You can leave it up
 front, then you hit through the shot. At the finish on the one-hander,
 this means you can see partially through the strings.
 
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                          ![A person holding a bat Description automatically generated with low
-   confidence](media_the-lansdorp-one-handed-backhand/media/image8.jpg)
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                             **The shoulders stay sideways and the arm comes out totally straight. The player can just see through the edge of the strings.**
-
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person holding a bat Description automatically generated with low confidence](media_the-lansdorp-one-handed-backhand/media/image8.jpg)
+**The shoulders stay sideways and the arm comes out totally straight. The player can just see through the edge of the strings.**
 
 ###  Developing Pete's One-Hander
 
@@ -201,8 +177,8 @@ talked him into that. Up until that time, Pete had a great two-hander.
 I'm not sure I would have ever switched him myself.
 
 So Pete was gone for around two years, but one day his father called me
-up and asked me: \"Robert, would you mind working with Pete, because he
-can't hit a backhand.\" And I said sure, I'd work with Pete again.
+up and asked me: "Robert, would you mind working with Pete, because he
+can't hit a backhand." And I said sure, I'd work with Pete again.
 
 What his dad said was true. At age 16, Pete couldn't really hit a
 backhand. He could only slice. Every backhand he hit was a chip.
@@ -214,13 +190,8 @@ picked it up faster than most players. At age 19, his backhand drive was
 good enough to win the U.S. Open. In fact when he won the open it
 wasn't just good, it was a great backhand.
 
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                        ![A person playing tennis Description automatically generated with medium
-   confidence](media_the-lansdorp-one-handed-backhand/media/image9.webp)
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                          **Today Pete hits too many looping topspin backhands. He needs to hit more winners - the way he did when he won his first U.S. Open.**
-
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person playing tennis Description automatically generated with medium confidence](media_the-lansdorp-one-handed-backhand/media/image9.webp)
+**Today Pete hits too many looping topspin backhands. He needs to hit more winners - the way he did when he won his first U.S. Open.**
 
 There is no doubt Pete's backhand then was actually better than it is
 now. In my opinion, Pete hits far too many loopy topspin backhands.
@@ -231,20 +202,11 @@ many times you hit outright winners with your backhand. So far he
 hasn't listened to me, I guess he probably thinks his backhand is all
 right if he's won 13 Grand Slams.
 
-But I don't. I know it could be a lot better. People tell me \"Lansdorp
-only you would tell Pete he needs to work on his backhand.\" But that's
+But I don't. I know it could be a lot better. People tell me "Lansdorp
+only you would tell Pete he needs to work on his backhand." But that's
 the truth.
 
-  ------------------
-
-  ------------------
-
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![A person hitting a ball with a tennis racket Description automatically
-  generated](media_the-lansdorp-one-handed-backhand/media/image10.gif)
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person hitting a ball with a tennis racket Description automatically generated](media_the-lansdorp-one-handed-backhand/media/image10.gif)
 
 Robert Lansdorp is the legendary Southern California coach who has
 developed dozens of world class junior and professional players.

@@ -24,22 +24,21 @@ this article are:**
 | **- THERE ARE THREE TYPES OF MUSCULAR CONTRACTIONS -** |
 | --- |
 | ----------------------------------------------------- |
-| 1\. ISOMETRIC             result in no change in |
+| 1. ISOMETRIC             result in no change in |
 | CONTRACTIONS:             length of the muscle\ |
 | (example: pushing against a |
 | wall) |
 | ------------------------- --------------------------- |
-| 2\. CONCENTRIC            result in a shortening of |
+| 2. CONCENTRIC            result in a shortening of |
 | CONTRACTIONS:             the muscle\ |
 | (example: the up phase of a |
 | bicep curl) |
 |  |
-| 3\. ECCENTRIC             result in a lengthening of |
+| 3. ECCENTRIC             result in a lengthening of |
 | CONTRACTIONS:             the muscle\ |
 | (example: the down phase of |
 | a bicep curl) |
 | ----------------------------------------------------- |
-
 
 **[The movers of the body are the muscles.]** **Through their
 attachments to the bones by way of the tendons, they provide us with the
@@ -52,7 +51,7 @@ cross-sectional size of a muscle. So, let's look at the types of muscle
 contractions that are available to us, how to stress the muscle in
 specific ways and how this can help your game.\
 \
-**\"Eccentric\" contractions are a very important type of muscle
+**"Eccentric" contractions are a very important type of muscle
 contraction. They** are responsible for slowing
 movements down, and then reversing that direction. This means that
 without eccentric strength it would be impossible to run or even walk.
@@ -73,11 +72,11 @@ when performing a squat exercise, try performing one of your sets
 eccentrically.\
 \
 After removing the bar from the rack, lower it slowly, using a count of
-6 to reach the deepest position. This is called the \"descent\" phase of
+6 to reach the deepest position. This is called the "descent" phase of
 the lift. When you reach the bottom of your squat you'll have to enlist
 an isometric contraction to completely stop, then follow this with a
 concentric contraction to get out of the down position. The concentric
-phase is known as the \"ascent\" phase and consists of acceleration the
+phase is known as the "ascent" phase and consists of acceleration the
 bar up to a starting position on the count of two, This technique should
 be repeated for 6-8 repetitions in a single set. Perform these eccentric
 lifts once per week for one or two of your large muscle group exercises
@@ -104,8 +103,8 @@ single set of 145 contractions at each angle ranging from 0-145 degrees
 (the normal range of motion for the elbow).\
 \
 However, think back to that squat exercise. As the body decelerates and
-lowers, there is a very brief \"hold\" position before it starts to rise
-again. Strength can be improved in the \"hold\" position by doing a set
+lowers, there is a very brief "hold" position before it starts to rise
+again. Strength can be improved in the "hold" position by doing a set
 of functional isometrics. This can be accomplished by using a power rack
 or load that is impossible for you to move. Place the weighted bar in a
 position that you want to build strength in, i.e., 140 degrees of knee
@@ -117,7 +116,7 @@ you through the weaker points in the joint range of motion, at a
 sticking point or even help strengthen a particular position in your
 stroke.\
 \
-**The final contraction type is the \"concentric\" or shortening of a
+**The final contraction type is the "concentric" or shortening of a
 muscle.** As you resist an external load in an
 exercise such as a squat, the concentric phase comes during the ascent
 or raising of the bar. As the bar is driven upward, it is accelerated.
@@ -127,8 +126,8 @@ hypertrophy or body building. **As the muscle shortens, it bunches
 together and this bulk equates to muscle size.** It
 should not however, be associated with strength output. A muscle does
 not have to be big and bulky to have the ability to develop force. It is
-of interest that **strength studies have shown that the \"speed of
-contraction\" is important in a muscle's ability to create power (force
+of interest that **strength studies have shown that the "speed of
+contraction" is important in a muscle's ability to create power (force
 development rapidly).** **So, the concentric
 contractions should be performed at a tempo that is fairly rapid in
 movement.** **This gives a tennis player the best
@@ -140,7 +139,7 @@ revisit the eccentric contractions. We need to have eccentric strength
 when we move side to side, as well as up and back. This ability allows
 us to come to a stop more quickly, and then reverse the direction we
 were coming from. All too often when you see people exercising with
-weights you can see them almost allowing the bar to \"freefall\" with
+weights you can see them almost allowing the bar to "freefall" with
 gravity in the descent phase. They are not working the eccentric muscle
 contraction and in turn missing a big part of the muscle development
 necessary for improvement in tennis.\
@@ -153,40 +152,33 @@ muscle development in this area, an athlete can become quicker and more
 injury free. So, the moral to the story becomes: **every once in a
 while, work on slowing down, before you speed up.**
 
-  ---------------------------------------------------------
-  *(Before beginning any exercise program consult with your
-  physician.)*
-  ---------------------------------------------------------
-
-  ---------------------------------------------------------
+*(Before beginning any exercise program consult with your
+physician.)*
 
 *This article appeared in the USTA Sport Science for Tennis Newsletter -
 Fall 1995 issue.*
 
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                                                           ![A person in a suit smiling Description automatically generated with low
-        confidence](media_eccentric-strength-in-tennis/media/image1.jpeg)Donald Chu received his Ph.D. from Stanford University in 1974. His degree in Physical Therapy is also from Stanford. He has a
-     Masters in Kinesiology & Physical Education from CSU, Hayward. He is a professor emeritus from CSU, Hayward after a teaching career spanning over twenty years.
-  During the time from 1997- 2001, Dr. Chu served as the Program Director of the Ohlone College Physical Therapist Assistant program. From 2001-2003, Dr. Chu served
-               as the Director of Athletic Training & Rehabilitation at Stanford University. He is currently Clinic Director of Athercare Fitness & Rehabilitation.\
-                                                                                                                                                                   \
-            He holds certifications as an Athletic Trainer (ATC) from the National Athletic Trainers Association (NATA) and as a Certified Strength and Conditioning
-            Specialist (CSCS) from the National Strength & Conditioning Association (NSCA). He has served on the Board of Directors for both organizations, and is a
-    Past-President of the NSCA. Currently, Dr. Chu is the President of the California State Board of Physical Therapy, and serves as a public member on the Board of
-                                                                                                                       Interior Design for the State of California.\
-                                                                                                                                                                   \
-       He is the author of "Jumping into Plyometrics, 2nd edition", "Power Tennis Training", "Explosive Strength & Power" (Human Kinetics publisher) and "Plyometric
-     exercises with the Medicine Ball, 2nd edition" (Bittersweet publishing). He has authored several chapters in books on Sports Medicine, particularly in both the
-                                                                                                                area of rehabilitation and performance enhancement.\
-                                                                                                                                                                   \
-       Dr. Chu has consulted with elite athletes at every level on the development of training and conditioning programs. His past clients include athletes from the
-  1984, 88, 92, 96 and 2000 Summer Olympics, and Professional athletes from the NFL, NBA, and MLB. He designed training programs for 2002 Winter Olympic hopefuls in
-     the skeleton, and bobsled events. He also designed the strength & conditioning programs for Erica Wheeler, 2003 US National Champion in the Women's Javelin. He
-                                              developed strength and conditioning programs for the Bronze Medal winning 2004 US Olympic Synchronized Swimming team.\
-                                                                                                                                                                   \
-     In addition to his specific work with athletes he does consulting with Physical Therapy practices on improving patient care, business development and expansion
-      into the areas of performance enhancement. He is also serving as an Expert Witness in litigation involving rehabilitation, fitness and physical therapy areas.
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------
-    ![link](media_eccentric-strength-in-tennis/media/image2.gif)
+![A person in a suit smiling Description automatically generated with low confidence](media_eccentric-strength-in-tennis/media/image1.jpeg)Donald Chu received his Ph.D. from Stanford University in 1974. His degree in Physical Therapy is also from Stanford. He has a
+Masters in Kinesiology & Physical Education from CSU, Hayward. He is a professor emeritus from CSU, Hayward after a teaching career spanning over twenty years.
+During the time from 1997- 2001, Dr. Chu served as the Program Director of the Ohlone College Physical Therapist Assistant program. From 2001-2003, Dr. Chu served
+as the Director of Athletic Training & Rehabilitation at Stanford University. He is currently Clinic Director of Athercare Fitness & Rehabilitation.\
+\
+He holds certifications as an Athletic Trainer (ATC) from the National Athletic Trainers Association (NATA) and as a Certified Strength and Conditioning
+Specialist (CSCS) from the National Strength & Conditioning Association (NSCA). He has served on the Board of Directors for both organizations, and is a
+Past-President of the NSCA. Currently, Dr. Chu is the President of the California State Board of Physical Therapy, and serves as a public member on the Board of
+Interior Design for the State of California.\
+\
+He is the author of "Jumping into Plyometrics, 2nd edition", "Power Tennis Training", "Explosive Strength & Power" (Human Kinetics publisher) and "Plyometric
+exercises with the Medicine Ball, 2nd edition" (Bittersweet publishing). He has authored several chapters in books on Sports Medicine, particularly in both the
+area of rehabilitation and performance enhancement.\
+\
+Dr. Chu has consulted with elite athletes at every level on the development of training and conditioning programs. His past clients include athletes from the
+1984, 88, 92, 96 and 2000 Summer Olympics, and Professional athletes from the NFL, NBA, and MLB. He designed training programs for 2002 Winter Olympic hopefuls in
+the skeleton, and bobsled events. He also designed the strength & conditioning programs for Erica Wheeler, 2003 US National Champion in the Women's Javelin. He
+developed strength and conditioning programs for the Bronze Medal winning 2004 US Olympic Synchronized Swimming team.\
+\
+In addition to his specific work with athletes he does consulting with Physical Therapy practices on improving patient care, business development and expansion
+into the areas of performance enhancement. He is also serving as an Expert Witness in litigation involving rehabilitation, fitness and physical therapy areas.
+![Video demonstration](media_eccentric-strength-in-tennis/media/image2.gif)
 
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------
+*Video demonstration — the original video for this article was hosted on TennisPlayer.net.*

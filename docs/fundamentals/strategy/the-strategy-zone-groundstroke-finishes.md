@@ -4,15 +4,11 @@
 
 ### Nick Bollettierri with Lance Luciani
 
-------------------------------------------------------------------------
-
-![A tennis player is holding a racket Description automatically
-generated with low
-confidence](media_the-strategy-zone-groundstroke-finishes/media/image1.webp)
+![A tennis player is holding a racket Description automatically generated with low confidence](media_the-strategy-zone-groundstroke-finishes/media/image1.webp)
 
 **The top players make up their minds and then finish. But how?**
 
-The final component in the Strategy Zone system is called \"Finish.\"
+The final component in the Strategy Zone system is called "Finish."
 How do you hit winners in match play against a wide variety of
 opponents?
 
@@ -20,12 +16,12 @@ I've been very fortunate to work with many of the best players in the
 world. Andre Agassi, Monica Seles, Venus Williams, Serena Williams,
 Tommy Haas, and Maria Sharapova, among many others. These players know
 when to finish. They make up their mind, and that's it. But how do they
-know when to and how do they execute\> Those are the key questions.
+know when to and how do they execute> Those are the key questions.
 
 **3 Components**
 
 In previous articles we've looked at how to establish the first two
-components of winning strategy \"Control\" and \"Hurt.\" You can learn
+components of winning strategy "Control" and "Hurt." You can learn
 to create Control with your groundstrokes, with your return, and with
 your serve. ([link](The%20Strategy%20Zone%20-%20Introduction.docx).)
 
@@ -33,12 +29,11 @@ Control leads directly to Hurt. Hurt means learning how to hit various
 shot combinations once you are in control of the point, shot
 combinations that punish your opponent and/or keep him on the run.
 
-![A person playing tennis Description automatically
-generated](media_the-strategy-zone-groundstroke-finishes/media/image2.webp)
+![A person playing tennis Description automatically generated](media_the-strategy-zone-groundstroke-finishes/media/image2.webp)
 
 **Agassi demonstrates a simple change of direction to Finish.**
 
-**These first two steps\--Control and Hurt\--set you up to Finish. You
+**These first two steps--Control and Hurt--set you up to Finish. You
 can't jump over the steps.** I can't stress too
 strongly that for top players, winners are part of a sequence that you
 build over the course of the point.
@@ -58,9 +53,7 @@ At the Academy we work on hitting the finishing or put away shot
 everyday. But your understanding of the Control and Hurt phases is what
 leads to better choices about when to hit the winning shot.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_the-strategy-zone-groundstroke-finishes/media/image3.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_the-strategy-zone-groundstroke-finishes/media/image3.webp)
 
 **Federer hits a wide serve, then moves forward to finish.**
 
@@ -83,9 +76,7 @@ In this article we'll start by exploring the basic finishing shots off
 the ground. In upcoming articles, we'll also look at the various
 finishing strategies at the net.
 
-![A couple of people playing tennis Description automatically generated
-with low
-confidence](media_the-strategy-zone-groundstroke-finishes/media/image4.webp)
+![A couple of people playing tennis Description automatically generated with low confidence](media_the-strategy-zone-groundstroke-finishes/media/image4.webp)
 
 **A drive to the open court court and a change of direction to finish.**
 
@@ -113,9 +104,7 @@ the various combinations of aggressive footwork used by pro players.
 [link](../Footwork/Footwork%20TOC.docx) You can get more
 details on the specific patterns in his articles.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_the-strategy-zone-groundstroke-finishes/media/image5.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_the-strategy-zone-groundstroke-finishes/media/image5.webp)
 
 **Instant recognition, explosive forward movement, and a forehand
 finish.**
@@ -154,9 +143,7 @@ first two phases are designed to illicit a weak reply so that we can hit
 the Finish shot into a large target area when possible. Placement is
 actually much more important than power.**
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_the-strategy-zone-groundstroke-finishes/media/image6.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_the-strategy-zone-groundstroke-finishes/media/image6.webp)
 
 **Test your basic ability to hit finishing shots to the target areas.**
 
@@ -174,7 +161,7 @@ the expense of the geometric construction of winning
 points.** **This may sound harsh but it's true.
 Unless you can effectively hit the patterns outlined in this series, all
 the information you believe you have mastered about technique is has
-very little value\--at least if you goal is to win
+very little value--at least if you goal is to win
 matches.**
 
 The animation shows the drills you should use to evaluate the current
@@ -189,9 +176,7 @@ hit the target areas out of 5 balls, or 10 balls. Do it for all the
 shots and variations above. if you want to win points you should be able
 very comfortable hitting the targets 8 of 10 times on a regular basis.
 
-![A picture containing tennis, sky, sport, court Description
-automatically
-generated](media_the-strategy-zone-groundstroke-finishes/media/image7.webp)
+![A picture containing tennis, sky, sport, court Description automatically generated](media_the-strategy-zone-groundstroke-finishes/media/image7.webp)
 
 **Finishing shots off the ground come when half the court is open.**
 
@@ -226,9 +211,7 @@ areas of the open court is the bread and butter for winning point after
 point at all levels, and ultimately, winning
 matches.**
 
-![Tennis players on a court Description automatically generated with
-medium
-confidence](media_the-strategy-zone-groundstroke-finishes/media/image8.webp)
+![Tennis players on a court Description automatically generated with medium confidence](media_the-strategy-zone-groundstroke-finishes/media/image8.webp)
 
 **To finish on the short ball, the player needs to come forward into the
 court at least halfway between the baseline and the service line.**
@@ -254,29 +237,24 @@ court.
 Next we'll start to look at the other possible Finish combinations at
 the net, including the swinging volleys.
 
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![A couple of men holding tennis rackets Description automatically generated with medium                                                                                                 Nick Bollettieri (right) is the legendary coach
-  confidence](media_the-strategy-zone-groundstroke-finishes/media/image9.jpeg)                                                                                                                                                           Seles, Andre Agassi, Jim Courier, and Maria
-                                                                                                                                                                                           Sharapova. Nick is the creator of the tennis
-                                                                                                                                                                                           academy concept and has watched his vision grow
-                                                                                                                                                                                           for over 30 years into the world's premier
-                                                                                                                                                                                           tennis training ground at IMG Bollettieri in
-                                                                                                                                                                                           Bradenton, Florida. Over the years Nick has
-                                                                                                                                                                                           collaborated with many of the leading innovators
-                                                                                                                                                                                           in coaching, introducing and incorporating their
-                                                                                                                                                                                           concepts into training programs at the Academy.\
-                                                                                                                                                                                           \
-                                                                                                                                                                                           Lance Luciani (left), the founder of Strategy
-                                                                                                                                                                                           Zone, is one of the world's leading analysts of
-                                                                                                                                                                                           statistics and strategy, and the Head of
-                                                                                                                                                                                           Strategy and Tactics at IMG/Bollettieri
-                                                                                                                                                                                           Academies. Lance was a pioneer in the video
-                                                                                                                                                                                           analysis of match play at all levels of the
-                                                                                                                                                                                           game. At the Academy he has created the cutting
-                                                                                                                                                                                           edge system used by players to study the
-                                                                                                                                                                                           patterns of their points from real time play.
-                                                                                                                                                                                           This system is revolutionizing how competitors
-                                                                                                                                                                                           develop and improve their strategic style.
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ------------------------------------------------
-
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A couple of men holding tennis rackets Description automatically generated with medium                                                                                                 Nick Bollettieri (right) is the legendary coach confidence](media_the-strategy-zone-groundstroke-finishes/media/image9.jpeg)                                                                                                                                                           Seles, Andre Agassi, Jim Courier, and Maria
+Sharapova. Nick is the creator of the tennis
+academy concept and has watched his vision grow
+for over 30 years into the world's premier
+tennis training ground at IMG Bollettieri in
+Bradenton, Florida. Over the years Nick has
+collaborated with many of the leading innovators
+in coaching, introducing and incorporating their
+concepts into training programs at the Academy.\
+\
+Lance Luciani (left), the founder of Strategy
+Zone, is one of the world's leading analysts of
+statistics and strategy, and the Head of
+Strategy and Tactics at IMG/Bollettieri
+Academies. Lance was a pioneer in the video
+analysis of match play at all levels of the
+game. At the Academy he has created the cutting
+edge system used by players to study the
+patterns of their points from real time play.
+This system is revolutionizing how competitors
+develop and improve their strategic style.

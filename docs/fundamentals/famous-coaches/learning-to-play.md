@@ -4,9 +4,7 @@
 
 **Jose Higueras**
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_learning-to-play/media/image1.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_learning-to-play/media/image1.webp)
 
 **American players hit the ball as well as any players in the world.**
 
@@ -37,9 +35,7 @@ about point play. The basic idea underlying this is that every ball that
 you hit has an effect on your opponent, either positive or negative. 
 And what that effect is depends on how well you execute on every ball.  
 
-![A picture containing athletic game, sport, tennis, table Description
-automatically
-generated](media_learning-to-play/media/image2.webp)
+![A picture containing athletic game, sport, tennis, table Description automatically generated](media_learning-to-play/media/image2.webp)
 
 **European players understand patterns and how every shot has an
 effect.**
@@ -73,14 +69,13 @@ dead.** 
 To me he's not really playing tennis. He's just hitting the ball
 because the ball comes to his side. 
 
-![A person playing tennis Description automatically
-generated](media_learning-to-play/media/image3.webp)
+![A person playing tennis Description automatically generated](media_learning-to-play/media/image3.webp)
 
 **It's a myth that top players never hit the ball moving backwards.**
 
 You see the same thing when a kid plays close to the baseline. If he
 hits a shot that doesn't penetrate enough but he doesn't move back to
-neutral, he's telling me the same thing\--that's he not really
+neutral, he's telling me the same thing--that's he not really
 playing. Very likely an error is going to come as soon as the opponent
 hits a ball deep with decent pace. 
 
@@ -102,9 +97,7 @@ I still go by some of the terms that I grew up with in Spain that aren't
 common here**[[.  If I could say it in one word, I would say good
 players know how to "receive" the ball.] ]**
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_learning-to-play/media/image4.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_learning-to-play/media/image4.webp)
 
 **If you receive the ball well, then you can send it well.**
 
@@ -130,7 +123,7 @@ somebody pressures you with the ball?"  And some players will say, "No,
 I don't like to go back." And I'll say "Well, neither do I." **[[But
 there is a need to do this when you play against good players. You can't
 always just play on top of the baseline.] ]**\
- \
+\
 That was probably what made the difference in Andre Agassi's case. He
 probably had the best hands of anyone in the word. He saw the ball
 earlier and came to the ball earlier than anyone. 
@@ -142,8 +135,7 @@ equipment, you can hit the ball very well while you are actually moving
 back. It's a myth that the top players don't hit the ball going
 backwards. You see it all the time.
 
-![A person playing tennis Description automatically
-generated](media_learning-to-play/media/image5.webp)
+![A person playing tennis Description automatically generated](media_learning-to-play/media/image5.webp)
 
 **When Agassi learned to adjust his contact height that made a big
 difference in his results.**
@@ -171,8 +163,7 @@ little, it's an error. So when I push kids side to side, I ask them to
 go crosscourt a high percentage of the time. If they can go crosscourt,
 then can go down the line.
 
-![A person playing tennis Description automatically
-generated](media_learning-to-play/media/image6.webp)
+![A person playing tennis Description automatically generated](media_learning-to-play/media/image6.webp)
 
 **The goal is to get the feet together with the mind and the racket.**
 
@@ -201,9 +192,7 @@ Did I win the point or lose the point? That's what everyone worries
 about. But I always say that a good player knows when he has won the
 point, but still done the wrong thing. 
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_learning-to-play/media/image7.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_learning-to-play/media/image7.webp)
 
 **I ask players to go crosscourt a high percentage of the time from wide
 positions.**
@@ -234,9 +223,7 @@ get as playing a real match, so unless you were born with great
 instincts and a great eye and a great feel for the game, you're going
 to learn how to play by playing practice matches. 
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_learning-to-play/media/image8.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_learning-to-play/media/image8.webp)
 
 **Good decisions mean trying for the right shot at the right time.**
 
@@ -259,9 +246,7 @@ was playing on the tour, I traveled with another player. We were good
 friends and he used to beat me in practice consistently, and I used to
 get very upset. 
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_learning-to-play/media/image9.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_learning-to-play/media/image9.webp)
 
 **When you play practice matches play the way you really want to play.**
 
@@ -272,7 +257,7 @@ But my friend never beat me in a tournament match. And then I discovered
 the secret. **[[This is how pressure comes into play. In practice we had
 to bet something. With something on the line, pressure came into play
 and that changed the outcome of our practice matches as well.]
- ]**
+]**
 
 In my opinion, there is way too much weight placed on the outcome of
 practice matches.  Practice basically counts for practice. It doesn't
@@ -295,9 +280,7 @@ matches a week. Therefore, they're serious matches. But once again, you
 have to make the kids understand that practice only counts for
 practice. 
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_learning-to-play/media/image9.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_learning-to-play/media/image9.webp)
 
 **Isn't learning to play the game the ultimate goal?**
 
@@ -326,35 +309,62 @@ matches it will much more difficult to actually incorporate changes, and
 you will also have more difficulty learning how to play the game.  And
 playing the game as well as you can, isn't that the goal?
 
-| ![A person with glasses and a tennis racket Description automatically generated with low | Jose Higueras is the Director of Coaching for |
-| --- | --- |
-| confidence](media_learning-to-play/media/image10.jpeg) | Jose won 15 ATP titles and was twice a |
-|  | semi-finalist at the French Open.  After his |
-|  | retirement, he went on to an illustrious career |
-|  | as the coach of multiple world class |
-|  | champions.  His protégés have included Michael |
-|  | Chang, Jim Courier, Todd Martin, Pete Sampras, |
-|  | and most recently Roger Federer.  Jose has also |
-|  | trained hundreds of other successful |
-|  | competitive players at all levels. |
-|  |  |
-|  | Jose Higueras Tennis is based at Smoke Tree |
-|  | Ranch in historic Old Palm Springs, California, |
-|  | where Jose personally trains players on a daily |
-|  | basis.  For more information about Jose's |
-|  | programs, email him at |
-|  | <tennisinfo@higuerastennis.com> |
-| ![A picture containing text, tennis, athletic game, sport Description automatically | Jose Higueras Tennis |
-| generated](media_learning-to-play/media/image11.jpeg) | Jose HiguerasTennis offers personalized |
-|  | coaching that stresses dedication, discipline, |
-|  | and the development of physical and mental |
-|  | toughness.  Enrollment is limited to eight |
-|  | students, with boarder and non-boarders |
-|  | welcome.  Located in Old Palm Springs at the |
-|  | historic Smoke Tree Ranch, the facilities are |
-|  | world class, the surroundings are breathtaking, |
-|  | and the sun shines 350 days a year. |
-|  |  |
-|  | [! ](http://www.higuerastennis.com/) |
-|  | To find out a |
+![A person with glasses and a tennis racket Description automatically generated with low confidence](media_learning-to-play/media/image10.jpeg)
 
+![A picture containing text, tennis, athletic game, sport Description automatically generated](media_learning-to-play/media/image11.jpeg)
+
+Jose Higueras is the Director of Coaching for
+
+Jose won 15 ATP titles and was twice a
+
+semi-finalist at the French Open.  After his
+
+retirement, he went on to an illustrious career
+
+as the coach of multiple world class
+
+champions.  His protégés have included Michael
+
+Chang, Jim Courier, Todd Martin, Pete Sampras,
+
+and most recently Roger Federer.  Jose has also
+
+trained hundreds of other successful
+
+competitive players at all levels.
+
+Jose Higueras Tennis is based at Smoke Tree
+
+Ranch in historic Old Palm Springs, California,
+
+where Jose personally trains players on a daily
+
+basis.  For more information about Jose's
+
+programs, email him at
+
+<tennisinfo@higuerastennis.com>
+
+Jose Higueras Tennis
+
+Jose HiguerasTennis offers personalized
+
+coaching that stresses dedication, discipline,
+
+and the development of physical and mental
+
+toughness.  Enrollment is limited to eight
+
+students, with boarder and non-boarders
+
+welcome.  Located in Old Palm Springs at the
+
+historic Smoke Tree Ranch, the facilities are
+
+world class, the surroundings are breathtaking,
+
+and the sun shines 350 days a year.
+
+[! ](http://www.higuerastennis.com/)
+
+To find out a

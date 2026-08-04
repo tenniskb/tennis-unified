@@ -2,19 +2,15 @@
 
 ### Craig Cignarelli
 
-------------------------------------------------------------------------
-
-![A picture containing sport, athletic game, green, tennis Description
-automatically
-generated](media_pro-patterns-basic-diagonals/media/image1.webp)
+![A picture containing sport, athletic game, green, tennis Description automatically generated](media_pro-patterns-basic-diagonals/media/image1.webp)
 
 **The bottom line: geometric patterns of ball movement are critical to
 advanced achievement.**
 
 When start to work with a new player, I like to ask a simple question.
-\"How do you develop a point in order to win?\" \"What do you mean?\"
-\"I mean what are your patterns?\" \"What do you mean patterns? There
-are patterns of play?\"
+"How do you develop a point in order to win?" "What do you mean?"
+"I mean what are your patterns?" "What do you mean patterns? There
+are patterns of play?"
 
 Many players, including some who have had success at fairly high levels,
 do not recognize that control of the patterns in match play is usually
@@ -24,9 +20,7 @@ tennis players. I believe that understanding the dimensions of the
 tennis court and the geometric patterns of ball movement are critical
 ingredients to advanced achievement in this game.
 
-![A picture containing athletic game, sport, tennis, match Description
-automatically
-generated](media_pro-patterns-basic-diagonals/media/image2.webp)\
+![A picture containing athletic game, sport, tennis, match Description automatically generated](media_pro-patterns-basic-diagonals/media/image2.webp)\
 **The bottom line: style versus style.**
 
 **Style Versus Style**
@@ -46,9 +40,7 @@ play. Rather than simply theorizing, we are going to look at actual pro
 points filmed in live tournament play, starting with backcourt points
 and in future articles, moving on to approach and serve and volley.
 
-![A picture containing sport, athletic game, tennis, court Description
-automatically
-generated](media_pro-patterns-basic-diagonals/media/image3.webp)
+![A picture containing sport, athletic game, tennis, court Description automatically generated](media_pro-patterns-basic-diagonals/media/image3.webp)
 
 **One theme: punish your opponent for trying to change the direction of
 the rally.**
@@ -72,8 +64,7 @@ direction.**
 **5. Move a slow opponent using consistency and depth on all shots until
 you receive a short ball or floater to attack.**
 
-![A person playing tennis Description automatically generated with low
-confidence](media_pro-patterns-basic-diagonals/media/image4.webp)
+![A person playing tennis Description automatically generated with low confidence](media_pro-patterns-basic-diagonals/media/image4.webp)
 
 **What crosscourt rally favors you?**
 
@@ -88,9 +79,7 @@ the high percentage shot. The net is lower, the court is longer, your
 hips are not restricted by the shot, the shot does not require a risky
 change of ball direction, and your recovery distance is minimized.
 
-![A picture containing sport, athletic game, tennis, match Description
-automatically
-generated](media_pro-patterns-basic-diagonals/media/image5.webp)
+![A picture containing sport, athletic game, tennis, match Description automatically generated](media_pro-patterns-basic-diagonals/media/image5.webp)
 
 **Mastery of the crosscourt means victory through intelligence not
 ego.**
@@ -115,9 +104,7 @@ There is also a fourth possible crosscourt exchange: inside-out backhand
 to forehand that a few players (Daniela Hantuchova and Serena and Venus
 Williams) use effectively.
 
-![A picture containing tennis, sport, athletic game, court Description
-automatically
-generated](media_pro-patterns-basic-diagonals/media/image6.webp)
+![A picture containing tennis, sport, athletic game, court Description automatically generated](media_pro-patterns-basic-diagonals/media/image6.webp)
 
 **A deep crosscourt and a shorter angled crosscourt are actually 2
 different shots.**
@@ -131,18 +118,16 @@ their points.**
 **[In working with my players, I use this terminology in describing how
 to put patterns together:]**
 
-**1. \"Cross\": a basic deep crosscourt shot which crosses the baseline
+**1. "Cross": a basic deep crosscourt shot which crosses the baseline
 before it crosses the singles sideline.**
 
-**2. \"Angle\": a ball struck on the outside, with spin, to create a
+**2. "Angle": a ball struck on the outside, with spin, to create a
 shorter angle which drives an opponent outside the singles sidelines
 before it crosses the baseline.**
 
-**3. \"Line\": a shot hit down the line.**
+**3. "Line": a shot hit down the line.**
 
-![A picture containing sport, tennis, athletic game, outdoor Description
-automatically
-generated](media_pro-patterns-basic-diagonals/media/image7.webp)
+![A picture containing sport, tennis, athletic game, outdoor Description automatically generated](media_pro-patterns-basic-diagonals/media/image7.webp)
 
 **A favorite Agassi pattern: working the crosscourt then a down the line
 winner.**
@@ -162,9 +147,7 @@ hitting an approach shot down the line instead of a groundstroke winner.
 
 **Find the Right Pattern**
 
-![A picture containing sport, athletic game, tennis, match Description
-automatically
-generated](media_pro-patterns-basic-diagonals/media/image8.webp)
+![A picture containing sport, athletic game, tennis, match Description automatically generated](media_pro-patterns-basic-diagonals/media/image8.webp)
 
 **A basic winning strategy is shot tolerance. Establish a favorable
 crosscourt pattern and wait for your opponent's errors.**
@@ -183,13 +166,11 @@ player has established this crosscourt rally, he can then move into the
 construction phase of the point.
 
 There are two basic ways the crosscourt rally can work to win you points
-in actual play. The simplest is based on the concept of \"shot
-tolerance.\" Once you have established a favorable crosscourt baseline
+in actual play. The simplest is based on the concept of "shot
+tolerance." Once you have established a favorable crosscourt baseline
 rally, you begin to look for an opponent's mistakes.
 
-![A picture containing sport, tennis, athletic game, court Description
-automatically
-generated](media_pro-patterns-basic-diagonals/media/image9.webp)
+![A picture containing sport, tennis, athletic game, court Description automatically generated](media_pro-patterns-basic-diagonals/media/image9.webp)
 
 **A favorable crosscourt rally yields the short ball for the down the
 line winner.**
@@ -213,17 +194,15 @@ eventually, his ball lands short or is hit close to the middle of the
 court. You can achieve this using depth, angles, short slices, height,
 pace, or sheer patience.**
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_pro-patterns-basic-diagonals/media/image10.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_pro-patterns-basic-diagonals/media/image10.webp)
 
-**What all great players want\--the short ball.**
+**What all great players want--the short ball.**
 
 It is up to the player to find the type of shot, which causes his
 opponent to produce a short ball and once spotted, stay with the
 crosscourt rally until you can initiate that shot in every rally.
 **Once accomplished, the reward is what all, great tennis players
-dream about\-\--THE SHORT BALL.**
+dream about---THE SHORT BALL.**
 
 **The play is developed and finished in one or two shots. Either, the
 ball is so short that you can hit an outright winner, or you will strike
@@ -238,9 +217,7 @@ net-rusher to assume the volley position more easily, and so the first
 volley can drive an opponent off the court with an angled volley beyond
 the singles line.**
 
-![A picture containing sport, athletic game, tennis, court Description
-automatically
-generated](media_pro-patterns-basic-diagonals/media/image11.webp)
+![A picture containing sport, athletic game, tennis, court Description automatically generated](media_pro-patterns-basic-diagonals/media/image11.webp)
 
 **Venus creates space with the forehand crosscourt, attacks down the
 line and finishes with the volley.**
@@ -261,9 +238,7 @@ type of play. Playing the forehand pattern, it is important to note that
 you are trying to set up a finishing shot or attacking shot down the
 line.
 
-![A picture containing tennis, sport, athletic game, court Description
-automatically
-generated](media_pro-patterns-basic-diagonals/media/image12.webp)
+![A picture containing tennis, sport, athletic game, court Description automatically generated](media_pro-patterns-basic-diagonals/media/image12.webp)
 
 **A favorable backhand crosscourt pattern will lead to winners down the
 line or inside in.**
@@ -287,9 +262,7 @@ opponent's forehand side. This is effective against a slow mover, a
 weak running forehand, a western grip forehand, or a player who cannot
 hit backhand angles**.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_pro-patterns-basic-diagonals/media/image13.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_pro-patterns-basic-diagonals/media/image13.webp)
 
 **The inside out diagonal leads to inside in winners.**
 
@@ -314,8 +287,7 @@ often hits to the middle of the court. A player playing him from the
 baseline, is not going to win many rallies from either crosscourt
 diagonal.
 
-![A person playing tennis Description automatically
-generated](media_pro-patterns-basic-diagonals/media/image14.webp)
+![A person playing tennis Description automatically generated](media_pro-patterns-basic-diagonals/media/image14.webp)
 
 **The running crosscourt: a small Agassi weakness.**
 
@@ -335,9 +307,7 @@ of the game.
 
 **Hitting Behind**
 
-![A picture containing sport, athletic game, tennis, court Description
-automatically
-generated](media_pro-patterns-basic-diagonals/media/image15.webp)
+![A picture containing sport, athletic game, tennis, court Description automatically generated](media_pro-patterns-basic-diagonals/media/image15.webp)
 
 **Another way of attacking is to hit behind your opponent.**
 
@@ -360,9 +330,7 @@ professional shot and takes tons of repetition to master, but one that
 is required in pro tennis. Even if it doesn't create a winner, the
 response will be a very short ball and the court will be wide open.
 
-![A picture containing athletic game, sport, tennis, green Description
-automatically
-generated](media_pro-patterns-basic-diagonals/media/image16.webp)
+![A picture containing athletic game, sport, tennis, green Description automatically generated](media_pro-patterns-basic-diagonals/media/image16.webp)
 
 **You can move a slower opponent and hit down the line earlier without
 fearing the crosscourt reply.**
@@ -388,9 +356,7 @@ him far out of position. You want to tempt him to try low percentage
 down the shots or to overhit from deep in the court. Or you might cause
 him to make errors off a soft slice.
 
-![A picture containing athletic game, sport, tennis, court Description
-automatically
-generated](media_pro-patterns-basic-diagonals/media/image17.webp)
+![A picture containing athletic game, sport, tennis, court Description automatically generated](media_pro-patterns-basic-diagonals/media/image17.webp)
 
 **By going back down the line, Agassi forces his opponent to try to play
 offense from his weaker side.**
@@ -418,8 +384,7 @@ the inside out forehand position with more risk because of your
 opponent's weakness. You may have a great running forehand so you will
 expose your vulnerability and challenge your opponent to beat you there.
 
-![A person playing tennis Description automatically
-generated](media_pro-patterns-basic-diagonals/media/image18.webp)
+![A person playing tennis Description automatically generated](media_pro-patterns-basic-diagonals/media/image18.webp)
 
 **Sampras would expose his forehand and challenge players to beat him.**
 
@@ -445,8 +410,7 @@ answer is shorter (although, surprisingly, the answer doesn't always
 seem obvious to my students). Less weight transfer into the ball means
 less power, and this means less depth.
 
-![A person playing tennis Description automatically
-generated](media_pro-patterns-basic-diagonals/media/image19.webp)
+![A person playing tennis Description automatically generated](media_pro-patterns-basic-diagonals/media/image19.webp)
 
 **The right response when moving back is to add height.**
 
@@ -488,15 +452,12 @@ players battle to get control of the diagonals, impose their favorite
 patterns, and switch the patterns that favor their
 opponents.**
 
-![A tennis player on a court Description automatically generated with
-medium
-confidence](media_pro-patterns-basic-diagonals/media/image20.webp)
+![A tennis player on a court Description automatically generated with medium confidence](media_pro-patterns-basic-diagonals/media/image20.webp)
 
 **Which player is using angles and driving the opponent outside the
 singles lines?**
 
-![A person holding a tennis racket Description automatically
-generated](media_pro-patterns-basic-diagonals/media/image21.jpeg)
+![A person holding a tennis racket Description automatically generated](media_pro-patterns-basic-diagonals/media/image21.jpeg)
 
 Craig Cignarelli is one of the most prolific and successful
 developmental coaches in the country. His original analysis of
@@ -506,5 +467,5 @@ personally nurtured 4 junior players from the beginning of their careers
 who have gone on to achieve #1 national rankings. Currently he is
 working with a cadre of aspiring WTA and ATP players, as well as
 competitive juniors at all levels. Versed in 4 languages, Craig is
-completing his first book \"What Champions Know,\" which forms the basis
+completing his first book "What Champions Know," which forms the basis
 for his articles on Tennisplayer.

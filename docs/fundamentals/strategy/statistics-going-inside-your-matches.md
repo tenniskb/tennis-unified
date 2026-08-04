@@ -2,24 +2,17 @@
 
 ### By John Yandell
 
-------------------------------------------------------------------------
-
 Charting a series of matches can take a player inside his or her own
 game in a way that is usually impossible in any other way. Match
 charting can identify a player's weapons and show how well they are
 being utilized. It can reveal a players' hidden strengths and
 weaknesses, and measure undeveloped potential.
 
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                 ![A person playing tennis Description automatically generated with medium
-   confidence](media_statistics-going-inside-your-matches/media/image1.jpg)
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                      **A better looking more powerful forehand, but how to use it?**
-
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person playing tennis Description automatically generated with medium confidence](media_statistics-going-inside-your-matches/media/image1.jpg)
+**A better looking more powerful forehand, but how to use it?**
 
 Statistics can show that a particular player has the game he or she
-needs to win against opponents who are supposedly at \"a higher level.\"
+needs to win against opponents who are supposedly at "a higher level."
 Often changes in shot selection are the major changes a player needs to
 turn losses into potential victories. This provides a practical
 blueprint that can be a real confidence booster as well.
@@ -57,15 +50,10 @@ tournament in Southern California. She won 5 of these and lost 2.
 Interestingly, some common patterns emerged across all the matches that
 pointed in a very positive direction.
 
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                  ![A child playing tennis Description automatically generated with low
-   confidence](media_statistics-going-inside-your-matches/media/image2.webp)
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                            **Taking the ball early with a classic grip gave Yulia the ability to hit consistent winners on shorter balls.**
+![A child playing tennis Description automatically generated with low confidence](media_statistics-going-inside-your-matches/media/image2.webp)
+**Taking the ball early with a classic grip gave Yulia the ability to hit consistent winners on shorter balls.**
 
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-The most unusual statistic was that in all 7 matches-win or lose\--Yulia
+The most unusual statistic was that in all 7 matches-win or lose--Yulia
 hit more winners than any of her opponents, particularly forehand
 winners. In fact, in the one match in the national tourney in which she
 lost badly, Yulia's winners outnumbered her opponent's almost two to
@@ -88,24 +76,21 @@ The bottom line? Discovering how and when to use her weapons, was her
 biggest challenge. Although she demonstrated the ability to play a
 classic all court game, her main weakness was shot selection.
 
-  ------------------------------------------------------------------------
-  **Match**            **Yulia's       **Opponent's       **Outcome**
-                       Winners**          Winners**      
-  ----------------- ---------------- ------------------- -----------------
-  High School 1            29                 9             W: 6-0, 6-2
+**Match**            **Yulia's       **Opponent's       **Outcome**
+Winners**          Winners**      
+High School 1            29                 9             W: 6-0, 6-2
 
-  High School 2            27                20             W: 6-4, 6-2
+High School 2            27                20             W: 6-4, 6-2
 
-  High School 3            30                28           : 4-6, 6-2, 6-2
+High School 3            30                28           : 4-6, 6-2, 6-2
 
-  High School 4            78                32          W: 6-7, 6-1, 6-3
+High School 4            78                32          W: 6-7, 6-1, 6-3
 
-  National 1               33                10             W: 6-3, 6-0
+National 1               33                10             W: 6-3, 6-0
 
-  National 2               33                25             W: 6-4, 7-5
+National 2               33                25             W: 6-4, 7-5
 
-  National 3               22                12             L: 6-2, 6-0
-  ------------------------------------------------------------------------
+National 3               22                12             L: 6-2, 6-0
 
 These decision-making problems were leading to large numbers of
 unnecessary unforced errors. This in turn was blunting the effectiveness
@@ -134,25 +119,22 @@ Let's see how this tendency affected the outcome of her matches, by
 looking at her Aggressive Margin against various opponents both overall
 and on a stroke-by-stroke basis.
 
-  -----------------------------------------------------------------------
-  **Match**            **Yulia's       **Opponent's      **Outcome**
-                       Aggressive        Aggressive     
-                        Margin**          Margin**      
-  ----------------- ----------------- ----------------- -----------------
-  High School 1          +8/set            -6/set          W: 6-0, 6-2
+**Match**            **Yulia's       **Opponent's      **Outcome**
+Aggressive        Aggressive     
+Margin**          Margin**      
+High School 1          +8/set            -6/set          W: 6-0, 6-2
 
-  High School 2                            5.5/set         W: 6-4, 6-2
+High School 2                            5.5/set         W: 6-4, 6-2
 
-  High School 3         -9.5/set           -4/set         4-6, 6-2, 6-2
+High School 3         -9.5/set           -4/set         4-6, 6-2, 6-2
 
-  High School 4         +1.3/set            0/set       W: 6-7, 6-1, 6-3
+High School 4         +1.3/set            0/set       W: 6-7, 6-1, 6-3
 
-  National 1            +3.5/set           -7/set          W: 6-3, 6-0
+National 1            +3.5/set           -7/set          W: 6-3, 6-0
 
-  National 2            -5.5/set           -8/set          W: 6-4, 7-5
+National 2            -5.5/set           -8/set          W: 6-4, 7-5
 
-  National 3            -11.5/set         -2.5/set         L: 6-2, 6-0
-  -----------------------------------------------------------------------
+National 3            -11.5/set         -2.5/set         L: 6-2, 6-0
 
 The Aggressive Margin, developed by Bill Jacobsen, the father of modern
 tennis statistics, is the total of a player's Winners and Forced Errors
@@ -186,24 +168,21 @@ weren't really there. For example, Yulia hit 14 forehand winners, but
 she also had 17 forehand errors. Most of these errors were caused by
 going for inappropriate shots from deep in the court.
 
-  ------------------------------------------------------------------------
-  **Match**            **Forehand       **Forehand         **Outcome**
-                       Winners**         Errors**      
-  ----------------- ---------------- ----------------- -------------------
-  High School 1            15                5             W: 6-0, 6-2
+**Match**            **Forehand       **Forehand         **Outcome**
+Winners**         Errors**      
+High School 1            15                5             W: 6-0, 6-2
 
-  High School 2            12                9             W: 6-4, 6-2
+High School 2            12                9             W: 6-4, 6-2
 
-  High School 3            14               17            4-6, 6-2, 6-2
+High School 3            14               17            4-6, 6-2, 6-2
 
-  High School 4            37               33          W: 6-7, 6-1, 6-3
+High School 4            37               33          W: 6-7, 6-1, 6-3
 
-  National 1               16               15             W: 6-3, 6-0
+National 1               16               15             W: 6-3, 6-0
 
-  National 2               12               16             W: 6-4, 7-5
+National 2               12               16             W: 6-4, 7-5
 
-  National 3               14               21             L: 6-2, 6-0
-  ------------------------------------------------------------------------
+National 3               14               21             L: 6-2, 6-0
 
 **The backhand side was worse. Yulia hit only 5 winners over 3 sets
 but made a whopping 23 unforced errors. Again, most came from going for
@@ -248,13 +227,8 @@ points - how to work the exchanges over the course of several balls to
 create the opportunity to put her weapons into
 play.**
 
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                             ![A person holding a tennis racket Description automatically
-   generated](media_statistics-going-inside-your-matches/media/image3.webp)
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                               **Staying in back court rallies on deep balls was key, especially on the backhand side.**
-
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person holding a tennis racket Description automatically generated](media_statistics-going-inside-your-matches/media/image3.webp)
+**Staying in back court rallies on deep balls was key, especially on the backhand side.**
 
 **This was true from the baseline. It was also true at the net. She
 had success in a handful of points with her volleys and overheads. She
@@ -295,24 +269,21 @@ Her 14 forehand winners were offset by 21 forehand errors. She had only
 3 backhand winners, but 16 backhand unforced errors. That's 53 points
 she gave away.
 
-  -----------------------------------------------------------------------
-  **Match**            **Backhand        **Backhand        **Outcome**
-                        Winners**         Errors**      
-  ----------------- ----------------- ----------------- -----------------
-   High School 1            6                 4            W: 6-0, 6-2
+**Match**            **Backhand        **Backhand        **Outcome**
+Winners**         Errors**      
+High School 1            6                 4            W: 6-0, 6-2
 
-   High School 2            9                 7            W: 6-4, 6-2
+High School 2            9                 7            W: 6-4, 6-2
 
-   High School 3            5                23         L: 4-6, 6-2, 6-2
+High School 3            5                23         L: 4-6, 6-2, 6-2
 
-   High School 4           20                24         W: 6-7, 6-1, 6-3
+High School 4           20                24         W: 6-7, 6-1, 6-3
 
-   National 1               9                 9            W: 6-3, 6-0
+National 1               9                 9            W: 6-3, 6-0
 
-   National 2               9                23            W: 6-4, 7-5
+National 2               9                23            W: 6-4, 7-5
 
-   National 3               3                16            L: 6-2, 6-0
-  -----------------------------------------------------------------------
+National 3               3                16            L: 6-2, 6-0
 
 **Once again, most of these errors came from deep, defensive positions
 caused by Yulia's frustration at the girl's consistency and by her own
@@ -328,14 +299,9 @@ girl's game, and to her credit, Yulia tried two in the first set. But
 she happened to miss them both and didn't try another one for the rest
 of the match.
 
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                                  ![A person playing tennis Description automatically
-   generated](media_statistics-going-inside-your-matches/media/image4.webp)
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                                     **Yulia had the variety to play a successful\
-                                                                                   all court game.**
-
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person playing tennis Description automatically generated](media_statistics-going-inside-your-matches/media/image4.webp)
+**Yulia had the variety to play a successful\
+all court game.**
 
 Interestingly, after Yulia lost, I stuck around LA for a couple of days
 and actually had the chance to chart one set in the final match of the
@@ -393,9 +359,7 @@ and really understand the numbers, it makes the path to the next level
 seem clear, and maybe most important attainable. Next: How to do this
 charting for yourself.
 
-![A person smiling for the camera Description automatically generated
-with medium
-confidence](media_statistics-going-inside-your-matches/media/image5.jpeg)
+![A person smiling for the camera Description automatically generated with medium confidence](media_statistics-going-inside-your-matches/media/image5.jpeg)
 
 John Yandell is widely acknowledged as one of the leading videographers
 and students of the modern game of professional tennis. His high speed
@@ -408,5 +372,3 @@ Henin-Hardenne, Taylor Dent and John McEnroe, among others.
 In addition to his role as Editor of Tennisplayer he is the author of
 the critically acclaimed book Visual Tennis. The John Yandell Tennis
 School is located in San Francisco, California.
-
-------------------------------------------------------------------------

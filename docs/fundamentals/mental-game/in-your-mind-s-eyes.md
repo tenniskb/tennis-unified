@@ -4,11 +4,9 @@
 
 **Jim Loehr**
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_in-your-mind-s-eyes/media/image1.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_in-your-mind-s-eyes/media/image1.webp)
 
-**Can you \"see\" yourself playing the tennis you really want to play?**
+**Can you "see" yourself playing the tennis you really want to play?**
 
 What would it be like to play perfect tennis? Imagine your strokes are
 flowing, you're hitting shot combinations and aggressive winners,
@@ -18,8 +16,8 @@ You play a great match and beat a tough opponent, someone you've never
 beaten before, or maybe someone you didn't think you belonged with on
 the court.
 
-\"Impossible!\" you say. \"I just can't see it.\" \"I'm simply not
-capable of beating that person or playing that well.\"
+"Impossible!" you say. "I just can't see it." "I'm simply not
+capable of beating that person or playing that well."
 
 **In a literal sense, that may be true. Why? Because our mental
 pictures, what we can and cannot see ourselves do inside our own minds,
@@ -31,13 +29,8 @@ through feelings of optimism and confidence, requires that you have the
 capacity to see or visualize yourself doing exactly those
 things.]**
 
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------
-                                     ![A person holding a tennis racket Description automatically generated with medium
-   confidence](media_in-your-mind-s-eyes/media/image2.webp)
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------
-                              **Through visualization you can eliminate negative images and replace them with positive ones.**
-
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person holding a tennis racket Description automatically generated with medium confidence](media_in-your-mind-s-eyes/media/image2.webp)
+**Through visualization you can eliminate negative images and replace them with positive ones.**
 
 To achieve your Ideal Performance State, you have to imagine that you
 can! But the truth is, many players are limited in their ability to do
@@ -60,13 +53,9 @@ Pancho Gonzales to Chris Evert to John McEnroe.
 How can you, as a competitive or recreational player, make this process
 work so that you visualize the way great athletes do?
 
-|  |
-| --- |
-| ![A person playing tennis Description automatically generated with medium |
-| confidence](media_in-your-mind-s-eyes/media/image3.webp) |
-|  |
-| **Develop clear visual models of the strokes you want to develop.** |
+![A person playing tennis Description automatically generated with medium confidence](media_in-your-mind-s-eyes/media/image3.webp)
 
+**Develop clear visual models of the strokes you want to develop.**
 
 First, let's define what we mean by visualization more precisely.
 Visualization is the systematic creation or the strengthening of
@@ -91,13 +80,8 @@ you were actually performing on the court. In your mind's eye, become
 the performer, and as you see yourself executing the movements mentally,
 try to feel what is happening.
 
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                      ![A person holding a tennis racket Description automatically
-   generated](media_in-your-mind-s-eyes/media/image4.webp)
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                         **Visualize the attacking sequences you want to play.**
-
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person holding a tennis racket Description automatically generated](media_in-your-mind-s-eyes/media/image4.webp)
+**Visualize the attacking sequences you want to play.**
 
 You visualization training should be done in short periods of about five
 minutes at a time-it's not the duration, it's how relaxed and
@@ -123,13 +107,10 @@ Two. Shot combinations and winning points. For example, if you're
 trying to develop an attacking style, create images of yourself
 approaching the net in a variety of situations.
 
-  ------------------------------
-  Visualize staying positive and
-      continuing to fight in
-     difficult or unexpected
-    competitive circumstances.
-
-  ------------------------------
+Visualize staying positive and
+continuing to fight in
+difficult or unexpected
+competitive circumstances.
 
 If you play from the backcourt, follow the same process. Learn to
 visualize sequences of how you win points. For example, working the ball
@@ -146,11 +127,10 @@ with practically any situation before it occurs in competition.
 For example, visualize yourself staying positive and fighting when you
 go down a break or a set. If you normally get angry or negative, imagine
 those feelings coming up. Now, practice letting them go and replacing
-them with a positive counter message, such as: \"I can do it.\" \"Come
-on, let's go.\" \"Fight!\"
+them with a positive counter message, such as: "I can do it." "Come
+on, let's go." "Fight!"
 
-![A person holding a tennis racket Description automatically
-generated](media_in-your-mind-s-eyes/media/image5.jpg)
+![A person holding a tennis racket Description automatically generated](media_in-your-mind-s-eyes/media/image5.jpg)
 
 **Visualize yourself remaining in your ideal performance state in the
 face of all those obstacles.**
@@ -164,13 +144,9 @@ Rehearse staying calm and focused, verifying the call from your
 opponent, and, if necessary, requesting a
 linesman.**
 
-|  |
-| --- |
-| ![A person playing tennis Description automatically generated with medium |
-| confidence](media_in-your-mind-s-eyes/media/image6.webp) |
-|  |
-| **Go on the court believing you really can win.** |
+![A person playing tennis Description automatically generated with medium confidence](media_in-your-mind-s-eyes/media/image6.webp)
 
+**Go on the court believing you really can win.**
 
 Review any other specific incidents in your matches when you have broken
 down mentally. Now, rehearse the same situations reacting positively in
@@ -193,22 +169,17 @@ Combined with the other techniques I have shared in this series of
 articles, visualization provides the final tool you need to become the
 mentally tough player you really want to be.
 
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![A person smiling for the camera Description automatically generated with medium                                                                                       Jim Loehr is a legendary pioneer in the field of
-  confidence](media_in-your-mind-s-eyes/media/image7.jpeg)                                                                                                                                          himself who still competes nationally in USTA
-                                                                                                                                                                          events, Jim created the field of Mental
-                                                                                                                                                                          Toughness training with his revolutionary study
-                                                                                                                                                                          of elite pro players. He has been one of the
-                                                                                                                                                                          most influential voices in tennis and tennis
-                                                                                                                                                                          coaching for over 30 years, and is the author of
-                                                                                                                                                                          multiple best selling books. He has expanded his
-                                                                                                                                                                          influence far beyond sports with the creation of
-                                                                                                                                                                          the Human Performance Institute where he and his
-                                                                                                                                                                          staff have worked with hundreds of leaders in
-                                                                                                                                                                          business, law enforcement, and military special
-                                                                                                                                                                          forces. For the last decade he has also directed
-                                                                                                                                                                          an academy for junior players helping young
-                                                                                                                                                                          people learn what winning in life really means.
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- ------------------------------------------------
-
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person smiling for the camera Description automatically generated with medium                                                                                       Jim Loehr is a legendary pioneer in the field of confidence](media_in-your-mind-s-eyes/media/image7.jpeg)                                                                                                                                          himself who still competes nationally in USTA
+events, Jim created the field of Mental
+Toughness training with his revolutionary study
+of elite pro players. He has been one of the
+most influential voices in tennis and tennis
+coaching for over 30 years, and is the author of
+multiple best selling books. He has expanded his
+influence far beyond sports with the creation of
+the Human Performance Institute where he and his
+staff have worked with hundreds of leaders in
+business, law enforcement, and military special
+forces. For the last decade he has also directed
+an academy for junior players helping young
+people learn what winning in life really means.

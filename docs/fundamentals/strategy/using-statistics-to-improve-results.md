@@ -2,10 +2,7 @@
 
 ### Andy Durham
 
-------------------------------------------------------------------------
-
-![Diagram Description automatically
-generated](media_using-statistics-to-improve-results/media/image1.jpg)
+![Diagram Description automatically generated](media_using-statistics-to-improve-results/media/image1.jpg)
 
 **Some of the 85 core baseball stats.**
 
@@ -30,9 +27,7 @@ this is not the case for tennis. In tennis these critical statistics
 have until recently only been available for high level athletes,
 typically elite college and tour players.
 
-![A group of men playing tennis Description automatically generated with
-low
-confidence](media_using-statistics-to-improve-results/media/image2.jpg)
+![A group of men playing tennis Description automatically generated with low confidence](media_using-statistics-to-improve-results/media/image2.jpg)
 
 **Most coaches rely on individual knowledge and personal experience.**
 
@@ -51,9 +46,7 @@ But who could be in charge of getting this information? Obviously not
 the players who are busy playing tournament matches. And few coaches are
 able to attend competitions on a regular basis.
 
-![Two people holding tennis rackets Description automatically generated
-with medium
-confidence](media_using-statistics-to-improve-results/media/image3.jpg)
+![Two people holding tennis rackets Description automatically generated with medium confidence](media_using-statistics-to-improve-results/media/image3.jpg)
 
 **Family influence is crucial through positive focus and
 encouragement.**
@@ -103,8 +96,7 @@ Your job as a parent, mentor, or coach is to ensure that your player
 improves as quickly as possible, and learning to make successful game
 plans should be part of their education.
 
-![Icon Description automatically
-generated](media_using-statistics-to-improve-results/media/image4.jpg)
+![Icon Description automatically generated](media_using-statistics-to-improve-results/media/image4.jpg)
 
 **Racket Stats provides the numbers to optimize performance. ([link](https://racketstats.com/).)**
 
@@ -134,16 +126,14 @@ errors, then the Win/Error ratio is now .75. If the number winners
 remains the same, but the number of errors is reduced to 15, then the
 Win/Error ratio is .67.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_using-statistics-to-improve-results/media/image5.jpg)
+![A person playing tennis Description automatically generated with medium confidence](media_using-statistics-to-improve-results/media/image5.jpg)
 
 **What did the numbers show about Iga Świątek's victory in the 2020
 French Open?**
 
-For the purpose of the Win/Error ratio, a \"winner\" is a shot hit
+For the purpose of the Win/Error ratio, a "winner" is a shot hit
 cleanly past the opponent, or one that is tipped or just impossible to
-return. An \"error\" is any shot a player hits into the net or out of
+return. An "error" is any shot a player hits into the net or out of
 the court.
 
 In the first article in this series we discussed another metric
@@ -177,8 +167,7 @@ Summary sections, and each of these sections has a Win/Error section. By
 scanning the sections, you get a quick view of where the winners and
 errors are coming from.
 
-![A person playing tennis Description automatically
-generated](media_using-statistics-to-improve-results/media/image6.jpg)
+![A person playing tennis Description automatically generated](media_using-statistics-to-improve-results/media/image6.jpg)
 
 **Kenin's Win/Error ratio was significantly lower than Swiatek's on
 the baseline.**
@@ -196,17 +185,14 @@ In the Return Section, Kenin won the battle with .60 ratio, against
 
 The chart summarizes the Win/Error rations for both players.
 
-  ----------------------------------------
-                 **Kenin**   **Swiatek**
-  -------------- ----------- -------------
-  Serve          1:3 = .33   1:3 =.33
+**Kenin**   **Swiatek**
+Serve          1:3 = .33   1:3 =.33
 
-  Return         6:10 = .60  0:7 =.00
+Return         6:10 = .60  0:7 =.00
 
-  Groundstroke   3:8 = .38   9:1 = 9.00
+Groundstroke   3:8 = .38   9:1 = 9.00
 
-  Overall        5:36 = .14  27:41 = .66
-  ----------------------------------------
+Overall        5:36 = .14  27:41 = .66
 
 **Baselines**
 
@@ -217,9 +203,7 @@ different areas, and depending on the player's game, pick the most
 important areas, and get to work either increasing the winners or
 reducing the errors.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_using-statistics-to-improve-results/media/image7.jpg)
+![A person playing tennis Description automatically generated with medium confidence](media_using-statistics-to-improve-results/media/image7.jpg)
 
 **A critical factor was Swiatek's Win/Error ratio at the net.**
 
@@ -236,7 +220,7 @@ This is where you as a coach take over. For the remainder of the match,
 you take notice of what the players do when in those ad court 2nd serve
 situation occurs.
 
-Stats mean little unless you can attach a \"why\" to it, and you as the
+Stats mean little unless you can attach a "why" to it, and you as the
 coach are the only one that can see the root cause. With the right stats
 in hand your next practice can be very focused.
 
@@ -245,9 +229,7 @@ particular against differing opponents, but once you understand when
 these changes happen, you can prepare your player to handle these
 situations, making them more competitive against every type of opponent.
 
-![A person holding a tennis racket Description automatically generated
-with medium
-confidence](media_using-statistics-to-improve-results/media/image8.jpeg)
+![A person holding a tennis racket Description automatically generated with medium confidence](media_using-statistics-to-improve-results/media/image8.jpeg)
 
 Andy Durham is the founder of RacketStats.com, an app allowing parents,
 players and coaches an easy system to chart and get access to vital
@@ -255,5 +237,3 @@ statistics. He is a member of the USPTA, PTR and has been teaching for
 48 years, many of his students rising to college, WTA and ATP levels.
 Currently he is the Director of Tennis at the Cindy Hummel Tennis Center
 in Auburndale, Florida. You can reach Andy at <info@racketstats.com>
-
-------------------------------------------------------------------------

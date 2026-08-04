@@ -4,11 +4,7 @@
 
 ### Jeff McCullough
 
-------------------------------------------------------------------------
-
-![A person with his arms raised Description automatically generated with
-low
-confidence](media_a-practical-guide-to-peak-performance-part-2/media/image1.jpg)
+![A person with his arms raised Description automatically generated with low confidence](media_a-practical-guide-to-peak-performance-part-2/media/image1.jpg)
 
 **What are the final 4 components to achieve peak performance?**
 
@@ -38,8 +34,7 @@ stripped down approach. I believe this because I have forged the system
 working both as a player and a coach and seeing so many students blossom
 under its impact.
 
-![A person holding a tennis racket Description automatically
-generated](media_a-practical-guide-to-peak-performance-part-2/media/image2.webp)
+![A person holding a tennis racket Description automatically generated](media_a-practical-guide-to-peak-performance-part-2/media/image2.webp)
 
 **Junior players and players at all levels blossom in the system.**
 
@@ -74,16 +69,10 @@ article are:
 |  | Techniques** |  |  |
 | +--------------------------+--------------------------+ |  |  |  |
 
-
 **Stress Management**
 
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                           ![A person wearing a blue shirt Description automatically generated with low
-   confidence](media_a-practical-guide-to-peak-performance-part-2/media/image3.jpg)
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                                    **Stress in competitive tennis can be extremely intense.**
-
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person wearing a blue shirt Description automatically generated with low confidence](media_a-practical-guide-to-peak-performance-part-2/media/image3.jpg)
+**Stress in competitive tennis can be extremely intense.**
 
 Stress in tennis is real, and anyone who hasn't played competitively
 can't really understand how intense it can be. When the competitive
@@ -110,13 +99,8 @@ of practicing the breathing techniques we looked at between points in
 the first article, it is a question of breathing during point play, and
 purposefully breathing through the hit.
 
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                             ![A person playing tennis Description automatically generated with medium
-   confidence](media_a-practical-guide-to-peak-performance-part-2/media/image4.jpg)
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                                     **Exhalation should coordinate with the forward swing.**
-
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person playing tennis Description automatically generated with medium confidence](media_a-practical-guide-to-peak-performance-part-2/media/image4.jpg)
+**Exhalation should coordinate with the forward swing.**
 
 Practiced over time, these techniques will facilitate oxygenation of the
 blood and the brain. Suddenly the feet are moving better, your heartbeat
@@ -124,26 +108,21 @@ is more controlled, and you can focus again on your game plan and going
 for your shots. Remember that choking, literally, is the inability to
 breathe. Overcoming choking requires that you reestablish that ability.
 
-**[[The great thing about these techniques is that your breathing is
+**[The great thing about these techniques is that your breathing is
 something you really can establish control over.] [It's all
 about you, not what your opponent is doing. Whatever happens in a match,
 it's a process you can control and feel good about regardless of
-outcome.]]**
+outcome.]**
 
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                        ![A picture containing person, person, holding, outdoor Description automatically
-   generated](media_a-practical-guide-to-peak-performance-part-2/media/image5.jpg)
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                                     **Do you have an automatic fall back under pressure?**
-
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A picture containing person, person, holding, outdoor Description automatically generated](media_a-practical-guide-to-peak-performance-part-2/media/image5.jpg)
+**Do you have an automatic fall back under pressure?**
 
 **Cognitive Component**
 
 **The second component is the cognitive**
 **component. Your mind and imagination are
 extremely important tools in your entire high performance tool chest.
-\"For as you think so shall you be\". That's a concept that you find
+"For as you think so shall you be". That's a concept that you find
 not only in sports, but in philosophy, religion, and psychology.**
 
 As the tennis player descends down into the cauldron of match pressure
@@ -152,23 +131,18 @@ This thought can be summoned up to generate positive intensity and
 confidence. When you feel yourself becoming tense and negative,
 affirmative thinking functions like a mental reset button. It can
 restore your full commitment to play according to your own goals on the
-next point\--and on every subsequent point.
+next point--and on every subsequent point.
 
 Perhaps you already have one or two affirmative thoughts that you can
 automatically plug into your mind, like a familiar mantra. If they work
 well for you stick with them.
 
 But, there are two that I strongly suggest that you try. The first is a
-little more general: \"I will play my best tennis now.\" The second is a
-little more specific: \"C' mon let's get this next point.\"
+little more general: "I will play my best tennis now." The second is a
+little more specific: "C' mon let's get this next point."
 
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                             ![A person playing tennis Description automatically generated with medium
-   confidence](media_a-practical-guide-to-peak-performance-part-2/media/image6.jpg)
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                                       **Affirmations can keep you positive and confident.**
-
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person playing tennis Description automatically generated with medium confidence](media_a-practical-guide-to-peak-performance-part-2/media/image6.jpg)
+**Affirmations can keep you positive and confident.**
 
 **Both of these affirmations allow you to let go of bedeviling
 immediate past mistakes. They also keep you from drifting off into the
@@ -192,8 +166,7 @@ play with commitment and confidence.**
 
 **Attentional Techniques**
 
-![A picture containing night sky Description automatically
-generated](media_a-practical-guide-to-peak-performance-part-2/media/image7.webp)
+![A picture containing night sky Description automatically generated](media_a-practical-guide-to-peak-performance-part-2/media/image7.webp)
 
 **The flight of the ball can produce mesmerizing focus.**
 
@@ -218,15 +191,13 @@ the revolution of the seams? How does the spin change from your shot to
 your opponents? What happens to the spin at the bounce? These are
 incredibly powerful details for staying in the flow of the match.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_a-practical-guide-to-peak-performance-part-2/media/image8.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_a-practical-guide-to-peak-performance-part-2/media/image8.webp)
 
 **Visualize a key image and let your swing follow it.**
 
 Of course the common criticism of Gallwey is that this technique says
 nothing about how to execute the strokes or shot placements under
-pressure. Those, somehow, just \"happen\" virtually unconsciously in his
+pressure. Those, somehow, just "happen" virtually unconsciously in his
 system. And for high level players, that may in fact actually be true.
 But what about for the rest of us?
 
@@ -239,13 +210,8 @@ ball intently and still visualize positive imagery of what you wish your
 body to do. This imagery can be of technical positions, such as contact
 or finish, or of shot trajectories and placements.
 
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                             ![A person hitting a ball with a tennis racket Description automatically
-   generated](media_a-practical-guide-to-peak-performance-part-2/media/image9.jpg)
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                                   **Do top players naturally imagine shot making perfection?**
-
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person hitting a ball with a tennis racket Description automatically generated](media_a-practical-guide-to-peak-performance-part-2/media/image9.jpg)
+**Do top players naturally imagine shot making perfection?**
 
 Through his interviews with top players, Yandell came to the conclusion
 that the best players were guided by this type of subconscious imagery,
@@ -253,7 +219,7 @@ and that the average player could develop the same ability,
 systematically.
 
 He found that players who used their internal imagery in this way could
-\"learn to look forward to the pressure situations.\" Positive imagery
+"learn to look forward to the pressure situations." Positive imagery
 gave them a way of blocking negative thoughts and replacing them with
 feelings of confidence in their ability to hit short forehand winners,
 tough volleys, clutch second serves, etc. Essentially he found, imagery
@@ -262,7 +228,7 @@ is the bridge in the mind/body connection.
 To use imagery in this fashion, the player simply works within his own
 technical framework to create pictures (rather than verbal descriptions)
 of how he wishes to execute a stroke or shot, and pre-visualizes these
-\"keys\" on the court until the process becomes automatic and natural.
+"keys" on the court until the process becomes automatic and natural.
 
 **Will to Win**
 
@@ -277,18 +243,13 @@ positions have validity. However, I am convinced that certain people are
 naturally endowed with more than their fair share of this precious
 commodity.
 
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                             ![A person playing tennis Description automatically generated with medium
-   confidence](media_a-practical-guide-to-peak-performance-part-2/media/image10.jpg)
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                                       **Nadal's will can make the outcome seem foregone.**
-
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person playing tennis Description automatically generated with medium confidence](media_a-practical-guide-to-peak-performance-part-2/media/image10.jpg)
+**Nadal's will can make the outcome seem foregone.**
 
 The most prominent example of a player who exudes naked desire is Rafael
 Nadal. Everything he does from the moment he steps into the locker room
-(and probably earlier) emphatically shouts the message: \"I want to win
-this match more than you do.\" That is perhaps the element that\--when
+(and probably earlier) emphatically shouts the message: "I want to win
+this match more than you do." That is perhaps the element that--when
 he is sufficiently rested and healthy - makes him nearly untouchable.
 
 This is a guy who tries to bite off part of the trophy after he win a
@@ -310,13 +271,8 @@ chance to take the scalp of a heavy favorite. In both cases the will to
 win, and who has more of it, is usually the determining factor. ([link](https://www.tennisplayer.net/members/mentalgame/strategy/jeff_mccullough/the_favorite_and_the_underdog/the_favorite_and_the_underdog.html)
 to find out more about the Underdog.)
 
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                                      ![A person holding a trophy Description automatically
-   generated](media_a-practical-guide-to-peak-performance-part-2/media/image11.jpg)
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                            **Rod Laver, perfect gentleman, or an all time great with a mean streak?**
-
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person holding a trophy Description automatically generated](media_a-practical-guide-to-peak-performance-part-2/media/image11.jpg)
+**Rod Laver, perfect gentleman, or an all time great with a mean streak?**
 
 In the history of the game there are a few players whose hallmark traits
 included an unbelievable will to win: Jimmy Connors, Bjorn Borg, John
@@ -341,19 +297,17 @@ throughfare in the middle of the night. And what he said was vastly
 illuminating, and at the same time surprising, given the public persona
 of the man.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_a-practical-guide-to-peak-performance-part-2/media/image12.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_a-practical-guide-to-peak-performance-part-2/media/image12.webp)
 
-**A ruthless desire to eviscerate\--and an intense hatred of losing.**
+**A ruthless desire to eviscerate--and an intense hatred of losing.**
 
 Laver explained to me that when he stepped on the court, he was
 literally transformed, in a manner resembling Dr. Jekyl into Mr. Hyde.
-He called what came out in him during match his \"mean streak.\" His
+He called what came out in him during match his "mean streak." His
 goal was nothing less than the complete, ruthless evisceration of his
 opponent. What he believed truly separated him from his contemporaries
 was the intensity of his desire to win combined with his ferocious
-\"hatred of losing.\" So very often it comes down to who wants it the
+"hatred of losing." So very often it comes down to who wants it the
 most.
 
 However, have I just contradicted what I said at the start of the
@@ -367,13 +321,8 @@ what their level of skill or the tactical situation in a match.
 
 **Overdrive**
 
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![A person running on a tennis court Description automatically generated with low
-  confidence](media_a-practical-guide-to-peak-performance-part-2/media/image13.jpg)
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  **Laver: the ability to reach overdrive - and win when he couldn't**
-
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person running on a tennis court Description automatically generated with low confidence](media_a-practical-guide-to-peak-performance-part-2/media/image13.jpg)
+**Laver: the ability to reach overdrive - and win when he couldn't**
 
 Once all 8 elements have all been combined it will at times be possible
 to perform in what I call the state of tennis overdrive. A player in
@@ -393,13 +342,8 @@ components in my system are all about - applying proven techniques to
 maximize your performance in the circumstances in which you find
 yourself on the a given day in a given match.
 
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                             ![A person playing tennis Description automatically generated with medium
-   confidence](media_a-practical-guide-to-peak-performance-part-2/media/image14.jpg)
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                               **How well did you maximize your mental performance on a given day?**
-
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person playing tennis Description automatically generated with medium confidence](media_a-practical-guide-to-peak-performance-part-2/media/image14.jpg)
+**How well did you maximize your mental performance on a given day?**
 
 **The Quiz**
 
@@ -422,16 +366,11 @@ what you need to do to bring them up to a level of 4 or 5. And if you
 initially have high numbers and many 4s, ask yourself how you can bring
 them up to a 5. Why settle for less?
 
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                          ![A person holding tennis balls Description automatically generated with medium
-   confidence](media_a-practical-guide-to-peak-performance-part-2/media/image15.jpg)
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                                      **Did you enjoy the battle regardless of the victory?**
+![A person holding tennis balls Description automatically generated with medium confidence](media_a-practical-guide-to-peak-performance-part-2/media/image15.jpg)
+**Did you enjoy the battle regardless of the victory?**
 
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-**Question 1:** Did I play with the right purpose? Did I \"enjoy the
-battle\" whether I won or lost? Was I able to learn things which will
+**Question 1:** Did I play with the right purpose? Did I "enjoy the
+battle" whether I won or lost? Was I able to learn things which will
 foster further improvement? Score yourself 1 to 5.
 
 **Question 2:** Was I able to make a full commitment to my goals during
@@ -453,13 +392,8 @@ the next point? Do I feel that there may be another affirmative thought
 or thoughts which might be more effective for me? If so what? Score
 yourself 1 to 5.
 
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                             ![A person playing tennis Description automatically generated with medium
-   confidence](media_a-practical-guide-to-peak-performance-part-2/media/image16.jpg)
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                                              **How much confidence did you project?**
-
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person playing tennis Description automatically generated with medium confidence](media_a-practical-guide-to-peak-performance-part-2/media/image16.jpg)
+**How much confidence did you project?**
 
 **Question 6:** How well was I able to project an image of confidence
 before the start of the match Was I able to continue to do this, whether
@@ -481,8 +415,7 @@ the best players are right there or very close to it most of the time.
 The first time you take the test, that score will become your baseline,
 to see where you are, and where you are going.
 
-![A person holding a tennis racket Description automatically
-generated](media_a-practical-guide-to-peak-performance-part-2/media/image17.webp)
+![A person holding a tennis racket Description automatically generated](media_a-practical-guide-to-peak-performance-part-2/media/image17.webp)
 
 **Following the steps makes improvement inevitable.**
 
@@ -499,5 +432,3 @@ But I believe that if you rigorously apply the system in your match play
 that improvement is virtually inevitable. You will enjoy your experience
 more even as the pressure mounts, and more than likely have that big
 breakthrough win you've been dreaming about.
-
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

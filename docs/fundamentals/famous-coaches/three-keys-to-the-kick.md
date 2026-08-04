@@ -10,8 +10,7 @@ stance. The second related factor is body turn. The third is the X
 factor. This is the intersecting double arc created by the path of the
 toss and the path of the swing.
 
-![A person holding a tennis racket Description automatically
-generated](media_three-keys-to-the-kick/media/image1.webp)
+![A person holding a tennis racket Description automatically generated](media_three-keys-to-the-kick/media/image1.webp)
 
 **Certain factors in developing a great kick serve aren't widely
 understood.**
@@ -36,11 +35,9 @@ This means more overall body rotation and also that you are more
 sideways at contact. I believe this makes it easier to control the
 timing of the body rotation and create the correct upward racket path.
 
-![A tennis player is holding a racket Description automatically
-generated with low
-confidence](media_three-keys-to-the-kick/media/image2.webp)
+![A tennis player is holding a racket Description automatically generated with low confidence](media_three-keys-to-the-kick/media/image2.webp)
 
-**I believe the platform model is superior for the kick\--based in part
+**I believe the platform model is superior for the kick--based in part
 on my own experience.**
 
 This includes ***[a better racket angle at contact with the [racket tip
@@ -75,9 +72,7 @@ One thing I love about teaching the kick with a platform stance is that
 it allows you to develop more body turn in all your serves. I believe
 the shoulders should turn away from the ball as the motion starts.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_three-keys-to-the-kick/media/image3.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_three-keys-to-the-kick/media/image3.webp)
 
 **The platform: simpler, more body turn, better shoulder alignment at
 contact.**
@@ -113,7 +108,7 @@ left.
 right. The intersection of those two arcs is the
 contact.**
 
-**Think of it as an \"X\". X marks the spot of the intersection of the
+**Think of it as an "X". X marks the spot of the intersection of the
 arcs of the toss and the swing.**
 
 **Note that the ball has to drop to create the downward arc in the
@@ -121,9 +116,7 @@ toss.** If it doesn't drop or stays too much to
 the right to begin with, it will affect the racket path and make the arc
 of the racket to the contact too flat and not enough upward.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_three-keys-to-the-kick/media/image4.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_three-keys-to-the-kick/media/image4.webp)
 
 **The arc of the toss intersects the arc of the swing.**
 
@@ -161,9 +154,7 @@ The more vivid you can make your image the better. The one I like the
 best I call creating rainbows. A pretty image of colors arcing over the
 net.
 
-![A tennis player swings a racket Description automatically generated
-with medium
-confidence](media_three-keys-to-the-kick/media/image5.webp)
+![A tennis player swings a racket Description automatically generated with medium confidence](media_three-keys-to-the-kick/media/image5.webp)
 
 **Changing where you stand can help you develop a feel for the kick.**
 
@@ -191,19 +182,30 @@ Pete Sampras used to stand at the edge of the singles court when he felt
 the returner couldn't handle his kick serve to the backhand. Stay with
 it and maybe your kick will end up being the same kind of weapon!
 
-| ![A person smiling for the camera Description automatically generated with medium | Jeff Salzenstein is the founder of Tennis |
-| --- | --- |
-| confidence](media_three-keys-to-the-kick/media/image6.jpeg) | training program on the web for players of all |
-|  | levels. Jeff was an elite American junior player |
-|  | who went on to become a two time All American at |
-|  | Stanford. Over the course of his pro career he |
-|  | won 5 Challenger titles, played in the main draw |
-|  | at all four Grand Slams, and was ranked in the |
-|  | top 100 on the ATP Tour. He has career wins over |
-|  | players including Fernando Verdasco, Mikhael |
-|  | Tillstrom, Jiri Novak, and Greg Rusedski. |
-|  |  |
-|  | To Visit Jeff at Tennis Evolution and Learn More |
-|  | About His Coaching and Training, [Click |
-|  | Here!](http://www.tennisevolution.com) |
+![A person smiling for the camera Description automatically generated with medium confidence](media_three-keys-to-the-kick/media/image6.jpeg)
 
+Jeff Salzenstein is the founder of Tennis
+
+training program on the web for players of all
+
+levels. Jeff was an elite American junior player
+
+who went on to become a two time All American at
+
+Stanford. Over the course of his pro career he
+
+won 5 Challenger titles, played in the main draw
+
+at all four Grand Slams, and was ranked in the
+
+top 100 on the ATP Tour. He has career wins over
+
+players including Fernando Verdasco, Mikhael
+
+Tillstrom, Jiri Novak, and Greg Rusedski.
+
+To Visit Jeff at Tennis Evolution and Learn More
+
+About His Coaching and Training, [Click
+
+Here!](http://www.tennisevolution.com)

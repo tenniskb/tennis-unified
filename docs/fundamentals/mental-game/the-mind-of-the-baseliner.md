@@ -2,10 +2,7 @@
 
 ### Jeff Greenwald
 
-------------------------------------------------------------------------
-
-![A person holding a tennis racket Description automatically
-generated](media_the-mind-of-the-baseliner/media/image1.webp)
+![A person holding a tennis racket Description automatically generated](media_the-mind-of-the-baseliner/media/image1.webp)
 
 **How does the mind of the baseliner relate to the attacking game?**
 
@@ -32,12 +29,11 @@ club level.
 **Actual Change**
 
 This is also the story of how I changed that mindset. It's the story of
-the challenging mental process I went through in doing this\--committing
+the challenging mental process I went through in doing this--committing
 to, incorporating, and following through with this addition to my game
 in high level competitive tennis.
 
-![A person playing tennis Description automatically
-generated](media_the-mind-of-the-baseliner/media/image2.webp)
+![A person playing tennis Description automatically generated](media_the-mind-of-the-baseliner/media/image2.webp)
 
 **How did I change the baseline mind set I loved?**
 
@@ -66,9 +62,7 @@ as well the progressive drills and practice games I used for a period of
 weeks to assimilate opportunity attacking into actual competitive play.
 ([link](https://www.tennisplayer.net/members/rob_heckelman/incorporate_approach/).)
 
-![A picture containing person, sky, outdoor, person Description
-automatically
-generated](media_the-mind-of-the-baseliner/media/image3.jpg)
+![A picture containing person, sky, outdoor, person Description automatically generated](media_the-mind-of-the-baseliner/media/image3.jpg)
 
 **From legs cramps to working with Paul Cohen.**
 
@@ -96,14 +90,12 @@ least. Having watched one of my practice matches, Paul walked up and
 told me point blank I was playing some of the dumbest tennis he had ever
 seen.
 
-![A person with his arms crossed Description automatically generated
-with low
-confidence](media_the-mind-of-the-baseliner/media/image4.webp)
+![A person with his arms crossed Description automatically generated with low confidence](media_the-mind-of-the-baseliner/media/image4.webp)
 
-**Was it possible I should be closing \"all the time\"?**
+**Was it possible I should be closing "all the time"?**
 
-With my game---and he said it as a compliment\--I should be closing the
-net \"all the time.\" At the time, I was amused and intrigued. What type
+With my game---and he said it as a compliment--I should be closing the
+net "all the time." At the time, I was amused and intrigued. What type
 of person says something like that after meeting you for the first time?
 Someone who has something to say and calls it how he sees it, I assumed.
 
@@ -129,9 +121,7 @@ enjoyed dictating points from the baseline. What would changing my
 tactical style do to my mentality in matches? Would it interfere with
 the automatic, instinctive responses that I had honed for years?
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_the-mind-of-the-baseliner/media/image5.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_the-mind-of-the-baseliner/media/image5.webp)
 
 **The fact was I enjoyed dictating from the backcourt.**
 
@@ -145,13 +135,13 @@ To understand how I answered them, it's important to understand more
 about the mind of the baseliner and how that formed the foundation of my
 sense of self as a competitive player.
 
-I had learned all the parts of the game as a junior\--groundies, serve,
-volleys\--the same way most players do in the beginning. But the fact is
+I had learned all the parts of the game as a junior--groundies, serve,
+volleys--the same way most players do in the beginning. But the fact is
 that I never tried to put the pieces together in my match play---and
 never wanted to.
 
 As I said in the first article, my father tried to encourage me to
-\"just get the hell in\" and finish points at the net. But how could I
+"just get the hell in" and finish points at the net. But how could I
 believe in a tactic that I didn't understand, didn't practice, but
 should somehow implement it with a match on the line?
 
@@ -159,9 +149,7 @@ That's what I told myself anyway. But there was a deeper reason. That
 reason was that my identity as a player was tied to the baseliner
 mentality.
 
-![A picture containing sport, tennis, athletic game Description
-automatically
-generated](media_the-mind-of-the-baseliner/media/image6.webp)
+![A picture containing sport, tennis, athletic game Description automatically generated](media_the-mind-of-the-baseliner/media/image6.webp)
 
 **I enjoyed the corner to corner struggle of backcourt points.**
 
@@ -185,15 +173,14 @@ did my adrenaline.
 
 I loved the intensity of twelve ball rallies that had me stretched or on
 the run. There were times I actually felt somewhat disappointed when the
-point was over\--again as crazy as that may sound.
+point was over--again as crazy as that may sound.
 
 As my game developed, I typically knew exactly where I was going to hit
 the ball before it even landed on my side of the court. Based on
 experience, where my opponent was hitting and what I could see off his
 racquet, I developed good anticipation.
 
-![A person holding a tennis racket Description automatically
-generated](media_the-mind-of-the-baseliner/media/image7.webp)
+![A person holding a tennis racket Description automatically generated](media_the-mind-of-the-baseliner/media/image7.webp)
 
 **A big first serve never gave me as much satisfaction as a tough rally
 point.**
@@ -202,7 +189,7 @@ This was accompanied by a visual image of where I was going to go with
 the next hit. This process became so natural that it happened
 automatically.
 
-Some people said that I was very fast on my feet\--and I believe that
+Some people said that I was very fast on my feet--and I believe that
 was true. But there was much more going on in the way I played my
 matches.
 
@@ -210,7 +197,7 @@ matches.
 comfort level. It created predictability.**
 
 **[This had the huge additional benefit of [reducing cognitive
-\"chatter\" and indecision.] All players like to control
+"chatter" and indecision.] All players like to control
 what happens on the court. My game style gave me that feeing.]**
 
 In many matches, I firmly believed that if I could force the other
@@ -229,10 +216,9 @@ to read Elliot Teltscher's classic explanation.) Some players have a lot
 of tolerance and some have much less. I prided myself on having a higher
 tolerance than most of my opponents.
 
-![A person playing tennis Description automatically
-generated](media_the-mind-of-the-baseliner/media/image8.webp)
+![A person playing tennis Description automatically generated](media_the-mind-of-the-baseliner/media/image8.webp)
 
-**A mentality like Rafael Nadal\--based on shot tolerance.**
+**A mentality like Rafael Nadal--based on shot tolerance.**
 
 My goal was to create exchanges where I never felt rushed, where I
 controlled the rhythm of the exchanges, exchanges that made my opponent
@@ -266,7 +252,7 @@ rallies were often still over ten balls, sometimes longer to win a
 point.
 
 My game morphed as I tried to dictate with my forehand---inside out and
-inside in.\>
+inside in.>
 
 I tried to hit two thirds of all balls with my forehand. I would go
 inside out to inflict damage and then, when possible, use my down the
@@ -279,7 +265,7 @@ bit hesitant or nervous.
 
 These additions helped me win some matches more easily. But in many
 cases I still found players were less consistent than I was and would
-miss before I had to pull out my \"point ending\" deliveries.
+miss before I had to pull out my "point ending" deliveries.
 
 These additions only strengthened my baseline mentality. As a baseliner,
 I didn't need to worry about which ball to come in on.
@@ -296,14 +282,13 @@ But in retrospect I realize that, to the extent I even considered the
 idea, the reality was I simply couldn't afford the cognitive risk
 associated with trying to close the net.
 
-![A person holding a tennis racket Description automatically
-generated](media_the-mind-of-the-baseliner/media/image9.webp)
+![A person holding a tennis racket Description automatically generated](media_the-mind-of-the-baseliner/media/image9.webp)
 
 **A simple idea: use my forehand and back it up with an easy volley.**
 
 **The Transition**
 
-And that takes us back to the decision point\--cramping badly in the
+And that takes us back to the decision point--cramping badly in the
 semifinals of a national event. Sometimes you need a certain level of
 pain to make a major change.
 
@@ -324,9 +309,7 @@ of balls in most matches were actually short and therefore potentially
 attackable. His advice was to learn to recognize these balls and pound
 them with my best shot, my forehand.
 
-![A couple of men playing tennis Description automatically generated
-with medium
-confidence](media_the-mind-of-the-baseliner/media/image10.jpg)
+![A couple of men playing tennis Description automatically generated with medium confidence](media_the-mind-of-the-baseliner/media/image10.jpg)
 
 **Working with Paul, I realized I needed a better technical volley.**
 
@@ -342,8 +325,8 @@ learning multiple volley sequences that began with traditional slice
 approaches.
 
 Still, when Paul Cohen had me at the net angling volleys like a
-beginner, I thought, \"You've got to be kidding. What the hell I am
-doing?\"
+beginner, I thought, "You've got to be kidding. What the hell I am
+doing?"
 
 **Yet as we got into working on this strategy, it became apparent that
 one of the reasons I had been reluctant to come to the net in the past
@@ -359,8 +342,7 @@ volley for clear winners in Cohen's drills. Gradually I began to see the
 natural opportunities to get in and how to exploit
 them.**
 
-![A person playing tennis Description automatically
-generated](media_the-mind-of-the-baseliner/media/image11.webp)
+![A person playing tennis Description automatically generated](media_the-mind-of-the-baseliner/media/image11.webp)
 
 **Rod helped me with footwork and balance in the midcourt.**
 
@@ -390,8 +372,7 @@ because it required me to be more cognizant of my strategic intention.
 Over time recognizing the shot to attack started to feel nearly as
 automatic and effortless as a groundstroke rally ball.
 
-![A person holding a tennis racket Description automatically
-generated](media_the-mind-of-the-baseliner/media/image12.webp)
+![A person holding a tennis racket Description automatically generated](media_the-mind-of-the-baseliner/media/image12.webp)
 
 **Not attack within 4 balls? You lose the point.**
 
@@ -425,8 +406,7 @@ feel powerful and very dynamic. With the mid-court transition area no
 longer so foreign, I felt I could use the entire court for the first
 time in my life.**
 
-![A person playing tennis Description automatically
-generated](media_the-mind-of-the-baseliner/media/image13.webp)
+![A person playing tennis Description automatically generated](media_the-mind-of-the-baseliner/media/image13.webp)
 
 **I started to love the moment I recognized the short ball.**
 
@@ -455,7 +435,9 @@ attacking to your game. Remember, it isn't all or nothing. It's an added
 weapon in the arsenal and you can use it as much or as little as you
 like.
 
-![link](media_the-mind-of-the-baseliner/media/image14.png)
+![Video demonstration](media_the-mind-of-the-baseliner/media/image14.png)
+
+*Video demonstration — the original video for this article was hosted on TennisPlayer.net.*
 
 **Opportunity attacking was a dramatic shift that led to an
 international title.**
@@ -481,14 +463,12 @@ winning. The result actually needs to become secondary to executing your
 vision and mission out there. The irony of course is that this approach
 leads to more wins anyway.
 
-I believe when you are clear about how you want to play\--regardless of
+I believe when you are clear about how you want to play--regardless of
 the nerves or possible short-term defeat---you will enjoy the game more.
 I hope my experience shows that it's never too late to play the best
 tennis of your life.
 
-![A tennis player hitting a ball Description automatically generated
-with low
-confidence](media_the-mind-of-the-baseliner/media/image15.jpeg)
+![A tennis player hitting a ball Description automatically generated with low confidence](media_the-mind-of-the-baseliner/media/image15.jpeg)
 
 The Best Tennis of Your Life
 
@@ -496,15 +476,13 @@ Learn how to play with freedom and win more matches! In his new book
 Jeff Greenwald, an elite international seniors player, coach, and
 psychotherapist, outlines 50 specific mental strategies to play the best
 tennis of your life. See how to embrace pressure, maintain confidence,
-and increase your focus and intensity. Jim Loehr calls Jeff's book: \"a
-real contribution to the field of applied sports psychology.\"\
+and increase your focus and intensity. Jim Loehr calls Jeff's book: "a
+real contribution to the field of applied sports psychology."\
 \
 [ to
 Order!](http://www.amazon.com/Best-Tennis-Your-Life-Performance/dp/1558708448/ref=pd_bbs_sr_1?ie=UTF8&s=books&qid=1200341206&sr=8-1)
 
-![A person smiling for the camera Description automatically generated
-with low
-confidence](media_the-mind-of-the-baseliner/media/image16.jpeg)
+![A person smiling for the camera Description automatically generated with low confidence](media_the-mind-of-the-baseliner/media/image16.jpeg)
 
 Jeff Greenwald, M.A., MFT is a nationally recognized sport psychology
 consultant. Jeff has worked as a consultant for the United States Tennis
@@ -513,8 +491,8 @@ game. As a player in the men's 35 and over age division he attained an
 ITF #1 world ranking, as well as the #1 ranking in men's singles and
 doubles in the United States.
 
-Greenwald is the author of [\"The Best Tennis of Your
-Life\"](http://www.amazon.com/Best-Tennis-Your-Life-Performance/dp/1558708448/ref=pd_bbs_sr_1?ie=UTF8&s=books&qid=1200341206&sr=8-1)
+Greenwald is the author of ["The Best Tennis of Your
+Life"](http://www.amazon.com/Best-Tennis-Your-Life-Performance/dp/1558708448/ref=pd_bbs_sr_1?ie=UTF8&s=books&qid=1200341206&sr=8-1)
 published by Betterway. [ to
 order.](http://www.amazon.com/Best-Tennis-Your-Life-Performance/dp/1558708448/ref=pd_bbs_sr_1?ie=UTF8&s=books&qid=1200341206&sr=8-1)
 Jeff has a private practice based in San Francisco and Marin County,

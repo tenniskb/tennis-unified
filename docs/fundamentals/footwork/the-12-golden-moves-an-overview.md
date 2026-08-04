@@ -9,9 +9,13 @@ move at a time in the individual articles. So here is an overview of the
 key points of all 12 moves in one amazing, compact piece with new
 summaries by David himself.
 
-![link](media_the-12-golden-moves-an-overview/media/image1.png)
+![Video demonstration](media_the-12-golden-moves-an-overview/media/image1.png)
 
-![link](media_the-12-golden-moves-an-overview/media/image2.jpeg)
+*Video demonstration — the original video for this article was hosted on TennisPlayer.net.*
+
+![Video demonstration](media_the-12-golden-moves-an-overview/media/image2.jpeg)
+
+*Video demonstration — the original video for this article was hosted on TennisPlayer.net.*
 
 David Bailey is a native Australian who has spent 15 years studying
 tennis at the professional level. He has developed a new language for

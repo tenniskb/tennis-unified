@@ -24,8 +24,7 @@ For a better understanding of that, let's go to the sport of baseball.
 The batter has to start outside the batters box before the pitch is
 thrown and then had to enter the box as the pitcher throws the ball.
 
-![A person playing a guitar Description automatically generated with low
-confidence](media_the-killer-forehand-part-2/media/image2.webp)
+![A person playing a guitar Description automatically generated with low confidence](media_the-killer-forehand-part-2/media/image2.webp)
 
 **To master the Killer Forehand you must also hit from [a neutral
 stance].**
@@ -47,9 +46,7 @@ and often when the ball's hit down the center.
 That]** **[would be the same as the batter entering the batter's
 box with their front foot first.]**
 
-![A person running on a tennis court Description automatically generated
-with medium
-confidence](media_the-killer-forehand-part-2/media/image3.webp)
+![A person running on a tennis court Description automatically generated with medium confidence](media_the-killer-forehand-part-2/media/image3.webp)
 
 **A [closed stance] is firing the Killer Forehand from a
 canoe.**
@@ -68,9 +65,7 @@ killer forehand.
 What creates the correct hitting stance? ***[Early and correct racket
 preparation. Your hitting hand and feet must work together.]***
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_the-killer-forehand-part-2/media/image4.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_the-killer-forehand-part-2/media/image4.webp)
 
 **Your hitting hand and feet work together for early preparation and the
 correct stance.**
@@ -91,9 +86,7 @@ drill. Check and see if you're entering the adjustment zone with your
 hand and racquet ahead of your body. This will automatically set you
 into an open stance with the option of stepping into the neutral stance.
 
-![A person riding a skateboard on a ramp Description automatically
-generated with medium
-confidence](media_the-killer-forehand-part-2/media/image5.webp)
+![A person riding a skateboard on a ramp Description automatically generated with medium confidence](media_the-killer-forehand-part-2/media/image5.webp)
 
 **Your hand and racket must arrive before your body.**
 
@@ -108,7 +101,9 @@ foundation, early first reaction, good footwork, technique moving to the
 ball and early and correct preparation has you in a killer forehand
 hitting stance. Now you're ready to fire forward.
 
-![link](media_the-killer-forehand-part-2/media/image6.webp)
+![Video demonstration](media_the-killer-forehand-part-2/media/image6.webp)
+
+*Video demonstration — the original video for this article was hosted on TennisPlayer.net.*
 
 **Pulling a towel out of your partner's hand simulates the stroke.**
 
@@ -126,9 +121,7 @@ first. Not good. No power. No killer forehand.
 Put your stroke to the test to see if you can make it out of the slot
 unscathed. For maximum racquet and speed, you must pull the trigger.
 
-![A picture containing tennis, racket, person, sport Description
-automatically
-generated](media_the-killer-forehand-part-2/media/image7.webp)
+![A picture containing tennis, racket, person, sport Description automatically generated](media_the-killer-forehand-part-2/media/image7.webp)
 
 **Pull the racket out of the slot without touching the hands.**
 
@@ -145,9 +138,7 @@ better margin for error and control.**
 **For best leverage, try to consistently make contact with stage three
 out in front of your body.**
 
-![A person holding a tennis racket Description automatically generated
-with medium
-confidence](media_the-killer-forehand-part-2/media/image8.webp)\
+![A person holding a tennis racket Description automatically generated with medium confidence](media_the-killer-forehand-part-2/media/image8.webp)\
 **Following the diagonal elbow path can length your potential contact
 zone to as much as 18 inches.**
 
@@ -165,9 +156,7 @@ restricts the follow through.
 control and consistency. Remember, extend your follow through,
 especially under pressure.**
 
-![A picture containing text, sky, outdoor, person Description
-automatically
-generated](media_the-killer-forehand-part-2/media/image9.webp)
+![A picture containing text, sky, outdoor, person Description automatically generated](media_the-killer-forehand-part-2/media/image9.webp)
 
 **The follow-through is the key to executing under
 pressure.**
@@ -192,8 +181,7 @@ action.**
 Practice hitting with a small weight in your hand. This simulates the
 feel of the counterbalance and the anchoring effect in the stroke.
 
-![A person playing tennis Description automatically generated with low
-confidence](media_the-killer-forehand-part-2/media/image10.webp)
+![A person playing tennis Description automatically generated with low confidence](media_the-killer-forehand-part-2/media/image10.webp)
 
 **The opposite arm anchors your swing and provides balance and a strong
 pulling action.**
@@ -208,8 +196,7 @@ A great way to get a feel for the anchoring effect and benefits of the
 opposite arm is to practice the hand on the hip drill. This will give
 you the feel of stretching the chest muscles into the stroke.
 
-![A person holding a tennis racket Description automatically
-generated](media_the-killer-forehand-part-2/media/image11.webp)
+![A person holding a tennis racket Description automatically generated](media_the-killer-forehand-part-2/media/image11.webp)
 
 **The hand on hip drill gives you the feeling of stretching the chest
 muscles.**
@@ -227,8 +214,7 @@ Used in both the open and neutral stances, together with the opposite
 arm, this technique will put your killer forehand over the top. Practice
 hitting strictly off your back foot, sinking your weight down.
 
-![A person running on a tennis court Description automatically
-generated](media_the-killer-forehand-part-2/media/image12.webp)
+![A person running on a tennis court Description automatically generated](media_the-killer-forehand-part-2/media/image12.webp)
 
 **Loading the weight in the back of the stance adds explosiveness.**
 
@@ -247,9 +233,7 @@ Remember, don't overhit. Remember, when we are building a big forehand,
 we aren't hoping one of five go will go in. We want five out of five to
 go in. Otherwise, what is a so-called big forehand really worth?
 
-![A picture containing sport, outdoor, athletic game Description
-automatically
-generated](media_the-killer-forehand-part-2/media/image13.webp)
+![A picture containing sport, outdoor, athletic game Description automatically generated](media_the-killer-forehand-part-2/media/image13.webp)
 
 **Practice and master each concept and you'll have your own killer
 forehand.**
@@ -265,9 +249,7 @@ leg.** Practice each of these concepts until you
 have them mastered and soon, you'll be known for having a killer
 forehand.
 
-![A person wearing sunglasses Description automatically generated with
-medium
-confidence](media_the-killer-forehand-part-2/media/image14.jpeg)
+![A person wearing sunglasses Description automatically generated with medium confidence](media_the-killer-forehand-part-2/media/image14.jpeg)
 
 Nick Bollettieri is the legendary coach who invented the concept of the
 tennis academy more than 30 years ago. He has trained thousands of elite

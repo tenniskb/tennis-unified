@@ -16,9 +16,10 @@ hander.
 For more of David's incredible analysis---all the other Golden Moves and
 examples of footwork of elite pros, [link](https://www.tennisplayer.net/members/footwork/footwork.html).
 
-![link](media_the-golden-move-9-one-foot-pivot/media/image1.png)
 
-![link](media_the-golden-move-9-one-foot-pivot/media/image2.jpeg)
+![Video demonstration](media_the-golden-move-9-one-foot-pivot/media/image2.jpeg)
+
+*Video demonstration — the original video for this article was hosted on TennisPlayer.net.*
 
 David Bailey is a native Australian who has spent 15 years studying
 tennis at the professional level. He has developed a new language for

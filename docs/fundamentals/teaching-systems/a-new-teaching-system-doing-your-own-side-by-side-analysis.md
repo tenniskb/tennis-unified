@@ -2,8 +2,7 @@
 
 **John Yandell**
 
-![A person playing tennis Description automatically
-generated](media_a-new-teaching-system-doing-your-own-side-by-side-analysis/media/image1.webp) ![A person hitting a ball with a tennis racket
+![A person playing tennis Description automatically generated](media_a-new-teaching-system-doing-your-own-side-by-side-analysis/media/image1.webp) ![A person hitting a ball with a tennis racket
 Description automatically
 generated](media_a-new-teaching-system-doing-your-own-side-by-side-analysis/media/image2.webp)
 
@@ -18,9 +17,7 @@ the critical first step in making core technical changes in any stroke.
 The next question though is how to evaluate that footage. What are you
 actually seeing that is sound technically? What isn't?
 
-![A picture containing text, receipt, screenshot Description
-automatically
-generated](media_a-new-teaching-system-doing-your-own-side-by-side-analysis/media/image3.jpg)
+![A picture containing text, receipt, screenshot Description automatically generated](media_a-new-teaching-system-doing-your-own-side-by-side-analysis/media/image3.jpg)
 
 **A partial list of the players in the Tennisplayer High Speed
 Archive.**
@@ -63,8 +60,7 @@ the files to a folder. Then open the one you want in Quick Time 7.
 Now open the pro model you want to use in a second Quick Time window.
 Move the windows around til they are side by side.
 
-![A person playing tennis Description automatically
-generated](media_a-new-teaching-system-doing-your-own-side-by-side-analysis/media/image4.webp)
+![A person playing tennis Description automatically generated](media_a-new-teaching-system-doing-your-own-side-by-side-analysis/media/image4.webp)
 
 **What model of what shot are you looking for**
 
@@ -93,7 +89,6 @@ In reality no one but pro players can do everything pro players do. But
 the core technical positions in pro strokes provide the best possible
 models for players at any level.
 
-![link](media_a-new-teaching-system-doing-your-own-side-by-side-analysis/media/image5.png)
 
 **The Ultimate Fundamental on the forehand---for pro players and you.**
 
@@ -124,9 +119,7 @@ If you have a relatively new iphone or android phone, you can replicate
 the same process. It just a little more complicated with a few more
 steps.
 
-![A collage of a person playing tennis Description automatically
-generated with low
-confidence](media_a-new-teaching-system-doing-your-own-side-by-side-analysis/media/image6.jpg)
+![A collage of a person playing tennis Description automatically generated with low confidence](media_a-new-teaching-system-doing-your-own-side-by-side-analysis/media/image6.jpg)
 
 **Side by side applications on the phone work the same way as with two
 Quick Time Windows.**
@@ -137,7 +130,6 @@ the phone.
 
 Now you need one more piece of free software to do the side by side.
 There are a few options, but the one we prefer is called Hudl Technique.
-
 
 This application allows you to open the clips side by side---you on one,
 the pro model on the other. You now have the same functionality as with
@@ -151,9 +143,7 @@ yourself, you can always come to San Francisco and have me do an
 analysis for you. And demonstrate how to do it for yourself going
 forward!
 
-![A person smiling for the camera Description automatically generated
-with medium
-confidence](media_a-new-teaching-system-doing-your-own-side-by-side-analysis/media/image7.jpeg)
+![A person smiling for the camera Description automatically generated with medium confidence](media_a-new-teaching-system-doing-your-own-side-by-side-analysis/media/image7.jpeg)
 
 John Yandell is widely acknowledged as one of the leading videographers
 and students of the modern game of professional tennis. His high speed

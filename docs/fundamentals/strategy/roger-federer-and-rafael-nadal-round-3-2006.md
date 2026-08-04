@@ -2,15 +2,8 @@
 
 ### John Yandell
 
-------------------------------------------------------------------------
-
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                              ![A picture containing building, stadium Description automatically
-   generated](media_roger-federer-and-rafael-nadal-round-3-2006/media/image1.jpg)
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                                         **It was Shanghai not Arthur Ashe Stadium.**
-
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A picture containing building, stadium Description automatically generated](media_roger-federer-and-rafael-nadal-round-3-2006/media/image1.jpg)
+**It was Shanghai not Arthur Ashe Stadium.**
 
 Well, it wasn't the U.S. Open final. In fact it wasn't a final. It was
 the semi-final of the Masters Cup in Shanghai. But it was another
@@ -33,12 +26,7 @@ indoor cushioned court, which uses an underlying pad as a base, usually
 some form of carpet or foam, but is then finished with acrylic paint and
 sand like a hard court.
 
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![A person playing tennis Description automatically generated with medium                                                                                                    ![A person playing tennis Description automatically generated with medium
-  confidence](media_roger-federer-and-rafael-nadal-round-3-2006/media/image2.jpg)
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person playing tennis Description automatically generated with medium                                                                                                    ![A person playing tennis Description automatically generated with medium confidence](media_roger-federer-and-rafael-nadal-round-3-2006/media/image2.jpg)
 
 Usually, it's laid down on top of a cement arena floor. But the way the
 ball sounded in Shanghai I wondered if the sub surface below the pad
@@ -50,16 +38,14 @@ this type of court plays like a medium slow hard court, but with a
 somewhat lower bounce. If the subsurface was wood or something other
 than concrete, it would probably make the ball bounce even lower.
 
-![A child holding a tennis racket Description automatically generated
-with medium
-confidence](media_roger-federer-and-rafael-nadal-round-3-2006/media/image4.webp)
+![A child holding a tennis racket Description automatically generated with medium confidence](media_roger-federer-and-rafael-nadal-round-3-2006/media/image4.webp)
 
 **Both players hammered most balls.**
 
 I've played on a similar court quite a few times, including the one at
 the SAP Open in San Jose. It's a great surface! Pete Sampras once
-called it \"his favorite surface\" and said that he felt the particular
-combination of speed and bounce was \"a fair court\" for all types of
+called it "his favorite surface" and said that he felt the particular
+combination of speed and bounce was "a fair court" for all types of
 players. If you have a conservative grip like Pete or Roger, you get
 time to swing, and you also get most of the balls in your strike zone
 and not so high up.
@@ -71,13 +57,8 @@ Both players are getting balls they can basically hammer most of the
 time. But unless the bounce is high, the artillery exchange seems to
 favor Roger.
 
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                          ![A person hitting a ball with a tennis racket Description automatically
-   generated](media_roger-federer-and-rafael-nadal-round-3-2006/media/image5.jpg)
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                               **Roger didn't have to play so many backhands quite so high.**
-
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person hitting a ball with a tennis racket Description automatically generated](media_roger-federer-and-rafael-nadal-round-3-2006/media/image5.jpg)
+**Roger didn't have to play so many backhands quite so high.**
 
 But not by much. The match had unbelievable backcourt exchanges in which
 the players battled for control, with multiple rallies of over a dozen
@@ -103,9 +84,7 @@ made a conscious decision to move in and play the ball sooner. So,
 thankfully, you could actually see his whole body for almost every point
 for the rest of the match.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_roger-federer-and-rafael-nadal-round-3-2006/media/image6.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_roger-federer-and-rafael-nadal-round-3-2006/media/image6.webp)
 
 **Court coverage so incredible you don't even notice.**
 
@@ -125,9 +104,7 @@ this one too and drilled a forehand down the line inside in. Against
 most players either shot would have likely been a winner or at least
 drawn an error.
 
-![A picture containing text, tennis, road, court Description
-automatically
-generated](media_roger-federer-and-rafael-nadal-round-3-2006/media/image7.webp)
+![A picture containing text, tennis, road, court Description automatically generated](media_roger-federer-and-rafael-nadal-round-3-2006/media/image7.webp)
 
 **From defense to offense to match point winner.**
 
@@ -154,13 +131,8 @@ winner, clinched the match, and for all practical purposes, the Masters
 title as well. So yes, that was pretty great to watch and, yes again,
 thanks to Tivo, I have reviewed the sequence a few times.
 
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                        ![Two men in suits holding flowers Description automatically generated with low
-   confidence](media_roger-federer-and-rafael-nadal-round-3-2006/media/image8.jpg)
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                                  **Shanghai: a new venue for brilliant world class tennis.**
-
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![Two men in suits holding flowers Description automatically generated with low confidence](media_roger-federer-and-rafael-nadal-round-3-2006/media/image8.jpg)
+**Shanghai: a new venue for brilliant world class tennis.**
 
 And that was just one of many similarly amazing points. Still watching
 the whole thing, I have to say it wasn't quite as exciting as it should
@@ -186,17 +158,14 @@ errors equals the number of points that player won through shotmaking or
 aggressive play.
 
 Then you subtract the player's unforced errors. The result is the
-Aggressive Margin\--winners plus forced errors less unforced errors. In
+Aggressive Margin--winners plus forced errors less unforced errors. In
 pro tennis the number is almost always positive, but you can't say the
 same as you go downward through the levels of competitive tennis.
 
-  ----------------------------------------------------------------------
-      Aggressive Margin        French       Wimbledon        Shanghai
-  -------------------------- ---------- ----------------- --------------
-           Federer             +2/set        +16/set          +8/set
+Aggressive Margin        French       Wimbledon        Shanghai
+Federer             +2/set        +16/set          +8/set
 
-            Nadal              +5/set        +11/set         +2.5/set
-  ----------------------------------------------------------------------
+Nadal              +5/set        +11/set         +2.5/set
 
 In the Shanghai match, Roger ended up with an Aggressive Margin of
 +8/set and Nadal was +2.5/set. That's lower than the number for either
@@ -214,27 +183,26 @@ There were plenty of winners in the Shanghai match, but also a lot of
 extraordinary exchanges that ended with unforced errors. An explanation
 for this comes from another new article in the December issue of
 Tennisplayer. It's by former pro player and coach Elliot Teltscher, on
-a concept he calls \"Shot Tolerance.\"  Federer and Nadal
+a concept he calls "Shot Tolerance."  Federer and Nadal
 traded one high speed shot after another and stretched the geometric
 boundaries of the court. Both played amazing defense, and because of
 that the points where frequently 10 hits or more. The last game of the
 match, for example included rallies that lasted for 16, 19, and 20
 balls.
 
-![A picture containing text, tennis, road, way Description automatically
-generated](media_roger-federer-and-rafael-nadal-round-3-2006/media/image9.webp)
+![A picture containing text, tennis, road, way Description automatically generated](media_roger-federer-and-rafael-nadal-round-3-2006/media/image9.webp)
 
 **Shot tolerance can explain great points that end with unforced
 errors.**
 
 **So, why did more of those types of points end with
-errors?** **[[According to Elliot all players have
+errors?** **[According to Elliot all players have
 a personal limit to the number of quality shots they can hit in any
-given point.] [He calls this their \"Shot Tolerance.\" And when a
+given point.] [He calls this their "Shot Tolerance." And when a
 player hits his limit, even if it's Federer or Nadal, the points is
 going to end one way or another on the next ball. And if it's not with
 a winner or a forcing shot, then it will be with an
-error.]]**
+error.]**
 
 So, the longer the stand off went on in those amazing baseline
 exchanges, the closer both players got to the end of their shot
@@ -262,8 +230,7 @@ Shanghai took just enough pressure off so Roger could hang longer,
 getting the chance to hit a few more winners himself, and push Nadal
 closer to his own tolerance levels.
 
-![A picture containing text, tennis, road, way Description automatically
-generated](media_roger-federer-and-rafael-nadal-round-3-2006/media/image10.webp)
+![A picture containing text, tennis, road, way Description automatically generated](media_roger-federer-and-rafael-nadal-round-3-2006/media/image10.webp)
 
 **The biggest statistical difference was at the net.**
 
@@ -295,11 +262,9 @@ volley for an angled winner. He made one of the toughest imaginable
 shots in tennis look ridiculously easy, and it must have felt like a
 knife in the heart for Rafael.
 
-| ![A person holding a tennis racket Description automatically | ![A person holding a trophy Description automatically |
-| --- | --- |
-| generated](media_roger-federer-and-rafael-nadal-round-3-2006/media/image11.jpg) |  |
-| **Roger's confidence after Shanghai is probably higher than ever.** |  |
+![A person holding a tennis racket Description automatically generated](media_roger-federer-and-rafael-nadal-round-3-2006/media/image11.jpg)
 
+**Roger's confidence after Shanghai is probably higher than ever.**
 
 So, what does it really all mean? Every match is different, and players
 play widely different statistical matches on different surfaces and even
@@ -310,9 +275,9 @@ has, which is probably where it matters most. You could feel this in the
 relaxed, confident tone of Roger's interview after Shanghai. But I
 swear it started with that blazer at Wimbledon. 
 
-I also think the shot exchanges between these two players\--and they
+I also think the shot exchanges between these two players--and they
 have the most contrast in playing styles since Borg and
-McEnroe\--exposes one of the major misconceptions people have about
+McEnroe--exposes one of the major misconceptions people have about
 tennis. When Federer is winning, it must be that compact groundstrokes
 and all court style are a better way to play. When Rafael is winning,
 then western grips and heavy topspin are invincible. I even know a tour
@@ -320,11 +285,9 @@ player, who shall remain nameless, who has changed his swings, his
 tactics, and even his grips back and forth with the ups and downs in the
 rivalry.
 
-| ![A person with his hand on his chin Description automatically generated with low | ![A person with long hair Description automatically generated with low |
-| --- | --- |
-| confidence](media_roger-federer-and-rafael-nadal-round-3-2006/media/image13.jpg) |  |
-| **Join us all in praying for a few more matches.** |  |
+![A person with his hand on his chin Description automatically generated with low confidence](media_roger-federer-and-rafael-nadal-round-3-2006/media/image13.jpg)
 
+**Join us all in praying for a few more matches.**
 
 But neither side of the argument is really true. In football, better
 offense wins against lesser defense. And better defense wins against
@@ -339,13 +302,11 @@ So, let's hope they both feel that way for a while longer. Maybe we
 really will get that match at the U.S. Open next year, and maybe a few
 others as well. Amazingly they played in 5 finals in 2006 as well as the
 semi in Shanghai. Wouldn't it be fantastic to get that many matches
-again next year\--or even 2 or 3 of them if the quality of the tennis
+again next year--or even 2 or 3 of them if the quality of the tennis
 and the psychodrama between the players is anything like what we've
 seen so far?
 
-![A person smiling for the camera Description automatically generated
-with medium
-confidence](media_roger-federer-and-rafael-nadal-round-3-2006/media/image15.jpeg)
+![A person smiling for the camera Description automatically generated with medium confidence](media_roger-federer-and-rafael-nadal-round-3-2006/media/image15.jpeg)
 
 John Yandell is widely acknowledged as one of the leading videographers
 and students of the modern game of professional tennis. His high speed

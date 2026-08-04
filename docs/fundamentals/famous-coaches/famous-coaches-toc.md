@@ -8,9 +8,7 @@ John Yandell
 
 Editor
 
-![A person smiling for the camera Description automatically generated
-with medium
-confidence](media_famous-coaches-toc/media/image1.jpeg)
+![A person smiling for the camera Description automatically generated with medium confidence](media_famous-coaches-toc/media/image1.jpeg)
 
 One of the most exciting aspects of Tennisplayer is creating a forum for
 the views of some of the top coaches in the history of the game.
@@ -144,7 +142,7 @@ The 1 Hand versus the 2 Hand Backhand
 
 The Academy Ball and the Pro Drive
 
-How I Developed My \"Reputation\"
+How I Developed My "Reputation"
 
 How Are Champions Developed?
 

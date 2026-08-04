@@ -2,11 +2,7 @@
 
 ### Louis Cayer
 
-------------------------------------------------------------------------
-
-![A group of people playing tennis Description automatically generated
-with medium
-confidence](media_doubles-playing-styles/media/image1.webp)
+![A group of people playing tennis Description automatically generated with medium confidence](media_doubles-playing-styles/media/image1.webp)
 
 **Attacking and counterattacking patterns make doubles naturally
 exciting.**
@@ -22,9 +18,7 @@ most of the rallying that occurs in singles. The attacking and
 counterattacking patterns and the variety of net play possibilities
 makes doubles naturally exciting to play or to watch.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_doubles-playing-styles/media/image2.webp)\
+![A person playing tennis Description automatically generated with medium confidence](media_doubles-playing-styles/media/image2.webp)\
 **Your tactics must be based on your style of play.**
 
 Most people think that there is only one way of playing doubles, and
@@ -43,9 +37,7 @@ proper positioning, movement, and poaching actions. They also execute
 shot selections appropriate to various playing situations when serving
 or receiving.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_doubles-playing-styles/media/image3.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_doubles-playing-styles/media/image3.webp)
 
 **Success comes from court coverage, shot selection, teamwork.**
 
@@ -61,9 +53,7 @@ the style of a particular team, we can see how to implement appropriate
 tactics based on the team's strengths and weaknesses as well as those
 of the opponents, as well as the specific match situations.
 
-![A group of people playing tennis Description automatically generated
-with medium
-confidence](media_doubles-playing-styles/media/image4.webp)
+![A group of people playing tennis Description automatically generated with medium confidence](media_doubles-playing-styles/media/image4.webp)
 
 **Very few players poach frequently and successfully. Good doubles'
 teams poach also on return of serve.**
@@ -88,11 +78,9 @@ styles in doubles into 5 categories:
 Let's talk a look at the general characteristics of each style, and
 outline some of the potential strengths and weaknesses.
 
-![A group of men playing tennis Description automatically generated with
-medium
-confidence](media_doubles-playing-styles/media/image5.webp)
+![A group of men playing tennis Description automatically generated with medium confidence](media_doubles-playing-styles/media/image5.webp)
 
-**Movers and Poachers create even more uncertainty by \"faking\" to
+**Movers and Poachers create even more uncertainty by "faking" to
 cross which has the receiver hit down-the-line.**
 
 **Quick Movers and Poachers**
@@ -115,12 +103,10 @@ In the return game, the main strength of the team is their overall
 movement, and their ability to win exchanges between all four players at
 the net. Typically, the receiver has the ability to chip or drive and
 charge the net. This forces the server to attempt a better second
-shot\--a better volley if coming in, or a better groundstroke if he is
+shot--a better volley if coming in, or a better groundstroke if he is
 staying back.
 
-![A tennis player is swinging his racket Description automatically
-generated with low
-confidence](media_doubles-playing-styles/media/image6.webp)
+![A tennis player is swinging his racket Description automatically generated with low confidence](media_doubles-playing-styles/media/image6.webp)
 
 **Quick Movers have the ability to chip and charge the net.**
 
@@ -138,9 +124,7 @@ and aren't effective when they need to play defense, especially with
 both players back. On serve they are vulnerable to powerful returns. In
 the return game, they can also be vulnerable to lobs.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_doubles-playing-styles/media/image7.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_doubles-playing-styles/media/image7.webp)
 
 **Hard hitters try to overpower teams with big serves and big
 groundstrokes.**
@@ -148,10 +132,10 @@ groundstrokes.**
 **Hard Hitters**
 
 **Hard-hitting teams typically seek to overpower their
-opponents.** **[[They rely on big first serves
+opponents.** **[They rely on big first serves
 and/or power groundstrokes.] [Both partners are frequently at the
 baseline on the returns, with the server staying back to initiate the
-point with powerful groundstrokes.]]** This tactic of
+point with powerful groundstrokes.]** This tactic of
 staying back is sometimes less a preferred tactic than an indication of
 the server's lack of confidence in the serve and volley.
 
@@ -182,8 +166,7 @@ the first volley, there is also less pressure on the server's first
 volley. If the hard-hitting team is playing two back the server can also
 volley to the middle of the court.
 
-![A person playing tennis Description automatically
-generated](media_doubles-playing-styles/media/image8.webp)
+![A person playing tennis Description automatically generated](media_doubles-playing-styles/media/image8.webp)
 
 **Hard hitters typically hit power returns from further back in the
 court.**
@@ -207,9 +190,7 @@ player off the court, leaving only one player to deal with the second
 shot. They are normally hard to read because they disguise their shots
 well.**
 
-![A group of men playing tennis Description automatically generated with
-medium
-confidence](media_doubles-playing-styles/media/image9.webp)
+![A group of men playing tennis Description automatically generated with medium confidence](media_doubles-playing-styles/media/image9.webp)
 
 **Precision players have consistency, touch, and good hands.**
 
@@ -229,9 +210,7 @@ are getting more powerful and agile every year, making it tough for this
 type of team to win in pro tennis, but precision players can be very
 successful at the club and senior tennis levels.
 
-![A group of people playing football Description automatically generated
-with medium
-confidence](media_doubles-playing-styles/media/image10.webp)
+![A group of people playing football Description automatically generated with medium confidence](media_doubles-playing-styles/media/image10.webp)
 
 **All court players can win points both at the net or at the baseline
 with a good variety of groundstrokes.**
@@ -250,15 +229,10 @@ group two all-court players on the same team. It does happen, however,
 as in the case of the Woodies (Australians Mark Woodforde and Todd
 Woodbridge), both of whom were very solid all-around singles players.
 They became the most successful doubles team in the history of the game,
-amassing 60 doubles titles\--11 of which were Grand Slam titles.
+amassing 60 doubles titles--11 of which were Grand Slam titles.
 
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                        ![A couple of men playing tennis Description automatically
-   generated](media_doubles-playing-styles/media/image11.jpg)
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                              **The Woodies were both solid all-court players\--a rarity on a single team.**
-
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A couple of men playing tennis Description automatically generated](media_doubles-playing-styles/media/image11.jpg)
+**The Woodies were both solid all-court players--a rarity on a single team.**
 
 The main challenge for all-court players is specialists who can outplay
 them on specific surfaces. For example, the fast movers and poachers may
@@ -284,8 +258,7 @@ A combined team pairs players with two different game styles. Doubles
 teams that are composed of players with different playing styles are
 quite common. We can identify three frequent combinations:
 
-![A person swinging a tennis racket Description automatically
-generated](media_doubles-playing-styles/media/image12.webp)
+![A person swinging a tennis racket Description automatically generated](media_doubles-playing-styles/media/image12.webp)
 
 **The hard hitter sets up his partner with solid cross-courts from the
 baseline.**
@@ -310,9 +283,7 @@ comfortable playing two back. He has to respect that his partner may be
 awkward at the net and not come in situations that seem obvious or
 natural to him, preferring to stay back and rely on his powerful drives.
 
-![A group of people playing tennis Description automatically generated
-with low
-confidence](media_doubles-playing-styles/media/image13.webp)
+![A group of people playing tennis Description automatically generated with low confidence](media_doubles-playing-styles/media/image13.webp)
 
 **When playing with a Poacher get a high percentage of first serves in
 play.**
@@ -329,7 +300,7 @@ respecting what each player brings to the team.
 In this combination, it's even more important that the Precision Player
 get a high percentage of first serves in since he lacks the power of the
 Hard Hitter. He should also serve to locations that Poacher
-prefers\--either the returner's weakness or the side where the Poacher
+prefers--either the returner's weakness or the side where the Poacher
 believes he can more easily anticipate the return. The Precision Player
 should encourage his partner to continue to poach even if he misses a
 few easy balls. In the return game the Precision Player should set up
@@ -351,15 +322,13 @@ respect the Precision Player if he misses lobs or gets poached on her
 serve. Conversely, the Precision Player must be patient if the Hard
 Hitter misses power returns.
 
-![A couple of people walk across a tennis court Description
-automatically generated with low
-confidence](media_doubles-playing-styles/media/image14.webp)
+![A couple of people walk across a tennis court Description automatically generated with low confidence](media_doubles-playing-styles/media/image14.webp)
 
-**Mutual respect\--the challenge to accept your partner for the player
+**Mutual respect--the challenge to accept your partner for the player
 she is.**
 
 In all these combinations, there are two major challenges. The first
-challenge is mutual respect\--accepting a partner with different
+challenge is mutual respect--accepting a partner with different
 tactics, strengths, and weaknesses. The second challenge is to learn to
 set each other up in a way that takes advantage of the strengths of each
 partner.
@@ -377,14 +346,9 @@ Identify your current partner's game style. Instead of focusing on what
 he does not do as well as you, discover his strengths and how the two of
 you can work together to maximize the team performance.
 
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![A person smiling for the camera Description automatically generated with medium                                                                                        Louis Cayer is one of the world's best known experts on the art of doubles, and
-  confidence](media_doubles-playing-styles/media/image15.jpeg)                                                                                                                                           Connell, Sebastian Lareau and Daniel Nestor. He is the Head National coach for
-                                                                                                                                                                           Tennis Canada, and the former Canadian Davis Cup captain and Olympic Coach.
-                                                                                                                                                                           Louis is the author of the highly regarded book written for the International
-                                                                                                                                                                           Tennis Federation, Doubles Tennis Tactics, and the companion DVD/video,
-                                                                                                                                                                           published by Human Kinetics. [ to
-                                                                                                                                                                           order.](http://www.humankinetics.com/products/showproduct.cfm?isbn=0736040072)
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ --------------------------------------------------------------------------------
-
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person smiling for the camera Description automatically generated with medium                                                                                        Louis Cayer is one of the world's best known experts on the art of doubles, and confidence](media_doubles-playing-styles/media/image15.jpeg)                                                                                                                                           Connell, Sebastian Lareau and Daniel Nestor. He is the Head National coach for
+Tennis Canada, and the former Canadian Davis Cup captain and Olympic Coach.
+Louis is the author of the highly regarded book written for the International
+Tennis Federation, Doubles Tennis Tactics, and the companion DVD/video,
+published by Human Kinetics. [ to
+order.](http://www.humankinetics.com/products/showproduct.cfm?isbn=0736040072)

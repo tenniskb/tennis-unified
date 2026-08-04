@@ -2,10 +2,7 @@
 
 ### Brad Gilbert
 
-------------------------------------------------------------------------
-
-![A person holding a tennis racket Description automatically
-generated](media_the-set-up-point/media/image1.jpg)
+![A person holding a tennis racket Description automatically generated](media_the-set-up-point/media/image1.jpg)
 
 **What's the Set Up point? Learn the secret directly from Brad.**
 
@@ -44,8 +41,7 @@ Often at the club level if your opponent is serving and you win your
 Set-up Point (moving to ad out) it may be all you need to do. A double
 fault can give you the game.
 
-![A person playing tennis Description automatically
-generated](media_the-set-up-point/media/image2.webp)
+![A person playing tennis Description automatically generated](media_the-set-up-point/media/image2.webp)
 
 **Winning enough Set-up points in your return game creates pressure that
 can lead to opponent double faults.**
@@ -75,9 +71,7 @@ unaware.
 
 **Rule 1**
 
-![A picture containing person, player, outdoor, athletic game
-Description automatically
-generated](media_the-set-up-point/media/image3.jpg)
+![A picture containing person, player, outdoor, athletic game Description automatically generated](media_the-set-up-point/media/image3.jpg)
 
 The Set-up point gets you up to the plate when it counts.
 
@@ -116,13 +110,12 @@ match.
 Once the point is under way, be sensible. Don't get fancy. Don't get
 brilliant. No stupid errors.
 
-![A person playing tennis Description automatically generated with low
-confidence](media_the-set-up-point/media/image4.webp)
+![A person playing tennis Description automatically generated with low confidence](media_the-set-up-point/media/image4.webp)
 
 **Let your opponent go for the glory trying unrealistic shots.**
 
-It's amazing how often recreational players will try for the \"miracle
-shot\" in the middle of a rally when neither player has any advantage.
+It's amazing how often recreational players will try for the "miracle
+shot" in the middle of a rally when neither player has any advantage.
 That may be okay with a big lead, although even then I dislike seeing it
 and absolutely hate doing it.
 
@@ -144,8 +137,7 @@ degree pressure paralyzes most recreational players. Recognizing the
 importance of winning a Set-up Point and approaching it correctly will
 consistently keep pressure off you and place it on your opponent.
 
-![A person speaking into a microphone Description automatically
-generated](media_the-set-up-point/media/image5.jpeg)
+![A person speaking into a microphone Description automatically generated](media_the-set-up-point/media/image5.jpeg)
 
 Brad Gilbert is widely recognized as one of the top coaching minds, as
 well as one of the most direct and insightful television commentators in
@@ -157,9 +149,7 @@ over legendary champions including Boris Becker and John McEnroe and won
 tennis pro shops in the country for the true enthusiast, located in San
 Rafael, California.
 
-![A picture containing text, person, person, player Description
-automatically
-generated](media_the-set-up-point/media/image6.jpeg)
+![A picture containing text, person, person, player Description automatically generated](media_the-set-up-point/media/image6.jpeg)
 
 **Brad Gilbert: Winning Ugly**
 
@@ -174,5 +164,3 @@ the second print edition with a new forward by Andy Murray.
 
 [ to
 Order!](https://www.amazon.com/Winning-Ugly-Brad-Gilbert/dp/1847390579/ref=sr_1_2?ie=UTF8&qid=1372444229&sr=8-2&keywords=winning+ugly+new+edition)
-
-------------------------------------------------------------------------

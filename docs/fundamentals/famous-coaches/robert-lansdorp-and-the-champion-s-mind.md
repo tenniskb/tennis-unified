@@ -2,13 +2,8 @@
 
 ### Pete Sampras with Peter Bodo
 
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![A person playing ping pong Description automatically generated with medium
-  confidence](media_robert-lansdorp-and-the-champion-s-mind/media/image1.jpg)
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  **Taking lessons from Robert Lansdorp put me in the thick of Southern California tennis.**
-
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person playing ping pong Description automatically generated with medium confidence](media_robert-lansdorp-and-the-champion-s-mind/media/image1.jpg)
+**Taking lessons from Robert Lansdorp put me in the thick of Southern California tennis.**
 
 **Editor's Note: This exclusive excerpt from Pete Sampras's new
 autobiography tells the story of Robert Lansdorp's early and lasting
@@ -30,9 +25,7 @@ good at fourteen as Eliot, a prodigy, had been at sixteen. (He went on
 to have a great pro career, becoming a perennial world-top-ten
 performer.)
 
-![A tennis player is holding a racket Description automatically
-generated with low
-confidence](media_robert-lansdorp-and-the-champion-s-mind/media/image2.webp)** **
+![A tennis player is holding a racket Description automatically generated with low confidence](media_robert-lansdorp-and-the-champion-s-mind/media/image2.webp)** **
 
 **Robert laid the foundation of my ground game.**
 
@@ -78,9 +71,7 @@ nervous, looking at the clock, because I had Robert from 3 p.m. until 4,
 and as much as I liked taking lessons from Lansdorp, I also couldn't
 wait until they were over.
 
-![A picture containing text, person, outdoor, person Description
-automatically
-generated](media_robert-lansdorp-and-the-champion-s-mind/media/image3.webp)
+![A picture containing text, person, outdoor, person Description automatically generated](media_robert-lansdorp-and-the-champion-s-mind/media/image3.webp)
 
 **A genius for feeding balls.**
 
@@ -106,9 +97,7 @@ forehand that became my trademark shot---we would do it for an hour, or
 my half of the hour that I shared with Stella. We did drill after drill
 after drill.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_robert-lansdorp-and-the-champion-s-mind/media/image4.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_robert-lansdorp-and-the-champion-s-mind/media/image4.webp)
 
 **My running forehand is all Robert.**
 
@@ -139,8 +128,7 @@ side to side than forward and back. When you're moving into the court,
 you've got to get enough lift on that shot to clear the net, but cover
 it enough to get good pace and depth (and not drive it long).  
 
-![A person holding a tennis racket Description automatically
-generated](media_robert-lansdorp-and-the-champion-s-mind/media/image5.webp)
+![A person holding a tennis racket Description automatically generated](media_robert-lansdorp-and-the-champion-s-mind/media/image5.webp)
 
 **My forehand changed very little over the years.**
 
@@ -157,21 +145,14 @@ at intuitively understanding who "had it"---who had the potential and
 grit to be great, psychologically. He ﬁgured out your personality and
 heart. But God, was he tough!
 
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![A person smiling for the camera Description automatically generated with low
-  confidence](media_robert-lansdorp-and-the-champion-s-mind/media/image6.jpeg)
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
- 
+![A person smiling for the camera Description automatically generated with low confidence](media_robert-lansdorp-and-the-champion-s-mind/media/image6.jpeg)
 
 Peter Bodo is one of the most prolific and respected tennis journalists
 in the world. He is a senior editor and the chief columnist for Tennis
 magazine, and has written for Tennis for over 30 years. In addition to
 collaborating with Pete Sampras on his autobiography, Peter has authored
 numerous works on everything from the pro tennis tour to Atlantic salmon
-fishing. His novel the \"Trout Whisperers\" will be published later this
+fishing. His novel the "Trout Whisperers" will be published later this
 year. Bodo lives in New York City with his wife, Lisa, and 3 year old
 son Luke, but likes to roam the Catskill Mountains hunting and fishing
 near his farm in upstate New York.
@@ -179,15 +160,10 @@ near his farm in upstate New York.
 [link](http://www.peterbodostennisworld.com/) to read his Blog on
 Tennis.com, Peter Bodo's TennisWorld!
 
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![A person smiling for the camera Description automatically generated with medium
-  confidence](media_robert-lansdorp-and-the-champion-s-mind/media/image7.jpeg)
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person smiling for the camera Description automatically generated with medium confidence](media_robert-lansdorp-and-the-champion-s-mind/media/image7.jpeg)
 
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-In this new autobiography, \"A Champion's Mind: Lessons from a Life in
-Tennis,\" Pete Sampras tells the remarkable inside story of how he
+In this new autobiography, "A Champion's Mind: Lessons from a Life in
+Tennis," Pete Sampras tells the remarkable inside story of how he
 became the best player in tennis history and what life was like on at
 the top of the tennis world. Unlike my celebrity biographies, this book
 is remarkable for its candor and detail, as Pete shares his often blunt

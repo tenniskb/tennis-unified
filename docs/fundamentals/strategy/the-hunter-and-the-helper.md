@@ -2,19 +2,16 @@
 
 ### Bill Previdi
 
-------------------------------------------------------------------------
+![A person playing tennis Description automatically generated](media_the-hunter-and-the-helper/media/image1.webp)
 
-![A person playing tennis Description automatically
-generated](media_the-hunter-and-the-helper/media/image1.webp)
-
-**The Hunter is closer to the net and hits \"close to close.\"**
+**The Hunter is closer to the net and hits "close to close."**
 
 The System starts with the definitions of the two roles on a doubles
 team, the role of the Hunter and role of the Helper.
 
 **The Hunter is the player closer to the ball. He is always closer to
-the net. The key to the Hunter's shot selection is that he hits \"close
-to close\" on high volleys and overheads. This means hitting in the
+the net. The key to the Hunter's shot selection is that he hits "close
+to close" on high volleys and overheads. This means hitting in the
 direction of the opponent closest to the net**.
 
 The position of the Hunter is determined by the position of the baseline
@@ -27,8 +24,8 @@ this position, the Hunter moves forward diagonally toward the ball
 rather than laterally.**
 
 The Hunter has an area of responsibility and must be in the center of
-all possible shots in that area. The Hunter cannot just \"cover their
-alley.\" He must cover his part of the middle of the court as well.
+all possible shots in that area. The Hunter cannot just "cover their
+alley." He must cover his part of the middle of the court as well.
 
 The Hunter looks to pick off volleys at the net when their partner sets
 them up. The Hunter must also cover certain overheads. But only
@@ -42,9 +39,7 @@ that might be only two steps and no further back than the service line.
 diagonally across from the ball. The Helper plays further back than the
 Hunter, from the area around the service line.**
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_the-hunter-and-the-helper/media/image2.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_the-hunter-and-the-helper/media/image2.webp)
 
 **The Helper is further back, diagonally across from the ball.**
 
@@ -64,14 +59,12 @@ vulnerability to sharp angles.**
 **The Helper hits crosscourt, Deep to Deep. The goal is to keep the
 ball in front of his Hunter partner.**
 
-On volleys the Helper hits \"wide to wide\" and \"middle to middle on
-volleys.\" That means an angled ball goes back with angle and a middle
+On volleys the Helper hits "wide to wide" and "middle to middle on
+volleys." That means an angled ball goes back with angle and a middle
 ball goes back to the middle. This will put you in perfect position for
 the return and also preempts the opponent from picking off your shot.
 
-![A couple of men playing tennis Description automatically generated
-with medium
-confidence](media_the-hunter-and-the-helper/media/image3.webp)
+![A couple of men playing tennis Description automatically generated with medium confidence](media_the-hunter-and-the-helper/media/image3.webp)
 
 **Notice the position of the Helper and Hunter relative to the net.**
 
@@ -93,9 +86,7 @@ ball.**
 your team in our system is short, angled, and
 low.**
 
-![A group of people play tennis Description automatically generated with
-low
-confidence](media_the-hunter-and-the-helper/media/image4.webp)
+![A group of people play tennis Description automatically generated with low confidence](media_the-hunter-and-the-helper/media/image4.webp)
 
 **Hitting short, angled, and low gives the Hunter balls to pick off.**
 
@@ -130,9 +121,7 @@ honest. Just make sure you do it when you're winning or even.
 
 **Here is how to play against different formations.**
 
-![A group of people playing tennis Description automatically generated
-with medium
-confidence](media_the-hunter-and-the-helper/media/image5.webp)
+![A group of people playing tennis Description automatically generated with medium confidence](media_the-hunter-and-the-helper/media/image5.webp)
 
 **Against one up one back, there is a gaping whole between the
 opponents.**
@@ -191,9 +180,7 @@ vulnerable to a lob on the next shot. If your return is chipped low,
 your partner will have more time to read the situation, get into
 position and take the next ball.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_the-hunter-and-the-helper/media/image6.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_the-hunter-and-the-helper/media/image6.webp)
 
 **When both players are back look to hit drop volleys at the first
 opportunity.**
@@ -215,36 +202,60 @@ invaluable in this situation.**
 And what if the two back team are the dreaded lobbers? Stay tuned for an
 upcoming article devoted directly to that issue!
 
-| ![A picture containing person, person, standing, outdoor Description automatically | Bill Previdi has been playing |
-| --- | --- |
-| generated](media_the-hunter-and-the-helper/media/image7.jpeg) | his life. He played his |
-|  | collegiate tennis at St. John's |
-|  | University in New York and has |
-|  | been nationally ranked in |
-|  | singles, doubles and Father-Son |
-|  | Doubles. Bill has been a Head |
-|  | Pro and Director of Tennis at |
-|  | several clubs since 1981 and has |
-|  | also coached high school and |
-|  | college tennis. He lives in |
-|  | Branford, CT. He can be |
-|  | contacted at: |
-|  | <previdib@gmail.com> |
-|  |  |
-|  | Matt Previdi is a high |
-|  | performance coach in La Jolla, |
-|  | California and the head coach of |
-|  | the La Jolla High boys' tennis |
-|  | team, which in the the past 6 |
-|  | years he has led to a 72-8 |
-|  | record and 2 sectional titles. |
-|  | Matt is a Master Racquet |
-|  | Technician, the head of the |
-|  | Solinco national stringing team, |
-|  | as well as the Solinco player |
-|  | liason and brand representative. |
-|  | He can be contacted at: |
-|  | <mprevidi@gmail.com> |
+![A picture containing person, person, standing, outdoor Description automatically generated](media_the-hunter-and-the-helper/media/image7.jpeg)
 
+Bill Previdi has been playing
 
-------------------------------------------------------------------------
+his life. He played his
+
+collegiate tennis at St. John's
+
+University in New York and has
+
+been nationally ranked in
+
+singles, doubles and Father-Son
+
+Doubles. Bill has been a Head
+
+Pro and Director of Tennis at
+
+several clubs since 1981 and has
+
+also coached high school and
+
+college tennis. He lives in
+
+Branford, CT. He can be
+
+contacted at:
+
+<previdib@gmail.com>
+
+Matt Previdi is a high
+
+performance coach in La Jolla,
+
+California and the head coach of
+
+the La Jolla High boys' tennis
+
+team, which in the the past 6
+
+years he has led to a 72-8
+
+record and 2 sectional titles.
+
+Matt is a Master Racquet
+
+Technician, the head of the
+
+Solinco national stringing team,
+
+as well as the Solinco player
+
+liason and brand representative.
+
+He can be contacted at:
+
+<mprevidi@gmail.com>

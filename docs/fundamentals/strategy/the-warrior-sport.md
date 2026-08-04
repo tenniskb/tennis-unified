@@ -2,10 +2,7 @@
 
 ### Geoff Williams
 
-------------------------------------------------------------------------
-
-![A person playing tennis Description automatically
-generated](media_the-warrior-sport/media/image1.webp)
+![A person playing tennis Description automatically generated](media_the-warrior-sport/media/image1.webp)
 
 **Every match is a small hunt.**
 
@@ -37,14 +34,12 @@ lob.**
 
 **Warrior Mentality**
 
-The Warrior goes into battle to kill the Disruptor\--or anyone in his
+The Warrior goes into battle to kill the Disruptor--or anyone in his
 way. He is better prepared. He is better trained. More disciplined. He
 knows that he is going to win. He has won many other battles against
 weak and strong enemies. He has history on his side.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_the-warrior-sport/media/image2.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_the-warrior-sport/media/image2.webp)
 
 **His weapons allow the Warrior to do whatever he has to do.**
 
@@ -88,8 +83,7 @@ The Warrior has kick, twist, slice, top slice. The kick is going to
 move. The twist will jerk sideways. The slice will slide out wide. The
 flat ball is going to skid low and kick out as well.
 
-![A person raising the hand Description automatically generated with low
-confidence](media_the-warrior-sport/media/image3.webp)
+![A person raising the hand Description automatically generated with low confidence](media_the-warrior-sport/media/image3.webp)
 
 **The Warrior knows that his serve can kill.**
 
@@ -134,9 +128,7 @@ He will run around the backhand on any serve he can to use his best
 weapon to great effect. He will go into the net with speed when he's
 hurt his enemy.
 
-![A picture containing tennis, sport, athletic game, person Description
-automatically
-generated](media_the-warrior-sport/media/image4.webp)
+![A picture containing tennis, sport, athletic game, person Description automatically generated](media_the-warrior-sport/media/image4.webp)
 
 **The Warrior return: disrespect for careful serves.**
 
@@ -161,8 +153,7 @@ The Warrior's approach to the Disruptor is this. Make the Disruptor see
 that he has no answer for the Warrior's skills, tactics, mentality, and
 will.
 
-![A person playing tennis Description automatically
-generated](media_the-warrior-sport/media/image5.webp)
+![A person playing tennis Description automatically generated](media_the-warrior-sport/media/image5.webp)
 
 **Play the Disruptor from inside the baseline.**
 
@@ -180,23 +171,18 @@ aggression.
 
 This unrelenting pressure will eventually turn the match into a route
 and, after the victory, the Warrior will give the opponent a fist
-bump---or even a handshake\--calm, satisfied, happy.
+bump---or even a handshake--calm, satisfied, happy.
 
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![A picture containing person, person, player, male Description automatically                                                                                     Geoff Williams grew up playing tennis in his
-  generated](media_the-warrior-sport/media/image6.jpeg)                                                                                                                                     first and only junior tournament at age 11. Over
-                                                                                                                                                                    the years he went on to become a fixture on the
-                                                                                                                                                                    Northern California NTRP tournament scene,
-                                                                                                                                                                    winning numerous titles at both the 4.5 and 5.0
-                                                                                                                                                                    levels. He accomplished this with a self-taught
-                                                                                                                                                                    style, shunning lessons. His recent return to
-                                                                                                                                                                    glory was inspired in part by his intensive study
-                                                                                                                                                                    of Tennisplayer.net. He claims with a straight
-                                                                                                                                                                    face to have read literally every article on the
-                                                                                                                                                                    site. An electrical contractor by profession,
-                                                                                                                                                                    Geoff lives in the East Bay with his wife Ronda.
-                                                                                                                                                                    Want to swap stories with Geoff or talk Gear Head
-                                                                                                                                                                    talk? Email him: <bestelectrician@sbcglobal.net>
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------- -------------------------------------------------
-
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A picture containing person, person, player, male Description automatically                                                                                     Geoff Williams grew up playing tennis in his generated](media_the-warrior-sport/media/image6.jpeg)                                                                                                                                     first and only junior tournament at age 11. Over
+the years he went on to become a fixture on the
+Northern California NTRP tournament scene,
+winning numerous titles at both the 4.5 and 5.0
+levels. He accomplished this with a self-taught
+style, shunning lessons. His recent return to
+glory was inspired in part by his intensive study
+of Tennisplayer.net. He claims with a straight
+face to have read literally every article on the
+site. An electrical contractor by profession,
+Geoff lives in the East Bay with his wife Ronda.
+Want to swap stories with Geoff or talk Gear Head
+talk? Email him: <bestelectrician@sbcglobal.net>

@@ -10,9 +10,7 @@ players back. ([link](Developing%20World%20Class%20Volleys%20-%20Tha%20Forehand%
 Now let's do the same on the backhand volley and see how you can
 develop world class technique for yourself.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_developing-world-class-volleys-tha-backhand-volley/media/image1.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_developing-world-class-volleys-tha-backhand-volley/media/image1.webp)
 
 **What are the fundamentals of a world class backhand volley?**
 
@@ -28,9 +26,7 @@ volleyers of the past would swing much more through the line of the
 shot. So you'd see players like Rod Laver take a very aggressive
 forward swing when possible.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_developing-world-class-volleys-tha-backhand-volley/media/image2.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_developing-world-class-volleys-tha-backhand-volley/media/image2.webp)
 
 **Rod laver: wood racquet volleying through the line of the shot.**
 
@@ -57,9 +53,7 @@ if you want to volley effectively.
 
 **The Differences**
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_developing-world-class-volleys-tha-backhand-volley/media/image3.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_developing-world-class-volleys-tha-backhand-volley/media/image3.webp)
 
 **Modern volleyers, even the great Pete Sampras, sometimes hit too much
 downward and not enough through.**
@@ -92,8 +86,7 @@ ball.** ***The racquet head can't move too
 sharply downward or the ball will lack pace and
 float.***
 
-![A person holding a tennis racket Description automatically
-generated](media_developing-world-class-volleys-tha-backhand-volley/media/image4.webp)
+![A person holding a tennis racket Description automatically generated](media_developing-world-class-volleys-tha-backhand-volley/media/image4.webp)
 
 **The shoulder turn and the motion of the arm and racquet forward
 through the shot.**
@@ -120,8 +113,7 @@ directly at you - **by pulling the elbow across the body you get the
 racket head in position and the shape between the arm and the racket
 stays relatively the same.**
 
-![A person playing tennis Description automatically
-generated](media_developing-world-class-volleys-tha-backhand-volley/media/image5.webp)
+![A person playing tennis Description automatically generated](media_developing-world-class-volleys-tha-backhand-volley/media/image5.webp)
 
 **The elbow moves from the player's left to right, creating the inside
 out.**
@@ -144,9 +136,7 @@ get the racquet underneath the ball on low volleys. As we saw in the
 first article, on the forehand volley you need to manipulate the wrist
 and loosen the hand up, which can make it difficult to control the ball.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_developing-world-class-volleys-tha-backhand-volley/media/image6.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_developing-world-class-volleys-tha-backhand-volley/media/image6.webp)
 
 **The body stays sideways with contact slightly in front.**
 
@@ -174,9 +164,7 @@ front you will lose the position of the shoulder and the relationship
 between the racket and wrist, and this will make the volley too weak to
 be truly effective.***
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_developing-world-class-volleys-tha-backhand-volley/media/image7.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_developing-world-class-volleys-tha-backhand-volley/media/image7.webp)
 
 **Get closer to the ball with the left foot and at times hit open or
 semi-open.**
@@ -205,13 +193,8 @@ That's not always possible, of course. If the ball is so wide that you
 need to lunge, yes, stick your leg across. But where possible, try to
 position with the back foot and keep on balance.
 
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                             ![A couple of men playing tennis Description automatically generated with medium
-   confidence](media_developing-world-class-volleys-tha-backhand-volley/media/image8.jpg)
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                                  **Tony Roche and Stefan Edberg: two of the greatest backhand volleys.**
-
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A couple of men playing tennis Description automatically generated with medium confidence](media_developing-world-class-volleys-tha-backhand-volley/media/image8.jpg)
+**Tony Roche and Stefan Edberg: two of the greatest backhand volleys.**
 
 **One Handed History**
 
@@ -230,8 +213,7 @@ wow, I need to up my game here a little bit and improve, hit the
 backhand volley a little harder. So watching and playing against Edberg
 really motivated me to improve.
 
-![A person holding a tennis racket Description automatically
-generated](media_developing-world-class-volleys-tha-backhand-volley/media/image9.webp)
+![A person holding a tennis racket Description automatically generated](media_developing-world-class-volleys-tha-backhand-volley/media/image9.webp)
 
 **Junior players have a hard time letting go and often chop down.**
 
@@ -257,8 +239,7 @@ and hit the ball hard and just consistently work on the technique and
 realize that strength will come. The pace on the backhand volley will
 come with confident movement.
 
-![A person playing tennis Description automatically
-generated](media_developing-world-class-volleys-tha-backhand-volley/media/image10.webp)
+![A person playing tennis Description automatically generated](media_developing-world-class-volleys-tha-backhand-volley/media/image10.webp)
 
 **Power comes from moving forward and meeting the ball with solid arm
 position.**
@@ -280,21 +261,34 @@ don't need to take a big swing at all if you hit the ball in the center
 of the racquet. But you've got to start easy, focus on the technique,
 and hit through the ball, rather than chopping.
 
-| ![A person wearing sunglasses Description automatically generated with medium | Pat Cash is an elite player in tennis history, |
-| --- | --- |
-| confidence](media_developing-world-class-volleys-tha-backhand-volley/media/image11.jpeg) | singles and doubles titles over a 15 year |
-|  | career. In the early 1980's he was the number |
-|  | one junior player in the world, winning at both |
-|  | Wimbledon and the U.S.Open. In 1987 he won the |
-|  | men's singles title at Wimbledon defeating |
-|  | Mats Wilander, Jimmy Connors, and, in the |
-|  | final, Ivan Lendl, a match considered one of |
-|  | the greatest examples of attacking tennis ever |
-|  | played in a Grand Slam final. Today he |
-|  | continues to compete successful on the senior |
-|  | tour. We are thrilled to have Pat as a |
-|  | contributor to Tennisplayer.net! |
-|  |  |
-|  | Visit Pat's official website at |
-|  | <http://www.patcash.net> |
+![A person wearing sunglasses Description automatically generated with medium confidence](media_developing-world-class-volleys-tha-backhand-volley/media/image11.jpeg)
 
+Pat Cash is an elite player in tennis history,
+
+singles and doubles titles over a 15 year
+
+career. In the early 1980's he was the number
+
+one junior player in the world, winning at both
+
+Wimbledon and the U.S.Open. In 1987 he won the
+
+men's singles title at Wimbledon defeating
+
+Mats Wilander, Jimmy Connors, and, in the
+
+final, Ivan Lendl, a match considered one of
+
+the greatest examples of attacking tennis ever
+
+played in a Grand Slam final. Today he
+
+continues to compete successful on the senior
+
+tour. We are thrilled to have Pat as a
+
+contributor to Tennisplayer.net!
+
+Visit Pat's official website at
+
+<http://www.patcash.net>

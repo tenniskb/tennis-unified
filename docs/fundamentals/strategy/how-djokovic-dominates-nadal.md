@@ -2,11 +2,7 @@
 
 ### Craig O'Shannessy
 
-------------------------------------------------------------------------
-
-![A picture containing person, person, outdoor, player Description
-automatically
-generated](media_how-djokovic-dominates-nadal/media/image1.jpg)
+![A picture containing person, person, outdoor, player Description automatically generated](media_how-djokovic-dominates-nadal/media/image1.jpg)
 
 **Novak Djokovic climbed to the top of the mountain.**
 
@@ -38,8 +34,7 @@ Djokovic's new strategies are some of the greatest counter moves in the
 history of our sport. And so far in 2011, Nadal has failed to come up
 any counter moves of his own to answer Djokovic's changes.
 
-![A person playing tennis Description automatically
-generated](media_how-djokovic-dominates-nadal/media/image2.webp)
+![A person playing tennis Description automatically generated](media_how-djokovic-dominates-nadal/media/image2.webp)
 
 **Novak's backhand and how he uses it: a key in reversing the Nadal
 rivalry.**
@@ -71,9 +66,7 @@ Why? Djokovic is a vastly different player in 2011, and Nadal's 2010
 tactics simply no longer apply. Nadal's problem is that his game simply
 has not continued to evolve to match or counter Djokovic.
 
-![A couple of men playing tennis Description automatically generated
-with low
-confidence](media_how-djokovic-dominates-nadal/media/image3.webp)
+![A couple of men playing tennis Description automatically generated with low confidence](media_how-djokovic-dominates-nadal/media/image3.webp)
 
 **Novak's backhand and how he uses it: a key in reversing the Nadal
 rivalry.**
@@ -108,7 +101,6 @@ nullifying Nadal's tactic that used to terrorize him. Djokovic simply
 refuses to let the ball get up on him - something Federer has not been
 able to consistently counter with his one-handed backhand.
 
-![link](media_how-djokovic-dominates-nadal/media/image4.png)
 
 **Djokovic: standing in and refusing to let the ball get up.**
 
@@ -144,7 +136,6 @@ has reduced his backhand errors by two thirds. In the 2009 Monte Carlo
 final, when Nadal defeated Djokovic in 3 sets, he forced Novak into 31
 backhand rally errors, an average of 10.3 per set.
 
-![link](media_how-djokovic-dominates-nadal/media/image4.png)
 
 **Novak has reduced his backhand errors and forced Rafa into many
 more.**
@@ -165,9 +156,7 @@ needed to come with his miraculous counterattacks, he had nothing to
 answer Djokovic's patterns, losing to him for the sixth straight time
 in 2011.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_how-djokovic-dominates-nadal/media/image5.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_how-djokovic-dominates-nadal/media/image5.webp)
 
 **Novak: controlling the baseline with his backhand.**
 
@@ -207,7 +196,9 @@ court and was perfect with 3/3 on second serves. He owned that position
 against Berdych, a major factor in saving all four break points he faced
 and therefore not being broken for the entire match.
 
-![link](media_how-djokovic-dominates-nadal/media/image6.png)
+![Video demonstration](media_how-djokovic-dominates-nadal/media/image6.png)
+
+*Video demonstration — the original video for this article was hosted on TennisPlayer.net.*
 
 **Djokovic is able to neutralize Nadal's serve in the ad court.**
 
@@ -227,56 +218,60 @@ wing.** Nadal's forehand is widely considered one
 of the best shots in the history of the game, and up until now, could
 slay all before it.
 
-![A person hitting a ball with a tennis racket Description automatically
-generated](media_how-djokovic-dominates-nadal/media/image7.webp)
+![A person hitting a ball with a tennis racket Description automatically generated](media_how-djokovic-dominates-nadal/media/image7.webp)
 
 **Does Novak have two swords?**
 
 Using the analogy of medieval war, the forehand is the sword and the
 backhand is the shield. The forehand is the weapon that you attack with.
-The backhand protects you when you are yourself attacked\--and every now
+The backhand protects you when you are yourself attacked--and every now
 and then you can knock someone on the head with it.
 
 But Djokovic has elevated his backhand in 2011 to such a high level that
 you could now make a good argument that he is playing with two swords.
 
-There are a lot of great backhands on tour\--Andy Murray, Mardy Fish,
-David Nalbandian\--but none have developed it into the defensive and
+There are a lot of great backhands on tour--Andy Murray, Mardy Fish,
+David Nalbandian--but none have developed it into the defensive and
 offensive weapon as Djokovic's.
 
 Djokovic will finish No.1 in the world for the first time in his career
 at the end of 2011 and much of that can be attributed to his backhand,
 and the improved court position he hits it from.
 
-Djokovic's six consecutive victories over Nadal\--and four of the last
-five against Roger Federer\--were unthinkable a year ago. The counter
+Djokovic's six consecutive victories over Nadal--and four of the last
+five against Roger Federer--were unthinkable a year ago. The counter
 moves will surely come, but for the moment, Djokovic presents a puzzle
 no one has solved.
 
-| ![A person smiling for the camera Description automatically generated with low | Craig O'Shannessy is widely recognized as |
-| --- | --- |
-| confidence](media_how-djokovic-dominates-nadal/media/image8.jpg) | statistics, tennis strategy, and applying |
-|  | his insights in coaching. His research has |
-|  | uncovered the real magic numbers in winning |
-|  | tennis across all levels of the game. He |
-|  | writes for the ATP Tour website and the New |
-|  | York Times among others elite publications. |
-|  |  |
-|  | He has coached on the tour for 20 years |
-|  | working with players including Kevin |
-|  | Anderson, Amer Delic, and Rajeev Ram. His |
-|  | website Brain Game Tennis offers detailed |
-|  | analysis and training programs based on his |
-|  | research that have helped thousands of |
-|  | players around the world. |
+![A person smiling for the camera Description automatically generated with low confidence](media_how-djokovic-dominates-nadal/media/image8.jpg)
 
+Craig O'Shannessy is widely recognized as
 
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![Diagram Description automatically generated with medium                                                                                                                    [Click
-  confidence](media_how-djokovic-dominates-nadal/media/image9.jpg)                                                                                                                                               to visit Craig's site and check out his
-                                                                                                                                                                               amazing training products!
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ----------------------------------------
+statistics, tennis strategy, and applying
 
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+his insights in coaching. His research has
 
-------------------------------------------------------------------------
+uncovered the real magic numbers in winning
+
+tennis across all levels of the game. He
+
+writes for the ATP Tour website and the New
+
+York Times among others elite publications.
+
+He has coached on the tour for 20 years
+
+working with players including Kevin
+
+Anderson, Amer Delic, and Rajeev Ram. His
+
+website Brain Game Tennis offers detailed
+
+analysis and training programs based on his
+
+research that have helped thousands of
+
+players around the world.
+
+![Diagram Description automatically generated with medium                                                                                                                    [Click confidence](media_how-djokovic-dominates-nadal/media/image9.jpg)                                                                                                                                               to visit Craig's site and check out his
+amazing training products!

@@ -2,18 +2,15 @@
 
 ### Joey Johnson
 
-------------------------------------------------------------------------
-
-![A person holding a tennis racket Description automatically
-generated](media_the-panic-signal/media/image1.jpg)
+![A person holding a tennis racket Description automatically generated](media_the-panic-signal/media/image1.jpg)
 
 **When a player is blindsided by pressure, it can set off the panic
 signal.**
 
 Most competitive tennis players would agree that creating peak
 performance is a balance between having their game dialed in tightly
-technically and tactically and avoiding what has been called the \"panic
-signal.\"
+technically and tactically and avoiding what has been called the "panic
+signal."
 
 The dreaded panic signal reaction occurs when a tennis player is
 blindsided by pressure, resulting in an inability to execute during
@@ -40,8 +37,7 @@ in higher level competitive events. He told me that when he played in
 smaller tournaments he felt more comfortable and could manage the
 pressure fairly well.
 
-![A person holding a tennis racket Description automatically
-generated](media_the-panic-signal/media/image2.jpg)
+![A person holding a tennis racket Description automatically generated](media_the-panic-signal/media/image2.jpg)
 
 **How do players like Djokovic stay so consistent under pressure?**
 
@@ -61,47 +57,45 @@ relaxed. This mindset led him to play an overly forcing style,
 attempting to do things with the ball that he normally did not do.
 
 Listening to his on court mental observations showed me that as talented
-as the player was, he was playing these matches in the \"panic mode:\" I
+as the player was, he was playing these matches in the "panic mode:" I
 asked him to list the thoughts that went through his mind, and these
 were his responses:
 
-![A person holding a tennis racket Description automatically
-generated](media_the-panic-signal/media/image3.jpg)
+![A person holding a tennis racket Description automatically generated](media_the-panic-signal/media/image3.jpg)
 
 **In panic mode: a litany of negative thoughts.**
 
-\"I can't choke, I need this win. I came this far so I have to play
-well.\"
+"I can't choke, I need this win. I came this far so I have to play
+well."
 
-\"I have missed way too many returns! How is this possible? I haven't
-done this in years!\"
+"I have missed way too many returns! How is this possible? I haven't
+done this in years!"
 
-\"I really wish this match would just end because my performance is
-absolutely painful.\"
+"I really wish this match would just end because my performance is
+absolutely painful."
 
-\"What is wrong with me today? I feel so different from my match
-yesterday.\"
+"What is wrong with me today? I feel so different from my match
+yesterday."
 
-\"I may not have this opportunity for a long time. I need to stop making
-errors now!\"
+"I may not have this opportunity for a long time. I need to stop making
+errors now!"
 
-\"My breathing feels strained and tense -- I don't like this feeling!\"
+"My breathing feels strained and tense -- I don't like this feeling!"
 
-\"I keep clutching my racket -- it's so hard to relax out here.\"
+"I keep clutching my racket -- it's so hard to relax out here."
 
-\"People are watching me, including my parents, who expect me to not
-only win this match but play a lot better than this!\"
+"People are watching me, including my parents, who expect me to not
+only win this match but play a lot better than this!"
 
-\"I can't hit my shots or handle the deeper hard balls -- I'm getting
-pushed all over the place.\"
+"I can't hit my shots or handle the deeper hard balls -- I'm getting
+pushed all over the place."
 
-\"I need to break serve more to make up for my low serve percentage.\"
+"I need to break serve more to make up for my low serve percentage."
 
 Have you ever had these or similar thoughts when your own panic alarm
 has gone off unexpectedly?
 
-![A person holding a tennis racket Description automatically
-generated](media_the-panic-signal/media/image4.jpg)
+![A person holding a tennis racket Description automatically generated](media_the-panic-signal/media/image4.jpg)
 
 **The body reacts to negative perceptions created by the mind.**
 
@@ -115,7 +109,7 @@ It's a chain reaction that inhibits you from performing.
 
 Every player has been there. It's normal and certainly nothing to feel
 ashamed about. The key is to prepare for the panic signal so that when
-it appears\--as it inevitably will at some point\--you are able to
+it appears--as it inevitably will at some point--you are able to
 counter it and move past its destructive effects.
 
 My work with players has shown that through preparation and practice you
@@ -127,8 +121,7 @@ At the end of this article, we'll see how the young player described
 above was able to reverse the effects of the panic response and achieve
 his goal of playing to his potential.
 
-![A person holding a tennis racket Description automatically
-generated](media_the-panic-signal/media/image5.jpg)
+![A person holding a tennis racket Description automatically generated](media_the-panic-signal/media/image5.jpg)
 
 **There are 4 steps to counter the panic signal.**
 
@@ -166,8 +159,7 @@ For example, can you use the drop shot against a retriever who plays 10
 feet behind the baseline, a shot that may not be at all appropriate
 against a player who positions closer in?
 
-![A person playing tennis Description automatically
-generated](media_the-panic-signal/media/image6.webp)
+![A person playing tennis Description automatically generated](media_the-panic-signal/media/image6.webp)
 
 **Can you balance the two aspects of your game plan?**
 
@@ -218,9 +210,7 @@ through effective breathing. This means learning to breath in a way that
 mimics the body's relaxation process and brings more oxygen to the
 brain.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_the-panic-signal/media/image7.jpg)
+![A person playing tennis Description automatically generated with medium confidence](media_the-panic-signal/media/image7.jpg)
 
 **Positive self talk leads to trust.**
 
@@ -251,9 +241,7 @@ potential. I kept reassuring him that even though his game did not feel
 crisp yet it would come in time and that it was an excellent sign that
 he had found a way to win these first two matches.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_the-panic-signal/media/image8.jpg)
+![A person playing tennis Description automatically generated with medium confidence](media_the-panic-signal/media/image8.jpg)
 
 **After the final: a great phone call from an elated player.**
 
@@ -276,31 +264,30 @@ was literally a different person from the guy who called me after
 playing such a shaky first round match.
 
 After the finals I received a phone message I will always remember.
-\"Call me now -- I have something to tell you\". Then an elated young
+"Call me now -- I have something to tell you". Then an elated young
 competitor shared with me the news that he just captured his first high
 level title.
 
 I asked him to summarize what happened during this breakthrough
 tournament experience. His response was classic.
 
-\"I felt like everything flowed once I got out there. When I got up to
+"I felt like everything flowed once I got out there. When I got up to
 the line I was focused, my game felt solid and manageable and as I went
 deeper into the draw each match I felt my confidence build and my
-ability to execute my game plan was more consistent.\"
+ability to execute my game plan was more consistent."
 
-![A person holding a tennis racket Description automatically
-generated](media_the-panic-signal/media/image9.webp)
+![A person holding a tennis racket Description automatically generated](media_the-panic-signal/media/image9.webp)
 
 **Flow can result from mastery of the panic signal.**
 
-\"During rallies I was just solid and didn't take unnecessary risks. I
+"During rallies I was just solid and didn't take unnecessary risks. I
 wouldn't say that I performed my absolute best but it felt very solid by
-the finals and like I was playing to my potential.\"
+the finals and like I was playing to my potential."
 
-\"This is what I liked the most, the feeling that I was able to play the
+"This is what I liked the most, the feeling that I was able to play the
 way I know I can play and do it throughout a tournament. At the end of
 the tournament when I looked at my overall stats they were better than
-in a long time.\"
+in a long time."
 
 This story illustrates that the seemingly small details of
 preparing---details seemingly having nothing to do with forehands or
@@ -311,29 +298,19 @@ signal can move your mindset from uncertain and anxious to determined
 and focused. Without this work, few players will ever reach their
 potential under tournament pressure.
 
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![A person in a black shirt Description automatically generated with medium                                                                                          For the past 30 years, Joey Johnson has been competing,
-  confidence](media_the-panic-signal/media/image10.jpeg)                                                                                                                                        Growing up in frigid Northern Minnesota, he discovered
-                                                                                                                                                                       tennis at the age of 11 and went on to an All American
-                                                                                                                                                                       career at Ole Miss. He has coached and played on the ATP
-                                                                                                                                                                       tour, coached at Brigham Young University, and worked with
-                                                                                                                                                                       amateur, Olympic, and professional athletes in a variety of
-                                                                                                                                                                       sports. He is the author of Worthy to Win: Emerging from
-                                                                                                                                                                       Fear and Self Doubt. Want to learn more about Joey's Worthy
-                                                                                                                                                                       to Win training and consulting programs? [!](http://www.worthytowin.com/Worthy_to_Win/Book.html)
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------
+![A person in a black shirt Description automatically generated with medium                                                                                          For the past 30 years, Joey Johnson has been competing, confidence](media_the-panic-signal/media/image10.jpeg)                                                                                                                                        Growing up in frigid Northern Minnesota, he discovered
+tennis at the age of 11 and went on to an All American
+career at Ole Miss. He has coached and played on the ATP
+tour, coached at Brigham Young University, and worked with
+amateur, Olympic, and professional athletes in a variety of
+sports. He is the author of Worthy to Win: Emerging from
+Fear and Self Doubt. Want to learn more about Joey's Worthy
+to Win training and consulting programs? [!](http://www.worthytowin.com/Worthy_to_Win/Book.html)
 
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![Website Description automatically generated with low                                                                                                                In Worthy to Win, Joey Johnson shows how at the core of
-  confidence](media_the-panic-signal/media/image11.jpeg)                                                                                                                                        mindset creates the belief and confidence that will propel
-                                                                                                                                                                        you toward your potential. Worthy to Win outlines 8 steps
-                                                                                                                                                                        that will revolutionize the way you prepare for matches and
-                                                                                                                                                                        lead to the breakthroughs and big wins you dream about.
-                                                                                                                                                                        Learn to tap into the power of pressure, ride the
-                                                                                                                                                                        performance wave, and much more. For more information and to
-                                                                                                                                                                        order, [!](http://www.worthytowin.com/Worthy_to_Win/Home.html)
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------
-
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![Website Description automatically generated with low                                                                                                                In Worthy to Win, Joey Johnson shows how at the core of confidence](media_the-panic-signal/media/image11.jpeg)                                                                                                                                        mindset creates the belief and confidence that will propel
+you toward your potential. Worthy to Win outlines 8 steps
+that will revolutionize the way you prepare for matches and
+lead to the breakthroughs and big wins you dream about.
+Learn to tap into the power of pressure, ride the
+performance wave, and much more. For more information and to
+order, [!](http://www.worthytowin.com/Worthy_to_Win/Home.html)

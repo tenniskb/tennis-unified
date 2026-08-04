@@ -2,11 +2,7 @@
 
 ### John Yandell
 
-------------------------------------------------------------------------
-
-![A picture containing person, person, sport, male Description
-automatically
-generated](media_adapting-your-game-to-win-matches/media/image1.jpg)
+![A picture containing person, person, sport, male Description automatically generated](media_adapting-your-game-to-win-matches/media/image1.jpg)
 
 **That's me playing in the 1980's in the days of Fila shorts.**
 
@@ -45,8 +41,7 @@ majority of our subscribers than the high-level tennis we often analyze.
 So here are some stories of some of my matches that might ring some
 bells and give other players some ideas to win more matches themselves.
 
-![A person playing tennis Description automatically
-generated](media_adapting-your-game-to-win-matches/media/image2.jpg)
+![A person playing tennis Description automatically generated](media_adapting-your-game-to-win-matches/media/image2.jpg)
 
 **Jack was a banger.**
 
@@ -77,8 +72,7 @@ exhausted. He wasn't used to having to play 2 or 3 or 6 extra balls a
 point. He started over hitting and missing. In a turnaround from the
 first, I won the third 6-0.
 
-![A person holding a tennis racket Description automatically
-generated](media_adapting-your-game-to-win-matches/media/image3.jpg)
+![A person holding a tennis racket Description automatically generated](media_adapting-your-game-to-win-matches/media/image3.jpg)
 
 **William told everyone he would volley me off the court.**
 
@@ -104,8 +98,7 @@ most of them. He wasn't that great moving side to side at the net. He
 started to try to do more with the low volleys and began making errors.
 He was very unhappy when I won in straight sets.
 
-![A person hitting a ball with a tennis racket Description automatically
-generated](media_adapting-your-game-to-win-matches/media/image4.jpg)
+![A person hitting a ball with a tennis racket Description automatically generated](media_adapting-your-game-to-win-matches/media/image4.jpg)
 
 **Rummy had a great kick serve and great volleys.**
 
@@ -138,8 +131,7 @@ After a couple of games of success on my serve I started coming in on
 his second serve. This unnerved him just enough that I was able to
 squeak out a couple of breaks and won the last two sets.
 
-![A person hitting a ball with a tennis racket Description automatically
-generated](media_adapting-your-game-to-win-matches/media/image5.jpg)
+![A person hitting a ball with a tennis racket Description automatically generated](media_adapting-your-game-to-win-matches/media/image5.jpg)
 
 **Mark was a 4.5 version of Gene Mayer.**
 
@@ -186,11 +178,9 @@ tennis, the weather, how much we both enjoyed competing, blah, blah. He
 seemed shocked but pleased. No mention of his reputation, threats about
 what I would do if he made bad calls, etc.
 
-![A person in a blue uniform kicking a football ball Description
-automatically generated with medium
-confidence](media_adapting-your-game-to-win-matches/media/image6.jpg)
+![A person in a blue uniform kicking a football ball Description automatically generated with medium confidence](media_adapting-your-game-to-win-matches/media/image6.jpg)
 
-**Enzo was a former professional soccer player\--he said.**
+**Enzo was a former professional soccer player--he said.**
 
 I told myself that when the inevitable first bad call happened, I was
 not even going to question him. Early in the first set he called a ball
@@ -224,8 +214,7 @@ Butch had a bigger game than I did, but I was just staying with him,
 mainly playing defense but trying to hit an aggressive shot when I
 could, which was not that often.
 
-![A person sitting on a tractor Description automatically
-generated](media_adapting-your-game-to-win-matches/media/image7.jpg)
+![A person sitting on a tractor Description automatically generated](media_adapting-your-game-to-win-matches/media/image7.jpg)
 
 **I owed my win over Butch to the tractor.**
 
@@ -250,7 +239,7 @@ the next 6 games to take the third.
 I used to tell that story to the players on the high school teams I
 coached, especially when they bitched about some real or imagined
 distraction causing them to lose. One year the team gave me a t-shirt
-that said, "Have I told you my tractor story?\"
+that said, "Have I told you my tractor story?"
 
 **Roscoe**
 
@@ -266,8 +255,7 @@ his strength. He told a few of our friends he planned to teach me a
 lesson by serving and volley every point---something he had never done
 in a tournament match so far as I knew.
 
-![A person hitting a ball with a tennis racket Description automatically
-generated](media_adapting-your-game-to-win-matches/media/image8.jpg)
+![A person hitting a ball with a tennis racket Description automatically generated](media_adapting-your-game-to-win-matches/media/image8.jpg)
 
 **Roscoe went on to win a lot of senior titles.**
 
@@ -278,9 +266,9 @@ ones, then scissor kick overheads.
 Somehow, I knew he wouldn't be able to go the distance though. One of
 my friends was watching and came up and asked the score. Roscoe had run
 it to 5-3 serving in the second, having won the first. My friend gave me
-that look like "Oh, too bad.\"
+that look like "Oh, too bad."
 
-I said, something like "I think you should stay and watch.\" Sure
+I said, something like "I think you should stay and watch." Sure
 enough, at 30-15, Roscoe hit an easy forehand volley about a foot wide.
 Probably the first one like that he had missed.
 
@@ -311,15 +299,13 @@ Mitchell was a Neanderthal. That's how he looked and acted---although
 that could be an insult to Neanderthals. He was a member of the San
 Francisco Tennis Club as I have been for 30 plus years. I'd be in the
 weight room doing incline bench presses and he would come over, push the
-bar down on top of me and yell, "Put some weight on it.\"
+bar down on top of me and yell, "Put some weight on it."
 
 I'd tell him to get the fuck away from me. Mitch took up tennis in his
 20's. He took some lessons from Brad Gilbert. He was always bragging
 about his 120mph serve, supposedly measured in some radar cage.
 
-![A picture containing person, wearing, looking, mask Description
-automatically
-generated](media_adapting-your-game-to-win-matches/media/image9.jpg)
+![A picture containing person, wearing, looking, mask Description automatically generated](media_adapting-your-game-to-win-matches/media/image9.jpg)
 
 **Mitchell gave Neanderthals a bad name.**
 
@@ -383,22 +369,21 @@ Frequently when he won a point, he would feign a stretched wide stance
 leg position as if he had hit a running winner, although usually the
 point ended with an error from the other guy trying to blast one of his
 moon balls. Then Victor would hitch up his shorts and shout, "Michael
-Chang!\" On the changeovers rather than sitting on the bench he would go
+Chang!" On the changeovers rather than sitting on the bench he would go
 to a corner of the court and assume a yoga lotus position.
 
 By the time I arrived, the other guy was muttering out loud. "This is no
-fun. I hate tennis. I hate you.\" Close to the end Victor made a
+fun. I hate tennis. I hate you." Close to the end Victor made a
 ridiculous bad call. The other guy challenged him angrily, and Victor
-replied, "For your comfort, I suggest you may get a linesman.\" It was
+replied, "For your comfort, I suggest you may get a linesman." It was
 way too late for that.
 
-![A picture containing athletic game, sport Description automatically
-generated](media_adapting-your-game-to-win-matches/media/image10.jpg)
+![A picture containing athletic game, sport Description automatically generated](media_adapting-your-game-to-win-matches/media/image10.jpg)
 
 **Who would play with a racket with this head shape?**
 
 I was so glad I had taken the time to show up and witness it, or I would
-have been blind-sided. I decided to use the "mirror\" strategy I wrote
+have been blind-sided. I decided to use the "mirror" strategy I wrote
 about in an article on how to beat pushers. ([link](https://www.tennisplayer.net/members/strategy/john_yandell/three_secrets_for_destroying_pushers/))
 I told myself that even if it took me 6 hours, I was not going to lose
 to Victor making errors off his moonballs, and that I would wait 10 or
@@ -434,17 +419,15 @@ hit it about an inch out.
 
 Under normal circumstances I probably would have played it. Instead, I
 caught the ball with my left hand and said something like "great
-match.\" He was really angry, questioned my call, but I just ignored him
+match." He was really angry, questioned my call, but I just ignored him
 and walked up to shake hands.
 
 The match had taken over 3 hours and it was about 90 degrees. When I
 walked off the court, my wife, who was watching and wilting in the heat,
-asked me "Why did that take so long?\" I broke out laughing I was so
+asked me "Why did that take so long?" I broke out laughing I was so
 happy.
 
-![A person smiling for the camera Description automatically generated
-with medium
-confidence](media_adapting-your-game-to-win-matches/media/image11.jpeg)
+![A person smiling for the camera Description automatically generated with medium confidence](media_adapting-your-game-to-win-matches/media/image11.jpeg)
 
 John Yandell is widely acknowledged as one of the leading videographers
 and students of the modern game of professional tennis. His high speed
@@ -457,5 +440,3 @@ Henin-Hardenne, Taylor Dent and John McEnroe, among others.
 In addition to his role as Editor of Tennisplayer he is the author of
 the critically acclaimed book Visual Tennis. The John Yandell Tennis
 School is located in San Francisco, California.
-
-------------------------------------------------------------------------

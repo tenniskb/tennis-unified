@@ -2,11 +2,7 @@
 
 ### By Allen Fox, Ph.D.
 
-------------------------------------------------------------------------
-
-![A person with a white beard Description automatically generated with
-medium
-confidence](media_why-emotions-can-be-counter-productive/media/image1.jpg)
+![A person with a white beard Description automatically generated with medium confidence](media_why-emotions-can-be-counter-productive/media/image1.jpg)
 
 **Darwin's theory of emotional response is at odds with what happens in
 tennis matches.**
@@ -41,8 +37,7 @@ emotional stakes far greater than they appear. Closely-contested matches
 are stressful because winning them is so pleasurable and uplifting, and
 losing them is so painful.
 
-![A person playing tennis Description automatically
-generated](media_why-emotions-can-be-counter-productive/media/image2.webp)
+![A person playing tennis Description automatically generated](media_why-emotions-can-be-counter-productive/media/image2.webp)
 
 **It's not normal to exert fine motor control for long periods under
 stress.**
@@ -66,13 +61,8 @@ is very pleasant and the other is very painful, but try as they might,
 they cannot control the outcome. It is a structure tailor-made for
 stress, anxiety, and escapism.
 
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                          ![A person in a blue shirt Description automatically generated with low
-   confidence](media_why-emotions-can-be-counter-productive/media/image3.jpg)
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                                      **You can do everything right and still lose**.
-
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person in a blue shirt Description automatically generated with low confidence](media_why-emotions-can-be-counter-productive/media/image3.jpg)
+**You can do everything right and still lose**.
 
 By way of analogy, I have seen a similar paradigm in a psychology
 experiment. There dogs were strapped into an apparatus where, when shown
@@ -93,12 +83,12 @@ Yet the dog continued to try to figure it out and press the bar,
 sometimes getting the food and sometimes the shock.
 
 **As a result, the dog became increasingly agitated and disturbed,
-entering a state of what the experimenters termed \"experimental
-neurosis.\"** **[[It yelped and squirmed to avoid
+entering a state of what the experimenters termed "experimental
+neurosis."** **[It yelped and squirmed to avoid
 being put into the harness. Of] [course, it had only to stop
 pressing the bar regardless of what it saw on the screen to avoid the
 shocks, but the dog kept trying to solve an impossible
-problem.]]**
+problem.]**
 
 **So it got randomly rewarded and punished attempting to control an
 outcome that was uncontrollable.** **As a result,
@@ -106,13 +96,8 @@ the dog become very nervous and tried to escape from this stressful and
 unpleasant situation - much as tennis players often do in an analogous
 situation.**
 
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                          ![A person holding a dog Description automatically generated with medium
-   confidence](media_why-emotions-can-be-counter-productive/media/image4.jpg)
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                    **In experiments, dogs tried to avoid situations with random reward and punishment.**
-
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person holding a dog Description automatically generated with medium confidence](media_why-emotions-can-be-counter-productive/media/image4.jpg)
+**In experiments, dogs tried to avoid situations with random reward and punishment.**
 
 **It is natural to try to escape from stress. The usual means of
 escape from the stress, uncertainty, and uncontrollability of a tennis
@@ -137,9 +122,7 @@ and run off the court, their alternative is to use forms of mental and
 emotional escapism to temporarily insulate themselves from the impending
 pain of defeat.**
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_why-emotions-can-be-counter-productive/media/image5.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_why-emotions-can-be-counter-productive/media/image5.webp)
 
 **Anger: an unconscious distortion that protects us from reality.**
 
@@ -148,9 +131,9 @@ confidence](media_why-emotions-can-be-counter-productive/media/image5.webp)
 **When players elect to forget about winning in favor of making
 excuses, becoming blindly angry, or deciding that further efforts to win
 are hopeless,** they are employing what Sigmond
-Freud called **[[\"defense mechanisms.\"] [These are unconscious
+Freud called **["defense mechanisms."] [These are unconscious
 distortions of perception and interpretation that protect us from
-unpalatable realities, and they are quite normal.]]**
+unpalatable realities, and they are quite normal.]**
 
 **Freud postulated that cold reality can force us to face stressful or
 frightening issues that we cannot resolve. At such times we often
@@ -160,16 +143,11 @@ are, in essence, soothing forms of self-delusion. The key to their
 effectiveness is that while we are using them, we don't realize what we
 are doing.**
 
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                                              ![Map Description automatically
-   generated](media_why-emotions-can-be-counter-productive/media/image6.jpg)
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                                  **If the grapes are sour, then who wants them anyway?**
-
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![Map Description automatically generated](media_why-emotions-can-be-counter-productive/media/image6.jpg)
+**If the grapes are sour, then who wants them anyway?**
 
 One of the common defense mechanisms employed in tennis matches is
-called \"rationalization.\" An early example of it in literature was
+called "rationalization." An early example of it in literature was
 Aesop's fable of the fox and the grapes. Here, unable to reach grapes
 high above him, the fox rationalizes that they are 'sour' anyway.
 
@@ -188,11 +166,11 @@ tennis match are unpalatable.
 At the top of the list is the fact that they may lose, despite their
 most fervent efforts to win. This is scary and stressful. So players
 create more attractive depictions by emphasizing different facts and
-adjusting their viewpoints. Examples are, \"I don't care if I win
-because all I want is the exercise anyway.\" or \"The guy cheated me,
-and if the cheater wants the match that badly, let him have it.\" or
-\"I'm so mad I just don't care anymore.\" or \"What's the use of
-trying? It's just not my day.\" Here the truth is that the player does
+adjusting their viewpoints. Examples are, "I don't care if I win
+because all I want is the exercise anyway." or "The guy cheated me,
+and if the cheater wants the match that badly, let him have it." or
+"I'm so mad I just don't care anymore." or "What's the use of
+trying? It's just not my day." Here the truth is that the player does
 want exercise; the player did get a bad call; and the player may well be
 having a bad day.
 
@@ -202,9 +180,7 @@ facts while amplifying the importance of others. They don't make up
 false facts; rather they just change the emphasis of real ones.
 Inconvenient facts are ignored while convenient ones are highlighted.
 
-![A person playing hockey Description automatically generated with
-medium
-confidence](media_why-emotions-can-be-counter-productive/media/image7.webp)
+![A person playing hockey Description automatically generated with medium confidence](media_why-emotions-can-be-counter-productive/media/image7.webp)
 
 **If it's just not your day, then you are off the hook if you lose.**
 
@@ -229,13 +205,8 @@ wide-spread method of escape from the stress and uncertainty of
 competition. It's a particularly fertile field and comes in a thousand
 disguises.**
 
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                                ![A person holding a tennis racket Description automatically
-   generated](media_why-emotions-can-be-counter-productive/media/image8.jpg)
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                        **Excuses magnified out of proportion mask the real issues about winning.**
-
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person holding a tennis racket Description automatically generated](media_why-emotions-can-be-counter-productive/media/image8.jpg)
+**Excuses magnified out of proportion mask the real issues about winning.**
 
 Here the 'problem', whatever it is, becomes magnified out of
 proportion and fills the rationalizing player's mind so as to mask the
@@ -264,13 +235,8 @@ if you mentioned this fact to other people? The answer is yes! That
 it's real is beside the point. Almost all excuses made by anybody are
 real. It's just that nobody wants to hear them.
 
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                ![A person holding a microphone Description automatically generated with medium
-   confidence](media_why-emotions-can-be-counter-productive/media/image9.jpg)
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                     **His Grand Slam record was in part a triumph of mind over emotion.**
-
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person holding a microphone Description automatically generated with medium confidence](media_why-emotions-can-be-counter-productive/media/image9.jpg)
+**His Grand Slam record was in part a triumph of mind over emotion.**
 
 **Your motivation in telling people your excuse is to convince them
 that you are a better tennis player than today's result might indicate.
@@ -307,25 +273,20 @@ tournament, Sampras developed a shin inflammation with fluid under the
 skin that required acupuncture and cortisone injections. The leg was so
 painful he was virtually unable to practice between matches.
 
-  -----------------------------------------------------------------------------------------------------------------------------------------------------
-   ![link](media_why-emotions-can-be-counter-productive/media/image10.png)
-  -----------------------------------------------------------------------------------------------------------------------------------------------------
-                               **Press play to hear Pete talk about overcoming adversity to break the Grand Slam record.**
-
-  -----------------------------------------------------------------------------------------------------------------------------------------------------
+**Press play to hear Pete talk about overcoming adversity to break the Grand Slam record.**
 
 In his autobiography Pete reveals that by the time he reached the final
-against Pat Rafter, \"I wasn't exactly playing on one leg, but it was
-getting awfully close to that.\"
+against Pat Rafter, "I wasn't exactly playing on one leg, but it was
+getting awfully close to that."
 
 Yet, because Sampras refused to talk about the injury to the press, most
 observers were unaware of how much pain he was in.
 
 Instead of making excuses, Pete used the injury to motivate himself to
-break the record. \"The adversity just got me more fired up, once I
+break the record. "The adversity just got me more fired up, once I
 sniffed the finish line. I was so into the moment I actually enjoyed the
-pain. It was like, \"This is it. Screw it, I'm going to get this done
-right here. No one said it was going to be easy.\"
+pain. It was like, "This is it. Screw it, I'm going to get this done
+right here. No one said it was going to be easy."
 
 **Here is a perfect example from the highest level of the game of how
 a player can use the power of the mind to triumph over our natural
@@ -341,61 +302,92 @@ Read More From Allen!
 
 Visit him at [www.allenfoxtennis.net](http://www.allenfoxtennis.net)
 
- 
+![A picture containing text, newspaper Description automatically generated](media_why-emotions-can-be-counter-productive/media/image11.jpeg)
 
-| ![A picture containing text, newspaper Description automatically | Winning the Mental Match Dr. Allen Fox |
-| --- | --- |
-| generated](media_why-emotions-can-be-counter-productive/media/image11.jpeg) | Tennis is mentally the most difficult sport due to it's personal nature which makes winning and losing feel more |
-|  | important than they are. In this new book, Allen offers his proven solutions to problems such as choking, reducing |
-|  | stress, finishing matches, and developing confidence. Based on a life time of high level play and coaching success, |
-|  | it's a must for all competitive players. |
-|  |  |
-|  | [ to |
-|  | Order](http://www.amazon.com/Tennis-Winning-Mental-Allen-Fox/dp/0615407765/ref=sr_1_1?ie=UTF8&qid=1336083459&sr=8-1). |
+Winning the Mental Match Dr. Allen Fox
 
+Tennis is mentally the most difficult sport due to it's personal nature which makes winning and losing feel more
 
-| ![Text Description automatically | Winning may not be everything, but Dr. Allen Fox points out |
-| --- | --- |
-| generated](media_why-emotions-can-be-counter-productive/media/image12.jpeg) | eminently preferable to losing. In his new book, The |
-|  | Winner's Mind, Allen lays out an original step-by-step |
-|  | plan for succeeding at any of life's endeavors, based on |
-|  | his first hand and very personal observations of the |
-|  | careers of both world-class tennis players and successful |
-|  | businessman. The bottom line is that even if you are not a |
-|  | born champion\--and only a tiny percentage of us are\--you |
-|  | can still use the success strategies of champions to tilt |
-|  | the odds in your favor. Writing with brutal honesty and dry |
-|  | humor, Fox lays out the common mental characteristics of |
-|  | winners in sports and in life. He explains the critical |
-|  | role of intellect over emotion. He analyzes the struggle |
-|  | between ambition and fear and the insidious and pervasive |
-|  | fear of failure that undermines so many of us. He then |
-|  | outline how to confront and overcome these fears in your |
-|  | life and career, even when they are initially subconscious. |
-|  | Must reading from one of the great thinkers in tennis, and |
-|  | a Renaissance Man in life. [ to |
-|  | Order](http://www.tennis-warehouse.com/descpage-MIND.html). |
-|  |  |
-|  | To purchase this book you can also send a check for \$17.95 |
-|  | to Allen Fox, 1120 Inverness Place, San Luis Obispo, CA. |
-|  | 93401. The price includes shipping. |
+important than they are. In this new book, Allen offers his proven solutions to problems such as choking, reducing
 
+stress, finishing matches, and developing confidence. Based on a life time of high level play and coaching success,
 
-| ![A person holding a tennis racket Description automatically | Allen Fox PhD is a former world class player, a coach, |
-| --- | --- |
-| generated](media_why-emotions-can-be-counter-productive/media/image13.gif) | insightful analysts in modern tennis. A top 10 |
-|  | American player from the glory days before Open |
-|  | tennis, Fox played many of the legendary greats, among |
-|  | them Roy Emerson, Rod Laver, Stan Smith, and Arthur |
-|  | Ashe. At Pepperdine he developed the men's tennis |
-|  | program into an elite contender for national titles, |
-|  | and gave Brad Gilbert the insights that became the |
-|  | foundation for \"Winning Ugly\". His book Think to Win |
-|  | is a modern classic. He has also starred in a series |
-|  | of acclaimed videos, including Pro Secrets of Match |
-|  | Play and Allen Fox's Ultimate Tennis Lesson. |
-|  |  |
-|  |  |
+it's a must for all competitive players.
 
+[ to
 
-------------------------------------------------------------------------
+Order](http://www.amazon.com/Tennis-Winning-Mental-Allen-Fox/dp/0615407765/ref=sr_1_1?ie=UTF8&qid=1336083459&sr=8-1).
+
+![Text Description automatically generated](media_why-emotions-can-be-counter-productive/media/image12.jpeg)
+
+Winning may not be everything, but Dr. Allen Fox points out
+
+eminently preferable to losing. In his new book, The
+
+Winner's Mind, Allen lays out an original step-by-step
+
+plan for succeeding at any of life's endeavors, based on
+
+his first hand and very personal observations of the
+
+careers of both world-class tennis players and successful
+
+businessman. The bottom line is that even if you are not a
+
+born champion--and only a tiny percentage of us are--you
+
+can still use the success strategies of champions to tilt
+
+the odds in your favor. Writing with brutal honesty and dry
+
+humor, Fox lays out the common mental characteristics of
+
+winners in sports and in life. He explains the critical
+
+role of intellect over emotion. He analyzes the struggle
+
+between ambition and fear and the insidious and pervasive
+
+fear of failure that undermines so many of us. He then
+
+outline how to confront and overcome these fears in your
+
+life and career, even when they are initially subconscious.
+
+Must reading from one of the great thinkers in tennis, and
+
+a Renaissance Man in life. [ to
+
+Order](http://www.tennis-warehouse.com/descpage-MIND.html).
+
+To purchase this book you can also send a check for $17.95
+
+to Allen Fox, 1120 Inverness Place, San Luis Obispo, CA.
+
+93401. The price includes shipping.
+
+![A person holding a tennis racket Description automatically generated](media_why-emotions-can-be-counter-productive/media/image13.gif)
+
+Allen Fox PhD is a former world class player, a coach,
+
+insightful analysts in modern tennis. A top 10
+
+American player from the glory days before Open
+
+tennis, Fox played many of the legendary greats, among
+
+them Roy Emerson, Rod Laver, Stan Smith, and Arthur
+
+Ashe. At Pepperdine he developed the men's tennis
+
+program into an elite contender for national titles,
+
+and gave Brad Gilbert the insights that became the
+
+foundation for "Winning Ugly". His book Think to Win
+
+is a modern classic. He has also starred in a series
+
+of acclaimed videos, including Pro Secrets of Match
+
+Play and Allen Fox's Ultimate Tennis Lesson.

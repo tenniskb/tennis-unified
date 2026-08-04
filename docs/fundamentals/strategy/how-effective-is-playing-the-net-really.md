@@ -2,10 +2,7 @@
 
 ### Jeremy Rosen
 
-------------------------------------------------------------------------
-
-![A person playing tennis Description automatically
-generated](media_how-effective-is-playing-the-net-really/media/image1.webp)
+![A person playing tennis Description automatically generated](media_how-effective-is-playing-the-net-really/media/image1.webp)
 
 **How statistically effective is playing the net really?**
 
@@ -24,7 +21,7 @@ accurate determination. Why? Because win probabilities at net can be
 deceptively high.
 
 When using statistics to determine the effectiveness of playing the net,
-it's essential to account for other relevant variables\--not just win
+it's essential to account for other relevant variables--not just win
 probabilities. For instance, many approach shots are hit off easy balls,
 which give you an advantage in winning the point irrespective of whether
 you approach the net or not.
@@ -38,9 +35,7 @@ result is you end up with a 100% win probability at net and a 50% win
 probability at the baseline. On the surface, that suggests that playing
 the net was more effective than staying back.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_how-effective-is-playing-the-net-really/media/image2.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_how-effective-is-playing-the-net-really/media/image2.webp)
 
 **What do the raw numbers on approaches really mean?**
 
@@ -72,9 +67,7 @@ Through a statistical technique called Regression Analysis. Using
 Regression Analysis I can account for the Confounders and quantify the
 true impact of playing the net more accurately.
 
-![A couple of men playing tennis Description automatically generated
-with low
-confidence](media_how-effective-is-playing-the-net-really/media/image3.webp)
+![A couple of men playing tennis Description automatically generated with low confidence](media_how-effective-is-playing-the-net-really/media/image3.webp)
 
 **The return is short and centered, so Rafael Nadal approaches the net
 and puts away a volley.**
@@ -87,7 +80,7 @@ additional analysis.
 
 What I found was that the characteristics of each incoming ball hit to
 the player by the opponent affected the players' win probabilities. To
-show this I treated every shot\--rather than every point\--as a separate
+show this I treated every shot--rather than every point--as a separate
 event.
 
 Excluding the serve and return, I looked at every rally shot in which
@@ -102,12 +95,12 @@ In looking only at the baseline points, I considered 5 variables.
 2.  **Whether there was an approach.**
 
 3.  **Whether the incoming ball was short landing inside the service
-    line.**
+line.**
 
 4.  **Whether the incoming ball landed in the center of the court.**
 
 5.  **And whether the incoming ball was defensive, meaning floated or
-    lobbed.**
+lobbed.**
 
 The results are in Table 1. Win in the table means the player ultimately
 wins the point. Approach defines whether the player hit an approach
@@ -115,14 +108,13 @@ shot. Short means the incoming ball landed inside the service line.
 Centered means the incoming ball landed in the middle third of the
 court. Defensive means the incoming ball was floated or lobbed.
 
-In my analysis, these 4 variables\--Approach, Short, Centered, and
-Defensive\--are all independent variables. Win is the dependent
+In my analysis, these 4 variables--Approach, Short, Centered, and
+Defensive--are all independent variables. Win is the dependent
 variable. For the purposes of assessing the effectiveness of net play,
 Approach is the independent variable of interest. The other 3
 independent variables are the Confounders.
 
-![A person playing tennis Description automatically
-generated](media_how-effective-is-playing-the-net-really/media/image4.webp)
+![A person playing tennis Description automatically generated](media_how-effective-is-playing-the-net-really/media/image4.webp)
 
 **Players can win points on Confounders on groundstrokes as well as on
 volleys.**
@@ -149,51 +141,48 @@ baseline rallies 51 times. The results are shown below in Table 1.
 
 **Table 1: Number of Shots per Category**
 
-  -----------------------------------------
-       ** **      **Murray**   **Raonic**
-  --------------- ------------ ------------
-       ** **      104          98
+** **      **Murray**   **Raonic**
+** **      104          98
 
-      **WIN**     (56%)        (48%)
+**WIN**     (56%)        (48%)
 
-                  81           108
+81           108
 
-     **LOSE**     (44%)        (52%)
+**LOSE**     (44%)        (52%)
 
-   **APPROACH**   17 (9%)      51 (25%)
+**APPROACH**   17 (9%)      51 (25%)
 
-                  168          155
+168          155
 
-   **STAY BACK**  (91%)        (75%)
+**STAY BACK**  (91%)        (75%)
 
-                  38           38
+38           38
 
-     **SHORT**    (21%)        (18%)
+**SHORT**    (21%)        (18%)
 
-                  147          168
+147          168
 
-   **NOT SHORT**  (79%)        (82%)
+**NOT SHORT**  (79%)        (82%)
 
-                  85           76
+85           76
 
-   **CENTERED**   (46%)        (37%)
+**CENTERED**   (46%)        (37%)
 
-      **NOT**     100          130
+**NOT**     100          130
 
-   **CENTERED**   (54%)        (63%)
+**CENTERED**   (54%)        (63%)
 
-                               21
+21
 
-   **DEFENSIVE**  11 (6%)      (10%)
+**DEFENSIVE**  11 (6%)      (10%)
 
-      **NOT**     174          185
+**NOT**     174          185
 
-   **DEFENSIVE**  (94%)        (90%)
+**DEFENSIVE**  (94%)        (90%)
 
-  **Total Shots** **185**      **206**
+**Total Shots** **185**      **206**
 
-       ** **      ** **        ** **
-  -----------------------------------------
+** **      ** **        ** **
 
 For each player, my goal was to compare the apparent impact of these
 approaches on who won the point. First when I don't account for the
@@ -205,10 +194,9 @@ associated with approaching.
 To find out the answer, I run what are called Regressions with and
 without the Confounders for each player. In these Regressions, each
 independent variable has its own estimated impact on the dependent
-variable\--who won the point.
+variable--who won the point.
 
-![A person playing tennis Description automatically
-generated](media_how-effective-is-playing-the-net-really/media/image5.webp)
+![A person playing tennis Description automatically generated](media_how-effective-is-playing-the-net-really/media/image5.webp)
 
 **I found that Confounders inflated the win probability associated with
 approaching.**
@@ -256,7 +244,6 @@ check out the analysis on my website. ([link](https://www.topspinshotresearch.co
 | **DEFENSVE** |  | 8.7% |  | 10.3% |
 |  |  |  |  |  |
 
-
 What did I find? Per Table 2, without accounting for the Confounders,
 Murray's raw win probability was 35.3% higher when approaching the net
 than when staying back. His raw win probabilities were 53.0% when
@@ -265,9 +252,7 @@ Confounders, it turns out that approaching benefited him by only 22.2%.
 So not accounting for Confounders did deceptively inflate his win
 probability when approaching.
 
-![A couple of men playing tennis Description automatically generated
-with low
-confidence](media_how-effective-is-playing-the-net-really/media/image6.webp)
+![A couple of men playing tennis Description automatically generated with low confidence](media_how-effective-is-playing-the-net-really/media/image6.webp)
 
 **The depth of Nadal's slice backhand makes the subsequent approach
 less effective, resulting in a passing shot.**
@@ -325,23 +310,38 @@ don't have better options. Ultimately, with more data and careful
 interpretation of that data, pros and all players could better
 understand which tactics are most effective for their game.
 
-| ![A picture containing person, outdoor Description automatically | Jeremy Rosen is a former college tennis |
-| --- | --- |
-| generated](media_how-effective-is-playing-the-net-really/media/image7.jpeg) | analytics website called Topspin Shot |
-|  | Research. ([Click |
-|  | Here](https://www.topspinshotresearch.com/).) |
-|  | He uses advanced statistical techniques to |
-|  | better contextualize traditional tennis |
-|  | statistics. He also conducts sports economics |
-|  | research for tennis, football, and baseball |
-|  | that have been published in Contemporary |
-|  | Economic Policy, Georgetown Center for |
-|  | Economic Research Working Papers, Football |
-|  | Outsiders, and Baseball Prospectus. |
-|  |  |
-|  | He is currently co-authoring a paper with |
-|  | Georgetown University economics professors |
-|  | that uses dynamic game theory to uncover |
-|  | suboptimal serving strategies in the ATP and |
-|  | WTA. |
+![A picture containing person, outdoor Description automatically generated](media_how-effective-is-playing-the-net-really/media/image7.jpeg)
 
+Jeremy Rosen is a former college tennis
+
+analytics website called Topspin Shot
+
+Research. ([Click
+
+Here](https://www.topspinshotresearch.com/).)
+
+He uses advanced statistical techniques to
+
+better contextualize traditional tennis
+
+statistics. He also conducts sports economics
+
+research for tennis, football, and baseball
+
+that have been published in Contemporary
+
+Economic Policy, Georgetown Center for
+
+Economic Research Working Papers, Football
+
+Outsiders, and Baseball Prospectus.
+
+He is currently co-authoring a paper with
+
+Georgetown University economics professors
+
+that uses dynamic game theory to uncover
+
+suboptimal serving strategies in the ATP and
+
+WTA.

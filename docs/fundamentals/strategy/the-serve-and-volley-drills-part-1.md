@@ -2,11 +2,7 @@
 
 ### Kyle LaCroix 
 
-------------------------------------------------------------------------
-
-![A picture containing text, tennis, court, outdoor Description
-automatically
-generated](media_the-serve-and-volley-drills-part-1/media/image1.webp)
+![A picture containing text, tennis, court, outdoor Description automatically generated](media_the-serve-and-volley-drills-part-1/media/image1.webp)
 
 In the soft catch drill the player has to use feel to catch and control
 the ball when moving forward after the serve.
@@ -29,9 +25,7 @@ if the volley is a floater, then that may be the case. When many players
 think power, they also think strong death grips and tightening of the
 body.
 
-![A picture containing text, tennis, court, outdoor Description
-automatically
-generated](media_the-serve-and-volley-drills-part-1/media/image1.webp)
+![A picture containing text, tennis, court, outdoor Description automatically generated](media_the-serve-and-volley-drills-part-1/media/image1.webp)
 
 **In the soft catch drill the player has to use feel to catch and
 control the ball when moving forward after the serve.**
@@ -71,9 +65,7 @@ Tango is a dance that requires you to lead your partner effectively but
 also relies on improvisational skill. This drill is a favorite amongst
 my students because it helps them work on consistency and control.
 
-![A couple of people playing tennis Description automatically generated
-with medium
-confidence](media_the-serve-and-volley-drills-part-1/media/image2.webp)
+![A couple of people playing tennis Description automatically generated with medium confidence](media_the-serve-and-volley-drills-part-1/media/image2.webp)
 
 **The Tango is a cooperative drill to work on confidence and accuracy.**
 
@@ -103,9 +95,7 @@ will immediately hit the panic button in this situation because they
 never practice it and therefore don't have the confidence to rely on it
 in a match.
 
-![Two people playing tennis Description automatically generated with
-medium
-confidence](media_the-serve-and-volley-drills-part-1/media/image3.webp)
+![Two people playing tennis Description automatically generated with medium confidence](media_the-serve-and-volley-drills-part-1/media/image3.webp)
 
 **The 4 Corner Box drill gives players the repetitions they need to
 develop the half volley.**
@@ -130,9 +120,7 @@ students and maximize their level.
 These are the first 3 drills that will raise your ability to master the
 serve and volley. Next stay tuned for 3 more!
 
-![A person smiling for the camera Description automatically generated
-with low
-confidence](media_the-serve-and-volley-drills-part-1/media/image4.jpeg)
+![A person smiling for the camera Description automatically generated with low confidence](media_the-serve-and-volley-drills-part-1/media/image4.jpeg)
 
 Kyle LaCroix is a USPTA and PTR Certified Professional as well as
 receiving his United States Center For Coaching Excellence (USCCE)

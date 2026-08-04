@@ -15,11 +15,8 @@ positions you need to develop a rock solid volley---all based on our new
 incredible high speed footage of Roger Federer and other skilled
 volleyers in the pro game.
 
-![link](media_ultimate-fundamentals-forehand-volley/media/image1.png)
 
-![A person smiling for the camera Description automatically generated
-with medium
-confidence](media_ultimate-fundamentals-forehand-volley/media/image2.jpeg)
+![A person smiling for the camera Description automatically generated with medium confidence](media_ultimate-fundamentals-forehand-volley/media/image2.jpeg)
 
 John Yandell is widely acknowledged as one of the leading videographers
 and students of the modern game of professional tennis. His high speed

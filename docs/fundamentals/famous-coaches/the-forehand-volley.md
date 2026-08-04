@@ -10,9 +10,7 @@ the high volley, the low volley, and the half volley. But if that seems
 like a lot, don't panic, because I'm here to show them all to you,
 step by step.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_the-forehand-volley/media/image1.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_the-forehand-volley/media/image1.webp)
 
 **Ready to learn the forehand volley?**
 
@@ -26,13 +24,8 @@ shape between your thumb and first finger in line with the top edge of
 the grip. Since this is also the grip for serves and overheads, you'll
 find when you serve and volley, you never have to change your grip.
 
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                             ![A person holding a tennis racket Description automatically generated with medium
-   confidence](media_the-forehand-volley/media/image2.jpg)
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                                      **The continental is THE grip.**
-
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person holding a tennis racket Description automatically generated with medium confidence](media_the-forehand-volley/media/image2.jpg)
+**The continental is THE grip.**
 
 **\
 The continental grip provides the best support and control for the
@@ -50,9 +43,7 @@ ends***, hopefully, with you winning the point.
 **The key move for transiting from the approach to the volley itself
 is the split step.**
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_the-forehand-volley/media/image3.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_the-forehand-volley/media/image3.webp)
 
 **When you split stay light on your feet and ready to move.**
 
@@ -67,8 +58,7 @@ contact to allow you time to react. Even a fraction of a second late on
 your split will often close your window of opportunity to cover the ball
 and hit a forcing volley.
 
-![A person holding a tennis racket Description automatically
-generated](media_the-forehand-volley/media/image4.webp)\
+![A person holding a tennis racket Description automatically generated](media_the-forehand-volley/media/image4.webp)\
 **The elbow is in for support and control.**
 
 **[Stay light on your feet, energized, and ready to make your move. [If
@@ -83,13 +73,8 @@ and racquet out in front of you, centered between your shoulders,
 putting you at the midpoint so that you can turn to either the forehand
 or the backhand side.**
 
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                        ![A person holding a tennis racket Description automatically
-   generated](media_the-forehand-volley/media/image5.jpg)
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                            **Hands high, racket head pointed up, light feel.**
-
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A person holding a tennis racket Description automatically generated](media_the-forehand-volley/media/image5.jpg)
+**Hands high, racket head pointed up, light feel.**
 
 The racquet should be partially in front of your face. Keeping the
 racquet head above your hands and pointed upward will create a lighter
@@ -105,9 +90,7 @@ immediately for contact]. You'll use the pace that is
 already on the passing shots, so you [won't need a back
 swing.]]**
 
-![A picture containing text, sky, person, outdoor Description
-automatically
-generated](media_the-forehand-volley/media/image6.webp)
+![A picture containing text, sky, person, outdoor Description automatically generated](media_the-forehand-volley/media/image6.webp)
 
 **Like the catch in baseball, the elbow doesn't move backwards.**
 
@@ -122,9 +105,7 @@ backward movement of the elbow in your preparation on the volley. Even
 though the racquet head may be going back slightly, the elbow is still
 going forward in the process.
 
-![A picture containing outdoor, person, athletic game, sport Description
-automatically
-generated](media_the-forehand-volley/media/image7.webp)
+![A picture containing outdoor, person, athletic game, sport Description automatically generated](media_the-forehand-volley/media/image7.webp)
 
 **The racket head may go back but the elbow moves forward.**
 
@@ -143,13 +124,8 @@ position.** On your basic block volley, used in
 reflex situations there's very little if any follow through. Remember,
 you're thinking catch, not swing.
 
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                    ![A child playing tennis Description automatically generated with low                                                                                        ![A child hitting a tennis ball with her racket Description automatically generated with medium
-   confidence](media_the-forehand-volley/media/image8.webp)
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                                    **The test for taking a backswing.**                                                                                                                              **Leverage in the wrist comes from the \"L\" shape.**
-
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A child playing tennis Description automatically generated with low                                                                                        ![A child hitting a tennis ball with her racket Description automatically generated with medium confidence](media_the-forehand-volley/media/image8.webp)
+**The test for taking a backswing.**                                                                                                                              **Leverage in the wrist comes from the "L" shape.**
 
 **The Block Volley**
 
@@ -159,8 +135,7 @@ achieve depth, use your footwork to drive your body weight into contact
 to help provide punch to your volley as your arm and racquet remain
 firm.**
 
-![A person playing tennis Description automatically
-generated](media_the-forehand-volley/media/image10.webp)
+![A person playing tennis Description automatically generated](media_the-forehand-volley/media/image10.webp)
 
 **Watch the arm and racket move forward as a unit.**
 
@@ -188,11 +163,9 @@ absorber.**
 like a shock absorber, absorbing nearly all the pace of the incoming
 shot**. **Your preparation positions the racquet
 face directly to contact point position and, in your mind, you're
-thinking, \"Catch the ball on contact.\"**
+thinking, "Catch the ball on contact."**
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_the-forehand-volley/media/image11.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_the-forehand-volley/media/image11.webp)
 
 **The racket and arm recoil as a unit.**
 
@@ -210,18 +183,16 @@ should not be to make the shot perfect, just good enough to force the
 opponent. If you go for the outright winners, you'll end up making too
 many errors.**
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_the-forehand-volley/media/image12.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_the-forehand-volley/media/image12.webp)
 
 **Low volley keys: Getting down and spreading your feet.**
 
 **Low Volley**
 
-In many first volley situations, you'll have to **[[execute the low
+In many first volley situations, you'll have to **[execute the low
 volley, making contact just before the ball bounces.] [You must
 force yourself to get down for these shots by spreading your feet and
-really bending your knees.]]**
+really bending your knees.]**
 
 You should realize that the opponent has you in a defensive position,
 having hit the ball to your feet. **So don't rush through this
@@ -242,9 +213,7 @@ simple and don't panic.
 **Determine where the ball will bounce, then position the racquet head
 directly behind that spot.**
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_the-forehand-volley/media/image13.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_the-forehand-volley/media/image13.webp)
 
 **On the half volley, position the racket head behind the bounce.**
 
@@ -273,8 +242,7 @@ ball is going to reach you as much as 40% faster. The initial volley's
 important, but the recovery for the second volley and the covering of
 position is even more essential.
 
-![A person holding a tennis racket Description automatically
-generated](media_the-forehand-volley/media/image14.webp)
+![A person holding a tennis racket Description automatically generated](media_the-forehand-volley/media/image14.webp)
 
 **On the high volley, drive the butt of the racket forward and down**
 
@@ -305,9 +273,7 @@ Academy students. We teach this shot to be used as a tool for sneak
 attack out of the rally. **It is basically nothing more than a regular
 ground stroke without letting the ball bounce.**
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_the-forehand-volley/media/image15.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_the-forehand-volley/media/image15.webp)
 
 **The swinging volley: a groundstroke hit in the air.**
 
@@ -317,15 +283,13 @@ your back swing should be short and compact.**
 yourself so you can work with the ball within your preferred contact
 zone.**
 
-**[[You should add some top spin and build margin of error into this
+**[You should add some top spin and build margin of error into this
 shot as you try to force the opponent.] [Follow this shot to net
 as you would on any approach shot to close the point if
-necessary.]]** Stay Tuned because in the next article
+necessary.]** Stay Tuned because in the next article
 we'll look at the backhand volley in the same detailed way.
 
-![A person wearing sunglasses Description automatically generated with
-medium
-confidence](media_the-forehand-volley/media/image16.jpeg)
+![A person wearing sunglasses Description automatically generated with medium confidence](media_the-forehand-volley/media/image16.jpeg)
 
 Nick Bollettieri is the legendary coach who invented the concept of the
 tennis academy more than 30 years ago. He has trained thousands of elite

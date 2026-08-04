@@ -2,11 +2,7 @@
 
 ### Nick Bollettierri with Lance Luciani
 
-------------------------------------------------------------------------
-
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_the-strategy-zone-rally-control/media/image1.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_the-strategy-zone-rally-control/media/image1.webp)
 
 **Flat drives, short angles, loops and drop shots: the building
 blocks.**
@@ -21,7 +17,7 @@ As the first article explains, winning strategic tennis can be broken
 down into 3 parts or phases: Control, Hurt, and Finish.
 
 In this article, let's look more closely at Control, which is the first
-phase or building block in our system. **\"Control\" means taking
+phase or building block in our system. **"Control" means taking
 charge of the point. Control is about stretching out the
 court.** **Control is your ability to stretch
 your opponent and knock them off balance.** Your
@@ -52,15 +48,13 @@ combinations to win points.
 | Flat Drives to the Corners | Off Speed Angles |
 | High Deep Loops | Drop Shots |
 
-
 **Flat Drive to the Corners**
 
 In the first article we talked about how Andre Agassi liked to run his
-opponents from \"Bradenton to Vegas.\" Andre did this in part by
+opponents from "Bradenton to Vegas." Andre did this in part by
 **hitting flat drives corner to corner.**
 
-![A picture containing match Description automatically
-generated](media_the-strategy-zone-rally-control/media/image2.webp)
+![A picture containing match Description automatically generated](media_the-strategy-zone-rally-control/media/image2.webp)
 
 **Maria Sharapova dominates with flat drives creating easy winners.**
 
@@ -70,14 +64,14 @@ Inevitably, these deep drives produce errors, or short balls which Maria
 can then hit into the open court for winners.**
 
 Notice in the animation that the finishing shot does not have to be a
-spectacular \"highlight\" winner. In fact, the opposite. **If the
+spectacular "highlight" winner. In fact, the opposite. **If the
 player controls the corners, the final shot is often a relatively easy
 drive into the open court. That is percentage tennis: winners set up by
 groundstroke control.**
 
 It's one thing to point out what Andre and Maria do and say to other
-players \"**control the point with flat drives to the
-corners.\"** But few players below the highest
+players "**control the point with flat drives to the
+corners."** But few players below the highest
 level of the game possess the basic skills to do so. **At the
 recreational level especially too many players focus on trying to hit
 the ball hard instead of hitting the ball
@@ -101,9 +95,7 @@ drills and the right amount of work, players at all levels are capable
 of developing these shots and therefore the most basic building blocks
 for rally control.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_the-strategy-zone-rally-control/media/image3.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_the-strategy-zone-rally-control/media/image3.webp)
 
 **Can you drive deep to the corners in fed ball and live ball drills?**
 
@@ -113,9 +105,7 @@ Work until you are highly confident in both fed ball and live ball
 drills. Only then will you have the basis to progress to the Hurt and
 Finish stages in our system.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_the-strategy-zone-rally-control/media/image4.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_the-strategy-zone-rally-control/media/image4.webp)
 
 **The off speed angle bounces inside the service box and runs off the
 court.**
@@ -137,8 +127,8 @@ short angle drills in practice every single day.
 **An effective off speed angle should bounce inside the service line
 and then run off the court crossing the doubles alley
 sideline.** **These angles can be hit relatively
-flat, or higher with a more looping arc and more spin, what we call \"a
-little roller.\"**
+flat, or higher with a more looping arc and more spin, what we call "a
+little roller."**
 
 **When the ball is lower, you can hit these angles with a neutral or
 semi-open stance. When the ball is higher, you should open your stance
@@ -157,9 +147,7 @@ into the target area. As with the drives to the corner, you need to
 develop your ability to hit the off-speed angle shots first in fed ball
 drills and then in live rallies.
 
-![A couple of people play tennis Description automatically generated
-with low
-confidence](media_the-strategy-zone-rally-control/media/image5.webp)
+![A couple of people play tennis Description automatically generated with low confidence](media_the-strategy-zone-rally-control/media/image5.webp)
 
 **Developing the loop to both sides in fed ball drill.**
 
@@ -171,20 +159,20 @@ your opponent back.** **The goal is to make him
 play a heavy ball from above his shoulder, usually from a position that
 is deep in the court.**
 
-**[[High looping balls put your opponent on the defensive and often
+**[High looping balls put your opponent on the defensive and often
 generate short replies that you can then attack.] [There is also
 a mental component to the shot, because the deep loop often frustrates
 the opponent, reducing his will to fight and forcing him into
-errors.]]**
+errors.]**
 
 **To be a complete player, you should be able to hit the high deep
 loop both crosscourt and down the line, and to do so off both your
 forehand and backhand.** From the inside position,
-you must also be able to loop inside out and inside in. **[[Hit with a
+you must also be able to loop inside out and inside in. **[Hit with a
 high arc, the deep loop should travel 10 feet or more above the
 opponent's service line.] [As with the other basic control
 shots, it is important to visualize the path of the shot and the target
-area to develop confidence and accuracy.]]**
+area to develop confidence and accuracy.]**
 
 **As with the flat drives, and the short angles, the deep loop is a
 shot that can be used in combination, but first must be developed to a
@@ -198,19 +186,17 @@ drill and then progress to live ball rallies. When you achieve
 consistency in both, you have mastered another critical building block
 for winning all court play in the Strategy Zone system.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_the-strategy-zone-rally-control/media/image6.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_the-strategy-zone-rally-control/media/image6.webp)
 
 **The drop shot: effective in pro tennis and especially lower levels.**
 
 **Drop Shot**
 
 **The final basic shot in developing your ability to control points is
-the drop shot.** **[[In pro tennis, the top players
+the drop shot.** **[In pro tennis, the top players
 use the drop shot when opponents are out of position bringing them
 forward and/or wide. This] [opens the court for both the pass and
-the lob.]]** **Another important option is to hit
+the lob.]** **Another important option is to hit
 the drop shot and come forward, cutting off the opponent's angles and
 hitting the reply as a volley into the open
 court.**
@@ -241,29 +227,24 @@ serve. After that, we'll start to show you how to put all these
 building blocks together into winning combinations to Hurt and Finish.
 Stay Tuned.
 
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![A couple of men holding tennis rackets Description automatically generated with medium                                                                                         Nick Bollettieri (right) is the legendary coach
-  confidence](media_the-strategy-zone-rally-control/media/image7.jpeg)                                                                                                                                                   Seles, Andre Agassi, Jim Courier, and Maria
-                                                                                                                                                                                   Sharapova. Nick is the creator of the tennis
-                                                                                                                                                                                   academy concept and has watched his vision grow
-                                                                                                                                                                                   for over 30 years into the world's premier
-                                                                                                                                                                                   tennis training ground at IMG Bollettieri in
-                                                                                                                                                                                   Bradenton, Florida. Over the years Nick has
-                                                                                                                                                                                   collaborated with many of the leading innovators
-                                                                                                                                                                                   in coaching, introducing and incorporating their
-                                                                                                                                                                                   concepts into training programs at the Academy.\
-                                                                                                                                                                                   \
-                                                                                                                                                                                   Lance Luciani (left), the founder of Strategy
-                                                                                                                                                                                   Zone, is one of the world's leading analysts of
-                                                                                                                                                                                   statistics and strategy, and the Head of
-                                                                                                                                                                                   Strategy and Tactics at IMG/Bollettieri
-                                                                                                                                                                                   Academies. Lance was a pioneer in the video
-                                                                                                                                                                                   analysis of match play at all levels of the
-                                                                                                                                                                                   game. At the Academy he has created the cutting
-                                                                                                                                                                                   edge system used by players to study the
-                                                                                                                                                                                   patterns of their points from real time play.
-                                                                                                                                                                                   This system is revolutionizing how competitors
-                                                                                                                                                                                   develop and improve their strategic style.
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ------------------------------------------------
-
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A couple of men holding tennis rackets Description automatically generated with medium                                                                                         Nick Bollettieri (right) is the legendary coach confidence](media_the-strategy-zone-rally-control/media/image7.jpeg)                                                                                                                                                   Seles, Andre Agassi, Jim Courier, and Maria
+Sharapova. Nick is the creator of the tennis
+academy concept and has watched his vision grow
+for over 30 years into the world's premier
+tennis training ground at IMG Bollettieri in
+Bradenton, Florida. Over the years Nick has
+collaborated with many of the leading innovators
+in coaching, introducing and incorporating their
+concepts into training programs at the Academy.\
+\
+Lance Luciani (left), the founder of Strategy
+Zone, is one of the world's leading analysts of
+statistics and strategy, and the Head of
+Strategy and Tactics at IMG/Bollettieri
+Academies. Lance was a pioneer in the video
+analysis of match play at all levels of the
+game. At the Academy he has created the cutting
+edge system used by players to study the
+patterns of their points from real time play.
+This system is revolutionizing how competitors
+develop and improve their strategic style.

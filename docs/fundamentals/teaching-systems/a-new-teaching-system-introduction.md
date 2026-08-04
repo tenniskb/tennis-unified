@@ -5,8 +5,7 @@ Introduction**
 
 **John Yandell**
 
-![A person swinging a tennis racket Description automatically
-generated](media_a-new-teaching-system-introduction/media/image1.webp)
+![A person swinging a tennis racket Description automatically generated](media_a-new-teaching-system-introduction/media/image1.webp)
 
 **A 10-year adventure contemplating amazing variety, culminating in a
 new method.**
@@ -14,7 +13,7 @@ new method.**
 For over 10 years I have been on a fantastic adventure, exploring the
 amazing variety of trees in the forest of professional stroke
 production. Now it's time to elevate and create an overview of the
-entire forest\--specifically how to apply everything I have learned to
+entire forest--specifically how to apply everything I have learned to
 raising your game to the highest technical level.
 
 That's why I am tremendously excited to present a new teaching system in
@@ -44,16 +43,14 @@ and the range of additional elements. We will explain how to develop
 them in the way that is most appropriate for your game at your level and
 help you build your own world class technical foundation.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_a-new-teaching-system-introduction/media/image2.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_a-new-teaching-system-introduction/media/image2.webp)
 
 **A methodology that identifies and helps you master the critical
 positions.**
 
 This work has stemmed from the study of literally hundreds of hours of
 high speed footage of the greatest strokes in the history of
-tennis\--all in live match play. This live footage is critical, and
+tennis--all in live match play. This live footage is critical, and
 something that is exclusive to this system.
 
 Although there is now a substantial body of pro practice footage on the
@@ -68,7 +65,7 @@ doing and how to recreate it.
 In match play there are huge variations in incoming ball speed, court
 location, spin, contact height, depth and angles. And exactly the same
 factors in the outgoing shots the player produce. These
-combinations---the essence of real tennis\--are not replicated in
+combinations---the essence of real tennis--are not replicated in
 practice.
 
 This system identifies what elements are truly core and how top players
@@ -83,9 +80,7 @@ correcting, or evolving your own stroke motions. These progressions
 start by identifying stroke models and the key positions within those
 models, drawn from the pro footage sources.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_a-new-teaching-system-introduction/media/image3.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_a-new-teaching-system-introduction/media/image3.webp)
 
 **Flow through your strokes and your matches with image and feeling.**
 
@@ -118,16 +113,14 @@ Pictures and feelings are what guide top players in actual play. Using
 this system, students learn to follow their own internal mental images
 and feelings and make this process primarily subconscious.
 
-![A screenshot of a computer Description automatically generated with
-low
-confidence](media_a-new-teaching-system-introduction/media/image4.jpg)
+![A screenshot of a computer Description automatically generated with low confidence](media_a-new-teaching-system-introduction/media/image4.jpg)
 
 **In this series you'll see how to compare your key positions to your
 strokes models without expensive cameras or software.**
 
 They flash through the mind at the speed of the physical game. By using
-them, players bypass the paralysis that comes from trying to \"think
-through\" what you are actually doing on the court.
+them, players bypass the paralysis that comes from trying to "think
+through" what you are actually doing on the court.
 
 Thinking your way through a tennis stroke is impossible anyway. Words
 and physical movement don't mix. And this is why so many traditional
@@ -136,8 +129,8 @@ tennis lessons prove to be so ineffective and frustrating over time.
 This is also why so many high level players are incapable of describing
 in words how they hit the ball, even when they have been trained by some
 of the world's best technical teachers. They don't experience what they
-do in words. The great John McEnroe reduced it to a sentence: \"A shot
-flashes across my mind and then I hit it.\"
+do in words. The great John McEnroe reduced it to a sentence: "A shot
+flashes across my mind and then I hit it."
 
 The goal of this new methodology is to help you create this same state
 of fluid, technical mastery for yourself, to flow through matches guided
@@ -160,9 +153,7 @@ that prevents real improvement is the belief that the ability to execute
 a stroke in a lesson or simple practice automatically translates into
 competitive play. That is never the case.
 
-![A person playing tennis Description automatically generated with
-medium
-confidence](media_a-new-teaching-system-introduction/media/image5.webp)
+![A person playing tennis Description automatically generated with medium confidence](media_a-new-teaching-system-introduction/media/image5.webp)
 
 **Develop the basic elements and the variations that apply to your
 game.**
@@ -197,8 +188,7 @@ answer your questions and evaluate your progress. And if you want to
 come to San Francisco to work with me personally you can, as have so man
 Tennisplayer subscribers over the years.
 
-![A person playing tennis Description automatically
-generated](media_a-new-teaching-system-introduction/media/image6.webp)
+![A person playing tennis Description automatically generated](media_a-new-teaching-system-introduction/media/image6.webp)
 
 **Which pro elements are really right for your game---and when?**
 
@@ -216,8 +206,8 @@ discoveries in this footage, that message has been on occasion lost, or
 even frequently lost.
 
 In the vast, conflicted world of tennis teaching there are those you
-will tell that it is easily possible to \"play like the pros\"---and
-easily possible for all players at all levels\--that you can instantly
+will tell that it is easily possible to "play like the pros"---and
+easily possible for all players at all levels--that you can instantly
 learn even the most advanced technical components in a day, or even by
 just watching a DVD.
 
@@ -239,9 +229,7 @@ demonstrate in detail how this new teaching method works and to help you
 recreate the experience that I have had with players on my own teaching
 court, and on teaching courts around the world. Stay tuned.
 
-![A person smiling for the camera Description automatically generated
-with medium
-confidence](media_a-new-teaching-system-introduction/media/image7.jpeg)
+![A person smiling for the camera Description automatically generated with medium confidence](media_a-new-teaching-system-introduction/media/image7.jpeg)
 
 John Yandell is widely acknowledged as one of the leading videographers
 and students of the modern game of professional tennis. His high speed
