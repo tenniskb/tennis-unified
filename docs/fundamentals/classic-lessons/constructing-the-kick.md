@@ -3,11 +3,11 @@
 ### Chris Lewit
 
 In my first article on the kick serve, I broke down the kick motion into
-its important technical elements\--the \"building materials\" so to
+its important technical elements--the "building materials" so to
 speak. ([link](http://www.tennisplayer.net/members/classiclessons/chris_lewit/keys_to_the_kick/keys_to_the_kick_page1.html).)
 Now comes the exciting part: the actual construction project! In this
 second article, I will describe how to take the materials and engineer a
-beautiful, mechanically sound kick serve\--like building a house\--step
+beautiful, mechanically sound kick serve--like building a house--step
 by step.
 
 Building a great kick is much harder than merely accurately describing
@@ -25,17 +25,9 @@ Over the course of this process, the player should go through four
 distinct stages. So pay close attention, hold on tight to your mouse,
 and here we go.
 
-| ![Close-up of a person's hands with medium | ![A person playing tennis with medium |
-| --- | --- |
-| confidence](media_constructing-the-kick/media/image2.jpg) |  |
-|  |  |
-|  | **Make sure you start with a strong continental grip and a good foundation stance.** |
+![Close-up of a person's hands with medium confidence](media_constructing-the-kick/media/image2.jpg)
 
-+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+                                                                                                                                                                            |
-| ![Close-up of a person's hand with medium |  |
-| --- | --- |
-| confidence](media_constructing-the-kick/media/image4.jpg) |  |
-
+![Close-up of a person's hand with medium confidence](media_constructing-the-kick/media/image4.jpg)
 
 Stage 1 is the foundation in which the player masters certain beginning
 fundamentals. When a player first comes to me looking to learn a kick, I
@@ -54,13 +46,13 @@ grip, as discussed in the first article.
 
 From that jumping off point, with rare exception, we will work for
 several days up to several months on one fundamental exercise and its
-variations\--the **Triceps Extension Drill or what I affectionately like to call TED. This is Exercise One!**
+variations--the **Triceps Extension Drill or what I affectionately like to call TED. This is Exercise One!**
 
 The purpose of the Triceps Extension Drill is manifold. Firstly, it
 breaks the player away from his old serve motion and the bad habits
 usually contained in that motion. I almost always find I need a clean
 slate if the player is really to practice the key technical elements for
-the kick. So this drill becomes the \"workshop\" for many of the most
+the kick. So this drill becomes the "workshop" for many of the most
 important beginning fundamentals of the kick serve.
 
 The other primary purpose of the TED drill is to work on strengthening
@@ -234,7 +226,7 @@ easily because the process is usually long and difficult. Progress is
 usually slow and steady, not meteoric.
 
 The holy grail of the Triceps Extension Drill is a serve that generates
-a high pitched \"zip\" or \"zing\" caused by the racquet strings
+a high pitched "zip" or "zing" caused by the racquet strings
 brushing the ball for spin. The sound needs to be executed and the
 resulting ball must travel in a steep arc over the net.
 
@@ -264,7 +256,7 @@ player focus on the jump mechanics.
 
 I start off having the players do the jump without the ball. I focus on
 the distance and height of the jump and proper balanced landing kicking
-the right foot up and back. I want my players to \"stick\" the landing,
+the right foot up and back. I want my players to "stick" the landing,
 like in gymnastics, and this is a great way to train dynamic balance.
 
 Oftentimes, players will jump only off the front leg, especially players
@@ -366,8 +358,8 @@ incorporate the motion into mind and body.
 In my opinion, one of the most common reasons players fail to learn the
 kick motion is because they try to play with the flat, slice, and kick
 all at once, rather than focusing on just the kick motion. The kick is
-so difficult to learn\--there are so many technical areas to
-master\--that rarely can a player practice a kick and then switch back
+so difficult to learn--there are so many technical areas to
+master--that rarely can a player practice a kick and then switch back
 and forth successfully between the other variations during a practice
 set, much less a match.
 
@@ -418,7 +410,7 @@ kick.
 I believe that all players who are learning a kick serve should be
 developing core strength and flexibility. Well respected former German
 National Coach, Richard Schonborn, has called this critical core area
-the \"muscle corset.\" In the next article, I'll lay out the muscle
+the "muscle corset." In the next article, I'll lay out the muscle
 corset training program my students regularly follow, along with some
 other important training/prehabilitation exercises that will help reduce
 injuries on the kick and make the serve more powerful and explosive. But

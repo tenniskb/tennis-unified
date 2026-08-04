@@ -228,9 +228,6 @@ spins. **[A topspin ball landing at the service line will bounce past
 the baseline. A backspin ball landing on the service line will bounce
 inside the baseline.]**
 
-
-+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+                                                                                                                                                                               |
-
 **Magnus Force**
 
 ![Diagram, schematic Description automatically generated](media_tennis-principles-and-foundations/media/image3.png)

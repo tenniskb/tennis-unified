@@ -24,9 +24,6 @@ Maintaining this strong wrist position provides solid support to the
 racquet face at contact for the various types of backhand volleys. Watch
 how it never breaks down in the course of the motion.
 
-![A person holding a tennis racket Description automatically generated with medium                                                                                             ![A person playing tennis Description automatically generated with medium confidence](media_the-backhand-volley/media/image2.jpg)
-**The continental grip is more critical on the backhand than the forehand volley.**                                                                                              **The "Big L" position is the key to supporting the racquet face.**
-
 **Preparation**
 
 Let's look first at the preparation.
@@ -42,8 +39,6 @@ back, getting it behind your body in your preparation.**
 In this position, **your hitting arm is bent and your elbow is centered between your shoulders.**
 
 ![A person playing ping pong Description automatically generated with medium confidence](media_the-backhand-volley/media/image4.webp)
-
-+------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 ![A picture containing sky, outdoor, sport, athletic game Description automatically generated](media_the-backhand-volley/media/image5.webp)
 

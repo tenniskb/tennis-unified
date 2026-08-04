@@ -6,29 +6,23 @@ As in the backcourt, good movement at the net begins with the Initial
 Move on both the forehand and backhand volley. The Initial Move at the
 net is similar to the ground strokes. Let's look at the forehand first.
 
-|  | **Initial Move: Forehand** |
-| --- | --- |
-|  |  |
-|  | On the forehand, the Initial |
-|  | Move starts with the feet: a |
-|  | push with the Inside Foot and |
-|  | a step with the Outside Foot |
-|  | to the ball. |
-|  |  |
-|  | As we saw with the |
-|  | groundstrokes, the Outside |
-|  | Foot is the left foot, closer |
-|  | to the ball (for a right |
-|  | hander). |
-|  |  |
-|  | The Inside Foot away from the |
-|  | ball is the left. The only |
-|  | real difference compared with |
-|  | the forehand groundstroke is |
-|  | that the shoulder turn is |
-|  | slightly shorter. |
-
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------+                                |
+**Initial Move: Forehand**
+On the forehand, the Initial
+Move starts with the feet: a
+push with the Inside Foot and
+a step with the Outside Foot
+to the ball.
+As we saw with the
+groundstrokes, the Outside
+Foot is the left foot, closer
+to the ball (for a right
+hander).
+The Inside Foot away from the
+ball is the left. The only
+real difference compared with
+the forehand groundstroke is
+that the shoulder turn is
+slightly shorter.
 
 ![A person playing tennis Description automatically generated with medium confidence](media_court-movement-the-volley/media/image1.webp)
 
@@ -55,8 +49,6 @@ that they frequently hit their
 volleys with this open stance
 
 positioning.
-
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------+                                |
 
 ![A person playing tennis Description automatically generated with medium confidence](media_court-movement-the-volley/media/image2.webp)
 
@@ -96,8 +88,6 @@ to cut off the oncoming
 
 ball.**
 
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------+                                |
-
 ![A person playing tennis Description automatically generated](media_court-movement-the-volley/media/image3.webp)
 
 **On wider balls, increase the length of the first step and add a lunge step if necessary.**
@@ -136,35 +126,23 @@ of the reduced time between
 
 shots.
 
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------+                                |
-|  |  |
-| --- | --- |
-|  | **Backhand Volley** |
-|  |  |
-|  | Now let's look at the sequence |
-|  | of the hit and the recovery on |
-|  | the backhand volley. |
-|  |  |
-|  | The pattern and sequence |
-|  | should start to seem familiar |
-|  | at this point, with the same |
-|  | elements as the groundstrokes |
-|  | and forehand volley. |
-|  |  |
-|  | Again, the Components are: |
-|  |  |
-|  | - The Initial Move |
-|  |  |
-|  | - The Step to the Ball |
-|  |  |
-|  | - The Recovery Exchange |
-|  |  |
-|  | Watch in the animation how I |
-|  | exchange the Outside Foot and |
-|  | the Inside Foot to begin the |
-|  | recovery. |
-
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------+                                |
+**Backhand Volley**
+Now let's look at the sequence
+of the hit and the recovery on
+the backhand volley.
+The pattern and sequence
+should start to seem familiar
+at this point, with the same
+elements as the groundstrokes
+and forehand volley.
+Again, the Components are:
+- The Initial Move
+- The Step to the Ball
+- The Recovery Exchange
+Watch in the animation how I
+exchange the Outside Foot and
+the Inside Foot to begin the
+recovery.
 
 ![A person playing tennis Description automatically generated with medium confidence](media_court-movement-the-volley/media/image5.webp)
 
@@ -197,8 +175,6 @@ transition to the net, and
 especially the return of
 
 serve.
-
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------+                                |
 
 ![A person playing tennis Description automatically generated with medium confidence](media_court-movement-the-volley/media/image6.webp)
 

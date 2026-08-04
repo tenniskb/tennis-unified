@@ -2,19 +2,13 @@
 
 ### **Bob Hansen**
 
-| Tennis is a game of movement, and movement is just as important on the backhand as on the forehand. But the backhand movement patterns are probably less well understood |  |
-| --- | --- |
-| than the forehand by many players. |  |
-|  |  |
-| Whether you hit with one hand or two, effective movement means understanding the first move, how to move out and set up behind the ball, and the best method for |  |
-| efficient recovery. |  |
-|  |  |
-| In fact, the patterns of movement to the hit and the recovery are almost identical for the backhand as for the forehand. |  |
-|  |  |
-| Although more forehands are probably hit with open stance, it is equally important to be able to hit open stance on the backhand side. This is true for both the one |  |
-| hander and the two-hander. |  |
-
-+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+Tennis is a game of movement, and movement is just as important on the backhand as on the forehand. But the backhand movement patterns are probably less well understood
+than the forehand by many players.
+Whether you hit with one hand or two, effective movement means understanding the first move, how to move out and set up behind the ball, and the best method for
+efficient recovery.
+In fact, the patterns of movement to the hit and the recovery are almost identical for the backhand as for the forehand.
+Although more forehands are probably hit with open stance, it is equally important to be able to hit open stance on the backhand side. This is true for both the one
+hander and the two-hander.
 
 ![A picture containing sport, athletic game, outdoor, court Description automatically generated](media_court-movement-the-backhand/media/image1.webp)
 
@@ -29,8 +23,6 @@ For the backhand, start in a good, balance ready position, with your feet spread
 Again, the push is with the Inside Foot. The step to the ball is with the Outside Foot.
 
 **[For a righthander, the Outside Foot on the backhand is the left foot, closest to the ball. The Inside Foot is the right foot, further away from the ball.]**
-
-+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------+                                                                                                                                                                          |
 
 ![A person playing tennis Description automatically generated with medium confidence](media_court-movement-the-backhand/media/image2.webp)
 
