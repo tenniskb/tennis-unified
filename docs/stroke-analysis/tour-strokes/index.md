@@ -1,21 +1,27 @@
 ---
 title: Tour Strokes
-description: Comprehensive collection of Tour Strokes articles and technical analyses from TPA library.
+description: Pro player stroke analyses — Zverev, Medvedev, Thiem, Nishikori, Fernandez serves and forehands
 ---
 
 # Tour Strokes
 
-Total Articles: 8
+**Current pro player technical analyses** — serves and forehands of top tour players.
+
+## Articles
+
+| Player | Stroke | Focus |
+|---|---|---|
+| [Alexander Zverev](alexander-zverev-serve.md) | Serve | Serve mechanics |
+| [Daniil Medvedev](daniil-medvedev-forehand.md) | Forehand | Unorthodox forehand |
+| [Dominic Thiem](dominic-thiem-s-second-serve.md) | 2nd Serve | Second serve structure |
+| [Kei Nishikori](kei-nishikori-serve.md) | Serve | Compact serve |
+| [Leylah Fernandez](leylah-fernandez-forehand.md) | Forehand | Left-handed forehand |
+| [The Pro Return](the-pro-return.md) | Return | Pro return analysis |
 
 ---
 
-## Articles Index
+**Start here:** [Zverev Serve](alexander-zverev-serve.md) or [Medvedev Forehand](daniil-medvedev-forehand.md)
+## Additional Articles
 
-- [Alexander Zverev Serve](alexander-zverev-serve.md)
-- [Components of the Modern Forehand](components-of-the-modern-forehand.md)
-- [Daniil Medvedev Forehand](daniil-medvedev-forehand.md)
-- [Dominic Thiem's Second Serve](dominic-thiem-s-second-serve.md)
-- [Kei Nishikori Serve](kei-nishikori-serve.md)
-- [Leylah Fernandez Forehand](leylah-fernandez-forehand.md)
-- [The Pro Return](the-pro-return.md)
-- [Tour strokes TOC](tour-strokes-toc.md)
+- [Components Of The Modern Forehand](components-of-the-modern-forehand.md)
+- [Tour Strokes Toc](tour-strokes-toc.md)
