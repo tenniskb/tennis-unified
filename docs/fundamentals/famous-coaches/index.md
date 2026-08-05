@@ -5,9 +5,6 @@ description: Comprehensive collection of Famous Coaches articles and technical a
 
 # Famous Coaches
 
-> [!NOTE]
-> Looking for video-based coaching content instead of written articles? See the [Coach Video Library](../../coach-video-library/index.md) — 477 videos from 25 elite coaches, including the coaches of Sharapova, Swiatek, Raonic, and Shapovalov.
-
 ## Content Overview
 
 Total Articles: 65
