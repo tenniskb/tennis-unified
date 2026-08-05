@@ -30,7 +30,7 @@ Anthony Ross," primarily addresses this sports parent course. Additionally, unde
 ### 2. Chapter 2 Balancing Support - Fostering Resilience and Self-Worth in Young Athletes
 
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/VIDEO_ID_PLACEHOLDER_anthony-ross_2" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+  <iframe src="https://www.youtube.com/embed/rttgK9xRd6U" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 </div>
 
 ### 3. Chapter 3 Steering Emotions Mastering the Highs and Lows of Sport Parenting
