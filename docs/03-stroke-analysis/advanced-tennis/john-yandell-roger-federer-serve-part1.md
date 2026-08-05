@@ -7,7 +7,7 @@ generated](media_john-yandell-roger-federer-serve-part1/media/image1.webp)
 
 **Federer's serve: less extreme and a better model.**
 
-So far on Tennisplayer we have taken a detailed look at the motions of
+So far on TPA we have taken a detailed look at the motions of
 two of the greatest servers in the modern: Pete Sampras ([link](../Tour%20strokes/Tour%20strokes%20TOC.docx)) and Andy Roddick.
 ([link](Advanced%20Tennis%20TOC.docx))
 
@@ -329,7 +329,7 @@ serve.
 In our analysis of Pete's serve, we identified two primary elements in
 the motion of the hand and racket to the ball. These are the extension
 of the elbow and the rotation of the hand and arm. One of the things
-I'm happiest about on Tennisplayer is how we are constantly increasing
+I'm happiest about on TPA is how we are constantly increasing
 our knowledge of all aspects of the game, including the serve.
 
 ![A picture containing text, tennis, sport, player Description
@@ -366,7 +366,7 @@ passive, and may even qualify as some form of \"snap.\"
 And I say great! More data is better and may lead to better
 understanding. I get bored just rehashing the same arguments anyway. The
 chance to revise your thinking is actually more stimulating. This isn't
-a religious orthodoxy we're running here at Tennisplayer, although some
+a religious orthodoxy we're running here at TPA, although some
 coaches treat their beliefs that way and if challenged will battle to
 the death against the infidel.
 
@@ -465,12 +465,12 @@ confidence](media_john-yandell-roger-federer-serve-part1/media/image21.jpeg)
 
 John Yandell is widely acknowledged as one of the leading videographers
 and students of the modern game of professional tennis. His high speed
-filming for Advanced Tennis and Tennisplayer have provided new visual
+filming for Advanced Tennis and TPA have provided new visual
 resources that have changed the way the game is studied and understood
 by both players and coaches. He has done personal video analysis for
 hundreds of high level competitive players, including Justine
 Henin-Hardenne, Taylor Dent and John McEnroe, among others.
 
-In addition to his role as Editor of Tennisplayer he is the author of
+In addition to his role as Editor of TPA he is the author of
 the critically acclaimed book Visual Tennis. The John Yandell Tennis
 School is located in San Francisco, California.

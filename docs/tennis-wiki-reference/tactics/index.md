@@ -1,16 +1,15 @@
 ---
-title: Tactics Wiki Reference
-description: Bilingual reference for match strategy, pattern building, and decision trees.
+title: "Tactics & Decision-Making — Technical Reference"
+description: "The cognitive and strategic architecture behind modern point construction: how elite players plan several shots ahead, why the best tactical decisions happen below conscious thought, and how to build that kind of implicit, adaptive decision-making yourself."
 ---
 
-# Tactics Wiki Reference
+# Tactics & Decision-Making — Technical Reference
 
-Bilingual reference for match strategy, pattern building, and decision trees.
+The cognitive and strategic architecture behind modern point construction: how elite players plan several shots ahead, why the best tactical decisions happen below conscious thought, and how to build that kind of implicit, adaptive decision-making yourself.
 
----
+## Articles (2)
 
-## Content Overview
+- [Agentic Strategy — Technical Reference](agentic-strategy.md)
+- [The Agentic Decision Tree — Technical Reference](agentic-decision-tree.md)
 
-*This section provides comprehensive technical and tactical documentation.*
-
-[Return to Home](../../index.md)
+[← Back to Tennis Wiki Reference](../index.md)

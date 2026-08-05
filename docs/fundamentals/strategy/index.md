@@ -1,101 +1,120 @@
 ---
 title: Strategy
-description: Tennis strategy — patterns, match play, doubles, game styles, winning matches
+description: Comprehensive collection of Strategy articles and technical analyses from TennisPlayer.net library.
 ---
 
 # Strategy
 
-Winning isn't about hitting harder — it's about playing smarter.
-
-## Key Collections
-
-| Collection | Articles | Focus |
-|---|---|---|
-| **Opening the Court** | 15 | Systematic court opening (14 parts + summary) |
-| **Pro Patterns** | 5 | Basic diagonals, angles, serve/return diagonals, inside-out |
-| **Set-up Game/Point** | 2 | The set-up game, the set-up point |
-| **Serve & Volley** | 7 | Mentality, drills, tactical components, 3 critical shots, summary |
-| **Strategy Zone** | 8 | Intro, serve control, return control, rally control, hurt phase, S&V finish, swing volley, transition/net |
-
-## Match Play & Analysis
-
-| Topic | Articles |
-|---|---|
-| A Few Matches I Lost | 1 |
-| Adapting Your Game to Win | 1 |
-| Beating Lobbers | 1 |
-| Confessions of a Tennis Disruptor | 1 |
-| Federer vs Nadal - 3 Overlooked Factors | 1 |
-| First Strike Tennis (All Levels) | 1 |
-| First Strike Tennis | 1 |
-| Forced Errors | 1 |
-| How Djokovic Dominates Nadal | 1 |
-| How Effective Is Playing the Net | 1 |
-| How Nadal Won French Open 2006 | 1 |
-| How Federer Won US Open 2006 | 1 |
-| How Federer Won Wimbledon 2006 | 1 |
-| Increasing Chances on Serve | 1 |
-| Live Match Play | 1 |
-| Marginal Gains - Top Shots & Set Up Shots | 1 |
-| Momentum | 1 |
-| Playing Styles Revisited | 1 |
-| Playing the Challenge Zone | 1 |
-| Winning Doubles - Service Games | 1 |
-| Winning Doubles - Return Game | 1 |
-| Preparing for Competition | 1 |
-| Pro Statistics & League Statistics | 1 |
-| Responding to Lobs | 1 |
-| Return of Serve in the System | 1 |
-| Return of Serve Points | 1 |
-| Risk Management | 1 |
-| Federer vs Nadal Round 3 2006 | 1 |
-| Serving in the System | 1 |
-| Shot Selection Foundation | 1 |
-| Situational & Scenario Analysis | 2 |
-| Statistics Going Inside Matches | 1 |
-| Suffering and Service Returns | 1 |
-| Swinging Volleys - Future of Attack | 1 |
-| The Aggressive Margin | 1 |
-| Bryan Brothers Doubles Principles | 1 |
-| The Cup | 1 |
-| Elements of Game Style | 1 |
-| Favorite vs Underdog | 1 |
-| Four Components of Match Play | 2 |
-| Hunter and Helper | 1 |
-| Inspiration to Serve & Volley | 1 |
-| Magic Number One | 1 |
-| New Magic Numbers | 1 |
-| Set-up Game | 1 |
-| Set-up Point | 1 |
-| Strategy Zone - Groundstroke Finishes | 1 |
-| Strategy Zone - Introduction | 1 |
-| Strategy Zone - Phase 2 Hurt | 1 |
-| Strategy Zone - Rally Control | 1 |
-| Strategy Zone - Return Control | 1 |
-| Strategy Zone - Serve Control | 1 |
-| Strategy Zone - S&V Finish | 1 |
-| Strategy Zone - Swinging Volley | 1 |
-| Strategy Zone - Transition/Net Finish | 1 |
-| System Introduction | 1 |
-| Tactical Universe | 1 |
-| Unknown Statistics - Forced Error | 1 |
-| Warrior Sport | 1 |
-| Three Secrets Destroying Pushers | 1 |
-| Timeless Principles of Strategy | 1 |
-| Understanding the Service Box | 1 |
-| Using Statistics in Coaching | 1 |
-| Using Statistics to Improve Results | 1 |
-| Why Poaching Is Overrated | 1 |
-| Wimbledon 2008 Different Story | 1 |
-| Winners and Errors | 1 |
-| Winning Matches - Game Plan | 1 |
-| Winning Matches - Tactics | 1 |
-| Winning Matches - Transition Volley | 1 |
-| Winning Matches - Winning at Net | 1 |
-| Winning Matches - Baseline Exchanges | 1 |
-| Women's Doubles & Your Doubles | 1 |
-| Your Temperament & Your Tennis | 1 |
+Total Articles: 107
 
 ---
 
-**Start here:** [Strategy Zone Introduction](../../01-fundamentals/strategy/the-strategy-zone-introduction.html) → [Opening the Court Part 1](../../01-fundamentals/strategy/opening-the-court-part-1.html) → [Pro Patterns](../../01-fundamentals/strategy/pro-patterns-basic-diagonals.html)
+## Articles Index
+
+- [A Few Matches I Lost - and How](a-few-matches-i-lost-and-how.md)
+- [Adapting Your Game to Win Matches](adapting-your-game-to-win-matches.md)
+- [Are You a Right Side or Left Side Player](are-you-a-right-side-or-left-side-player.md)
+- [Beating Lobbers](beating-lobbers.md)
+- [Confessions of a Tennis Disruptor](confessions-of-a-tennis-disruptor.md)
+- [Doubles Playing Styles](doubles-playing-styles.md)
+- [Enhancing Your Training and Practice](enhancing-your-training-and-practice.md)
+- [Federer versus Nadal - 3 overlooked factors](federer-versus-nadal-3-overlooked-factors.md)
+- [First Strike Tennis](first-strike-tennis.md)
+- [First Strike Tennis - All Levels](first-strike-tennis-all-levels.md)
+- [Forced Errors ](forced-errors.md)
+- [How Djokovic Dominates Nadal](how-djokovic-dominates-nadal.md)
+- [How Effective Is Playing the Net Really](how-effective-is-playing-the-net-really.md)
+- [How Nadal Won the French Open 2006](how-nadal-won-the-french-open-2006.md)
+- [How Roger Federer Won Wimbledon 2006](how-roger-federer-won-wimbledon-2006.md)
+- [How Roger Federer Won the US Open 2006](how-roger-federer-won-the-us-open-2006.md)
+- [Increasing Your Chances of Winning Points on Serve](increasing-your-chances-of-winning-points-on-serve.md)
+- [Live Match Play](live-match-play.md)
+- [Marginal Gains - Top Shots and Set Up Shots](marginal-gains-top-shots-and-set-up-shots.md)
+- [Momentum](momentum.md)
+- [Opening the Court - Part 1](opening-the-court-part-1.md)
+- [Opening the Court - Part 2](opening-the-court-part-2.md)
+- [Opening the Court - Part 3](opening-the-court-part-3.md)
+- [Opening the Court - Part 4](opening-the-court-part-4.md)
+- [Opening the Court - Part 5](opening-the-court-part-5.md)
+- [Opening the Court - Part 6](opening-the-court-part-6.md)
+- [Opening the Court - Part 7](opening-the-court-part-7.md)
+- [Opening the Court - Part 8](opening-the-court-part-8.md)
+- [Opening the Court - Part 9](opening-the-court-part-9.md)
+- [Opening the Court - Part 10](opening-the-court-part10.md)
+- [Opening the Court - Part 11](opening-the-court-part11.md)
+- [Opening the Court - Part 12](opening-the-court-part12.md)
+- [Opening the Court - Part 13](opening-the-court-part13.md)
+- [Opening the Court - Part 14](opening-the-court-part14.md)
+- [Opening the Court - Part 15](opening-the-court-part15.md)
+- [Opening the Court - Summary](opening-the-court-summary.md)
+- [Playing Styles Revisited](playing-styles-revisited.md)
+- [Playing Winning Doubles - Service Games](playing-winning-doubles-service-games.md)
+- [Playing Winning Doubles - The Return Game](playing-winning-doubles-the-return-game.md)
+- [Playing the Challenge Zone](playing-the-challenge-zone.md)
+- [Preparing for Competition](preparing-for-competition.md)
+- [Pro Patterns - Basic Diagonals](pro-patterns-basic-diagonals.md)
+- [Pro Patterns - Basic Diagonals - Part 2 Switching the Rally](pro-patterns-basic-diagonals-part-2-switching-the-rally.md)
+- [Pro Patterns - Playing the Angles](pro-patterns-playing-the-angles.md)
+- [Pro Patterns - Serve and Return Diagonals](pro-patterns-serve-and-return-diagonals.md)
+- [Pro Patterns - The Inside Out Diagonal](pro-patterns-the-inside-out-diagonal.md)
+- [Pro Statistics and League Statistics](pro-statistics-and-league-statistics.md)
+- [Responding to Lobs](responding-to-lobs.md)
+- [Return of Serve Points](return-of-serve-points.md)
+- [Return of Serve in the System](return-of-serve-in-the-system.md)
+- [Risk Management](risk-management.md)
+- [Roger Federer and Rafael Nadal Round 3 2006](roger-federer-and-rafael-nadal-round-3-2006.md)
+- [Serving in the System](serving-in-the-system.md)
+- [Shot Selection Foundation of Tactics](shot-selection-foundation-of-tactics.md)
+- [Situational and Scenario Analysis - Part 1](situational-and-scenario-analysis-part-1.md)
+- [Situational and Scenario Analysis - Part 2](situational-and-scenario-analysis-part-2.md)
+- [Statistics Going Inside Your Matches](statistics-going-inside-your-matches.md)
+- [Strategy TOC](strategy-toc.md)
+- [Suffering and Service Returns](suffering-and-service-returns.md)
+- [Swinging Volleys - the New Future of Attacking Tennis](swinging-volleys-the-new-future-of-attacking-tennis.md)
+- [The Aggressive Margin](the-aggressive-margin.md)
+- [The Bryan Brothers - Principles of Winning Doubles](the-bryan-brothers-principles-of-winning-doubles.md)
+- [The Cup](the-cup.md)
+- [The Elements of Game Style](the-elements-of-game-style.md)
+- [The Favorite and the Underdog](the-favorite-and-the-underdog.md)
+- [The Four Components of Match Play - STrategy and Game Style](the-four-components-of-match-play-strategy-and-game-style.md)
+- [The Four Components of Match Play -Tactics and Patterns](the-four-components-of-match-play-tactics-and-patterns.md)
+- [The Hunter and the Helper](the-hunter-and-the-helper.md)
+- [The Inspiration to Serve and Volley](the-inspiration-to-serve-and-volley.md)
+- [The Magic Number One](the-magic-number-one.md)
+- [The New Magic Numbers](the-new-magic-numbers.md)
+- [The Serve and Volley Drills Part 1](the-serve-and-volley-drills-part-1.md)
+- [The Serve and Volley Drills Part 2](the-serve-and-volley-drills-part-2.md)
+- [The Serve and Volley Mentality](the-serve-and-volley-mentality.md)
+- [The Serve and Volley Summary](the-serve-and-volley-summary.md)
+- [The Serve and Volley Tactical Components](the-serve-and-volley-tactical-components.md)
+- [The Serve and Volley Three Critical Shots](the-serve-and-volley-three-critical-shots.md)
+- [The Set-up Game](the-set-up-game.md)
+- [The Set-up Point](the-set-up-point.md)
+- [The Strategy Zone - Groundstroke Finishes](the-strategy-zone-groundstroke-finishes.md)
+- [The Strategy Zone - Introduction](the-strategy-zone-introduction.md)
+- [The Strategy Zone - Phase 2 Hurt](the-strategy-zone-phase-2-hurt.md)
+- [The Strategy Zone - Rally Control](the-strategy-zone-rally-control.md)
+- [The Strategy Zone - Return Control](the-strategy-zone-return-control.md)
+- [The Strategy Zone - Serve Control](the-strategy-zone-serve-control.md)
+- [The Strategy Zone - The Serve and Volley Finish](the-strategy-zone-the-serve-and-volley-finish.md)
+- [The Strategy Zone - The Swinging Volley](the-strategy-zone-the-swinging-volley.md)
+- [The Strategy Zone - Transition and Net Finish](the-strategy-zone-transition-and-net-finish.md)
+- [The System - Introduction](the-system-introduction.md)
+- [The Tactical Universe](the-tactical-universe.md)
+- [The Unknown Statistics -The Forced Error](the-unknown-statistics-the-forced-error.md)
+- [The Warrior Sport](the-warrior-sport.md)
+- [Three Secrets for Destroying Pushers](three-secrets-for-destroying-pushers.md)
+- [Timeless Principles of strategy](timeless-principles-of-strategy.md)
+- [Understanding the Service Box](understanding-the-service-box.md)
+- [Using Statistics in Coaching](using-statistics-in-coaching.md)
+- [Using Statistics to Improve Results](using-statistics-to-improve-results.md)
+- [Why Poaching is Overrated](why-poaching-is-overrated.md)
+- [Wimbledon 2008 A Different Story](wimbledon-2008-a-different-story.md)
+- [Winners And Errors](winners-and-errors.md)
+- [Winning Matches - Game plan](winning-matches-game-plan.md)
+- [Winning Matches - Tactics](winning-matches-tactics.md)
+- [Winning Matches - The Transition Volley](winning-matches-the-transition-volley.md)
+- [Winning Matches - Winning Baseline Exchanges](winning-matches-winning-baseline-exchanges.md)
+- [Winning Matches - Winning at the Net](winning-matches-winning-at-the-net.md)
+- [Women's Doubles and Your Doubles](women-s-doubles-and-your-doubles.md)
+- [Your Temperament and Your Tennis](your-temperament-and-your-tennis.md)

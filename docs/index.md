@@ -19,7 +19,7 @@ Pick the path that matches what you're looking for. Every entry point below lead
 
     ---
 
-    **[350+ Articles :material-arrow-right:](fundamentals/index.html)** from tennisplayer.net — Footwork, Classic Lessons, Famous Coaches, Mental Game, Strategy, Drill Games & Ultimate Fundamentals.
+    **[350+ Articles :material-arrow-right:](fundamentals/index.html)** from TPA — Footwork, Classic Lessons, Famous Coaches, Mental Game, Strategy, Drill Games & Ultimate Fundamentals.
 
 -   :material-magnify:{ .lg .middle } **Stroke Analysis**
 

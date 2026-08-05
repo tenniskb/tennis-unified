@@ -41,7 +41,7 @@ abbreviated.**
 
 And guess what? Another top player who had the same restriction in her
 motion and also chronic shoulder problems was Maria Sharapova, something
-I wrote about previously on Tennisplayer. [link](https://www.tennisplayer.net/members/tour_strokes/john_yandell/maria_sharapova_serve/)
+I wrote about previously on TPA. [link](https://www.tennisplayer.net/members/tour_strokes/john_yandell/maria_sharapova_serve/)
 
 **Acceleration**
 
@@ -185,12 +185,12 @@ confidence](media_kei-nishikori-serve/media/image7.jpeg)
 
 John Yandell is widely acknowledged as one of the leading videographers
 and students of the modern game of professional tennis. His high speed
-filming for Advanced Tennis and Tennisplayer have provided new visual
+filming for Advanced Tennis and TPA have provided new visual
 resources that have changed the way the game is studied and understood
 by both players and coaches. He has done personal video analysis for
 hundreds of high level competitive players, including Justine
 Henin-Hardenne, Taylor Dent and John McEnroe, among others.
 
-In addition to his role as Editor of Tennisplayer he is the author of
+In addition to his role as Editor of TPA he is the author of
 the critically acclaimed book Visual Tennis. The John Yandell Tennis
 School is located in San Francisco, California.

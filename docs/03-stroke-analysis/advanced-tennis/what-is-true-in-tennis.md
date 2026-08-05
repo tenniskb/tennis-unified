@@ -405,7 +405,7 @@ here is that if the secret knowledge changes, the magic aura disappears.
 
 As I developed my own approach to hitting the tennis ball as a young
 coach, I was much more dogmatic in how I approached teaching strokes.
-But, as I developed the various stroke archives for Tennisplayer, I
+But, as I developed the various stroke archives for TPA, I
 began to see more and more differences in the way top players combined
 elements and how effective these combinations could be.
 
@@ -503,7 +503,7 @@ new insights into your teaching and/or playing philosophy, but the
 result can be a wider and more accurate range of possibilities. The
 point is that no one player or coach can see it all - the game is just
 too fast and too dynamic for the human eye. And virtually every writer
-on Tennisplayer - including the big names - has had this same experience
+on TPA - including the big names - has had this same experience
 digging into the video archives.
 
 ***It's the mark of a great coach or a smart player to always be
@@ -511,7 +511,7 @@ looking to revise his thinking, to become more accurate, to understand
 more completely, to find new information to improve his or her
 understanding of this amazing game.***
 
-That is one of the things I am proudest about on Tennisplayer. Not the
+That is one of the things I am proudest about on TPA. Not the
 interpretations I make or those of all the other amazing voices on the
 site. It's the creation of a resource of unequalled breadth and depth
 that allows anyone in the world of tennis with the curiosity and the
@@ -532,12 +532,12 @@ confidence](media_what-is-true-in-tennis/media/image17.jpeg)
 
 John Yandell is widely acknowledged as one of the leading videographers
 and students of the modern game of professional tennis. His high speed
-filming for Advanced Tennis and Tennisplayer have provided new visual
+filming for Advanced Tennis and TPA have provided new visual
 resources that have changed the way the game is studied and understood
 by both players and coaches. He has done personal video analysis for
 hundreds of high level competitive players, including Justine
 Henin-Hardenne, Taylor Dent and John McEnroe, among others.
 
-In addition to his role as Editor of Tennisplayer he is the author of
+In addition to his role as Editor of TPA he is the author of
 the critically acclaimed book Visual Tennis. The John Yandell Tennis
 School is located in San Francisco, California.

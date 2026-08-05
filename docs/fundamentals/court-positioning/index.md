@@ -35,7 +35,7 @@ Baseline, transition zone, net positioning, and geometric court coverage.
 
 ### Transition Zone / Approach Shots
 - [How to Incorporate the Approach](../classic-lessons/how-to-incorporate-the-approach.md)
-- [The Approach and Volley](../classic-lessons/the-approach-and-volley.md)
+- [The Approach and Volley](../famous-coaches/the-approach-and-volley.md)
 - [Inside Forehand](../footwork/inside-forehand.md)
 - [Hitting on the Run](../footwork/hitting-on-the-run.md)
 

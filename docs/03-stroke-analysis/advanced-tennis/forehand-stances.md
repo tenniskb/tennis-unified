@@ -390,7 +390,7 @@ confidence](media_forehand-stances/media/image16.webp)
 A critical point in all the stances is the set up, something that is
 still widely misunderstood and the source of many, many problems at
 lower levels. The key to all the stances is to learn how to set up on
-the outside foot, something that several articles on Tennisplayer
+the outside foot, something that several articles on TPA
 discuss in detail. If you start with a conservative grip and learn to
 hit with a square stance, it is particularly important. ***A common
 stance error that we see over and over is the tendency to reach the ball
@@ -451,12 +451,12 @@ confidence](media_forehand-stances/media/image17.jpeg)
 
 John Yandell is widely acknowledged as one of the leading videographers
 and students of the modern game of professional tennis. His high speed
-filming for Advanced Tennis and Tennisplayer have provided new visual
+filming for Advanced Tennis and TPA have provided new visual
 resources that have changed the way the game is studied and understood
 by both players and coaches. He has done personal video analysis for
 hundreds of high level competitive players, including Justine
 Henin-Hardenne, Taylor Dent and John McEnroe, among others.
 
-In addition to his role as Editor of Tennisplayer he is the author of
+In addition to his role as Editor of TPA he is the author of
 the critically acclaimed book Visual Tennis. The John Yandell Tennis
 School is located in San Francisco, California.

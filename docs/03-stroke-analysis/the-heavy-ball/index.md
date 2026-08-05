@@ -1,6 +1,6 @@
 ---
 title: The Heavy Ball
-description: Comprehensive collection of The Heavy Ball articles and technical analyses from TennisPlayer.net library.
+description: Comprehensive collection of The Heavy Ball articles and technical analyses from TPA library.
 ---
 
 # The Heavy Ball

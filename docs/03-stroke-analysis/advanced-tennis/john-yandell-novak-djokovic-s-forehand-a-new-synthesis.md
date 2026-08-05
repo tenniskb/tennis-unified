@@ -87,7 +87,7 @@ windshield wiper action, the amount of wiper rotation, and the
 variations in his finish positions.
 
 We'll do all this by looking at our incredible new high speed high
-definition footage, available only on Tennisplayer.net. Sound like a
+definition footage, available only on TPA. Sound like a
 lot? It is! And that's what it takes to really understand what is
 happening in this amazing complex and dynamic stroke. All along we'll
 ask the question: how do these creative combinations apply to the
@@ -200,7 +200,7 @@ conservative grip, and this is why it is hard to believe how far under
 the handle he actually is.
 
 To understand this, let's review some basic points on grips. On
-Tennisplayer we've developed a system to understand the range of
+TPA we've developed a system to understand the range of
 possible forehand grips at all levels. This is based on an understanding
 of the bevels on the racket, and then, how players align the racket hand
 with these bevels. Counting from the top and going down and to the
@@ -352,12 +352,12 @@ confidence](media_john-yandell-novak-djokovic-s-forehand-a-new-synthesis/media/i
 
 John Yandell is widely acknowledged as one of the leading videographers
 and students of the modern game of professional tennis. His high speed
-filming for Advanced Tennis and Tennisplayer have provided new visual
+filming for Advanced Tennis and TPA have provided new visual
 resources that have changed the way the game is studied and understood
 by both players and coaches. He has done personal video analysis for
 hundreds of high level competitive players, including Justine
 Henin-Hardenne, Taylor Dent and John McEnroe, among others.
 
-In addition to his role as Editor of Tennisplayer he is the author of
+In addition to his role as Editor of TPA he is the author of
 the critically acclaimed book Visual Tennis. The John Yandell Tennis
 School is located in San Francisco, California.

@@ -201,7 +201,7 @@ your experience. A well visualized stroke is more vivid and translates
 to better tennis in real matches.
 
 You can improve your imagery by videotaping yourself. There are articles
-on Tennisplayer about how to do this ([link](https://www.tennisplayer.net/members/teaching_systems/john_yandell/high_speed_video_analysis/))
+on TPA about how to do this ([link](https://www.tennisplayer.net/members/teaching_systems/john_yandell/high_speed_video_analysis/))
 and how to compare your technique with high quality models drawn from
 footage of elite pro players. ([link](https://www.tennisplayer.net/members/teaching_systems/john_yandell/side_by_side_analysis/).)
 

@@ -40,7 +40,7 @@ strokes in the first place: Rick Macci and Nick Bollettieri for example.
 If you have been confused and heard or read contradictory claims about
 how the great players hit the ball, their voices can provide clarity and
 credibility. And it won't be just opinionwe'll back it up with the
-incredible visual resources of Tennisplayer. Those resources, for
+incredible visual resources of TPA. Those resources, for
 example, are the basis for the series I've written trying to comprehend
 all the elements and the full complexity of the Sampras serve.
 
@@ -49,7 +49,7 @@ what you should and shouldn't copy for yourself. We're just getting
 started on this section. As we go forward we plan to expand it to
 provide a comprehensive perspective on the pro grame.
 
-The only place you can find it is here on Tennisplayer.
+The only place you can find it is here on TPA.
 
 **John Yandell**
 

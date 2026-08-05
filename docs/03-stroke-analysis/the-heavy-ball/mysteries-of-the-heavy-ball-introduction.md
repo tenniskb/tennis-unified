@@ -36,7 +36,7 @@ speed, spin, and shot trajectory. But what combination? Is it something
 that's just natural for a few gifted or lucky players? Is there a way
 to intentionally maximize the weight of your shots?
 
-In this section of Tennisplayer, we've set out to investigate these
+In this section of TPA, we've set out to investigate these
 questions in a different way. Thanks to new filming and analytic
 technologies, it is now possible to measure the shot signatures of the
 top players and to distinguish how they play by the quality of the ball
@@ -226,13 +226,13 @@ confidence](media_mysteries-of-the-heavy-ball-introduction/media/image8.jpeg)
 
 John Yandell is widely acknowledged as one of the leading videographers
 and students of the modern game of professional tennis. His high speed
-filming for Advanced Tennis and Tennisplayer have provided new visual
+filming for Advanced Tennis and TPA have provided new visual
 resources that have changed the way the game is studied and understood
 by both players and coaches. He has done personal video analysis for
 hundreds of high level competitive players, including Justine
 Henin-Hardenne, Taylor Dent and John McEnroe, among others.
 
-In addition to his role as Editor of Tennisplayer he is the author of
+In addition to his role as Editor of TPA he is the author of
 the critically acclaimed book Visual Tennis. The John Yandell Tennis
 School is located in San Francisco, California.
 

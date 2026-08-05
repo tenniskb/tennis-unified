@@ -39,7 +39,7 @@ all the strokes in the modern game, as well as look at some widely
 accepted myths about what actually happens when pro players hit tennis
 balls.
 
-The only place you can find it is here on Tennisplayer.
+The only place you can find it is here on TPA.
 
 **John Yandell**
 
@@ -392,13 +392,13 @@ John Yandell
 
 Tennis Magazine
 
-Tennisplayer Partners with Tennis Magazine !
+TPA Partners with Tennis Magazine !
 
 John Yandell
 
 Tennis Channel
 
-Tennisplayer Partners with Tennis Channel!
+TPA Partners with Tennis Channel!
 
 John Yandell
 

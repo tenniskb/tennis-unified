@@ -8,7 +8,7 @@ I had always believed that the two-handed backhand was the simplest shot
 in tennis, like a left handed forehand, but without all the confusing
 differences in grips and finishes. I've spent a lot of time on the
 court teaching the stroke that way, and I've written about the
-mechanics in my book Visual Tennis, and also on Tennisplayer. ([link](http://www.tennisplayer.net/members/avancedtennis/john_yandell/the_myth/the_myth_of_the_wrist_backhand_images/the_myth_of_the_wrist_backhand.html).)
+mechanics in my book Visual Tennis, and also on TPA. ([link](http://www.tennisplayer.net/members/avancedtennis/john_yandell/the_myth/the_myth_of_the_wrist_backhand_images/the_myth_of_the_wrist_backhand.html).)
 
 I say \"had\" always believed, because I no longer think that's the
 case. After extensive study of Advanced Tennis high speed footage of pro
@@ -52,7 +52,7 @@ it in detail.
 
 Emerging video data bases are transforming how tennis is understood and
 taught. I'm proud of the contributions we've made to developing them,
-both at Advanced Tennis and Tennisplayer. Players and coaches now have
+both at Advanced Tennis and TPA. Players and coaches now have
 the ability to compare what they believe to what the top players
 actually do. The more you study them the more you learn about what
 actually happens
@@ -630,12 +630,12 @@ confidence](media_john-yandell-the-two-handed-backhand-the-4-variations/media/im
 
 John Yandell is widely acknowledged as one of the leading videographers
 and students of the modern game of professional tennis. His high speed
-filming for Advanced Tennis and Tennisplayer have provided new visual
+filming for Advanced Tennis and TPA have provided new visual
 resources that have changed the way the game is studied and understood
 by both players and coaches. He has done personal video analysis for
 hundreds of high level competitive players, including Justine
 Henin-Hardenne, Taylor Dent and John McEnroe, among others.
 
-In addition to his role as Editor of Tennisplayer he is the author of
+In addition to his role as Editor of TPA he is the author of
 the critically acclaimed book Visual Tennis. The John Yandell Tennis
 School is located in San Francisco, California.

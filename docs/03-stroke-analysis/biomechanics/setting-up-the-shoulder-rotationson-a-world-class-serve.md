@@ -68,7 +68,7 @@ subsequent motions starting before previous motions are complete.
 Exactly how the top servers emphasize each of these motions varies.
 Still, what a small number of the top servers are doing constitutes the
 current state of the art. Let's analyze the listed elements by looking
-at Tennisplayer high speed videos of the serve of John Isner.
+at TPA high speed videos of the serve of John Isner.
 
 One important note: this analysis is not intended as \"instruction\" for
 learning a high level serve. It is intended to help clarify issues and

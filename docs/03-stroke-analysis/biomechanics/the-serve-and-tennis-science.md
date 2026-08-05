@@ -51,7 +51,7 @@ coaching communities truly collaborate.
 This article makes a foray across that bridge, based on my quantitative
 study of the service motion. First I want to explain what the study
 found about 3 key points in the service motion. Then I want to relate it
-to some of the qualitative study that has appeared on Tennisplayer.net,
+to some of the qualitative study that has appeared on TPA,
 specifically the analysis of Advanced Tennis high speed video done by
 John Yandell.
 

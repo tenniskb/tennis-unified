@@ -6,7 +6,7 @@
 
 **Dr. Brian Gordon**
 
-In my previous forehand articles for Tennisplayer, I presented a new
+In my previous forehand articles for TPA, I presented a new
 approach to understanding a forehand model similar to what you see on
 the ATP tour ([link](Developing%20an%20ATP%20Forehand%20-%20Part1.docx)). Now in this
 new series, let's turn to the two-handed backhand and see what I
@@ -76,7 +76,7 @@ As it turns out, the two-handed model developed from our research looks
 very much like the two-handed backhands of the best players in the
 world. Since I have not measured players like Novak Djokovic, however, I
 can't scientifically demonstrate that they are using these exact
-techniques. However, studying the high speed video on Tennisplayer, I
+techniques. However, studying the high speed video on TPA, I
 believe it is a reasonable assumption that they are biomechanically very
 similar to our models.
 
