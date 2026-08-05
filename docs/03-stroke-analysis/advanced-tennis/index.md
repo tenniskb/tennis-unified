@@ -1,6 +1,6 @@
 ---
 title: Advanced Tennis
-description: Comprehensive collection of Advanced Tennis articles and technical analyses from TPA library.
+description: Comprehensive collection of Advanced Tennis articles and technical analyses from TennisPlayer.net library.
 ---
 
 # Advanced Tennis

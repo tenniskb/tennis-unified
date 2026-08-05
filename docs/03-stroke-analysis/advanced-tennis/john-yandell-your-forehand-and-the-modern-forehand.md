@@ -81,7 +81,7 @@ confidence](media_john-yandell-your-forehand-and-the-modern-forehand/media/image
 For me it's been a magical adventure and I have taken the time to go
 into the detail that I think the complexity of the subject requires. But
 I also feel that the time is now ripe to summarize what we've learned,
-and especially, to make it more accessible to everyone on TPA.
+and especially, to make it more accessible to everyone on Tennisplayer.
 
 Many subscribers, I know, have mined these articles repeatedly. But I
 also know from the emails I get that many players aren't aware of
@@ -284,12 +284,12 @@ confidence](media_john-yandell-your-forehand-and-the-modern-forehand/media/image
 
 John Yandell is widely acknowledged as one of the leading videographers
 and students of the modern game of professional tennis. His high speed
-filming for Advanced Tennis and TPA have provided new visual
+filming for Advanced Tennis and Tennisplayer have provided new visual
 resources that have changed the way the game is studied and understood
 by both players and coaches. He has done personal video analysis for
 hundreds of high level competitive players, including Justine
 Henin-Hardenne, Taylor Dent and John McEnroe, among others.
 
-In addition to his role as Editor of TPA he is the author of
+In addition to his role as Editor of Tennisplayer he is the author of
 the critically acclaimed book Visual Tennis. The John Yandell Tennis
 School is located in San Francisco, California.

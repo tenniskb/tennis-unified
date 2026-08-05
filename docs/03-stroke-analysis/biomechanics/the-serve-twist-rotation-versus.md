@@ -6,7 +6,7 @@
 
 **Dr. Brian Gordon**
 
-In this exclusive new series for TPA, Dr. Brian Gordon shows
+In this exclusive new series for Tennisplayer, Dr. Brian Gordon shows
 how he applies over 20 years of biomechanical research to the
 development of elite junior players from his new base in Miami, Florida.
 In this first article, he explains the critical role of forward, or
@@ -15,7 +15,7 @@ Brian begins by contrasting Forward Rotation with Twist Rotation, a
 common teaching approach that he himself learned as a junior.
 
 It's a practical on court approach, complementing the groundbreaking
-analytic series he first published on TPA. ([link](Science%20of%20Biomechanics%20TOC.docx).)
+analytic series he first published on Tennisplayer. ([link](Science%20of%20Biomechanics%20TOC.docx).)
 
 ![link](media_the-serve-twist-rotation-versus/media/image1.wmf)
 

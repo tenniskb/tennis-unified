@@ -21,7 +21,7 @@ and racket arm in the windup.
 This is important, valuable work which provides a basis for
 reinforcing\--or over turning\--many widely held ideas about the serve.
 I've learned a lot from Ben and am delighted to share his work on
-TPA!
+Tennisplayer!
 
 ![link](media_the-serving-nodes/media/image1.png)
 

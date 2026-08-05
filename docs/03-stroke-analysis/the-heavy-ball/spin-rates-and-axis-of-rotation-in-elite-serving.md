@@ -107,7 +107,7 @@ hard to even put an exact clock time on them.
 
 Put another way, the study shows that the total difference in the axis
 of rotation between the serves is less than 15 degrees. That seems
-surprising. But the results are actually similar to a study TPA
+surprising. But the results are actually similar to a study Tennisplayer
 did several years ago of the serves of Pete Sampras and Greg Rusedski.
 
 That study used only one high speed camera and definitely lacked the
@@ -190,13 +190,13 @@ confidence](media_spin-rates-and-axis-of-rotation-in-elite-serving/media/image7.
 
 John Yandell is widely acknowledged as one of the leading videographers
 and students of the modern game of professional tennis. His high speed
-filming for Advanced Tennis and TPA have provided new visual
+filming for Advanced Tennis and Tennisplayer have provided new visual
 resources that have changed the way the game is studied and understood
 by both players and coaches. He has done personal video analysis for
 hundreds of high level competitive players, including Justine
 Henin-Hardenne, Taylor Dent and John McEnroe, among others.
 
-In addition to his role as Editor of TPA he is the author of
+In addition to his role as Editor of Tennisplayer he is the author of
 the critically acclaimed book Visual Tennis. The John Yandell Tennis
 School is located in San Francisco, California.
 

@@ -412,7 +412,7 @@ high bouncing ball.***
 Not sure if in our subscriber base we have too many players who are
 ready to try it, but it's causing a lot of commentary and stir. My
 recommendation is: don't try this at home\--and if you disregard my
-suggestion, don't blame TPA if something bad happens. But
+suggestion, don't blame Tennisplayer if something bad happens. But
 it's very interesting at a minimum to see what is actually going on !
 
 So that's it for the stances on the two-hander. Next we'll take a look
@@ -425,12 +425,12 @@ confidence](media_john-yandell-the-two-handed-backhand-hitting-stances/media/ima
 
 John Yandell is widely acknowledged as one of the leading videographers
 and students of the modern game of professional tennis. His high speed
-filming for Advanced Tennis and TPA have provided new visual
+filming for Advanced Tennis and Tennisplayer have provided new visual
 resources that have changed the way the game is studied and understood
 by both players and coaches. He has done personal video analysis for
 hundreds of high level competitive players, including Justine
 Henin-Hardenne, Taylor Dent and John McEnroe, among others.
 
-In addition to his role as Editor of TPA he is the author of
+In addition to his role as Editor of Tennisplayer he is the author of
 the critically acclaimed book Visual Tennis. The John Yandell Tennis
 School is located in San Francisco, California.

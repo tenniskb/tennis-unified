@@ -1,6 +1,6 @@
 ---
 title: Biomechanics
-description: Comprehensive collection of Biomechanics articles and technical analyses from TPA library.
+description: Comprehensive collection of Biomechanics articles and technical analyses from TennisPlayer.net library.
 ---
 
 # Biomechanics

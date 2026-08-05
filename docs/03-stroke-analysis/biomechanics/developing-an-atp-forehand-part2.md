@@ -38,7 +38,7 @@ By creating specific positions during the preparation and the backswing,
 any player can create the dynamic slot naturally. If these positions are
 established, when the hand pulls the racquet forward toward the contact,
 it causes the racquet and hitting arm to \"flip\" into the dynamic slot,
-a motion that is dramatically demonstrated in TPA high speed
+a motion that is dramatically demonstrated in Tennisplayer high speed
 video.
 
 The creation of the dynamic slot is what distinguishes the ATP style, or
@@ -90,7 +90,7 @@ Technique, or B.E.S.T. for short. We consider the B.E.S.T. system a
 breakthrough in understanding how to create world-class fundamentals.
 
 As I noted in the first article, Rick will himself be doing a new series
-of original articles on TPA talking about his interpretation of
+of original articles on Tennisplayer talking about his interpretation of
 the research and how he has incorporated it in teaching and training at
 his academy. This will compliment my articles which attempt to outline
 more of the theoretical basis.

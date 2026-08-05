@@ -15,7 +15,7 @@ the first serve in both the ad court ([link](John%20Yandell-Federer%20Serve%20Lo
 and in the deuce court ([link](John%20Yandell-Federer%20Serve%20Locations-1st%20Serve%20Deuce.docx)).
 We saw that there were slight differences in the angle and path of the
 racket face that were invisible to the eye, but that were clear in
-TPA high speed video.
+Tennisplayer high speed video.
 
 **[On the first serve, the key is the timing of the rotation of the hand
 and arm in the upward swing. This rotation in turn varies the angle of
@@ -247,12 +247,12 @@ confidence](media_john-yandell-federer-serve-locations-2nd-serve/media/image9.jp
 
 John Yandell is widely acknowledged as one of the leading videographers
 and students of the modern game of professional tennis. His high speed
-filming for Advanced Tennis and TPA have provided new visual
+filming for Advanced Tennis and Tennisplayer have provided new visual
 resources that have changed the way the game is studied and understood
 by both players and coaches. He has done personal video analysis for
 hundreds of high level competitive players, including Justine
 Henin-Hardenne, Taylor Dent and John McEnroe, among others.
 
-In addition to his role as Editor of TPA he is the author of
+In addition to his role as Editor of Tennisplayer he is the author of
 the critically acclaimed book Visual Tennis. The John Yandell Tennis
 School is located in San Francisco, California.

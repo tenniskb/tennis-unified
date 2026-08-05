@@ -97,6 +97,7 @@ plugins:
             Training Programs: Training Programs
             Tennis Lexicon: Tennis Lexicon
             Tennis Wiki Reference: Tennis Wiki Reference
+            Coach Video Library: Coach Video Library
             Grip: Grip
             Forehand: Forehand
             Backhand: Backhand
@@ -151,6 +152,7 @@ plugins:
             Training Programs: Chương Trình Huấn Luyện
             Tennis Lexicon: Từ Điển Tennis
             Tennis Wiki Reference: Tham Khảo Tennis Wiki
+            Coach Video Library: Thư Viện Video HLV
             Grip: Cầm Vợt
             Forehand: Cú Thuận Tay
             Backhand: Cú Trái Tay
@@ -433,6 +435,7 @@ nav:
       - Lob & Overhead: tennis-wiki-reference/lob-overhead/index.md
       - Tactics: tennis-wiki-reference/tactics/index.md
       - Pressure & Neurology: tennis-wiki-reference/pressure-neurology/index.md
+  - Coach Video Library: coach-video-library/index.md
   - Specialty Shots: specialty-shots/index.md
   - Doubles: doubles/index.md
   - Biomechanics & Neurology: biomechanics-neurology/index.md

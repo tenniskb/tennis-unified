@@ -170,7 +170,7 @@ the best ever in terms visualization.\"
 
 **Tennis**
 
-As John Yandell has explained in a seminal TPA article, he
+As John Yandell has explained in a seminal Tennisplayer article, he
 helped John McEnroe use imagery to recreate the shape of his service
 motion in 1991, using film of himself from 1984 when he had the best
 serve in the world. This result was that John recovered 15mph or more

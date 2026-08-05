@@ -1126,7 +1126,7 @@ got older, bigger, and stronger.
 Pete Sampras is another example. As a junior he had a classic, beautiful
 compact loop. You can see it in this piece of rare footage of Pete at
 age 9 that Robert Lansdorp has been kind enough to share with
-TPA.\
+Tennisplayer.\
 \
 We see something similar in the video that Nick Bollettieri took of a
 young Tommy Haas training at the Academy. In some respects, Haas's
@@ -1260,12 +1260,12 @@ confidence](media_building-the-modern-forehand-the-backswings/media/image76.jpeg
 
 John Yandell is widely acknowledged as one of the leading videographers
 and students of the modern game of professional tennis. His high speed
-filming for Advanced Tennis and TPA have provided new visual
+filming for Advanced Tennis and Tennisplayer have provided new visual
 resources that have changed the way the game is studied and understood
 by both players and coaches. He has done personal video analysis for
 hundreds of high level competitive players, including Justine
 Henin-Hardenne, Taylor Dent and John McEnroe, among others.
 
-In addition to his role as Editor of TPA he is the author of
+In addition to his role as Editor of Tennisplayer he is the author of
 the critically acclaimed book Visual Tennis. The John Yandell Tennis
 School is located in San Francisco, California.

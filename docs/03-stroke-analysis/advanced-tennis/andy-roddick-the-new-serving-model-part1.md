@@ -255,7 +255,7 @@ to be Maria Sharapova.)
 **Leg Drive and the Stances**
 
 There has been a lot of discussion, in tennis coaching and also in the
-Forum on TPA, about the role of the stance in creating leg
+Forum on Tennisplayer, about the role of the stance in creating leg
 drive. Check out Bruce Elliot's great article on the Power Serve
 ([link](http://www.tennisplayer.net/members/biomechanics/bruce_elliot/BE_Power_Serve_P1/BE_Power_Serve_Part1.pg1.html)),
 in which he finds pluses and minuses to both stances. You can also
@@ -401,12 +401,12 @@ confidence](media_andy-roddick-the-new-serving-model-part1/media/image17.jpeg)
 
 John Yandell is widely acknowledged as one of the leading videographers
 and students of the modern game of professional tennis. His high speed
-filming for Advanced Tennis and TPA have provided new visual
+filming for Advanced Tennis and Tennisplayer have provided new visual
 resources that have changed the way the game is studied and understood
 by both players and coaches. He has done personal video analysis for
 hundreds of high level competitive players, including Justine
 Henin-Hardenne, Taylor Dent and John McEnroe, among others.
 
-In addition to his role as Editor of TPA he is the author of
+In addition to his role as Editor of Tennisplayer he is the author of
 the critically acclaimed book Visual Tennis. The John Yandell Tennis
 School is located in San Francisco, California.

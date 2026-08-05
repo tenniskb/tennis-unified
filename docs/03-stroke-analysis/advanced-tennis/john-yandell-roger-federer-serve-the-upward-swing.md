@@ -55,7 +55,7 @@ want to improve their serves.
 But now we have some incredible new data that allows us to see the
 upward swing more clearly than ever before. This high speed, high
 definition footage goes beyond anything previously available, even on
-TPA.
+Tennisplayer.
 
 Most of this footage is shot at 500 frames per second, with shutter
 speeds up to 1/5000 of a second. It was filmed in live professional
@@ -145,7 +145,7 @@ confidence](media_john-yandell-roger-federer-serve-the-upward-swing/media/image5
 So let's start with the racket position as it starts that critical
 1/10th of a second, a position I call the pro drop. I've been talking
 about the pro racket drop for so long that to me it seems blatantly
-obvious - and if you're a long time TPA subscriber, maybe you
+obvious - and if you're a long time Tennisplayer subscriber, maybe you
 agree. But when I film club or even high level competitive players, I'm
 amazed how many of them have problems with this fundamental element.
 
@@ -738,12 +738,12 @@ confidence](media_john-yandell-roger-federer-serve-the-upward-swing/media/image2
 
 John Yandell is widely acknowledged as one of the leading videographers
 and students of the modern game of professional tennis. His high speed
-filming for Advanced Tennis and TPA have provided new visual
+filming for Advanced Tennis and Tennisplayer have provided new visual
 resources that have changed the way the game is studied and understood
 by both players and coaches. He has done personal video analysis for
 hundreds of high level competitive players, including Justine
 Henin-Hardenne, Taylor Dent and John McEnroe, among others.
 
-In addition to his role as Editor of TPA he is the author of
+In addition to his role as Editor of Tennisplayer he is the author of
 the critically acclaimed book Visual Tennis. The John Yandell Tennis
 School is located in San Francisco, California.

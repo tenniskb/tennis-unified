@@ -1,14 +1,16 @@
 ---
-title: "Lob & Overhead — Technical Reference"
-description: "The deeper tactical layer underneath the Foundation-tier lob and overhead guides."
+title: Lob & Overhead Wiki Reference
+description: Bilingual reference for offensive/defensive lobs and overhead smash execution.
 ---
 
-# Lob & Overhead — Technical Reference
+# Lob & Overhead Wiki Reference
 
-The deeper tactical layer underneath the Foundation-tier lob and overhead guides.
+Bilingual reference for offensive/defensive lobs and overhead smash execution.
 
-## Articles (1)
+---
 
-- [Slice to Topspin Lob — Technical Reference](slice-to-topspin-lob.md)
+## Content Overview
 
-[← Back to Tennis Wiki Reference](../index.md)
+*This section provides comprehensive technical and tactical documentation.*
+
+[Return to Home](../../index.md)

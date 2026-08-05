@@ -11,7 +11,7 @@ generated](media_developing-an-atp-forehand-part1/media/image1.webp)
 **With the BEST system, anyone can develop the elements of an ATP
 forehand.**
 
-In this exclusive series of articles for TPA, I am presenting a
+In this exclusive series of articles for Tennisplayer, I am presenting a
 new approach to understanding, learning and teaching tennis. The initial
 articles will cover the forehand, specifically our forehand model which
 is similar to what you see on the ATP tour. But then they will progress
@@ -33,7 +33,7 @@ presentations I have done that attempt to simplify and make the BEST
 concepts accessible in the wider world of teaching and playing. John
 Yandell and I have worked back and forth on this article many times to
 present the information in a fashion he feels will be the most
-beneficial to TPA subscribers.
+beneficial to Tennisplayer subscribers.
 
 ![A person playing tennis Description automatically
 generated](media_developing-an-atp-forehand-part1/media/image2.webp)
@@ -53,7 +53,7 @@ research in much greater detail for those who want to delve into science
 of biomechanics and understand the mechanical concepts that underlie the
 teaching concepts.
 
-In addition to my work, TPA will also be publishing a series of
+In addition to my work, Tennisplayer will also be publishing a series of
 articles from Rick himself, so subscribers will have the opportunity to
 see the approach through the eyes of one of the world's best known
 developmental coaches.
@@ -294,7 +294,7 @@ late in the backswing and in the early part of the forward swing.
 
 What our research shows about the dynamic slot corresponds visually with
 what we see in the forehands on the ATP tour. As the high speed video on
-TPA demonstrates, the dynamic slot is a core commonality of the
+Tennisplayer demonstrates, the dynamic slot is a core commonality of the
 forehands of players including Roger Federer, Novak Djokovic, and Rafael
 Nadal. On court, Rick and I have proven that it is also something that
 virtually any player can develop for themselves

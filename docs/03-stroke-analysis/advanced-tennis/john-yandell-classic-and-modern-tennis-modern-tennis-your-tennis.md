@@ -77,7 +77,7 @@ technical foundation for a lifetime of tennis success and pleasure.
 For the past 10 years I have been studying every tree in tennis forest.
 Now it's time to elevate and make some general conclusions about the
 forest itself. I am tremendously excited at this prospect and look
-forward to sharing the results with you here on TPA.
+forward to sharing the results with you here on Tennisplayer.
 
 **The Assumption**
 
@@ -345,7 +345,7 @@ on the right side of the body, just as we do with Pete Sampras or Sam
 Stosur.
 
 It was the golden era of classical, compact volleys. (For a great recent
-TPA article by Paul Cohen on the classic forehand volley [link](https://www.tennisplayer.net/members/classiclessons/paul_cohen/classic_forehand_volley/index.html).)
+Tennisplayer article by Paul Cohen on the classic forehand volley [link](https://www.tennisplayer.net/members/classiclessons/paul_cohen/classic_forehand_volley/index.html).)
 
 But Fred Perry hit swinging volleys in the 1930's, as did other players.
 All the top players used a mixture of neutral and open stances, even
@@ -559,12 +559,12 @@ confidence](media_john-yandell-classic-and-modern-tennis-modern-tennis-your-tenn
 
 John Yandell is widely acknowledged as one of the leading videographers
 and students of the modern game of professional tennis. His high speed
-filming for Advanced Tennis and TPA have provided new visual
+filming for Advanced Tennis and Tennisplayer have provided new visual
 resources that have changed the way the game is studied and understood
 by both players and coaches. He has done personal video analysis for
 hundreds of high level competitive players, including Justine
 Henin-Hardenne, Taylor Dent and John McEnroe, among others.
 
-In addition to his role as Editor of TPA he is the author of
+In addition to his role as Editor of Tennisplayer he is the author of
 the critically acclaimed book Visual Tennis. The John Yandell Tennis
 School is located in San Francisco, California.

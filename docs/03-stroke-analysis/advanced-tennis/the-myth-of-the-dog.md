@@ -66,7 +66,7 @@ the game. We can all learn from each other and different players
 definitely respond to different presentations and the perspectives of
 different coaches.
 
-That was one of my foundational goals in the creation of TPA.
+That was one of my foundational goals in the creation of Tennisplayer.
 To include as many credible voices as possible. Just look at the Famous
 Coaches section ([link](https://www.tennisplayer.net/members/famouscoach/famouscoach.html)).
 Or look at the Classic Lessons section ([link](https://www.tennisplayer.net/members/classiclessons/classiclessons.html)).
@@ -391,12 +391,12 @@ confidence](media_the-myth-of-the-dog/media/image12.jpeg)
 
 John Yandell is widely acknowledged as one of the leading videographers
 and students of the modern game of professional tennis. His high speed
-filming for Advanced Tennis and TPA have provided new visual
+filming for Advanced Tennis and Tennisplayer have provided new visual
 resources that have changed the way the game is studied and understood
 by both players and coaches. He has done personal video analysis for
 hundreds of high level competitive players, including Justine
 Henin-Hardenne, Taylor Dent and John McEnroe, among others.
 
-In addition to his role as Editor of TPA he is the author of
+In addition to his role as Editor of Tennisplayer he is the author of
 the critically acclaimed book Visual Tennis. The John Yandell Tennis
 School is located in San Francisco, California.

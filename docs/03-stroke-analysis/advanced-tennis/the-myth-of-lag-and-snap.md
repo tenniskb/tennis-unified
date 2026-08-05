@@ -85,11 +85,11 @@ the backswing and in the forward motion to the ball. The wrist lays back
 and then usually flexes forward to some degree in the swing. Is this lag
 and snap?]***
 
-Doesn't TPA high speed video conclusively demonstrate that
+Doesn't Tennisplayer high speed video conclusively demonstrate that
 Roger Federer's wrist moves into a radically laid back position in the
 backswing? Yes!
 
-And doesn't TPA high speed video conclusively demonstrate that
+And doesn't Tennisplayer high speed video conclusively demonstrate that
 Roger Federer's forehand has usually has forward wrist flexion from
 this laid back position on the way to contact and then more after
 contact? True!
@@ -127,7 +127,7 @@ they are, the ball gets on top of them and the forward swing is short
 and muscled.]**
 
 Ok but what about \"snap\"? Didn't I say that the wrist is flexing
-forward? Yes. But the extensive TPA archival video clearly
+forward? Yes. But the extensive Tennisplayer archival video clearly
 shows that on the vast majority of all forehands hit by world class
 players the wrist is still laid back to some significant degree before,
 during, and after contact.
@@ -280,12 +280,12 @@ confidence](media_the-myth-of-lag-and-snap/media/image10.jpeg)
 
 John Yandell is widely acknowledged as one of the leading videographers
 and students of the modern game of professional tennis. His high speed
-filming for Advanced Tennis and TPA have provided new visual
+filming for Advanced Tennis and Tennisplayer have provided new visual
 resources that have changed the way the game is studied and understood
 by both players and coaches. He has done personal video analysis for
 hundreds of high level competitive players, including Justine
 Henin-Hardenne, Taylor Dent and John McEnroe, among others.
 
-In addition to his role as Editor of TPA he is the author of
+In addition to his role as Editor of Tennisplayer he is the author of
 the critically acclaimed book Visual Tennis. The John Yandell Tennis
 School is located in San Francisco, California.

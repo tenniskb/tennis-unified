@@ -18,7 +18,7 @@ expertise to get results.
 
 Perhaps the biggest advances have been made in the stroke visualization
 and interpretation realm. This comes as no surprise to subscribers to
-TPA, as the use of video, and video editing software, combined
+Tennisplayer, as the use of video, and video editing software, combined
 with intense study and description of touring pro technique has led to
 continuing revolutions of understanding.
 
@@ -48,7 +48,7 @@ is certainly true. For years a handful of researchers have used various
 filming and analysis methods to try to quantify the strokes in tennis.
 But these results have been published primarily in academic journals,
 with very few exceptions. ([link](Science%20of%20Biomechanics%20TOC.docx) to some of my previous
-work on the serve available on TPA.)
+work on the serve available on Tennisplayer.)
 
 Previously, the complexity and labor intensive nature of the process
 made 3D analysis impossible to use in hands on coaching. That is what is
@@ -123,7 +123,7 @@ confidence](media_3d-technologies-and-analysis-an-introduction/media/image5.webp
 **Our quantified analysis presents 50 parameters of understanding per
 stroke.**
 
-Every month, starting with the next issue of TPA, I will
+Every month, starting with the next issue of Tennisplayer, I will
 systematically address one of individual components in this measurement
 presentation.
 

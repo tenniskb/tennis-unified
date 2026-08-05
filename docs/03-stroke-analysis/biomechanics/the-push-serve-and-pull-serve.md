@@ -6,7 +6,7 @@ As a leading research sports science and past chairman of the USTA
 Sports Science Committee, Dr. Ben Kibler has been studying the
 literature on the serve as well as filming, studying, and evaluating
 players for years. Now he publishes some of his conclusions for the
-first time on TPA.
+first time on Tennisplayer.
 
 In this first article in the series, Ben makes a fundamental distinction
 between two ways players use the legs and the trunk---the Push Serve

@@ -8,7 +8,7 @@ confidence](media_john-yandell-the-osmosis-forehand/media/image1.webp)
 
 **Knowing what to watch can enhance the osmosis process.**
 
-On TPA, one of our main goals is to bring you the newest,
+On Tennisplayer, one of our main goals is to bring you the newest,
 cutting edge research and information. This work can push the coaching
 envelope and be complex and challenging.
 
@@ -22,7 +22,7 @@ When you watch pro players what should you focus on, and how does it
 apply to your game?
 
 We had an incredible experience sharing this information\--developed
-through our high speed video analysis\--with TPA subscribers
+through our high speed video analysis\--with Tennisplayer subscribers
 last month in Indian Wells. And now in this new series of articles
 we'll share that same infor with you.
 
@@ -88,12 +88,12 @@ confidence](media_john-yandell-the-osmosis-forehand/media/image4.jpeg)
 
 John Yandell is widely acknowledged as one of the leading videographers
 and students of the modern game of professional tennis. His high speed
-filming for Advanced Tennis and TPA have provided new visual
+filming for Advanced Tennis and Tennisplayer have provided new visual
 resources that have changed the way the game is studied and understood
 by both players and coaches. He has done personal video analysis for
 hundreds of high level competitive players, including Justine
 Henin-Hardenne, Taylor Dent and John McEnroe, among others.
 
-In addition to his role as Editor of TPA he is the author of
+In addition to his role as Editor of Tennisplayer he is the author of
 the critically acclaimed book Visual Tennis. The John Yandell Tennis
 School is located in San Francisco, California.

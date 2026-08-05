@@ -1,6 +1,6 @@
 ---
 title: Tour Strokes
-description: Comprehensive collection of Tour Strokes articles and technical analyses from TPA library.
+description: Comprehensive collection of Tour Strokes articles and technical analyses from TennisPlayer.net library.
 ---
 
 # Tour Strokes

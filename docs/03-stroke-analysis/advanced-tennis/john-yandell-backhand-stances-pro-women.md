@@ -84,7 +84,7 @@ the index knuckle and the heel pad predominantly on bevel two.
 What about the grip with the top hand? For both Venus and Serena, the
 top hand is in a mild semi-western . The heel pad is basically behind
 the handle and the index knuckle is shifted down one bevel. This
-corresponds to a 4/3 grip in TPA terminology. ([link](https://www.tennisplayer.net/members/avancedtennis/john_yandell/grips/modern_forehand_grip_variations_part1/modern_forehand_grip_variations_part1.html))
+corresponds to a 4/3 grip in Tennisplayer terminology. ([link](https://www.tennisplayer.net/members/avancedtennis/john_yandell/grips/modern_forehand_grip_variations_part1/modern_forehand_grip_variations_part1.html))
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -277,12 +277,12 @@ confidence](media_john-yandell-backhand-stances-pro-women/media/image14.jpeg)
 
 John Yandell is widely acknowledged as one of the leading videographers
 and students of the modern game of professional tennis. His high speed
-filming for Advanced Tennis and TPA have provided new visual
+filming for Advanced Tennis and Tennisplayer have provided new visual
 resources that have changed the way the game is studied and understood
 by both players and coaches. He has done personal video analysis for
 hundreds of high level competitive players, including Justine
 Henin-Hardenne, Taylor Dent and John McEnroe, among others.
 
-In addition to his role as Editor of TPA he is the author of
+In addition to his role as Editor of Tennisplayer he is the author of
 the critically acclaimed book Visual Tennis. The John Yandell Tennis
 School is located in San Francisco, California.

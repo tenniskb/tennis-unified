@@ -4,7 +4,7 @@
 
 **Dr. Jack Groppel**
 
-In my first article for TPA, I'm going to show you the most
+In my first article for Tennisplayer, I'm going to show you the most
 common tennis stroke errors I've seen as a working biomechanist and
 coach for the last 20 years. And we're going to talk about how you can
 correct them, by simplifying your strokes. If you can simplify your

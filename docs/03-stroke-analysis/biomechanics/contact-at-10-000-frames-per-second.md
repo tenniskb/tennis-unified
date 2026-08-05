@@ -15,7 +15,7 @@ I explored Roger Federer's unique ball watching technique. The book is
 aimed at finding a methodology to learn how to see contact--in as much
 as this is possible within the limits of physiology and nerve
 transmission speed. ([link](../../Fundamentals/Classic%20Lessons/Ball%20Watching%20-%20Part%201%20.docx)
-to see an article on TPA, based on the book.)
+to see an article on Tennisplayer, based on the book.)
 
 But in the course of writing the book I also became very interested in
 the mechanics of racket to ball contact. How long is contact really and
@@ -30,7 +30,7 @@ substantially higher than most players of his generation. But current
 younger players have equaled or exceeded that. At the same time, they
 have increased maximum forehand speeds to supersonic levels.
 
-A study done for TPA by Jim Fawcette found a forehand by Matteo
+A study done for Tennisplayer by Jim Fawcette found a forehand by Matteo
 Berrittini that measured 129mph at 3930rpm. Alexander Zverev posted
 similar numbers, hitting a forehand at an unbelievable 136mph with
 3700rpm of spin. ([link](https://www.tennisplayer.net/members/mystheavyball/jim_fawcette/new_top_ball_speed/)

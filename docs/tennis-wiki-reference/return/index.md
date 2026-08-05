@@ -1,15 +1,16 @@
 ---
-title: "Return of Serve — Technical Reference"
-description: "The perceptual and tactical model behind the return of serve: how elite returners read a serve before it's struck, and how to attack the return itself under pressure."
+title: Return Wiki Reference
+description: Bilingual reference for return technique, split-step calibration, and target selection.
 ---
 
-# Return of Serve — Technical Reference
+# Return Wiki Reference
 
-The perceptual and tactical model behind the return of serve: how elite returners read a serve before it's struck, and how to attack the return itself under pressure.
+Bilingual reference for return technique, split-step calibration, and target selection.
 
-## Articles (2)
+---
 
-- [Return of Serve Under Pressure — Technical Reference](return-of-serve-under-pressure.md)
-- [Return of Serve — Technical Reference](return-of-serve.md)
+## Content Overview
 
-[← Back to Tennis Wiki Reference](../index.md)
+*This section provides comprehensive technical and tactical documentation.*
+
+[Return to Home](../../index.md)

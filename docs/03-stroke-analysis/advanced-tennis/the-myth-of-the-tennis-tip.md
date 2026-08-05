@@ -376,7 +376,7 @@ approach I took in the Visual Tennis book and video. That work created
 specific model positions of classical stroke patterns and helped players
 create and use mental images to build and execute their shots.
 
-And much of what we have created for you here at TPA is based
+And much of what we have created for you here at Tennisplayer is based
 on the power of visual input-the animations in all our articles, our
 entire Stroke Archive, as well as the high speed video developed by
 Advanced Tennis.
@@ -405,12 +405,12 @@ confidence](media_the-myth-of-the-tennis-tip/media/image15.jpeg)
 
 John Yandell is widely acknowledged as one of the leading videographers
 and students of the modern game of professional tennis. His high speed
-filming for Advanced Tennis and TPA have provided new visual
+filming for Advanced Tennis and Tennisplayer have provided new visual
 resources that have changed the way the game is studied and understood
 by both players and coaches. He has done personal video analysis for
 hundreds of high level competitive players, including Justine
 Henin-Hardenne, Taylor Dent and John McEnroe, among others.
 
-In addition to his role as Editor of TPA he is the author of
+In addition to his role as Editor of Tennisplayer he is the author of
 the critically acclaimed book Visual Tennis. The John Yandell Tennis
 School is located in San Francisco, California.

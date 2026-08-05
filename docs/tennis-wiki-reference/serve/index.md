@@ -1,20 +1,16 @@
 ---
-title: "Serve — Technical Reference"
-description: "The full mechanical, perceptual, and tactical model behind the serve: why the legs have to drive before the arm, the eight-stage diagnostic model for finding what's actually broken, serve backswing types, and reading the launch itself."
+title: Serve Wiki Reference
+description: Bilingual reference for serve mechanics, eight-stage model, and toss placement.
 ---
 
-# Serve — Technical Reference
+# Serve Wiki Reference
 
-The full mechanical, perceptual, and tactical model behind the serve: why the legs have to drive before the arm, the eight-stage diagnostic model for finding what's actually broken, serve backswing types, and reading the launch itself.
+Bilingual reference for serve mechanics, eight-stage model, and toss placement.
 
-## Articles (7)
+---
 
-- [Arming on the Serve — Technical Reference](arming-on-the-serve.md)
-- [Second Serve Aggression — Technical Reference](second-serve-aggression.md)
-- [Serve Backswing Types — Technical Reference](serve-backswing-types.md)
-- [Serve Reading — Technical Reference](serve-reading.md)
-- [The Eight-Stage Serve Model — Technical Reference](eight-stage-serve-model.md)
-- [The Serve Cartwheel — Technical Reference](serve-cartwheel.md)
-- [The Serve Launch: CoM Vertical Displacement — Technical Reference](the-serve-launch-com-vertical-displacement.md)
+## Content Overview
 
-[← Back to Tennis Wiki Reference](../index.md)
+*This section provides comprehensive technical and tactical documentation.*
+
+[Return to Home](../../index.md)

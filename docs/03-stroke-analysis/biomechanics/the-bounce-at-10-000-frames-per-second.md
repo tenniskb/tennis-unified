@@ -10,7 +10,7 @@ confidence](media_the-bounce-at-10-000-frames-per-second/media/image1.webp)
 
 **How long is a tennis ball actually on the court surface?**
 
-In my recent article on TPA about contact at 10,000 frames
+In my recent article on Tennisplayer.net about contact at 10,000 frames
 per second I found that contact is actually about 20% shorter than the
 generally published numbers. Additionally, I found that the trend toward
 low-tension stringing is probably aimed at increasing contact length

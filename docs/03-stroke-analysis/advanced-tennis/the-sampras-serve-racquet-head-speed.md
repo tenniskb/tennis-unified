@@ -30,7 +30,7 @@ Now he and I are collaborating on another amazing project - the first
 ever 3 dimensional analysis of the serve of Pete Sampras - filmed in
 live competitive play.
 
-Working with the TPA team, Brian completed a two camera high
+Working with the Tennisplayer team, Brian completed a two camera high
 speed filming of Pete during an exhibition match versus Sam Querry,
 played at the Tiburon Peninsula Club, in beautiful Marin County,
 California. Then Brian went into a dark room with a few computers, some
@@ -59,7 +59,7 @@ But I do believe the results will lead us to a greater understanding of
 Pete's serve and also of the technical elements involved in all high
 level serving. I also know this article will stimulate further
 discussion - between myself and Brian, as well as other coaches, and
-everyone else in the TPA community.
+everyone else in the Tennisplayer community.
 
 I'm sure Brian and I will agree on much, but we'll both probably be
 disappointed if we don't find at least a few issues to debate. (I could
@@ -100,7 +100,7 @@ tell us about the accuracy of the analyses I've done in previous
 articles on Pete's serve. These are the qualitative high speed video
 analysis I did in conjunction with our 3D filming ([[]](http://www.tennisplayer.net/members/tour_strokes/john_yandell/sampras_serve/sampras_serve_part_1/sampras_serve_part_1.html)),
 and the longer series of articles on Pete's motion I did that was one
-of the seminal components when we launched TPA over 6 years
+of the seminal components when we launched Tennisplayer over 6 years
 ago. ([[]](http://www.tennisplayer.net/members/avancedtennis/john_yandell/sampras_serve/sampras_new_filming_protocols/sampras_new_filming_protocols.html).)
 How much of all that will this new perspective confirm, and how much
 needs modification?
@@ -482,12 +482,12 @@ confidence](media_the-sampras-serve-racquet-head-speed/media/image15.jpeg)
 
 John Yandell is widely acknowledged as one of the leading videographers
 and students of the modern game of professional tennis. His high speed
-filming for Advanced Tennis and TPA have provided new visual
+filming for Advanced Tennis and Tennisplayer have provided new visual
 resources that have changed the way the game is studied and understood
 by both players and coaches. He has done personal video analysis for
 hundreds of high level competitive players, including Justine
 Henin-Hardenne, Taylor Dent and John McEnroe, among others.
 
-In addition to his role as Editor of TPA he is the author of
+In addition to his role as Editor of Tennisplayer he is the author of
 the critically acclaimed book Visual Tennis. The John Yandell Tennis
 School is located in San Francisco, California.

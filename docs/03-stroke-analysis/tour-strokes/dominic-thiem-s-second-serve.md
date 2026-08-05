@@ -234,7 +234,7 @@ model.)
 
 So there you have it. The amazing second serve of Dominic Thiem and a
 few comparison points that show what to copy and maybe not what to
-copy---all courtesy of amazing TPA high speed video footage.
+copy---all courtesy of amazing Tennisplayer high speed video footage.
 And guess what? You can study his second serve as well as his first in
 that video this month in the High Speed Archives. ([link](https://www.tennisplayer.net/members/high_speed_archive/phantom/Dominic_Thiem/).)
 
@@ -244,12 +244,12 @@ confidence](media_dominic-thiem-s-second-serve/media/image8.jpeg)
 
 John Yandell is widely acknowledged as one of the leading videographers
 and students of the modern game of professional tennis. His high speed
-filming for Advanced Tennis and TPA have provided new visual
+filming for Advanced Tennis and Tennisplayer have provided new visual
 resources that have changed the way the game is studied and understood
 by both players and coaches. He has done personal video analysis for
 hundreds of high level competitive players, including Justine
 Henin-Hardenne, Taylor Dent and John McEnroe, among others.
 
-In addition to his role as Editor of TPA he is the author of
+In addition to his role as Editor of Tennisplayer he is the author of
 the critically acclaimed book Visual Tennis. The John Yandell Tennis
 School is located in San Francisco, California.

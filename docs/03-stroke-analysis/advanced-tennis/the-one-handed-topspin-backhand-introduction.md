@@ -42,7 +42,7 @@ confidence](media_the-one-handed-topspin-backhand-introduction/media/image2.webp
 
 **What separates the extreme from the classic one-hander?**
 
-My suspicion is that on TPA we have a significant number of
+My suspicion is that on Tennisplayer we have a significant number of
 adult subscribers who hit it the one-hander and want to understand it
 and hit it better. So in this new series of articles we'll see what the
 high speed footage really shows us about the stroke as executed by the
@@ -379,12 +379,12 @@ confidence](media_the-one-handed-topspin-backhand-introduction/media/image27.jpe
 
 John Yandell is widely acknowledged as one of the leading videographers
 and students of the modern game of professional tennis. His high speed
-filming for Advanced Tennis and TPA have provided new visual
+filming for Advanced Tennis and Tennisplayer have provided new visual
 resources that have changed the way the game is studied and understood
 by both players and coaches. He has done personal video analysis for
 hundreds of high level competitive players, including Justine
 Henin-Hardenne, Taylor Dent and John McEnroe, among others.
 
-In addition to his role as Editor of TPA he is the author of
+In addition to his role as Editor of Tennisplayer he is the author of
 the critically acclaimed book Visual Tennis. The John Yandell Tennis
 School is located in San Francisco, California.

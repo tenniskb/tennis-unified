@@ -10,7 +10,7 @@ confidence](media_the-sampras-serve-new-filming-protocols/media/image1.webp)
 
 **Anyone tired of watching this service motion?**
 
-I can't speak for everyone on TPA, but speaking for myself, I
+I can't speak for everyone on Tennisplayer, but speaking for myself, I
 have yet to tire of watching the great Pete Sampras play\--especially
 watching him hit that wonderful, silky bomb we call his serve.
 
@@ -18,7 +18,7 @@ Recently we had the chance to film Pete again, playing an exhibition
 with Sam Querry at the Tiburon Peninsula Club in Marin County,
 California, just over the Golden Gate Bridge from San Francisco. It was
 a tremendous event organized by our friends on the tennis staff at TPC,
-Steve Jackson and Brandon Coupe (both TPA subscribers).
+Steve Jackson and Brandon Coupe (both Tennisplayer subscribers).
 
 Read on to find out more about the event and what and how we filmed. But
 if you just can't wait to read the analysis of Pete's serve, skip down
@@ -63,11 +63,11 @@ Carolina, and defending champion Georgia.
 But Sunday we made it back down to Tiburon to film Pete. What did Brian
 find out studying the Sampras serve? Well, after he spends a few hundred
 hours in a dark room with his data, we'll know the answer to that, and
-he'll be sharing the info with us on TPA.
+he'll be sharing the info with us on Tennisplayer.
 
 In the meantime, though, we thought you'd like to see some of our new
 qualitative high speed footage shot by our technical editor, Mr. Aaron
-Martinez. You'll be seeing more of this type of footage on TPA
+Martinez. You'll be seeing more of this type of footage on Tennisplayer
 and we're curious to know what you think about it. In addition to the
 animations, we've embedded some sequences as click through movies right
 in the article. Just click on anyone of them, and you can study Pete's
@@ -366,7 +366,7 @@ one-handers and what has happened to it over the years. Stay tuned.
 **To view the complete Stroke Archives of Pete Sampras serves,
 [\]
 [click
-here.](file:///C:\Users\moosh\OneDrive\Documents\TPA\Stroke%20Analysis\Advanced%20Tennis\Advanced%20Tennis%20TOC.docx)**
+here.](file:///C:\Users\moosh\OneDrive\Documents\tennisplayer.net\Stroke%20Analysis\Advanced%20Tennis\Advanced%20Tennis%20TOC.docx)**
 
 ![A person smiling for the camera Description automatically generated
 with medium
@@ -374,12 +374,12 @@ confidence](media_the-sampras-serve-new-filming-protocols/media/image13.jpeg)
 
 John Yandell is widely acknowledged as one of the leading videographers
 and students of the modern game of professional tennis. His high speed
-filming for Advanced Tennis and TPA have provided new visual
+filming for Advanced Tennis and Tennisplayer have provided new visual
 resources that have changed the way the game is studied and understood
 by both players and coaches. He has done personal video analysis for
 hundreds of high level competitive players, including Justine
 Henin-Hardenne, Taylor Dent and John McEnroe, among others.
 
-In addition to his role as Editor of TPA he is the author of
+In addition to his role as Editor of Tennisplayer he is the author of
 the critically acclaimed book Visual Tennis. The John Yandell Tennis
 School is located in San Francisco, California.

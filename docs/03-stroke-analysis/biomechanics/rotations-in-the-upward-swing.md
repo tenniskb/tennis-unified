@@ -6,7 +6,7 @@
 
 In Part 2 of Brian's new series on Teaching the Serve, he explains to
 maximize the forward somersault rotation he talked about in Part 1
-([link](file:///C:\Users\moosh\OneDrive\Documents\TPA\Stroke%20Analysis\Biomechanics\The%20Serve%20-%20Twist%20Rotation%20Versus.docx)),
+([link](file:///C:\Users\moosh\OneDrive\Documents\tennisplayer.net\Stroke%20Analysis\Biomechanics\The%20Serve%20-%20Twist%20Rotation%20Versus.docx)),
 two things need to happen. First, perfect synchronization of the upper
 and lower body. Second, the complicated sequence of rotations in the
 upward swing.
