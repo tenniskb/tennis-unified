@@ -23,123 +23,83 @@ His lessons are packed with essential tips and invaluable advice that aim to sig
 
 ### 1. Advice for Parents
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/VIDEO_ID_PLACEHOLDER_todd-larkham_1" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
-</div>
+> 📹 **Video coming soon** *(YouTube link pending upload)*
 
 ### 2. Ball feeding and General Advice for Parents
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/VIDEO_ID_PLACEHOLDER_todd-larkham_2" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
-</div>
+> 📹 **Video coming soon** *(YouTube link pending upload)*
 
 ### 3. Brilliant Kick Serve Progression Video - Must-See!
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/VIDEO_ID_PLACEHOLDER_todd-larkham_3" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
-</div>
+> 📹 **Video coming soon** *(YouTube link pending upload)*
 
 ### 4. Coaching Future Top 100 players
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/VIDEO_ID_PLACEHOLDER_todd-larkham_4" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
-</div>
+> 📹 **Video coming soon** *(YouTube link pending upload)*
 
 ### 5. Coaching Nick Kyrgios to Beat Roger Federer and Splitting up with a Player
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/VIDEO_ID_PLACEHOLDER_todd-larkham_5" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
-</div>
+> 📹 **Video coming soon** *(YouTube link pending upload)*
 
 ### 6. Coaching Philosophy and Advice to Other Coaches
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/VIDEO_ID_PLACEHOLDER_todd-larkham_6" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
-</div>
+> 📹 **Video coming soon** *(YouTube link pending upload)*
 
 ### 7. Communicating With Players
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/VIDEO_ID_PLACEHOLDER_todd-larkham_7" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
-</div>
+> 📹 **Video coming soon** *(YouTube link pending upload)*
 
 ### 8. Developing Nick Kyrgios
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/VIDEO_ID_PLACEHOLDER_todd-larkham_8" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
-</div>
+> 📹 **Video coming soon** *(YouTube link pending upload)*
 
 ### 9. Forehand Fundamentals From Nick Kyrgios's Coach
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/VIDEO_ID_PLACEHOLDER_todd-larkham_9" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
-</div>
+> 📹 **Video coming soon** *(YouTube link pending upload)*
 
 ### 10. Nick Kyrgios Forehand Drills
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/VIDEO_ID_PLACEHOLDER_todd-larkham_10" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
-</div>
+> 📹 **Video coming soon** *(YouTube link pending upload)*
 
 ### 11. Nick Kyrgios's Junior Training Environment
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/VIDEO_ID_PLACEHOLDER_todd-larkham_11" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
-</div>
+> 📹 **Video coming soon** *(YouTube link pending upload)*
 
 ### 12. Serve Drills
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/VIDEO_ID_PLACEHOLDER_todd-larkham_12" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
-</div>
+> 📹 **Video coming soon** *(YouTube link pending upload)*
 
 ### 13. Serve Fundamentals From Nick Kyrgios's Coach
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/VIDEO_ID_PLACEHOLDER_todd-larkham_13" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
-</div>
+> 📹 **Video coming soon** *(YouTube link pending upload)*
 
 ### 14. Slice Backhand Fundamentals
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/VIDEO_ID_PLACEHOLDER_todd-larkham_14" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
-</div>
+> 📹 **Video coming soon** *(YouTube link pending upload)*
 
 ### 15. The Art of Coaching Nick Kyrgios
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/VIDEO_ID_PLACEHOLDER_todd-larkham_15" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
-</div>
+> 📹 **Video coming soon** *(YouTube link pending upload)*
 
 ### 16. The Differences Coaching Boys and Girls
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/VIDEO_ID_PLACEHOLDER_todd-larkham_16" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
-</div>
+> 📹 **Video coming soon** *(YouTube link pending upload)*
 
 ### 17. Todd Larkham's Backhand Technique With Drills
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/VIDEO_ID_PLACEHOLDER_todd-larkham_17" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
-</div>
+> 📹 **Video coming soon** *(YouTube link pending upload)*
 
 ### 18. Todd's Story What he Learned as a Player and Then Uses as a Coach
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/VIDEO_ID_PLACEHOLDER_todd-larkham_18" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
-</div>
+> 📹 **Video coming soon** *(YouTube link pending upload)*
 
 ### 19. Training Volume for Junior Players
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/VIDEO_ID_PLACEHOLDER_todd-larkham_19" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
-</div>
+> 📹 **Video coming soon** *(YouTube link pending upload)*
 
 ### 20. Volley Tips and Drill
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/VIDEO_ID_PLACEHOLDER_todd-larkham_20" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
-</div>
+> 📹 **Video coming soon** *(YouTube link pending upload)*
 
 ---
 *Content courtesy of [CoachLife.com](https://coachlife.com/index/coaches/todd-larkham) — videos hosted on Henry Phạm's YouTube channel.*

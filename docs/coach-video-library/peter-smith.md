@@ -30,57 +30,39 @@ During these sessions, you can delve deep into the world of college tennis with 
 
 ### 1. Coach and Player Serve Insights
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/VIDEO_ID_PLACEHOLDER_peter-smith_1" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
-</div>
+> 📹 **Video coming soon** *(YouTube link pending upload)*
 
 ### 2. Comprehensive Backhand Drill Masterclass
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/VIDEO_ID_PLACEHOLDER_peter-smith_2" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
-</div>
+> 📹 **Video coming soon** *(YouTube link pending upload)*
 
 ### 3. Developing an Aggressive Mindset on the Backhand
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/VIDEO_ID_PLACEHOLDER_peter-smith_3" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
-</div>
+> 📹 **Video coming soon** *(YouTube link pending upload)*
 
 ### 4. Doubles Mastery Proven Drills from a Legendary College Coach
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/VIDEO_ID_PLACEHOLDER_peter-smith_4" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
-</div>
+> 📹 **Video coming soon** *(YouTube link pending upload)*
 
 ### 5. Essential Volleying Footwork Masterclass
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/VIDEO_ID_PLACEHOLDER_peter-smith_5" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
-</div>
+> 📹 **Video coming soon** *(YouTube link pending upload)*
 
 ### 6. Inside the Mind of a Top Junior
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/VIDEO_ID_PLACEHOLDER_peter-smith_6" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
-</div>
+> 📹 **Video coming soon** *(YouTube link pending upload)*
 
 ### 7. One of the Best Forehands of All Time
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/VIDEO_ID_PLACEHOLDER_peter-smith_7" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
-</div>
+> 📹 **Video coming soon** *(YouTube link pending upload)*
 
 ### 8. Overcoaching and Being Brief with Your Comments
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/VIDEO_ID_PLACEHOLDER_peter-smith_8" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
-</div>
+> 📹 **Video coming soon** *(YouTube link pending upload)*
 
 ### 9. Preparing Yourself for College Tennis
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/VIDEO_ID_PLACEHOLDER_peter-smith_9" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
-</div>
+> 📹 **Video coming soon** *(YouTube link pending upload)*
 
 ---
 *Content courtesy of [CoachLife.com](https://coachlife.com/index/coaches/peter-smith) — videos hosted on Henry Phạm's YouTube channel.*

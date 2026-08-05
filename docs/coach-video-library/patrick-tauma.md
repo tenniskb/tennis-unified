@@ -13,81 +13,55 @@ This video collection features 13 comprehensive training sessions covering serve
 
 ### 1. Acceleration and Deceleration
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/VIDEO_ID_PLACEHOLDER_patrick-tauma_1" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
-</div>
+> 📹 **Video coming soon** *(YouTube link pending upload)*
 
 ### 2. Backhand Stances
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/VIDEO_ID_PLACEHOLDER_patrick-tauma_2" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
-</div>
+> 📹 **Video coming soon** *(YouTube link pending upload)*
 
 ### 3. Brilliant Defensive Slice Video
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/VIDEO_ID_PLACEHOLDER_patrick-tauma_3" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
-</div>
+> 📹 **Video coming soon** *(YouTube link pending upload)*
 
 ### 4. Brilliant Slice Backhand Technical Masterclass
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/VIDEO_ID_PLACEHOLDER_patrick-tauma_4" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
-</div>
+> 📹 **Video coming soon** *(YouTube link pending upload)*
 
 ### 5. Forehand Stances Optimize Your Balance, Power, and Recovery
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/VIDEO_ID_PLACEHOLDER_patrick-tauma_5" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
-</div>
+> 📹 **Video coming soon** *(YouTube link pending upload)*
 
 ### 6. How to Prepare for a Match
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/VIDEO_ID_PLACEHOLDER_patrick-tauma_6" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
-</div>
+> 📹 **Video coming soon** *(YouTube link pending upload)*
 
 ### 7. Left Hand Positioning
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/VIDEO_ID_PLACEHOLDER_patrick-tauma_7" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
-</div>
+> 📹 **Video coming soon** *(YouTube link pending upload)*
 
 ### 8. Long Term Development
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/VIDEO_ID_PLACEHOLDER_patrick-tauma_8" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
-</div>
+> 📹 **Video coming soon** *(YouTube link pending upload)*
 
 ### 9. Multiple Split Steps Like Djokovic and Osaka
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/VIDEO_ID_PLACEHOLDER_patrick-tauma_9" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
-</div>
+> 📹 **Video coming soon** *(YouTube link pending upload)*
 
 ### 10. Second Serve Slice Return
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/VIDEO_ID_PLACEHOLDER_patrick-tauma_10" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
-</div>
+> 📹 **Video coming soon** *(YouTube link pending upload)*
 
 ### 11. Serve Drill Used by Osaka, Gauff and Roddick
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/VIDEO_ID_PLACEHOLDER_patrick-tauma_11" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
-</div>
+> 📹 **Video coming soon** *(YouTube link pending upload)*
 
 ### 12. Slice First Serve Return
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/VIDEO_ID_PLACEHOLDER_patrick-tauma_12" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
-</div>
+> 📹 **Video coming soon** *(YouTube link pending upload)*
 
 ### 13. The Environment
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/VIDEO_ID_PLACEHOLDER_patrick-tauma_13" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
-</div>
+> 📹 **Video coming soon** *(YouTube link pending upload)*
 
 ---
 *Content courtesy of [CoachLife.com](https://coachlife.com/index/coaches/patrick-tauma) — videos hosted on Henry Phạm's YouTube channel.*

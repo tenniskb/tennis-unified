@@ -29,231 +29,307 @@ His CoachLife video series is comprehensive, covering all aspects of fitness tra
 
 ### 1. Advanced Plyometrics and Power Development
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/g0yJTK43qSY" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;margin-bottom:8px;">
+  <iframe src="https://www.youtube.com/embed/g0yJTK43qSY" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 </div>
+
+🎬 **[Watch "Advanced Plyometrics and Power Development" on YouTube](https://youtu.be/g0yJTK43qSY)**
 
 ### 2. Ankle Health Series
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/XI8fYhOAdHA" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;margin-bottom:8px;">
+  <iframe src="https://www.youtube.com/embed/XI8fYhOAdHA" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 </div>
+
+🎬 **[Watch "Ankle Health Series" on YouTube](https://youtu.be/XI8fYhOAdHA)**
 
 ### 3. Conditioning
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/f-WgsdQWraY" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;margin-bottom:8px;">
+  <iframe src="https://www.youtube.com/embed/f-WgsdQWraY" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 </div>
+
+🎬 **[Watch "Conditioning" on YouTube](https://youtu.be/f-WgsdQWraY)**
 
 ### 4. Core Excerises Part 3 Pallof Press
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/n7dm0Qq30CA" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;margin-bottom:8px;">
+  <iframe src="https://www.youtube.com/embed/n7dm0Qq30CA" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 </div>
+
+🎬 **[Watch "Core Excerises Part 3 Pallof Press" on YouTube](https://youtu.be/n7dm0Qq30CA)**
 
 ### 5. Core Exercises Bear Crawl, Crab Walk and Table Top
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/ac-EFJdBOqA" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;margin-bottom:8px;">
+  <iframe src="https://www.youtube.com/embed/ac-EFJdBOqA" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 </div>
+
+🎬 **[Watch "Core Exercises Bear Crawl, Crab Walk and Table Top" on YouTube](https://youtu.be/ac-EFJdBOqA)**
 
 ### 6. Core Exercises Introduction
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/w5llIYEVGjU" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;margin-bottom:8px;">
+  <iframe src="https://www.youtube.com/embed/w5llIYEVGjU" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 </div>
+
+🎬 **[Watch "Core Exercises Introduction" on YouTube](https://youtu.be/w5llIYEVGjU)**
 
 ### 7. Core Exercises Part 2
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/WHgi2MCoGms" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;margin-bottom:8px;">
+  <iframe src="https://www.youtube.com/embed/WHgi2MCoGms" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 </div>
+
+🎬 **[Watch "Core Exercises Part 2" on YouTube](https://youtu.be/WHgi2MCoGms)**
 
 ### 8. Core Exercises Side Plank
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/WHImdwChCSY" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;margin-bottom:8px;">
+  <iframe src="https://www.youtube.com/embed/WHImdwChCSY" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 </div>
+
+🎬 **[Watch "Core Exercises Side Plank" on YouTube](https://youtu.be/WHImdwChCSY)**
 
 ### 9. Core Exercises
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/thaQPNT-okQ" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;margin-bottom:8px;">
+  <iframe src="https://www.youtube.com/embed/thaQPNT-okQ" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 </div>
+
+🎬 **[Watch "Core Exercises" on YouTube](https://youtu.be/thaQPNT-okQ)**
 
 ### 10. Creating the Perfect Tennis Player
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/1jfpB4-NWbM" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;margin-bottom:8px;">
+  <iframe src="https://www.youtube.com/embed/1jfpB4-NWbM" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 </div>
+
+🎬 **[Watch "Creating the Perfect Tennis Player" on YouTube](https://youtu.be/1jfpB4-NWbM)**
 
 ### 11. Developing Eugenie Bouchard
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/A1-tSlkO1I0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;margin-bottom:8px;">
+  <iframe src="https://www.youtube.com/embed/A1-tSlkO1I0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 </div>
+
+🎬 **[Watch "Developing Eugenie Bouchard" on YouTube](https://youtu.be/A1-tSlkO1I0)**
 
 ### 12. Developing Powerful Groundstrokes
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/PgKKBR_Imlk" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;margin-bottom:8px;">
+  <iframe src="https://www.youtube.com/embed/PgKKBR_Imlk" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 </div>
+
+🎬 **[Watch "Developing Powerful Groundstrokes" on YouTube](https://youtu.be/PgKKBR_Imlk)**
 
 ### 13. Elastics Introduction
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/ZDCS3Eps0Zo" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;margin-bottom:8px;">
+  <iframe src="https://www.youtube.com/embed/ZDCS3Eps0Zo" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 </div>
+
+🎬 **[Watch "Elastics Introduction" on YouTube](https://youtu.be/ZDCS3Eps0Zo)**
 
 ### 14. Fitness Testing
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/EY05BWeZ2CM" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;margin-bottom:8px;">
+  <iframe src="https://www.youtube.com/embed/EY05BWeZ2CM" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 </div>
+
+🎬 **[Watch "Fitness Testing" on YouTube](https://youtu.be/EY05BWeZ2CM)**
 
 ### 15. Health Series Wrist Mobilization
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/dA4jpsIHVm0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;margin-bottom:8px;">
+  <iframe src="https://www.youtube.com/embed/dA4jpsIHVm0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 </div>
+
+🎬 **[Watch "Health Series Wrist Mobilization" on YouTube](https://youtu.be/dA4jpsIHVm0)**
 
 ### 16. Hip Mobility
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/CbZeelLPiRc" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;margin-bottom:8px;">
+  <iframe src="https://www.youtube.com/embed/CbZeelLPiRc" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 </div>
+
+🎬 **[Watch "Hip Mobility" on YouTube](https://youtu.be/CbZeelLPiRc)**
 
 ### 17. Hurdle Drills
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/bxHjRKE6GXk" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;margin-bottom:8px;">
+  <iframe src="https://www.youtube.com/embed/bxHjRKE6GXk" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 </div>
+
+🎬 **[Watch "Hurdle Drills" on YouTube](https://youtu.be/bxHjRKE6GXk)**
 
 ### 18. Injury Prevention
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/2Ra8gfJE1KE" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;margin-bottom:8px;">
+  <iframe src="https://www.youtube.com/embed/bxHjRKE6GXk" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 </div>
+
+🎬 **[Watch "Injury Prevention" on YouTube](https://youtu.be/bxHjRKE6GXk)**
 
 ### 19. Introduction to Upper Body Strength Training Push Up Progressions
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/fBeMI9p_wbE" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;margin-bottom:8px;">
+  <iframe src="https://www.youtube.com/embed/fBeMI9p_wbE" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 </div>
+
+🎬 **[Watch "Introduction to Upper Body Strength Training Push Up Progressions" on YouTube](https://youtu.be/fBeMI9p_wbE)**
 
 ### 20. Linear Speed
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/PRcmTNxBaj8" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;margin-bottom:8px;">
+  <iframe src="https://www.youtube.com/embed/PRcmTNxBaj8" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 </div>
+
+🎬 **[Watch "Linear Speed" on YouTube](https://youtu.be/PRcmTNxBaj8)**
 
 ### 21. Lower Body Elastics
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/X5mOlFwjjyo" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;margin-bottom:8px;">
+  <iframe src="https://www.youtube.com/embed/X5mOlFwjjyo" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 </div>
+
+🎬 **[Watch "Lower Body Elastics" on YouTube](https://youtu.be/X5mOlFwjjyo)**
 
 ### 22. Lower Body Squats and Lunges
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/FypbXRJSEVY" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;margin-bottom:8px;">
+  <iframe src="https://www.youtube.com/embed/FypbXRJSEVY" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 </div>
+
+🎬 **[Watch "Lower Body Squats and Lunges" on YouTube](https://youtu.be/FypbXRJSEVY)**
 
 ### 23. Med Ball Excerises for Power
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/3odkNXDSegk" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;margin-bottom:8px;">
+  <iframe src="https://www.youtube.com/embed/3odkNXDSegk" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 </div>
+
+🎬 **[Watch "Med Ball Excerises for Power" on YouTube](https://youtu.be/3odkNXDSegk)**
 
 ### 24. Plyometrics & Power Development Split Squat Jumps
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/Uer08O8FDz8" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;margin-bottom:8px;">
+  <iframe src="https://www.youtube.com/embed/Uer08O8FDz8" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 </div>
+
+🎬 **[Watch "Plyometrics & Power Development Split Squat Jumps" on YouTube](https://youtu.be/Uer08O8FDz8)**
 
 ### 25. Plyometrics Power Development
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/6pYhKc0bDEM" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;margin-bottom:8px;">
+  <iframe src="https://www.youtube.com/embed/6pYhKc0bDEM" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 </div>
+
+🎬 **[Watch "Plyometrics Power Development" on YouTube](https://youtu.be/6pYhKc0bDEM)**
 
 ### 26. Reaction Drills
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/7rsQiP52JKc" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;margin-bottom:8px;">
+  <iframe src="https://www.youtube.com/embed/7rsQiP52JKc" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 </div>
+
+🎬 **[Watch "Reaction Drills" on YouTube](https://youtu.be/7rsQiP52JKc)**
 
 ### 27. Recovery Exercises
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/W72crIajhl8" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;margin-bottom:8px;">
+  <iframe src="https://www.youtube.com/embed/W72crIajhl8" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 </div>
+
+🎬 **[Watch "Recovery Exercises" on YouTube](https://youtu.be/W72crIajhl8)**
 
 ### 28. Recovery Introduction
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/CLxMasebq8s" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;margin-bottom:8px;">
+  <iframe src="https://www.youtube.com/embed/CLxMasebq8s" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 </div>
+
+🎬 **[Watch "Recovery Introduction" on YouTube](https://youtu.be/CLxMasebq8s)**
 
 ### 29. Shoulder Health Series
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/HoCpbjrzs74" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;margin-bottom:8px;">
+  <iframe src="https://www.youtube.com/embed/HoCpbjrzs74" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 </div>
+
+🎬 **[Watch "Shoulder Health Series" on YouTube](https://youtu.be/HoCpbjrzs74)**
 
 ### 30. Speed Development
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/ibgxMK2wAkE" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;margin-bottom:8px;">
+  <iframe src="https://www.youtube.com/embed/ibgxMK2wAkE" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 </div>
+
+🎬 **[Watch "Speed Development" on YouTube](https://youtu.be/ibgxMK2wAkE)**
 
 ### 31. Speed and Agility Training with a Step
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/eL9iOsWFixw" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;margin-bottom:8px;">
+  <iframe src="https://www.youtube.com/embed/eL9iOsWFixw" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 </div>
+
+🎬 **[Watch "Speed and Agility Training with a Step" on YouTube](https://youtu.be/eL9iOsWFixw)**
 
 ### 32. Strength Training Introduction
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/wJvmFI89Wsw" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;margin-bottom:8px;">
+  <iframe src="https://www.youtube.com/embed/wJvmFI89Wsw" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 </div>
+
+🎬 **[Watch "Strength Training Introduction" on YouTube](https://youtu.be/wJvmFI89Wsw)**
 
 ### 33. Thoracic Spine Mobility Drills
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/VKGzEqX1Xj4" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;margin-bottom:8px;">
+  <iframe src="https://www.youtube.com/embed/VKGzEqX1Xj4" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 </div>
+
+🎬 **[Watch "Thoracic Spine Mobility Drills" on YouTube](https://youtu.be/VKGzEqX1Xj4)**
 
 ### 34. Upper Body Elastics
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/vACle49lrfk" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;margin-bottom:8px;">
+  <iframe src="https://www.youtube.com/embed/vACle49lrfk" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 </div>
+
+🎬 **[Watch "Upper Body Elastics" on YouTube](https://youtu.be/vACle49lrfk)**
 
 ### 35. Warm Up Introduction
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/tf069d8UY9E" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;margin-bottom:8px;">
+  <iframe src="https://www.youtube.com/embed/tf069d8UY9E" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 </div>
+
+🎬 **[Watch "Warm Up Introduction" on YouTube](https://youtu.be/tf069d8UY9E)**
 
 ### 36. Warm Up Part 2
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/Vi1Ms30l6cU" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;margin-bottom:8px;">
+  <iframe src="https://www.youtube.com/embed/Vi1Ms30l6cU" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 </div>
+
+🎬 **[Watch "Warm Up Part 2" on YouTube](https://youtu.be/Vi1Ms30l6cU)**
 
 ### 37. Warm Up
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/N8lSxeF3pFM" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;margin-bottom:8px;">
+  <iframe src="https://www.youtube.com/embed/N8lSxeF3pFM" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 </div>
+
+🎬 **[Watch "Warm Up" on YouTube](https://youtu.be/N8lSxeF3pFM)**
 
 ### 38. Warm up Part 3
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/CbSYw-Xj_xk" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;margin-bottom:8px;">
+  <iframe src="https://www.youtube.com/embed/CbSYw-Xj_xk" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 </div>
+
+🎬 **[Watch "Warm up Part 3" on YouTube](https://youtu.be/CbSYw-Xj_xk)**
 
 ---
 *Content courtesy of [CoachLife.com](https://coachlife.com/index/coaches/dean-hollingworth) — videos hosted on Henry Phạm's YouTube channel.*

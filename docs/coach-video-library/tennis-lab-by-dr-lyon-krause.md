@@ -21,159 +21,107 @@ Whether you're looking to improve spin, gain more depth on your shots, protect a
 
 ### 1. A Soft Racket Versus a Stiff Racket - Which is Better
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/VIDEO_ID_PLACEHOLDER_tennis-lab-by-dr-lyon-krause_1" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
-</div>
+> 📹 **Video coming soon** *(YouTube link pending upload)*
 
 ### 2. Common Misconceptions About Tennis Strings
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/VIDEO_ID_PLACEHOLDER_tennis-lab-by-dr-lyon-krause_2" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
-</div>
+> 📹 **Video coming soon** *(YouTube link pending upload)*
 
 ### 3. Common mistakes with grip installation
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/VIDEO_ID_PLACEHOLDER_tennis-lab-by-dr-lyon-krause_3" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
-</div>
+> 📹 **Video coming soon** *(YouTube link pending upload)*
 
 ### 4. Equipment Advice for Doubles Specialists
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/VIDEO_ID_PLACEHOLDER_tennis-lab-by-dr-lyon-krause_4" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
-</div>
+> 📹 **Video coming soon** *(YouTube link pending upload)*
 
 ### 5. Grip basics
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/VIDEO_ID_PLACEHOLDER_tennis-lab-by-dr-lyon-krause_5" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
-</div>
+> 📹 **Video coming soon** *(YouTube link pending upload)*
 
 ### 6. How Equipment Enhanced Sam Stosur’s Game
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/VIDEO_ID_PLACEHOLDER_tennis-lab-by-dr-lyon-krause_6" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
-</div>
+> 📹 **Video coming soon** *(YouTube link pending upload)*
 
 ### 7. How Pro Players use Equipment to Advance Their game
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/VIDEO_ID_PLACEHOLDER_tennis-lab-by-dr-lyon-krause_7" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
-</div>
+> 📹 **Video coming soon** *(YouTube link pending upload)*
 
 ### 8. How to install a Base Grip
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/VIDEO_ID_PLACEHOLDER_tennis-lab-by-dr-lyon-krause_8" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
-</div>
+> 📹 **Video coming soon** *(YouTube link pending upload)*
 
 ### 9. How you can use data to select the ideal racket setup tailored to you
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/VIDEO_ID_PLACEHOLDER_tennis-lab-by-dr-lyon-krause_9" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
-</div>
+> 📹 **Video coming soon** *(YouTube link pending upload)*
 
 ### 10. Incorrect Racket Customisation - It is Not About Feel
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/VIDEO_ID_PLACEHOLDER_tennis-lab-by-dr-lyon-krause_10" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
-</div>
+> 📹 **Video coming soon** *(YouTube link pending upload)*
 
 ### 11. Lead Tape and Fitting
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/VIDEO_ID_PLACEHOLDER_tennis-lab-by-dr-lyon-krause_11" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
-</div>
+> 📹 **Video coming soon** *(YouTube link pending upload)*
 
 ### 12. Racket Length and What is Best for You
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/VIDEO_ID_PLACEHOLDER_tennis-lab-by-dr-lyon-krause_12" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
-</div>
+> 📹 **Video coming soon** *(YouTube link pending upload)*
 
 ### 13. Racket Mass and Swing Weight Explained
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/VIDEO_ID_PLACEHOLDER_tennis-lab-by-dr-lyon-krause_13" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
-</div>
+> 📹 **Video coming soon** *(YouTube link pending upload)*
 
 ### 14. Selecting the Right Racket for You
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/VIDEO_ID_PLACEHOLDER_tennis-lab-by-dr-lyon-krause_14" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
-</div>
+> 📹 **Video coming soon** *(YouTube link pending upload)*
 
 ### 15. String Tension Based on Gender
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/VIDEO_ID_PLACEHOLDER_tennis-lab-by-dr-lyon-krause_15" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
-</div>
+> 📹 **Video coming soon** *(YouTube link pending upload)*
 
 ### 16. String Tension
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/VIDEO_ID_PLACEHOLDER_tennis-lab-by-dr-lyon-krause_16" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
-</div>
+> 📹 **Video coming soon** *(YouTube link pending upload)*
 
 ### 17. String Types, Impact on the Body and Injury Correlation
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/VIDEO_ID_PLACEHOLDER_tennis-lab-by-dr-lyon-krause_17" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
-</div>
+> 📹 **Video coming soon** *(YouTube link pending upload)*
 
 ### 18. The Best String Types for You
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/VIDEO_ID_PLACEHOLDER_tennis-lab-by-dr-lyon-krause_18" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
-</div>
+> 📹 **Video coming soon** *(YouTube link pending upload)*
 
 ### 19. The Importance of Data Driven Equipment in Tennis
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/VIDEO_ID_PLACEHOLDER_tennis-lab-by-dr-lyon-krause_19" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
-</div>
+> 📹 **Video coming soon** *(YouTube link pending upload)*
 
 ### 20. Trends in String Tension Based on Surface Type and Weather
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/VIDEO_ID_PLACEHOLDER_tennis-lab-by-dr-lyon-krause_20" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
-</div>
+> 📹 **Video coming soon** *(YouTube link pending upload)*
 
 ### 21. Types of Grips and Overgrips Installation
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/VIDEO_ID_PLACEHOLDER_tennis-lab-by-dr-lyon-krause_21" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
-</div>
+> 📹 **Video coming soon** *(YouTube link pending upload)*
 
 ### 22. Vibration Dampeners are Just a Placebo
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/VIDEO_ID_PLACEHOLDER_tennis-lab-by-dr-lyon-krause_22" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
-</div>
+> 📹 **Video coming soon** *(YouTube link pending upload)*
 
 ### 23. What You Can Learn From Ash Barty’s and Sabalenka’s String Tension
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/VIDEO_ID_PLACEHOLDER_tennis-lab-by-dr-lyon-krause_23" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
-</div>
+> 📹 **Video coming soon** *(YouTube link pending upload)*
 
 ### 24. When Should Juniors Switch to Polyester Strings
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/VIDEO_ID_PLACEHOLDER_tennis-lab-by-dr-lyon-krause_24" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
-</div>
+> 📹 **Video coming soon** *(YouTube link pending upload)*
 
 ### 25. Which Strings Should You Use Based on Age and Playing Level
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/VIDEO_ID_PLACEHOLDER_tennis-lab-by-dr-lyon-krause_25" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
-</div>
+> 📹 **Video coming soon** *(YouTube link pending upload)*
 
 ### 26. Why Luxilon Alu Power is so popular with Pros
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/VIDEO_ID_PLACEHOLDER_tennis-lab-by-dr-lyon-krause_26" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
-</div>
+> 📹 **Video coming soon** *(YouTube link pending upload)*
 
 ---
 *Content courtesy of [CoachLife.com](https://coachlife.com/index/coaches/tennis-lab) — videos hosted on Henry Phạm's YouTube channel.*

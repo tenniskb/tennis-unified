@@ -29,111 +29,75 @@ More content from Michael will be available soon, including a comprehensive dril
 
 ### 1. Backhand Technique and Footwork Patterns
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/VIDEO_ID_PLACEHOLDER_michael-t-joyce_1" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
-</div>
+> 📹 **Video coming soon** *(YouTube link pending upload)*
 
 ### 2. Career Reflection - What Would You Change
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/VIDEO_ID_PLACEHOLDER_michael-t-joyce_2" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
-</div>
+> 📹 **Video coming soon** *(YouTube link pending upload)*
 
 ### 3. Coaching Jessica Pegula
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/VIDEO_ID_PLACEHOLDER_michael-t-joyce_3" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
-</div>
+> 📹 **Video coming soon** *(YouTube link pending upload)*
 
 ### 4. Coaching Maria Sharapova
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/VIDEO_ID_PLACEHOLDER_michael-t-joyce_4" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
-</div>
+> 📹 **Video coming soon** *(YouTube link pending upload)*
 
 ### 5. Develop Tennis IQ Become a Student of the Game
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/VIDEO_ID_PLACEHOLDER_michael-t-joyce_5" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
-</div>
+> 📹 **Video coming soon** *(YouTube link pending upload)*
 
 ### 6. Drills Should be Match Specific
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/VIDEO_ID_PLACEHOLDER_michael-t-joyce_6" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
-</div>
+> 📹 **Video coming soon** *(YouTube link pending upload)*
 
 ### 7. Essentials to Becoming a Top Player and Effective Coach
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/VIDEO_ID_PLACEHOLDER_michael-t-joyce_7" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
-</div>
+> 📹 **Video coming soon** *(YouTube link pending upload)*
 
 ### 8. How to Return a Kick Second Serve
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/VIDEO_ID_PLACEHOLDER_michael-t-joyce_8" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
-</div>
+> 📹 **Video coming soon** *(YouTube link pending upload)*
 
 ### 9. Lessons from Overthinking Technique
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/VIDEO_ID_PLACEHOLDER_michael-t-joyce_9" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
-</div>
+> 📹 **Video coming soon** *(YouTube link pending upload)*
 
 ### 10. Michael Joyce’s Career and Background Story
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/VIDEO_ID_PLACEHOLDER_michael-t-joyce_10" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
-</div>
+> 📹 **Video coming soon** *(YouTube link pending upload)*
 
 ### 11. Parents of Successful Players
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/VIDEO_ID_PLACEHOLDER_michael-t-joyce_11" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
-</div>
+> 📹 **Video coming soon** *(YouTube link pending upload)*
 
 ### 12. Practice Like You Play a Match
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/VIDEO_ID_PLACEHOLDER_michael-t-joyce_12" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
-</div>
+> 📹 **Video coming soon** *(YouTube link pending upload)*
 
 ### 13. Return of Serve Fundamentals
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/VIDEO_ID_PLACEHOLDER_michael-t-joyce_13" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
-</div>
+> 📹 **Video coming soon** *(YouTube link pending upload)*
 
 ### 14. Reverse Forehand or Buggy Whip Forehand
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/VIDEO_ID_PLACEHOLDER_michael-t-joyce_14" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
-</div>
+> 📹 **Video coming soon** *(YouTube link pending upload)*
 
 ### 15. Strategies to Practice the Serve
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/VIDEO_ID_PLACEHOLDER_michael-t-joyce_15" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
-</div>
+> 📹 **Video coming soon** *(YouTube link pending upload)*
 
 ### 16. The Pete Sampras Development Method
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/VIDEO_ID_PLACEHOLDER_michael-t-joyce_16" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
-</div>
+> 📹 **Video coming soon** *(YouTube link pending upload)*
 
 ### 17. Training Environment
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/VIDEO_ID_PLACEHOLDER_michael-t-joyce_17" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
-</div>
+> 📹 **Video coming soon** *(YouTube link pending upload)*
 
 ### 18. Your Targets Should be at the Net
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/VIDEO_ID_PLACEHOLDER_michael-t-joyce_18" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
-</div>
+> 📹 **Video coming soon** *(YouTube link pending upload)*
 
 ---
 *Content courtesy of [CoachLife.com](https://coachlife.com/index/coaches/michael-t-joyce) — videos hosted on Henry Phạm's YouTube channel.*

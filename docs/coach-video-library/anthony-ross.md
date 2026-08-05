@@ -23,33 +23,43 @@ Anthony Ross," primarily addresses this sports parent course. Additionally, unde
 
 ### 1. Chapter 1 Shaping Resilience The Impact of Parental Influence on Child Development
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/BLS1u36QKJI" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;margin-bottom:8px;">
+  <iframe src="https://www.youtube.com/embed/BLS1u36QKJI" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 </div>
+
+🎬 **[Watch "Chapter 1 Shaping Resilience The Impact of Parental Influence on Child Development" on YouTube](https://youtu.be/BLS1u36QKJI)**
 
 ### 2. Chapter 2 Balancing Support - Fostering Resilience and Self-Worth in Young Athletes
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/rttgK9xRd6U" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;margin-bottom:8px;">
+  <iframe src="https://www.youtube.com/embed/rttgK9xRd6U" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 </div>
+
+🎬 **[Watch "Chapter 2 Balancing Support - Fostering Resilience and Self-Worth in Young Athletes" on YouTube](https://youtu.be/rttgK9xRd6U)**
 
 ### 3. Chapter 3 Steering Emotions Mastering the Highs and Lows of Sport Parenting
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/bmAoz909XGY" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;margin-bottom:8px;">
+  <iframe src="https://www.youtube.com/embed/bmAoz909XGY" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 </div>
+
+🎬 **[Watch "Chapter 3 Steering Emotions Mastering the Highs and Lows of Sport Parenting" on YouTube](https://youtu.be/bmAoz909XGY)**
 
 ### 4. Chapter 4 Navigating Emotions - Understanding and Managing Sports Parenting Challenges
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/iC3at8trC4U" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;margin-bottom:8px;">
+  <iframe src="https://www.youtube.com/embed/iC3at8trC4U" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 </div>
+
+🎬 **[Watch "Chapter 4 Navigating Emotions - Understanding and Managing Sports Parenting Challenges" on YouTube](https://youtu.be/iC3at8trC4U)**
 
 ### 5. Introduction to The Sports Parent Support Course
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/zeRDKhDeNho" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerated-video-playback; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;margin-bottom:8px;">
+  <iframe src="https://www.youtube.com/embed/zeRDKhDeNho" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 </div>
+
+🎬 **[Watch "Introduction to The Sports Parent Support Course" on YouTube](https://youtu.be/zeRDKhDeNho)**
 
 ---
 *Content courtesy of [CoachLife.com](https://coachlife.com/index/coaches/anthony-ross) — videos hosted on Henry Phạm's YouTube channel.*
