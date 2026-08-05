@@ -1,0 +1,119 @@
+---
+title: "Blog"
+description: "Henry's personal tennis blog imported from tennis-for-everyone.blogspot.com - 106 posts covering technique, biomechanics, training systems, and tennis science."
+---
+
+# Blog
+
+Henry Pham's personal tennis blog, imported from [tennis-for-everyone.blogspot.com](https://tennis-for-everyone.blogspot.com/). 106 posts total, covering tennis technique, biomechanics, training systems, and tennis science from September 2023 onward.
+
+## Posts
+
+- [104 - Hệ Thống Q-V-ROOT-8-45-Impulse-Kình - Khung sinh cơ học đầy đủ cho quần vợt nhất quán và mạnh mẽ.](104-he-thong-q-v-root-8-45-impulse-kinh.md) — 2026-07-30
+- [103 - 🎾 Tennis Ebook — Thư Viện Hoàn Chỉnh 35+ tài liệu tennis trong 1 ebook — Click bất kỳ mục nào trong sidebar để đọc](105-tennis-ebook-thu-vien-hoan-chinh-35.md) — 2026-07-01
+- [102 - Thư Viện Hình Ảnh Huấn Luyện  Bilingual tennis coaching flipbook](104-thu-vien-hinh-anh-huan-luyen.md) — 2026-07-01
+- [101 -  Thư Viện Hình Ảnh Tennis - Tennis Future Lab Infographics brary](103-thu-vien-hinh-anh-tennis-tennis.md) — 2026-07-01
+- [100 - Tennis Wiki - Khám phá các khái niệm kỹ thuật tennis hiện đại và mối liên hệ giữa chúng](102-tennis-wiki-kham-pha-cac-khai-niem.md) — 2026-06-20
+- [99 - Tennis Doctor - AI tennis Coach that could answer your question about Tennis](101-tennis-doctor-ai-tennis-coach-that.md) — 2026-06-20
+- [98 - The Elite Tennis Mastery Library — Break-Free From Orthodox Methodology - Bilingual English and Vietnamese](98-elite-tennis-mastery-manual-break.md) — 2026-06-18
+- [97 - Advanced Tennis Library for players at 3.5 to 4.5 Level - Bilingual English and Vietnamese](97-advanced-tennis-library-for-players.md) — 2026-06-18
+- [96 - Tennis Knowledge Vault for players at 3.5 Level - Bilingual English and Vietnamese](96-tennis-knowledge-vault-for-players.md) — 2026-06-18
+- [95 - Tennis Future Lab website - trang web giới thiệu về mô hình tennis trong tương lai](95-tennis-future-lab-website-trang-web.md) — 2026-06-05
+- [94 -Hệ thống Điều khiển Tennis - Control System applied in tennis](94-mang-luoi-kien-thuc-tennis-tennis.md) — 2026-06-05
+- [93- Trang web động chuyên về ứng dụng 10 nguyên lý của Taichi vào Tennis](92-trang-web-ong-chuyen-ve-ung-dung-10.md) — 2026-06-03
+- [92 - Trang web động chuyên về phân tích cú Forehand hiện đại - Tennis Forehand Biomechanics Analysis](92-trang-web-ong-chuyen-ve-phan-tich-cu.md) — 2026-06-03
+- [91 - The Modern Forehand - Biomechanics, Topspin and the Engineering of Fault Tolerant](91-modern-forehand-biomechnics-topspin.md) — 2026-03-20
+- [90 - Chi tiết cơ sinh học cú thuận tay hiện đại](90-chi-tiet-co-sinh-hoc-cu-thuan-tay.md) — 2026-03-20
+- [89 - Chi tiết cơ sinh học của cú tay trái ](89-chi-tiet-co-sinh-hoc-cua-cu-tay-trai.md) — 2026-03-19
+- [88 - Phân tích kỹ thuật cú tay trái ](88-phan-tich-ky-thuat-cu-tay-trai.md) — 2026-03-19
+- [87 - Phân tich kỹ thuật Volley từ góc độ cơ sinh học và tâm lý](87-phan-tich-ky-thuat-volley-tu-goc-o.md) — 2026-03-19
+- [86 - Kỹ thuật để làm chủ cú Volley và chơi tốt trên khu vực lưới](86-ky-thuat-e-lam-chu-cu-volley-va-choi.md) — 2026-03-19
+- [85 - Phân tích sâu về cơ sinh học và tâm lý trong chiến thuật chơi Tennis](85-phan-tich-sau-ve-co-sinh-hoc-va-tam.md) — 2026-03-19
+- [84 - Cơ Sinh Học trong giao bóng và đỡ giao bóng](84-co-sinh-hoc-trong-giao-bong-va-o.md) — 2026-03-19
+- [83 -  Mở Khóa Sức Mạnh Tennis](blog-post.md) — 2026-03-19
+- [82 - Modern Forehand Biomechanics - Bản vẽ cơ sinh học của Tennis hiện đại ](82-modern-forhand-biomechanics-ban-ve.md) — 2026-03-18
+- [81- Modern Forehand Blue-Print - Một bản thiết kế hoàn chỉnh cho cú thuận tay hiện đại](81-modern-forehand-blue-print-mot-ban.md) — 2026-03-18
+- [80 - Cách sử dụng các khớp trong cơ thể khi chơi Tennis để tạo lực tối đa và tránh chấn thương](80-cach-su-dung-cac-khop-trong-co-khi.md) — 2026-03-07
+- [79 - Footwork - Bộ chân - Ballet Step - Vũ điệu Ba Lê trong Tennis và Chân trụ và chân hư trong tennis](79-footwork-bo-chan-ballet-step-vu-ieu.md) — 2026-03-07
+- [78 - Sinner Serve Technique - Video Analysis](78-sinner-serve-technique-video-analysis.md) — 2026-03-07
+- [77 -  Tennis Backhand Volley: Ultimate Guide from Tennis Nation](77-tennis-backhand-volley-ultimate.md) — 2026-02-12
+- [76 - Ultimate Tennis Volley Guide from Tennis Nation](76-ultimate-tennis-volley-guide-from.md) — 2026-02-12
+- [75 - Học chơi Tennis bằng cách phân tích và giải quyết các vấn đề một cách có hệ thống về mặt kỹ thuật và tâm lý](75-hoc-choi-tennis-bang-cach-phan-tich.md) — 2026-01-25
+- [74 - The Power Wave in Tennis Stroke from Tennis Without Talent - https://www.tenniswithouttalent.com/PowerWave.html](74-power-wave-in-tennis-stroke-from.md) — 2026-01-24
+- [73 - Racket Head Speed is the Key Difference between Pro and Recreational FOREHANDS ](73-racket-head-speed-is-key-difference.md) — 2026-01-08
+- [72 - Strike, Don't Swing - From Fault Tolerant Tennis](72-strike-dont-swing-from-fault.md) — 2025-06-27
+- [71 - The Athletic Ready Position - From Fault Tolerant Tennis](71-athletic-ready-position-from-fault.md) — 2025-04-15
+- [70 - Fundamental -- 1-2 Rhythm on the Two Hander - Nick Wheatley](70-fundamental-1-2-rhythm-on-two-hander.md) — 2025-03-31
+- [69 -  Fundamental -- 1-2 Rhythm The Single-Handed Backhand - Nick Wheatley](69-fundamental-1-2-rhythm-single-handed.md) — 2025-03-31
+- [68 -  Fundamental -- 1-2 Rhythm: The Serve - Nick Wheatley](68-fundamental-1-2-rhythm-serve-ck.md) — 2025-03-31
+- [67 - Fundamental -- 1-2 Rhythm: The Backhand Slice - Nick Wheatley](67-fundamental-1-2-rhythm-backhand.md) — 2025-03-31
+- [66- Fundamental -- 1-2 Rhythm: Forehand - Nick Wheatley](66-fundamental-1-2-rhythm-forehand-nick.md) — 2025-03-31
+- [65 - Know this myth series - Gold: “Roll Your Racket Over The Ball” - From Fault Tolerant Tennis](65-know-this-myth-series-silver-point.md) — 2024-11-09
+- [64 - Know this myth series - Silver: “Point Your Butt Cap at the Net” - From Fault Tolerant Tennis](63-know-this-myth-series-silver-point.md) — 2024-11-09
+- [63 - Know this myth series - Bronze: “Bend Your Knees” - From Fault Tolerant Tennis](63-know-this-myth-series-bronze-bend.md) — 2024-11-09
+- [62 - Out, Up and Through - From Fault Tolerant Tennis](62-out-up-and-through-from-fault.md) — 2024-11-06
+- [61 - Accelerate Late, Like Jannik Sinner - From Fault Tolerant Tennis](61-accelerate-late-like-jannik-sinner.md) — 2024-11-06
+- [60 - The Forehand Press Slot - From Fault Tolerant Tennis](the-forehand-press-slot-from-fault.md) — 2024-09-25
+- [59 - The Serve - From hi-techtennis.com - Lesson 7: The Toss - Initiating the Lift](59-serve-from-hi-techtenniscom-lesson-7.md) — 2024-07-17
+- [58 - The Serve - From hi-techtennis.com - Lesson 7: The Toss In Depth](58-serve-from-hi-techtenniscom-lesson-7.md) — 2024-07-17
+- [57 - The Serve - From hi-techtennis.com - Lesson 6: The Kick Serve - Sam Stosur - A Serving Dynamo](57-serve-from-hi-techtenniscom-lesson-6.md) — 2024-07-17
+- [56 - The Serve - From hi-techtennis.com - Lesson 6: The Kick Serve - The Angle of Approach](56-serve-from-hi-techtenniscom-lesson-6.md) — 2024-07-17
+- [55 - The Serve - From hi-techtennis.com - Lesson 6: The Kick Serve - Comparing Pronation For First and Second Serves](54-serve-from-hi-techtenniscom-lesson-6_17.md) — 2024-07-17
+- [54 - The Serve - From hi-techtennis.com - Lesson 6: The Kick Serve - Build A Kick Serve](54-serve-from-hi-techtenniscom-lesson-6.md) — 2024-07-17
+- [53 - The Serve - From hi-techtennis.com - Lesson 5: Pronation - The "Waiter's Tray" Mistake](53-serve-from-hi-techtenniscom-lesson-5.md) — 2024-07-17
+- [52 - The Serve - From hi-techtennis.com - Lesson 5: Pronation - Pronation Visualized](52-serve-from-hi-techtenniscom-lesson-5.md) — 2024-07-17
+- [51 - The Serve - From hi-techtennis.com - Lesson 5: Pronation - The Big 'L' and Pronation'](51-serve-from-hi-techtenniscom-lesson-5.md) — 2024-07-17
+- [50 - The Serve - From hi-techtennis.com - Lesson 4: Elbow Extension and the 'Swiss Army Knife'](50-serve-from-hi-techtenniscom-lesson-4.md) — 2024-07-17
+- [49 - The Serve - From hi-techtennis.com - Lesson 3: The 'Seesaw' Motion, Racquet Drop, and Launching Pad](49-serve-from-hi-techtenniscom-lesson-2.md) — 2024-07-17
+- [48 - The Serve - From hi-techtennis.com - Lesson 2: Storing Energy: Coil Your Body](48-serve-from-hi-techtenniscom-lesson-2.md) — 2024-07-17
+- [47 - The Serve - From hi-techtennis.com - Lesson 1: SLOW DOWN - Alternate Strategy: Todd Martin](47-serve-from-hi-techtenniscom-lesson-1.md) — 2024-07-17
+- [46 - The Serve - From hi-techtennis.com - Lesson 1: SLOW DOWN - Complete Your Toss First ](46-serve-from-hi-techtenniscom-lesson-1.md) — 2024-07-17
+- [45 - The Serve - From hi-techtennis.com - Introduction: The Andy Roddick Drop and Extension](45-serve-from-hi-techtenniscom.md) — 2024-07-17
+- [44 - The Serve - From hi-techtennis.com - Introduction: Essential Body Positions](44-serve-from-hi-techtenniscom.md) — 2024-07-17
+- [43 - The Serve - From hi-techtennis.com - Introduction: The Key to Pro Power: Supinate, then Pronate](42-serve-from-hi-techtenniscom_17.md) — 2024-07-17
+- [42 - The Serve - From hi-techtennis.com - Introduction: The Kinetic Chain - A Different Kind of Power](42-serve-from-hi-techtenniscom.md) — 2024-07-17
+- [41 - The Serve - From hi-techtennis.com - Lesson 1: Preview - Things to look for ](41-serve-from-hi-techtenniscom-lesson-1.md) — 2024-07-17
+- [40 - Modern Forehand - From hi-techtennis.com - Lesson 7: Racket Head Speed and the Arc of the Fan](40-modern-forehand-from-hi.md) — 2024-07-17
+- [39 - Modern Forehand - From hi-techtennis.com - Lesson 6: Rhythm and Timing - Establishing Rhythm: Get Spring In Your Legs](modern-forehand-from-hi-techtenniscom_34.md) — 2024-06-29
+- [38 - Modern Forehand - From hi-techtennis.com - Lesson 6: Rhythm and Timing - Gravity and Angular Momentum](modern-forehand-from-hi-techtenniscom_80.md) — 2024-06-29
+- [37 - Modern Forehand - From hi-techtennis.com - Lesson 6: Rhythm and Timing - Establishing Rhythm: Pendulums, Gravity, and Arcs - Part 2](modern-forehand-from-hi-techtenniscom_35.md) — 2024-06-29
+- [36 - Modern Forehand - From hi-techtennis.com - Lesson 6: Rhythm and Timing - Establishing Rhythm: Pendulums, Gravity, and Arcs](modern-forehand-from-hi-techtenniscom_77.md) — 2024-06-29
+- [35 - Modern Forehand - From hi-techtennis.com - Lesson 6: Rhythm and Timing - Establishing Rhythm: The Figure 8](modern-forehand-from-hi-techtenniscom_96.md) — 2024-06-29
+- [34 - Modern Forehand - From hi-techtennis.com - Lesson 5: Topspin and the Windshield Wiper](modern-forehand-from-hi-techtenniscom_99.md) — 2024-06-29
+- [33 - Modern Forehand - From hi-techtennis.com - Lesson 4: The Pull, the Slot, and the Arc - The Pull and the Slot: Nadia Petrova](modern-forehand-from-hi-techtenniscom_91.md) — 2024-06-29
+- [32 - Modern Forehand - From hi-techtennis.com - Lesson 4: The Pull, the Slot, and the Arc - The Pull, the Slot, and the Stretch Shortening Cycle](modern-forehand-from-hi-techtenniscom_25.md) — 2024-06-29
+- [31 - Modern Forehand - From hi-techtennis.com - Lesson 4: The Pull, the Slot, and the Arc - The Inside Out Racket Path](modern-forehand-from-hi-techtenniscom_70.md) — 2024-06-29
+- [30 - Modern Forehand - From hi-techtennis.com - Lesson 4:  The Pull, the Slot, and the Arc - The Slot and "Pulling the Towel"](modern-forehand-from-hi-techtenniscom_40.md) — 2024-06-29
+- [29 - Modern Forehand - From hi-techtennis.com - Lesson 4:  The Pull, the Slot, and the Arc - Rotate the Hand Backwards and Pull Through the Slot](modern-forehand-from-hi-techtenniscom_51.md) — 2024-06-29
+- [28 - Modern Forehand - From hi-techtennis.com - Lesson 3: It Starts With A Big Coil - The Left Arm Sweep](modern-forehand-from-hi-techtenniscom_41.md) — 2024-06-29
+- [27 - Modern Forehand - From hi-techtennis.com - Lesson 3:  It Starts With A Big Coil - The Arms Coil and Uncoil the Torso](modern-forehand-from-hi-techtenniscom_32.md) — 2024-06-29
+- [26 - Modern Forehand - From hi-techtennis.com - Lesson 2: Find the Ball and Lift the Ball - The Pull, the Slot, and the Stretch Shortening Cycle](modern-forehand-from-hi-techtenniscom_23.md) — 2024-06-29
+- [25 - Modern Forehand - From hi-techtennis.com - Lesson 2: Find the Ball and Lift the Ball - The Forward Swing: The Snake Motion](modern-forehand-from-hi-techtenniscom_42.md) — 2024-06-29
+- [24 - Modern Forehand - From hi-techtennis.com - Lesson 2: Find the Ball and Lift the Ball - Leverage: Classic versus Modern](modern-forehand-from-hi-techtenniscom_76.md) — 2024-06-29
+- [23 - Modern Forehand - From hi-techtennis.com - Lesson 2: Find the Ball and Lift the Ball - The Role of the Shoulder: Andy Murray](modern-forehand-from-hi-techtenniscom_16.md) — 2024-06-29
+- [22 - Modern Forehand - From hi-techtennis.com - Lesson 2: Find the Ball and Lift the Ball - Find the Ball With "Leverage"](modern-forehand-from-hi-techtenniscom_69.md) — 2024-06-29
+- [21 - Modern Forehand - From hi-techtennis.com - Lesson 2: Find the Ball and Lift the Ball - Lifting the Ball: An Upper Cut Motion](modern-forehand-from-hi-techtenniscom_73.md) — 2024-06-29
+- [20 - Modern Forehand - From hi-techtennis.com - Lesson 2: Find the Ball and Lift the Ball - Overview](modern-forehand-from-hi-techtenniscom_29.md) — 2024-06-29
+- [19 - Modern Forehand - From hi-techtennis.com - Lesson 1: Modern Forehand Overview](modern-forehand-from-hi-techtenniscom.md) — 2024-06-29
+- [18 - Cách khắc phục các lỗi cơ bản trong tennis - Dr. Jack Groppel](cach-khac-phuc-cac-loi-co-ban-trong.md) — 2024-04-10
+- [17 - Bí quyết để đạt được sự ổn định - tạo ra sức mạnh và khả năng kiểm soát trong mọi cú đánh banh](17-bi-quyet-e-at-uoc-su-on-inh-tao-ra.md) — 2023-12-05
+- [16 - Nền tảng cơ bản của TẤT CẢ các cú đánh banh - (Phần 3) ](16-nen-tang-co-ban-cua-tat-ca-cac-cu.md) — 2023-12-01
+- [15 - Nền tảng cơ bản của TẤT CẢ các cú đánh banh - (Phần 2) ](14-nen-tang-co-ban-cua-tat-ca-cac-cu.md) — 2023-12-01
+- [14 - Nền tảng cơ bản của TẤT CẢ các cú đánh banh - (Phần 1) ](nen-tang-co-ban-cua-tat-ca-cac-cu-anh.md) — 2023-12-01
+- [13. Bí quyết đánh cú đập banh từ trên cao ( Overhead Smash) đầy uy lực và không tốn sức](13-bi-quyet-anh-cu-ap-banh-tu-tren-cao.md) — 2023-11-16
+- [12. Bí quyết đánh cú volley và trả giao bóng, sao cho banh đi căng, ngọt và không rúc lưới hay bay ra ngoài sân](12-bi-quyet-anh-cu-volley-va-tra-bong.md) — 2023-11-10
+- [ 11. Bí quyết khi giao bóng sao cho động tác dễ dàng, tránh chấn thương ở khớp vai và banh bay nhanh và mạnh](bi-quyet-khi-giao-bong-sao-cho-ong-tac.md) — 2023-11-10
+- [10. Bẻ góc mặt vợt khi mở vợt - Bí quyết hết sức quan trọng để điều khiển chính xác và đánh bóng mạnh ](be-goc-mat-vot-khi-mo-vot-bi-quyet-het.md) — 2023-11-07
+- [9. Tâm lý tennis - Học cách chơi tennis - Thắng và Thua - một cách chuyên nghiệp và cao thượng.](tam-ly-tennis-hoc-cach-choi-tennis.md) — 2023-11-03
+- [8. Những kinh nghiệm và bí quyết chơi tennis - Phạm Đức Hải](nhung-kinh-nghiem-va-bi-quyet-choi.md) — 2023-10-20
+- [7. Giới thiệu sách hay - những cuốn sách kinh điển về tennis](7-gioi-thieu-sach-hay-nhung-cuon-sach.md) — 2023-10-13
+- [6. Những chủ đề khác không bao gồm các mục nêu trên nhưng quan trọng](6-nhung-chu-e-khac-khong-bao-gom-cac.md) — 2023-09-22
+- [5. Chiến thuật (tactic) trong một cuộc chơi tennis và chiến lược (strategy) để chiến thắng trong một giải tennis và trong suốt quá trình chơi tennis lâu dài.](5-chien-thuat-tactic-trong-mot-cuoc.md) — 2023-09-22
+- [4. Tâm lý (tennis psychology) và các yếu tố liên quan tới việc ổn định tinh thần (mental game) khi chơi tennis.](4-tam-ly-tennis-psychology-va-cac-yeu.md) — 2023-09-21
+- [ 3. Những phân tích chi tiết các kỹ thuật khi chơi tennis ](3-nhung-phan-tich-chi-tiet-cac-ky-thuat.md) — 2023-09-21
+- [ 2. Để tạo lực và truyền lực có hiệu quả từ cơ thể người chơi tới trái banh, cần phải làm gì?](2-e-tao-luc-va-truyen-luc-co-hieu-qua.md) — 2023-09-21
+- [ 1. Một cú đánh banh sẽ bao gồm những yếu tố chính nào?](1-mot-cu-anh-banh-se-bao-gom-nhung-yeu.md) — 2023-09-21
+- [Những nguyên lý cơ bản trong tennis](nhung-nguyen-ly-co-ban-trong-tennis.md) — 2023-09-20
+- [Lời giới thiệu](loi-gioi-thieu.md) — 2023-09-17
+
+**106 posts total.**
