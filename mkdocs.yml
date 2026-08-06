@@ -426,16 +426,100 @@ nav:
       - Tennis Lexicon: reference-library/tennis-lexicon/index.md
   - Tennis Wiki Reference:
       - Overview: tennis-wiki-reference/index.md
-      - Grip: tennis-wiki-reference/grip/index.md
-      - Forehand: tennis-wiki-reference/forehand/index.md
-      - Backhand: tennis-wiki-reference/backhand/index.md
-      - Serve: tennis-wiki-reference/serve/index.md
-      - Return: tennis-wiki-reference/return/index.md
-      - Volley: tennis-wiki-reference/volley/index.md
-      - Footwork: tennis-wiki-reference/footwork/index.md
-      - Lob & Overhead: tennis-wiki-reference/lob-overhead/index.md
-      - Tactics: tennis-wiki-reference/tactics/index.md
-      - Pressure & Neurology: tennis-wiki-reference/pressure-neurology/index.md
+      - Grip:
+          - Overview: tennis-wiki-reference/grip/index.md
+          - 5R Movement System: tennis-wiki-reference/grip/5r-movement-system.md
+          - Backhand Grips: tennis-wiki-reference/grip/backhand-grips.md
+          - Continental Grip Anatomy: tennis-wiki-reference/grip/continental-grip-anatomy.md
+          - Grip Anchor: tennis-wiki-reference/grip/grip-anchor.md
+          - Grip Dynamics: tennis-wiki-reference/grip/grip-dynamics.md
+          - Grip Pressure And The Kinetic Chain: tennis-wiki-reference/grip/grip-pressure-and-the-kinetic-chain.md
+          - Grip Pressure Technical: tennis-wiki-reference/grip/grip-pressure-technical.md
+          - Grip Pulse Timing: tennis-wiki-reference/grip/grip-pulse-timing.md
+          - Grip Pulse: tennis-wiki-reference/grip/grip-pulse.md
+          - Grip Reference Table: tennis-wiki-reference/grip/grip-reference-table.md
+          - Grip Tension And Racket Speed: tennis-wiki-reference/grip/grip-tension-and-racket-speed.md
+          - Grip Tension: tennis-wiki-reference/grip/grip-tension.md
+          - Isometric Grip Pulse: tennis-wiki-reference/grip/isometric-grip-pulse.md
+          - Kinh And Grip Pressure Matrix: tennis-wiki-reference/grip/kinh-and-grip-pressure-matrix.md
+          - Semi Western Grip Technical: tennis-wiki-reference/grip/semi-western-grip-technical.md
+      - Forehand:
+          - Overview: tennis-wiki-reference/forehand/index.md
+          - Fault Tolerant Forehand: tennis-wiki-reference/forehand/fault-tolerant-forehand.md
+          - Forehand Mechanics: tennis-wiki-reference/forehand/forehand-mechanics.md
+          - Forehand Stance Selection: tennis-wiki-reference/forehand/forehand-stance-selection.md
+          - Forehand Superiority: tennis-wiki-reference/forehand/forehand-superiority.md
+          - Run Around Forehand: tennis-wiki-reference/forehand/run-around-forehand.md
+          - Straight Arm Vs Double Bend Forehand: tennis-wiki-reference/forehand/straight-arm-vs-double-bend-forehand.md
+      - Backhand:
+          - Overview: tennis-wiki-reference/backhand/index.md
+          - Backhand Bermuda Triangle: tennis-wiki-reference/backhand/backhand-bermuda-triangle.md
+          - Backhand Patterns Of Play: tennis-wiki-reference/backhand/backhand-patterns-of-play.md
+          - Backhand Slice: tennis-wiki-reference/backhand/backhand-slice.md
+          - Closed And Neutral Stance Backhand: tennis-wiki-reference/backhand/closed-and-neutral-stance-backhand.md
+          - High Ball Backhand: tennis-wiki-reference/backhand/high-ball-backhand.md
+          - Non Dominant Arm Backhand Drill: tennis-wiki-reference/backhand/non-dominant-arm-backhand-drill.md
+          - One Handed Backhand 1Hbh: tennis-wiki-reference/backhand/one-handed-backhand-1hbh.md
+          - Two Handed Backhand 2Hbh: tennis-wiki-reference/backhand/two-handed-backhand-2hbh.md
+      - Serve:
+          - Overview: tennis-wiki-reference/serve/index.md
+          - Arming On The Serve: tennis-wiki-reference/serve/arming-on-the-serve.md
+          - Eight Stage Serve Model: tennis-wiki-reference/serve/eight-stage-serve-model.md
+          - Second Serve Aggression: tennis-wiki-reference/serve/second-serve-aggression.md
+          - Serve Backswing Types: tennis-wiki-reference/serve/serve-backswing-types.md
+          - Serve Cartwheel: tennis-wiki-reference/serve/serve-cartwheel.md
+          - Serve Reading: tennis-wiki-reference/serve/serve-reading.md
+          - The Serve Launch Com Vertical Displacement: tennis-wiki-reference/serve/the-serve-launch-com-vertical-displacement.md
+      - Return:
+          - Overview: tennis-wiki-reference/return/index.md
+          - Return Of Serve Under Pressure: tennis-wiki-reference/return/return-of-serve-under-pressure.md
+          - Return Of Serve: tennis-wiki-reference/return/return-of-serve.md
+      - Volley:
+          - Overview: tennis-wiki-reference/volley/index.md
+          - Arming On The Volley: tennis-wiki-reference/volley/arming-on-the-volley.md
+          - Back Foot Volley Footwork: tennis-wiki-reference/volley/back-foot-volley-footwork.md
+          - Body Volley Protocol: tennis-wiki-reference/volley/body-volley-protocol.md
+          - Drop Volley: tennis-wiki-reference/volley/drop-volley.md
+          - Half Volley: tennis-wiki-reference/volley/half-volley.md
+          - High Volley Termination: tennis-wiki-reference/volley/high-volley-termination.md
+          - Linear Momentum Volley: tennis-wiki-reference/volley/linear-momentum-volley.md
+          - Return And Volley: tennis-wiki-reference/volley/return-and-volley.md
+          - Still Wall Volley: tennis-wiki-reference/volley/still-wall-volley.md
+          - The Chest Engine: tennis-wiki-reference/volley/the-chest-engine.md
+          - The Compact Volley Block And Stick: tennis-wiki-reference/volley/the-compact-volley-block-and-stick.md
+          - Touch Volley: tennis-wiki-reference/volley/touch-volley.md
+          - Volley Footwork Sequence: tennis-wiki-reference/volley/volley-footwork-sequence.md
+          - Volley Mechanics: tennis-wiki-reference/volley/volley-mechanics.md
+          - Wrist Mechanics At The Volley: tennis-wiki-reference/volley/wrist-mechanics-at-the-volley.md
+      - Footwork:
+          - Overview: tennis-wiki-reference/footwork/index.md
+          - Active Split Step: tennis-wiki-reference/footwork/active-split-step.md
+          - Advanced Split Step: tennis-wiki-reference/footwork/advanced-split-step.md
+          - Anticipatory Movement: tennis-wiki-reference/footwork/anticipatory-movement.md
+          - Asymmetrical Split Step: tennis-wiki-reference/footwork/asymmetrical-split-step.md
+          - Footwork Anchor: tennis-wiki-reference/footwork/footwork-anchor.md
+          - Split Step Calibration: tennis-wiki-reference/footwork/split-step-calibration.md
+          - Split Step: tennis-wiki-reference/footwork/split-step.md
+          - Transitional Net Footwork: tennis-wiki-reference/footwork/transitional-net-footwork.md
+      - Lob & Overhead:
+          - Overview: tennis-wiki-reference/lob-overhead/index.md
+          - Slice To Topspin Lob: tennis-wiki-reference/lob-overhead/slice-to-topspin-lob.md
+      - Tactics:
+          - Overview: tennis-wiki-reference/tactics/index.md
+          - Agentic Decision Tree: tennis-wiki-reference/tactics/agentic-decision-tree.md
+          - Agentic Strategy: tennis-wiki-reference/tactics/agentic-strategy.md
+      - Pressure & Neurology:
+          - Overview: tennis-wiki-reference/pressure-neurology/index.md
+          - 15 Second Reset Protocol: tennis-wiki-reference/pressure-neurology/15-second-reset-protocol.md
+          - Amygdala Hijack: tennis-wiki-reference/pressure-neurology/amygdala-hijack.md
+          - Arousal Channelling: tennis-wiki-reference/pressure-neurology/arousal-channelling.md
+          - Biological Threat Response: tennis-wiki-reference/pressure-neurology/biological-threat-response.md
+          - Choking Mechanism: tennis-wiki-reference/pressure-neurology/choking-mechanism.md
+          - Choking: tennis-wiki-reference/pressure-neurology/choking.md
+          - Mu Beta Suppression: tennis-wiki-reference/pressure-neurology/mu-beta-suppression.md
+          - Neural Pressure: tennis-wiki-reference/pressure-neurology/neural-pressure.md
+          - Petit Bras: tennis-wiki-reference/pressure-neurology/petit-bras.md
+          - Sympathetic Activation And Petit Bras: tennis-wiki-reference/pressure-neurology/sympathetic-activation-and-petit-bras.md
   - Coach Video Library: coach-video-library/index.md
   - Specialty Shots: specialty-shots/index.md
   - Doubles: doubles/index.md
