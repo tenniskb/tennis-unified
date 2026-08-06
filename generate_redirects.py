@@ -52,12 +52,15 @@ def main() -> None:
         if md_path.name == "404.md":
             continue
         rel = md_path.relative_to(DOCS)
-        html_name = md_path.name.replace(".md", ".html")
+        if md_path.name == "index.md":
+            target_url = "index.html"
+        else:
+            target_url = f"{md_path.stem}/"
 
-        if emit_redirect(SITE / rel, html_name):
+        if emit_redirect(SITE / rel, target_url):
             count += 1
         if VI_SITE.is_dir():
-            emit_redirect(VI_SITE / rel, html_name)
+            emit_redirect(VI_SITE / rel, target_url)
 
     print(f"Successfully generated redirect files for {count} markdown sources.")
 
