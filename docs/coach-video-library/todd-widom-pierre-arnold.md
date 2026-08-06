@@ -1,171 +1,118 @@
+# Todd Widom & Pierre Arnold — Coach Video Masterclass
+
+!!! info "Coach Profile & Overview"
+    Masterclass video series by **Todd Widom & Pierre Arnold**, providing world-class tennis technical analysis, player development insights, and high-performance tactical training.
+
 ---
-title: "Todd Widom & Pierre Arnold — Video Coaching Library"
-description: "Meet Todd Widom and Pierre Arnold, Two of the Best Coaches in the U.S. CoachLife is proud to feature Todd Widom, a former top-200 ATP player, and Pierre Arnold, an accomplished coach with 40 years of..."
----
 
-# Todd Widom & Pierre Arnold
-
-Meet Todd Widom and Pierre Arnold, Two of the Best Coaches in the U.S. CoachLife is proud to feature Todd Widom, a former top-200 ATP player, and Pierre Arnold, an accomplished coach with 40 years of experience. Together, they were instrumental in developing Peyton Stearns, coaching her from age 10 through 18, and preparing her for both college and the professional tour.
-
-At age 17, Peyton lived and trained with Todd, who helped refine her game to the elite level. In addition to working with Peyton, Todd and Pierre have coached numerous world junior champions, high-level college players, and ATP and WTA professionals, solidifying their reputation as two of the most respected coaches in the U.S. A Comprehensive Approach to Coaching Excellence The content Todd and Pierre share on CoachLife is nothing short of essential for players at all levels.
-
-Their drills focus on practicality and precision, offering strategies that can seamlessly become part of any player’s daily routine. From invaluable strategy videos to game-changing target and transition drills, their insights are designed to elevate players’ games. Whether you’re looking to develop consistency, master movement, or refine tactical decision-making, their CoachLife videos deliver actionable advice that translates directly to match play.
-
-Priceless Experience, Proven Results What sets Todd and Pierre apart is their ability to blend technical expertise with real-world application. Their combined experience—Todd’s as a professional player and Pierre’s decades-long coaching legacy—makes their instruction uniquely impactful. With a track record of producing world-class players and an unwavering commitment to player development, they are the gold standard in American tennis coaching.
-
-Dive into their content on CoachLife.com and see why their proven methods and philosophy are must-sees for players and coaches alike.
-
-## Players Coached
-
-| Player | Ranking | Coached |
-|---|---|---|
-| Peyton Stearns | WTA 43 | Coached between 10 and 18 years old |
-
-## Videos (36)
+## 📹 Video Masterclass Library (36 Videos)
 
 ### 1. Backhand Crosscourt Targets
-
-> 📹 **Video coming soon** *(YouTube link pending upload)*
-
+- **Topic**: Technical Analysis & High Performance Training
+- **Source**: `Backhand Crosscourt Targets.mp4`
 ### 2. Backhand Down the Line Targets
-
-> 📹 **Video coming soon** *(YouTube link pending upload)*
-
+- **Topic**: Technical Analysis & High Performance Training
+- **Source**: `Backhand Down the Line Targets.mp4`
 ### 3. Backhand Transition Approach Shots
-
-> 📹 **Video coming soon** *(YouTube link pending upload)*
-
+- **Topic**: Technical Analysis & High Performance Training
+- **Source**: `Backhand Transition Approach Shots.mp4`
 ### 4. College Tennis Evolution
-
-> 📹 **Video coming soon** *(YouTube link pending upload)*
-
+- **Topic**: Technical Analysis & High Performance Training
+- **Source**: `College Tennis Evolution.mp4`
 ### 5. Covering the Net
-
-> 📹 **Video coming soon** *(YouTube link pending upload)*
-
+- **Topic**: Technical Analysis & High Performance Training
+- **Source**: `Covering the Net.mp4`
 ### 6. David Ferrer Low Slice Strategy
-
-> 📹 **Video coming soon** *(YouTube link pending upload)*
-
+- **Topic**: Technical Analysis & High Performance Training
+- **Source**: `David Ferrer Low Slice Strategy.mp4`
 ### 7. Forehand Crosscourt Targets
-
-> 📹 **Video coming soon** *(YouTube link pending upload)*
-
+- **Topic**: Technical Analysis & High Performance Training
+- **Source**: `Forehand Crosscourt Targets.mp4`
 ### 8. Forehand Down the Line Targets
-
-> 📹 **Video coming soon** *(YouTube link pending upload)*
-
+- **Topic**: Technical Analysis & High Performance Training
+- **Source**: `Forehand Down the Line Targets.mp4`
 ### 9. High Ball Transition
-
-> 📹 **Video coming soon** *(YouTube link pending upload)*
-
+- **Topic**: Technical Analysis & High Performance Training
+- **Source**: `High Ball Transition.mp4`
 ### 10. How To Beat A Moonballer
-
-> 📹 **Video coming soon** *(YouTube link pending upload)*
-
+- **Topic**: Technical Analysis & High Performance Training
+- **Source**: `How To Beat A Moonballer.mp4`
 ### 11. How To Beat A Slow Player
-
-> 📹 **Video coming soon** *(YouTube link pending upload)*
-
+- **Topic**: Technical Analysis & High Performance Training
+- **Source**: `How To Beat A Slow Player.mp4`
 ### 12. How to Get Better
-
-> 📹 **Video coming soon** *(YouTube link pending upload)*
-
+- **Topic**: Technical Analysis & High Performance Training
+- **Source**: `How to Get Better.mp4`
 ### 13. Inside in Forehand Targets
-
-> 📹 **Video coming soon** *(YouTube link pending upload)*
-
+- **Topic**: Technical Analysis & High Performance Training
+- **Source**: `Inside in Forehand Targets.mp4`
 ### 14. Inside-out Forehand Targets
-
-> 📹 **Video coming soon** *(YouTube link pending upload)*
-
+- **Topic**: Technical Analysis & High Performance Training
+- **Source**: `Inside-out Forehand Targets.mp4`
 ### 15. Live Ball Down the Middle
-
-> 📹 **Video coming soon** *(YouTube link pending upload)*
-
+- **Topic**: Technical Analysis & High Performance Training
+- **Source**: `Live Ball Down the Middle.mp4`
 ### 16. Live Ball Targets Crosscourt Forehand
-
-> 📹 **Video coming soon** *(YouTube link pending upload)*
-
+- **Topic**: Technical Analysis & High Performance Training
+- **Source**: `Live Ball Targets Crosscourt Forehand.mp4`
 ### 17. Live Ball Targets Volleys
-
-> 📹 **Video coming soon** *(YouTube link pending upload)*
-
+- **Topic**: Technical Analysis & High Performance Training
+- **Source**: `Live Ball Targets Volleys.mp4`
 ### 18. Live ball Targets Crosscourt Backhand
-
-> 📹 **Video coming soon** *(YouTube link pending upload)*
-
+- **Topic**: Technical Analysis & High Performance Training
+- **Source**: `Live ball Targets Crosscourt Backhand.mp4`
 ### 19. Live ball Targets Forehand & Backhand Side to Side
-
-> 📹 **Video coming soon** *(YouTube link pending upload)*
-
+- **Topic**: Technical Analysis & High Performance Training
+- **Source**: `Live ball Targets Forehand & Backhand Side to Side.mp4`
 ### 20. Low Forehand Approach Shot
-
-> 📹 **Video coming soon** *(YouTube link pending upload)*
-
+- **Topic**: Technical Analysis & High Performance Training
+- **Source**: `Low Forehand Approach Shot.mp4`
 ### 21. Not Obsessing with Technique
-
-> 📹 **Video coming soon** *(YouTube link pending upload)*
-
+- **Topic**: Technical Analysis & High Performance Training
+- **Source**: `Not Obsessing with Technique.mp4`
 ### 22. Open Stance Forehand Transition
-
-> 📹 **Video coming soon** *(YouTube link pending upload)*
-
+- **Topic**: Technical Analysis & High Performance Training
+- **Source**: `Open Stance Forehand Transition.mp4`
 ### 23. Producing Great Results
-
-> 📹 **Video coming soon** *(YouTube link pending upload)*
-
+- **Topic**: Technical Analysis & High Performance Training
+- **Source**: `Producing Great Results.mp4`
 ### 24. Serve and Volley Transition
-
-> 📹 **Video coming soon** *(YouTube link pending upload)*
-
+- **Topic**: Technical Analysis & High Performance Training
+- **Source**: `Serve and Volley Transition.mp4`
 ### 25. Serving Against A Big Forehand Player
-
-> 📹 **Video coming soon** *(YouTube link pending upload)*
-
+- **Topic**: Technical Analysis & High Performance Training
+- **Source**: `Serving Against A Big Forehand Player.mp4`
 ### 26. Serving with Targets
-
-> 📹 **Video coming soon** *(YouTube link pending upload)*
-
+- **Topic**: Technical Analysis & High Performance Training
+- **Source**: `Serving with Targets.mp4`
 ### 27. Side to Side with Targets
-
-> 📹 **Video coming soon** *(YouTube link pending upload)*
-
+- **Topic**: Technical Analysis & High Performance Training
+- **Source**: `Side to Side with Targets.mp4`
 ### 28. Slice Backhand Crosscourt
-
-> 📹 **Video coming soon** *(YouTube link pending upload)*
-
+- **Topic**: Technical Analysis & High Performance Training
+- **Source**: `Slice Backhand Crosscourt.mp4`
 ### 29. Slice Backhand Down the Line Targets
-
-> 📹 **Video coming soon** *(YouTube link pending upload)*
-
+- **Topic**: Technical Analysis & High Performance Training
+- **Source**: `Slice Backhand Down the Line Targets.mp4`
 ### 30. Stand Back on the Return of Serve
-
-> 📹 **Video coming soon** *(YouTube link pending upload)*
-
+- **Topic**: Technical Analysis & High Performance Training
+- **Source**: `Stand Back on the Return of Serve.mp4`
 ### 31. Strategy Low slice to the Forehand
-
-> 📹 **Video coming soon** *(YouTube link pending upload)*
-
+- **Topic**: Technical Analysis & High Performance Training
+- **Source**: `Strategy Low slice to the Forehand.mp4`
 ### 32. Target Bucket Drill Recap
-
-> 📹 **Video coming soon** *(YouTube link pending upload)*
-
+- **Topic**: Technical Analysis & High Performance Training
+- **Source**: `Target Bucket Drill Recap.mp4`
 ### 33. Target Introduction Building Precision and Control
-
-> 📹 **Video coming soon** *(YouTube link pending upload)*
-
+- **Topic**: Technical Analysis & High Performance Training
+- **Source**: `Target Introduction Building Precision and Control.mp4`
 ### 34. Todd Widom and Pierre Arnold Strategy Intro
-
-> 📹 **Video coming soon** *(YouTube link pending upload)*
-
+- **Topic**: Technical Analysis & High Performance Training
+- **Source**: `Todd Widom and Pierre Arnold Strategy Intro.mp4`
 ### 35. Todd Widom and Pierre Arnold, the Junior Coaches of Peyton Stearns
-
-> 📹 **Video coming soon** *(YouTube link pending upload)*
-
+- **Topic**: Technical Analysis & High Performance Training
+- **Source**: `Todd Widom and Pierre Arnold, the Junior Coaches of Peyton Stearns.mp4`
 ### 36. Transition Introduction When to Transition to the Net
+- **Topic**: Technical Analysis & High Performance Training
+- **Source**: `Transition Introduction When to Transition to the Net.mp4`
 
-> 📹 **Video coming soon** *(YouTube link pending upload)*
-
----
-*Content courtesy of [CoachLife.com](https://coachlife.com/index/coaches/todd-widom--pierre-arnold) — videos hosted on Henry Phạm's YouTube channel.*
