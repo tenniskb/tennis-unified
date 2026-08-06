@@ -55,7 +55,7 @@ def main() -> None:
         if md_path.name == "index.md":
             target_url = "index.html"
         else:
-            target_url = f"{md_path.stem}/"
+            target_url = md_path.name.replace(".md", ".html")
 
         if emit_redirect(SITE / rel, target_url):
             count += 1
