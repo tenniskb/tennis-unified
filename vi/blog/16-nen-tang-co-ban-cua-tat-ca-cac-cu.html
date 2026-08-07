@@ -1,0 +1,1248 @@
+
+<!doctype html>
+<html lang="vi" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+        <meta name="description" content="Tổng quan về một cú đánh từ đầu đến cuối Xoay toàn thân (unit turn) và tư thế (dáng-bộ-pose) (ND: Unit turn là một khái niệm khi toàn bộ thân người bao gồm cả tay và vợt xoay ra sau cùng một lúc như...">
+      
+      
+        <meta name="author" content="Henry Pham">
+      
+      
+      
+      
+      
+        
+          <link rel="alternate" href="../../blog/16-nen-tang-co-ban-cua-tat-ca-cac-cu.html" hreflang="en">
+        
+          <link rel="alternate" href="16-nen-tang-co-ban-cua-tat-ca-cac-cu.html" hreflang="vi">
+        
+      
+      
+      <link rel="icon" href="../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.6">
+    
+    
+      
+        <title>16 - Nền tảng cơ bản của TẤT CẢ các cú đánh banh - (Phần 3)  - Tennis Unified Library</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.484c7ddc.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.ab4e12ef.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/css/style.css">
+    
+      <link rel="stylesheet" href="../../assets/css/extra.css">
+    
+      <link rel="stylesheet" href="../../assets/css/enhancements.css">
+    
+      <link rel="stylesheet" href="../../assets/css/phase5.css">
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+  </head>
+  
+  
+    
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="teal" data-md-color-accent="blue">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Đầu trang">
+    <a href="../index.html" title="Tennis Unified Library" class="md-header__button md-logo" aria-label="Tennis Unified Library" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Tennis Unified Library
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              16 - Nền tảng cơ bản của TẤT CẢ các cú đánh banh - (Phần 3) 
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+    
+    
+    
+      <div class="md-header__option">
+  <div class="md-select">
+    
+    <button class="md-header__button md-icon" aria-label="Chọn ngôn ngữ">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m12.87 15.07-2.54-2.51.03-.03A17.5 17.5 0 0 0 14.07 6H17V4h-7V2H8v2H1v2h11.17C11.5 7.92 10.44 9.75 9 11.35 8.07 10.32 7.3 9.19 6.69 8h-2c.73 1.63 1.73 3.17 2.98 4.56l-5.09 5.02L4 19l5-5 3.11 3.11zM18.5 10h-2L12 22h2l1.12-3h4.75L21 22h2zm-2.62 7 1.62-4.33L19.12 17z"/></svg>
+    </button>
+    <div class="md-select__inner">
+      <ul class="md-select__list">
+        
+          <li class="md-select__item">
+            <a href="../../blog/16-nen-tang-co-ban-cua-tat-ca-cac-cu.html" hreflang="en" class="md-select__link">
+              English
+            </a>
+          </li>
+        
+          <li class="md-select__item">
+            <a href="16-nen-tang-co-ban-cua-tat-ca-cac-cu.html" hreflang="vi" class="md-select__link">
+              Tiếng Việt
+            </a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+</div>
+    
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+            
+<nav class="md-tabs" aria-label="Tabs" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../index.html" class="md-tabs__link">
+        
+  
+  
+    
+  
+  Trang Chủ
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../foundation/index.html" class="md-tabs__link">
+          
+  
+  
+    
+  
+  Nền Tảng
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../advanced/index.html" class="md-tabs__link">
+          
+  
+  
+    
+  
+  Cấp Độ Cao Cấp
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../elite/index.html" class="md-tabs__link">
+          
+  
+  
+    
+  
+  Tinh Hoa
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../fundamentals/index.html" class="md-tabs__link">
+          
+  
+  
+    
+  
+  TP-Archive
+
+        </a>
+      </li>
+    
+  
+
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../reference-library/coauthored-books/index.html" class="md-tabs__link">
+          
+  
+  
+    
+  
+  Thư Viện Tham Khảo
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../tennis-wiki-reference/index.html" class="md-tabs__link">
+          
+  
+  
+    
+  
+  Tham Khảo Tennis Wiki
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../specialty-shots/index.html" class="md-tabs__link">
+        
+  
+  
+    
+  
+  Cú Đánh Chuyên Biệt
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../doubles/index.html" class="md-tabs__link">
+        
+  
+  
+    
+  
+  Đánh Đôi
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../biomechanics-neurology/index.html" class="md-tabs__link">
+        
+  
+  
+    
+  
+  Cơ Sinh Học & Thần Kinh Học
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../tenniskb-legacy/index.html" class="md-tabs__link">
+        
+  
+  
+    
+  
+  Legacy Archive (tenniskb)
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../coach-video-library/index.html" class="md-tabs__link">
+          
+  
+  
+    
+  
+  Thư Viện Video HLV
+
+        </a>
+      </li>
+    
+  
+
+      
+    </ul>
+  </div>
+</nav>
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+<nav class="md-nav md-nav--primary md-nav--lifted" aria-label="Thanh điều hướng" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../index.html" title="Tennis Unified Library" class="md-nav__button md-logo" aria-label="Tennis Unified Library" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    Tennis Unified Library
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../index.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Trang Chủ
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+        
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../foundation/index.html" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Nền Tảng
+  
+
+    
+  </span>
+  
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+        
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../advanced/index.html" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Cấp Độ Cao Cấp
+  
+
+    
+  </span>
+  
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+        
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../elite/index.html" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Tinh Hoa
+  
+
+    
+  </span>
+  
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+          
+        
+      
+    
+    
+    
+      
+      
+        
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    
+  
+  
+  
+    <a href="../fundamentals/index.html" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    TP-Archive
+  
+
+    
+  </span>
+  
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+  
+
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+        
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../reference-library/coauthored-books/index.html" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Thư Viện Tham Khảo
+  
+
+    
+  </span>
+  
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+        
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../tennis-wiki-reference/index.html" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Tham Khảo Tennis Wiki
+  
+
+    
+  </span>
+  
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../specialty-shots/index.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Cú Đánh Chuyên Biệt
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../doubles/index.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Đánh Đôi
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../biomechanics-neurology/index.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Cơ Sinh Học & Thần Kinh Học
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../tenniskb-legacy/index.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Legacy Archive (tenniskb)
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+        
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../coach-video-library/index.html" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Thư Viện Video HLV
+  
+
+    
+  </span>
+  
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Mục lục">
+  
+  
+  
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              
+                
+
+
+
+  
+
+
+              
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+
+  <h1>16 - Nền tảng cơ bản của TẤT CẢ các cú đánh banh - (Phần 3) </h1>
+
+<p><strong>Tổng quan về một cú đánh từ đầu đến cuối</strong></p>
+<p>** Xoay toàn thân (u<strong>**nit turn) và tư thế (dáng-bộ-pose)</strong></p>
+<p>(ND: Unit turn là một khái niệm khi toàn bộ thân người bao gồm cả tay và vợt xoay ra sau cùng một lúc như là một khối đồng nhất và khi đó vị trí giữa vợt, tay và thân người không thay đổi. Điều này khác với động tác kéo vợt ra sau, khi đó vị trí của vợt và tay cầm vợt thay đổi so với thân người - tạm dịch là xoay toàn thân. </p>
+<p>Trong phần này, do tác giả dùng nhiều thuật ngữ tiếng Anh không thông dụng và khá khó hiểu nên người dịch sẽ cố gắng chuyển tải nội dung bằng cách giải thích thay vì chuyển ngữ. Nếu các bạn biết nhiều về lĩnh vực này và có các từ chính xác, xin vui lòng chia sẻ. Xin cám ơn.) </p>
+<p>Một cú đánh bắt đầu từ khi xoay cả thân người cùng vợt (Unit turn). Đó là một động tác ngắn, mạnh mẽ được thiết kế để xoay vai và hông, định vị bàn chân và thiết lập sự cân bằng động. Đó không phải là động tác backswing. Mục đích tổng thể của việc xoay toàn thân là đưa bạn từ vị trí sẵn sàng (ready position) sang tư thế (bộ) càng nhanh càng tốt để cú đánh không bị vội vàng.</p>
+<p>Tư thế (hay bộ) là một tư thế dễ nhớ của bàn chân, vai, cánh tay và vợt, đóng vai trò là điểm bắt đầu vào trình tự khóa và dự trữ lực (lock - and - load). Vị trí cơ thể này, dành riêng cho mỗi cú đánh, được thiết kế để chuyển sang giai đoạn khóa và kích hoạt thùy não điều khiển các hoạt động của cơ thể  để bắt đầu thực hiện cú đánh đã được ghi trong não bộ.</p>
+<p>** Lực lưu trữ (kình lực - dự ứng lực) - Khóa (lock) và Dự trữ lực (Load)**</p>
+<p>Công cụ bạn sử dụng để buộc bóng đi theo đường bay theo lựa chọn của bạn là lực được lưu trữ trong các cơ của cẳng tay trong quá trình kéo vợt ra sau và được giải phóng tại thời điểm tiếp xúc (hay gọi là kình lực - dự ứng lực). Việc tích trữ và giải phóng lực này thường được gọi là 'cú lắc cổ tay - wrist snap', được đặt tên một cách đơn giản để chỉ cảm giác đầu vợt tăng tốc đột ngột, điều này thực sự xảy ra sau khi banh rời khỏi dây vợt. Cú lắc cổ tay (wrist snap) đã được dạy rộng rãi như một phương pháp để tăng tốc độ cho banh, nhưng nó còn quan trọng hơn thế nhiều: đó là nguồn kiểm soát cơ bản và nhất quán trong tất cả các cú đánh, cho dù bạn đánh mạnh hay đánh nhẹ, hay với cú cắt, xoáy lên, xoáy ngang hoặc không xoáy. Quá trình lưu giữ lực kiểm soát bóng được gọi là khóa (lock) và dự trữ lực (load).</p>
+<p>Động tác khóa (Lock) bắt đầu sau khi thiết lập tư thế (hay bộ). Bạn bắt đầu khóa bằng cách thư giãn hoàn toàn cánh tay và vai phía tay đánh banh. Trong cú thuận tay xoáy lên, điều này liên quan đến việc để cổ tay và vợt rơi ra khỏi tư thế bộ dưới tác động của trọng lực. Giai đoạn đầu tiên của sóng lực (power wave) là đẩy lùi người ra xa banh bằng chân và bắt đầu xoay vai ngược lại một chút, kéo cánh tay đánh banh và vợt ra xa banh. Chuyển động đảo ngược này của vợt được gọi là khóa hoặc 'động tác quay ra sau chính xác - backswing proper'. Khi kết thúc quá trình quay ngược, quán tính sẽ đưa đầu vợt về phía hàng rào phía sau. Các cơ chủ vận (về phía trước) (agonist (forward) muscles) ở cẳng tay theo phản xạ co lại để đáp ứng với chuyển động này, về cơ bản là bắt lấy vợt và từ đó thiết lập độ căng của cơ cẳng tay của bạn (tone). Độ căng cơ của cẳng tay siết chặt các 'lò xo' của cơ cẳng tay, chuẩn bị cho chúng sẵn sàng được rút ngắn khi vai đảo ngược vòng quay và bắt đầu kéo vợt về phía trước. Sự thay đổi hướng này thể hiện 'đỉnh' dương của sóng năng lượng bắt đầu khi bạn "bước vào quả bóng".</p>
+<p>** Điều quan trọng để khóa hiệu quả là:**</p>
+<p>- vị trí và sự xoay của cánh tay trên và cẳng tay,</p>
+<p>- vận tốc của vợt</p>
+<p>- và trương lực của các cơ cẳng tay sẽ dự trữ rồi cung cấp lực điều khiển và lực xoáy cho quả bóng, được gọi là cơ 'chủ vận'.</p>
+<p>Bạn thu thập được kình lực được dự trữ từ đỉnh dương của sóng năng lượng trong giai đoạn dự trữ lực  của cú đánh. Lực này thu được từ sự xoay hai vai đột ngột về phía trước khi sóng lực truyền qua chúng và xuống cánh tay.</p>
+<p>Cánh tay và cổ tay tăng tốc về phía trước để lại đầu vợt phía sau do quán tính của nó có thể lên tới 15 pounds. </p>
+<p>** Vợt thay đổi hướng:** từ một sự hơi ngửa ra sau của đầu vợt (Layback) trong cú vô lê, đến một động tác lật ngược hoàn toàn đầu vợt (flip end-over-end) trong cú giao bóng và thuận tay xoáy lên (nghĩa là đầu vợt quay từ trước ra sau). Sự thay đổi hướng bắt buộc này quay và kéo căng các cơ chủ vận cẳng tay (forehand antagonist muscles) vốn đã bị rút ngắn.</p>
+<p>Khi kết thúc quá trình dự trữ lực, bạn sẽ có lực dự trữ trong cơ cẳng tay, lực này cuối cùng sẽ chịu trách nhiệm kiểm soát toàn bộ cú đánh. Ngoại trừ trương lực nói trên ở các cơ chủ vận của cẳng tay, phần thân trên của bạn phải được thư giãn khi thực hiện dự trữ lực.</p>
+<p>Nếu bạn căng cứng trong các quá trình khóa và  dự trữ lực, lực dự trữ sẽ bị triệt tiêu và trở nên vô dụng.</p>
+<p>** Tư thế bộ trong cú thuận tay:** Xoay toàn thân kết thúc ở "Tư thế bộ" cho cú thuận tay xoáy lên. Lưu ý khuỷu tay cao và cách sử dụng tay không đánh banh (tay trái cho người thuận tay phải).</p>
+<p>Trong cú thuận tay xoáy lên kiểu Federer, tư thế bao gồm tư thế nửa mở (semi-open stance), vai xoay, khuỷu tay cong và hơi cách xa cơ thể và một cây vợt thẳng đứng và quay nghiêng ra bên (pronated). </p>
+<p>Khi giai đoạn đầu tiên của sóng lực đến gần, cánh tay đánh được thả ra theo trọng lực và bắt đầu thả ra khỏi tư thế bộ, mô tả một vòng cung nhẹ nhàng theo chiều kim đồng hồ. Đáy (trough) ban đầu của sóng lực sinh ra khi vợt rơi xuống, làm xoay ngược vai và khiến cổ tay đẩy nhẹ vợt ra xa trái banh. Việc thả và xoay ngược lại sẽ làm nên động khóa (Lock) hoặc "động tác quay ra sau chính xác".</p>
+<p>Khi kết thúc quá trình quay ngược, quán tính có xu hướng đẩy đầu vợt ra sau. Các cơ chủ vận cẳng tay, trong trường hợp này, các cơ gấp-lật sấp (flexor-pronators), cứng lại để chống lại động lượng của vợt nhưng tạo ra rất ít chuyển động ròng của vợt do động lượng của đầu vợt phản lực hoàn toàn, do đó các cơ gấp-lật sấp bị rút ngắn lại bên trong và sẵn sàng để được kéo dài. </p>
+<p>Việc chuẩn bị sẵn sàng để kéo căng các cơ gấp-úp được gọi là là "thiết lập tông hay giai điệu" của các cơ chủ vận, và đáng tiếc là nó hoàn toàn nằm trong tầm kiểm soát của người chơi và có thể tạo ra cú đánh tốt hay hỏng. Quá lỏng thì hành động cẩu thả, quá chặt thì bị căng cứng. Dù bằng cách nào bạn cũng sẽ không thể kéo dãn - rút ngắn các cơ theo đúng cách và do đó sẽ không có sự kiểm soát tốt.</p>
+<p>** Các giai đoạn của cú thuận tay xoáy lên kiểu Fed:** Bắt đầu với vị trí sẵn sàng. Bàn tay không đánh banh là chìa khóa để kiểm soát đầu vợt trong các giai đoạn Xoay toàn thân và tư thế bộ, đảm bảo xoay vai hoàn toàn trong các giai đoạn Khóa và Tải và dừng vai để bắt đầu giai đoạn Nổ.</p>
+<p>Ngay sau khi hoàn thành khóa, giai đoạn dự trữ lực bắt đầu khi cực đại dương (tiến về phía trước) của sóng lực đến, khiến thân và vai xoay theo cú đánh, kéo mạnh tay đánh và vợt về phía sau. Do quán tính nên vợt bị tụt lại phía sau cổ tay trong khi phần còn lại của cánh tay bị vai kéo về phía trước. Sự khác biệt về hướng lực giữa đuôi và đầu của cây vợt làm lật vợt từ đầu này sang đầu kia và làm bung mặt vợt ra, cuối cùng làm song song với hàng rào phía bên phải. Sự thay đổi hướng mạnh mẽ này "làm căng" các cơ cẳng tay, kéo căng các cơ gấp-lúp và do đó tích trữ cả lực hướng về phía trước và lực quay.</p>
+<p>Khi bắt đầu giai đoạn dự trữ lực trong cú đánh thuận tay xoáy lên, đầu vợt ở dưới cổ tay, do đó lực quay xoáy lên sẽ được lưu trữ. Nếu đầu vợt ở trên cổ tay khi bắt đầu tải, chẳng hạn như trong cú đánh vô lê và cú đánh tiếp cận, thì lực tạo ra cú cắt sẽ được lưu trữ. Việc chuẩn bị dự trữ lực để dẫn hướng trái banh sẽ phức tạp hơn nhưng mục tiêu lại đơn giản; chuyển hướng bóng đến một điểm cao hơn lưới 30-60 cm. Bạn không cần phải tìm ra vị trí cánh tay ở điểm nào để dẫn đến quỹ đạo bóng sau cú đánh như mong muốn. Bộ não của bạn có nhiều khả năng tạo ra sự kết nối đó thông qua thực hành và quan sát. Trách nhiệm của bạn là đảm bảo rằng bạn dự trữ đủ lực kiểm soát ở cơ cẳng tay để làm cho sự liên kết đó trở nên phù hợp.</p>
+<p>Trong giai đoạn trễ (Lag) xảy ra sau quá trình dự trữ lực, sự tăng tốc liên tục sẽ giữ vợt ở phía sau cổ tay và dồn lực cơ bắp tích trữ ở cẳng tay. Ngay trước thời điểm tiếp xúc, pha âm thứ ba (3rd negative phase) của sóng lực sẽ bắt đầu. Đợt sóng thứ hai này cản trở chuyển động về phía trước của hông và vai, làm giảm hoặc loại bỏ gia tốc ở cổ tay và giải phóng lực tích trữ. Sự giải phóng năng lượng bị dồn nén này chính là sự “bùng nổ”. Một vài mili giây sau trong cú đánh, khi mặt vợt cuối cùng tiếp xúc với quả bóng, toàn bộ sóng năng lượng đã đi qua và cái còn lại là động năng và động lượng của vợt do "tốc độ đầu vợt" và lực tuyến tính được lưu trữ và lực quay ở cơ cẳng tay. Chính những lực được lưu trữ này sẽ chuyển giao quyền kiểm soát và độ xoáy vào trái banh một cách kỳ diệu thông qua Xung lực (Impulse). Tôi nói “kỳ diệu” không phải để kịch tính mà gần như theo nghĩa đen; bởi vì lực tích trữ trong cơ không bộc lộ qua bất kỳ chuyển động công khai nào của vợt cho đến khi thực hiện cú đánh tiếp theo, rất lâu sau khi bóng đã rời khỏi dây vợt!</p>
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z"/></svg>
+  Trở lại mục lục
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+    
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+    <div class="md-copyright__highlight">
+      © 2026 Henry Phạm Đức · Tennis Future Lab Research · All contents are for educational purpose.
+    </div>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      
+      <script id="__config" type="application/json">{"annotate": null, "base": "../..", "features": ["navigation.tabs", "navigation.sections", "navigation.top", "navigation.path", "navigation.expand", "navigation.indexes", "navigation.prune", "navigation.prev_next", "navigation.footer", "search.highlight", "search.suggest", "alternate"], "search": "../../assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "\u0110\u00e3 sao ch\u00e9p", "clipboard.copy": "Sao ch\u00e9p v\u00e0o b\u1ed9 nh\u1edb t\u1ea1m", "search.result.more.one": "1 t\u1eeb kh\u00e1c trong trang", "search.result.more.other": "# t\u1eeb kh\u00e1c trong trang", "search.result.none": "Kh\u00f4ng t\u00ecm th\u1ea5y t\u00e0i li\u1ec7u li\u00ean quan", "search.result.one": "1 t\u00e0i li\u1ec7u li\u00ean quan", "search.result.other": "# t\u00e0i li\u1ec7u li\u00ean quan", "search.result.placeholder": "Nh\u1eadp \u0111\u1ec3 b\u1eaft \u0111\u1ea7u t\u00ecm ki\u1ebfm", "search.result.term.missing": "Kh\u00f4ng", "select.version": "Ch\u1ecdn phi\u00ean b\u1ea3n"}, "version": null}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.79ae519e.min.js"></script>
+      
+        <script src="../../assets/js/extra.js"></script>
+      
+    
+  </body>
+</html>
