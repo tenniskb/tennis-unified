@@ -1,0 +1,1526 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+        <meta name="description" content="Chương 2 - Chuỗi động học và cách tối ưu hóa nó.">
+      
+      
+        <meta name="author" content="Henry Pham">
+      
+      
+      
+      
+      
+        
+          <link rel="alternate" href="chuoi-dong-luc.html" hreflang="en">
+        
+          <link rel="alternate" href="../../../vi/reference-library/tennis-books/cam-nang-quan-vot-toan-dien/chuoi-dong-luc.html" hreflang="vi">
+        
+      
+      
+      <link rel="icon" href="../../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.6">
+    
+    
+      
+        <title>Chuỗi động lực — Truyền lực từ chân đến vợt - Tennis Unified Library</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../../assets/stylesheets/main.484c7ddc.min.css">
+      
+        
+        <link rel="stylesheet" href="../../../assets/stylesheets/palette.ab4e12ef.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../../assets/css/style.css">
+    
+      <link rel="stylesheet" href="../../../assets/css/extra.css">
+    
+      <link rel="stylesheet" href="../../../assets/css/enhancements.css">
+    
+      <link rel="stylesheet" href="../../../assets/css/phase5.css">
+    
+    <script>__md_scope=new URL("../../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+  </head>
+  
+  
+    
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="teal" data-md-color-accent="blue">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#chuoi-ong-luc-truyen-luc-tu-chan-en-vot" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../../../index.html" title="Tennis Unified Library" class="md-header__button md-logo" aria-label="Tennis Unified Library" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Tennis Unified Library
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Chuỗi động lực — Truyền lực từ chân đến vợt
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+    
+    
+    
+      <div class="md-header__option">
+  <div class="md-select">
+    
+    <button class="md-header__button md-icon" aria-label="Select language">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m12.87 15.07-2.54-2.51.03-.03A17.5 17.5 0 0 0 14.07 6H17V4h-7V2H8v2H1v2h11.17C11.5 7.92 10.44 9.75 9 11.35 8.07 10.32 7.3 9.19 6.69 8h-2c.73 1.63 1.73 3.17 2.98 4.56l-5.09 5.02L4 19l5-5 3.11 3.11zM18.5 10h-2L12 22h2l1.12-3h4.75L21 22h2zm-2.62 7 1.62-4.33L19.12 17z"/></svg>
+    </button>
+    <div class="md-select__inner">
+      <ul class="md-select__list">
+        
+          <li class="md-select__item">
+            <a href="chuoi-dong-luc.html" hreflang="en" class="md-select__link">
+              English
+            </a>
+          </li>
+        
+          <li class="md-select__item">
+            <a href="../../../vi/reference-library/tennis-books/cam-nang-quan-vot-toan-dien/chuoi-dong-luc.html" hreflang="vi" class="md-select__link">
+              Tiếng Việt
+            </a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+</div>
+    
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+            
+<nav class="md-tabs" aria-label="Tabs" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../../index.html" class="md-tabs__link">
+        
+  
+  
+    
+  
+  Home
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../../foundation/index.html" class="md-tabs__link">
+          
+  
+  
+    
+  
+  Foundation
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../../advanced/index.html" class="md-tabs__link">
+          
+  
+  
+    
+  
+  Advanced
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../../elite/index.html" class="md-tabs__link">
+          
+  
+  
+    
+  
+  Elite
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../../fundamentals/index.html" class="md-tabs__link">
+          
+  
+  
+    
+  
+  TP-Archive
+
+        </a>
+      </li>
+    
+  
+
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../coauthored-books/index.html" class="md-tabs__link">
+          
+  
+  
+    
+  
+  Reference Library
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../../tennis-wiki-reference/index.html" class="md-tabs__link">
+          
+  
+  
+    
+  
+  Tennis Wiki Reference
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../../coach-video-library/index.html" class="md-tabs__link">
+        
+  
+  
+    
+  
+  Coach Video Library
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../../specialty-shots/index.html" class="md-tabs__link">
+        
+  
+  
+    
+  
+  Specialty Shots
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../../doubles/index.html" class="md-tabs__link">
+        
+  
+  
+    
+  
+  Doubles
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../../biomechanics-neurology/index.html" class="md-tabs__link">
+        
+  
+  
+    
+  
+  Biomechanics & Neurology
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../../tenniskb-legacy/index.html" class="md-tabs__link">
+        
+  
+  
+    
+  
+  Legacy Archive (tenniskb)
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../../coach-video-library/index.html" class="md-tabs__link">
+          
+  
+  
+    
+  
+  Coach Video Library
+
+        </a>
+      </li>
+    
+  
+
+      
+    </ul>
+  </div>
+</nav>
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+<nav class="md-nav md-nav--primary md-nav--lifted" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../../../index.html" title="Tennis Unified Library" class="md-nav__button md-logo" aria-label="Tennis Unified Library" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    Tennis Unified Library
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../index.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Home
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+        
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../../../foundation/index.html" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Foundation
+  
+
+    
+  </span>
+  
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+        
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../../../advanced/index.html" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Advanced
+  
+
+    
+  </span>
+  
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+        
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../../../elite/index.html" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Elite
+  
+
+    
+  </span>
+  
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+          
+        
+      
+    
+    
+    
+      
+      
+        
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    
+  
+  
+  
+    <a href="../../../fundamentals/index.html" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    TP-Archive
+  
+
+    
+  </span>
+  
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+  
+
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+        
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../../coauthored-books/index.html" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Reference Library
+  
+
+    
+  </span>
+  
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+        
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../../../tennis-wiki-reference/index.html" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Tennis Wiki Reference
+  
+
+    
+  </span>
+  
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../coach-video-library/index.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Coach Video Library
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../specialty-shots/index.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Specialty Shots
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../doubles/index.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Doubles
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../biomechanics-neurology/index.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Biomechanics & Neurology
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../tenniskb-legacy/index.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Legacy Archive (tenniskb)
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+        
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../../../coach-video-library/index.html" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Coach Video Library
+  
+
+    
+  </span>
+  
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#i-loi-ich-cua-chuoi-ong-hoc" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        I. Lợi Ích Của Chuỗi Động Học
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="I. Lợi Ích Của Chuỗi Động Học">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#1-tang-cuong-suc-manh-cu-anh" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        1. TĂNG CƯỜNG SỨC MẠNH CÚ ĐÁNH
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#2-cai-thien-o-on-inh" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        2. CẢI THIỆN ĐỘ ỔN ĐỊNH
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#3-tiet-kiem-nang-luong-va-giam-chan-thuong" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        3. TIẾT KIỆM NĂNG LƯỢNG VÀ GIẢM CHẤN THƯƠNG
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#ii-lam-the-nao-e-toi-uu-hoa-chuoi-ong-hoc" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        II. Làm Thế Nào Để Tối Ưu Hóa Chuỗi Động Học
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="II. Làm Thế Nào Để Tối Ưu Hóa Chuỗi Động Học">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#1-thoi-iem-chinh-xac" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        1. THỜI ĐIỂM CHÍNH XÁC
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#2-thang-bang-tot" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        2. THĂNG BẰNG TỐT
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#3-chuan-bi-som" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        3. CHUẨN BỊ SỚM
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#4-suc-manh-toan-than" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        4. SỨC MẠNH TOÀN THÂN
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#5-o-deo-dai-vuot-troi" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        5. ĐỘ DẺO DAI VƯỢT TRỘI
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#iii-co-the-ban-nen-di-chuyen-bao-nhieu" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        III. Cơ Thể Bạn Nên Di Chuyển Bao Nhiêu?
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#iv-bai-tap-chuoi-ong-hoc" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        IV. Bài Tập Chuỗi Động Học
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="IV. Bài Tập Chuỗi Động Học">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#1-bai-tap-bong-ta-cho-cu-anh-cham-at" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        1. BÀI TẬP BÓNG TẠ CHO CÚ ĐÁNH CHẠM ĐẤT
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#2-bai-tap-bong-ta-cho-cu-giao-bong" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        2. BÀI TẬP BÓNG TẠ CHO CÚ GIAO BÓNG
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#3-bai-tap-bong-ta-cho-cu-vo-le" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        3. BÀI TẬP BÓNG TẠ CHO CÚ VÔ LÊ
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              
+                
+
+
+
+  
+
+
+              
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+
+<h1 id="chuoi-ong-luc-truyen-luc-tu-chan-en-vot">Chuỗi động lực — Truyền lực từ chân đến vợt<a class="headerlink" href="#chuoi-ong-luc-truyen-luc-tu-chan-en-vot" title="Permanent link">&para;</a></h1>
+<p>Sự phối hợp và liên kết đáng kinh ngạc này chính là nền tảng của kỹ thuật giao bóng của Serena Williams, và cũng là nền tảng của tennis hiện đại: một chuyển động vặn người toàn thân được thiết kế để tạo ra một cú đánh mạnh mẽ. Nó được gọi là chuỗi động học. Chuỗi động học hình dung cơ thể như một hệ thống các mắt xích, trong đó năng lượng được tạo ra từ đôi chân được truyền lên và tăng dần qua cơ thể, lên đến đỉnh điểm là một luồng sức mạnh bùng nổ tại thời điểm bạn đánh bóng. Trong chương này, tôi sẽ giải thích những lợi ích của chuỗi động học, bao gồm việc cải thiện sức mạnh và độ ổn định của cú đánh, tiết kiệm năng lượng, và giảm nguy cơ chấn thương. Sau đó tôi sẽ hướng dẫn bạn cách tối ưu hóa chuỗi động học, và kết thúc chương với các bài tập được thiết kế để tăng cường sức mạnh chuỗi động học của bạn.</p>
+<p>Vorsprung durch Technik \&lt;\&lt;Sự tiến bộ nhờ công nghệ&gt;&gt; --- Việc Federer sử dụng chuỗi động học một cách xuất sắc giúp anh bật cao khỏi mặt đất trong cú giao bóng này. Điều đó giúp anh tạo ra sức mạnh to lớn mà không cần gắng sức quá mức, và là một trong những yếu tố góp phần vào kỷ lục thi đấu liên tiếp 65 giải Grand Slam của anh.</p>
+<h2 id="i-loi-ich-cua-chuoi-ong-hoc"><strong>I. Lợi Ích Của Chuỗi Động Học</strong><a class="headerlink" href="#i-loi-ich-cua-chuoi-ong-hoc" title="Permanent link">&para;</a></h2>
+<h3 id="1-tang-cuong-suc-manh-cu-anh"><strong>1. TĂNG CƯỜNG SỨC MẠNH CÚ ĐÁNH</strong><a class="headerlink" href="#1-tang-cuong-suc-manh-cu-anh" title="Permanent link">&para;</a></h3>
+<p>Mặc dù cánh tay và vai là nguồn chính tạo ra tốc độ vợt khi giao bóng, nhưng nếu bạn giao bóng chỉ bằng cách di chuyển cánh tay, bạn sẽ chỉ có một cú giao bóng tầm thường. Chính các nhóm cơ lớn ở chân và vùng bụng mới là lực đẩy chính, cung cấp sức mạnh cho cánh tay và tốc độ cho cây vợt.</p>
+<p>Sức mạnh và độ cao tiếp xúc bóng cần thiết cho một cú giao bóng tốt bắt đầu từ việc đôi chân gập lại, duỗi thẳng, rồi đẩy lên từ mặt đất, tạo ra một phản lực từ mặt đất. Năng lượng ở chân sau đó di chuyển lên cơ thể và được tăng cường nhờ sự xoay của hông và vai. Năng lượng này, giờ đã nằm ở vai, được khuếch đại thêm nhờ chuyển động sấp của cẳng tay và cổ tay, giải phóng một luồng sức mạnh bắt đầu từ đôi chân của bạn ra đến cây vợt (ảnh đối diện).</p>
+<p>Khái niệm tương tự cũng áp dụng cho các cú đánh chạm đất. Năng lượng ban đầu được tích lũy ở chân sẽ di chuyển lên cơ thể và đồng bộ với pha vung vợt về trước để tăng tốc độ đầu vợt và trọng lượng cho cú đánh. Trong tennis hiện đại, giao bóng và các cú đánh chạm đất là những cú đánh quyết định kết quả của phần lớn các điểm số. <strong>Vì vậy, việc bạn có thể thực hiện tốt chuỗi động học là điều vô cùng quan trọng.</strong></p>
+<hr />
+<p><strong>HỘP HUẤN LUYỆN VIÊN:</strong>
+  <strong>Giao bóng thực chất là một động tác ném. Để giúp học trò hiểu được tầm quan trọng của chuỗi động học trong cú giao bóng, tôi thường yêu cầu họ ném bóng theo bốn cách khác nhau: đầu tiên, đứng đối diện lưới và ném mà không di chuyển vai, giống động tác đẩy tạ; thứ hai, vẫn đối diện lưới nhưng lần này xoay vai trong khi ném; thứ ba, làm tương tự nhưng gập đầu gối và dùng lực từ chân; và cuối cùng, đứng ở tư thế nghiêng người và thực hiện động tác ném đầy đủ với một chút đà về phía trước. Với mỗi mắt xích của chuỗi động học được thêm vào, quả bóng sẽ được ném đi xa hơn và xa hơn nữa.</strong></p>
+<hr />
+<h3 id="2-cai-thien-o-on-inh"><strong>2. CẢI THIỆN ĐỘ ỔN ĐỊNH</strong><a class="headerlink" href="#2-cai-thien-o-on-inh" title="Permanent link">&para;</a></h3>
+<p>Nếu bạn sử dụng chuỗi động học không đúng cách và chủ yếu dựa vào chuyển động của thân trên và cánh tay, bạn sẽ mất khả năng kiểm soát vợt và mắc nhiều lỗi hơn. Nếu cánh tay bạn di chuyển mạnh mà không có sự hỗ trợ từ phía dưới, bạn sẽ khó có thể giữ vợt cân bằng tốt tại thời điểm tiếp xúc bóng. Ngược lại, nếu bạn sử dụng chuỗi động học đúng cách, bạn không chỉ có thêm sức mạnh mà các cú đánh của bạn cũng sẽ trở nên ổn định hơn. Bằng cách tạo sức mạnh từ toàn bộ cơ thể, cánh tay và cổ tay của bạn có thể tập trung ít hơn vào việc tăng lực và tập trung nhiều hơn vào việc giữ vợt ổn định và xác lập góc dây vợt chính xác cần thiết để có một cú đánh ổn định.</p>
+<h3 id="3-tiet-kiem-nang-luong-va-giam-chan-thuong"><strong>3. TIẾT KIỆM NĂNG LƯỢNG VÀ GIẢM CHẤN THƯƠNG</strong><a class="headerlink" href="#3-tiet-kiem-nang-luong-va-giam-chan-thuong" title="Permanent link">&para;</a></h3>
+<p><strong>Những tay vợt có chân và phần cơ lõi cứng nhắc thường phải gồng các cơ ở thân trên và thực hiện những chuyển động tay đầy gắng sức để cố gắng tăng tốc độ vợt. Việc lặp đi lặp lại kiểu vung vợt này không chỉ làm tăng sự mệt mỏi, mà còn gia tăng áp lực lên cơ và khớp, và theo thời gian, có thể gây tổn thương cho cánh tay và vai. Nếu bạn sử dụng chuỗi động học tốt, bạn sẽ giảm bớt áp lực lên cánh tay và vai. Cánh tay của bạn sẽ chỉ "đi theo" làn sóng năng lượng trào lên từ chân và phần cơ lõi, giúp sử dụng toàn bộ cơ thể một cách hiệu quả.</strong></p>
+<h2 id="ii-lam-the-nao-e-toi-uu-hoa-chuoi-ong-hoc"><strong>II. Làm Thế Nào Để Tối Ưu Hóa Chuỗi Động Học</strong><a class="headerlink" href="#ii-lam-the-nao-e-toi-uu-hoa-chuoi-ong-hoc" title="Permanent link">&para;</a></h2>
+<p><strong>Lợi ích của chuỗi động học đã rõ ràng, vậy làm sao để tối đa hóa những lợi thế đó? Chuỗi động học hoạt động hiệu quả nhất khi được thực hiện đúng thời điểm, và khi bạn giữ được thăng bằng, chuẩn bị tốt, và có đủ sức mạnh cùng độ dẻo dai toàn thân.</strong></p>
+<h3 id="1-thoi-iem-chinh-xac"><strong>1. THỜI ĐIỂM CHÍNH XÁC</strong><a class="headerlink" href="#1-thoi-iem-chinh-xac" title="Permanent link">&para;</a></h3>
+<p>Thời điểm và trình tự của chuỗi động học rất quan trọng. Chuỗi động học có một nhịp điệu: cơ thể hạ thấp xuống với cây vợt gần thân trong pha vung vợt ra sau, sau đó cơ thể nâng lên khi bạn thở ra và vung vợt ra xa khỏi thân trong pha vung vợt về trước. Việc khởi động chuỗi động học quá sớm hoặc quá muộn sẽ làm giảm hiệu quả của nó. Ví dụ, trong cú giao bóng, nếu vợt di chuyển về phía bóng trước khi chân bắt đầu duỗi thẳng, thì chuỗi động học đã sai thời điểm và sẽ không hoạt động đúng cách.</p>
+<p><img alt="" src="images/chuoi-dong-luc/img1.jpeg" /></p>
+<p><em>Simona Halep thiết lập một nền tảng vững chắc trước khi đẩy người lên từ mặt đất và tiếp đất trong tư thế cân bằng.</em></p>
+<h3 id="2-thang-bang-tot"><strong>2. THĂNG BẰNG TỐT</strong><a class="headerlink" href="#2-thang-bang-tot" title="Permanent link">&para;</a></h3>
+<p>Bạn phải ở trạng thái cân bằng để đôi chân có thể đẩy lên hiệu quả từ mặt đất. Nếu tư thế của bạn không tốt hoặc nghiêng người sai cách trong khi vung vợt, đôi chân của bạn sẽ không thể bám chắc vào mặt sân (ảnh bên trái) để thiết lập nền tảng vững chắc cần thiết nhằm đẩy mạnh mẽ từ mặt đất (ảnh giữa). Nếu bạn đứng quá xa bóng khi đánh cú thuận tay, tư thế của bạn sẽ kém và đôi chân sẽ lê bước trong khi vung vợt, làm mất sức mạnh của bạn. Đây là một trong nhiều lý do khiến bước chân trở thành một yếu tố quan trọng của tennis. Bước chân tốt sẽ giúp bạn vào đúng vị trí để giữ thăng bằng, và chỉ khi có được sự cân bằng đó, sức mạnh từ chuỗi động học mới có thể được giải phóng.</p>
+<h3 id="3-chuan-bi-som"><strong>3. CHUẨN BỊ SỚM</strong><a class="headerlink" href="#3-chuan-bi-som" title="Permanent link">&para;</a></h3>
+<p>Hãy cố gắng hết sức để thiết lập vị trí tốt càng sớm càng tốt. Điều này sẽ cho bạn đủ thời gian cần thiết để đẩy lực tốt bằng đôi chân. Bằng cách vào vị trí sớm và đặt chân vững vàng, bạn có thể tích trữ nhiều sức mạnh hơn ở chân trong pha vung vợt ra sau trước khi giải phóng nó lên trên trong pha vung vợt về trước. Nếu bạn bị gấp gáp và không có thời gian chuẩn bị đúng cách, bạn sẽ chủ yếu sử dụng các nhóm cơ tay nhỏ hơn, dẫn đến cú đánh có ít trọng lượng hơn.</p>
+<h3 id="4-suc-manh-toan-than"><strong>4. SỨC MẠNH TOÀN THÂN</strong><a class="headerlink" href="#4-suc-manh-toan-than" title="Permanent link">&para;</a></h3>
+<p>Các tay vợt cần có sức mạnh thể chất trên toàn bộ cơ thể để thực hiện tốt chuỗi động học. Bạn có thể so sánh năng lượng của chuỗi động học với dòng nước chảy qua cơ thể. Nếu một bộ phận nào đó trong chuỗi bị yếu, nó sẽ tạo ra một con đập, và năng lượng được tạo ra trước mắt xích đó sẽ bị suy giảm. <strong>Ví dụ, nếu một tay vợt có vùng bụng yếu, thì sức mạnh bắt đầu từ chân sẽ giảm dần khi đi qua thân trên trên đường lên đến vai.</strong></p>
+<h3 id="5-o-deo-dai-vuot-troi"><strong>5. ĐỘ DẺO DAI VƯỢT TRỘI</strong><a class="headerlink" href="#5-o-deo-dai-vuot-troi" title="Permanent link">&para;</a></h3>
+<p>Bạn có thể tăng cường chuỗi động học của mình bằng cách dẻo dai hơn và sử dụng "chu trình co giãn cơ". Chu trình co giãn cơ hoạt động phần nào giống như một sợi dây thun, trong đó việc kéo giãn một cơ được theo sau ngay lập tức bởi một sự co lại mạnh mẽ hơn của chính cơ đó. Bạn càng dẻo dai, độ giãn càng lớn, và do đó, lượng năng lượng có thể tạo ra từ hiệu ứng này càng nhiều. <strong>Ví dụ, ở cuối pha vung vợt ra sau của cú thuận tay, các cơ ngực và vai của bạn giãn ra khi hông xoay vào cú đánh, và quán tính của cánh tay khiến cây vợt bị trễ lại phía sau. Sự trễ lại này của vợt kéo giãn các cơ ngực và vai, tích trữ năng lượng, năng lượng này sẽ được giải phóng khi các cơ đó co lại, giúp vợt lao về phía trước nhanh hơn để đánh bóng.</strong></p>
+<h2 id="iii-co-the-ban-nen-di-chuyen-bao-nhieu"><strong>III. Cơ Thể Bạn Nên Di Chuyển Bao Nhiêu?</strong><a class="headerlink" href="#iii-co-the-ban-nen-di-chuyen-bao-nhieu" title="Permanent link">&para;</a></h2>
+<p>TENNIS LÀ MỘT MÔN THỂ THAO NĂNG ĐỘNG, vì vậy điều hợp lý là lượng chuyển động cơ thể trong chuỗi động học nên và sẽ thay đổi tùy theo từng cú đánh. Chuỗi động học được sử dụng ở mọi cú giao bóng và cú đánh chạm đất mạnh, nhưng được sử dụng với mức độ khác nhau ở các cú đánh khác tùy thuộc vào tốc độ bóng đến và lực vung vợt của bạn. Bạn cần phản ứng linh hoạt theo tình huống và sử dụng lượng chuyển động cơ thể phù hợp trong cú đánh để đạt được không chỉ sức mạnh tối đa, mà còn sự kiểm soát tốt nhất.</p>
+<p>Chuỗi động học quan trọng hơn khi bóng đến chậm, vì khi đó bạn cần tự tạo ra sức mạnh cho mình. Những cú thuận tay mạnh mẽ nhất khi đánh bóng chậm đến là những cú mà bạn có thể đặt chân vững, gập rồi duỗi thẳng chân, xoay bung hông và vai, rồi giải phóng vào cú đánh (trang sau, ảnh trên). Trên sân đất nện hoặc bất kỳ mặt sân chậm nào, nơi bạn thường xuyên phải tự tạo sức mạnh cho mình hơn, việc thực hiện một chuỗi động học đầy đủ và mạnh mẽ là yếu tố thiết yếu để đánh bóng tấn công.</p>
+<p>Ngược lại, ở những cú đánh ít tấn công hơn --- như cú bỏ nhỏ và cú cắt bóng chạm đất --- bạn sẽ cần ít sức mạnh từ chuỗi động học hơn (ảnh dưới). Cơ thể sẽ đứng yên hơn trong những cú đánh này, hay còn gọi là "giữ thấp người" theo cách nói của huấn luyện viên. Ngoài ra, chuỗi động học cũng kém quan trọng hơn ở các cú vô lê hoặc khi đỡ những bóng nhanh, vì trong những cú đánh này, bản thân bóng đã có sẵn sức mạnh. Ví dụ, khi đỡ một cú giao bóng nhanh, năng lượng đã được tích trữ sẵn trong quả bóng đang bay tới, và không cần phải có chuyển động cơ thể theo trình tự mạnh mẽ; ngược lại, điều đó chỉ khiến việc canh thời điểm của cú đánh trở nên phức tạp không cần thiết. Đối với các tay vợt nghiệp dư, giữ thấp người là một nguyên tắc tốt cho cú đánh chạm đất vì nó đơn giản hóa việc canh thời điểm, và đây là một kỹ thuật phù hợp với tốc độ vung vợt của họ. Hãy nhớ rằng, việc giảm chuyển động cơ thể trong chuỗi động học này thường được thực hiện nhiều hơn trên sân cứng, nơi bóng nảy thấp và nhanh hơn so với sân đất nện.</p>
+<p><img alt="" src="images/chuoi-dong-luc/img2.jpeg" /></p>
+<p><em>Djokovic sử dụng sức mạnh chuỗi động học mạnh mẽ khi thực hiện cú thuận tay xoáy lên đầy tấn công này từ một quả bóng chậm.</em></p>
+<p>Tuy nhiên, ở cú trái tay cắt bóng này, anh giữ cơ thể ổn định hơn và giảm bớt sức mạnh chuỗi động học.</p>
+<h2 id="iv-bai-tap-chuoi-ong-hoc"><strong>IV. Bài Tập Chuỗi Động Học</strong><a class="headerlink" href="#iv-bai-tap-chuoi-ong-hoc" title="Permanent link">&para;</a></h2>
+<p>Làm thế nào để xây dựng một chuỗi động học mạnh mẽ? Sức mạnh của chuỗi động học phần lớn đến từ việc xây dựng một vùng cơ lõi vững chắc --- phần giữa của cơ thể bao gồm cột sống, lưng, hông và bụng. Cơ lõi chính là chìa khóa cho một chuỗi động học mạnh mẽ; để tối đa hóa sức mạnh, luồng năng lượng của chuỗi động học phải đi qua vùng cơ lõi mà không bị suy giảm. Ngoài ra, giai đoạn xoay hông và vai của chuỗi động học cũng dựa vào một vùng cơ lõi vững chắc để hỗ trợ. Các tay vợt chuyên nghiệp hiểu rõ điều này và luyện tập chăm chỉ để tăng cường bộ phận này của cơ thể, thường sử dụng công cụ tập luyện cơ lõi ưa thích của họ: bóng tạ (medicine ball).</p>
+<p>Các bài tập với bóng tạ giúp bạn luyện sử dụng cơ thể như một hệ thống thống nhất, do lực cần thiết để ném quả bóng có trọng lượng đi một cách bùng nổ. Ngoài ra, bạn có thể mô phỏng các cú vung vợt cụ thể, như cú thuận tay hoặc trái tay, và bắt chước những chuyển động khác nhau được sử dụng trên sân.</p>
+<p>Hãy chọn trọng lượng bóng tạ và số lần lặp lại phù hợp với thể lực của bạn cho các bài tập sau đây.</p>
+<h3 id="1-bai-tap-bong-ta-cho-cu-anh-cham-at"><strong>1. BÀI TẬP BÓNG TẠ CHO CÚ ĐÁNH CHẠM ĐẤT</strong><a class="headerlink" href="#1-bai-tap-bong-ta-cho-cu-anh-cham-at" title="Permanent link">&para;</a></h3>
+<p>Đứng nghiêng người với một bức tường (tường ở bên trái bạn), chân trái ở phía trước, trong tư thế hơi khuỵu. Giữ quả bóng tạ sau hông phải với phần lớn trọng lượng dồn vào chân phải. Mô phỏng tư thế nạp lực của cú thuận tay và ném bóng vào tường theo đường vung của cú thuận tay, giữ tư thế tốt trong khi xoay thân trên. Theo bóng đến hết động tác với cả hai tay kết thúc ngang vai và hông hướng thẳng vào tường. Sau đó mô phỏng động tác trái tay bằng cách thực hiện chuyển động tương tự nhưng quay mặt theo hướng ngược lại và để chân phải ở phía trước. Nếu bạn có người tập cùng, hãy thử thực hiện các cú ném này trong khi bắt bóng và di chuyển như khi thi đấu ở cuối sân (ảnh bên trái).</p>
+<h3 id="2-bai-tap-bong-ta-cho-cu-giao-bong"><strong>2. BÀI TẬP BÓNG TẠ CHO CÚ GIAO BÓNG</strong><a class="headerlink" href="#2-bai-tap-bong-ta-cho-cu-giao-bong" title="Permanent link">&para;</a></h3>
+<p>Đứng đối diện với một bức tường, hai chân rộng bằng vai, đặt hai tay lên hai bên quả bóng tạ, và nâng bóng lên cao trên đầu. Từ tư thế này, ném bóng vào tường theo ba hướng khác nhau: lên trên, thẳng về phía trước, và xuống đất ngay trước mặt bạn. Tiếp theo, thay đổi vị trí chân sao cho chân trái ở phía trước, đưa bạn vào tư thế đứng nghiêng như khi giao bóng. Với bóng ở trên đầu, gập đầu gối, xoay hông và vai theo cách tương tự như khi giao bóng, và ném bóng lên trên ở góc khoảng 45 độ, càng xa càng tốt, vào tường hoặc cho người tập cùng.</p>
+<h3 id="3-bai-tap-bong-ta-cho-cu-vo-le"><strong>3. BÀI TẬP BÓNG TẠ CHO CÚ VÔ LÊ</strong><a class="headerlink" href="#3-bai-tap-bong-ta-cho-cu-vo-le" title="Permanent link">&para;</a></h3>
+<p>Chỉ cần chơi trò chuyền và bắt bóng với người tập cùng cũng sẽ giúp tăng cường các nhóm cơ vai và tay được sử dụng trong cú vô lê. Ném quả bóng tạ bằng động tác đẩy ngực, giữ khuỷu tay gần cơ thể, trong khi di chuyển ngang sân cùng người tập cùng. Tiếp theo, ném bóng bằng động tác đẩy ngực tương tự trong khi bước chân trái lên trước rồi đến chân phải khi bạn di chuyển ngang sân.</p>
+<p><img alt="" src="images/chuoi-dong-luc/img3.jpeg" /></p>
+<p><em>Các tay vợt cần nhanh nhẹn và linh hoạt trong di chuyển. Ở đây, Federer thực hiện một động tác uyển chuyển như múa ba lê để đánh cú vô lê trái tay cao này.</em></p>
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z"/></svg>
+  Back to top
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+    
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+    <div class="md-copyright__highlight">
+      © 2026 Henry Phạm Đức · Tennis Future Lab Research · All contents are for educational purpose.
+    </div>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      
+      <script id="__config" type="application/json">{"annotate": null, "base": "../../..", "features": ["navigation.tabs", "navigation.sections", "navigation.top", "navigation.path", "navigation.expand", "navigation.indexes", "navigation.prune", "navigation.prev_next", "navigation.footer", "search.highlight", "search.suggest", "alternate"], "search": "../../../assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+    
+    
+      <script src="../../../assets/javascripts/bundle.79ae519e.min.js"></script>
+      
+        <script src="../../../assets/js/extra.js"></script>
+      
+    
+  </body>
+</html>
